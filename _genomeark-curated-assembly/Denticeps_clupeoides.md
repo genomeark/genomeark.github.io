@@ -1,0 +1,1 @@
+../_genomeark/Denticeps_clupeoides.md

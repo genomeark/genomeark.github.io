@@ -1,0 +1,18 @@
+---
+layout: default
+title: GenomeArk
+---
+
+<h1 class="page-name">Incomplete Data</h1>
+
+<div class="posts">
+<article class="post">
+
+  {% assign sorted = site.genomeark-incomplete-data | sort: 'name' %}
+
+  {% for species in sorted %}
+    {% include species-listing.html species=species %}
+  {% endfor %}
+
+</article>
+</div>

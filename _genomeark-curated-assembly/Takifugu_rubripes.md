@@ -1,0 +1,1 @@
+../_genomeark/Takifugu_rubripes.md

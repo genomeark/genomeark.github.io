@@ -1,0 +1,1 @@
+../_genomeark/Geothlypis_trichas.md

@@ -1,0 +1,8 @@
+#  Update this file only if you want to show an older assembly.
+#  The code will now decide which one to display based on (in this order)
+#    the assembly listed in this file
+#    assembly_curated
+#    the latest assembly_*
+#
+#  One line per species, format 'Species_name     assembly_name'.
+#

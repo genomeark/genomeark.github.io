@@ -1,0 +1,1 @@
+../_genomeark/Cyclopterus_lumpus.md

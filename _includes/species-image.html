@@ -1,0 +1,9 @@
+
+{% assign image   = '/assets/images/no-image.jpg' %}
+{% assign license = 'No image' %}
+{% for file in site.static_files %}
+{% if file.basename == include.species_name %}
+  {% assign image   = file.path %}
+  {% assign license = site.data.image_licenses[include.species_name].license %}
+{% endif %}
+{% endfor %}

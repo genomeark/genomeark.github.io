@@ -1,0 +1,17 @@
+---
+layout: default
+title: GenomeArk
+---
+
+<h1 class="page-name">Curated Assemblies</h1>
+
+<div class="posts">
+<article class="post">
+  {% assign sorted = site.genomeark-curated-assembly | sort: 'name' %}
+
+  {% for species in sorted %}
+    {% include species-listing.html species=species %}
+  {% endfor %}
+
+</article>
+</div>

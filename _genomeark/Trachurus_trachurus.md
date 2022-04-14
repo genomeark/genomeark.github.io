@@ -1,0 +1,126 @@
+---
+alt1date: 2020-12-16
+alt1filesize: 235 MB
+alt1length: 818939194
+alt1n50ctg: 1547897
+alt1n50scf: 1610964
+alt1seq: https://s3.amazonaws.com/genomeark/species/Trachurus_trachurus/fTraTra1/assembly_curated/fTraTra1.alt.asm.20201216.fasta.gz
+alt1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 15 </td><td> 3.91 Mbp </td><td> 15 </td><td> 3.92 Mbp </td></tr>  <tr><td> 20 </td><td> 39 </td><td> 3.10 Mbp </td><td> 38 </td><td> 3.16 Mbp </td></tr>  <tr><td> 30 </td><td> 68 </td><td> 2.48 Mbp </td><td> 67 </td><td> 2.53 Mbp </td></tr>  <tr><td> 40 </td><td> 105 </td><td> 2.06 Mbp </td><td> 104 </td><td> 2.08 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 152 </td><td> 1.55 Mbp </td><td> 148 </td><td> 1.61 Mbp </td></tr>  <tr><td> 60 </td><td> 213 </td><td> 1.20 Mbp </td><td> 206 </td><td> 1.24 Mbp </td></tr>  <tr><td> 70 </td><td> 294 </td><td> 0.84 Mbp </td><td> 282 </td><td> 0.89 Mbp </td></tr>  <tr><td> 80 </td><td> 410 </td><td> 0.59 Mbp </td><td> 392 </td><td> 0.62 Mbp </td></tr>  <tr><td> 90 </td><td> 587 </td><td> 0.35 Mbp </td><td> 558 </td><td> 0.38 Mbp </td></tr>  <tr><td> 100 </td><td> 1259 </td><td> 742  bp </td><td> 1184 </td><td> 742  bp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1260 </th><th> 0.82 Gbp </th><th> 1185 </th><th> 0.82 Gbp </th></tr>
+  </tfoot>
+  </table>
+alt1version: assembly_curated
+assembly_status: <em style="color:green">curated assembly</em>
+bionano_scale: 0
+common_name: Atlantic horse mackerel
+data_10x_bases: 108.40 Gbp
+data_10x_bytes: 71.023 GB
+data_10x_coverage: 132.17x
+data_10x_files: 12
+data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/10x/ .<br>
+data_10x_scale: 1.4215
+data_arima_bases: 85.93 Gbp
+data_arima_bytes: 52.475 GB
+data_arima_coverage: 104.77x
+data_arima_files: 6
+data_arima_links: aws s3 --no-sign-request sync s3://genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/arima/ .<br>
+data_arima_scale: 1.5251
+data_dovetail_scale: 1
+data_illumina_scale: 1
+data_pbhifi_scale: 1
+data_pbhifisub_scale: 0
+data_pbsubreads_bases: 137.53 Gbp
+data_pbsubreads_bytes: 248.090 GB
+data_pbsubreads_coverage: 167.69x
+data_pbsubreads_files: 1
+data_pbsubreads_links: aws s3 --no-sign-request sync s3://genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/pacbio/ . --exclude "*ccs*bam*"<br>
+data_pbsubreads_scale: 0.5163
+data_phase_scale: 1
+data_status: <em style="color:orange">some data</em>
+genbank_alt: GCA_905171655.1
+genbank_pri: GCA_905171665.1
+genome_size: 820163303
+genome_size_display: 0.82 Gbp
+last_raw_data: 1576663199
+last_updated: 1608197281
+mito1date: 2019-10-03
+mito1filesize: 5 KB
+mito1length: 16561
+mito1n50ctg: 16561
+mito1n50scf: 16561
+mito1seq: https://s3.amazonaws.com/genomeark/species/Trachurus_trachurus/fTraTra1/assembly_MT_rockefeller/fTraTra1.MT.20191003.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td> 16.56 Kbp </td><td> 0 </td><td> 16.56 Kbp </td></tr>  <tr><td> 20 </td><td> 0 </td><td> 16.56 Kbp </td><td> 0 </td><td> 16.56 Kbp </td></tr>  <tr><td> 30 </td><td> 0 </td><td> 16.56 Kbp </td><td> 0 </td><td> 16.56 Kbp </td></tr>  <tr><td> 40 </td><td> 0 </td><td> 16.56 Kbp </td><td> 0 </td><td> 16.56 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;"> 16.56 Kbp </td><td> 0 </td><td style="background-color:#ff8888;"> 16.56 Kbp </td></tr>  <tr><td> 60 </td><td> 0 </td><td> 16.56 Kbp </td><td> 0 </td><td> 16.56 Kbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td> 16.56 Kbp </td><td> 0 </td><td> 16.56 Kbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td> 16.56 Kbp </td><td> 0 </td><td> 16.56 Kbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td> 16.56 Kbp </td><td> 0 </td><td> 16.56 Kbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td> 16.56 Kbp </td><td> 0 </td><td> 16.56 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.56 Kbp </th><th> 1 </th><th> 16.56 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
+name: Trachurus trachurus
+name_: Trachurus_trachurus
+pri1date: 2020-12-16
+pri1filesize: 235 MB
+pri1length: 820163303
+pri1n50ctg: 6264696
+pri1n50scf: 35447499
+pri1seq: https://s3.amazonaws.com/genomeark/species/Trachurus_trachurus/fTraTra1/assembly_curated/fTraTra1.pri.asm.20201216.fasta.gz
+pri1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 17.80 Mbp </td><td> 2 </td><td> 40.66 Mbp </td></tr>  <tr><td> 20 </td><td> 8 </td><td> 15.98 Mbp </td><td> 4 </td><td> 37.40 Mbp </td></tr>  <tr><td> 30 </td><td> 15 </td><td> 10.02 Mbp </td><td> 6 </td><td> 36.28 Mbp </td></tr>  <tr><td> 40 </td><td> 24 </td><td> 8.13 Mbp </td><td> 8 </td><td> 35.83 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 36 </td><td style="background-color:#88ff88;"> 6.26 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 35.45 Mbp </td></tr>  <tr><td> 60 </td><td> 50 </td><td> 5.23 Mbp </td><td> 13 </td><td> 33.39 Mbp </td></tr>  <tr><td> 70 </td><td> 68 </td><td> 4.00 Mbp </td><td> 15 </td><td> 31.05 Mbp </td></tr>  <tr><td> 80 </td><td> 91 </td><td> 3.02 Mbp </td><td> 18 </td><td> 29.25 Mbp </td></tr>  <tr><td> 90 </td><td> 128 </td><td> 1.63 Mbp </td><td> 21 </td><td> 25.35 Mbp </td></tr>  <tr><td> 100 </td><td> 453 </td><td> 11  bp </td><td> 218 </td><td> 9.80 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 454 </th><th> 0.82 Gbp </th><th> 219 </th><th> 0.82 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri1version: assembly_curated
+short_name: fTraTra
+taxon_id: 36212
+---

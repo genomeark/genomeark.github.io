@@ -1,0 +1,1 @@
+../_genomeark/Ciconia_maguari.md

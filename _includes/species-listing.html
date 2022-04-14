@@ -1,0 +1,30 @@
+{% assign species = include.species %}
+
+{% include species-image.html species_name=species.name_ %}
+
+<div class="species-listing" style="display:table;">
+	<div style="display:table-cell;width:1%;padding-bottom:6px;">
+	<a style="display:block;" href="{{ site.baseurl }}{{ species.url }}">
+
+  <div class="portrait-list" style="background-image:url({{ image }});"></div>
+
+	</a>
+	</div>
+	<div style="display:table-cell;padding-left: 10px;vertical-align: top;">
+    <h3 style="margin-bottom:0;}">
+      <a href="{{ site.baseurl }}{{ species.url }}"><i>{{ species.name }}</i></a>
+    </h3>
+    <div class="postBody">
+      {{ species.common_name }}
+      <ul class="link-list">
+      <li>{{ species.data_status }}
+      <li>{{ species.assembly_status }}
+      {% if species.mito1seq or species.mito2seq or species.mito3seq or species.mito4seq %}
+      <li><em style="color:green">mito assembly</em>
+      {% endif %}
+      </ul>
+      </ul>
+
+    </div>
+	</div>
+</div>
