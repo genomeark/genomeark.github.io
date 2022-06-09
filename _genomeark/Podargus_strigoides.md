@@ -45,19 +45,19 @@ data_pacbiohifi_bam_bases: 172.94 Gbp
 data_pacbiohifi_bam_bytes: 128.653 GB
 data_pacbiohifi_bam_coverage: 126.51x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2519
 data_pacbiohifi_clr_bases: 203.19 Gbp
 data_pacbiohifi_clr_bytes: 435.834 GB
 data_pacbiohifi_clr_coverage: 148.64x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.4342
 data_pacbiohifi_fqgz_bases: 37.87 Gbp
 data_pacbiohifi_fqgz_bytes: 28.228 GB
 data_pacbiohifi_fqgz_coverage: 27.70x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2495
 data_status: <em style="color:green">all data</em>
 genome_size: 1367000000

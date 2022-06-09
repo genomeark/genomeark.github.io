@@ -22,13 +22,13 @@ data_pacbiohifi_bam_bases: 91.93 Gbp
 data_pacbiohifi_bam_bytes: 76.939 GB
 data_pacbiohifi_bam_coverage: 30.64x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1128
 data_pacbiohifi_clr_bases: 1687.92 Gbp
 data_pacbiohifi_clr_bytes: 3041.206 GB
 data_pacbiohifi_clr_coverage: 562.64x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5169
 data_status: <em style="color:green">all data</em>
 genbank_mat: GCA_020826845.1

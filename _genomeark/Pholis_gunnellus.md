@@ -46,7 +46,7 @@ data_pacbiohifi_bam_bases: 41.02 Gbp
 data_pacbiohifi_bam_bytes: 33.614 GB
 data_pacbiohifi_bam_coverage: 69.68x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1365
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_910591705.2

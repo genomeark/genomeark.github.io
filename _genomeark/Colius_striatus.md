@@ -16,7 +16,7 @@ data_pacbiohifi_fqgz_bases: 41.57 Gbp
 data_pacbiohifi_fqgz_bytes: 34.566 GB
 data_pacbiohifi_fqgz_coverage: 28.91x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Colius_striatus/bColStr4/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Colius_striatus/bColStr4/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1200
 data_status: <em style="color:green">all data</em>
 genome_size: 1438000000

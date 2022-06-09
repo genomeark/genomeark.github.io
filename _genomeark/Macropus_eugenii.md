@@ -45,19 +45,19 @@ data_pacbiohifi_bam_bases: 76.08 Gbp
 data_pacbiohifi_bam_bytes: 227.014 GB
 data_pacbiohifi_bam_coverage: 25.36x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Macropus_eugenii/mMacEug1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Macropus_eugenii/mMacEug1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 0.3121
 data_pacbiohifi_clr_bases: 1050.86 Gbp
 data_pacbiohifi_clr_bytes: 2201.280 GB
 data_pacbiohifi_clr_coverage: 350.29x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Macropus_eugenii/mMacEug1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Macropus_eugenii/mMacEug1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.4446
 data_pacbiohifi_fqgz_bases: 91.20 Gbp
 data_pacbiohifi_fqgz_bytes: 69.295 GB
 data_pacbiohifi_fqgz_coverage: 30.40x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Macropus_eugenii/mMacEug1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Macropus_eugenii/mMacEug1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2257
 data_status: <em style="color:green">all data</em>
 genome_size: 3000000000

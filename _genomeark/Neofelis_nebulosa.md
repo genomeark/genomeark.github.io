@@ -45,19 +45,19 @@ data_pacbiohifi_bam_bases: 386.05 Gbp
 data_pacbiohifi_bam_bytes: 302.082 GB
 data_pacbiohifi_bam_coverage: 142.51x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1902
 data_pacbiohifi_clr_bases: 342.25 Gbp
 data_pacbiohifi_clr_bytes: 788.192 GB
 data_pacbiohifi_clr_coverage: 126.34x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.4044
 data_pacbiohifi_fqgz_bases: 87.23 Gbp
 data_pacbiohifi_fqgz_bytes: 68.271 GB
 data_pacbiohifi_fqgz_coverage: 32.20x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1899
 data_status: <em style="color:green">all data</em>
 genome_size: 2709000000

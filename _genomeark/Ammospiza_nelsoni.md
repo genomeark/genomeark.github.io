@@ -45,19 +45,19 @@ data_pacbiohifi_bam_bases: 194.05 Gbp
 data_pacbiohifi_bam_bytes: 153.260 GB
 data_pacbiohifi_bam_coverage: 149.27x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1792
 data_pacbiohifi_clr_bases: 262.84 Gbp
 data_pacbiohifi_clr_bytes: 563.506 GB
 data_pacbiohifi_clr_coverage: 202.18x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.4344
 data_pacbiohifi_fqgz_bases: 44.56 Gbp
 data_pacbiohifi_fqgz_bytes: 35.196 GB
 data_pacbiohifi_fqgz_coverage: 34.27x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1790
 data_status: <em style="color:green">all data</em>
 genome_size: 1300000000

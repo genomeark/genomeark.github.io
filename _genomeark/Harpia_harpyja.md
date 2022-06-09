@@ -45,13 +45,13 @@ data_pacbiohifi_bam_bases: 37.69 Gbp
 data_pacbiohifi_bam_bytes: 31.305 GB
 data_pacbiohifi_bam_coverage: 31.41x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1214
 data_pacbiohifi_clr_bases: 610.06 Gbp
 data_pacbiohifi_clr_bytes: 1096.417 GB
 data_pacbiohifi_clr_coverage: 508.38x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5182
 data_status: <em style="color:green">all data</em>
 genome_size: 1200000000

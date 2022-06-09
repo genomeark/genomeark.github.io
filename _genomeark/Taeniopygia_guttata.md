@@ -92,19 +92,19 @@ data_pacbiohifi_bam_bases: 101.65 Gbp
 data_pacbiohifi_bam_bytes: 76.019 GB
 data_pacbiohifi_bam_coverage: 98.15x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2453
 data_pacbiohifi_clr_bases: 485.63 Gbp
 data_pacbiohifi_clr_bytes: 903.838 GB
 data_pacbiohifi_clr_coverage: 468.93x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5004
 data_pacbiohifi_fqgz_bases: 40.13 Gbp
 data_pacbiohifi_fqgz_bytes: 30.566 GB
 data_pacbiohifi_fqgz_coverage: 38.75x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2228
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_003957525.2 GCA_009859025.1

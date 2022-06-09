@@ -45,19 +45,19 @@ data_pacbiohifi_bam_bases: 497.15 Gbp
 data_pacbiohifi_bam_bytes: 377.595 GB
 data_pacbiohifi_bam_coverage: 142.00x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2262
 data_pacbiohifi_clr_bases: 388.60 Gbp
 data_pacbiohifi_clr_bytes: 927.025 GB
 data_pacbiohifi_clr_coverage: 111.00x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.3904
 data_pacbiohifi_fqgz_bases: 110.73 Gbp
 data_pacbiohifi_fqgz_bytes: 84.127 GB
 data_pacbiohifi_fqgz_coverage: 31.63x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2258
 data_status: <em style="color:green">all data</em>
 genome_size: 3501000000

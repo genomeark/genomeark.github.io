@@ -28,7 +28,7 @@ data_pacbiohifi_bam_bases: 110.17 Gbp
 data_pacbiohifi_bam_bytes: 101.324 GB
 data_pacbiohifi_bam_coverage: 39.31x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Meles_meles/mMelMel3/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Meles_meles/mMelMel3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.0126
 data_status: <em style="color:green">all data</em>
 genbank_mat: GCA_922990625.1

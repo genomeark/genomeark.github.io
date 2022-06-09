@@ -45,13 +45,13 @@ data_pacbiohifi_bam_bases: 27.34 Gbp
 data_pacbiohifi_bam_bytes: 20.611 GB
 data_pacbiohifi_bam_coverage: 43.99x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2353
 data_pacbiohifi_clr_bases: 408.26 Gbp
 data_pacbiohifi_clr_bytes: 730.499 GB
 data_pacbiohifi_clr_coverage: 656.90x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5205
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_017976295.1

@@ -45,19 +45,19 @@ data_pacbiohifi_bam_bases: 337.17 Gbp
 data_pacbiohifi_bam_bytes: 279.447 GB
 data_pacbiohifi_bam_coverage: 139.56x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1237
 data_pacbiohifi_clr_bases: 490.52 Gbp
 data_pacbiohifi_clr_bytes: 1043.001 GB
 data_pacbiohifi_clr_coverage: 203.03x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.4380
 data_pacbiohifi_fqgz_bases: 79.92 Gbp
 data_pacbiohifi_fqgz_bytes: 66.235 GB
 data_pacbiohifi_fqgz_coverage: 33.08x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1237
 data_status: <em style="color:green">all data</em>
 genome_size: 2416000000

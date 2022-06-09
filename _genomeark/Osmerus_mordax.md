@@ -22,19 +22,19 @@ data_pacbiohifi_bam_bases: 104.64 Gbp
 data_pacbiohifi_bam_bytes: 86.707 GB
 data_pacbiohifi_bam_coverage: 155.02x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1239
 data_pacbiohifi_clr_bases: 238.17 Gbp
 data_pacbiohifi_clr_bytes: 485.377 GB
 data_pacbiohifi_clr_coverage: 352.85x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.4570
 data_pacbiohifi_fqgz_bases: 24.80 Gbp
 data_pacbiohifi_fqgz_bytes: 20.569 GB
 data_pacbiohifi_fqgz_coverage: 36.74x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1230
 data_status: <em style="color:green">all data</em>
 genome_size: 675000000

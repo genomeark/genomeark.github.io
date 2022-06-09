@@ -46,7 +46,7 @@ data_pacbiohifi_bam_bases: 36.05 Gbp
 data_pacbiohifi_bam_bytes: 31.331 GB
 data_pacbiohifi_bam_coverage: 46.08x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Thunnus_maccoyii/fThuMac1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Thunnus_maccoyii/fThuMac1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.0717
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_910596085.1

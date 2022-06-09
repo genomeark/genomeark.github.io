@@ -10,19 +10,19 @@ data_pacbiohifi_bam_bases: 501.59 Gbp
 data_pacbiohifi_bam_bytes: 403.232 GB
 data_pacbiohifi_bam_coverage: 162.80x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1585
 data_pacbiohifi_clr_bases: 382.26 Gbp
 data_pacbiohifi_clr_bytes: 915.428 GB
 data_pacbiohifi_clr_coverage: 124.07x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.3889
 data_pacbiohifi_fqgz_bases: 116.44 Gbp
 data_pacbiohifi_fqgz_bytes: 93.779 GB
 data_pacbiohifi_fqgz_coverage: 37.79x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1564
 data_status: <em style="color:green">all data</em>
 genome_size: 3081000000

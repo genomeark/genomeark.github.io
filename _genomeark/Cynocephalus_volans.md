@@ -40,19 +40,19 @@ data_pacbiohifi_bam_bases: 379.04 Gbp
 data_pacbiohifi_bam_bytes: 385.046 GB
 data_pacbiohifi_bam_coverage: 106.65x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 0.9168
 data_pacbiohifi_clr_bases: 352.06 Gbp
 data_pacbiohifi_clr_bytes: 860.810 GB
 data_pacbiohifi_clr_coverage: 99.06x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.3809
 data_pacbiohifi_fqgz_bases: 113.11 Gbp
 data_pacbiohifi_fqgz_bytes: 86.510 GB
 data_pacbiohifi_fqgz_coverage: 31.83x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2177
 data_status: <em style="color:green">all data</em>
 genome_size: 3554000000

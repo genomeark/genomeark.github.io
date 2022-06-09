@@ -45,19 +45,19 @@ data_pacbiohifi_bam_bases: 34.66 Gbp
 data_pacbiohifi_bam_bytes: 29.632 GB
 data_pacbiohifi_bam_coverage: 28.88x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Corvus_hawaiiensis/bCorHaw1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Corvus_hawaiiensis/bCorHaw1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.0892
 data_pacbiohifi_clr_bases: 758.31 Gbp
 data_pacbiohifi_clr_bytes: 1349.575 GB
 data_pacbiohifi_clr_coverage: 631.93x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Corvus_hawaiiensis/bCorHaw1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Corvus_hawaiiensis/bCorHaw1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5233
 data_pacbiohifi_fqgz_bases: 18.40 Gbp
 data_pacbiohifi_fqgz_bytes: 16.980 GB
 data_pacbiohifi_fqgz_coverage: 15.33x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Corvus_hawaiiensis/bCorHaw1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Corvus_hawaiiensis/bCorHaw1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.0090
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_020740675.1

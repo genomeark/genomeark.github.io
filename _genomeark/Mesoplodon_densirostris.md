@@ -39,19 +39,19 @@ data_pacbiohifi_bam_bases: 228.32 Gbp
 data_pacbiohifi_bam_bytes: 385.982 GB
 data_pacbiohifi_bam_coverage: 67.61x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 0.5509
 data_pacbiohifi_clr_bases: 398.80 Gbp
 data_pacbiohifi_clr_bytes: 932.029 GB
 data_pacbiohifi_clr_coverage: 118.09x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.3985
 data_pacbiohifi_fqgz_bases: 113.63 Gbp
 data_pacbiohifi_fqgz_bytes: 87.774 GB
 data_pacbiohifi_fqgz_coverage: 33.65x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2057
 data_status: <em style="color:green">all data</em>
 genome_size: 3377000000

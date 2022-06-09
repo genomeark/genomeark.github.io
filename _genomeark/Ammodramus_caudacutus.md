@@ -45,19 +45,19 @@ data_pacbiohifi_bam_bases: 208.15 Gbp
 data_pacbiohifi_bam_bytes: 151.992 GB
 data_pacbiohifi_bam_coverage: 159.38x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2754
 data_pacbiohifi_clr_bases: 250.65 Gbp
 data_pacbiohifi_clr_bytes: 540.240 GB
 data_pacbiohifi_clr_coverage: 191.92x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.4321
 data_pacbiohifi_fqgz_bases: 44.64 Gbp
 data_pacbiohifi_fqgz_bytes: 32.625 GB
 data_pacbiohifi_fqgz_coverage: 34.18x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2743
 data_status: <em style="color:green">all data</em>
 genome_size: 1306000000

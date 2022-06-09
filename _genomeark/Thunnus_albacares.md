@@ -46,7 +46,7 @@ data_pacbiohifi_bam_bases: 44.24 Gbp
 data_pacbiohifi_bam_bytes: 156.712 GB
 data_pacbiohifi_bam_coverage: 55.85x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 0.2629
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_914744365.1

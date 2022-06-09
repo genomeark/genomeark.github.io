@@ -57,7 +57,7 @@ data_pacbiohifi_bam_bases: 32.28 Gbp
 data_pacbiohifi_bam_bytes: 21.885 GB
 data_pacbiohifi_bam_coverage: 13.61x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Salmo_trutta/fSalTru1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Salmo_trutta/fSalTru1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.3739
 data_status: <em style="color:green">all data</em>
 genbank_pri: GCA_901001165.2

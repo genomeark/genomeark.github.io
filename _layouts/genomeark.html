@@ -211,20 +211,28 @@ layout: default
 <tr><td  class="label">Illumina</td><td>{{ page.data_illumina_bases }}</td><td>{{ page.data_illumina_coverage }}</td><td>{{ page.data_illumina_bytes }}</td></tr>
 {% endif %}
 
-{% if page.data_pbscraps_bytes.size > 0 %}
-<tr><td  class="label">PacBio Scraps</td><td>{{ page.data_pbscraps_bases }}</td><td>{{ page.data_pbscraps_coverage }}</td><td>{{ page.data_pbscraps_bytes }}</td></tr>
+{% if page.data_ont_bytes.size > 0 %}
+<tr><td  class="label">Oxford Nanopore Simplex</td><td>{{ page.data_ont_bases }}</td><td>{{ page.data_ont_coverage }}</td><td>{{ page.data_ont_bytes }}</td></tr>
 {% endif %}
 
-{% if page.data_pbsubreads_bytes.size > 0 %}
-<tr><td  class="label">PacBio SubReads</td><td>{{ page.data_pbsubreads_bases }}</td><td>{{ page.data_pbsubreads_coverage }}</td><td>{{ page.data_pbsubreads_bytes }}</td></tr>
+{% if page.data_ontduplex_bytes.size > 0 %}
+<tr><td  class="label">Oxford Nanopore Duplex</td><td>{{ page.data_ontduplex_bases }}</td><td>{{ page.data_ontduplex_coverage }}</td><td>{{ page.data_ontduplex_bytes }}</td></tr>
 {% endif %}
 
-{% if page.data_pbhifi_bytes.size > 0 %}
-<tr><td  class="label">PacBio HiFi</td><td>{{ page.data_pbhifi_bases }}</td><td>{{ page.data_pbhifi_coverage }}</td><td>{{ page.data_pbhifi_bytes }}</td></tr>
+{% if page.data_pacbio_bytes.size > 0 %}
+<tr><td  class="label">PacBio CLR</td><td>{{ page.data_pacbio_bases }}</td><td>{{ page.data_pacbio_coverage }}</td><td>{{ page.data_pacbio_bytes }}</td></tr>
 {% endif %}
 
-{% if page.data_pbhifisub_bytes.size > 0 %}
-<tr><td  class="label">PacBio SubReads (HiFi)</td><td>{{ page.data_pbhifisub_bases }}</td><td>{{ page.data_pbhifisub_coverage }}</td><td>{{ page.data_pbhifisub_bytes }}</td></tr>
+{% if page.data_pacbiohifi_fqgz_bytes.size > 0 %}
+<tr><td  class="label">PacBio HiFi (Q20)</td><td>{{ page.data_pacbiohifi_fqgz_bases }}</td><td>{{ page.data_pacbiohifi_fqgz_coverage }}</td><td>{{ page.data_pacbiohifi_fqgz_bytes }}</td></tr>
+{% endif %}
+
+{% if page.data_pacbiohifi_bam_bytes.size > 0 %}
+<tr><td  class="label">PacBio HiFi (all)</td><td>{{ page.data_pacbiohifi_bam_bases }}</td><td>{{ page.data_pacbiohifi_bam_coverage }}</td><td>{{ page.data_pacbiohifi_bam_bytes }}</td></tr>
+{% endif %}
+
+{% if page.data_pacbiohifi_clr_bytes.size > 0 %}
+<tr><td  class="label">PacBio HiFi (subreads)</td><td>{{ page.data_pacbiohifi_clr_bases }}</td><td>{{ page.data_pacbiohifi_clr_coverage }}</td><td>{{ page.data_pacbiohifi_clr_bytes }}</td></tr>
 {% endif %}
 
 {% if page.data_phase_bytes.size > 0 %}
@@ -269,16 +277,28 @@ Download each datatype using the <A HREF="https://docs.aws.amazon.com/cli/latest
 {{ page.data_illumina_links }}
 {% endif %}
 
-{% if page.data_pbscraps_links %}
-{{ page.data_pbscraps_links }}
+{% if page.data_ont_links %}
+{{ page.data_ont_links }}
 {% endif %}
 
-{% if page.data_pbsubreads_links %}
-{{ page.data_pbsubreads_links }}
+{% if page.data_ontduplex_links %}
+{{ page.data_ontduplex_links }}
 {% endif %}
 
-{% if page.data_pbhifi_links %}
-{{ page.data_pbhifi_links }}
+{% if page.data_pacbio_links %}
+{{ page.data_pacbio_links }}
+{% endif %}
+
+{% if page.data_pacbiohifi_fqgz_links %}
+{{ page.data_pacbiohifi_fqgz_links }}
+{% endif %}
+
+{% if page.data_pacbiohifi_bam_links %}
+{{ page.data_pacbiohifi_bam_links }}
+{% endif %}
+
+{% if page.data_pacbiohifi_clr_links %}
+{{ page.data_pacbiohifi_clr_links }}
 {% endif %}
 
 {% if page.data_phase_links %}

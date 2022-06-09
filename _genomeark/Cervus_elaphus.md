@@ -46,7 +46,7 @@ data_pacbiohifi_bam_bases: 96.28 Gbp
 data_pacbiohifi_bam_bytes: 82.448 GB
 data_pacbiohifi_bam_coverage: 33.35x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.0876
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_910593805.1

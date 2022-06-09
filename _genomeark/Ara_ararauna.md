@@ -16,7 +16,7 @@ data_pacbiohifi_fqgz_bases: 54.99 Gbp
 data_pacbiohifi_fqgz_bytes: 41.170 GB
 data_pacbiohifi_fqgz_coverage: 38.95x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Ara_ararauna/bAraAra1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Ara_ararauna/bAraAra1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2440
 data_status: <em style="color:green">all data</em>
 genome_size: 1412000000

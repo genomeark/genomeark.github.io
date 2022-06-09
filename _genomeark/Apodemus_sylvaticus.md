@@ -17,7 +17,7 @@ data_pacbiohifi_bam_bases: N/A
 data_pacbiohifi_bam_bytes: 197.923 GB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Apodemus_sylvaticus/mApoSyl1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Apodemus_sylvaticus/mApoSyl1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 0.2558
 data_status: <em style="color:green">all data</em>
 genome_size: 0

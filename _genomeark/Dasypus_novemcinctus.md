@@ -16,7 +16,7 @@ data_pacbiohifi_fqgz_bases: 89.90 Gbp
 data_pacbiohifi_fqgz_bytes: 74.394 GB
 data_pacbiohifi_fqgz_coverage: 16.99x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1255
 data_status: <em style="color:green">all data</em>
 genome_size: 5291000000

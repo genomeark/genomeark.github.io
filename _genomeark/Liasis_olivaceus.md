@@ -10,7 +10,7 @@ data_pacbiohifi_fqgz_bases: 56.08 Gbp
 data_pacbiohifi_fqgz_bytes: 44.668 GB
 data_pacbiohifi_fqgz_coverage: 33.48x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1692
 data_status: <em style="color:green">all data</em>
 genome_size: 1675000000

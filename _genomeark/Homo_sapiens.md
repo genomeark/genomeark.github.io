@@ -34,7 +34,7 @@ data_pacbiohifi_bam_bases: 195.90 Gbp
 data_pacbiohifi_bam_bytes: 148.849 GB
 data_pacbiohifi_bam_coverage: 61.22x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/pacbiohifi_bam/<br>s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/pacbiohifi_bam/<br>s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/pacbio_hifi/<br>s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/pacbio_hifi/<br>s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2257
 data_status: <em style="color:green">all data</em>
 genbank_mat: GCA_016695395.2

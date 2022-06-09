@@ -22,13 +22,13 @@ data_pacbiohifi_bam_bases: 43.98 Gbp
 data_pacbiohifi_bam_bytes: 36.476 GB
 data_pacbiohifi_bam_coverage: 36.65x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1230
 data_pacbiohifi_clr_bases: 774.32 Gbp
 data_pacbiohifi_clr_bytes: 1401.360 GB
 data_pacbiohifi_clr_coverage: 645.26x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5146
 data_status: <em style="color:green">all data</em>
 genbank_pat: GCA_020801775.1

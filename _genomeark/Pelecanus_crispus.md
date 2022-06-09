@@ -10,13 +10,13 @@ data_pacbiohifi_bam_bases: N/A
 data_pacbiohifi_bam_bytes: 24.789 GB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Pelecanus_crispus/bPelCri1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Pelecanus_crispus/bPelCri1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2450
 data_pacbiohifi_clr_bases: N/A
 data_pacbiohifi_clr_bytes: 887.411 GB
 data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Pelecanus_crispus/bPelCri1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Pelecanus_crispus/bPelCri1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5189
 data_status: <em style="color:green">all data</em>
 genome_size: 0

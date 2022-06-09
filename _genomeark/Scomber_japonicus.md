@@ -40,19 +40,19 @@ data_pacbiohifi_bam_bases: 81.38 Gbp
 data_pacbiohifi_bam_bytes: 57.469 GB
 data_pacbiohifi_bam_coverage: 90.42x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.3188
 data_pacbiohifi_clr_bases: 706.59 Gbp
 data_pacbiohifi_clr_bytes: 1282.282 GB
 data_pacbiohifi_clr_coverage: 785.10x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5132
 data_pacbiohifi_fqgz_bases: 44.27 Gbp
 data_pacbiohifi_fqgz_bytes: 30.296 GB
 data_pacbiohifi_fqgz_coverage: 49.19x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.3609
 data_status: <em style="color:green">all data</em>
 genome_size: 900000000

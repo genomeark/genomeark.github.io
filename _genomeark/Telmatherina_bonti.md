@@ -33,7 +33,7 @@ data_pacbiohifi_bam_bases: 33.84 Gbp
 data_pacbiohifi_bam_bytes: 22.791 GB
 data_pacbiohifi_bam_coverage: 34.32x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Telmatherina_bonti/fTelBon1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Telmatherina_bonti/fTelBon1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.3830
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_933228925.1

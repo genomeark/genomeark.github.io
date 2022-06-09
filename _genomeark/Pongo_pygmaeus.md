@@ -11,13 +11,13 @@ data_pacbiohifi_clr_bases: 3482.61 Gbp
 data_pacbiohifi_clr_bytes: 6527.331 GB
 data_pacbiohifi_clr_coverage: 972.94x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.4969
 data_pacbiohifi_fqgz_bases: 190.78 Gbp
 data_pacbiohifi_fqgz_bytes: 162.057 GB
 data_pacbiohifi_fqgz_coverage: 53.30x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.0964
 data_status: <em style="color:green">all data</em>
 genome_size: 3579480000

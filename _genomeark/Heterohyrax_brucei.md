@@ -45,13 +45,13 @@ data_pacbiohifi_bam_bases: 122.23 Gbp
 data_pacbiohifi_bam_bytes: 80.859 GB
 data_pacbiohifi_bam_coverage: 35.04x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.4078
 data_pacbiohifi_clr_bases: 2178.83 Gbp
 data_pacbiohifi_clr_bytes: 3803.544 GB
 data_pacbiohifi_clr_coverage: 624.66x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5335
 data_status: <em style="color:green">all data</em>
 genome_size: 3488016507

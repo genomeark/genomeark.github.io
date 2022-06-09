@@ -28,13 +28,13 @@ data_pacbiohifi_clr_bases: 3800.22 Gbp
 data_pacbiohifi_clr_bytes: 6849.690 GB
 data_pacbiohifi_clr_coverage: 1051.61x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5167
 data_pacbiohifi_fqgz_bases: 214.62 Gbp
 data_pacbiohifi_fqgz_bytes: 157.671 GB
 data_pacbiohifi_fqgz_coverage: 59.39x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2677
 data_status: <em style="color:green">all data</em>
 genome_size: 3613710000

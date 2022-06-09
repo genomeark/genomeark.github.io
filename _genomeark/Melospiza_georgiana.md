@@ -45,19 +45,19 @@ data_pacbiohifi_bam_bases: 206.19 Gbp
 data_pacbiohifi_bam_bytes: 157.157 GB
 data_pacbiohifi_bam_coverage: 141.52x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Melospiza_georgiana/bMelGeo1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Melospiza_georgiana/bMelGeo1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2219
 data_pacbiohifi_clr_bases: 333.93 Gbp
 data_pacbiohifi_clr_bytes: 678.735 GB
 data_pacbiohifi_clr_coverage: 229.19x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Melospiza_georgiana/bMelGeo1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Melospiza_georgiana/bMelGeo1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.4582
 data_pacbiohifi_fqgz_bases: 46.01 Gbp
 data_pacbiohifi_fqgz_bytes: 35.072 GB
 data_pacbiohifi_fqgz_coverage: 31.58x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Melospiza_georgiana/bMelGeo1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Melospiza_georgiana/bMelGeo1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2218
 data_status: <em style="color:green">all data</em>
 genome_size: 1457000000

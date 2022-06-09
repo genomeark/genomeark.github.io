@@ -45,19 +45,19 @@ data_pacbiohifi_bam_bases: 200.73 Gbp
 data_pacbiohifi_bam_bytes: 144.977 GB
 data_pacbiohifi_bam_coverage: 166.17x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2895
 data_pacbiohifi_clr_bases: 112.15 Gbp
 data_pacbiohifi_clr_bytes: 277.855 GB
 data_pacbiohifi_clr_coverage: 92.84x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.3759
 data_pacbiohifi_fqgz_bases: 42.82 Gbp
 data_pacbiohifi_fqgz_bytes: 30.976 GB
 data_pacbiohifi_fqgz_coverage: 35.45x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2874
 data_status: <em style="color:green">all data</em>
 genome_size: 1208000000

@@ -45,13 +45,13 @@ data_pacbiohifi_bam_bases: 18.28 Gbp
 data_pacbiohifi_bam_bytes: 12.331 GB
 data_pacbiohifi_bam_coverage: 23.90x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.3808
 data_pacbiohifi_clr_bases: 315.70 Gbp
 data_pacbiohifi_clr_bytes: 565.963 GB
 data_pacbiohifi_clr_coverage: 412.69x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5195
 data_status: <em style="color:green">all data</em>
 genome_size: 764974446

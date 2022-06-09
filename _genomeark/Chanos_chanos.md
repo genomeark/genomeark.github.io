@@ -57,7 +57,7 @@ data_pacbiohifi_bam_bases: 18.65 Gbp
 data_pacbiohifi_bam_bytes: 14.427 GB
 data_pacbiohifi_bam_coverage: 28.40x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2042
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_902362175.1

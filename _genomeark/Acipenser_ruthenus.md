@@ -28,13 +28,13 @@ data_pacbiohifi_bam_bases: N/A
 data_pacbiohifi_bam_bytes: 74.553 GB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.3679
 data_pacbiohifi_clr_bases: N/A
 data_pacbiohifi_clr_bytes: 636.692 GB
 data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.4189
 data_status: <em style="color:green">all data</em>
 genbank_mat: GCA_902713425.1

@@ -92,19 +92,19 @@ data_pacbiohifi_bam_bases: 39.38 Gbp
 data_pacbiohifi_bam_bytes: 33.672 GB
 data_pacbiohifi_bam_coverage: 32.55x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.0892
 data_pacbiohifi_clr_bases: 1521.69 Gbp
 data_pacbiohifi_clr_bytes: 2760.926 GB
 data_pacbiohifi_clr_coverage: 1257.59x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/pacbiohifi_clr/<br>s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/pacbio_hifi/<br>s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5133
 data_pacbiohifi_fqgz_bases: 45.73 Gbp
 data_pacbiohifi_fqgz_bytes: 33.784 GB
 data_pacbiohifi_fqgz_coverage: 37.79x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2606
 data_status: <em style="color:green">all data</em>
 genbank_mat: GCA_016699485.1

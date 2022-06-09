@@ -34,7 +34,7 @@ data_pacbiohifi_bam_bases: 98.13 Gbp
 data_pacbiohifi_bam_bytes: 64.999 GB
 data_pacbiohifi_bam_coverage: 37.07x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Orcinus_orca/mOrcOrc1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Orcinus_orca/mOrcOrc1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.4061
 data_status: <em style="color:green">all data</em>
 genome_size: 2647351467

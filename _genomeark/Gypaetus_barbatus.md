@@ -45,13 +45,13 @@ data_pacbiohifi_clr_bases: 198.56 Gbp
 data_pacbiohifi_clr_bytes: 445.714 GB
 data_pacbiohifi_clr_coverage: 138.47x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.4149
 data_pacbiohifi_fqgz_bases: 39.17 Gbp
 data_pacbiohifi_fqgz_bytes: 32.598 GB
 data_pacbiohifi_fqgz_coverage: 27.32x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1192
 data_status: <em style="color:green">all data</em>
 genome_size: 1434000000

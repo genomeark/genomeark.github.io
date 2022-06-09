@@ -57,13 +57,13 @@ data_pacbiohifi_bam_bases: 68.69 Gbp
 data_pacbiohifi_bam_bytes: 56.511 GB
 data_pacbiohifi_bam_coverage: 20.82x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Lemur_catta/mLemCat1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Lemur_catta/mLemCat1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1321
 data_pacbiohifi_clr_bases: 1196.11 Gbp
 data_pacbiohifi_clr_bytes: 2137.311 GB
 data_pacbiohifi_clr_coverage: 362.46x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Lemur_catta/mLemCat1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Lemur_catta/mLemCat1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5212
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_020740595.1

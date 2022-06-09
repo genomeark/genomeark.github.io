@@ -45,19 +45,19 @@ data_pacbiohifi_bam_bases: 647.07 Gbp
 data_pacbiohifi_bam_bytes: 519.782 GB
 data_pacbiohifi_bam_coverage: 140.91x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Monodelphis_domestica/mMonDom1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Monodelphis_domestica/mMonDom1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1594
 data_pacbiohifi_clr_bases: 595.21 Gbp
 data_pacbiohifi_clr_bytes: 1384.451 GB
 data_pacbiohifi_clr_coverage: 129.62x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Monodelphis_domestica/mMonDom1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Monodelphis_domestica/mMonDom1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.4004
 data_pacbiohifi_fqgz_bases: 151.07 Gbp
 data_pacbiohifi_fqgz_bytes: 121.404 GB
 data_pacbiohifi_fqgz_coverage: 32.90x
 data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Monodelphis_domestica/mMonDom1/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Monodelphis_domestica/mMonDom1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1589
 data_status: <em style="color:green">all data</em>
 genome_size: 4592000000

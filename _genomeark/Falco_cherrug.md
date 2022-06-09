@@ -45,13 +45,13 @@ data_pacbiohifi_bam_bases: 34.88 Gbp
 data_pacbiohifi_bam_bytes: 27.447 GB
 data_pacbiohifi_bam_coverage: 24.56x
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1836
 data_pacbiohifi_clr_bases: 597.65 Gbp
 data_pacbiohifi_clr_bytes: 1077.435 GB
 data_pacbiohifi_clr_coverage: 420.88x
 data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5166
 data_status: <em style="color:green">all data</em>
 genome_size: 1420000000

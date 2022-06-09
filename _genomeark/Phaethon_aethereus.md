@@ -17,7 +17,7 @@ data_pacbiohifi_bam_bases: N/A
 data_pacbiohifi_bam_bytes: 0.020 GB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Phaethon_aethereus/bPhaAeh3/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_links: s3://genomeark/species/Phaethon_aethereus/bPhaAeh3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.6617
 data_status: <em style="color:green">all data</em>
 genome_size: 0
