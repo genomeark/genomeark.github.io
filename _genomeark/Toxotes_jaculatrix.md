@@ -1,6 +1,6 @@
 ---
 alt2date: 2021-03-05
-alt2filesize: 166 MB
+alt2filesize: 166 MiB
 alt2length: 594660453
 alt2n50ctg: 493489
 alt2n50scf: 493489
@@ -22,52 +22,48 @@ alt2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 31 </td><td> 1.28 Mbp </td><td> 31 </td><td> 1.28 Mbp </td></tr>  <tr><td> 20 </td><td> 88 </td><td> 0.94 Mbp </td><td> 88 </td><td> 0.94 Mbp </td></tr>  <tr><td> 30 </td><td> 157 </td><td> 0.77 Mbp </td><td> 157 </td><td> 0.77 Mbp </td></tr>  <tr><td> 40 </td><td> 244 </td><td> 0.62 Mbp </td><td> 244 </td><td> 0.62 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 350 </td><td> 0.49 Mbp </td><td> 350 </td><td> 0.49 Mbp </td></tr>  <tr><td> 60 </td><td> 485 </td><td> 0.40 Mbp </td><td> 485 </td><td> 0.40 Mbp </td></tr>  <tr><td> 70 </td><td> 656 </td><td> 0.30 Mbp </td><td> 656 </td><td> 0.30 Mbp </td></tr>  <tr><td> 80 </td><td> 899 </td><td> 0.20 Mbp </td><td> 899 </td><td> 0.20 Mbp </td></tr>  <tr><td> 90 </td><td> 1282 </td><td> 0.11 Mbp </td><td> 1282 </td><td> 0.11 Mbp </td></tr>  <tr><td> 100 </td><td> 2394 </td><td> 4.29 Kbp </td><td> 2392 </td><td> 10.08 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 31 </td><td> 1.28 Mbp </td><td> 31 </td><td> 1.28 Mbp </td></tr>  <tr><td> 20 </td><td> 88 </td><td> 0.94 Mbp </td><td> 88 </td><td> 0.94 Mbp </td></tr>  <tr><td> 30 </td><td> 157 </td><td> 0.77 Mbp </td><td> 157 </td><td> 0.77 Mbp </td></tr>  <tr><td> 40 </td><td> 244 </td><td> 0.62 Mbp </td><td> 244 </td><td> 0.62 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 350 </td><td> 493.49 Kbp </td><td> 350 </td><td> 493.49 Kbp </td></tr>  <tr><td> 60 </td><td> 485 </td><td> 396.27 Kbp </td><td> 485 </td><td> 396.27 Kbp </td></tr>  <tr><td> 70 </td><td> 656 </td><td> 296.70 Kbp </td><td> 656 </td><td> 296.70 Kbp </td></tr>  <tr><td> 80 </td><td> 899 </td><td> 203.02 Kbp </td><td> 899 </td><td> 203.02 Kbp </td></tr>  <tr><td> 90 </td><td> 1282 </td><td> 111.36 Kbp </td><td> 1282 </td><td> 111.36 Kbp </td></tr>  <tr><td> 100 </td><td> 2394 </td><td> 4.29 Kbp </td><td> 2392 </td><td> 10.08 Kbp </td></tr>  </tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 2395 </th><th> 0.59 Gbp </th><th> 2393 </th><th> 0.59 Gbp </th></tr>
   </tfoot>
   </table>
 alt2version: assembly_curated
 assembly_status: <em style="color:green">curated assembly</em>
-bionano_scale: 0
 common_name: banded archerfish
-data_10x_scale: 1
-data_arima_bases: 43.51 Gbp
+data_arima_bases: 44.32 Gbp
 data_arima_bytes: 20.776 GB
-data_arima_coverage: 70.01x
-data_arima_files: 2
-data_arima_links: aws s3 --no-sign-request sync s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/arima/ .<br>
-data_arima_scale: 1.9504
-data_bionano_bases: 943.99 Gbp
+data_arima_coverage: 71.30x
+data_arima_files: 666
+data_arima_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/arima/<br>
+data_arima_scale: 1.9865
+data_bionano_bases: N/A
 data_bionano_bytes: 1.309 GB
-data_bionano_coverage: 1518.88x
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/bionano/ .<br>
-data_dovetail_scale: 1
-data_illumina_scale: 1
-data_pbhifi_bases: 116.93 Gbp
-data_pbhifi_bytes: 59.441 GB
-data_pbhifi_coverage: 188.14x
-data_pbhifi_files: 4
-data_pbhifi_links: aws s3 --no-sign-request sync s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio/ . --exclude "*subreads.bam*"<br>
-data_pbhifi_scale: 1.8321
-data_pbhifisub_bases: N/A
-data_pbhifisub_bytes: 730.499 GB
-data_pbhifisub_coverage: N/A
-data_pbhifisub_files: 2
-data_pbhifisub_scale: 0
-data_pbsubreads_scale: 1
-data_phase_scale: 1
-data_status: <em style="color:orange">some data</em>
+data_bionano_coverage: N/A
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/bionano/<br>
+data_pacbiohifi_bam_bases: 27.34 Gbp
+data_pacbiohifi_bam_bytes: 20.611 GB
+data_pacbiohifi_bam_coverage: 43.99x
+data_pacbiohifi_bam_files: 666
+data_pacbiohifi_bam_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_scale: 1.2353
+data_pacbiohifi_clr_bases: 408.26 Gbp
+data_pacbiohifi_clr_bytes: 730.499 GB
+data_pacbiohifi_clr_coverage: 656.90x
+data_pacbiohifi_clr_files: 666
+data_pacbiohifi_clr_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_scale: 0.5205
+data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_017976295.1
 genbank_pri: GCA_017976425.1
 genome_size: 621503431
 genome_size_display: 0.62 Gbp
-last_raw_data: 1620305302
-last_updated: 1620307792
+last_raw_data: 1651601087
+last_updated: 1651601087
 name: Toxotes jaculatrix
 name_: Toxotes_jaculatrix
 pri2date: 2021-03-05
-pri2filesize: 171 MB
+pri2filesize: 171 MiB
 pri2length: 621503431
 pri2n50ctg: 15555772
 pri2n50scf: 26859436

@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-03-12
-alt1filesize: 221 MB
+alt1filesize: 221 MiB
 alt1length: 764404102
 alt1n50ctg: 411984
 alt1n50scf: 412532
@@ -22,43 +22,37 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 46 </td><td> 1.28 Mbp </td><td> 45 </td><td> 1.31 Mbp </td></tr>  <tr><td> 20 </td><td> 117 </td><td> 0.91 Mbp </td><td> 115 </td><td> 0.93 Mbp </td></tr>  <tr><td> 30 </td><td> 212 </td><td> 0.71 Mbp </td><td> 209 </td><td> 0.72 Mbp </td></tr>  <tr><td> 40 </td><td> 334 </td><td> 0.55 Mbp </td><td> 331 </td><td> 0.55 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 496 </td><td> 0.41 Mbp </td><td> 492 </td><td> 0.41 Mbp </td></tr>  <tr><td> 60 </td><td> 712 </td><td> 0.31 Mbp </td><td> 708 </td><td> 0.31 Mbp </td></tr>  <tr><td> 70 </td><td> 1000 </td><td> 0.23 Mbp </td><td> 994 </td><td> 0.23 Mbp </td></tr>  <tr><td> 80 </td><td> 1395 </td><td> 0.16 Mbp </td><td> 1387 </td><td> 0.16 Mbp </td></tr>  <tr><td> 90 </td><td> 1966 </td><td> 0.11 Mbp </td><td> 1952 </td><td> 0.11 Mbp </td></tr>  <tr><td> 100 </td><td> 3238 </td><td> 420  bp </td><td> 3193 </td><td> 485  bp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 46 </td><td> 1.28 Mbp </td><td> 45 </td><td> 1.31 Mbp </td></tr>  <tr><td> 20 </td><td> 117 </td><td> 0.91 Mbp </td><td> 115 </td><td> 0.93 Mbp </td></tr>  <tr><td> 30 </td><td> 212 </td><td> 0.71 Mbp </td><td> 209 </td><td> 0.72 Mbp </td></tr>  <tr><td> 40 </td><td> 334 </td><td> 0.55 Mbp </td><td> 331 </td><td> 0.55 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 496 </td><td> 411.98 Kbp </td><td> 492 </td><td> 412.53 Kbp </td></tr>  <tr><td> 60 </td><td> 712 </td><td> 307.95 Kbp </td><td> 708 </td><td> 309.46 Kbp </td></tr>  <tr><td> 70 </td><td> 1000 </td><td> 230.82 Kbp </td><td> 994 </td><td> 232.70 Kbp </td></tr>  <tr><td> 80 </td><td> 1395 </td><td> 163.85 Kbp </td><td> 1387 </td><td> 164.84 Kbp </td></tr>  <tr><td> 90 </td><td> 1966 </td><td> 108.35 Kbp </td><td> 1952 </td><td> 109.30 Kbp </td></tr>  <tr><td> 100 </td><td> 3238 </td><td> 420  bp </td><td> 3193 </td><td> 485  bp </td></tr>  </tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 3239 </th><th> 0.76 Gbp </th><th> 3194 </th><th> 0.76 Gbp </th></tr>
   </tfoot>
   </table>
 alt1version: assembly_curated
 assembly_status: <em style="color:green">curated assembly</em>
-bionano_scale: 0
 common_name: Boeseman's rainbowfish
-data_10x_bases: 119.96 Gbp
+data_10x_bases: 120.92 Gbp
 data_10x_bytes: 59.239 GB
-data_10x_coverage: 138.59x
-data_10x_files: 8
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Melanotaenia_boesemani/fMelBoe1/genomic_data/10x/ .<br>
-data_10x_scale: 1.886
-data_arima_bases: 106.55 Gbp
+data_10x_coverage: 139.70x
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Melanotaenia_boesemani/fMelBoe1/genomic_data/10x/<br>
+data_10x_scale: 1.9011
+data_arima_bases: 107.28 Gbp
 data_arima_bytes: 52.028 GB
-data_arima_coverage: 123.09x
-data_arima_files: 2
-data_arima_links: aws s3 --no-sign-request sync s3://genomeark/species/Melanotaenia_boesemani/fMelBoe1/genomic_data/arima/ .<br>
-data_arima_scale: 1.9072
-data_bionano_bases: 816.68 Gbp
+data_arima_coverage: 123.94x
+data_arima_files: 666
+data_arima_links: s3://genomeark/species/Melanotaenia_boesemani/fMelBoe1/genomic_data/arima/<br>
+data_arima_scale: 1.9203
+data_bionano_bases: N/A
 data_bionano_bytes: 1.459 GB
-data_bionano_coverage: 943.51x
-data_bionano_files: 1
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Melanotaenia_boesemani/fMelBoe1/genomic_data/bionano/ .<br>
-data_dovetail_scale: 1
-data_illumina_scale: 1
-data_pbhifi_scale: 1
-data_pbhifisub_scale: 0
-data_pbsubreads_bases: 62.00 Gbp
-data_pbsubreads_bytes: 107.420 GB
-data_pbsubreads_coverage: 71.62x
-data_pbsubreads_files: 6
-data_pbsubreads_links: aws s3 --no-sign-request sync s3://genomeark/species/Melanotaenia_boesemani/fMelBoe1/genomic_data/pacbio/ . --exclude "*ccs*bam*"<br>
-data_pbsubreads_scale: 0.5375
-data_phase_scale: 1
+data_bionano_coverage: N/A
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Melanotaenia_boesemani/fMelBoe1/genomic_data/bionano/<br>
+data_pacbio_bases: 61.95 Gbp
+data_pacbio_bytes: 107.420 GB
+data_pacbio_coverage: 71.57x
+data_pacbio_files: 666
+data_pacbio_links: s3://genomeark/species/Melanotaenia_boesemani/fMelBoe1/genomic_data/pacbio/<br>
+data_pacbio_scale: 0.5371
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_017639755.1
 genbank_pri: GCA_017639745.1
@@ -67,7 +61,7 @@ genome_size_display: 0.87 Gbp
 last_raw_data: 1603704613
 last_updated: 1615806305
 mito1date: 2019-10-02
-mito1filesize: 5 KB
+mito1filesize: 5 KiB
 mito1length: 16541
 mito1n50ctg: 16541
 mito1n50scf: 16541
@@ -98,7 +92,7 @@ mito1version: assembly_MT_rockefeller
 name: Melanotaenia boesemani
 name_: Melanotaenia_boesemani
 pri1date: 2021-03-12
-pri1filesize: 248 MB
+pri1filesize: 248 MiB
 pri1length: 865575964
 pri1n50ctg: 9299978
 pri1n50scf: 37878235

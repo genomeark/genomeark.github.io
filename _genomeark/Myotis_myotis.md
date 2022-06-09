@@ -1,35 +1,29 @@
 ---
 assembly_status: <em style="color:orange">high-quality draft assembly</em>
-bionano_scale: 0
 common_name: Greater mouse-eared bat
-data_10x_bases: 96.15 Gbp
+data_10x_bases: 96.00 Gbp
 data_10x_bytes: 58.454 GB
-data_10x_coverage: 48.00x
-data_10x_files: 8
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Myotis_myotis/mMyoMyo1/genomic_data/10x/ .<br>
-data_10x_scale: 1.5319
-data_arima_scale: 1
-data_bionano_bases: 1959.84 Gbp
+data_10x_coverage: 47.92x
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Myotis_myotis/mMyoMyo1/genomic_data/10x/<br>
+data_10x_scale: 1.5296
+data_bionano_bases: N/A
 data_bionano_bytes: 2.998 GB
-data_bionano_coverage: 978.33x
-data_bionano_files: 1
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Myotis_myotis/mMyoMyo1/genomic_data/bionano/ .<br>
-data_dovetail_scale: 1
-data_illumina_scale: 1
-data_pbhifi_scale: 1
-data_pbhifisub_scale: 0
-data_pbsubreads_bases: 182.44 Gbp
-data_pbsubreads_bytes: 322.587 GB
-data_pbsubreads_coverage: 91.07x
-data_pbsubreads_files: 48
-data_pbsubreads_links: aws s3 --no-sign-request sync s3://genomeark/species/Myotis_myotis/mMyoMyo1/genomic_data/pacbio/ . --exclude "*ccs*bam*"<br>
-data_pbsubreads_scale: 0.5267
-data_phase_bases: 29.91 Gbp
+data_bionano_coverage: N/A
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Myotis_myotis/mMyoMyo1/genomic_data/bionano/<br>
+data_pacbio_bases: 182.33 Gbp
+data_pacbio_bytes: 322.587 GB
+data_pacbio_coverage: 91.02x
+data_pacbio_files: 666
+data_pacbio_links: s3://genomeark/species/Myotis_myotis/mMyoMyo1/genomic_data/pacbio/<br>
+data_pacbio_scale: 0.5264
+data_phase_bases: 28.51 Gbp
 data_phase_bytes: 15.921 GB
-data_phase_coverage: 14.93x
-data_phase_files: 1
-data_phase_links: aws s3 --no-sign-request sync s3://genomeark/species/Myotis_myotis/mMyoMyo1/genomic_data/phase/ .<br>
-data_phase_scale: 1.7495
+data_phase_coverage: 14.23x
+data_phase_files: 666
+data_phase_links: s3://genomeark/species/Myotis_myotis/mMyoMyo1/genomic_data/phase/<br>
+data_phase_scale: 1.6675
 data_status: <em style="color:green">all data</em>
 genbank_pri: GCA_014108235.1
 genome_size: 2003238046
@@ -37,7 +31,7 @@ genome_size_display: 2.00 Gbp
 last_raw_data: 1574722019
 last_updated: 1582303772
 mito1date: 2019-12-05
-mito1filesize: 5 KB
+mito1filesize: 5 KiB
 mito1length: 17308
 mito1n50ctg: 17308
 mito1n50scf: 17308
@@ -68,7 +62,7 @@ mito1version: assembly_MT_rockefeller
 name: Myotis myotis
 name_: Myotis_myotis
 pri1date: 2019-04-16
-pri1filesize: 631 MB
+pri1filesize: 631 MiB
 pri1length: 2003238046
 pri1n50ctg: 12511134
 pri1n50scf: 94448911

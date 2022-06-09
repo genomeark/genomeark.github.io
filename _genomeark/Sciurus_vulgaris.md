@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-10-27
-alt1filesize: 398 MB
+alt1filesize: 398 MiB
 alt1length: 1366022868
 alt1n50ctg: 192948
 alt1n50scf: 193053
@@ -22,39 +22,38 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 192 </td><td> 0.54 Mbp </td><td> 192 </td><td> 0.54 Mbp </td></tr>  <tr><td> 20 </td><td> 494 </td><td> 0.39 Mbp </td><td> 494 </td><td> 0.39 Mbp </td></tr>  <tr><td> 30 </td><td> 892 </td><td> 0.31 Mbp </td><td> 892 </td><td> 0.31 Mbp </td></tr>  <tr><td> 40 </td><td> 1399 </td><td> 0.24 Mbp </td><td> 1399 </td><td> 0.24 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 2032 </td><td> 0.19 Mbp </td><td> 2032 </td><td> 0.19 Mbp </td></tr>  <tr><td> 60 </td><td> 2828 </td><td> 0.15 Mbp </td><td> 2827 </td><td> 0.15 Mbp </td></tr>  <tr><td> 70 </td><td> 3854 </td><td> 0.12 Mbp </td><td> 3853 </td><td> 0.12 Mbp </td></tr>  <tr><td> 80 </td><td> 5208 </td><td> 85.99 Kbp </td><td> 5206 </td><td> 86.00 Kbp </td></tr>  <tr><td> 90 </td><td> 7126 </td><td> 58.84 Kbp </td><td> 7124 </td><td> 58.84 Kbp </td></tr>  <tr><td> 100 </td><td> 10656 </td><td> 101  bp </td><td> 10654 </td><td> 101  bp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 192 </td><td> 0.54 Mbp </td><td> 192 </td><td> 0.54 Mbp </td></tr>  <tr><td> 20 </td><td> 494 </td><td> 389.36 Kbp </td><td> 494 </td><td> 389.36 Kbp </td></tr>  <tr><td> 30 </td><td> 892 </td><td> 305.10 Kbp </td><td> 892 </td><td> 305.10 Kbp </td></tr>  <tr><td> 40 </td><td> 1399 </td><td> 241.66 Kbp </td><td> 1399 </td><td> 241.66 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 2032 </td><td> 192.95 Kbp </td><td> 2032 </td><td> 193.05 Kbp </td></tr>  <tr><td> 60 </td><td> 2828 </td><td> 151.60 Kbp </td><td> 2827 </td><td> 151.79 Kbp </td></tr>  <tr><td> 70 </td><td> 3854 </td><td> 116.90 Kbp </td><td> 3853 </td><td> 116.95 Kbp </td></tr>  <tr><td> 80 </td><td> 5208 </td><td> 85.99 Kbp </td><td> 5206 </td><td> 86.00 Kbp </td></tr>  <tr><td> 90 </td><td> 7126 </td><td> 58.84 Kbp </td><td> 7124 </td><td> 58.84 Kbp </td></tr>  <tr><td> 100 </td><td> 10656 </td><td> 101  bp </td><td> 10654 </td><td> 101  bp </td></tr>  </tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 10657 </th><th> 1.37 Gbp </th><th> 10655 </th><th> 1.37 Gbp </th></tr>
   </tfoot>
   </table>
 alt1version: assembly_curated
 assembly_status: <em style="color:green">curated assembly</em>
-bionano_scale: 0
 common_name: Eurasian red squirrel
-data_10x_bases: 222.50 Gbp
+data_10x_bases: 221.64 Gbp
 data_10x_bytes: 148.542 GB
-data_10x_coverage: 77.29x
-data_10x_files: 24
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/10x/ .<br>
-data_10x_scale: 1.395
-data_arima_scale: 1
-data_bionano_bases: 529.81 Gbp
+data_10x_coverage: 76.99x
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/10x/<br>
+data_10x_scale: 1.3896
+data_arima_bases: 46.84 Gbp
+data_arima_bytes: 24.928 GB
+data_arima_coverage: 16.27x
+data_arima_files: 666
+data_arima_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/arima/<br>
+data_arima_scale: 1.7498
+data_bionano_bases: N/A
 data_bionano_bytes: 0.977 GB
-data_bionano_coverage: 184.05x
-data_bionano_files: 1
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/bionano/ .<br>
-data_dovetail_scale: 1
-data_illumina_scale: 1
-data_pbhifi_scale: 1
-data_pbhifisub_scale: 0
-data_pbsubreads_bases: 206.77 Gbp
-data_pbsubreads_bytes: 363.403 GB
-data_pbsubreads_coverage: 71.83x
-data_pbsubreads_files: 36
-data_pbsubreads_links: aws s3 --no-sign-request sync s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/pacbio/ . --exclude "*ccs*bam*"<br>
-data_pbsubreads_scale: 0.5299
-data_phase_scale: 1
-data_status: <em style="color:orange">some data</em>
+data_bionano_coverage: N/A
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/bionano/<br>
+data_pacbio_bases: 207.43 Gbp
+data_pacbio_bytes: 363.403 GB
+data_pacbio_coverage: 72.06x
+data_pacbio_files: 666
+data_pacbio_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/pacbio/<br>
+data_pacbio_scale: 0.5316
+data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_902685485.1
 genbank_pri: GCA_902686455.2
 genome_size: 2878591032
@@ -62,7 +61,7 @@ genome_size_display: 2.88 Gbp
 last_raw_data: 1591286461
 last_updated: 1591286461
 mito1date: 2019-10-03
-mito1filesize: 5 KB
+mito1filesize: 5 KiB
 mito1length: 16511
 mito1n50ctg: 16511
 mito1n50scf: 16511
@@ -93,7 +92,7 @@ mito1version: assembly_MT_rockefeller
 name: Sciurus vulgaris
 name_: Sciurus_vulgaris
 pri1date: 2019-10-27
-pri1filesize: 791 MB
+pri1filesize: 791 MiB
 pri1length: 2878591032
 pri1n50ctg: 16327774
 pri1n50scf: 153872958

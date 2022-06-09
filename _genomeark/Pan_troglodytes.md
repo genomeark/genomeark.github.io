@@ -1,38 +1,52 @@
 ---
 assembly_status: <em style="color:red">no assembly</em>
-bionano_scale: 0
 common_name: chimpanzee
-data_10x_bases: 249.28 Gbp
+data_10x_bases: 248.16 Gbp
 data_10x_bytes: 153.494 GB
-data_10x_coverage: 77.90x
-data_10x_files: 18
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/10x/ .<br>
-data_10x_scale: 1.5125
-data_arima_scale: 1
-data_bionano_bases: 820.08 Gbp
+data_10x_coverage: 68.67x
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/10x/<br>
+data_10x_scale: 1.5057
+data_bionano_bases: N/A
 data_bionano_bytes: 0.785 GB
-data_bionano_coverage: 256.28x
-data_bionano_files: 2
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/bionano/ .<br>
-data_dovetail_scale: 1
-data_illumina_scale: 1
-data_pbhifi_scale: 1
-data_pbhifisub_scale: 0
-data_pbsubreads_bases: 398.56 Gbp
-data_pbsubreads_bytes: 1432.611 GB
-data_pbsubreads_coverage: 124.55x
-data_pbsubreads_files: 307
-data_pbsubreads_links: aws s3 --no-sign-request sync s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/pacbio/ . --exclude "*ccs*bam*"<br>
-data_pbsubreads_scale: 0.2591
-data_phase_scale: 1
-data_status: <em style="color:orange">some data</em>
-genome_size: 3200000000
-genome_size_display: 3.20 Gbp
-genome_size_method: null
-last_raw_data: 1583646259
-last_updated: 1593134333
+data_bionano_coverage: N/A
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/bionano/<br>
+data_ont_bases: 397.21 Gbp
+data_ont_bytes: 349.914 GB
+data_ont_coverage: 109.92x
+data_ont_files: 666
+data_ont_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/ont/<br>
+data_ont_scale: 1.0572
+data_pacbio_bases: 399.02 Gbp
+data_pacbio_bytes: 1432.610 GB
+data_pacbio_coverage: 110.42x
+data_pacbio_files: 666
+data_pacbio_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/pacbio/<br>
+data_pacbio_scale: 0.2594
+data_pacbiohifi_clr_bases: 3800.22 Gbp
+data_pacbiohifi_clr_bytes: 6849.690 GB
+data_pacbiohifi_clr_coverage: 1051.61x
+data_pacbiohifi_clr_files: 666
+data_pacbiohifi_clr_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_scale: 0.5167
+data_pacbiohifi_fqgz_bases: 214.62 Gbp
+data_pacbiohifi_fqgz_bytes: 157.671 GB
+data_pacbiohifi_fqgz_coverage: 59.39x
+data_pacbiohifi_fqgz_files: 666
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_scale: 1.2677
+data_status: <em style="color:green">all data</em>
+genome_size: 3613710000
+genome_size_display: 3.61 Gbp
+genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
+last_raw_data: 1653656007
+last_updated: 1653656007
 mito1date: 2020-06-25
-mito1filesize: 5 KB
+mito1filesize: 5 KiB
+mito1length: 16556
+mito1n50ctg: 0
+mito1n50scf: 0
 mito1seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro1/assembly_MT_rockefeller/mPanTro1.MT.20200625.fasta.gz
 mito1sizes: |
   <table class="sequence-sizes-table">
@@ -51,9 +65,9 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 20 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 30 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 40 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> - </td><td style="background-color:#ff8888;"> - </td><td> - </td><td style="background-color:#ff8888;"> - </td></tr>  <tr><td> 60 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 70 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 80 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 90 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 100 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 5163 </th><th> A </th><th> 0.3119  bp </th><th> A </th><th> 0.3119  bp </th></tr>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.56 Kbp </th><th> 1 </th><th> 16.56 Kbp </th></tr>
   </tfoot>
   </table>
 mito1version: assembly_MT_rockefeller

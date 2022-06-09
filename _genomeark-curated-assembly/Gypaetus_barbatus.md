@@ -1,0 +1,1 @@
+../_genomeark/Gypaetus_barbatus.md

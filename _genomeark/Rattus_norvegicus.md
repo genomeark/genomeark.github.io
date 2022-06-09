@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-09-11
-alt1filesize: 84 MB
+alt1filesize: 84 MiB
 alt1length: 286931403
 alt1n50ctg: 100340
 alt1n50scf: 100349
@@ -22,50 +22,44 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 139 </td><td> 0.15 Mbp </td><td> 139 </td><td> 0.15 Mbp </td></tr>  <tr><td> 20 </td><td> 347 </td><td> 0.13 Mbp </td><td> 347 </td><td> 0.13 Mbp </td></tr>  <tr><td> 30 </td><td> 584 </td><td> 0.12 Mbp </td><td> 583 </td><td> 0.12 Mbp </td></tr>  <tr><td> 40 </td><td> 840 </td><td> 0.11 Mbp </td><td> 840 </td><td> 0.11 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 1117 </td><td> 0.10 Mbp </td><td> 1116 </td><td> 0.10 Mbp </td></tr>  <tr><td> 60 </td><td> 1413 </td><td> 93.70 Kbp </td><td> 1412 </td><td> 93.72 Kbp </td></tr>  <tr><td> 70 </td><td> 1731 </td><td> 86.65 Kbp </td><td> 1731 </td><td> 86.67 Kbp </td></tr>  <tr><td> 80 </td><td> 2081 </td><td> 77.16 Kbp </td><td> 2080 </td><td> 77.20 Kbp </td></tr>  <tr><td> 90 </td><td> 2485 </td><td> 64.17 Kbp </td><td> 2483 </td><td> 64.31 Kbp </td></tr>  <tr><td> 100 </td><td> 3161 </td><td> 1.53 Kbp </td><td> 3155 </td><td> 1.53 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 139 </td><td> 154.00 Kbp </td><td> 139 </td><td> 154.00 Kbp </td></tr>  <tr><td> 20 </td><td> 347 </td><td> 127.76 Kbp </td><td> 347 </td><td> 127.81 Kbp </td></tr>  <tr><td> 30 </td><td> 584 </td><td> 116.36 Kbp </td><td> 583 </td><td> 116.47 Kbp </td></tr>  <tr><td> 40 </td><td> 840 </td><td> 107.48 Kbp </td><td> 840 </td><td> 107.52 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 1117 </td><td> 100.34 Kbp </td><td> 1116 </td><td> 100.35 Kbp </td></tr>  <tr><td> 60 </td><td> 1413 </td><td> 93.70 Kbp </td><td> 1412 </td><td> 93.72 Kbp </td></tr>  <tr><td> 70 </td><td> 1731 </td><td> 86.65 Kbp </td><td> 1731 </td><td> 86.67 Kbp </td></tr>  <tr><td> 80 </td><td> 2081 </td><td> 77.16 Kbp </td><td> 2080 </td><td> 77.20 Kbp </td></tr>  <tr><td> 90 </td><td> 2485 </td><td> 64.17 Kbp </td><td> 2483 </td><td> 64.31 Kbp </td></tr>  <tr><td> 100 </td><td> 3161 </td><td> 1.53 Kbp </td><td> 3155 </td><td> 1.53 Kbp </td></tr>  </tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 3162 </th><th> 286.93 Mbp </th><th> 3156 </th><th> 286.93 Mbp </th></tr>
   </tfoot>
   </table>
 alt1version: assembly_curated
 assembly_status: <em style="color:green">curated assembly</em>
-bionano_scale: 0
 common_name: Norway rat
-data_10x_bases: 189.37 Gbp
+data_10x_bases: 187.56 Gbp
 data_10x_bytes: 130.223 GB
-data_10x_coverage: 71.52x
-data_10x_files: 24
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/10x/ .<br>
-data_10x_scale: 1.3543
-data_arima_bases: 258.56 Gbp
+data_10x_coverage: 70.83x
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/10x/<br>
+data_10x_scale: 1.3414
+data_arima_bases: 253.27 Gbp
 data_arima_bytes: 155.028 GB
-data_arima_coverage: 97.65x
-data_arima_files: 4
-data_arima_links: aws s3 --no-sign-request sync s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/arima/ .<br>
-data_arima_scale: 1.5533
-data_bionano_bases: 773.56 Gbp
+data_arima_coverage: 95.65x
+data_arima_files: 666
+data_arima_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/arima/<br>
+data_arima_scale: 1.5215
+data_bionano_bases: N/A
 data_bionano_bytes: 1.419 GB
-data_bionano_coverage: 292.14x
-data_bionano_files: 1
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/bionano/ .<br>
-data_dovetail_scale: 1
-data_illumina_scale: 1
-data_pbhifi_scale: 1
-data_pbhifisub_scale: 0
-data_pbsubreads_bases: 264.94 Gbp
-data_pbsubreads_bytes: 470.087 GB
-data_pbsubreads_coverage: 100.06x
-data_pbsubreads_files: 2
-data_pbsubreads_links: aws s3 --no-sign-request sync s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/pacbio/ . --exclude "*ccs*bam*"<br>
-data_pbsubreads_scale: 0.5249
-data_phase_scale: 1
+data_bionano_coverage: N/A
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/bionano/<br>
+data_pacbio_bases: 266.71 Gbp
+data_pacbio_bytes: 470.087 GB
+data_pacbio_coverage: 100.73x
+data_pacbio_files: 666
+data_pacbio_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/pacbio/<br>
+data_pacbio_scale: 0.5284
 data_status: <em style="color:green">all data</em>
 genome_size: 2647899415
 genome_size_display: 2.65 Gbp
 last_raw_data: 1580668926
 last_updated: 1608199961
 mito1date: 2019-12-04
-mito1filesize: 5 KB
+mito1filesize: 5 KiB
 mito1length: 16313
 mito1n50ctg: 16313
 mito1n50scf: 16313
@@ -96,7 +90,7 @@ mito1version: assembly_MT_rockefeller
 name: Rattus norvegicus
 name_: Rattus_norvegicus
 pri1date: 2020-09-11
-pri1filesize: 770 MB
+pri1filesize: 770 MiB
 pri1length: 2647899415
 pri1n50ctg: 29198295
 pri1n50scf: 135012528

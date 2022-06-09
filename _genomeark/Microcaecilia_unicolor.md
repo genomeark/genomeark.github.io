@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-05-23
-alt1filesize: 1 GB
+alt1filesize: 1 GiB
 alt1length: 3698322623
 alt1n50ctg: 245207
 alt1n50scf: 245207
@@ -22,48 +22,43 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 462 </td><td> 0.61 Mbp </td><td> 462 </td><td> 0.61 Mbp </td></tr>  <tr><td> 20 </td><td> 1160 </td><td> 0.47 Mbp </td><td> 1160 </td><td> 0.47 Mbp </td></tr>  <tr><td> 30 </td><td> 2044 </td><td> 0.38 Mbp </td><td> 2044 </td><td> 0.38 Mbp </td></tr>  <tr><td> 40 </td><td> 3138 </td><td> 0.30 Mbp </td><td> 3138 </td><td> 0.30 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 4494 </td><td> 0.25 Mbp </td><td> 4494 </td><td> 0.25 Mbp </td></tr>  <tr><td> 60 </td><td> 6188 </td><td> 0.19 Mbp </td><td> 6188 </td><td> 0.19 Mbp </td></tr>  <tr><td> 70 </td><td> 8348 </td><td> 0.15 Mbp </td><td> 8348 </td><td> 0.15 Mbp </td></tr>  <tr><td> 80 </td><td> 11211 </td><td> 0.11 Mbp </td><td> 11211 </td><td> 0.11 Mbp </td></tr>  <tr><td> 90 </td><td> 15305 </td><td> 72.40 Kbp </td><td> 15305 </td><td> 72.40 Kbp </td></tr>  <tr><td> 100 </td><td> 23870 </td><td> 230  bp </td><td> 23869 </td><td> 230  bp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 462 </td><td> 0.61 Mbp </td><td> 462 </td><td> 0.61 Mbp </td></tr>  <tr><td> 20 </td><td> 1160 </td><td> 470.06 Kbp </td><td> 1160 </td><td> 470.06 Kbp </td></tr>  <tr><td> 30 </td><td> 2044 </td><td> 377.58 Kbp </td><td> 2044 </td><td> 377.58 Kbp </td></tr>  <tr><td> 40 </td><td> 3138 </td><td> 303.97 Kbp </td><td> 3138 </td><td> 303.97 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 4494 </td><td> 245.21 Kbp </td><td> 4494 </td><td> 245.21 Kbp </td></tr>  <tr><td> 60 </td><td> 6188 </td><td> 194.86 Kbp </td><td> 6188 </td><td> 194.86 Kbp </td></tr>  <tr><td> 70 </td><td> 8348 </td><td> 150.40 Kbp </td><td> 8348 </td><td> 150.40 Kbp </td></tr>  <tr><td> 80 </td><td> 11211 </td><td> 110.66 Kbp </td><td> 11211 </td><td> 110.66 Kbp </td></tr>  <tr><td> 90 </td><td> 15305 </td><td> 72.40 Kbp </td><td> 15305 </td><td> 72.40 Kbp </td></tr>  <tr><td> 100 </td><td> 23870 </td><td> 230  bp </td><td> 23869 </td><td> 230  bp </td></tr>  </tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 23871 </th><th> 3.70 Gbp </th><th> 23870 </th><th> 3.70 Gbp </th></tr>
   </tfoot>
   </table>
 alt1version: assembly_curated
 assembly_status: <em style="color:green">curated assembly</em>
-bionano_scale: 0
 common_name: tiny Cayenne caecilian
-data_10x_bases: 357.68 Gbp
+data_10x_bases: 354.61 Gbp
 data_10x_bytes: 242.655 GB
-data_10x_coverage: 76.33x
-data_10x_files: 36
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/10x/ .<br>
-data_10x_scale: 1.3728
-data_arima_bases: 276.09 Gbp
+data_10x_coverage: 75.68x
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/10x/<br>
+data_10x_scale: 1.3610
+data_arima_bases: 271.20 Gbp
 data_arima_bytes: 166.471 GB
-data_arima_coverage: 58.92x
-data_arima_files: 4
-data_arima_links: aws s3 --no-sign-request sync s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/arima/ .<br>
-data_arima_scale: 1.5446
-data_bionano_bases: 2231.46 Gbp
+data_arima_coverage: 57.87x
+data_arima_files: 666
+data_arima_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/arima/<br>
+data_arima_scale: 1.5172
+data_bionano_bases: N/A
 data_bionano_bytes: 2.704 GB
-data_bionano_coverage: 476.20x
-data_bionano_files: 1
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/bionano/ .<br>
-data_dovetail_bases: 246.46 Gbp
+data_bionano_coverage: N/A
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/bionano/<br>
+data_dovetail_bases: 239.65 Gbp
 data_dovetail_bytes: 151.277 GB
-data_dovetail_coverage: 52.60x
-data_dovetail_files: 2
-data_dovetail_links: aws s3 --no-sign-request sync s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/dovetail/ .<br>
-data_dovetail_scale: 1.5173
-data_illumina_scale: 1
-data_pbhifi_scale: 1
-data_pbhifisub_scale: 0
-data_pbsubreads_bases: 252.89 Gbp
-data_pbsubreads_bytes: 441.129 GB
-data_pbsubreads_coverage: 53.97x
-data_pbsubreads_files: 36
-data_pbsubreads_links: aws s3 --no-sign-request sync s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/pacbio/ . --exclude "*ccs*bam*"<br>
-data_pbsubreads_scale: 0.5339
-data_phase_scale: 1
+data_dovetail_coverage: 51.14x
+data_dovetail_files: 666
+data_dovetail_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/dovetail/<br>
+data_dovetail_scale: 1.4754
+data_pacbio_bases: 252.37 Gbp
+data_pacbio_bytes: 441.129 GB
+data_pacbio_coverage: 53.86x
+data_pacbio_files: 666
+data_pacbio_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/pacbio/<br>
+data_pacbio_scale: 0.5328
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_901765105.1
 genbank_pri: GCA_901765095.2
@@ -72,7 +67,7 @@ genome_size_display: 4.69 Gbp
 last_raw_data: 1548859097
 last_updated: 1570719802
 mito1date: 2019-10-03
-mito1filesize: 5 KB
+mito1filesize: 5 KiB
 mito1length: 16008
 mito1n50ctg: 16008
 mito1n50scf: 16008
@@ -103,7 +98,7 @@ mito1version: assembly_MT_rockefeller
 name: Microcaecilia unicolor
 name_: Microcaecilia_unicolor
 pri1date: 2019-05-23
-pri1filesize: 1 GB
+pri1filesize: 1 GiB
 pri1length: 4685923413
 pri1n50ctg: 3650988
 pri1n50scf: 376147139

@@ -1,45 +1,41 @@
 ---
 assembly_status: <em style="color:green">curated assembly</em>
-bionano_scale: 0
 common_name: zebrafish
 data_10x_bases: N/A
 data_10x_bytes: 158.919 GB
 data_10x_coverage: N/A
-data_10x_files: 24
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Danio_rerio/fDreSAT1/genomic_data/10x/ .<br>
-data_10x_scale: 1.509
-data_arima_scale: 1
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Danio_rerio/fDreSAT1/genomic_data/10x/<br>
+data_10x_scale: 1.5224
 data_bionano_bases: N/A
 data_bionano_bytes: 0.088 GB
 data_bionano_coverage: N/A
-data_bionano_files: 1
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Danio_rerio/fDreSAT1/genomic_data/bionano/ .<br>
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Danio_rerio/fDreSAT1/genomic_data/bionano/<br>
 data_dovetail_bases: N/A
 data_dovetail_bytes: 79.097 GB
 data_dovetail_coverage: N/A
-data_dovetail_files: 1
-data_dovetail_links: aws s3 --no-sign-request sync s3://genomeark/species/Danio_rerio/fDreSAT3/genomic_data/dovetail/ .<br>
-data_dovetail_scale: 1.5094
+data_dovetail_files: 666
+data_dovetail_links: s3://genomeark/species/Danio_rerio/fDreSAT3/genomic_data/dovetail/<br>
+data_dovetail_scale: 1.4364
 data_illumina_bases: N/A
 data_illumina_bytes: 201.240 GB
 data_illumina_coverage: N/A
-data_illumina_files: 4
-data_illumina_links: aws s3 --no-sign-request sync s3://genomeark/species/Danio_rerio/fDreABH1/genomic_data/illumina/ .<br>aws s3 --no-sign-request sync s3://genomeark/species/Danio_rerio/fDreTuH1/genomic_data/illumina/ .<br>
-data_illumina_scale: 1.7486
-data_pbhifi_scale: 1
-data_pbhifisub_scale: 0
-data_pbsubreads_bases: N/A
-data_pbsubreads_bytes: 451.666 GB
-data_pbsubreads_coverage: N/A
-data_pbsubreads_files: 129
-data_pbsubreads_links: aws s3 --no-sign-request sync s3://genomeark/species/Danio_rerio/fDreSAT1/genomic_data/pacbio/ . --exclude "*ccs*bam*"<br>
-data_pbsubreads_scale: 0.265
-data_phase_scale: 1
+data_illumina_files: 666
+data_illumina_links: s3://genomeark/species/Danio_rerio/fDreABH1/genomic_data/illumina/<br>s3://genomeark/species/Danio_rerio/fDreTuH1/genomic_data/illumina/<br>
+data_illumina_scale: 1.8640
+data_pacbio_bases: N/A
+data_pacbio_bytes: 451.666 GB
+data_pacbio_coverage: N/A
+data_pacbio_files: 666
+data_pacbio_links: s3://genomeark/species/Danio_rerio/fDreSAT1/genomic_data/pacbio/<br>
+data_pacbio_scale: 0.2650
 data_status: <em style="color:green">all data</em>
+genome_size: 0
 last_raw_data: 1566749074
 last_updated: 1591266209
 mat1date: 2020-05-22
-mat1filesize: 387 MB
+mat1filesize: 387 MiB
 mat1length: 1360489499
 mat1n50ctg: 3590740
 mat1n50scf: 54392677
@@ -68,7 +64,7 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mito1date: 2019-10-02
-mito1filesize: 5 KB
+mito1filesize: 5 KiB
 mito1length: 16596
 mito1n50ctg: 16596
 mito1n50scf: 16596
@@ -99,7 +95,7 @@ mito1version: assembly_MT_rockefeller
 name: Danio rerio
 name_: Danio_rerio
 pat1date: 2020-05-22
-pat1filesize: 385 MB
+pat1filesize: 385 MiB
 pat1length: 1354075779
 pat1n50ctg: 4531818
 pat1n50scf: 52957805

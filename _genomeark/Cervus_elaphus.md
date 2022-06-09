@@ -1,10 +1,10 @@
 ---
-alt1date: 2021-02-26
-alt1filesize: 700 MB
-alt1length: 2630763898
-alt1n50ctg: 2212639
-alt1n50scf: 2212639
-alt1seq: https://s3.amazonaws.com/genomeark/species/Cervus_elaphus/mCanLor1/assembly_cambridge/mCerEla1.alt.asm.20210226.fasta.gz
+alt1date: 2021-06-15
+alt1filesize: 730 MiB
+alt1length: 2903978491
+alt1n50ctg: 2236403
+alt1n50scf: 2259288
+alt1seq: https://s3.amazonaws.com/genomeark/species/Cervus_elaphus/mCerEla1/assembly_curated/mCerEla1.alt.cur.20210615.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,53 +22,47 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 29 </td><td> 6.78 Mbp </td><td> 29 </td><td> 6.78 Mbp </td></tr>  <tr><td> 20 </td><td> 78 </td><td> 4.57 Mbp </td><td> 78 </td><td> 4.57 Mbp </td></tr>  <tr><td> 30 </td><td> 145 </td><td> 3.51 Mbp </td><td> 145 </td><td> 3.51 Mbp </td></tr>  <tr><td> 40 </td><td> 232 </td><td> 2.70 Mbp </td><td> 232 </td><td> 2.70 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 340 </td><td> 2.21 Mbp </td><td> 340 </td><td> 2.21 Mbp </td></tr>  <tr><td> 60 </td><td> 474 </td><td> 1.71 Mbp </td><td> 474 </td><td> 1.71 Mbp </td></tr>  <tr><td> 70 </td><td> 649 </td><td> 1.32 Mbp </td><td> 649 </td><td> 1.32 Mbp </td></tr>  <tr><td> 80 </td><td> 890 </td><td> 0.90 Mbp </td><td> 890 </td><td> 0.90 Mbp </td></tr>  <tr><td> 90 </td><td> 1286 </td><td> 0.46 Mbp </td><td> 1286 </td><td> 0.46 Mbp </td></tr>  <tr><td> 100 </td><td> 3836 </td><td> 4.53 Kbp </td><td> 3836 </td><td> 4.53 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 32 </td><td> 6.79 Mbp </td><td> 32 </td><td> 6.79 Mbp </td></tr>  <tr><td> 20 </td><td> 86 </td><td> 4.61 Mbp </td><td> 86 </td><td> 4.61 Mbp </td></tr>  <tr><td> 30 </td><td> 158 </td><td> 3.58 Mbp </td><td> 158 </td><td> 3.59 Mbp </td></tr>  <tr><td> 40 </td><td> 253 </td><td> 2.75 Mbp </td><td> 252 </td><td> 2.77 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 370 </td><td> 2.24 Mbp </td><td> 368 </td><td> 2.26 Mbp </td></tr>  <tr><td> 60 </td><td> 517 </td><td> 1.72 Mbp </td><td> 514 </td><td> 1.75 Mbp </td></tr>  <tr><td> 70 </td><td> 710 </td><td> 1.31 Mbp </td><td> 705 </td><td> 1.34 Mbp </td></tr>  <tr><td> 80 </td><td> 975 </td><td> 0.91 Mbp </td><td> 964 </td><td> 0.92 Mbp </td></tr>  <tr><td> 90 </td><td> 1397 </td><td> 485.84 Kbp </td><td> 1380 </td><td> 492.94 Kbp </td></tr>  <tr><td> 100 </td><td> 4042 </td><td> 4.53 Kbp </td><td> 4020 </td><td> 4.53 Kbp </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 3837 </th><th> 2.63 Gbp </th><th> 3837 </th><th> 2.63 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 4043 </th><th> 2.90 Gbp </th><th> 4021 </th><th> 2.90 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orange">high-quality draft assembly</em>
-bionano_scale: 0
+alt1version: assembly_curated
+assembly_status: <em style="color:green">curated assembly</em>
 common_name: red deer
-data_10x_bases: 125.63 Gbp
+data_10x_bases: 123.07 Gbp
 data_10x_bytes: 72.565 GB
-data_10x_coverage: 39.76x
-data_10x_files: 12
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/10x/ .<br>
-data_10x_scale: 1.6124
-data_arima_bases: 460.38 Gbp
+data_10x_coverage: 42.63x
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/10x/<br>
+data_10x_scale: 1.5795
+data_arima_bases: 461.54 Gbp
 data_arima_bytes: 225.239 GB
-data_arima_coverage: 145.70x
-data_arima_files: 2
-data_arima_links: aws s3 --no-sign-request sync s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/arima/ .<br>
-data_arima_scale: 1.9036
-data_dovetail_scale: 1
-data_illumina_scale: 1
-data_pbhifi_bases: 96.42 Gbp
-data_pbhifi_bytes: 82.448 GB
-data_pbhifi_coverage: 30.51x
-data_pbhifi_files: 4
-data_pbhifi_links: aws s3 --no-sign-request sync s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/pacbio/ . --exclude "*subreads.bam*"<br>
-data_pbhifi_scale: 1.0891
-data_pbhifisub_scale: 0
-data_pbsubreads_scale: 1
-data_phase_scale: 1
-data_status: <em style="color:orange">some data</em>
+data_arima_coverage: 159.89x
+data_arima_files: 666
+data_arima_links: s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/arima/<br>
+data_arima_scale: 1.9084
+data_pacbiohifi_bam_bases: 96.28 Gbp
+data_pacbiohifi_bam_bytes: 82.448 GB
+data_pacbiohifi_bam_coverage: 33.35x
+data_pacbiohifi_bam_files: 666
+data_pacbiohifi_bam_links: s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_scale: 1.0876
+data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_910593805.1
 genbank_pri: GCA_910594005.1
-genome_size: 3159812217
-genome_size_display: 3.16 Gbp
-last_raw_data: 1606831399
-last_updated: 1619515947
+genome_size: 2886619877
+genome_size_display: 2.89 Gbp
+last_raw_data: 1651593289
+last_updated: 1651593289
 name: Cervus elaphus
 name_: Cervus_elaphus
-pri1date: 2021-02-26
-pri1filesize: 792 MB
-pri1length: 3159812217
-pri1n50ctg: 63760408
-pri1n50scf: 71624245
-pri1seq: https://s3.amazonaws.com/genomeark/species/Cervus_elaphus/mCanLor1/assembly_cambridge/mCerEla1.pri.asm.20210226.fasta.gz
+pri1date: 2021-06-15
+pri1filesize: 778 MiB
+pri1length: 2886619877
+pri1n50ctg: 68741660
+pri1n50scf: 83473711
+pri1seq: https://s3.amazonaws.com/genomeark/species/Cervus_elaphus/mCerEla1/assembly_curated/mCerEla1.pri.cur.20210615.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -86,12 +80,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 106.38 Mbp </td><td> 2 </td><td> 110.67 Mbp </td></tr>  <tr><td> 20 </td><td> 6 </td><td> 86.20 Mbp </td><td> 5 </td><td> 94.14 Mbp </td></tr>  <tr><td> 30 </td><td> 9 </td><td> 79.32 Mbp </td><td> 9 </td><td> 82.66 Mbp </td></tr>  <tr><td> 40 </td><td> 14 </td><td> 71.72 Mbp </td><td> 13 </td><td> 77.23 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 18 </td><td style="background-color:#88ff88;"> 63.76 Mbp </td><td> 17 </td><td style="background-color:#88ff88;"> 71.62 Mbp </td></tr>  <tr><td> 60 </td><td> 24 </td><td> 55.81 Mbp </td><td> 22 </td><td> 63.04 Mbp </td></tr>  <tr><td> 70 </td><td> 30 </td><td> 49.13 Mbp </td><td> 27 </td><td> 52.23 Mbp </td></tr>  <tr><td> 80 </td><td> 37 </td><td> 33.46 Mbp </td><td> 34 </td><td> 38.53 Mbp </td></tr>  <tr><td> 90 </td><td> 69 </td><td> 4.42 Mbp </td><td> 64 </td><td> 4.47 Mbp </td></tr>  <tr><td> 100 </td><td> 387 </td><td> 16.43 Kbp </td><td> 356 </td><td> 16.43 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 106.38 Mbp </td><td> 1 </td><td> 140.94 Mbp </td></tr>  <tr><td> 20 </td><td> 5 </td><td> 89.89 Mbp </td><td> 3 </td><td> 125.77 Mbp </td></tr>  <tr><td> 30 </td><td> 8 </td><td> 82.66 Mbp </td><td> 6 </td><td> 103.26 Mbp </td></tr>  <tr><td> 40 </td><td> 12 </td><td> 72.18 Mbp </td><td> 9 </td><td> 94.14 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 68.74 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 83.47 Mbp </td></tr>  <tr><td> 60 </td><td> 21 </td><td> 57.42 Mbp </td><td> 16 </td><td> 72.18 Mbp </td></tr>  <tr><td> 70 </td><td> 26 </td><td> 52.23 Mbp </td><td> 20 </td><td> 65.07 Mbp </td></tr>  <tr><td> 80 </td><td> 32 </td><td> 42.28 Mbp </td><td> 25 </td><td> 55.77 Mbp </td></tr>  <tr><td> 90 </td><td> 40 </td><td> 22.82 Mbp </td><td> 30 </td><td> 51.85 Mbp </td></tr>  <tr><td> 100 </td><td> 184 </td><td> 16.35 Kbp </td><td> 144 </td><td> 16.35 Kbp </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 388 </th><th> 3.16 Gbp </th><th> 357 </th><th> 3.16 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 185 </th><th> 2.89 Gbp </th><th> 145 </th><th> 2.89 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 short_name: mCerEla
 taxon_id: 9860
 ---

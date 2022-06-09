@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-06-24
-alt1filesize: 257 MB
+alt1filesize: 257 MiB
 alt1length: 894675777
 alt1n50ctg: 421533
 alt1n50scf: 424591
@@ -22,43 +22,37 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 49 </td><td> 1.27 Mbp </td><td> 48 </td><td> 1.30 Mbp </td></tr>  <tr><td> 20 </td><td> 137 </td><td> 0.86 Mbp </td><td> 135 </td><td> 0.87 Mbp </td></tr>  <tr><td> 30 </td><td> 260 </td><td> 0.64 Mbp </td><td> 257 </td><td> 0.64 Mbp </td></tr>  <tr><td> 40 </td><td> 418 </td><td> 0.51 Mbp </td><td> 414 </td><td> 0.51 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 609 </td><td> 0.42 Mbp </td><td> 605 </td><td> 0.42 Mbp </td></tr>  <tr><td> 60 </td><td> 848 </td><td> 0.32 Mbp </td><td> 842 </td><td> 0.33 Mbp </td></tr>  <tr><td> 70 </td><td> 1166 </td><td> 0.24 Mbp </td><td> 1160 </td><td> 0.24 Mbp </td></tr>  <tr><td> 80 </td><td> 1639 </td><td> 0.15 Mbp </td><td> 1631 </td><td> 0.15 Mbp </td></tr>  <tr><td> 90 </td><td> 2480 </td><td> 78.06 Kbp </td><td> 2471 </td><td> 78.45 Kbp </td></tr>  <tr><td> 100 </td><td> 4524 </td><td> 159  bp </td><td> 4515 </td><td> 159  bp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 49 </td><td> 1.27 Mbp </td><td> 48 </td><td> 1.30 Mbp </td></tr>  <tr><td> 20 </td><td> 137 </td><td> 0.86 Mbp </td><td> 135 </td><td> 0.87 Mbp </td></tr>  <tr><td> 30 </td><td> 260 </td><td> 0.64 Mbp </td><td> 257 </td><td> 0.64 Mbp </td></tr>  <tr><td> 40 </td><td> 418 </td><td> 0.51 Mbp </td><td> 414 </td><td> 0.51 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 609 </td><td> 421.53 Kbp </td><td> 605 </td><td> 424.59 Kbp </td></tr>  <tr><td> 60 </td><td> 848 </td><td> 324.06 Kbp </td><td> 842 </td><td> 326.98 Kbp </td></tr>  <tr><td> 70 </td><td> 1166 </td><td> 238.76 Kbp </td><td> 1160 </td><td> 240.72 Kbp </td></tr>  <tr><td> 80 </td><td> 1639 </td><td> 147.67 Kbp </td><td> 1631 </td><td> 148.43 Kbp </td></tr>  <tr><td> 90 </td><td> 2480 </td><td> 78.06 Kbp </td><td> 2471 </td><td> 78.45 Kbp </td></tr>  <tr><td> 100 </td><td> 4524 </td><td> 159  bp </td><td> 4515 </td><td> 159  bp </td></tr>  </tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 4525 </th><th> 0.89 Gbp </th><th> 4516 </th><th> 0.89 Gbp </th></tr>
   </tfoot>
   </table>
 alt1version: assembly_curated
 assembly_status: <em style="color:green">curated assembly</em>
-bionano_scale: 0
 common_name: jewelled blenny
-data_10x_bases: 126.81 Gbp
+data_10x_bases: 128.31 Gbp
 data_10x_bytes: 79.223 GB
-data_10x_coverage: 159.02x
-data_10x_files: 12
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/10x/ .<br>
-data_10x_scale: 1.4908
-data_arima_scale: 1
-data_bionano_bases: 1075.61 Gbp
+data_10x_coverage: 160.89x
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/10x/<br>
+data_10x_scale: 1.5084
+data_bionano_bases: N/A
 data_bionano_bytes: 1.082 GB
-data_bionano_coverage: 1348.74x
-data_bionano_files: 1
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/bionano/ .<br>
-data_dovetail_bases: 125.63 Gbp
+data_bionano_coverage: N/A
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/bionano/<br>
+data_dovetail_bases: 118.79 Gbp
 data_dovetail_bytes: 78.111 GB
-data_dovetail_coverage: 157.53x
-data_dovetail_files: 1
-data_dovetail_links: aws s3 --no-sign-request sync s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/dovetail/ .<br>
-data_dovetail_scale: 1.4979
-data_illumina_scale: 1
-data_pbhifi_scale: 1
-data_pbhifisub_scale: 0
-data_pbsubreads_bases: 65.34 Gbp
-data_pbsubreads_bytes: 113.821 GB
-data_pbsubreads_coverage: 81.93x
-data_pbsubreads_files: 13
-data_pbsubreads_links: aws s3 --no-sign-request sync s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/pacbio/ . --exclude "*ccs*bam*"<br>
-data_pbsubreads_scale: 0.5346
-data_phase_scale: 1
+data_dovetail_coverage: 148.95x
+data_dovetail_files: 666
+data_dovetail_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/dovetail/<br>
+data_dovetail_scale: 1.4163
+data_pacbio_bases: 65.40 Gbp
+data_pacbio_bytes: 113.821 GB
+data_pacbio_coverage: 82.00x
+data_pacbio_files: 666
+data_pacbio_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/pacbio/<br>
+data_pacbio_scale: 0.5351
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_902148835.1
 genbank_pri: GCA_902148845.1
@@ -69,7 +63,7 @@ last_updated: 1561653349
 name: Salarias fasciatus
 name_: Salarias_fasciatus
 pri1date: 2019-06-24
-pri1filesize: 227 MB
+pri1filesize: 227 MiB
 pri1length: 797490645
 pri1n50ctg: 2597836
 pri1n50scf: 32729575

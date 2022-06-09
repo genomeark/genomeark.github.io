@@ -1,25 +1,35 @@
 ---
 assembly_status: <em style="color:red">no assembly</em>
-bionano_scale: 0
 common_name: Chinese pangolin
-data_10x_scale: 1
-data_arima_scale: 1
-data_bionano_bases: 771.70 Gbp
+data_bionano_bases: N/A
 data_bionano_bytes: 1.460 GB
-data_bionano_coverage: 25.72x
-data_bionano_files: 1
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/bionano/ .<br>
-data_dovetail_scale: 1
-data_illumina_scale: 1
-data_pbhifi_scale: 1
-data_pbhifisub_scale: 0
-data_pbsubreads_scale: 1
-data_phase_scale: 1
-data_status: <em style="color:orange">some data</em>
-genome_size: 30000000000
-genome_size_display: 30.00 Gbp
-last_raw_data: 1610040232
-last_updated: 1610040232
+data_bionano_coverage: N/A
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/bionano/<br>
+data_pacbiohifi_bam_bases: 282.14 Gbp
+data_pacbiohifi_bam_bytes: 229.371 GB
+data_pacbiohifi_bam_coverage: 100.77x
+data_pacbiohifi_bam_files: 666
+data_pacbiohifi_bam_links: s3://genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_scale: 1.1456
+data_pacbiohifi_clr_bases: 280.61 Gbp
+data_pacbiohifi_clr_bytes: 633.853 GB
+data_pacbiohifi_clr_coverage: 100.22x
+data_pacbiohifi_clr_files: 666
+data_pacbiohifi_clr_links: s3://genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/pacbiohifi_clr/<br>
+data_pacbiohifi_clr_scale: 0.4123
+data_pacbiohifi_fqgz_bases: 66.20 Gbp
+data_pacbiohifi_fqgz_bytes: 53.822 GB
+data_pacbiohifi_fqgz_coverage: 23.64x
+data_pacbiohifi_fqgz_files: 666
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/pacbiohifi_fqgz/<br>
+data_pacbiohifi_fqgz_scale: 1.1456
+data_status: <em style="color:green">all data</em>
+genome_size: 2800000000
+genome_size_display: 2.80 Gbp
+genome_size_method: GoaT ancestral inferred
+last_raw_data: 1651608532
+last_updated: 1651608532
 name: Manis pentadactyla
 name_: Manis_pentadactyla
 short_name: mManPen

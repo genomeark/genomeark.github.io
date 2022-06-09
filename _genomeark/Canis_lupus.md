@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-03-15
-alt1filesize: 416 MB
+alt1filesize: 416 MiB
 alt1length: 1446594657
 alt1n50ctg: 719346
 alt1n50scf: 719346
@@ -22,49 +22,43 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 56 </td><td> 1.93 Mbp </td><td> 56 </td><td> 1.93 Mbp </td></tr>  <tr><td> 20 </td><td> 143 </td><td> 1.46 Mbp </td><td> 143 </td><td> 1.46 Mbp </td></tr>  <tr><td> 30 </td><td> 257 </td><td> 1.12 Mbp </td><td> 257 </td><td> 1.12 Mbp </td></tr>  <tr><td> 40 </td><td> 401 </td><td> 0.91 Mbp </td><td> 401 </td><td> 0.91 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 582 </td><td> 0.72 Mbp </td><td> 582 </td><td> 0.72 Mbp </td></tr>  <tr><td> 60 </td><td> 809 </td><td> 0.57 Mbp </td><td> 809 </td><td> 0.57 Mbp </td></tr>  <tr><td> 70 </td><td> 1106 </td><td> 0.42 Mbp </td><td> 1106 </td><td> 0.42 Mbp </td></tr>  <tr><td> 80 </td><td> 1522 </td><td> 0.28 Mbp </td><td> 1522 </td><td> 0.28 Mbp </td></tr>  <tr><td> 90 </td><td> 2239 </td><td> 0.14 Mbp </td><td> 2239 </td><td> 0.14 Mbp </td></tr>  <tr><td> 100 </td><td> 5536 </td><td> 4.83 Kbp </td><td> 5535 </td><td> 4.83 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 56 </td><td> 1.93 Mbp </td><td> 56 </td><td> 1.93 Mbp </td></tr>  <tr><td> 20 </td><td> 143 </td><td> 1.46 Mbp </td><td> 143 </td><td> 1.46 Mbp </td></tr>  <tr><td> 30 </td><td> 257 </td><td> 1.12 Mbp </td><td> 257 </td><td> 1.12 Mbp </td></tr>  <tr><td> 40 </td><td> 401 </td><td> 0.91 Mbp </td><td> 401 </td><td> 0.91 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 582 </td><td> 0.72 Mbp </td><td> 582 </td><td> 0.72 Mbp </td></tr>  <tr><td> 60 </td><td> 809 </td><td> 0.57 Mbp </td><td> 809 </td><td> 0.57 Mbp </td></tr>  <tr><td> 70 </td><td> 1106 </td><td> 423.16 Kbp </td><td> 1106 </td><td> 423.16 Kbp </td></tr>  <tr><td> 80 </td><td> 1522 </td><td> 279.47 Kbp </td><td> 1522 </td><td> 279.47 Kbp </td></tr>  <tr><td> 90 </td><td> 2239 </td><td> 135.75 Kbp </td><td> 2239 </td><td> 135.75 Kbp </td></tr>  <tr><td> 100 </td><td> 5536 </td><td> 4.83 Kbp </td><td> 5535 </td><td> 4.83 Kbp </td></tr>  </tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 5537 </th><th> 1.45 Gbp </th><th> 5536 </th><th> 1.45 Gbp </th></tr>
   </tfoot>
   </table>
 alt1version: assembly_curated
 assembly_status: <em style="color:green">curated assembly</em>
-bionano_scale: 0
 common_name: Greenland wolf
-data_10x_bases: 274.31 Gbp
+data_10x_bases: 283.59 Gbp
 data_10x_bytes: 167.896 GB
-data_10x_coverage: 112.08x
-data_10x_files: 24
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/10x/ .<br>
-data_10x_scale: 1.5216
-data_arima_scale: 1
-data_dovetail_bases: 119.62 Gbp
+data_10x_coverage: 115.87x
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/10x/<br>
+data_10x_scale: 1.5731
+data_dovetail_bases: 116.58 Gbp
 data_dovetail_bytes: 72.144 GB
-data_dovetail_coverage: 48.88x
-data_dovetail_files: 1
-data_dovetail_links: aws s3 --no-sign-request sync s3://genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/dovetail/ .<br>
-data_dovetail_scale: 1.5442
-data_illumina_scale: 1
-data_pbhifi_bases: 82.51 Gbp
-data_pbhifi_bytes: 68.416 GB
-data_pbhifi_coverage: 33.71x
-data_pbhifi_files: 6
-data_pbhifi_links: aws s3 --no-sign-request sync s3://genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/pacbio/ . --exclude "*subreads.bam*"<br>
-data_pbhifi_scale: 1.1232
-data_pbhifisub_scale: 0
-data_pbsubreads_scale: 1
-data_phase_scale: 1
-data_status: <em style="color:orange">some data</em>
+data_dovetail_coverage: 47.63x
+data_dovetail_files: 666
+data_dovetail_links: s3://genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/dovetail/<br>
+data_dovetail_scale: 1.5050
+data_pacbiohifi_bam_bases: 82.67 Gbp
+data_pacbiohifi_bam_bytes: 68.416 GB
+data_pacbiohifi_bam_coverage: 33.78x
+data_pacbiohifi_bam_files: 666
+data_pacbiohifi_bam_links: s3://genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/pacbiohifi_bam/<br>
+data_pacbiohifi_bam_scale: 1.1253
+data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_905319845.1
 genbank_pri: GCA_905319855.2
 genome_size: 2447463909
 genome_size_display: 2.45 Gbp
-last_raw_data: 1605867184
-last_updated: 1619514894
+last_raw_data: 1651605565
+last_updated: 1651605565
 name: Canis lupus orion
 name_: Canis_lupus
 pri1date: 2021-03-15
-pri1filesize: 701 MB
+pri1filesize: 701 MiB
 pri1length: 2447463909
 pri1n50ctg: 34375412
 pri1n50scf: 65778685

@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-04-24
-alt1filesize: 1 GB
+alt1filesize: 1 GiB
 alt1length: 3686294574
 alt1n50ctg: 547939
 alt1n50scf: 548370
@@ -22,43 +22,37 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 184 </td><td> 1.52 Mbp </td><td> 184 </td><td> 1.52 Mbp </td></tr>  <tr><td> 20 </td><td> 475 </td><td> 1.09 Mbp </td><td> 475 </td><td> 1.09 Mbp </td></tr>  <tr><td> 30 </td><td> 863 </td><td> 0.85 Mbp </td><td> 863 </td><td> 0.85 Mbp </td></tr>  <tr><td> 40 </td><td> 1350 </td><td> 0.68 Mbp </td><td> 1350 </td><td> 0.68 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 1960 </td><td> 0.55 Mbp </td><td> 1959 </td><td> 0.55 Mbp </td></tr>  <tr><td> 60 </td><td> 2702 </td><td> 0.45 Mbp </td><td> 2701 </td><td> 0.45 Mbp </td></tr>  <tr><td> 70 </td><td> 3625 </td><td> 0.35 Mbp </td><td> 3624 </td><td> 0.35 Mbp </td></tr>  <tr><td> 80 </td><td> 4851 </td><td> 0.25 Mbp </td><td> 4849 </td><td> 0.25 Mbp </td></tr>  <tr><td> 90 </td><td> 6815 </td><td> 0.14 Mbp </td><td> 6811 </td><td> 0.14 Mbp </td></tr>  <tr><td> 100 </td><td> 12033 </td><td> 287  bp </td><td> 12019 </td><td> 287  bp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 184 </td><td> 1.52 Mbp </td><td> 184 </td><td> 1.52 Mbp </td></tr>  <tr><td> 20 </td><td> 475 </td><td> 1.09 Mbp </td><td> 475 </td><td> 1.09 Mbp </td></tr>  <tr><td> 30 </td><td> 863 </td><td> 0.85 Mbp </td><td> 863 </td><td> 0.85 Mbp </td></tr>  <tr><td> 40 </td><td> 1350 </td><td> 0.68 Mbp </td><td> 1350 </td><td> 0.68 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 1960 </td><td> 0.55 Mbp </td><td> 1959 </td><td> 0.55 Mbp </td></tr>  <tr><td> 60 </td><td> 2702 </td><td> 449.05 Kbp </td><td> 2701 </td><td> 449.20 Kbp </td></tr>  <tr><td> 70 </td><td> 3625 </td><td> 354.34 Kbp </td><td> 3624 </td><td> 354.72 Kbp </td></tr>  <tr><td> 80 </td><td> 4851 </td><td> 249.97 Kbp </td><td> 4849 </td><td> 250.04 Kbp </td></tr>  <tr><td> 90 </td><td> 6815 </td><td> 138.42 Kbp </td><td> 6811 </td><td> 138.50 Kbp </td></tr>  <tr><td> 100 </td><td> 12033 </td><td> 287  bp </td><td> 12019 </td><td> 287  bp </td></tr>  </tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 12034 </th><th> 3.69 Gbp </th><th> 12020 </th><th> 3.69 Gbp </th></tr>
   </tfoot>
   </table>
 alt1version: assembly_curated
 assembly_status: <em style="color:green">curated assembly</em>
-bionano_scale: 0
 common_name: common frog
-data_10x_bases: 401.01 Gbp
+data_10x_bases: 404.57 Gbp
 data_10x_bytes: 250.988 GB
-data_10x_coverage: 97.54x
-data_10x_files: 36
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/10x/ .<br>
-data_10x_scale: 1.488
-data_arima_scale: 1
-data_bionano_bases: 1565.56 Gbp
+data_10x_coverage: 98.40x
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/10x/<br>
+data_10x_scale: 1.5012
+data_bionano_bases: N/A
 data_bionano_bytes: 2.186 GB
-data_bionano_coverage: 380.78x
-data_bionano_files: 1
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/bionano/ .<br>
-data_dovetail_bases: 346.28 Gbp
+data_bionano_coverage: N/A
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/bionano/<br>
+data_dovetail_bases: 338.15 Gbp
 data_dovetail_bytes: 222.656 GB
-data_dovetail_coverage: 84.22x
-data_dovetail_files: 3
-data_dovetail_links: aws s3 --no-sign-request sync s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/dovetail/ .<br>
-data_dovetail_scale: 1.4484
-data_illumina_scale: 1
-data_pbhifi_scale: 1
-data_pbhifisub_scale: 0
-data_pbsubreads_bases: 318.98 Gbp
-data_pbsubreads_bytes: 579.652 GB
-data_pbsubreads_coverage: 77.58x
-data_pbsubreads_files: 3
-data_pbsubreads_links: aws s3 --no-sign-request sync s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/pacbio/ . --exclude "*ccs*bam*"<br>
-data_pbsubreads_scale: 0.5125
-data_phase_scale: 1
+data_dovetail_coverage: 82.25x
+data_dovetail_files: 666
+data_dovetail_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/dovetail/<br>
+data_dovetail_scale: 1.4144
+data_pacbio_bases: 320.10 Gbp
+data_pacbio_bytes: 579.652 GB
+data_pacbio_coverage: 77.86x
+data_pacbio_files: 666
+data_pacbio_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/pacbio/<br>
+data_pacbio_scale: 0.5143
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_905171725.1
 genbank_pri: GCA_905171775.1
@@ -67,7 +61,7 @@ genome_size_display: 4.11 Gbp
 last_raw_data: 1578516698
 last_updated: 1605869359
 mito1date: 2019-10-03
-mito1filesize: 6 KB
+mito1filesize: 6 KiB
 mito1length: 22664
 mito1n50ctg: 22664
 mito1n50scf: 22664
@@ -98,7 +92,7 @@ mito1version: assembly_MT_rockefeller
 name: Rana temporaria
 name_: Rana_temporaria
 pri1date: 2020-04-24
-pri1filesize: 1 GB
+pri1filesize: 1 GiB
 pri1length: 4111422596
 pri1n50ctg: 6262427
 pri1n50scf: 481763206

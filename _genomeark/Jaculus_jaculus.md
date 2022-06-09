@@ -1,44 +1,42 @@
 ---
 assembly_status: <em style="color:green">curated assembly</em>
-bionano_scale: 0
 common_name: lesser Egyptian jerboa
 data_10x_bases: N/A
 data_10x_bytes: 127.252 GB
 data_10x_coverage: N/A
-data_10x_files: 8
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/10x/ .<br>
-data_10x_scale: 1.9028
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/10x/<br>
+data_10x_scale: 1.9377
 data_arima_bases: N/A
 data_arima_bytes: 108.872 GB
 data_arima_coverage: N/A
-data_arima_files: 2
-data_arima_links: aws s3 --no-sign-request sync s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/arima/ .<br>
-data_arima_scale: 1.6732
+data_arima_files: 666
+data_arima_links: s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/arima/<br>
+data_arima_scale: 1.6626
 data_bionano_bases: N/A
 data_bionano_bytes: 1.516 GB
 data_bionano_coverage: N/A
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/bionano/ .<br>
-data_dovetail_scale: 1
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/bionano/<br>
 data_illumina_bases: N/A
 data_illumina_bytes: 167.533 GB
 data_illumina_coverage: N/A
-data_illumina_files: 8
-data_illumina_links: aws s3 --no-sign-request sync s3://genomeark/species/Jaculus_jaculus/mJacJac2/genomic_data/illumina/ .<br>aws s3 --no-sign-request sync s3://genomeark/species/Jaculus_jaculus/mJacJac3/genomic_data/illumina/ .<br>
-data_illumina_scale: 2.0359
-data_pbhifi_scale: 1
-data_pbhifisub_scale: 0
-data_pbsubreads_bases: N/A
-data_pbsubreads_bytes: 2383.667 GB
-data_pbsubreads_coverage: N/A
-data_pbsubreads_files: 15
-data_pbsubreads_links: aws s3 --no-sign-request sync s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/pacbio/ . --exclude "*ccs*bam*"<br>
-data_pbsubreads_scale: 0.5162
-data_phase_scale: 1
+data_illumina_files: 666
+data_illumina_links: s3://genomeark/species/Jaculus_jaculus/mJacJac2/genomic_data/illumina/<br>s3://genomeark/species/Jaculus_jaculus/mJacJac3/genomic_data/illumina/<br>
+data_illumina_scale: 2.0484
+data_pacbio_bases: N/A
+data_pacbio_bytes: 2383.667 GB
+data_pacbio_coverage: N/A
+data_pacbio_files: 666
+data_pacbio_links: s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/pacbio/<br>
+data_pacbio_scale: 0.5172
 data_status: <em style="color:green">all data</em>
+genbank_pat: GCA_020740715.1
+genome_size: 0
 last_raw_data: 1613403927
 last_updated: 1626287538
 mat1date: 2021-05-07
-mat1filesize: 818 MB
+mat1filesize: 818 MiB
 mat1length: 2864655229
 mat1n50ctg: 21929955
 mat1n50scf: 117237060
@@ -67,7 +65,7 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mgd1date: 2021-05-07
-mgd1filesize: 818 MB
+mgd1filesize: 818 MiB
 mgd1length: 2863848715
 mgd1n50ctg: 21929955
 mgd1n50scf: 158244790
@@ -98,7 +96,7 @@ mgd1version: assembly_curated
 name: Jaculus jaculus
 name_: Jaculus_jaculus
 pat1date: 2021-05-07
-pat1filesize: 687 MB
+pat1filesize: 687 MiB
 pat1length: 2595216862
 pat1n50ctg: 6464472
 pat1n50scf: 117185741
@@ -120,7 +118,7 @@ pat1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 4 </td><td> 38.04 Mbp </td><td> 1 </td><td> 197.58 Mbp </td></tr>  <tr><td> 20 </td><td> 13 </td><td> 23.94 Mbp </td><td> 2 </td><td> 176.27 Mbp </td></tr>  <tr><td> 30 </td><td> 24 </td><td> 16.87 Mbp </td><td> 4 </td><td> 162.29 Mbp </td></tr>  <tr><td> 40 </td><td> 42 </td><td> 10.42 Mbp </td><td> 5 </td><td> 149.00 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 73 </td><td style="background-color:#88ff88;"> 6.46 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 117.19 Mbp </td></tr>  <tr><td> 60 </td><td> 122 </td><td> 3.69 Mbp </td><td> 10 </td><td> 94.10 Mbp </td></tr>  <tr><td> 70 </td><td> 224 </td><td> 1.44 Mbp </td><td> 13 </td><td> 68.97 Mbp </td></tr>  <tr><td> 80 </td><td> 536 </td><td> 0.51 Mbp </td><td> 17 </td><td> 53.65 Mbp </td></tr>  <tr><td> 90 </td><td> 1236 </td><td> 0.25 Mbp </td><td> 24 </td><td> 35.02 Mbp </td></tr>  <tr><td> 100 </td><td> 3382 </td><td> 1  bp </td><td> 507 </td><td> 2.00 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 38.04 Mbp </td><td> 1 </td><td> 197.58 Mbp </td></tr>  <tr><td> 20 </td><td> 13 </td><td> 23.94 Mbp </td><td> 2 </td><td> 176.27 Mbp </td></tr>  <tr><td> 30 </td><td> 24 </td><td> 16.87 Mbp </td><td> 4 </td><td> 162.29 Mbp </td></tr>  <tr><td> 40 </td><td> 42 </td><td> 10.42 Mbp </td><td> 5 </td><td> 149.00 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 73 </td><td style="background-color:#88ff88;"> 6.46 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 117.19 Mbp </td></tr>  <tr><td> 60 </td><td> 122 </td><td> 3.69 Mbp </td><td> 10 </td><td> 94.10 Mbp </td></tr>  <tr><td> 70 </td><td> 224 </td><td> 1.44 Mbp </td><td> 13 </td><td> 68.97 Mbp </td></tr>  <tr><td> 80 </td><td> 536 </td><td> 0.51 Mbp </td><td> 17 </td><td> 53.65 Mbp </td></tr>  <tr><td> 90 </td><td> 1236 </td><td> 248.12 Kbp </td><td> 24 </td><td> 35.02 Mbp </td></tr>  <tr><td> 100 </td><td> 3382 </td><td> 1  bp </td><td> 507 </td><td> 2.00 Kbp </td></tr>  </tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 3383 </th><th> 2.41 Gbp </th><th> 508 </th><th> 2.60 Gbp </th></tr>
   </tfoot>

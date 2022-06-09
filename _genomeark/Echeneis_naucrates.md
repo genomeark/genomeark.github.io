@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-04-01
-alt1filesize: 155 MB
+alt1filesize: 155 MiB
 alt1length: 528272450
 alt1n50ctg: 889301
 alt1n50scf: 915456
@@ -22,43 +22,37 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 14 </td><td> 2.79 Mbp </td><td> 11 </td><td> 3.07 Mbp </td></tr>  <tr><td> 20 </td><td> 36 </td><td> 1.97 Mbp </td><td> 32 </td><td> 2.05 Mbp </td></tr>  <tr><td> 30 </td><td> 66 </td><td> 1.58 Mbp </td><td> 61 </td><td> 1.65 Mbp </td></tr>  <tr><td> 40 </td><td> 106 </td><td> 1.17 Mbp </td><td> 99 </td><td> 1.24 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 157 </td><td> 0.89 Mbp </td><td> 148 </td><td> 0.92 Mbp </td></tr>  <tr><td> 60 </td><td> 229 </td><td> 0.62 Mbp </td><td> 218 </td><td> 0.64 Mbp </td></tr>  <tr><td> 70 </td><td> 333 </td><td> 0.42 Mbp </td><td> 320 </td><td> 0.43 Mbp </td></tr>  <tr><td> 80 </td><td> 488 </td><td> 0.27 Mbp </td><td> 475 </td><td> 0.27 Mbp </td></tr>  <tr><td> 90 </td><td> 750 </td><td> 0.16 Mbp </td><td> 736 </td><td> 0.16 Mbp </td></tr>  <tr><td> 100 </td><td> 1423 </td><td> 313  bp </td><td> 1404 </td><td> 313  bp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 14 </td><td> 2.79 Mbp </td><td> 11 </td><td> 3.07 Mbp </td></tr>  <tr><td> 20 </td><td> 36 </td><td> 1.97 Mbp </td><td> 32 </td><td> 2.05 Mbp </td></tr>  <tr><td> 30 </td><td> 66 </td><td> 1.58 Mbp </td><td> 61 </td><td> 1.65 Mbp </td></tr>  <tr><td> 40 </td><td> 106 </td><td> 1.17 Mbp </td><td> 99 </td><td> 1.24 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 157 </td><td> 0.89 Mbp </td><td> 148 </td><td> 0.92 Mbp </td></tr>  <tr><td> 60 </td><td> 229 </td><td> 0.62 Mbp </td><td> 218 </td><td> 0.64 Mbp </td></tr>  <tr><td> 70 </td><td> 333 </td><td> 422.82 Kbp </td><td> 320 </td><td> 426.59 Kbp </td></tr>  <tr><td> 80 </td><td> 488 </td><td> 268.09 Kbp </td><td> 475 </td><td> 268.09 Kbp </td></tr>  <tr><td> 90 </td><td> 750 </td><td> 156.29 Kbp </td><td> 736 </td><td> 156.55 Kbp </td></tr>  <tr><td> 100 </td><td> 1423 </td><td> 313  bp </td><td> 1404 </td><td> 313  bp </td></tr>  </tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 1424 </th><th> 0.53 Gbp </th><th> 1405 </th><th> 0.53 Gbp </th></tr>
   </tfoot>
   </table>
 alt1version: assembly_curated
 assembly_status: <em style="color:green">curated assembly</em>
-bionano_scale: 0
 common_name: live sharksucker
-data_10x_bases: 126.47 Gbp
+data_10x_bases: 125.19 Gbp
 data_10x_bytes: 79.751 GB
-data_10x_coverage: 232.39x
-data_10x_files: 12
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/10x/ .<br>
-data_10x_scale: 1.4769
-data_arima_scale: 1
-data_bionano_bases: 715.63 Gbp
+data_10x_coverage: 230.05x
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/10x/<br>
+data_10x_scale: 1.4620
+data_bionano_bases: N/A
 data_bionano_bytes: 0.900 GB
-data_bionano_coverage: 1314.98x
-data_bionano_files: 1
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/bionano/ .<br>
-data_dovetail_bases: 137.61 Gbp
+data_bionano_coverage: N/A
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/bionano/<br>
+data_dovetail_bases: 137.31 Gbp
 data_dovetail_bytes: 83.970 GB
-data_dovetail_coverage: 252.87x
-data_dovetail_files: 1
-data_dovetail_links: aws s3 --no-sign-request sync s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/dovetail/ .<br>
-data_dovetail_scale: 1.5263
-data_illumina_scale: 1
-data_pbhifi_scale: 1
-data_pbhifisub_scale: 0
-data_pbsubreads_bases: 45.22 Gbp
-data_pbsubreads_bytes: 79.001 GB
-data_pbsubreads_coverage: 83.09x
-data_pbsubreads_files: 5
-data_pbsubreads_links: aws s3 --no-sign-request sync s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/pacbio/ . --exclude "*ccs*bam*"<br>
-data_pbsubreads_scale: 0.5331
-data_phase_scale: 1
+data_dovetail_coverage: 252.31x
+data_dovetail_files: 666
+data_dovetail_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/dovetail/<br>
+data_dovetail_scale: 1.5229
+data_pacbio_bases: 45.30 Gbp
+data_pacbio_bytes: 79.001 GB
+data_pacbio_coverage: 83.23x
+data_pacbio_files: 666
+data_pacbio_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/pacbio/<br>
+data_pacbio_scale: 0.5340
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_900963505.1
 genbank_pri: GCA_900963305.2
@@ -67,7 +61,7 @@ genome_size_display: 0.54 Gbp
 last_raw_data: 1549384902
 last_updated: 1570719802
 mito1date: 2019-10-02
-mito1filesize: 5 KB
+mito1filesize: 5 KiB
 mito1length: 16610
 mito1n50ctg: 16610
 mito1n50scf: 16610
@@ -98,7 +92,7 @@ mito1version: assembly_MT_rockefeller
 name: Echeneis naucrates
 name_: Echeneis_naucrates
 pri1date: 2019-04-01
-pri1filesize: 147 MB
+pri1filesize: 147 MiB
 pri1length: 544212633
 pri1n50ctg: 12371513
 pri1n50scf: 23287306

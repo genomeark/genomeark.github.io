@@ -1,0 +1,1 @@
+../_genomeark/Euleptes_europaea.md

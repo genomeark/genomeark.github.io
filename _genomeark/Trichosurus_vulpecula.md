@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-01-15
-alt1filesize: 757 MB
+alt1filesize: 757 MiB
 alt1length: 2591928569
 alt1n50ctg: 438275
 alt1n50scf: 438275
@@ -22,43 +22,37 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 142 </td><td> 1.56 Mbp </td><td> 142 </td><td> 1.56 Mbp </td></tr>  <tr><td> 20 </td><td> 381 </td><td> 1.06 Mbp </td><td> 381 </td><td> 1.06 Mbp </td></tr>  <tr><td> 30 </td><td> 709 </td><td> 0.80 Mbp </td><td> 709 </td><td> 0.80 Mbp </td></tr>  <tr><td> 40 </td><td> 1143 </td><td> 0.60 Mbp </td><td> 1143 </td><td> 0.60 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 1722 </td><td> 0.44 Mbp </td><td> 1722 </td><td> 0.44 Mbp </td></tr>  <tr><td> 60 </td><td> 2552 </td><td> 0.30 Mbp </td><td> 2552 </td><td> 0.30 Mbp </td></tr>  <tr><td> 70 </td><td> 3898 </td><td> 0.16 Mbp </td><td> 3897 </td><td> 0.16 Mbp </td></tr>  <tr><td> 80 </td><td> 6931 </td><td> 62.47 Kbp </td><td> 6895 </td><td> 63.50 Kbp </td></tr>  <tr><td> 90 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 100 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 142 </td><td> 1.56 Mbp </td><td> 142 </td><td> 1.56 Mbp </td></tr>  <tr><td> 20 </td><td> 381 </td><td> 1.06 Mbp </td><td> 381 </td><td> 1.06 Mbp </td></tr>  <tr><td> 30 </td><td> 709 </td><td> 0.80 Mbp </td><td> 709 </td><td> 0.80 Mbp </td></tr>  <tr><td> 40 </td><td> 1143 </td><td> 0.60 Mbp </td><td> 1143 </td><td> 0.60 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 1722 </td><td> 438.28 Kbp </td><td> 1722 </td><td> 438.28 Kbp </td></tr>  <tr><td> 60 </td><td> 2552 </td><td> 297.89 Kbp </td><td> 2552 </td><td> 297.89 Kbp </td></tr>  <tr><td> 70 </td><td> 3898 </td><td> 162.46 Kbp </td><td> 3897 </td><td> 163.04 Kbp </td></tr>  <tr><td> 80 </td><td> 6931 </td><td> 62.47 Kbp </td><td> 6895 </td><td> 63.50 Kbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
   <tfoot>
   <tr><th> 0.864x </th><th> 12446 </th><th> 2.59 Gbp </th><th> 12133 </th><th> 2.59 Gbp </th></tr>
   </tfoot>
   </table>
 alt1version: assembly_curated
 assembly_status: <em style="color:green">curated assembly</em>
-bionano_scale: 0
 common_name: common brushtail possum
-data_10x_bases: 242.17 Gbp
+data_10x_bases: 246.68 Gbp
 data_10x_bytes: 115.568 GB
-data_10x_coverage: 80.72x
-data_10x_files: 8
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/10x/ .<br>
-data_10x_scale: 1.9516
-data_arima_bases: 445.09 Gbp
+data_10x_coverage: 82.23x
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/10x/<br>
+data_10x_scale: 1.9879
+data_arima_bases: 441.83 Gbp
 data_arima_bytes: 227.757 GB
-data_arima_coverage: 148.36x
-data_arima_files: 6
-data_arima_links: aws s3 --no-sign-request sync s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/arima/ .<br>
-data_arima_scale: 1.82
-data_bionano_bases: 591.20 Gbp
+data_arima_coverage: 147.28x
+data_arima_files: 666
+data_arima_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/arima/<br>
+data_arima_scale: 1.8067
+data_bionano_bases: N/A
 data_bionano_bytes: 1.178 GB
-data_bionano_coverage: 197.07x
-data_bionano_files: 1
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/bionano/ .<br>
-data_dovetail_scale: 1
-data_illumina_scale: 1
-data_pbhifi_scale: 1
-data_pbhifisub_scale: 0
-data_pbsubreads_bases: 182.18 Gbp
-data_pbsubreads_bytes: 315.605 GB
-data_pbsubreads_coverage: 60.73x
-data_pbsubreads_files: 30
-data_pbsubreads_links: aws s3 --no-sign-request sync s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/pacbio/ . --exclude "*ccs*bam*"<br>
-data_pbsubreads_scale: 0.5376
-data_phase_scale: 1
+data_bionano_coverage: N/A
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/bionano/<br>
+data_pacbio_bases: 182.35 Gbp
+data_pacbio_bytes: 315.605 GB
+data_pacbio_coverage: 60.78x
+data_pacbio_files: 666
+data_pacbio_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/pacbio/<br>
+data_pacbio_scale: 0.5381
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_011100645.1
 genbank_pri: GCA_011100635.1
@@ -68,7 +62,10 @@ genome_size_method: null
 last_raw_data: 1558101664
 last_updated: 1581069403
 mito1date: 2019-10-04
-mito1filesize: 5 KB
+mito1filesize: 5 KiB
+mito1length: 17277
+mito1n50ctg: 0
+mito1n50scf: 0
 mito1seq: https://s3.amazonaws.com/genomeark/species/Trichosurus_vulpecula/mTriVul1/assembly_MT_rockefeller/mTriVul1.MT.20191004.fasta.gz
 mito1sizes: |
   <table class="sequence-sizes-table">
@@ -87,16 +84,16 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 20 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 30 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 40 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> - </td><td style="background-color:#ff8888;"> - </td><td> - </td><td style="background-color:#ff8888;"> - </td></tr>  <tr><td> 60 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 70 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 80 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 90 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  <tr><td> 100 </td><td> - </td><td> - </td><td> - </td><td> - </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 5992 </th><th> A </th><th> 0.3468  bp </th><th> A </th><th> 0.3468  bp </th></tr>
+  <tr><th> 0.000x </th><th> 1 </th><th> 17.28 Kbp </th><th> 1 </th><th> 17.28 Kbp </th></tr>
   </tfoot>
   </table>
 mito1version: assembly_MT_rockefeller
 name: Trichosurus vulpecula
 name_: Trichosurus_vulpecula
 pri1date: 2020-01-15
-pri1filesize: 972 MB
+pri1filesize: 972 MiB
 pri1length: 3359330516
 pri1n50ctg: 4820465
 pri1n50scf: 442560073

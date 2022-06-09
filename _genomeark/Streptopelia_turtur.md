@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-05-23
-alt1filesize: 308 MB
+alt1filesize: 308 MiB
 alt1length: 1035214426
 alt1n50ctg: 776317
 alt1n50scf: 776317
@@ -22,43 +22,37 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 35 </td><td> 2.23 Mbp </td><td> 35 </td><td> 2.23 Mbp </td></tr>  <tr><td> 20 </td><td> 89 </td><td> 1.68 Mbp </td><td> 89 </td><td> 1.68 Mbp </td></tr>  <tr><td> 30 </td><td> 159 </td><td> 1.29 Mbp </td><td> 159 </td><td> 1.29 Mbp </td></tr>  <tr><td> 40 </td><td> 250 </td><td> 1.01 Mbp </td><td> 250 </td><td> 1.01 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 368 </td><td> 0.78 Mbp </td><td> 368 </td><td> 0.78 Mbp </td></tr>  <tr><td> 60 </td><td> 523 </td><td> 0.58 Mbp </td><td> 523 </td><td> 0.58 Mbp </td></tr>  <tr><td> 70 </td><td> 736 </td><td> 0.41 Mbp </td><td> 736 </td><td> 0.41 Mbp </td></tr>  <tr><td> 80 </td><td> 1055 </td><td> 0.26 Mbp </td><td> 1055 </td><td> 0.26 Mbp </td></tr>  <tr><td> 90 </td><td> 1635 </td><td> 0.13 Mbp </td><td> 1635 </td><td> 0.13 Mbp </td></tr>  <tr><td> 100 </td><td> 3332 </td><td> 243  bp </td><td> 3332 </td><td> 243  bp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 35 </td><td> 2.23 Mbp </td><td> 35 </td><td> 2.23 Mbp </td></tr>  <tr><td> 20 </td><td> 89 </td><td> 1.68 Mbp </td><td> 89 </td><td> 1.68 Mbp </td></tr>  <tr><td> 30 </td><td> 159 </td><td> 1.29 Mbp </td><td> 159 </td><td> 1.29 Mbp </td></tr>  <tr><td> 40 </td><td> 250 </td><td> 1.01 Mbp </td><td> 250 </td><td> 1.01 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 368 </td><td> 0.78 Mbp </td><td> 368 </td><td> 0.78 Mbp </td></tr>  <tr><td> 60 </td><td> 523 </td><td> 0.58 Mbp </td><td> 523 </td><td> 0.58 Mbp </td></tr>  <tr><td> 70 </td><td> 736 </td><td> 409.15 Kbp </td><td> 736 </td><td> 409.15 Kbp </td></tr>  <tr><td> 80 </td><td> 1055 </td><td> 255.11 Kbp </td><td> 1055 </td><td> 255.11 Kbp </td></tr>  <tr><td> 90 </td><td> 1635 </td><td> 125.98 Kbp </td><td> 1635 </td><td> 125.98 Kbp </td></tr>  <tr><td> 100 </td><td> 3332 </td><td> 243  bp </td><td> 3332 </td><td> 243  bp </td></tr>  </tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 3333 </th><th> 1.04 Gbp </th><th> 3333 </th><th> 1.04 Gbp </th></tr>
   </tfoot>
   </table>
 alt1version: assembly_curated
 assembly_status: <em style="color:green">curated assembly</em>
-bionano_scale: 0
 common_name: turtle dove
-data_10x_bases: 133.52 Gbp
+data_10x_bases: 131.88 Gbp
 data_10x_bytes: 81.016 GB
-data_10x_coverage: 113.26x
-data_10x_files: 12
-data_10x_links: aws s3 --no-sign-request sync s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/10x/ .<br>
-data_10x_scale: 1.5349
-data_arima_bases: 123.74 Gbp
+data_10x_coverage: 111.86x
+data_10x_files: 666
+data_10x_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/10x/<br>
+data_10x_scale: 1.5160
+data_arima_bases: 125.06 Gbp
 data_arima_bytes: 58.781 GB
-data_arima_coverage: 104.96x
-data_arima_files: 10
-data_arima_links: aws s3 --no-sign-request sync s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/arima/ .<br>
-data_arima_scale: 1.9606
-data_bionano_bases: 347.68 Gbp
+data_arima_coverage: 106.08x
+data_arima_files: 666
+data_arima_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/arima/<br>
+data_arima_scale: 1.9815
+data_bionano_bases: N/A
 data_bionano_bytes: 0.536 GB
-data_bionano_coverage: 294.91x
-data_bionano_files: 1
-data_bionano_links: aws s3 --no-sign-request sync s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/bionano/ .<br>
-data_dovetail_scale: 1
-data_illumina_scale: 1
-data_pbhifi_scale: 1
-data_pbhifisub_scale: 0
-data_pbsubreads_bases: 61.73 Gbp
-data_pbsubreads_bytes: 107.985 GB
-data_pbsubreads_coverage: 52.36x
-data_pbsubreads_files: 18
-data_pbsubreads_links: aws s3 --no-sign-request sync s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/pacbio/ . --exclude "*ccs*bam*"<br>
-data_pbsubreads_scale: 0.5324
-data_phase_scale: 1
+data_bionano_coverage: N/A
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/bionano/<br>
+data_pacbio_bases: 61.72 Gbp
+data_pacbio_bytes: 107.985 GB
+data_pacbio_coverage: 52.35x
+data_pacbio_files: 666
+data_pacbio_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/pacbio/<br>
+data_pacbio_scale: 0.5323
 data_status: <em style="color:green">all data</em>
 genbank_alt: GCA_901699165.2
 genbank_pri: GCA_901699155.2
@@ -69,7 +63,7 @@ last_updated: 1559462111
 name: Streptopelia turtur
 name_: Streptopelia_turtur
 pri1date: 2019-05-23
-pri1filesize: 344 MB
+pri1filesize: 344 MiB
 pri1length: 1178928410
 pri1n50ctg: 3730413
 pri1n50scf: 80150727
@@ -91,7 +85,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 8 </td><td> 10.62 Mbp </td><td> 0 </td><td> 221.44 Mbp </td></tr>  <tr><td> 20 </td><td> 21 </td><td> 7.85 Mbp </td><td> 1 </td><td> 169.96 Mbp </td></tr>  <tr><td> 30 </td><td> 38 </td><td> 6.16 Mbp </td><td> 1 </td><td> 169.96 Mbp </td></tr>  <tr><td> 40 </td><td> 60 </td><td> 4.72 Mbp </td><td> 2 </td><td> 125.29 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 88 </td><td style="background-color:#88ff88;"> 3.73 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 80.15 Mbp </td></tr>  <tr><td> 60 </td><td> 122 </td><td> 2.96 Mbp </td><td> 5 </td><td> 70.85 Mbp </td></tr>  <tr><td> 70 </td><td> 169 </td><td> 2.10 Mbp </td><td> 8 </td><td> 34.57 Mbp </td></tr>  <tr><td> 80 </td><td> 242 </td><td> 1.21 Mbp </td><td> 12 </td><td> 22.27 Mbp </td></tr>  <tr><td> 90 </td><td> 399 </td><td> 0.48 Mbp </td><td> 19 </td><td> 10.84 Mbp </td></tr>  <tr><td> 100 </td><td> 1250 </td><td> 222  bp </td><td> 356 </td><td> 5.49 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 8 </td><td> 10.62 Mbp </td><td> 0 </td><td> 221.44 Mbp </td></tr>  <tr><td> 20 </td><td> 21 </td><td> 7.85 Mbp </td><td> 1 </td><td> 169.96 Mbp </td></tr>  <tr><td> 30 </td><td> 38 </td><td> 6.16 Mbp </td><td> 1 </td><td> 169.96 Mbp </td></tr>  <tr><td> 40 </td><td> 60 </td><td> 4.72 Mbp </td><td> 2 </td><td> 125.29 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 88 </td><td style="background-color:#88ff88;"> 3.73 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 80.15 Mbp </td></tr>  <tr><td> 60 </td><td> 122 </td><td> 2.96 Mbp </td><td> 5 </td><td> 70.85 Mbp </td></tr>  <tr><td> 70 </td><td> 169 </td><td> 2.10 Mbp </td><td> 8 </td><td> 34.57 Mbp </td></tr>  <tr><td> 80 </td><td> 242 </td><td> 1.21 Mbp </td><td> 12 </td><td> 22.27 Mbp </td></tr>  <tr><td> 90 </td><td> 399 </td><td> 478.08 Kbp </td><td> 19 </td><td> 10.84 Mbp </td></tr>  <tr><td> 100 </td><td> 1250 </td><td> 222  bp </td><td> 356 </td><td> 5.49 Kbp </td></tr>  </tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 1251 </th><th> 1.18 Gbp </th><th> 357 </th><th> 1.18 Gbp </th></tr>
   </tfoot>
