@@ -6,7 +6,7 @@
 name: GenomeArk
 
 # Short bio or description (displayed in the header)
-description: Vertebrate Genomes Project
+description: Genome Data from the VGP, T2T, EBP and other projects.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/images/vgp.png
