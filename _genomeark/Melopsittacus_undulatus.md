@@ -13,9 +13,9 @@ data_arima_coverage: 81.72x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/arima/<br>
 data_arima_scale: 1.7581
-data_bionano_bases: N/A
+data_bionano_bases: 1.23 Gbp
 data_bionano_bytes: 0.991 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.00x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/bionano/<br>
 data_illumina_bases: 381.94 Gbp
@@ -30,9 +30,9 @@ data_pacbio_coverage: 61.01x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5380
-data_status: <em style="color:green">all data</em>
-genbank_mat: GCA_012275265.1
-genbank_pat: GCA_012275275.1
+data_status: <em style="color:red">no data</em>
+genbank_mat: bMelUnd1:GCA_012275265.1
+genbank_pat: bMelUnd1:GCA_012275275.1
 genome_size: 1230000000
 genome_size_display: 1.23 Gbp
 genome_size_method: null

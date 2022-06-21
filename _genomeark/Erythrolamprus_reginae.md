@@ -7,9 +7,9 @@ data_arima_coverage: 101.81x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/genomic_data/arima/<br>
 data_arima_scale: 1.8884
-data_bionano_bases: N/A
+data_bionano_bases: 5.95 Gbp
 data_bionano_bytes: 0.661 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 3.02x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/genomic_data/bionano/<br>
 data_pacbiohifi_bam_bases: 197.09 Gbp
@@ -30,7 +30,7 @@ data_pacbiohifi_fqgz_coverage: 34.47x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1425
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 1966000000
 genome_size_display: 1.97 Gbp
 genome_size_method: GoAT

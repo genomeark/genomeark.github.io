@@ -42,9 +42,9 @@ data_arima_coverage: 94.25x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/arima/<br>
 data_arima_scale: 1.9030
-data_bionano_bases: N/A
+data_bionano_bases: 4.59 Gbp
 data_bionano_bytes: 2.321 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.86x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/bionano/<br>
 data_pacbio_bases: 179.99 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 72.83x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5384
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_007474575.2
-genbank_pri: GCA_007474595.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: mLynCan4:GCA_007474575.2
+genbank_pri: mLynCan4:GCA_007474595.2
 genome_size: 2471525315
 genome_size_display: 2.47 Gbp
 last_raw_data: 1534379101

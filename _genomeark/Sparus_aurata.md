@@ -48,9 +48,9 @@ data_pacbio_coverage: 56.56x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Sparus_aurata/fSpaAur1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5183
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_900880695.1
-genbank_pri: GCA_900880675.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: fSpaAur1:GCA_900880695.1
+genbank_pri: fSpaAur1:GCA_900880675.2
 genome_size: 833578411
 genome_size_display: 0.83 Gbp
 last_raw_data: 1523525722

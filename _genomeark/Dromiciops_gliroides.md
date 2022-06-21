@@ -42,9 +42,9 @@ data_arima_coverage: 73.58x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Dromiciops_gliroides/mDroGli1/genomic_data/arima/<br>
 data_arima_scale: 1.9274
-data_bionano_bases: N/A
+data_bionano_bases: 3.36 Gbp
 data_bionano_bytes: 0.991 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.02x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Dromiciops_gliroides/mDroGli1/genomic_data/bionano/<br>
 data_pacbio_bases: 208.32 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 63.07x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Dromiciops_gliroides/mDroGli1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5299
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_019395325.1
-genbank_pri: GCA_019393635.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: mDroGli1:GCA_019395325.1
+genbank_pri: mDroGli1:GCA_019393635.1
 genome_size: 3303199800
 genome_size_display: 3.30 Gbp
 last_raw_data: 1601308154

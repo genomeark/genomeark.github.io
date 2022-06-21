@@ -13,9 +13,9 @@ data_arima_coverage: 66.82x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/arima/<br>
 data_arima_scale: 1.4505
-data_bionano_bases: N/A
+data_bionano_bases: 2.58 Gbp
 data_bionano_bytes: 1.086 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.03x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/bionano/<br>
 data_illumina_bases: 405.64 Gbp
@@ -30,7 +30,7 @@ data_pacbio_coverage: 65.87x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5361
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 2500000000
 genome_size_display: 2.50 Gbp
 genome_size_method: null

@@ -7,9 +7,9 @@ data_10x_coverage: 68.67x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/10x/<br>
 data_10x_scale: 1.5057
-data_bionano_bases: N/A
+data_bionano_bases: 7.24 Gbp
 data_bionano_bytes: 0.785 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 2.00x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/bionano/<br>
 data_ont_bases: 397.21 Gbp
@@ -36,7 +36,7 @@ data_pacbiohifi_fqgz_coverage: 59.39x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2677
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry

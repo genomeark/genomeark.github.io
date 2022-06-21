@@ -42,9 +42,9 @@ data_arima_coverage: 208.17x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/arima/<br>
 data_arima_scale: 1.6111
-data_bionano_bases: N/A
+data_bionano_bases: 0.66 Gbp
 data_bionano_bytes: 1.288 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.02x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/bionano/<br>
 data_pacbio_bases: 59.90 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 92.44x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5293
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_020382915.1
-genbank_pri: GCA_020382885.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fScaArg1:GCA_020382915.1
+genbank_pri: fScaArg1:GCA_020382885.1
 genome_size: 647966298
 genome_size_display: 0.65 Gbp
 genome_size_method: genomescope

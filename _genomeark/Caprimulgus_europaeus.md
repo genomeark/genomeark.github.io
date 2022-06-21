@@ -42,9 +42,9 @@ data_arima_coverage: 59.67x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/arima/<br>
 data_arima_scale: 1.5730
-data_bionano_bases: N/A
+data_bionano_bases: 1.21 Gbp
 data_bionano_bytes: 2.629 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.02x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/bionano/<br>
 data_pacbio_bases: 159.31 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 134.66x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5216
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_907165095.1
-genbank_pri: GCA_907165065.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bCapEur3:GCA_907165095.1
+genbank_pri: bCapEur3:GCA_907165065.1
 genome_size: 1183056838
 genome_size_display: 1.18 Gbp
 genome_size_method: genomescope (k=31)

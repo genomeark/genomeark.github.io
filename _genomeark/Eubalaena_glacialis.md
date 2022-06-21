@@ -1,9 +1,9 @@
 ---
 assembly_status: <em style="color:red">no assembly</em>
 common_name: North Atlantic right whale
-data_bionano_bases: N/A
+data_bionano_bases: 2.49 Gbp
 data_bionano_bytes: 0.948 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.87x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/bionano/<br>
 data_pacbiohifi_bam_bases: 74.79 Gbp
@@ -24,7 +24,7 @@ data_pacbiohifi_fqgz_coverage: 29.89x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1989
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 2866000000
 genome_size_display: 2.87 Gbp
 genome_size_method: GoAT

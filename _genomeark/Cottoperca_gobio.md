@@ -42,9 +42,9 @@ data_arima_coverage: 128.52x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Cottoperca_gobio/fCotGob2/genomic_data/arima/<br>
 data_arima_scale: 1.9177
-data_bionano_bases: N/A
+data_bionano_bases: 3.05 Gbp
 data_bionano_bytes: 3.399 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 4.35x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Cottoperca_gobio/fCotGob3/genomic_data/bionano/<br>
 data_pacbio_bases: 48.64 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 69.48x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Cottoperca_gobio/fCotGob3/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5219
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_900634435.1
-genbank_pri: GCA_900634415.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fCotGob3:GCA_900634435.1
+genbank_pri: fCotGob3:GCA_900634415.1
 genome_size: 700000000
 genome_size_display: 0.70 Gbp
 last_raw_data: 1523523546

@@ -1,0 +1,1 @@
+../_genomeark/Symphalangus_syndactylus.md

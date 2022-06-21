@@ -48,9 +48,9 @@ data_pacbiohifi_bam_coverage: 55.85x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 0.2629
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_914744365.1
-genbank_pri: GCA_914725855.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fThuAlb1:GCA_914744365.1
+genbank_pri: fThuAlb1:GCA_914725855.1
 genome_size: 792117861
 genome_size_display: 0.79 Gbp
 last_raw_data: 1651599613

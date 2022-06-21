@@ -42,9 +42,9 @@ data_arima_coverage: 149.14x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/arima/<br>
 data_arima_scale: 1.8098
-data_bionano_bases: N/A
+data_bionano_bases: 2.97 Gbp
 data_bionano_bytes: 3.216 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 4.48x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/bionano/<br>
 data_pacbio_bases: 38.96 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 58.79x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5196
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_900650485.1
-genbank_pri: GCA_900324465.3
+data_status: <em style="color:red">no data</em>
+genbank_alt: fAnaTes1:GCA_900650485.1
+genbank_pri: fAnaTes1:GCA_900324465.3
 genome_size: 662696525
 genome_size_display: 0.66 Gbp
 last_raw_data: 1520584604

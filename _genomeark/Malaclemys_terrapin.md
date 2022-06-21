@@ -7,9 +7,9 @@ data_arima_coverage: 68.98x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Malaclemys_terrapin/rMalTer1/genomic_data/arima/<br>
 data_arima_scale: 1.8238
-data_bionano_bases: N/A
+data_bionano_bases: 2.27 Gbp
 data_bionano_bytes: 3.672 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.85x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Malaclemys_terrapin/rMalTer1/genomic_data/bionano/<br>
 data_pacbiohifi_fqgz_bases: 80.79 Gbp
@@ -18,7 +18,7 @@ data_pacbiohifi_fqgz_coverage: 30.26x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Malaclemys_terrapin/rMalTer1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1939
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 2670000000
 genome_size_display: 2.67 Gbp
 genome_size_method: GoAT

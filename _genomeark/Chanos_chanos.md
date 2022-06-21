@@ -36,9 +36,9 @@ data_10x_coverage: 205.34x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/10x/<br>
 data_10x_scale: 1.5557
-data_bionano_bases: N/A
+data_bionano_bases: 0.80 Gbp
 data_bionano_bytes: 1.060 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.21x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/bionano/<br>
 data_dovetail_bases: 122.96 Gbp
@@ -59,9 +59,9 @@ data_pacbiohifi_bam_coverage: 28.40x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2042
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_902362175.1
-genbank_pri: GCA_902362185.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fChaCha1:GCA_902362175.1
+genbank_pri: fChaCha1:GCA_902362185.1
 genome_size: 656912816
 genome_size_display: 0.66 Gbp
 last_raw_data: 1651685227

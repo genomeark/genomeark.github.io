@@ -1,7 +1,7 @@
 ---
 assembly_status: <em style="color:red">no assembly</em>
 common_name: Midas cichlid
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 genome_size_method: null

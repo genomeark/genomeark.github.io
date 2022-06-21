@@ -42,9 +42,9 @@ data_arima_coverage: 250.56x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/arima/<br>
 data_arima_scale: 1.8009
-data_bionano_bases: N/A
+data_bionano_bases: 1.40 Gbp
 data_bionano_bytes: 2.001 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.23x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/bionano/<br>
 data_pacbio_bases: 86.91 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 76.74x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5371
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009769595.1
-genbank_pri: GCA_009769605.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bBucAby1:GCA_009769595.1
+genbank_pri: bBucAby1:GCA_009769605.1
 genome_size: 1132597561
 genome_size_display: 1.13 Gbp
 last_raw_data: 1562595330

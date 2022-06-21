@@ -42,9 +42,9 @@ data_arima_coverage: 134.16x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Calypte_anna/bCalAnn1/genomic_data/arima/<br>
 data_arima_scale: 1.7565
-data_bionano_bases: N/A
+data_bionano_bases: 4.76 Gbp
 data_bionano_bytes: 1.035 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 4.26x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Calypte_anna/bCalAnn1/genomic_data/bionano/<br>
 data_dovetail_bases: 100.66 Gbp
@@ -65,9 +65,9 @@ data_phase_coverage: 19.53x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Calypte_anna/bCalAnn1/genomic_data/phase/<br>
 data_phase_scale: 1.7647
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_003957575.1
-genbank_pri: GCA_003957555.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: bCalAnn1:GCA_003957575.1
+genbank_pri: bCalAnn1:GCA_003957555.2
 genome_size: 1116472572
 genome_size_display: 1.12 Gbp
 last_raw_data: 1531244296

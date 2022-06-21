@@ -42,9 +42,9 @@ data_arima_coverage: 112.29x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/arima/<br>
 data_arima_scale: 1.6028
-data_bionano_bases: N/A
+data_bionano_bases: 1.40 Gbp
 data_bionano_bytes: 1.395 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.40x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/bionano/<br>
 data_pacbio_bases: 88.29 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 88.29x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5322
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_017639665.1
-genbank_pri: GCA_017639555.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bCicMag1:GCA_017639665.1
+genbank_pri: bCicMag1:GCA_017639555.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 genome_size_method: null

@@ -13,9 +13,9 @@ data_arima_coverage: 69.75x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/arima/<br>
 data_arima_scale: 1.4378
-data_bionano_bases: N/A
+data_bionano_bases: 2.60 Gbp
 data_bionano_bytes: 1.047 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.81x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/bionano/<br>
 data_illumina_bases: 432.63 Gbp
@@ -30,9 +30,9 @@ data_pacbio_coverage: 63.68x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5430
-data_status: <em style="color:green">all data</em>
-genbank_mat: GCA_011762535.1
-genbank_pat: GCA_011762515.1
+data_status: <em style="color:red">no data</em>
+genbank_mat: mTurTru1:GCA_011762535.1
+genbank_pat: mTurTru1:GCA_011762515.1
 genome_size: 3200000000
 genome_size_display: 3.20 Gbp
 genome_size_method: null

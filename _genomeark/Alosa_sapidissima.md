@@ -36,9 +36,9 @@ data_arima_coverage: 110.52x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Alosa_sapidissima/fAloSap1/genomic_data/arima/<br>
 data_arima_scale: 1.3824
-data_bionano_bases: N/A
+data_bionano_bases: 1.19 Gbp
 data_bionano_bytes: 1.619 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.33x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Alosa_sapidissima/fAloSap1/genomic_data/bionano/<br>
 data_pacbiohifi_clr_bases: 664.73 Gbp
@@ -53,9 +53,9 @@ data_pacbiohifi_fqgz_coverage: 36.68x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Alosa_sapidissima/fAloSap1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.3359
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_018492705.1
-genbank_pri: GCA_018492685.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fAloSap1:GCA_018492705.1
+genbank_pri: fAloSap1:GCA_018492685.1
 genome_size: 900000000
 genome_size_display: 0.90 Gbp
 last_raw_data: 1653517348

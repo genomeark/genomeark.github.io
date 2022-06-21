@@ -42,9 +42,9 @@ data_arima_coverage: 65.23x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/arima/<br>
 data_arima_scale: 1.4499
-data_bionano_bases: N/A
+data_bionano_bases: 1.25 Gbp
 data_bionano_bytes: 0.808 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.85x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/bionano/<br>
 data_pacbio_bases: 89.14 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 60.23x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5348
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009769485.2
-genbank_pri: GCA_009769625.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: bCygOlo1:GCA_009769485.2
+genbank_pri: bCygOlo1:GCA_009769625.2
 genome_size: 1480000000
 genome_size_display: 1.48 Gbp
 genome_size_method: null

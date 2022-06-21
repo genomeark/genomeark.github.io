@@ -1,0 +1,1 @@
+../_genomeark/Discoglossus_pictus.md

@@ -36,9 +36,9 @@ data_10x_coverage: 160.89x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/10x/<br>
 data_10x_scale: 1.5084
-data_bionano_bases: N/A
+data_bionano_bases: 1.54 Gbp
 data_bionano_bytes: 1.082 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.93x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/bionano/<br>
 data_dovetail_bases: 118.79 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 82.00x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5351
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_902148835.1
-genbank_pri: GCA_902148845.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fSalaFa1:GCA_902148835.1
+genbank_pri: fSalaFa1:GCA_902148845.1
 genome_size: 797490645
 genome_size_display: 0.80 Gbp
 last_raw_data: 1554447472

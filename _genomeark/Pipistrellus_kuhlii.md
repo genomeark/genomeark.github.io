@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orange">high-quality draft assembly</em>
+assembly_status: hqdraft
 common_name: Kuhl's pipistrelle
 data_10x_bases: 95.71 Gbp
 data_10x_bytes: 59.271 GB
@@ -7,9 +7,9 @@ data_10x_coverage: 53.90x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/10x/<br>
 data_10x_scale: 1.5039
-data_bionano_bases: N/A
+data_bionano_bases: 1.88 Gbp
 data_bionano_bytes: 2.136 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.06x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/bionano/<br>
 data_pacbio_bases: 144.69 Gbp
@@ -24,8 +24,8 @@ data_phase_coverage: 17.42x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/phase/<br>
 data_phase_scale: 1.6789
-data_status: <em style="color:green">all data</em>
-genbank_pri: GCA_014108245.1
+data_status: <em style="color:red">no data</em>
+genbank_pri: mPipKuh1:GCA_014108245.1
 genome_size: 1775719727
 genome_size_display: 1.78 Gbp
 genome_size_method: DAmar assembly

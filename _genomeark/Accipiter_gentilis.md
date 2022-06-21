@@ -48,9 +48,9 @@ data_pacbiohifi_bam_coverage: 36.03x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Accipiter_gentilis/bAccGen1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 0.5991
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_929447715.1
-genbank_pri: GCA_929443795.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bAccGen1:GCA_929447715.1
+genbank_pri: bAccGen1:GCA_929443795.1
 genome_size: 1398027955
 genome_size_display: 1.40 Gbp
 last_raw_data: 1651593249

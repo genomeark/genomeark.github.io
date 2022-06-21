@@ -42,9 +42,9 @@ data_arima_coverage: 31.45x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/arima/<br>
 data_arima_scale: 2.2716
-data_bionano_bases: N/A
+data_bionano_bases: 0.86 Gbp
 data_bionano_bytes: 1.911 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.86x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/bionano/<br>
 data_illumina_bases: 42.48 Gbp
@@ -59,9 +59,9 @@ data_pacbio_coverage: 45.14x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5473
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_015220095.1
-genbank_pri: GCA_015220745.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fSebUmb1:GCA_015220095.1
+genbank_pri: fSebUmb1:GCA_015220745.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 genome_size_method: null

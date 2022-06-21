@@ -25,7 +25,7 @@ data_pacbiohifi_fqgz_coverage: 29619360951.40x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2324
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 4.548
 genome_size_display: 4.548  bp
 genome_size_method: GoAT

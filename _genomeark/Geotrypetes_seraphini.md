@@ -36,9 +36,9 @@ data_10x_coverage: 58.91x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/10x/<br>
 data_10x_scale: 1.2609
-data_bionano_bases: N/A
+data_bionano_bases: 7.09 Gbp
 data_bionano_bytes: 2.169 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.88x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/bionano/<br>
 data_dovetail_bases: 273.04 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 72.70x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5240
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_902459495.1
-genbank_pri: GCA_902459505.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: aGeoSer1:GCA_902459495.1
+genbank_pri: aGeoSer1:GCA_902459505.2
 genome_size: 3779413726
 genome_size_display: 3.78 Gbp
 last_raw_data: 1556224643

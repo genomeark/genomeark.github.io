@@ -42,9 +42,9 @@ data_arima_coverage: 79.71x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Sylvia_borin/bSylBor2/genomic_data/arima/<br>
 data_arima_scale: 1.5462
-data_bionano_bases: N/A
+data_bionano_bases: 1.20 Gbp
 data_bionano_bytes: 1.193 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.00x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Sylvia_borin/bSylBor1/genomic_data/bionano/<br>
 data_pacbio_bases: 86.57 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 72.14x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Sylvia_borin/bSylBor1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5534
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_014839765.1
-genbank_pri: GCA_014839755.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bSylBor1:GCA_014839765.1
+genbank_pri: bSylBor1:GCA_014839755.1
 genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 genome_size_method: null

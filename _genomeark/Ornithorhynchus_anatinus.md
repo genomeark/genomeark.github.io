@@ -36,9 +36,9 @@ data_10x_coverage: 168.95x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/10x/<br>
 data_10x_scale: 2.0103
-data_bionano_bases: N/A
+data_bionano_bases: 2.25 Gbp
 data_bionano_bytes: 1.882 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.06x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/bionano/<br>
 data_dovetail_bases: 44.44 Gbp
@@ -59,9 +59,9 @@ data_phase_coverage: 48.43x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/phase/<br>
 data_phase_scale: 1.5696
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_004115175.2
-genbank_pri: GCA_004115215.4
+data_status: <em style="color:red">no data</em>
+genbank_alt: mOrnAna1:GCA_004115175.2
+genbank_pri: mOrnAna1:GCA_004115215.4
 genome_size: 2128226567
 genome_size_display: 2.13 Gbp
 last_raw_data: 1536347587

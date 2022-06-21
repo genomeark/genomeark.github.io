@@ -42,9 +42,9 @@ data_arima_coverage: 250.14x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/arima/<br>
 data_arima_scale: 1.4550
-data_bionano_bases: N/A
+data_bionano_bases: 1.27 Gbp
 data_bionano_bytes: 1.183 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.27x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/bionano/<br>
 data_pacbio_bases: 160.53 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 160.53x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5257
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_020745805.1
-genbank_pri: GCA_020745775.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bTheCae1:GCA_020745805.1
+genbank_pri: bTheCae1:GCA_020745775.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 last_raw_data: 1611681977

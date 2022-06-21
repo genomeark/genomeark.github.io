@@ -13,9 +13,9 @@ data_arima_coverage: 198.52x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/arima/<br>s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/arima/<br>s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/arima/<br>
 data_arima_scale: 1.7050
-data_bionano_bases: N/A
+data_bionano_bases: 9.64 Gbp
 data_bionano_bytes: 2.783 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 3.01x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/bionano/<br>s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/bionano/<br>s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/bionano/<br>
 data_illumina_bases: 436.60 Gbp
@@ -36,9 +36,9 @@ data_pacbiohifi_bam_coverage: 61.22x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/pacbio_hifi/<br>s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/pacbio_hifi/<br>s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2257
-data_status: <em style="color:green">all data</em>
-genbank_mat: GCA_016695395.2
-genbank_pat: GCA_016700455.2
+data_status: <em style="color:red">no data</em>
+genbank_mat: mHomSap3:GCA_016695395.2
+genbank_pat: mHomSap3:GCA_016700455.2
 genome_size: 3200000000
 genome_size_display: 3.20 Gbp
 genome_size_method: null

@@ -28,7 +28,7 @@ alt2sizes: |
   </tfoot>
   </table>
 alt2version: assembly_vgp_standard_2.0
-assembly_status: <em style="color:orange">high-quality draft assembly</em>
+assembly_status: hqdraft
 common_name: European shrew
 data_arima_bases: 294.87 Gbp
 data_arima_bytes: 137.646 GB
@@ -36,9 +36,9 @@ data_arima_coverage: 103.61x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Sorex_araneus/mSorAra1/genomic_data/arima/<br>
 data_arima_scale: 1.9951
-data_bionano_bases: N/A
+data_bionano_bases: 2.66 Gbp
 data_bionano_bytes: 2.512 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.94x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Sorex_araneus/mSorAra1/genomic_data/bionano/<br>
 data_pacbiohifi_bam_bases: 322.63 Gbp
@@ -59,7 +59,7 @@ data_pacbiohifi_fqgz_coverage: 35.11x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Sorex_araneus/mSorAra1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2313
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 2846000000
 genome_size_display: 2.85 Gbp
 genome_size_method: GoAT

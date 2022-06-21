@@ -36,10 +36,6 @@ data_arima_coverage: 65.72x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/genomic_data/arima/<br>
 data_arima_scale: 2.0795
-data_bionano_bases: N/A
-data_bionano_bytes: 14.724 GB
-data_bionano_coverage: N/A
-data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/genomic_data/bionano/<br>
 data_pacbio_bases: 88.41 Gbp
 data_pacbio_bytes: 75.410 GB
@@ -47,7 +43,7 @@ data_pacbio_coverage: 30.49x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/genomic_data/pacbio/<br>
 data_pacbio_scale: 1.0919
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 2900000000
 genome_size_display: 2.90 Gbp
 last_raw_data: 1622744604

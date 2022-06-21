@@ -42,9 +42,9 @@ data_arima_coverage: 99.00x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Takifugu_rubripes/fTakRub1/genomic_data/arima/<br>
 data_arima_scale: 1.8085
-data_bionano_bases: N/A
+data_bionano_bases: 0.57 Gbp
 data_bionano_bytes: 0.459 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.47x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Takifugu_rubripes/fTakRub1/genomic_data/bionano/<br>
 data_pacbio_bases: 31.92 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 83.09x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Takifugu_rubripes/fTakRub1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5301
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_901000745.3
-genbank_pri: GCA_901000725.3
+data_status: <em style="color:red">no data</em>
+genbank_alt: fTakRub1:GCA_901000745.3
+genbank_pri: fTakRub1:GCA_901000725.3
 genome_size: 384110215
 genome_size_display: 384.11 Mbp
 last_raw_data: 1535574792

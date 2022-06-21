@@ -48,9 +48,9 @@ data_pacbio_coverage: 71.15x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Pipistrellus_pipistrellus/mPipPip1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5359
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_903992515.1
-genbank_pri: GCA_903992545.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: mPipPip1:GCA_903992515.1
+genbank_pri: mPipPip1:GCA_903992545.1
 genome_size: 1763439233
 genome_size_display: 1.76 Gbp
 last_raw_data: 1586515943

@@ -48,9 +48,9 @@ data_pacbiohifi_bam_coverage: 38.87x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Taurulus_bubalis/fTauBub2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1130
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_910589325.1
-genbank_pri: GCA_910589615.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fTauBub2:GCA_910589325.1
+genbank_pri: fTauBub2:GCA_910589615.1
 genome_size: 615153901
 genome_size_display: 0.62 Gbp
 last_raw_data: 1651599331

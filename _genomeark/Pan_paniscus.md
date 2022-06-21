@@ -25,7 +25,7 @@ data_pacbiohifi_fqgz_coverage: 53.69x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.0547
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT ancestral inferred

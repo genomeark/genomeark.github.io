@@ -1,0 +1,1 @@
+../_genomeark/Pterocles_gutturalis.md

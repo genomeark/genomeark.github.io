@@ -42,9 +42,9 @@ data_arima_coverage: 84.74x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/arima/<br>
 data_arima_scale: 1.5141
-data_bionano_bases: N/A
+data_bionano_bases: 1.41 Gbp
 data_bionano_bytes: 0.592 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.01x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/bionano/<br>
 data_pacbio_bases: 61.97 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 44.26x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5245
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_015220155.1
-genbank_pri: GCA_015220075.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bFalRus1:GCA_015220155.1
+genbank_pri: bFalRus1:GCA_015220075.1
 genome_size: 1400000000
 genome_size_display: 1.40 Gbp
 genome_size_method: null

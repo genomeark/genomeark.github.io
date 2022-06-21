@@ -1,0 +1,1 @@
+../_genomeark/Scomber_japonicus.md

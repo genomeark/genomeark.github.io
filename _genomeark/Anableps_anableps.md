@@ -42,9 +42,9 @@ data_arima_coverage: 153.33x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/arima/<br>
 data_arima_scale: 1.4554
-data_bionano_bases: N/A
+data_bionano_bases: 0.93 Gbp
 data_bionano_bytes: 0.869 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.99x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/bionano/<br>
 data_pacbio_bases: 59.08 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 62.89x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5274
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_014839705.1
-genbank_pri: GCA_014839685.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fAnaAna1:GCA_014839705.1
+genbank_pri: fAnaAna1:GCA_014839685.1
 genome_size: 939460000
 genome_size_display: 0.94 Gbp
 genome_size_method: 10X Genomics Supernova assembly

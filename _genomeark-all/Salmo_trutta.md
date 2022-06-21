@@ -1,0 +1,1 @@
+../_genomeark/Salmo_trutta.md

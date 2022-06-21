@@ -1,0 +1,1 @@
+../_genomeark/Tachyglossus_aculeatus.md

@@ -42,9 +42,9 @@ data_arima_coverage: 70.72x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/arima/<br>
 data_arima_scale: 1.4660
-data_bionano_bases: N/A
+data_bionano_bases: 1.45 Gbp
 data_bionano_bytes: 0.405 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.97x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/bionano/<br>
 data_pacbio_bases: 90.12 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 60.48x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5422
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009819505.2
-genbank_pri: GCA_009819885.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: bCatUst1:GCA_009819505.2
+genbank_pri: bCatUst1:GCA_009819885.2
 genome_size: 1490000000
 genome_size_display: 1.49 Gbp
 genome_size_method: null

@@ -1,0 +1,1 @@
+../_genomeark/Amblyraja_radiata.md

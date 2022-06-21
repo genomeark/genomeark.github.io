@@ -42,9 +42,9 @@ data_arima_coverage: 69.61x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/arima/<br>
 data_arima_scale: 1.6211
-data_bionano_bases: N/A
+data_bionano_bases: 5.77 Gbp
 data_bionano_bytes: 1.938 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.51x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/bionano/<br>
 data_pacbio_bases: 196.55 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 51.57x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5175
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_900700845.3
-genbank_pri: GCA_900747795.4
+data_status: <em style="color:red">no data</em>
+genbank_alt: fErpCal1:GCA_900700845.3
+genbank_pri: fErpCal1:GCA_900747795.4
 genome_size: 3811022027
 genome_size_display: 3.81 Gbp
 last_raw_data: 1536592476

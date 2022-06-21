@@ -42,9 +42,9 @@ data_arima_coverage: 100.61x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/arima/<br>
 data_arima_scale: 1.4821
-data_bionano_bases: N/A
+data_bionano_bases: 4.04 Gbp
 data_bionano_bytes: 1.609 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.90x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/bionano/<br>
 data_illumina_bases: 305.38 Gbp
@@ -59,9 +59,9 @@ data_pacbio_coverage: 66.97x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5291
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_017639455.1
-genbank_pri: GCA_017639515.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: sCarCar2:GCA_017639455.1
+genbank_pri: sCarCar2:GCA_017639515.1
 genome_size: 4500000000
 genome_size_display: 4.50 Gbp
 genome_size_method: null

@@ -36,9 +36,9 @@ data_10x_coverage: 104.30x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/10x/<br>
 data_10x_scale: 1.6168
-data_bionano_bases: N/A
+data_bionano_bases: 7.86 Gbp
 data_bionano_bytes: 2.063 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 2.54x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/bionano/<br>
 data_dovetail_bases: 118.44 Gbp
@@ -59,9 +59,9 @@ data_pacbio_coverage: 51.19x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5196
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_008658375.2
-genbank_pri: GCA_009873245.3
+data_status: <em style="color:red">no data</em>
+genbank_alt: mBalMus1:GCA_008658375.2
+genbank_pri: mBalMus1:GCA_009873245.3
 genome_size: 3093707188
 genome_size_display: 3.09 Gbp
 genome_size_method: genomescope (k=31)

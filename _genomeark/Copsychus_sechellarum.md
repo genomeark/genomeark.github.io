@@ -7,7 +7,7 @@ data_arima_coverage: 60258139077.23x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Copsychus_sechellarum/bCopSec1/genomic_data/arima/<br>
 data_arima_scale: 1.8139
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 1.261
 genome_size_display: 1.261  bp
 genome_size_method: GoAT

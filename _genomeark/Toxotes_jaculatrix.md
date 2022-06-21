@@ -36,10 +36,6 @@ data_arima_coverage: 71.30x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/arima/<br>
 data_arima_scale: 1.9865
-data_bionano_bases: N/A
-data_bionano_bytes: 1.309 GB
-data_bionano_coverage: N/A
-data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/bionano/<br>
 data_pacbiohifi_bam_bases: 27.34 Gbp
 data_pacbiohifi_bam_bytes: 20.611 GB
@@ -53,9 +49,9 @@ data_pacbiohifi_clr_coverage: 656.90x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5205
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_017976295.1
-genbank_pri: GCA_017976425.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fToxJac2:GCA_017976295.1
+genbank_pri: fToxJac2:GCA_017976425.1
 genome_size: 621503431
 genome_size_display: 0.62 Gbp
 last_raw_data: 1651601087

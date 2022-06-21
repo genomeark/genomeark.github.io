@@ -42,9 +42,9 @@ data_arima_coverage: 65.87x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/arima/<br>
 data_arima_scale: 1.8726
-data_bionano_bases: N/A
+data_bionano_bases: 2.66 Gbp
 data_bionano_bytes: 0.272 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 2.25x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/bionano/<br>
 data_pacbio_bases: 56.72 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 47.98x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5245
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_900650505.1
-genbank_pri: GCA_900634775.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: fGouWil2:GCA_900650505.1
+genbank_pri: fGouWil2:GCA_900634775.2
 genome_size: 1182215999
 genome_size_display: 1.18 Gbp
 last_raw_data: 1523524486

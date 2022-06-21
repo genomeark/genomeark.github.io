@@ -42,9 +42,9 @@ data_arima_coverage: 169.63x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/arima/<br>
 data_arima_scale: 1.7813
-data_bionano_bases: N/A
+data_bionano_bases: 0.93 Gbp
 data_bionano_bytes: 0.205 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.96x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/bionano/<br>
 data_pacbio_bases: 51.40 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 53.03x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5487
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_013347915.1
-genbank_pri: GCA_013358815.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fEleEle1:GCA_013347915.1
+genbank_pri: fEleEle1:GCA_013358815.1
 genome_size: 969258935
 genome_size_display: 0.97 Gbp
 genome_size_method: meryl

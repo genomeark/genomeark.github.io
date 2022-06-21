@@ -42,9 +42,9 @@ data_arima_coverage: 63.77x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/arima/<br>
 data_arima_scale: 1.5046
-data_bionano_bases: N/A
+data_bionano_bases: 2.53 Gbp
 data_bionano_bytes: 0.820 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.80x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/bionano/<br>
 data_pacbio_bases: 254.52 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 80.80x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5279
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009762295.2
-genbank_pri: GCA_009762305.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: mZalCal1:GCA_009762295.2
+genbank_pri: mZalCal1:GCA_009762305.2
 genome_size: 3150000000
 genome_size_display: 3.15 Gbp
 genome_size_method: null

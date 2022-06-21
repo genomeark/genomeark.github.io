@@ -36,9 +36,9 @@ data_10x_coverage: 121.40x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Astatotilapia_calliptera/fAstCal1/genomic_data/10x/<br>
 data_10x_scale: 1.3938
-data_bionano_bases: N/A
+data_bionano_bases: 1.06 Gbp
 data_bionano_bytes: 0.128 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.09x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Astatotilapia_calliptera/fAstCal1/genomic_data/bionano/<br>
 data_pacbio_bases: 74.89 Gbp
@@ -47,8 +47,8 @@ data_pacbio_coverage: 77.01x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Astatotilapia_calliptera/fAstCal1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.2587
-data_status: <em style="color:green">all data</em>
-genbank_pri: GCA_900246225.5
+data_status: <em style="color:red">no data</em>
+genbank_pri: fAstCal1:GCA_900246225.5
 genome_size: 972478608
 genome_size_display: 0.97 Gbp
 last_raw_data: 1520006832

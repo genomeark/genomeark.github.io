@@ -42,9 +42,9 @@ data_arima_coverage: 72.83x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Anguilla_anguilla/fAngAng1/genomic_data/arima/<br>
 data_arima_scale: 1.9181
-data_bionano_bases: N/A
+data_bionano_bases: 1.24 Gbp
 data_bionano_bytes: 0.628 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.92x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Anguilla_anguilla/fAngAng1/genomic_data/bionano/<br>
 data_pacbio_bases: 69.50 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 51.28x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Anguilla_anguilla/fAngAng1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5447
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_013347865.1
-genbank_pri: GCA_013347855.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fAngAng1:GCA_013347865.1
+genbank_pri: fAngAng1:GCA_013347855.1
 genome_size: 1355153153
 genome_size_display: 1.36 Gbp
 genome_size_method: meryl

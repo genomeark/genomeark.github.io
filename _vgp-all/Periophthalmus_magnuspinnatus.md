@@ -1,0 +1,1 @@
+../_genomeark/Periophthalmus_magnuspinnatus.md

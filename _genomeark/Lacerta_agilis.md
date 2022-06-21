@@ -42,9 +42,9 @@ data_arima_coverage: 89.76x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/arima/<br>
 data_arima_scale: 1.8656
-data_bionano_bases: N/A
+data_bionano_bases: 2.88 Gbp
 data_bionano_bytes: 1.730 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.44x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/bionano/<br>
 data_pacbio_bases: 126.88 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 63.44x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5341
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009819545.1
-genbank_pri: GCA_009819535.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: rLacAgi1:GCA_009819545.1
+genbank_pri: rLacAgi1:GCA_009819535.1
 genome_size: 2000000000
 genome_size_display: 2.00 Gbp
 genome_size_method: null

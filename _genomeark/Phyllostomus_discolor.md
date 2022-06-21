@@ -42,9 +42,9 @@ data_arima_coverage: 87.85x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/arima/<br>
 data_arima_scale: 1.8141
-data_bionano_bases: N/A
+data_bionano_bases: 4.28 Gbp
 data_bionano_bytes: 1.416 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.93x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/bionano/<br>
 data_pacbio_bases: 163.01 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 73.63x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5192
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_004115245.2
-genbank_pri: GCA_004126475.3
+data_status: <em style="color:red">no data</em>
+genbank_alt: mPhyDis1:GCA_004115245.2
+genbank_pri: mPhyDis1:GCA_004126475.3
 genome_size: 2213798723
 genome_size_display: 2.21 Gbp
 last_raw_data: 1527496005

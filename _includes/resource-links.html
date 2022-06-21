@@ -1,0 +1,13 @@
+
+
+{% if include.data %}
+  {% assign sw = include.data | split: " " %}
+  {% for xx in sw %}
+    {% assign yy = xx | split: ":" %}
+    {% assign ind = yy | first %}
+    {% assign acc = yy | last  %}
+    {% assign lnk = include.link | replace:"YOURACCHERE",acc %}
+    {{ ind }}: <a href="{{ lnk }}">{{ acc }}</a>
+  {% endfor %}
+
+{% endif %}

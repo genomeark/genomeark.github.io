@@ -36,9 +36,9 @@ data_10x_coverage: 230.05x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/10x/<br>
 data_10x_scale: 1.4620
-data_bionano_bases: N/A
+data_bionano_bases: 0.58 Gbp
 data_bionano_bytes: 0.900 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.06x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/bionano/<br>
 data_dovetail_bases: 137.31 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 83.23x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5340
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_900963505.1
-genbank_pri: GCA_900963305.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: fEcheNa1:GCA_900963505.1
+genbank_pri: fEcheNa1:GCA_900963305.2
 genome_size: 544212633
 genome_size_display: 0.54 Gbp
 last_raw_data: 1549384902

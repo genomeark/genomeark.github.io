@@ -36,9 +36,9 @@ data_10x_coverage: 93.49x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/10x/<br>
 data_10x_scale: 1.9918
-data_bionano_bases: N/A
+data_bionano_bases: 4.44 Gbp
 data_bionano_bytes: 1.143 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.54x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/bionano/<br>
 data_pacbio_bases: 168.46 Gbp
@@ -53,9 +53,9 @@ data_phase_coverage: 14.72x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/phase/<br>
 data_phase_scale: 1.6966
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_015852515.1
-genbank_pri: GCA_015852505.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: mTacAcu1:GCA_015852515.1
+genbank_pri: mTacAcu1:GCA_015852505.1
 genome_size: 2890000000
 genome_size_display: 2.89 Gbp
 genome_size_method: null

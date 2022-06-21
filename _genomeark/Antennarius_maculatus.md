@@ -36,9 +36,9 @@ data_10x_coverage: 72.97x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/10x/<br>
 data_10x_scale: 1.5959
-data_bionano_bases: N/A
+data_bionano_bases: 0.56 Gbp
 data_bionano_bytes: 1.933 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.93x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/bionano/<br>
 data_pacbio_bases: 85.35 Gbp
@@ -53,9 +53,9 @@ data_phase_coverage: 119.89x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/phase/<br>
 data_phase_scale: 1.5082
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_013347815.1
-genbank_pri: GCA_013358685.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fAntMac1:GCA_013347815.1
+genbank_pri: fAntMac1:GCA_013358685.1
 genome_size: 604861782
 genome_size_display: 0.60 Gbp
 genome_size_method: meryl

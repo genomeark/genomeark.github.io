@@ -48,9 +48,9 @@ data_pacbio_coverage: 89.52x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Syngnathus_acus/fSynAcu1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5358
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_901709685.1
-genbank_pri: GCA_901709675.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: fSynAcu1:GCA_901709685.1
+genbank_pri: fSynAcu1:GCA_901709675.2
 genome_size: 324331233
 genome_size_display: 324.33 Mbp
 last_raw_data: 1554452546

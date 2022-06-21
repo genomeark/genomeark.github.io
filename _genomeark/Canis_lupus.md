@@ -48,9 +48,9 @@ data_pacbiohifi_bam_coverage: 33.78x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1253
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_905319845.1
-genbank_pri: GCA_905319855.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: mCanLor1:GCA_905319845.1
+genbank_pri: mCanLor1:GCA_905319855.2
 genome_size: 2447463909
 genome_size_display: 2.45 Gbp
 last_raw_data: 1651605565

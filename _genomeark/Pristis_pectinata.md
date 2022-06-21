@@ -42,9 +42,9 @@ data_arima_coverage: 74.65x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/arima/<br>
 data_arima_scale: 1.7727
-data_bionano_bases: N/A
+data_bionano_bases: 2.44 Gbp
 data_bionano_bytes: 1.136 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.87x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/bionano/<br>
 data_pacbio_bases: 173.51 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 61.97x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5442
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009764485.1
-genbank_pri: GCA_009764475.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: sPriPec2:GCA_009764485.1
+genbank_pri: sPriPec2:GCA_009764475.2
 genome_size: 2800000000
 genome_size_display: 2.80 Gbp
 genome_size_method: null

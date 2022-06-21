@@ -42,9 +42,9 @@ data_arima_coverage: 108.55x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/arima/<br>
 data_arima_scale: 1.4962
-data_bionano_bases: N/A
+data_bionano_bases: 2.39 Gbp
 data_bionano_bytes: 1.247 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.98x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/bionano/<br>
 data_dovetail_bases: 285.89 Gbp
@@ -59,9 +59,9 @@ data_pacbio_coverage: 54.82x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5297
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_902500245.1
-genbank_pri: GCA_902500255.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fThaAma1:GCA_902500245.1
+genbank_pri: fThaAma1:GCA_902500255.1
 genome_size: 2446592878
 genome_size_display: 2.45 Gbp
 last_raw_data: 1559331534

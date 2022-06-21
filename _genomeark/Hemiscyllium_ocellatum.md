@@ -13,9 +13,9 @@ data_arima_coverage: 78.38x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/arima/<br>
 data_arima_scale: 1.6761
-data_bionano_bases: N/A
+data_bionano_bases: 4.98 Gbp
 data_bionano_bytes: 0.833 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.91x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/bionano/<br>
 data_illumina_bases: 1150.92 Gbp
@@ -30,8 +30,8 @@ data_pacbio_coverage: 149.37x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5240
-data_status: <em style="color:green">all data</em>
-genbank_mat: GCA_020745765.1
+data_status: <em style="color:red">no data</em>
+genbank_mat: sHemOce1:GCA_020745765.1
 genome_size: 5500000000
 genome_size_display: 5.50 Gbp
 genome_size_method: null

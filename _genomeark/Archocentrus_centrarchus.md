@@ -36,9 +36,9 @@ data_10x_coverage: 37.98x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/10x/<br>
 data_10x_scale: 1.4156
-data_bionano_bases: N/A
+data_bionano_bases: 2.31 Gbp
 data_bionano_bytes: 1.789 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 2.34x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/bionano/<br>
 data_pacbio_bases: 76.00 Gbp
@@ -53,9 +53,9 @@ data_phase_coverage: 94.41x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/phase/<br>
 data_phase_scale: 1.5504
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_007364235.1
-genbank_pri: GCA_007364275.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: fArcCen1:GCA_007364235.1
+genbank_pri: fArcCen1:GCA_007364275.2
 genome_size: 988048114
 genome_size_display: 0.99 Gbp
 last_raw_data: 1537873439

@@ -71,9 +71,9 @@ data_arima_coverage: 469.65x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/arima/<br>s3://genomeark/species/Gallus_gallus/bGalGal2/genomic_data/arima/<br>s3://genomeark/species/Gallus_gallus/bGalGal3/genomic_data/arima/<br>s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/arima/<br>s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/arima/<br>
 data_arima_scale: 1.5971
-data_bionano_bases: N/A
+data_bionano_bases: 3.45 Gbp
 data_bionano_bytes: 2.792 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 2.86x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/bionano/<br>s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/bionano/<br>s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/bionano/<br>
 data_illumina_bases: 222.17 Gbp
@@ -106,9 +106,9 @@ data_pacbiohifi_fqgz_coverage: 37.79x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2606
-data_status: <em style="color:green">all data</em>
-genbank_mat: GCA_016699485.1
-genbank_pat: GCA_016700215.2
+data_status: <em style="color:red">no data</em>
+genbank_mat: bGalGal1:GCA_016699485.1
+genbank_pat: bGalGal1:GCA_016700215.2
 genome_size: 1210000000
 genome_size_display: 1.21 Gbp
 genome_size_method: null

@@ -48,9 +48,9 @@ data_pacbiohifi_bam_coverage: 69.68x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1365
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_910591705.2
-genbank_pri: GCA_910591455.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: fPhoGun1:GCA_910591705.2
+genbank_pri: fPhoGun1:GCA_910591455.2
 genome_size: 588696950
 genome_size_display: 0.59 Gbp
 last_raw_data: 1651612017

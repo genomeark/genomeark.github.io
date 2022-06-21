@@ -42,9 +42,9 @@ data_arima_coverage: 192.21x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/arima/<br>
 data_arima_scale: 1.7833
-data_bionano_bases: N/A
+data_bionano_bases: 0.85 Gbp
 data_bionano_bytes: 0.669 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.85x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/bionano/<br>
 data_pacbio_bases: 56.32 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 56.32x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5375
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009819745.1
-genbank_pri: GCA_009819705.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fHipHip1:GCA_009819745.1
+genbank_pri: fHipHip1:GCA_009819705.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 genome_size_method: null

@@ -7,12 +7,12 @@ data_arima_coverage: 108.40x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/genomic_data/arima/<br>
 data_arima_scale: 1.8545
-data_bionano_bases: N/A
+data_bionano_bases: 1.47 Gbp
 data_bionano_bytes: 0.801 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.13x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/genomic_data/bionano/<br>
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 1306000000
 genome_size_display: 1.31 Gbp
 genome_size_method: GoAT

@@ -7,7 +7,7 @@ data_arima_coverage: 45820315781.10x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/arima/<br>
 data_arima_scale: 1.8088
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 1.252
 genome_size_display: 1.252  bp
 genome_size_method: GoAT

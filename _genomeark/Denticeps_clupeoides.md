@@ -42,9 +42,9 @@ data_arima_coverage: 96.45x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/arima/<br>
 data_arima_scale: 1.8332
-data_bionano_bases: N/A
+data_bionano_bases: 0.78 Gbp
 data_bionano_bytes: 1.006 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.37x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/bionano/<br>
 data_pacbio_bases: 36.65 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 64.59x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5314
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_900700345.2
-genbank_pri: GCA_900700375.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: fDenClu1:GCA_900700345.2
+genbank_pri: fDenClu1:GCA_900700375.2
 genome_size: 567401054
 genome_size_display: 0.57 Gbp
 last_raw_data: 1535895622

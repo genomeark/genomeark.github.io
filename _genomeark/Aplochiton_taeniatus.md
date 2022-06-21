@@ -42,9 +42,9 @@ data_arima_coverage: 193.24x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/arima/<br>
 data_arima_scale: 1.5342
-data_bionano_bases: N/A
+data_bionano_bases: 0.61 Gbp
 data_bionano_bytes: 1.708 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.31x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/bionano/<br>
 data_pacbio_bases: 63.53 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 137.53x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5361
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_017639685.1
-genbank_pri: GCA_017639675.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fAplTae1:GCA_017639685.1
+genbank_pri: fAplTae1:GCA_017639675.1
 genome_size: 461946147
 genome_size_display: 461.95 Mbp
 last_raw_data: 1572015575

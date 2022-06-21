@@ -42,9 +42,9 @@ data_arima_coverage: 64.63x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/arima/<br>
 data_arima_scale: 1.5545
-data_bionano_bases: N/A
+data_bionano_bases: 1.50 Gbp
 data_bionano_bytes: 0.954 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.03x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/bionano/<br>
 data_pacbio_bases: 86.31 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 59.52x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5473
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_011004865.1
-genbank_pri: GCA_011004875.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bBalReg1:GCA_011004865.1
+genbank_pri: bBalReg1:GCA_011004875.1
 genome_size: 1450000000
 genome_size_display: 1.45 Gbp
 genome_size_method: null

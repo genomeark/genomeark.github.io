@@ -48,9 +48,9 @@ data_pacbio_coverage: 112.68x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Asterias_rubens/eAstRub1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5220
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_902459445.1
-genbank_pri: GCA_902459465.3
+data_status: <em style="color:red">no data</em>
+genbank_alt: eAstRub1:GCA_902459445.1
+genbank_pri: eAstRub1:GCA_902459465.3
 genome_size: 417601740
 genome_size_display: 417.60 Mbp
 last_raw_data: 1565272838

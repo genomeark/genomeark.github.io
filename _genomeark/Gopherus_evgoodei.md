@@ -42,9 +42,9 @@ data_arima_coverage: 69.58x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/arima/<br>
 data_arima_scale: 1.7367
-data_bionano_bases: N/A
+data_bionano_bases: 4.32 Gbp
 data_bionano_bytes: 1.704 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.61x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/bionano/<br>
 data_pacbio_bases: 156.28 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 58.22x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5352
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_007399395.1
-genbank_pri: GCA_007399415.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: rGopEvg1:GCA_007399395.1
+genbank_pri: rGopEvg1:GCA_007399415.1
 genome_size: 2684436481
 genome_size_display: 2.68 Gbp
 last_raw_data: 1529613892

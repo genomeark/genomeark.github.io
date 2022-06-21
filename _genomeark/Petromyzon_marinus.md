@@ -42,9 +42,9 @@ data_arima_coverage: 70.69x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/arima/<br>
 data_arima_scale: 1.7397
-data_bionano_bases: N/A
+data_bionano_bases: 1.56 Gbp
 data_bionano_bytes: 0.838 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.04x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/bionano/<br>
 data_pacbio_bases: 93.49 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 62.33x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5462
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_010993595.1
-genbank_pri: GCA_010993605.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: kPetMar1:GCA_010993595.1
+genbank_pri: kPetMar1:GCA_010993605.1
 genome_size: 1500000000
 genome_size_display: 1.50 Gbp
 genome_size_method: null

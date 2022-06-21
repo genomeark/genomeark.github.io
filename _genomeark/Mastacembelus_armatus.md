@@ -42,9 +42,9 @@ data_arima_coverage: 195.77x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/arima/<br>
 data_arima_scale: 1.9357
-data_bionano_bases: N/A
+data_bionano_bases: 2.08 Gbp
 data_bionano_bytes: 2.687 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 2.75x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/bionano/<br>
 data_pacbio_bases: 29.93 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 39.55x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5176
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_900700395.1
-genbank_pri: GCA_900324485.3
+data_status: <em style="color:red">no data</em>
+genbank_alt: fMasArm1:GCA_900700395.1
+genbank_pri: fMasArm1:GCA_900324485.3
 genome_size: 756753344
 genome_size_display: 0.76 Gbp
 last_raw_data: 1520585714

@@ -42,9 +42,9 @@ data_arima_coverage: 89.74x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Acanthisitta_chloris/bAcaChl4/genomic_data/arima/<br>
 data_arima_scale: 1.5506
-data_bionano_bases: N/A
+data_bionano_bases: 1.11 Gbp
 data_bionano_bytes: 0.641 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.05x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Acanthisitta_chloris/bAcaChl1/genomic_data/bionano/<br>
 data_pacbio_bases: 68.98 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 65.69x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Acanthisitta_chloris/bAcaChl1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5419
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_016880875.1
-genbank_pri: GCA_016904835.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bAcaChl1:GCA_016880875.1
+genbank_pri: bAcaChl1:GCA_016904835.1
 genome_size: 1050000000
 genome_size_display: 1.05 Gbp
 last_raw_data: 1568758968

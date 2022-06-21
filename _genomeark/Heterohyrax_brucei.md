@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_vgp_standard_2.1
-assembly_status: <em style="color:orange">high-quality draft assembly</em>
+assembly_status: hqdraft
 common_name: Yellow-spotted hyrax
 data_arima_bases: 338.40 Gbp
 data_arima_bytes: 146.103 GB
@@ -36,9 +36,9 @@ data_arima_coverage: 97.02x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/arima/<br>
 data_arima_scale: 2.1571
-data_bionano_bases: N/A
+data_bionano_bases: 2.99 Gbp
 data_bionano_bytes: 1.194 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.86x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/bionano/<br>
 data_pacbiohifi_bam_bases: 122.23 Gbp
@@ -53,7 +53,7 @@ data_pacbiohifi_clr_coverage: 624.66x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5335
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 3488016507
 genome_size_display: 3.49 Gbp
 last_raw_data: 1651620730

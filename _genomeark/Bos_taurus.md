@@ -7,9 +7,9 @@ data_10x_coverage: 74.16x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/10x/<br>
 data_10x_scale: 1.8139
-data_bionano_bases: N/A
+data_bionano_bases: 3.34 Gbp
 data_bionano_bytes: 1.118 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.24x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/bionano/<br>
 data_illumina_bases: 235.68 Gbp
@@ -30,7 +30,7 @@ data_phase_coverage: 11.98x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/phase/<br>
 data_phase_scale: 1.6305
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 2700000000
 genome_size_display: 2.70 Gbp
 genome_size_method: null

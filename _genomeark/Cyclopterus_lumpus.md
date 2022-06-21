@@ -42,9 +42,9 @@ data_arima_coverage: 89.68x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/arima/<br>
 data_arima_scale: 1.4836
-data_bionano_bases: N/A
+data_bionano_bases: 0.69 Gbp
 data_bionano_bytes: 0.673 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.69x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/bionano/<br>
 data_pacbio_bases: 55.80 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 55.80x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5373
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009769515.1
-genbank_pri: GCA_009769545.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fCycLum1:GCA_009769515.1
+genbank_pri: fCycLum1:GCA_009769545.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 genome_size_method: null

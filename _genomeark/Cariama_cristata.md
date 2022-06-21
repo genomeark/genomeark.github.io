@@ -42,9 +42,9 @@ data_arima_coverage: 162.95x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Cariama_cristata/bCarCri1/genomic_data/arima/<br>
 data_arima_scale: 1.8328
-data_bionano_bases: N/A
+data_bionano_bases: 1.31 Gbp
 data_bionano_bytes: 1.296 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.88x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Cariama_cristata/bCarCri1/genomic_data/bionano/<br>
 data_pacbio_bases: 76.65 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 51.10x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Cariama_cristata/bCarCri1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5394
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009819485.1
-genbank_pri: GCA_009819825.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bCarCri1:GCA_009819485.1
+genbank_pri: bCarCri1:GCA_009819825.1
 genome_size: 1500000000
 genome_size_display: 1.50 Gbp
 last_raw_data: 1563354348

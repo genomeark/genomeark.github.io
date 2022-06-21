@@ -1,19 +1,11 @@
 ---
 assembly_status: <em style="color:red">no assembly</em>
 common_name: John Dory
-data_10x_bases: N/A
-data_10x_bytes: 69.566 GB
-data_10x_coverage: N/A
-data_10x_files: 666
 data_10x_links: s3://genomeark/species/Zeus_faber/fZeuFab1/genomic_data/10x/<br>
 data_10x_scale: 1.4007
-data_pacbio_bases: N/A
-data_pacbio_bytes: 128.412 GB
-data_pacbio_coverage: N/A
-data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Zeus_faber/fZeuFab1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5202
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 0
 last_raw_data: 1519740599
 last_updated: 1570719805

@@ -42,9 +42,9 @@ data_arima_coverage: 76.81x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/arima/<br>
 data_arima_scale: 1.5503
-data_bionano_bases: N/A
+data_bionano_bases: 1.31 Gbp
 data_bionano_bytes: 1.082 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.09x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/bionano/<br>
 data_pacbio_bases: 93.28 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 77.73x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5424
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_015220065.1
-genbank_pri: GCA_015220715.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fPygNat1:GCA_015220065.1
+genbank_pri: fPygNat1:GCA_015220715.1
 genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 genome_size_method: null

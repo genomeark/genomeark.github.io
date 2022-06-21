@@ -36,9 +36,9 @@ data_arima_coverage: 65.44x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/arima/<br>
 data_arima_scale: 1.4654
-data_bionano_bases: N/A
+data_bionano_bases: 1.31 Gbp
 data_bionano_bytes: 0.021 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.92x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/bionano/<br>
 data_pacbiohifi_bam_bases: 34.88 Gbp
@@ -53,7 +53,9 @@ data_pacbiohifi_clr_coverage: 420.88x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5166
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
+genbank_alt: bFalChe1:GCA_023634115.1
+genbank_pri: bFalChe1:GCA_023634085.1
 genome_size: 1420000000
 genome_size_display: 1.42 Gbp
 genome_size_method: GoaT ancestral inferred

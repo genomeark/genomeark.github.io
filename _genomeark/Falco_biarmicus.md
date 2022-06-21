@@ -36,9 +36,9 @@ data_arima_coverage: 61.04x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/arima/<br>
 data_arima_scale: 1.4211
-data_bionano_bases: N/A
+data_bionano_bases: 1.31 Gbp
 data_bionano_bytes: 2.277 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.94x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/bionano/<br>
 data_pacbiohifi_bam_bases: 38.88 Gbp
@@ -53,7 +53,9 @@ data_pacbiohifi_clr_coverage: 517.38x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5167
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
+genbank_alt: bFalBia1:GCA_023634305.1
+genbank_pri: bFalBia1:GCA_023638135.1
 genome_size: 1400000000
 genome_size_display: 1.40 Gbp
 genome_size_method: GoaT ancestral inferred

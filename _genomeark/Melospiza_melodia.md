@@ -7,7 +7,9 @@ data_arima_coverage: 103.68x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Melospiza_melodia/bMelMel1/genomic_data/arima/<br>
 data_arima_scale: 1.9146
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
+genbank_alt: bMelMel1:GCA_022749775.1
+genbank_pri: bMelMel1:GCA_022749695.1
 genome_size: 1399000000
 genome_size_display: 1.40 Gbp
 genome_size_method: GoAT

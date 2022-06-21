@@ -19,7 +19,7 @@ data_pacbiohifi_fqgz_coverage: 53.30x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.0964
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 3579480000
 genome_size_display: 3.58 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry

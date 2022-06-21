@@ -1,0 +1,1 @@
+../_genomeark/Gallus_gallus.md

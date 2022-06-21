@@ -42,9 +42,9 @@ data_arima_coverage: 163.03x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/arima/<br>
 data_arima_scale: 1.8552
-data_bionano_bases: N/A
+data_bionano_bases: 1.39 Gbp
 data_bionano_bytes: 0.371 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.28x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/bionano/<br>
 data_pacbio_bases: 72.49 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 66.50x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5364
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009819715.1
-genbank_pri: GCA_009819655.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bSylAtr1:GCA_009819715.1
+genbank_pri: bSylAtr1:GCA_009819655.1
 genome_size: 1090000000
 genome_size_display: 1.09 Gbp
 genome_size_method: null

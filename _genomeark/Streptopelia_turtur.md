@@ -42,9 +42,9 @@ data_arima_coverage: 106.08x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/arima/<br>
 data_arima_scale: 1.9815
-data_bionano_bases: N/A
+data_bionano_bases: 1.08 Gbp
 data_bionano_bytes: 0.536 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.91x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/bionano/<br>
 data_pacbio_bases: 61.72 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 52.35x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5323
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_901699165.2
-genbank_pri: GCA_901699155.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: bStrTur1:GCA_901699165.2
+genbank_pri: bStrTur1:GCA_901699155.2
 genome_size: 1178928410
 genome_size_display: 1.18 Gbp
 last_raw_data: 1548798897

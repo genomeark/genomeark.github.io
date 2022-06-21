@@ -42,9 +42,9 @@ data_arima_coverage: 58.13x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/arima/<br>
 data_arima_scale: 1.4374
-data_bionano_bases: N/A
+data_bionano_bases: 6.64 Gbp
 data_bionano_bytes: 0.856 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.10x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/bionano/<br>
 data_pacbio_bases: 592.80 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 98.27x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5128
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_020510965.1
-genbank_pri: GCA_020510985.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fPhoLeu1:GCA_020510965.1
+genbank_pri: fPhoLeu1:GCA_020510985.1
 genome_size: 6032307556
 genome_size_display: 6.03 Gbp
 last_raw_data: 1600353917

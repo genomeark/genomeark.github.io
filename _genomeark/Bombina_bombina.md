@@ -42,10 +42,6 @@ data_arima_coverage: 146.37x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Bombina_bombina/aBomBom1/genomic_data/arima/<br>
 data_arima_scale: 1.9954
-data_bionano_bases: N/A
-data_bionano_bytes: 8.699 GB
-data_bionano_coverage: N/A
-data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Bombina_bombina/aBomBom1/genomic_data/bionano/<br>
 data_pacbio_bases: 929.59 Gbp
 data_pacbio_bytes: 1637.509 GB
@@ -53,7 +49,7 @@ data_pacbio_coverage: 92.78x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Bombina_bombina/aBomBom1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5287
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 10019663791
 genome_size_display: 10.02 Gbp
 last_raw_data: 1620809015

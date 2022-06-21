@@ -13,9 +13,9 @@ data_arima_coverage: 65.74x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/arima/<br>
 data_arima_scale: 1.5284
-data_bionano_bases: N/A
+data_bionano_bases: 2.65 Gbp
 data_bionano_bytes: 0.862 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.78x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/bionano/<br>
 data_illumina_bases: 499.05 Gbp
@@ -30,9 +30,9 @@ data_pacbio_coverage: 60.99x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5405
-data_status: <em style="color:green">all data</em>
-genbank_mat: GCA_011750645.1
-genbank_pat: GCA_011762545.1
+data_status: <em style="color:red">no data</em>
+genbank_mat: mArvNil1:GCA_011750645.1
+genbank_pat: mArvNil1:GCA_011762545.1
 genome_size: 3400000000
 genome_size_display: 3.40 Gbp
 genome_size_method: null

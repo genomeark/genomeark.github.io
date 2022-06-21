@@ -19,7 +19,7 @@ data_pacbiohifi_fqgz_coverage: 160.40x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 7.3061
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 8557000000
 genome_size_display: 8.56 Gbp
 genome_size_method: GoAT

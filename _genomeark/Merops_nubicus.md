@@ -42,9 +42,9 @@ data_arima_coverage: 109.89x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Merops_nubicus/bMerNub1/genomic_data/arima/<br>
 data_arima_scale: 1.7506
-data_bionano_bases: N/A
+data_bionano_bases: 1.43 Gbp
 data_bionano_bytes: 0.737 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.10x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Merops_nubicus/bMerNub1/genomic_data/bionano/<br>
 data_pacbio_bases: 78.23 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 60.18x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Merops_nubicus/bMerNub1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5434
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009819585.1
-genbank_pri: GCA_009819595.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bMerNub1:GCA_009819585.1
+genbank_pri: bMerNub1:GCA_009819595.1
 genome_size: 1300000000
 genome_size_display: 1.30 Gbp
 genome_size_method: null

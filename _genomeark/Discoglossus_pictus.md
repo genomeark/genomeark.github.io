@@ -42,9 +42,9 @@ data_arima_coverage: 64.71x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/arima/<br>
 data_arima_scale: 1.9800
-data_bionano_bases: N/A
+data_bionano_bases: 7.26 Gbp
 data_bionano_bytes: 5.448 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.87x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/bionano/<br>
 data_pacbio_bases: 494.40 Gbp
@@ -53,7 +53,7 @@ data_pacbio_coverage: 127.67x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5229
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 3872581802
 genome_size_display: 3.87 Gbp
 last_raw_data: 1625148580

@@ -42,9 +42,9 @@ data_arima_coverage: 79.25x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/arima/<br>
 data_arima_scale: 1.6787
-data_bionano_bases: N/A
+data_bionano_bases: 1.40 Gbp
 data_bionano_bytes: 1.110 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.40x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/bionano/<br>
 data_pacbio_bases: 165.69 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 165.69x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5271
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_015220175.1
-genbank_pri: GCA_015220805.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bPogPus1:GCA_015220175.1
+genbank_pri: bPogPus1:GCA_015220805.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 genome_size_method: null

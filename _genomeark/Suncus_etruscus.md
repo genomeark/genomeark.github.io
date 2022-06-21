@@ -42,9 +42,9 @@ data_arima_coverage: 54.22x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/arima/<br>
 data_arima_scale: 1.5026
-data_bionano_bases: N/A
+data_bionano_bases: 2.91 Gbp
 data_bionano_bytes: 0.875 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.97x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/bionano/<br>
 data_pacbio_bases: 429.61 Gbp
@@ -53,7 +53,7 @@ data_pacbio_coverage: 143.20x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5190
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 3000000000
 genome_size_display: 3.00 Gbp
 last_raw_data: 1622136717

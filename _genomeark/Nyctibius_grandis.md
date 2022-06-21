@@ -42,9 +42,9 @@ data_arima_coverage: 112.31x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/arima/<br>
 data_arima_scale: 1.7472
-data_bionano_bases: N/A
+data_bionano_bases: 1.44 Gbp
 data_bionano_bytes: 0.797 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.44x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/bionano/<br>
 data_pacbio_bases: 88.42 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 88.42x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5359
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_013368595.1
-genbank_pri: GCA_013368605.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bNycGra1:GCA_013368595.1
+genbank_pri: bNycGra1:GCA_013368605.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 genome_size_method: null

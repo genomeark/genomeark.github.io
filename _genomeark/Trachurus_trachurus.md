@@ -48,9 +48,9 @@ data_pacbio_coverage: 168.96x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5202
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_905171655.2
-genbank_pri: GCA_905171665.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: fTraTra1:GCA_905171655.2
+genbank_pri: fTraTra1:GCA_905171665.2
 genome_size: 820163303
 genome_size_display: 0.82 Gbp
 last_raw_data: 1576663199

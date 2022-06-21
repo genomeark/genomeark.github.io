@@ -42,9 +42,9 @@ data_arima_coverage: 60.89x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Apus_apus/bApuApu2/genomic_data/arima/<br>
 data_arima_scale: 2.0531
-data_bionano_bases: N/A
+data_bionano_bases: 1.18 Gbp
 data_bionano_bytes: 1.005 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.07x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Apus_apus/bApuApu2/genomic_data/bionano/<br>
 data_pacbio_bases: 114.32 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 103.90x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Apus_apus/bApuApu2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5281
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_020740585.1
-genbank_pri: GCA_020740795.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bApuApu2:GCA_020740585.1
+genbank_pri: bApuApu2:GCA_020740795.1
 genome_size: 1100361224
 genome_size_display: 1.10 Gbp
 last_raw_data: 1623939532

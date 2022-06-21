@@ -42,9 +42,9 @@ data_arima_coverage: 136.03x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/arima/<br>
 data_arima_scale: 1.5156
-data_bionano_bases: N/A
+data_bionano_bases: 1.25 Gbp
 data_bionano_bytes: 0.396 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.70x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/bionano/<br>
 data_pacbio_bases: 63.15 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 85.78x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5278
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_014839645.1
-genbank_pri: GCA_014839995.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fXenCan1:GCA_014839645.1
+genbank_pri: fXenCan1:GCA_014839995.1
 genome_size: 736198484
 genome_size_display: 0.74 Gbp
 last_raw_data: 1570704548

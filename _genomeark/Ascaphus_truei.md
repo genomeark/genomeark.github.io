@@ -25,7 +25,7 @@ data_pacbiohifi_fqgz_coverage: 29419221468.09x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Ascaphus_truei/aAscTru4/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2439
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 4.042
 genome_size_display: 4.042  bp
 genome_size_method: GoAT

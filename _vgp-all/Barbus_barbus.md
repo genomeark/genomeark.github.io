@@ -1,0 +1,1 @@
+../_genomeark/Barbus_barbus.md

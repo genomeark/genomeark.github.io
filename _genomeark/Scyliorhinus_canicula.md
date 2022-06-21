@@ -42,9 +42,9 @@ data_arima_coverage: 35.39x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/arima/<br>
 data_arima_scale: 1.4052
-data_bionano_bases: N/A
+data_bionano_bases: 9.42 Gbp
 data_bionano_bytes: 1.817 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 2.23x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/bionano/<br>
 data_pacbio_bases: 335.92 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 79.59x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5320
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_902713625.2
-genbank_pri: GCA_902713615.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: sScyCan1:GCA_902713625.2
+genbank_pri: sScyCan1:GCA_902713615.2
 genome_size: 4220389930
 genome_size_display: 4.22 Gbp
 last_raw_data: 1608203939

@@ -42,9 +42,9 @@ data_arima_coverage: 16.27x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/arima/<br>
 data_arima_scale: 1.7498
-data_bionano_bases: N/A
+data_bionano_bases: 3.27 Gbp
 data_bionano_bytes: 0.977 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.14x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/bionano/<br>
 data_pacbio_bases: 207.43 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 72.06x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5316
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_902685485.1
-genbank_pri: GCA_902686455.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: mSciVul1:GCA_902685485.1
+genbank_pri: mSciVul1:GCA_902686455.2
 genome_size: 2878591032
 genome_size_display: 2.88 Gbp
 last_raw_data: 1591286461

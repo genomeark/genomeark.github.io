@@ -42,9 +42,9 @@ data_arima_coverage: 130.36x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/arima/<br>
 data_arima_scale: 1.6622
-data_bionano_bases: N/A
+data_bionano_bases: 1.31 Gbp
 data_bionano_bytes: 2.152 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.31x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/bionano/<br>
 data_pacbio_bases: 79.91 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 79.91x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5321
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_020745695.1
-genbank_pri: GCA_020745705.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bHemCom1:GCA_020745695.1
+genbank_pri: bHemCom1:GCA_020745705.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 genome_size_method: null

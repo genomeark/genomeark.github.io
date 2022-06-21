@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_vgp_standard_2.0
-assembly_status: <em style="color:orange">high-quality draft assembly</em>
+assembly_status: hqdraft
 common_name: lesser rhea
 data_arima_bases: 44.48 Gbp
 data_arima_bytes: 22.593 GB
@@ -36,9 +36,9 @@ data_arima_coverage: 27.04x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Rhea_pennata/bPtePen1/genomic_data/arima/<br>
 data_arima_scale: 1.8336
-data_bionano_bases: N/A
+data_bionano_bases: 1.29 Gbp
 data_bionano_bytes: 1.101 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.79x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Rhea_pennata/bPtePen1/genomic_data/bionano/<br>
 data_pacbiohifi_bam_bases: 232.20 Gbp
@@ -59,7 +59,7 @@ data_pacbiohifi_fqgz_coverage: 32.92x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1547
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 1645000000
 genome_size_display: 1.65 Gbp
 genome_size_method: GoAT

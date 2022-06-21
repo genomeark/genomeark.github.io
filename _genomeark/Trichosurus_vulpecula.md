@@ -42,9 +42,9 @@ data_arima_coverage: 147.28x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/arima/<br>
 data_arima_scale: 1.8067
-data_bionano_bases: N/A
+data_bionano_bases: 3.88 Gbp
 data_bionano_bytes: 1.178 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.29x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/bionano/<br>
 data_pacbio_bases: 182.35 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 60.78x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5381
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_011100645.1
-genbank_pri: GCA_011100635.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: mTriVul1:GCA_011100645.1
+genbank_pri: mTriVul1:GCA_011100635.1
 genome_size: 3000000000
 genome_size_display: 3.00 Gbp
 genome_size_method: null

@@ -42,9 +42,9 @@ data_arima_coverage: 71.48x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/arima/<br>
 data_arima_scale: 1.7816
-data_bionano_bases: N/A
+data_bionano_bases: 2.42 Gbp
 data_bionano_bytes: 2.931 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.97x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/bionano/<br>
 data_pacbio_bases: 159.86 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 63.94x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5394
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009762595.2
-genbank_pri: GCA_009764565.4
+data_status: <em style="color:red">no data</em>
+genbank_alt: rDerCor1:GCA_009762595.2
+genbank_pri: rDerCor1:GCA_009764565.4
 genome_size: 2500000000
 genome_size_display: 2.50 Gbp
 last_raw_data: 1563832512

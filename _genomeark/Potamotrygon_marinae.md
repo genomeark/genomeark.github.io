@@ -19,7 +19,7 @@ data_pacbio_coverage: 69.45x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Potamotrygon_marinae/sPotMar1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5263
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 4500000000
 genome_size_display: 4.50 Gbp
 last_raw_data: 1618858204

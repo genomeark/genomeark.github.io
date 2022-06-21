@@ -48,9 +48,9 @@ data_pacbio_coverage: 68.57x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Erithacus_rubecula/bEriRub2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5330
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_903797565.2
-genbank_pri: GCA_903797595.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: bEriRub2:GCA_903797565.2
+genbank_pri: bEriRub2:GCA_903797595.2
 genome_size: 1086738318
 genome_size_display: 1.09 Gbp
 last_raw_data: 1576664929

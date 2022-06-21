@@ -7,9 +7,9 @@ data_arima_coverage: 177.15x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/arima/<br>
 data_arima_scale: 1.9644
-data_bionano_bases: N/A
+data_bionano_bases: 0.57 Gbp
 data_bionano_bytes: 0.385 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.84x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/bionano/<br>
 data_illumina_bases: 49.37 Gbp
@@ -36,7 +36,7 @@ data_pacbiohifi_fqgz_coverage: 36.74x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1230
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 675000000
 genome_size_display: 0.68 Gbp
 genome_size_method: GoAT

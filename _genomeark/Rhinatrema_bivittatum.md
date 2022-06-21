@@ -42,9 +42,9 @@ data_arima_coverage: 72.51x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/arima/<br>
 data_arima_scale: 1.5382
-data_bionano_bases: N/A
+data_bionano_bases: 16.53 Gbp
 data_bionano_bytes: 1.550 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 3.26x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/bionano/<br>
 data_pacbio_bases: 232.19 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 45.82x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5199
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_901001175.1
-genbank_pri: GCA_901001135.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: aRhiBiv1:GCA_901001175.1
+genbank_pri: aRhiBiv1:GCA_901001135.2
 genome_size: 5067838282
 genome_size_display: 5.07 Gbp
 genome_size_method: genomescope k=31

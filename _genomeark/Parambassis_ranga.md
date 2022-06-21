@@ -42,9 +42,9 @@ data_arima_coverage: 107.01x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Parambassis_ranga/fParRan2/genomic_data/arima/<br>
 data_arima_scale: 1.8356
-data_bionano_bases: N/A
+data_bionano_bases: 1.02 Gbp
 data_bionano_bytes: 1.081 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.84x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Parambassis_ranga/fParRan2/genomic_data/bionano/<br>
 data_pacbio_bases: 54.99 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 99.80x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Parambassis_ranga/fParRan2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5336
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_900651595.1
-genbank_pri: GCA_900634625.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: fParRan2:GCA_900651595.1
+genbank_pri: fParRan2:GCA_900634625.2
 genome_size: 551012959
 genome_size_display: 0.55 Gbp
 last_raw_data: 1535575225

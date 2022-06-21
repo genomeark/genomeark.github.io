@@ -48,9 +48,9 @@ data_pacbio_coverage: 64.76x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Lutra_lutra/mLutLut1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5382
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_902653095.1
-genbank_pri: GCA_902655055.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: mLutLut1:GCA_902653095.1
+genbank_pri: mLutLut1:GCA_902655055.2
 genome_size: 2438442342
 genome_size_display: 2.44 Gbp
 last_raw_data: 1591286244

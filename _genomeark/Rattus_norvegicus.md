@@ -42,9 +42,9 @@ data_arima_coverage: 95.65x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/arima/<br>
 data_arima_scale: 1.5215
-data_bionano_bases: N/A
+data_bionano_bases: 2.86 Gbp
 data_bionano_bytes: 1.419 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.08x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/bionano/<br>
 data_pacbio_bases: 266.71 Gbp
@@ -53,7 +53,7 @@ data_pacbio_coverage: 100.73x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5284
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 2647899415
 genome_size_display: 2.65 Gbp
 last_raw_data: 1580668926

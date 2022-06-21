@@ -36,9 +36,9 @@ data_10x_coverage: 108.36x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/10x/<br>
 data_10x_scale: 1.5143
-data_bionano_bases: N/A
+data_bionano_bases: 1.32 Gbp
 data_bionano_bytes: 0.501 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.10x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/bionano/<br>
 data_dovetail_bases: 120.80 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 61.53x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5261
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_902153765.2
-genbank_pri: GCA_900496995.4
+data_status: <em style="color:red">no data</em>
+genbank_alt: bAquChr1:GCA_902153765.2
+genbank_pri: bAquChr1:GCA_900496995.4
 genome_size: 1203454851
 genome_size_display: 1.20 Gbp
 last_raw_data: 1554458077

@@ -42,9 +42,9 @@ data_arima_coverage: 110.40x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/arima/<br>
 data_arima_scale: 1.5454
-data_bionano_bases: N/A
+data_bionano_bases: 5.30 Gbp
 data_bionano_bytes: 3.695 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.05x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/bionano/<br>
 data_pacbio_bases: 363.27 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 72.01x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5219
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_905171715.1
-genbank_pri: GCA_905171765.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: aBufBuf1:GCA_905171715.1
+genbank_pri: aBufBuf1:GCA_905171765.1
 genome_size: 5044812576
 genome_size_display: 5.04 Gbp
 last_raw_data: 1584379221

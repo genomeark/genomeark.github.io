@@ -36,9 +36,9 @@ data_10x_coverage: 107.06x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/10x/<br>
 data_10x_scale: 1.5065
-data_bionano_bases: N/A
+data_bionano_bases: 2.53 Gbp
 data_bionano_bytes: 3.790 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.10x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/bionano/<br>
 data_dovetail_bases: 84.67 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 66.37x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5266
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_903992525.1
-genbank_pri: GCA_903992535.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: mArvAmp1:GCA_903992525.1
+genbank_pri: mArvAmp1:GCA_903992535.2
 genome_size: 2297765997
 genome_size_display: 2.30 Gbp
 last_raw_data: 1580658763

@@ -13,9 +13,9 @@ data_arima_coverage: 71.59x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Dendropsophus_ebraccatus/aDenEbr1/genomic_data/arima/<br>
 data_arima_scale: 1.7140
-data_bionano_bases: N/A
+data_bionano_bases: 5.01 Gbp
 data_bionano_bytes: 0.527 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.99x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Dendropsophus_ebraccatus/aDenEbr1/genomic_data/bionano/<br>
 data_illumina_bases: 520.53 Gbp
@@ -30,7 +30,7 @@ data_pacbio_coverage: 70.02x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Dendropsophus_ebraccatus/aDenEbr1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5390
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 2520000000
 genome_size_display: 2.52 Gbp
 genome_size_method: null

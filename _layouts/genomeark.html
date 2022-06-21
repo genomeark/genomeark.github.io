@@ -32,11 +32,11 @@ layout: default
     {% endif %}
 
 
-
     {% if page.genbank_pri or page.genbank_alt %}
     <table class="genome-info-table">
     <thead>
-    <th width="40%">Resource</th>
+    <tr>
+    <th width="30%">Resource</th>
     <th>Primary Assembly</th>
     <th>Alternate Assembly</th>
     </tr>
@@ -44,50 +44,20 @@ layout: default
 
     <tr>
     <td class="label">GenBank</td>
-    <td>
-    {% assign sw = page.genbank_pri | split: " " %}
-    {% for xx in sw %}
-    <a href="https://www.ncbi.nlm.nih.gov/assembly/{{ xx }}">{{ xx }}</a>
-    {% endfor %}
-    </td>
-    <td>
-    {% assign sw = page.genbank_alt | split: " " %}
-    {% for xx in sw %}
-    <a href="https://www.ncbi.nlm.nih.gov/assembly/{{ xx }}">{{ xx }}</a>
-    {% endfor %}
-    </td>
+    <td> {% include resource-links.html data=page.genbank_pri link="https://www.ncbi.nlm.nih.gov/assembly/YOURACCHERE" %} </td>
+    <td> {% include resource-links.html data=page.genbank_alt link="https://www.ncbi.nlm.nih.gov/assembly/YOURACCHERE" %} </td>
     </tr>
 
     <tr>
     <td class="label">ENA</td>
-    <td>
-    {% assign sw = page.genbank_pri | split: " " %}
-    {% for xx in sw %}
-    <a href="https://www.ebi.ac.uk/ena/browser/view/{{ xx }}">{{ xx }}</a>
-    {% endfor %}
-    </td>
-    <td>
-    {% assign sw = page.genbank_alt | split: " " %}
-    {% for xx in sw %}
-    <a href="https://www.ebi.ac.uk/ena/browser/view/{{ xx }}">{{ xx }}</a>
-    {% endfor %}
-    </td>
+    <td> {% include resource-links.html data=page.genbank_pri link="https://www.ebi.ac.uk/ena/browser/view/YOURACCHERE" %} </td>
+    <td> {% include resource-links.html data=page.genbank_alt link="https://www.ebi.ac.uk/ena/browser/view/YOURACCHERE" %} </td>
     </tr>
 
     <tr>
     <td class="label">UCSC Genome Browser</td>
-    <td>
-    {% assign sw = page.genbank_pri | split: " " %}
-    {% for xx in sw %}
-    <a href="https://genome.ucsc.edu/h/{{ xx }}">{{ xx }}</a>
-    {% endfor %}
-    </td>
-    <td>
-    {% assign sw = page.genbank_alt | split: " " %}
-    {% for xx in sw %}
-    <a href="https://genome.ucsc.edu/h/{{ xx }}">{{ xx }}</a>
-    {% endfor %}
-    </td>
+    <td> {% include resource-links.html data=page.genbank_pri link="https://genome.ucsc.edu/h/YOURACCHERE" %} </td>
+    <td> {% include resource-links.html data=page.genbank_alt link="https://genome.ucsc.edu/h/YOURACCHERE" %} </td>
     </tr>
 
     </table>
@@ -97,7 +67,7 @@ layout: default
     {% if page.genbank_mat or page.genbank_pat %}
     <table class="genome-info-table">
     <thead>
-    <th width="40%">Resource</th>
+    <th width="30%">Resource</th>
     <th>Maternal Assembly</th>
     <th>Paternal Assembly</th>
     </tr>
@@ -105,53 +75,25 @@ layout: default
 
     <tr>
     <td class="label">GenBank</td>
-    <td>
-    {% assign sw = page.genbank_mat | split: " " %}
-    {% for xx in sw %}
-    <a href="https://www.ncbi.nlm.nih.gov/assembly/{{ xx }}">{{ xx }}</a>
-    {% endfor %}
-    </td>
-    <td>
-    {% assign sw = page.genbank_pat | split: " " %}
-    {% for xx in sw %}
-    <a href="https://www.ncbi.nlm.nih.gov/assembly/{{ xx }}">{{ xx }}</a>
-    {% endfor %}
-    </td>
+    <td> {% include resource-links.html data=page.genbank_mat link="https://www.ncbi.nlm.nih.gov/assembly/YOURACCHERE" %} </td>
+    <td> {% include resource-links.html data=page.genbank_pat link="https://www.ncbi.nlm.nih.gov/assembly/YOURACCHERE" %} </td>
     </tr>
 
     <tr>
     <td class="label">ENA</td>
-    <td>
-    {% assign sw = page.genbank_mat | split: " " %}
-    {% for xx in sw %}
-    <a href="https://www.ebi.ac.uk/ena/browser/view/{{ xx }}">{{ xx }}</a>
-    {% endfor %}
-    </td>
-    <td>
-    {% assign sw = page.genbank_pat | split: " " %}
-    {% for xx in sw %}
-    <a href="https://www.ebi.ac.uk/ena/browser/view/{{ xx }}">{{ xx }}</a>
-    {% endfor %}
-    </td>
+    <td> {% include resource-links.html data=page.genbank_mat link="https://www.ebi.ac.uk/ena/browser/view/YOURACCHERE" %} </td>
+    <td> {% include resource-links.html data=page.genbank_pat link="https://www.ebi.ac.uk/ena/browser/view/YOURACCHERE" %} </td>
     </tr>
 
     <tr>
     <td class="label">UCSC Genome Browser</td>
-    <td>
-    {% assign sw = page.genbank_mat | split: " " %}
-    {% for xx in sw %}
-    <a href="https://genome.ucsc.edu/h/{{ xx }}">{{ xx }}</a>
-    {% endfor %}
-    </td>
-    <td>
-    {% assign sw = page.genbank_pat | split: " " %}
-    {% for xx in sw %}
-    <a href="https://genome.ucsc.edu/h/{{ xx }}">{{ xx }}</a>
-    {% endfor %}
-    </td>
+    <td> {% include resource-links.html data=page.genbank_mat link="https://genome.ucsc.edu/h/YOURACCHERE" %} </td>
+    <td> {% include resource-links.html data=page.genbank_pat link="https://genome.ucsc.edu/h/YOURACCHERE" %} </td>
     </tr>
+
     </table>
     {% endif %}
+
 
     </div>
   </div>

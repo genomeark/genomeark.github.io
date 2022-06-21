@@ -36,9 +36,9 @@ data_10x_coverage: 98.40x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/10x/<br>
 data_10x_scale: 1.5012
-data_bionano_bases: N/A
+data_bionano_bases: 8.33 Gbp
 data_bionano_bytes: 2.186 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 2.03x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/bionano/<br>
 data_dovetail_bases: 338.15 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 77.86x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5143
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_905171725.1
-genbank_pri: GCA_905171775.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: aRanTem1:GCA_905171725.1
+genbank_pri: aRanTem1:GCA_905171775.1
 genome_size: 4111422596
 genome_size_display: 4.11 Gbp
 last_raw_data: 1578516698

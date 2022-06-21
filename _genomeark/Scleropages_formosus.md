@@ -42,9 +42,9 @@ data_arima_coverage: 178.08x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/arima/<br>
 data_arima_scale: 1.5299
-data_bionano_bases: N/A
+data_bionano_bases: 275.70 Mbp
 data_bionano_bytes: 0.119 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.35x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/bionano/<br>
 data_pacbio_bases: 57.27 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 73.00x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5438
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_900964985.2
-genbank_pri: GCA_900964775.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fSclFor1:GCA_900964985.2
+genbank_pri: fSclFor1:GCA_900964775.1
 genome_size: 784546363
 genome_size_display: 0.78 Gbp
 last_raw_data: 1547566320

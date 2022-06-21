@@ -71,9 +71,9 @@ data_arima_coverage: 242.54x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut1/genomic_data/arima/<br>s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/<br>
 data_arima_scale: 1.8484
-data_bionano_bases: N/A
+data_bionano_bases: 7.21 Gbp
 data_bionano_bytes: 3.428 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 6.96x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut1/genomic_data/bionano/<br>s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/bionano/<br>
 data_illumina_bases: 138.32 Gbp
@@ -106,11 +106,11 @@ data_pacbiohifi_fqgz_coverage: 38.75x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2228
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_003957525.2 GCA_009859025.1
-genbank_mat: GCA_008822115.3
-genbank_pat: GCA_008822125.1
-genbank_pri: GCA_003957565.4 GCA_009859065.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: bTaeGut1:GCA_003957525.2 bTaeGut2:GCA_009859025.1
+genbank_mat: bTaeGut2:GCA_008822115.3
+genbank_pat: bTaeGut2:GCA_008822125.1
+genbank_pri: bTaeGut1:GCA_003957565.4 bTaeGut2:GCA_009859065.2
 genome_size: 1035611271
 genome_size_display: 1.04 Gbp
 last_raw_data: 1651592061

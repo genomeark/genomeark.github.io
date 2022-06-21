@@ -42,9 +42,9 @@ data_arima_coverage: 176.54x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/arima/<br>
 data_arima_scale: 1.9352
-data_bionano_bases: N/A
+data_bionano_bases: 2.49 Gbp
 data_bionano_bytes: 2.220 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.83x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/bionano/<br>
 data_pacbio_bases: 326.92 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 108.97x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5423
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_008692045.1
-genbank_pri: GCA_008692025.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: mPhoSin1:GCA_008692045.1
+genbank_pri: mPhoSin1:GCA_008692025.1
 genome_size: 3000000000
 genome_size_display: 3.00 Gbp
 genome_size_method: null

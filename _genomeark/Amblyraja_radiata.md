@@ -42,9 +42,9 @@ data_arima_coverage: 167.68x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Amblyraja_radiata/sAmbRad1/genomic_data/arima/<br>
 data_arima_scale: 1.9275
-data_bionano_bases: N/A
+data_bionano_bases: 17.74 Gbp
 data_bionano_bytes: 4.938 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 8.56x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Amblyraja_radiata/sAmbRad1/genomic_data/bionano/<br>
 data_illumina_bases: 770.40 Gbp
@@ -59,9 +59,9 @@ data_pacbio_coverage: 128.19x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Amblyraja_radiata/sAmbRad1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5294
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_010909745.1
-genbank_pri: GCA_010909765.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: sAmbRad1:GCA_010909745.1
+genbank_pri: sAmbRad1:GCA_010909765.2
 genome_size: 2072923533
 genome_size_display: 2.07 Gbp
 last_raw_data: 1574700572

@@ -13,9 +13,9 @@ data_arima_coverage: 130.16x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Meles_meles/mMelMel3/genomic_data/arima/<br>
 data_arima_scale: 1.8748
-data_bionano_bases: N/A
+data_bionano_bases: 2.69 Gbp
 data_bionano_bytes: 3.121 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.96x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Meles_meles/mMelMel3/genomic_data/bionano/<br>
 data_illumina_bases: 231.59 Gbp
@@ -30,9 +30,9 @@ data_pacbiohifi_bam_coverage: 39.31x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Meles_meles/mMelMel3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.0126
-data_status: <em style="color:green">all data</em>
-genbank_mat: GCA_922990625.1
-genbank_pat: GCA_922984935.1
+data_status: <em style="color:red">no data</em>
+genbank_mat: mMelMel3:GCA_922990625.1
+genbank_pat: mMelMel3:GCA_922984935.2
 genome_size: 2802245436
 genome_size_display: 2.80 Gbp
 genome_size_method: genomescope (k=31)

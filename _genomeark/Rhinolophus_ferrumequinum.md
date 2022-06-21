@@ -36,9 +36,9 @@ data_10x_coverage: 45.08x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/10x/<br>
 data_10x_scale: 1.5524
-data_bionano_bases: N/A
+data_bionano_bases: 4.32 Gbp
 data_bionano_bytes: 2.220 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.82x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/bionano/<br>
 data_pacbio_bases: 152.59 Gbp
@@ -53,8 +53,8 @@ data_phase_coverage: 18.90x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/phase/<br>
 data_phase_scale: 1.4874
-data_status: <em style="color:green">all data</em>
-genbank_pri: GCA_014108255.1
+data_status: <em style="color:red">no data</em>
+genbank_pri: mRhiFer1:GCA_014108255.1
 genome_size: 2369916842
 genome_size_display: 2.37 Gbp
 last_raw_data: 1522747239

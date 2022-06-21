@@ -42,9 +42,9 @@ data_arima_coverage: 82.40x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/arima/<br>
 data_arima_scale: 1.7320
-data_bionano_bases: N/A
+data_bionano_bases: 1.38 Gbp
 data_bionano_bytes: 0.918 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.98x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/bionano/<br>
 data_pacbio_bases: 87.26 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 62.33x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5473
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_014839825.1
-genbank_pri: GCA_014839835.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bDryPub1:GCA_014839825.1
+genbank_pri: bDryPub1:GCA_014839835.1
 genome_size: 1400000000
 genome_size_display: 1.40 Gbp
 genome_size_method: null

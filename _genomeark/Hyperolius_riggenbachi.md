@@ -13,7 +13,7 @@ data_pacbiohifi_fqgz_coverage: 36.43x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Hyperolius_riggenbachi/aHypRig1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1430
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 4287000000
 genome_size_display: 4.29 Gbp
 genome_size_method: GoAT

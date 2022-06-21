@@ -42,9 +42,9 @@ data_arima_coverage: 62.48x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Hirundo_rustica/bHirRus1/genomic_data/arima/<br>
 data_arima_scale: 1.6243
-data_bionano_bases: N/A
+data_bionano_bases: 1.31 Gbp
 data_bionano_bytes: 0.017 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.00x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Hirundo_rustica/bHirRus1/genomic_data/bionano/<br>
 data_pacbio_bases: 67.04 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 51.17x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Hirundo_rustica/bHirRus1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5292
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_015227815.3
-genbank_pri: GCA_015227805.3
+data_status: <em style="color:red">no data</em>
+genbank_alt: bHirRus1:GCA_015227815.3
+genbank_pri: bHirRus1:GCA_015227805.3
 genome_size: 1310000000
 genome_size_display: 1.31 Gbp
 genome_size_method: null

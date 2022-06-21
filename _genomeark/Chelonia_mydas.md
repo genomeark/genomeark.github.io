@@ -42,9 +42,9 @@ data_arima_coverage: 86.76x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/arima/<br>
 data_arima_scale: 1.9108
-data_bionano_bases: N/A
+data_bionano_bases: 2.30 Gbp
 data_bionano_bytes: 1.187 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.08x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/bionano/<br>
 data_pacbio_bases: 145.80 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 68.31x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5442
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_015220195.2
-genbank_pri: GCA_015237465.2
+data_status: <em style="color:red">no data</em>
+genbank_alt: rCheMyd1:GCA_015220195.2
+genbank_pri: rCheMyd1:GCA_015237465.2
 genome_size: 2134358617
 genome_size_display: 2.13 Gbp
 last_raw_data: 1566994409

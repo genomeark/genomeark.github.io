@@ -42,9 +42,9 @@ data_arima_coverage: 64.38x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Lemur_catta/mLemCat1/genomic_data/arima/<br>
 data_arima_scale: 1.5120
-data_bionano_bases: N/A
+data_bionano_bases: 2.22 Gbp
 data_bionano_bytes: 1.044 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.67x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Lemur_catta/mLemCat1/genomic_data/bionano/<br>
 data_pacbio_bases: 201.32 Gbp
@@ -65,9 +65,9 @@ data_pacbiohifi_clr_coverage: 362.46x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Lemur_catta/mLemCat1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5212
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_020740595.1
-genbank_pri: GCA_020740605.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: mLemCat1:GCA_020740595.1
+genbank_pri: mLemCat1:GCA_020740605.1
 genome_size: 3300000000
 genome_size_display: 3.30 Gbp
 genome_size_method: null

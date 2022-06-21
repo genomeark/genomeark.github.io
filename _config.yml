@@ -18,17 +18,37 @@ paginate: 6
 paginate_path: "/news/page:num/"
 
 collections:
-  genomeark:
+  genomeark-all:
     output: true
   genomeark-curated-assembly:
     output: true
-  genomeark-high-quality-draft-assembly:
+  genomeark-hqdraft-assembly:
     output: true
-  genomeark-low-quality-draft-assembly:
+  genomeark-lqdraft-assembly:
     output: true
-  genomeark-complete-data:
+  genomeark-raw-data-only:
     output: true
-  genomeark-incomplete-data:
+
+  vgp-all:
+    output: true
+  vgp-curated-assembly:
+    output: true
+  vgp-hqdraft-assembly:
+    output: true
+  vgp-lqdraft-assembly:
+    output: true
+  vgp-raw-data-only:
+    output: true
+
+  t2t-all:
+    output: true
+  t2t-curated-assembly:
+    output: true
+  t2t-hqdraft-assembly:
+    output: true
+  t2t-lqdraft-assembly:
+    output: true
+  t2t-raw-data-only:
     output: true
 
 defaults:
@@ -40,7 +60,7 @@ defaults:
       comments: false
   -
     scope:
-      path: "_genomeark"
+      path: "_genomeark-all"
     values:
       layout: genomeark
       use_name_for_title: true
@@ -52,28 +72,84 @@ defaults:
       use_name_for_title: true
   -
     scope:
-      path: "_genomeark-high-quality-draft-assembly"
+      path: "_genomeark-hqdraft-assembly"
     values:
       layout: genomeark
       use_name_for_title: true
   -
     scope:
-      path: "_genomeark-low-quality-draft-assembly"
+      path: "_genomeark-lqdraft-assembly"
     values:
       layout: genomeark
       use_name_for_title: true
   -
     scope:
-      path: "_genomeark-complete-data"
+      path: "_genomeark-raw-data-only"
     values:
       layout: genomeark
       use_name_for_title: true
   -
     scope:
-      path: "_genomeark-incomplete-data"
+      path: "_vgp-all"
     values:
       layout: genomeark
       use_name_for_title: true
+  -
+    scope:
+      path: "_vgp-curated-assembly"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+  -
+    scope:
+      path: "_vgp-hqdraft-assembly"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+  -
+    scope:
+      path: "_vgp-lqdraft-assembly"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+  -
+    scope:
+      path: "_vgp-raw-data-only"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+  -
+    scope:
+      path: "_t2t-all"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+  -
+    scope:
+      path: "_t2t-curated-assembly"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+  -
+    scope:
+      path: "_t2t-hqdraft-assembly"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+  -
+    scope:
+      path: "_t2t-lqdraft-assembly"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+  -
+    scope:
+      path: "_t2t-raw-data-only"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+
+
 
 #
 # Flags below are optional
@@ -151,8 +227,3 @@ exclude:
   - README.md
   - README.txt
   - CNAME
-  - _statistics-cache/
-  - _statistics-cache/*
-  - _statistics-cache/*/*
-  - _statistics-cache/*/*/*
-  - _statistics-cache/*/*/*/*

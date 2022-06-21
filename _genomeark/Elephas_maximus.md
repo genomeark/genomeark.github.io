@@ -36,9 +36,9 @@ data_arima_coverage: 70.39x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Elephas_maximus/mEleMax1/genomic_data/arima/<br>
 data_arima_scale: 1.8521
-data_bionano_bases: N/A
+data_bionano_bases: 3.41 Gbp
 data_bionano_bytes: 2.176 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.87x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Elephas_maximus/mEleMax1/genomic_data/bionano/<br>
 data_pacbiohifi_bam_bases: 353.84 Gbp
@@ -59,7 +59,7 @@ data_pacbiohifi_fqgz_coverage: 34.97x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1793
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 3941000000
 genome_size_display: 3.94 Gbp
 genome_size_method: GoAT

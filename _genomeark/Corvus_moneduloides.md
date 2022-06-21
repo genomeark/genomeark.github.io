@@ -42,9 +42,9 @@ data_arima_coverage: 82.36x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/arima/<br>
 data_arima_scale: 1.4979
-data_bionano_bases: N/A
+data_bionano_bases: 1.34 Gbp
 data_bionano_bytes: 0.425 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.07x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/bionano/<br>
 data_pacbio_bases: 77.43 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 61.94x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5428
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009651025.1
-genbank_pri: GCA_009650955.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bCorMon1:GCA_009651025.1
+genbank_pri: bCorMon1:GCA_009650955.1
 genome_size: 1250000000
 genome_size_display: 1.25 Gbp
 genome_size_method: null

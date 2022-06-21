@@ -1,0 +1,1 @@
+../_genomeark/Spatula_cyanoptera.md

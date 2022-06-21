@@ -36,9 +36,9 @@ data_arima_coverage: 133.04x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/arima/<br>
 data_arima_scale: 2.1083
-data_bionano_bases: N/A
+data_bionano_bases: 0.89 Gbp
 data_bionano_bytes: 1.651 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.17x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/bionano/<br>
 data_pacbiohifi_bam_bases: 18.28 Gbp
@@ -53,7 +53,7 @@ data_pacbiohifi_clr_coverage: 412.69x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5195
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 764974446
 genome_size_display: 0.76 Gbp
 last_raw_data: 1651608637

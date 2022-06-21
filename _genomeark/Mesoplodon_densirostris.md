@@ -30,9 +30,9 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:green">curated assembly</em>
 common_name: Blainville's beaked whale
-data_bionano_bases: N/A
+data_bionano_bases: 2.60 Gbp
 data_bionano_bytes: 1.116 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.77x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/bionano/<br>
 data_pacbiohifi_bam_bases: 228.32 Gbp
@@ -53,7 +53,7 @@ data_pacbiohifi_fqgz_coverage: 33.65x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2057
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 3377000000
 genome_size_display: 3.38 Gbp
 genome_size_method: GoAT

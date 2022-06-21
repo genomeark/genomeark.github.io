@@ -1,0 +1,1 @@
+../_genomeark/Spirinchus_thaleichthys.md

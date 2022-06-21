@@ -1,13 +1,9 @@
 ---
 assembly_status: <em style="color:red">no assembly</em>
 common_name: acorn worm
-data_arima_bases: N/A
-data_arima_bytes: 45.713 GB
-data_arima_coverage: N/A
-data_arima_files: 666
 data_arima_links: s3://genomeark/species/Saccoglossus_kowalevskii/keSacKowa2/genomic_data/arima/<br>
 data_arima_scale: 2.1036
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 0
 last_raw_data: 1639864605
 last_updated: 1639866094

@@ -7,9 +7,9 @@ data_arima_coverage: 103.24x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/arima/<br>
 data_arima_scale: 1.3699
-data_bionano_bases: N/A
+data_bionano_bases: 1.30 Gbp
 data_bionano_bytes: 0.871 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.09x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/bionano/<br>
 data_illumina_bases: 168.44 Gbp
@@ -30,8 +30,8 @@ data_pacbiohifi_clr_coverage: 645.26x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5146
-data_status: <em style="color:green">all data</em>
-genbank_pat: GCA_020801775.1
+data_status: <em style="color:red">no data</em>
+genbank_pat: bPorHoc1:GCA_020801775.1
 genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 last_raw_data: 1651601059

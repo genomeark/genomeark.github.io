@@ -42,9 +42,9 @@ data_arima_coverage: 83.93x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Cuculus_canorus/bCucCan2/genomic_data/arima/<br>
 data_arima_scale: 1.5128
-data_bionano_bases: N/A
+data_bionano_bases: 1.45 Gbp
 data_bionano_bytes: 0.588 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.03x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Cuculus_canorus/bCucCan1/genomic_data/bionano/<br>
 data_pacbio_bases: 89.92 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 64.23x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Cuculus_canorus/bCucCan1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5378
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_017976305.1
-genbank_pri: GCA_017976375.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bCucCan1:GCA_017976305.1
+genbank_pri: bCucCan1:GCA_017976375.1
 genome_size: 1400000000
 genome_size_display: 1.40 Gbp
 genome_size_method: null

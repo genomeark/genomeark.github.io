@@ -42,9 +42,9 @@ data_arima_coverage: 195.69x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/arima/<br>
 data_arima_scale: 1.8694
-data_bionano_bases: N/A
+data_bionano_bases: 1.39 Gbp
 data_bionano_bytes: 0.935 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.11x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/bionano/<br>
 data_pacbio_bases: 76.78 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 61.42x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5383
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009819805.1
-genbank_pri: GCA_009819775.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bPhoRub2:GCA_009819805.1
+genbank_pri: bPhoRub2:GCA_009819775.1
 genome_size: 1250000000
 genome_size_display: 1.25 Gbp
 genome_size_method: null

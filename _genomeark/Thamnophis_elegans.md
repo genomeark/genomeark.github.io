@@ -36,9 +36,9 @@ data_10x_coverage: 107.51x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/10x/<br>
 data_10x_scale: 1.8244
-data_bionano_bases: N/A
+data_bionano_bases: 3.00 Gbp
 data_bionano_bytes: 0.589 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.58x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/bionano/<br>
 data_dovetail_bases: 260.54 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 62.19x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5392
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_009769695.1
-genbank_pri: GCA_009769535.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: rThaEle1:GCA_009769695.1
+genbank_pri: rThaEle1:GCA_009769535.1
 genome_size: 1900000000
 genome_size_display: 1.90 Gbp
 genome_size_method: null

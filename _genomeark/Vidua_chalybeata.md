@@ -48,7 +48,7 @@ data_pacbio_coverage: 29.26x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Vidua_chalybeata/bVidCha1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.2608
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 1160000000
 genome_size_display: 1.16 Gbp
 genome_size_method: null

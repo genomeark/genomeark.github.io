@@ -42,9 +42,9 @@ data_arima_coverage: 79.06x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/arima/<br>
 data_arima_scale: 1.5446
-data_bionano_bases: N/A
+data_bionano_bases: 1.05 Gbp
 data_bionano_bytes: 0.556 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 0.96x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/bionano/<br>
 data_pacbio_bases: 114.03 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 104.30x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5226
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_013368575.1
-genbank_pri: GCA_013368585.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fMegCyp1:GCA_013368575.1
+genbank_pri: fMegCyp1:GCA_013368585.1
 genome_size: 1093257451
 genome_size_display: 1.09 Gbp
 genome_size_method: genomescope

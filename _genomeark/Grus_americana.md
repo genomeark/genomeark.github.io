@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orange">high-quality draft assembly</em>
+assembly_status: hqdraft
 common_name: Whooping crane
 data_10x_bases: 111.13 Gbp
 data_10x_bytes: 55.124 GB
@@ -13,9 +13,9 @@ data_arima_coverage: 93.77x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Grus_americana/bGruAme1/genomic_data/arima/<br>
 data_arima_scale: 1.4496
-data_bionano_bases: N/A
+data_bionano_bases: 1.36 Gbp
 data_bionano_bytes: 0.640 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.36x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Grus_americana/bGruAme1/genomic_data/bionano/<br>
 data_illumina_bases: 175.56 Gbp
@@ -30,7 +30,7 @@ data_pacbio_coverage: 232.75x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Grus_americana/bGruAme1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5167
-data_status: <em style="color:green">all data</em>
+data_status: <em style="color:red">no data</em>
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 last_raw_data: 1618851714

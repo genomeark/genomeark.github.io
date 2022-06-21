@@ -42,9 +42,9 @@ data_arima_coverage: 104.62x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/arima/<br>
 data_arima_scale: 1.5330
-data_bionano_bases: N/A
+data_bionano_bases: 1.49 Gbp
 data_bionano_bytes: 1.154 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.11x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/bionano/<br>
 data_pacbio_bases: 70.28 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 52.35x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5405
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_902148825.1
-genbank_pri: GCA_902148855.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: fSphaOr1:GCA_902148825.1
+genbank_pri: fSphaOr1:GCA_902148855.1
 genome_size: 1342662642
 genome_size_display: 1.34 Gbp
 last_raw_data: 1553010021

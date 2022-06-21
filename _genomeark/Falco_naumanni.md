@@ -42,9 +42,9 @@ data_arima_coverage: 53.42x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Falco_naumanni/bFalNau1/genomic_data/arima/<br>
 data_arima_scale: 1.6607
-data_bionano_bases: N/A
+data_bionano_bases: 1.52 Gbp
 data_bionano_bytes: 0.859 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.12x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Falco_naumanni/bFalNau1/genomic_data/bionano/<br>
 data_illumina_bases: 350.58 Gbp
@@ -59,9 +59,9 @@ data_pacbio_coverage: 105.11x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Falco_naumanni/bFalNau1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5198
-data_status: <em style="color:green">all data</em>
-genbank_mat: GCA_017639645.1
-genbank_pat: GCA_017639655.1
+data_status: <em style="color:red">no data</em>
+genbank_mat: bFalNau1:GCA_017639645.1
+genbank_pat: bFalNau1:GCA_017639655.1
 genome_size: 1350000000
 genome_size_display: 1.35 Gbp
 genome_size_method: kmers

@@ -42,9 +42,9 @@ data_arima_coverage: 86.82x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/arima/<br>
 data_arima_scale: 1.6635
-data_bionano_bases: N/A
+data_bionano_bases: 1.63 Gbp
 data_bionano_bytes: 0.804 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.63x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/bionano/<br>
 data_pacbio_bases: 98.38 Gbp
@@ -53,9 +53,9 @@ data_pacbio_coverage: 98.38x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5220
-data_status: <em style="color:green">all data</em>
-genbank_alt: GCA_017639475.1
-genbank_pri: GCA_017639485.1
+data_status: <em style="color:red">no data</em>
+genbank_alt: bPluApr1:GCA_017639475.1
+genbank_pri: bPluApr1:GCA_017639485.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 genome_size_method: null

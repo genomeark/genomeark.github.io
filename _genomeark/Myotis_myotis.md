@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orange">high-quality draft assembly</em>
+assembly_status: hqdraft
 common_name: Greater mouse-eared bat
 data_10x_bases: 96.00 Gbp
 data_10x_bytes: 58.454 GB
@@ -7,9 +7,9 @@ data_10x_coverage: 47.92x
 data_10x_files: 666
 data_10x_links: s3://genomeark/species/Myotis_myotis/mMyoMyo1/genomic_data/10x/<br>
 data_10x_scale: 1.5296
-data_bionano_bases: N/A
+data_bionano_bases: 2.57 Gbp
 data_bionano_bytes: 2.998 GB
-data_bionano_coverage: N/A
+data_bionano_coverage: 1.28x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Myotis_myotis/mMyoMyo1/genomic_data/bionano/<br>
 data_pacbio_bases: 182.33 Gbp
@@ -24,8 +24,8 @@ data_phase_coverage: 14.23x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Myotis_myotis/mMyoMyo1/genomic_data/phase/<br>
 data_phase_scale: 1.6675
-data_status: <em style="color:green">all data</em>
-genbank_pri: GCA_014108235.1
+data_status: <em style="color:red">no data</em>
+genbank_pri: mMyoMyo1:GCA_014108235.1
 genome_size: 2003238046
 genome_size_display: 2.00 Gbp
 last_raw_data: 1574722019

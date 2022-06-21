@@ -1,0 +1,1 @@
+../_genomeark/Pangasianodon_hypophthalmus.md
