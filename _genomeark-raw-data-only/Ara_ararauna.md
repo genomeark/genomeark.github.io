@@ -1,0 +1,1 @@
+../_genomeark/Ara_ararauna.md

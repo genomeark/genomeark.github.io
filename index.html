@@ -74,27 +74,33 @@ information is available from
   </tr>
 </thead>
 <tr><td>All</td>
-    <td><a href="{{ site.baseurl }}/genomeark-all">             {{ site.genomeark-all.size }}              species</a></td>
-    <td><a href="{{ site.baseurl }}/genomeark-curated-assembly">{{ site.genomeark-curated-assembly.size }} species</a></td>
-    <td><a href="{{ site.baseurl }}/genomeark-hqdraft-assembly">{{ site.genomeark-hqdraft-assembly.size }} species</a></td>
-    <td><a href="{{ site.baseurl }}/genomeark-lqdraft-assembly">{{ site.genomeark-lqdraft-assembly.size }} species</a></td>
-    <td><a href="{{ site.baseurl }}/genomeark-data-only">       {{ site.genomeark-raw-data-only.size }}    species</a></td>
+    {% include project-table-entry.html path="genomeark-all"              count=site.genomeark-all.size              %}
+    {% include project-table-entry.html path="genomeark-curated-assembly" count=site.genomeark-curated-assembly.size %}
+    {% include project-table-entry.html path="genomeark-hqdraft-assembly" count=site.genomeark-hqdraft-assembly.size %}
+    {% include project-table-entry.html path="genomeark-lqdraft-assembly" count=site.genomeark-lqdraft-assembly.size %}
+    {% include project-table-entry.html path="genomeark-data-only"        count=site.genomeark-raw-data-only.size    %}
 </tr>
 <tr> <td>VGP</td>
-    <td><a href="{{ site.baseurl }}/vgp-all">             {{ site.vgp-all.size }}              species</a></td>
-    <td><a href="{{ site.baseurl }}/vgp-curated-assembly">{{ site.vgp-curated-assembly.size }} species</a></td>
-    <td><a href="{{ site.baseurl }}/vgp-hqdraft-assembly">{{ site.vgp-hqdraft-assembly.size }} species</a></td>
-    <td><a href="{{ site.baseurl }}/vgp-lqdraft-assembly">{{ site.vgp-lqdraft-assembly.size }} species</a></td>
-    <td><a href="{{ site.baseurl }}/vgp-data-only">       {{ site.vgp-raw-data-only.size }}    species</a></td>
+    {% include project-table-entry.html path="vgp-all"              count=site.vgp-all.size              %}
+    {% include project-table-entry.html path="vgp-curated-assembly" count=site.vgp-curated-assembly.size %}
+    {% include project-table-entry.html path="vgp-hqdraft-assembly" count=site.vgp-hqdraft-assembly.size %}
+    {% include project-table-entry.html path="vgp-lqdraft-assembly" count=site.vgp-lqdraft-assembly.size %}
+    {% include project-table-entry.html path="vgp-data-only"        count=site.vgp-raw-data-only.size    %}
 </tr>
 <tr> <td>T2T</td>
-    <td><a href="{{ site.baseurl }}/t2t-all">             {{ site.t2t-all.size }}              species</a></td>
-    <td><a href="{{ site.baseurl }}/t2t-curated-assembly">{{ site.t2t-curated-assembly.size }} species</a></td>
-    <td><a href="{{ site.baseurl }}/t2t-hqdraft-assembly">{{ site.t2t-hqdraft-assembly.size }} species</a></td>
-    <td><a href="{{ site.baseurl }}/t2t-lqdraft-assembly">{{ site.t2t-lqdraft-assembly.size }} species</a></td>
-    <td><a href="{{ site.baseurl }}/t2t-data-only">       {{ site.t2t-raw-data-only.size }}    species</a></td>
+    {% include project-table-entry.html path="t2t-all"              count=site.t2t-all.size              %}
+    {% include project-table-entry.html path="t2t-curated-assembly" count=site.t2t-curated-assembly.size %}
+    {% include project-table-entry.html path="t2t-hqdraft-assembly" count=site.t2t-hqdraft-assembly.size %}
+    {% include project-table-entry.html path="t2t-lqdraft-assembly" count=site.t2t-lqdraft-assembly.size %}
+    {% include project-table-entry.html path="t2t-data-only"        count=site.t2t-raw-data-only.size    %}
 </tr>
+<tfoot>
+<tr>
+<th colspan="6" class="foot">Number of species at each level of completion.</th>
+</tr>
+</tfoot>
 </table>
+
 </div>
 </div>
 

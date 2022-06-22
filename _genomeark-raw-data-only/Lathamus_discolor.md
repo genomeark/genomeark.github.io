@@ -1,0 +1,1 @@
+../_genomeark/Lathamus_discolor.md

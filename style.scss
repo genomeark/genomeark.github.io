@@ -476,6 +476,23 @@ table.raw-data-table tfoot {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
@@ -638,20 +655,19 @@ div.welcome {
     display: block;
 }
 
+
 ////////////////////////////////////////
 //
 //  The by project-and-completion table on the main page.
 //
-
+//  
 div.project-table {
+    //border: 1px solid #ff0000;
     width: 75%;
     margin: 1px auto 1px auto;
 }
 
 table.project-table {
-    //width: 80%;
-    //left-margin: auto;
-    //right-margin: auto;
 }
 table.project-table thead {
     text-align:       right;
@@ -668,12 +684,13 @@ table.project-table th {
     padding-right:    8px;
     background-color: #cccccc;
 
-    &.one {width: 10%;}
-    &.two {width: 18%;}
-    &.thr {width: 18%;}
-    &.fur {width: 18%;}
-    &.fiv {width: 18%;}
-    &.six {width: 18%;}
+    &.one { width: 10%; }
+    &.two { width: 18%; }
+    &.thr { width: 18%; }
+    &.fur { width: 18%; }
+    &.fiv { width: 18%; }
+    &.six { width: 18%; }
+    &.foot{ background-color: #eeeeee; }
 }
 
 table.project-table td {

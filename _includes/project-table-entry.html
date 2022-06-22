@@ -1,0 +1,8 @@
+
+{% if include.count == 0 %}
+{% assign val = "none" %}
+{% else %}
+{% capture val %}{{ include.count }} species{% endcapture %}
+{% endif %}
+
+<td><a href="{{ site.baseurl }}/{{include.path}}">{{val}}</a></td>
