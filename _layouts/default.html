@@ -22,10 +22,6 @@
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
   </head>
 
@@ -34,10 +30,11 @@
       <div class="container">
         <header class="masthead clearfix">
           <div class="site-info">
-            <p>
-            <a href="{{ site.baseurl }}/" class="site-name">{{ site.name }}</a>
-            <br>
-            <a href="https://vertebrategenomesproject.org" class="site-description">{{ site.description }}</a>
+            <p class="site-name">
+            <a href="{{ site.baseurl }}/">{{ site.name }}</a>
+            </p>
+            <p class="site-description">
+            {{ site.descriphtml }}
             </p>
           </div>
 
@@ -60,7 +57,5 @@
         </footer>
       </div>
     </div>
-
-    {% include analytics.html %}
   </body>
 </html>

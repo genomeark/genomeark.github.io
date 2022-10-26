@@ -24,10 +24,10 @@ html {
 }
 
 body {
-	background: #ffffff;
+  background: #ffffff;
   font-family: Helvetica, Arial, sans-serif;
   line-height: 1.1em;
-  color: black;
+  color: #000000;
 }
 
 .container {
@@ -44,122 +44,56 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222222;
-
-  margin: 1em 0 1em 0;
-  padding: 0;
-
-/*  @include mobile {
-    line-height: 1.4;
-  }*/
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
-h1 {
-  font-size: 200%;
-  margin: 0;
-  color: #000000;
-}
-
-h2 {
-  font-size: 150%;
-	line-height: 1;
-	margin: 1em 0px 1em 0px;
-  letter-spacing: 1px;
-}
-
-h3 {
-  font-size: 20px;
-}
-
-h4 {
-  font-size: 16px;
-  color: #666666;
-}
-
-
-
-
-.page-name {
-	color: #888888;
-	text-align: right;
-	display: block;
-	margin: 0px;
-  letter-spacing: 1px;
-}
-
-.section
-{
-	margin-top: 36px;
-	margin-bottom: 0;
-}
-
-.sectionTitle {
-	text-align: center;
-	color: gray;
-	line-height: 1;
-	font-size: 30px;
-    vertical-align: middle;
-    letter-spacing: 1px;
-}
+//h1, h2, h3, h4, h5, h6 {
+//  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+//  color: #222222;
+//
+//  margin: 1em 0 1em 0;
+//  padding: 0;
+//
+///*  @include mobile {
+//    line-height: 1.4;
+//  }*/
+//}
+//
+//h1 {
+//  font-size: 200%;
+//  margin:    0;
+//  color:     #000000;
+//}
+//
+//h2 {
+//  font-size: 150%;
+//  line-height: 1;
+//  margin: 1em 0px 1em 0px;
+//  letter-spacing: 1px;
+//}
+//
+//h3 {
+//  font-size: 20px;
+//}
+//
+//h4 {
+//  font-size: 16px;
+//  color: #666666;
+//}
 
 
-.see-all {
-	margin: 0px 0px 10px 0px;
-	text-align: center;
-  a:before {
-    content: "[\00a0";
-   }
-   a:after {
-   content: "\00a0]";
-  }
-}
-
-
-.subheading {
-    color: gray;
-	margin: 0px 0px 15px 0px;
-	border-bottom: 1px solid lightGray;
-}
-
-.mainHeading {
-	margin-bottom: 0;
-}
-
-p {
-  margin: 15px 0;
-}
 
 a {
-  color: #111111;
-  text-decoration: none;
-  &:hover, &:active {
-    color: #666666;
-  }
+  color: #1111ee;
+  text-decoration: underline;
 }
-
-//a:hover {filter:grayscale(100%);}
-
-ul, ol {
-  margin: 1px 0;
-  padding-left: 30px;
-}
-
-ul {
-  list-style-type: disc;
-}
-
-ol {
-  list-style-type: decimal;
-}
-
-ol ul, ul ol, ul ul, ol ol {
-  margin: 0;
-}
-
-ul ul, ol ul {
-  list-style-type: circle;
+a:hover, a:active {
+  color: #1155ee;
+  text-decoration: underline;
 }
 
 em, i {
@@ -172,182 +106,7 @@ strong, b {
 
 img {
   max-width: 100%;
-
 }
-
-//DEBUG
-//div {
-//    border: 1px solid black;
-//}
-
-.portrait {
-	border-radius: 12px;
-	width: 256px;
-	height: 256px;
-	background-size:cover;
-	background-position: center;
-	box-shadow: 0 2px 5px 0px gray;
-	display: block;
-	margin: auto;
-
-  @include mobile {
-	clear: right;
-  }
-}
-.portrait-caption {
-	width: 256px;
-  margin: auto;
-	text-align: right;
-	font-size: 12px;
-	color: gray;
-
-}
-
-
-.portrait-tiny {
-	border-radius: 12px;
-	width: 128px;
-	height: 128px;
-	background-size:cover;
-	background-position: center;
-	box-shadow: 0 2px 5px 0px gray;
-	display: block;
-	margin: auto;
-//	object-fit: contain;
-
-  @include mobile {
-	clear: right;
-  }
-}
-
-
-.portrait-list {
-//	float:left;
-	border-radius: 12px;
-	width: 90px;
-	height: 90px;
-	background-size:cover;
-	background-position: center;
-	box-shadow: 0 2px 5px 0px gray;
-	margin-bottom: -5px;
-}
-
-.portrait-thumbnail {
-	display: inline-block;
-	background-size:cover;
-	background-position: center;
-	box-shadow: 0 2px 5px 0px gray;
-	margin-bottom: -2px;
-//	object-fit: contain;
-}
-
-
-.species-listing {
-        margin-top: 10px;
-        vertical-align: top;
-        border-top: 1px solid lightGray;
-        padding-top: 10px;
-        width: 100%;
-}
-
-.download-links {
-  overflow-y: auto;
-  overflow-x: scroll;
-
-  white-space: nowrap;
-
-  margin-left: 10px;
-  margin-right: 10px;
-  //margin-top: 10px;
-  //vertical-align: top;
-  //border-top: 1px solid lightGray;
-
-  //border: 1px solid lightGray;
-
-  //padding-top: 10px;
-  //width: 100%;
-
-  font-family: monospace;
-	font-size: 75%;
-	//color: gray;
-}
-
-.monogram {
-	text-align: center;
-	color: gray;
-/*a:hover {filter:grayscale(100%);}*/
-}
-
-// Fixes images in popup boxes from Google Translate
-.gmnoprint img {
-  max-width: none;
-}
-
-.date {
-  font-style: italic;
-  color: #666666;
-}
-
-.pub-title {
-	font-size: 18px;
-}
-
-.pub-authors {
-	font-size: 14px;
-	color: gray;
-}
-
-.pub-journal {
-	font-style: italic;
-	color: gray;
-//	font-weight: bold;
-}
-
-.pub-date {
-	color: gray;
-}
-
-// Specify the color of the selection
-::-moz-selection {
-  color: #000000;
-  background: #eeeeee;
-}
-::selection {
-  color: #000000;
-  background: #eeeeee;
-}
-
-.title
-{
-    color: gray;
-//    border-bottom: 1px solid lightGray;
-    letter-spacing: 1px;
-}
-
-.accent
-{
-    color: #008080;
-//    text-decoration: underline;
-//   -webkit-text-fill-color: white; /* Will override color (regardless of order) */
-//   -webkit-text-stroke-width: 1px;
-//   -webkit-text-stroke-color: black;
-}
-
-
-
-
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
-}
-
 
 
 
@@ -371,41 +130,562 @@ th {
 }
 
 
-
-table.genome-info-table thead {
-    text-align:       right;
-    border:           1px solid #dddddd;
-    border-top:       1px solid #111111;
-    border-bottom:    2px solid #111111;
-}
-
-table.genome-info-table th {
-    text-align:       right;
-    border:           1px solid #111111;
-    padding:          2px;
-    padding-left:     8px;
-    padding-right:    8px;
-    background-color: #cccccc;
-}
-
-table.genome-info-table td {
-    text-align:       right;
-    border:           1px solid #dddddd;
-    padding:          2px;
-    padding-left:     8px;
-    padding-right:    8px;
-}
-table.genome-info-table .label {
-    text-align:       left;
-}
-
-table.genome-info-table tfoot {
-    text-align:       right;
-    border-top:       2px solid #111111;
-    border-bottom:    1px solid #111111;
+p {
+  margin: 15px 0;
 }
 
 
+
+// Specify the color of the selected text
+::-moz-selection { color: #000000; background: #eeeeee; }
+::selection      { color: #000000; background: #eeeeee; }
+
+
+
+.section {
+  overflow:      auto;
+  margin-top:    36px;
+  margin-bottom: 36px;
+}
+
+.sectionTitle {
+  text-align: center;
+  color: #666666;
+  line-height: 1;
+  font-size: 30px;
+    vertical-align: middle;
+    letter-spacing: 1px;
+}
+
+.subheading {
+    color: #666666;
+  margin: 0px 0px 15px 0px;
+  border-bottom: 1px solid lightGray;
+}
+
+.mainHeading {
+  margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+////////////////////////////////////////
+//
+//  Top of page banner:
+//
+//    div    - wrapper-masthead  - spans the whole page, colored teal
+//    div    - container         - spans 80% of wrapper-masthead (like the rest of the site)
+//    header - masthead clearfix - 
+//      div  - site-info         - 
+//           - site-name         - text: "GenomeArk"
+//           - site-description  - text: "Genome Data from ...."
+//
+.wrapper-masthead {
+  background-color:            #008080;
+  margin-top:        0px;
+  margin-bottom:    50px;
+  border-top:        1px solid #dddddd;
+  border-bottom:     1px solid #dddddd;
+}
+
+.masthead {
+  padding-top:      20px;
+  padding-bottom:   20px;
+
+  vertical-align:   middle;
+
+  @include mobile {
+    text-align: center;
+  }
+}
+
+.site-info {
+  color:  #eeeeee;
+  float:  left;
+
+  @include mobile {
+    float:    none;
+    display:  block;
+    margin:   0 auto;
+  }
+
+  a       { color: #eeeeee; }   //  anchors in the header are white on teal
+  a:hover { color: #bbbbbb; }   //  and darker when hovering.
+}
+
+.site-name {         //  GenomeArk
+  font-weight:    400;
+  font-size:      200%;
+  letter-spacing:   1px;
+  a {
+    text-decoration: none;  //  Don't underline "GenomeArk" in the header; it looks silly.
+  }
+}
+
+.site-description {  //  Genome Data from ....
+  font-size:      100%;
+
+  @include mobile {
+    margin: 3px 0;
+  }
+}
+
+
+
+////////////////////////////////////////
+//
+//  Bottom of page footer, last updated, twitter/github links.
+//
+//    div    - wrapper-footer  - span the whole page
+//    div    - container       - spans 80%
+//    footer - footer          - 
+//
+.wrapper-footer {
+  margin-top:    50px;
+  margin-bottom: 20px;
+  border-top:    1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  background-color: #eeeeee;
+}
+
+footer {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+
+
+////////////////////////////////////////
+//
+//  Images of species -- _layouts/species-image.html
+//    species-image-tiny - used for images in the random matrix on the main page
+//    species-image-full - used for images on the species page
+//    species-image-lic  - used for the credits/license of the above
+//
+//  Images in species-lists are defined in species-list-image.
+//
+.species-image-tiny {
+  border-radius:       12px;
+  width:               128px;
+  height:              128px;
+  background-size:     cover;
+  background-position: center;
+  box-shadow:          0 2px 5px 0px #666666;
+  display:             block;
+  margin:              auto;
+
+  @include mobile { clear: right; }
+}
+
+.species-image-full {
+  border-radius:       12px;
+  width:               256px;
+  height:              256px;
+  background-size:     cover;
+  background-position: center;
+  box-shadow:          0 2px 5px 0px #666666;
+  display:             block;
+  margin:              auto;
+
+  @include mobile { clear: right; }
+}
+
+.species-image-lic {
+  width:               256px;
+  margin:              auto;
+  text-align:          right;
+  font-size:           12px;
+  color:               #666666;
+}
+
+
+
+
+
+////////////////////////////////////////
+//
+//  Section headers.  (see also _includes/title-bar.html)
+//
+//               --------------- header text ---------------
+//
+//  The header spans 80% of the containing element (which itself is probably 80%
+//  of the page).
+//
+//    secthead-outer      spans 100% of the container
+//                        adds a 50px margin on the top (think of it as a paragraph break)
+//
+//    secthead-inner      chops the width down to 80% and centers it
+//                        (auto margin on left and right is the magic)
+//
+//    secthead-left    \  these mimic a table, with the text in the center.
+//    secthead-center  -  if the text is larger than 15%, the center cell
+//    secthead-right   /  grows
+//
+//    secthead-line       draws a line centered vertically
+//
+.secthead-outer {
+  clear: both;
+  margin: 50px 0px 0px 0px;
+  display: table;
+  width: 100%;
+  text-align:center;
+}
+.secthead-inner {
+  margin: 0px auto 0px auto;
+  display: table;
+  width: 80%;
+  text-align:center;
+}
+.secthead-left {
+  display: table-cell;
+  height: 100%;
+  position: relative;
+}
+.secthead-center {
+  width: auto;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 125%;
+  line-height: 125%;
+  text-align: center;
+
+  display: table-cell;
+  width: 15%;
+  height: 100%;
+  position: relative;
+}
+.secthead-right {
+  display: table-cell;
+  height: 100%;
+  position: relative;
+}
+.secthead-line {
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  border-bottom: 1px solid #888888;
+}
+
+
+
+////////////////////////////////////////
+//
+//  Stuff on the main page.
+//    welcome             - intro paragraph
+//    project-table       - the 'by project and completion' table.
+//    random-species      - thr grid of random species
+//    random-species-cell - a cell in the grid of random species
+//
+div.welcome {
+  width:        75%;
+  text-align:   justify;
+  margin-left:  auto;
+  margin-right: auto;
+  display:      block;
+}
+
+div.project-table {
+  width: 75%;
+  margin: 1px auto 1px auto;
+}
+
+table.project-table {
+}
+
+table.project-table thead {
+  text-align:       right;
+  border:           1px solid #dddddd;
+  border-top:       1px solid #111111;
+  border-bottom:    2px solid #111111;
+}
+
+table.project-table th {
+  text-align:       right;
+  border:           1px solid #111111;
+  padding:          2px;
+  padding-left:     8px;
+  padding-right:    8px;
+  background-color: #cccccc;
+
+  &.one { width: 10%; }
+  &.two { width: 18%; }
+  &.thr { width: 18%; }
+  &.fur { width: 18%; }
+  &.fiv { width: 18%; }
+  &.six { width: 18%; }
+  &.foot{ background-color: #eeeeee; }
+}
+
+table.project-table td {
+  text-align:       right;
+  border:           1px solid #dddddd;
+  padding:          2px;
+  padding-left:     8px;
+  padding-right:    8px;
+}
+
+table.project-table td a {
+  color:            #1111ee;
+}
+
+table.project-table .label {
+  text-align:       left;
+}
+
+table.project-table tfoot {
+  text-align:       right;
+  border-top:       2px solid #111111;
+  border-bottom:    1px solid #111111;
+}
+
+div.random-species {
+  width:    75%;
+  margin:   1px auto 1px auto;
+  overflow: auto;
+  align:    center;
+}
+div.random-species-cell {
+  height:   161px;
+  width:    24%;
+  overflow: auto;
+  float:    right;
+}
+
+
+
+//////////////////////////////
+//
+//  Pages with lists of species.  These are auto-generated by
+//  GenomeArkProject.pm, files genomeark-all/index.html, etc.  The actual
+//  list layout is defined in _includes/species-listing.html
+//
+//    species-list-page-name   - "All Species"
+//    species-list             - A div around the actual list.
+//    species-listing          - A single list entry.  Color is the species name.
+//    species-list-wrapper     - A div containing the species picture.
+//    species-list-image       - A div containing the species picture with shading.
+//    specieslist-info-wrapper - A div containing the species name, common, and info
+
+.species-list-page-name {
+  color:           #111111;
+  text-align:      left;
+  display:         block;
+  margin:           0px;
+  margin-bottom:   30px;     //  A little space between "All Species" and the actual list.
+  letter-spacing:   1px;
+}
+
+.species-list {
+  display:         block;
+  margin:          0px;
+}
+
+.species-listing {
+  color:           #111111;             //  Color of the species common name.
+  padding-top:     10px;                //  Padding on top and bottom, else the
+  padding-bottom:  10px;                //  line is adjacent to the picture.
+  width:           100%;                //
+  border-top:      1px solid #444444;   //  A line separating the species-list entries.
+}
+
+.species-list-image-wrapper {
+  width:               1%;
+  padding:             6px 0px 6px 0px;
+}
+.species-list-image {
+  border-radius:       12px;
+  width:               100px;
+  height:              100px;
+  background-size:     cover;
+  background-position: center;
+  box-shadow:          0 2px 5px 0px #666666;
+}
+
+.species-list-info-wrapper {
+  vertical-align:      top;
+  padding:             30px 0px 0px 10px;
+}
+
+.species-list-info-name {       //  This is the text of the species name link
+  a       { color: #3333cc; }
+  a:hover { color: #1111bb; }
+}
+
+.species-list-info-body {       //  This is a div with the common name and info list.
+  color:           #333333;     //  Color of the species common name.
+  margin-left:    10px;         //  Distance from the image to the div border.
+  padding-left:   10px;         //  Distance from the div border to the list.
+  border-left:     1px solid #000000;  //  This is the vertical line on the left side.
+}
+
+
+
+////////////////////////////////////////
+//
+//  Species detail pages, defined in _layouts/genomeark.html
+//    species-detail    - wrapper around the whole page
+//
+div.species-detail {      //  A div around the whole page.
+  overflow:       auto;
+}
+
+//
+//  The species-info table (with speices name and picture)
+//    sd-sname          - species-name text at the top
+//    sd-cname          - common-name text at the top
+//    sd-info           - wrapper around the info block
+//    sd-image          - 
+//
+.sd-sname {
+  font-size:      200%;
+  color:          #000000;
+  font-style:     italic;
+  letter-spacing: 1px;
+}
+
+.sd-cname {
+  font-size:      150%;
+  color:          #333333;
+}
+
+div.sd-info {
+  width:          66%;
+  overflow:       auto;
+  float:          left;
+}
+
+table.sd-info-tab thead {
+  text-align:       right;
+  border:           1px solid #dddddd;
+  border-top:       1px solid #111111;
+  border-bottom:    2px solid #111111;
+}
+
+table.sd-info-tab th {
+  text-align:       right;
+  border:           1px solid #111111;
+  padding:          2px;
+  padding-left:     8px;
+  padding-right:    8px;
+  background-color: #cccccc;
+}
+
+table.sd-info-tab td {
+  text-align:       right;
+  border:           1px solid #dddddd;
+  padding:          2px;
+  padding-left:     8px;
+  padding-right:    8px;
+}
+
+table.sd-info-tab .label {
+  text-align:       left;
+}
+
+table.sd-info-tab tfoot {
+  text-align:       right;
+  border-top:       2px solid #111111;
+  border-bottom:    1px solid #111111;
+}
+
+div.sd-image {
+  overflow:       auto;
+  float:          right;
+}
+
+//
+//  The raw data tables
+//
+
+table.raw-data-table thead {
+  text-align:       right;
+  border:           1px solid #dddddd;
+  border-top:       1px solid #111111;
+  border-bottom:    2px solid #111111;
+}
+
+table.raw-data-table th {
+  text-align:       right;
+  border:           1px solid #111111;
+  padding:          2px;
+  padding-left:     8px;
+  padding-right:    8px;
+  background-color: #cccccc;
+}
+
+table.raw-data-table td {
+  text-align:       right;
+  border:           1px solid #dddddd;
+  padding:          2px;
+  padding-left:     8px;
+  padding-right:    8px;
+}
+table.raw-data-table .label {
+  text-align:       left;
+}
+
+table.raw-data-table tfoot {
+  text-align:       right;
+  border-top:       2px solid #111111;
+  border-bottom:    1px solid #111111;
+}
+
+p.raw-data-size {
+  margin:         0px 0px 0px 0px;
+  font-size:      75%;
+  text-align:     right;
+}
+p.raw-data-date {
+  margin:         0px 0px 0px 0px;
+  font-size:      75%;
+  text-align:     right;
+}
+
+div.raw-data-links {
+  padding:      0px 0px 0px 20px;
+  overflow-y:   auto;
+  overflow-x:   auto;  //scroll;
+  white-space:  nowrap;
+  margin-right: 0px 10px 0px 10px;
+  font-family:  monospace;
+  font-size:    75%;
+}
+
+//
+//  Assembly tables - this stuff is in _include/assembly-stats.html
+//
+
+div.assembly-list {
+  width:    97%;
+}
+
+div.assembly-block-l {
+  @media only screen and (max-width: 768px) { width: 99%; overflow: scroll;               }
+  @media only screen and (min-width: 769px) { width: 49%; overflow: hidden; float: left;  }
+}
+div.assembly-block-r {
+  @media only screen and (max-width: 768px) { width: 99%; overflow: scroll;               }
+  @media only screen and (min-width: 769px) { width: 49%; overflow: hidden; float: right; }
+}
+
+.sequence-file {
+}
+
+.sequence-sizes-table {
+}
+
+.genome-size {
+  clear:    left;
+  text-align: right;
+}
 
 table.sequence-sizes-table thead {
     text-align:       right;
@@ -438,596 +718,38 @@ table.sequence-sizes-table tfoot {
 }
 
 
-
-table.raw-data-table thead {
-    text-align:       right;
-    border:           1px solid #dddddd;
-    border-top:       1px solid #111111;
-    border-bottom:    2px solid #111111;
-}
-
-table.raw-data-table th {
-    text-align:       right;
-    border:           1px solid #111111;
-    padding:          2px;
-    padding-left:     8px;
-    padding-right:    8px;
-    background-color: #cccccc;
-}
-
-table.raw-data-table td {
-    text-align:       right;
-    border:           1px solid #dddddd;
-    padding:          2px;
-    padding-left:     8px;
-    padding-right:    8px;
-}
-table.raw-data-table .label {
-    text-align:       left;
-}
-
-table.raw-data-table tfoot {
-    text-align:       right;
-    border-top:       2px solid #111111;
-    border-bottom:    1px solid #111111;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*********************/
-/* LAYOUT / SECTIONS */
-/*********************/
-
-////////////////////////////////////////
 //
-//  Top of page banner:
+//  Data use text at the bottom of the page.
 //
-//    div    - wrapper-masthead  - spans the whole page, colored teal
-//    div    - container         - spans 80% of wrapper-masthead (like the rest of the site)
-//    header - masthead clearfix - 
-//      div  - site-info         - 
-//           - site-name         - text: "GenomeArk"
-//           - site-description  - text: "Genome Data from ...."
-//
-.wrapper-masthead {
-  background-color: #008080;
-  margin-top:     0px;
-  margin-bottom: 50px;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-}
-
-.masthead {
-  padding-top: 20px;
-  padding-bottom: 20px;
-
-	vertical-align: middle;
-
-  @include mobile {
-    text-align: center;
-  }
-}
-
-.site-info {
-  color: #eeeeee;
-	float: left;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
-  a       { color: #eeeeee; }   //  anchors in the header are white on teal
-  a:hover { color: #f0f000; }   //  and yellow when hovering
-}
-
-.site-name {         //  GenomeArk
-  font-weight: 400;
-  font-size: 200%;
-  letter-spacing: 1px;
-}
-
-.site-description {  //  Genome Data from ....
-  font-size: 100%;
-
-  @include mobile {
-    margin: 3px 0;
-  }
-}
-
-
-////////////////////////////////////////
-//
-//  Section headers.  (see also _includes/title-bar.html)
-//
-//               --------------- header text ---------------
-//
-//  The header spans 80% of the containing element (which itself is probably 80%
-//  of the page).
-//
-//    secthead-outer      spans 100% of the container
-//                        adds a 50px margin on the top (think of it as a paragraph break)
-//
-//    secthead-inner      chops the width down to 80% and centers it
-//                        (auto margin on left and right is the magic)
-//
-//    secthead-left    \  these mimic a table, with the text in the center.
-//    secthead-center  -  if the text is larger than 15%, the center cell
-//    secthead-right   /  grows
-//
-//    secthead-line       draws a line centered vertically
-//
-.secthead-outer {
-    margin: 50px 0px 0px 0px;
-    display: table;
-    width: 100%;
-    text-align:center;
-}
-.secthead-inner {
-    margin: 0px auto 0px auto;
-    display: table;
-    width: 80%;
-    text-align:center;
-}
-.secthead-left {
-    display: table-cell;
-    height: 100%;
-    position: relative;
-}
-.secthead-center {
-    width: auto;
-    padding-left: 5px;
-    padding-right: 5px;
-    font-size: 125%;
-    line-height: 125%;
-    text-align: center;
-
-    display: table-cell;
-    width: 15%;
-    height: 100%;
-    position: relative;
-}
-.secthead-right {
-    display: table-cell;
-    height: 100%;
-    position: relative;
-}
-.secthead-line {
-    position: absolute;
-    width: 100%;
-    top: 50%;
-    border-bottom: 1px solid #888888;
-}
-
-////////////////////////////////////////
-//
-//  Bottom of page footer, last updated, twitter/github links.
-//
-//    div    - wrapper-footer  - span the whole page
-//    div    - container       - spans 80%
-//    footer - footer          - 
-
-.wrapper-footer {
-  margin-top:    50px;
-  margin-bottom: 20px;
-  border-top:    1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: #eeeeee;
-}
-
-footer {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  text-align: center;
-}
-
-////////////////////////////////////////
-//
-//  The intro paragraph on the main page.
-//
-
-div.welcome {
-    width: 80%;
-
-    text-align: justify;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-
-
-////////////////////////////////////////
-//
-//  The by project-and-completion table on the main page.
-//
-//  
-div.project-table {
-    //border: 1px solid #ff0000;
-    width: 75%;
-    margin: 1px auto 1px auto;
-}
-
-table.project-table {
-}
-table.project-table thead {
-    text-align:       right;
-    border:           1px solid #dddddd;
-    border-top:       1px solid #111111;
-    border-bottom:    2px solid #111111;
-}
-
-table.project-table th {
-    text-align:       right;
-    border:           1px solid #111111;
-    padding:          2px;
-    padding-left:     8px;
-    padding-right:    8px;
-    background-color: #cccccc;
-
-    &.one { width: 10%; }
-    &.two { width: 18%; }
-    &.thr { width: 18%; }
-    &.fur { width: 18%; }
-    &.fiv { width: 18%; }
-    &.six { width: 18%; }
-    &.foot{ background-color: #eeeeee; }
-}
-
-table.project-table td {
-    text-align:       right;
-    a {
-        color:       orange;
-    }
-    border:           1px solid #dddddd;
-    padding:          2px;
-    padding-left:     8px;
-    padding-right:    8px;
-}
-table.project-table .label {
-    text-align:       left;
-}
-
-table.project-table tfoot {
-    text-align:       right;
-    border-top:       2px solid #111111;
-    border-bottom:    1px solid #111111;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.center {
-  text-align: center;
-  margin-left: auto;
+div.data-use {
+  width:        75%;
+  text-align:   justify;
+  margin-left:  auto;
   margin-right: auto;
-  display: block;
-}
-
-.pane {
- background-color: #EEEEEE;
- padding: 15px;
- border-radius: 6px;
-}
-.site-avatar {
-  background-color: white;
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
-  padding: 5px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
-  border-radius: 10px;
-}
-
-.logo {
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
-  margin-left: 15px;
-  padding: 5px;
-
-	background-size:contain;
-	background-repeat:no-repeat;
-	background-position: center;
-	padding: 5px;
-	display: inline-block;
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
-  border-radius: 10px;
-}
-
-.logo-list {
-	width: 120px;
-	height: 120px;
-	background-size:contain;
-	background-repeat:no-repeat;
-	background-position: center;
-	padding: 5px;
-	display: inline-block;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
-  border-radius: 10px;
-}
-
-.logo-small {
-	width: 40px;
-	height: 40px;
-	background-size:contain;
-	background-repeat:no-repeat;
-	background-position: center;
-	display: inline-block;
+  display:      block;
 }
 
 
 
-nav {
-  float: right;
-  vertical-align: middle;
-  margin-top: 0px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 20px;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
-
-	div {
-	color: white;
-	  text-align: justify;
-	  height: 1.5em;
-  @include mobile {
-    text-align: center;
-    }
-	}
-	div:after {
-		content: "";
-		display: inline-block;
-		width: 100%;
-	}
-
-  a {
-  text-align: justify;
-  display: inline;
-    color: white;
-    font-weight: 300;
-    letter-spacing: 1px;
-
-    &:hover, &:active {
-    filter:none;
-    }
-
-    @include mobile {
-      margin: 0 10px;
-    }
-  }
-}
-
-//
-// .main
-//
-
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-
-.post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid #666666;
-    padding: 0.1em 1em;
-    color: #666666;
-    font-size: 12px;
-    font-style: italic;
-  }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    font-size: 16px;
-  }
-}
-
-ul.link-list {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-}
-
-.link-list {
-	li {
-		display: inline;
-	}
-
-	li + li:before {
-		color: gray;
-    	content: " | ";
-	}
-}
-
-.post-list {
-	margin:10px 0 0;
-	line-height:1.0;
-}
-
-.postBody {
-	margin-left: 10px;
-	padding-left: 10px;
-	border-left: 1px solid lightGray;
-}
-
-.postShort {
-	margin-left: 10px;
-	padding-left: 5px;
-}
-
-.excerpt {
-	p {
-		margin: 5px 0 0 0;
-	}
-}
-
-.linkMore {
-	margin: 5px 0 0 10px;
-}
 
 
 
-.species-info {
-    width: 66%;
-    overflow: auto;
-    float:    left;
+// Nicolas Gallagher's micro clearfix hack
+// http://nicolasgallagher.com/micro-clearfix-hack/
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
 }
 
-.species-image {
-    overflow: auto;
-    float:    right;
-}
-.species-image-grid {
-    height:   161px;
-    width:    24%;
-    overflow: auto;
-    float:    right;
+.clearfix:after {
+    clear: both;
 }
 
-
-.raw-data {
-  margin:   10px;
-}
-.notes {
-  margin:   10px;
-}
-.assemblies {
-  margin:   10px;
-}
-.data-use {
-  margin:   10px;
-}
-
-
-.assembly {
-  margin:   10px;
-  width:    97%;
-  overflow: auto;
-}
-.sequence-file {
-  margin:   0px;
-  overflow: auto;
-}
-.sequence-sizes {
-  margin:   0px;
-  overflow: auto;
-}
-.genome-size {
-  margin:   0px;
-  clear:    left;
-  text-align: right;
-}
-
-@media only screen and (max-width: 768px) {
-.merged-sequence-left {
-  width:    99%;
-  overflow: auto;
-}
-.merged-sequence-right {
-  width:    99%;
-  overflow: auto;
-}
-.primary-sequence {
-  width:    99%;
-  overflow: auto;
-}
-.alternate-sequence {
-  width:    99%;
-  overflow: auto;
-}
-.mito-sequence {
-  width:    99%;
-  overflow: auto;
-}
-}
-
-@media only screen and (min-width: 769px) {
-.merged-sequence-left {
-  width:    49%;
-  overflow: auto;
-  float:    left;
-}
-.merged-sequence-right {
-  width:    49%;
-  overflow: auto;
-  float:    right;
-}
-.primary-sequence {
-  width:    49%;
-  overflow: auto;
-  float:    left;
-}
-.alternate-sequence {
-  width:    49%;
-  overflow: auto;
-  float:    right;
-}
-.mito-sequence {
-  width:    99%;
-  overflow: auto;
-}
-}
+//  DEBUG
+//div {
+//    border: 1px solid #000000;
+//}
 
 
 
