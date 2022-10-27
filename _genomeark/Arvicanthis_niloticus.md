@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: African grass rat
 data_10x_bases: 261.68 Gbp
 data_10x_bytes: 124.201 GB

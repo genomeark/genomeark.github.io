@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: lesser Egyptian jerboa
 data_10x_links: s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/10x/<br>
 data_10x_scale: 1.9377

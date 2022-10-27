@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: bottlenose dolphin
 data_10x_bases: 323.11 Gbp
 data_10x_bytes: 154.610 GB

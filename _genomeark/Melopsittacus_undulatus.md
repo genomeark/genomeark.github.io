@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: budgerigar
 data_10x_bases: 98.91 Gbp
 data_10x_bytes: 50.530 GB

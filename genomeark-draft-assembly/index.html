@@ -5,11 +5,11 @@
 layout: default
 title: GenomeArk
 ---
-<h1 class="species-list-page-name"><a href="Vertebrate Genomes Project">Vertebrate Genomes Project</a> Species with Low-Quality Draft Assembles</h1>
+<h1 class="species-list-page-name">Species with Draft Assembles</h1>
 
 <div class="species-list">
-{% if site.vgp-lqdraft-assembly %}
- {% assign sorted = site.vgp-lqdraft-assembly | sort: 'name' %}
+{% if site.genomeark-draft-assembly %}
+ {% assign sorted = site.genomeark-draft-assembly | sort: 'name' %}
  {% for species in sorted %}
  {% include species-listing.html species=species %}
  {% endfor %}

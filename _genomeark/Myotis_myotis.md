@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">high-quality draft</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: Greater mouse-eared bat
 data_10x_bases: 96.00 Gbp
 data_10x_bytes: 58.454 GB

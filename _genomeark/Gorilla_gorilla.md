@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">high-quality draft</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: gorilla
 data_dovetail_bases: 148.47 Gbp
 data_dovetail_bytes: 75.595 GB

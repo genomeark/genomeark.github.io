@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">high-quality draft</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: Bornean orangutan
 data_dovetail_bases: 170.10 Gbp
 data_dovetail_bytes: 87.235 GB

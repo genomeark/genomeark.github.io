@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">high-quality draft</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: Egyptian fruit bat
 data_10x_bases: 112.49 Gbp
 data_10x_bytes: 56.105 GB

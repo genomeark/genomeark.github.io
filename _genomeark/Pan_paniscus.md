@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">high-quality draft</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: bonobo
 data_dovetail_bases: 107.48 Gbp
 data_dovetail_bytes: 54.169 GB

@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: Mexican gopher tortoise
 data_10x_bases: 248.31 Gbp
 data_10x_bytes: 116.626 GB

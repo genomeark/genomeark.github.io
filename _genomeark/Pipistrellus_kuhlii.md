@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">high-quality draft</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: Kuhl's pipistrelle
 data_10x_bases: 95.71 Gbp
 data_10x_bytes: 59.271 GB

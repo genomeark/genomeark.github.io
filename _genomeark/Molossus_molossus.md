@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">high-quality draft</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: Pallas's mastiff bat
 data_10x_bases: 106.64 Gbp
 data_10x_bytes: 55.226 GB

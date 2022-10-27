@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_berlinSanger_vgp_1.6
-assembly_status: <em style="color:orangered">high-quality draft</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: southern two-toed sloth
 data_10x_bases: 342.78 Gbp
 data_10x_bytes: 159.933 GB

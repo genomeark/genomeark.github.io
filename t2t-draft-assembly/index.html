@@ -5,11 +5,11 @@
 layout: default
 title: GenomeArk
 ---
-<h1 class="species-list-page-name"><a href="Vertebrate Genomes Project">Vertebrate Genomes Project</a> Species with High-Quality Draft Assembles</h1>
+<h1 class="species-list-page-name"><a href="Telomere-2-Telomere Project">Telomere-2-Telomere Project</a> Species with Draft Assembles</h1>
 
 <div class="species-list">
-{% if site.vgp-hqdraft-assembly %}
- {% assign sorted = site.vgp-hqdraft-assembly | sort: 'name' %}
+{% if site.t2t-draft-assembly %}
+ {% assign sorted = site.t2t-draft-assembly | sort: 'name' %}
  {% for species in sorted %}
  {% include species-listing.html species=species %}
  {% endfor %}

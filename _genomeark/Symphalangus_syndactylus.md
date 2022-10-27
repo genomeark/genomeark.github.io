@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">high-quality draft</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: siamang gibbon
 data_dovetail_bases: 258.65 Gbp
 data_dovetail_bytes: 127.912 GB

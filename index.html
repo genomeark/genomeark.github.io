@@ -76,30 +76,26 @@ from <a href="https://github.com/vgp">https://github.com/vgp</a>.
   <th class="one"></th>
   <th class="two">All Species</th>
   <th class="tre">Curated Assemblies</th>
-  <th class="fur">High-Quality Draft Assemblies</th>
-  <th class="fiv">Low-Quality Draft Assemblies</th>
-  <th class="six">Raw Data Only</th>
+  <th class="fur">Draft Assemblies</th>
+  <th class="fiv">Raw Data Only</th>
   </tr>
 </thead>
 <tr><td>All</td>
     {% include project-table-entry.html path="genomeark-all"              count=site.genomeark-all.size              %}
     {% include project-table-entry.html path="genomeark-curated-assembly" count=site.genomeark-curated-assembly.size %}
-    {% include project-table-entry.html path="genomeark-hqdraft-assembly" count=site.genomeark-hqdraft-assembly.size %}
-    {% include project-table-entry.html path="genomeark-lqdraft-assembly" count=site.genomeark-lqdraft-assembly.size %}
+    {% include project-table-entry.html path="genomeark-draft-assembly"   count=site.genomeark-draft-assembly.size   %}
     {% include project-table-entry.html path="genomeark-raw-data-only"    count=site.genomeark-raw-data-only.size    %}
 </tr>
 <tr> <td>VGP</td>
     {% include project-table-entry.html path="vgp-all"              count=site.vgp-all.size              %}
     {% include project-table-entry.html path="vgp-curated-assembly" count=site.vgp-curated-assembly.size %}
-    {% include project-table-entry.html path="vgp-hqdraft-assembly" count=site.vgp-hqdraft-assembly.size %}
-    {% include project-table-entry.html path="vgp-lqdraft-assembly" count=site.vgp-lqdraft-assembly.size %}
+    {% include project-table-entry.html path="vgp-draft-assembly"   count=site.vgp-draft-assembly.size   %}
     {% include project-table-entry.html path="vgp-raw-data-only"    count=site.vgp-raw-data-only.size    %}
 </tr>
 <tr> <td>T2T</td>
     {% include project-table-entry.html path="t2t-all"              count=site.t2t-all.size              %}
     {% include project-table-entry.html path="t2t-curated-assembly" count=site.t2t-curated-assembly.size %}
-    {% include project-table-entry.html path="t2t-hqdraft-assembly" count=site.t2t-hqdraft-assembly.size %}
-    {% include project-table-entry.html path="t2t-lqdraft-assembly" count=site.t2t-lqdraft-assembly.size %}
+    {% include project-table-entry.html path="t2t-draft-assembly"   count=site.t2t-draft-assembly.size   %}
     {% include project-table-entry.html path="t2t-raw-data-only"    count=site.t2t-raw-data-only.size    %}
 </tr>
 <tfoot>

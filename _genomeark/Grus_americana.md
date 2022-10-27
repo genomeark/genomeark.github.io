@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">high-quality draft</em>
+assembly_status: <em style="color:orangered">draft</em>
 common_name: Whooping crane
 data_10x_bases: 111.13 Gbp
 data_10x_bytes: 55.124 GB

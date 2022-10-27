@@ -25,9 +25,7 @@ collections:
     output: true
   genomeark-curated-assembly:
     output: true
-  genomeark-hqdraft-assembly:
-    output: true
-  genomeark-lqdraft-assembly:
+  genomeark-draft-assembly:
     output: true
   genomeark-raw-data-only:
     output: true
@@ -36,9 +34,7 @@ collections:
     output: true
   vgp-curated-assembly:
     output: true
-  vgp-hqdraft-assembly:
-    output: true
-  vgp-lqdraft-assembly:
+  vgp-draft-assembly:
     output: true
   vgp-raw-data-only:
     output: true
@@ -47,9 +43,7 @@ collections:
     output: true
   t2t-curated-assembly:
     output: true
-  t2t-hqdraft-assembly:
-    output: true
-  t2t-lqdraft-assembly:
+  t2t-draft-assembly:
     output: true
   t2t-raw-data-only:
     output: true
@@ -75,13 +69,7 @@ defaults:
       use_name_for_title: true
   -
     scope:
-      path: "_genomeark-hqdraft-assembly"
-    values:
-      layout: genomeark
-      use_name_for_title: true
-  -
-    scope:
-      path: "_genomeark-lqdraft-assembly"
+      path: "_genomeark-draft-assembly"
     values:
       layout: genomeark
       use_name_for_title: true
@@ -105,13 +93,7 @@ defaults:
       use_name_for_title: true
   -
     scope:
-      path: "_vgp-hqdraft-assembly"
-    values:
-      layout: genomeark
-      use_name_for_title: true
-  -
-    scope:
-      path: "_vgp-lqdraft-assembly"
+      path: "_vgp-draft-assembly"
     values:
       layout: genomeark
       use_name_for_title: true
@@ -135,13 +117,7 @@ defaults:
       use_name_for_title: true
   -
     scope:
-      path: "_t2t-hqdraft-assembly"
-    values:
-      layout: genomeark
-      use_name_for_title: true
-  -
-    scope:
-      path: "_t2t-lqdraft-assembly"
+      path: "_t2t-draft-assembly"
     values:
       layout: genomeark
       use_name_for_title: true
