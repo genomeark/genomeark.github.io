@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: killer whale
 data_pacbiohifi_bam_bases: 98.13 Gbp
 data_pacbiohifi_bam_bytes: 64.999 GB
@@ -36,7 +36,9 @@ data_pacbiohifi_bam_coverage: 37.07x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Orcinus_orca/mOrcOrc1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.4061
-data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:red">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:red">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:lightgray">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:lightgray">Scaffolding</em>'
+genbank_alt: mOrcOrc1:GCA_937001455.1
+genbank_pri: mOrcOrc1:GCA_937001465.1
 genome_size: 2647351467
 genome_size_display: 2.65 Gbp
 last_raw_data: 1651606806

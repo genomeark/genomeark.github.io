@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: black rhinoceros
 data_arima_bases: 218.61 Gbp
 data_arima_bytes: 148.418 GB
@@ -30,7 +30,9 @@ data_pacbiohifi_clr_coverage: 562.64x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5169
-data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_mat: mDicBic1:GCA_020826845.1
+genbank_pat: mDicBic1:GCA_020826835.1
 genome_size: 3000000000
 genome_size_display: 3.00 Gbp
 last_raw_data: 1651608901

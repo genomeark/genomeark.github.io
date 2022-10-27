@@ -28,7 +28,7 @@ alt4sizes: |
   </tfoot>
   </table>
 alt4version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: Canada lynx
 data_10x_bases: 318.35 Gbp
 data_10x_bytes: 194.683 GB
@@ -53,7 +53,9 @@ data_pacbio_coverage: 72.83x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5384
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: mLynCan4:GCA_007474575.2
+genbank_pri: mLynCan4:GCA_007474595.2
 genome_size: 2471525315
 genome_size_display: 2.47 Gbp
 last_raw_data: 1534379101

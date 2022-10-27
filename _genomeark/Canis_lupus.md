@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: Greenland wolf
 data_10x_bases: 283.59 Gbp
 data_10x_bytes: 167.896 GB
@@ -48,7 +48,9 @@ data_pacbiohifi_bam_coverage: 33.78x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1253
-data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: mCanLor1:GCA_905319845.1
+genbank_pri: mCanLor1:GCA_905319855.2
 genome_size: 2447463909
 genome_size_display: 2.45 Gbp
 last_raw_data: 1651605565

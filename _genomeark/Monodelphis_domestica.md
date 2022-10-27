@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: gray short-tailed opossum
 data_arima_bases: 533.40 Gbp
 data_arima_bytes: 256.475 GB
@@ -59,7 +59,7 @@ data_pacbiohifi_fqgz_coverage: 32.90x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Monodelphis_domestica/mMonDom1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1589
-data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
 genome_size: 4592000000
 genome_size_display: 4.59 Gbp
 genome_size_method: GoAT

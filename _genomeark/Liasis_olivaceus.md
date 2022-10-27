@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:red">none</em>
+assembly_status: <em style="color:black">none</em>
 common_name: olive python
 data_arima_bases: 170.49 Gbp
 data_arima_bytes: 82.813 GB
@@ -18,7 +18,7 @@ data_pacbiohifi_fqgz_coverage: 33.48x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1692
-data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
 genome_size: 1675000000
 genome_size_display: 1.68 Gbp
 genome_size_method: GoAT

@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orange">high-quality draft</em>
+assembly_status: <em style="color:orangered">high-quality draft</em>
 common_name: Pallas's mastiff bat
 data_10x_bases: 106.64 Gbp
 data_10x_bytes: 55.226 GB
@@ -24,7 +24,8 @@ data_pacbio_coverage: 58.28x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Molossus_molossus/mMolMol1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5350
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_pri: mMolMol1:GCA_014108415.1
 genome_size: 2319008189
 genome_size_display: 2.32 Gbp
 genome_size_method: DAmar assembly

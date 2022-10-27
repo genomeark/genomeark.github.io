@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: cunner
 data_10x_bases: 88.87 Gbp
 data_10x_bytes: 44.568 GB
@@ -53,7 +53,9 @@ data_pacbio_coverage: 103.95x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Tautogolabrus_adspersus/fTauAds1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5180
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: fTauAds1:GCA_020745675.1
+genbank_pri: fTauAds1:GCA_020745685.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 genome_size_method: null

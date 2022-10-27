@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: Anna's hummingbird
 data_10x_bases: 56.08 Gbp
 data_10x_bytes: 32.739 GB
@@ -65,7 +65,9 @@ data_phase_coverage: 19.53x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Calypte_anna/bCalAnn1/genomic_data/phase/<br>
 data_phase_scale: 1.7647
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: bCalAnn1:GCA_003957575.1
+genbank_pri: bCalAnn1:GCA_003957555.2
 genome_size: 1116472572
 genome_size_display: 1.12 Gbp
 last_raw_data: 1531244296

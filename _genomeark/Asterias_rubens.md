@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: common starfish
 data_dovetail_bases: 121.28 Gbp
 data_dovetail_bytes: 77.682 GB
@@ -48,7 +48,9 @@ data_pacbio_coverage: 112.68x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Asterias_rubens/eAstRub1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5220
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: eAstRub1:GCA_902459445.1
+genbank_pri: eAstRub1:GCA_902459465.3
 genome_size: 417601740
 genome_size_display: 417.60 Mbp
 last_raw_data: 1565272838

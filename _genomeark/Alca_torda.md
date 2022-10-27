@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: razorbill
 data_10x_bases: 79.24 Gbp
 data_10x_bytes: 37.941 GB
@@ -53,7 +53,9 @@ data_pacbio_coverage: 64.74x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Alca_torda/bAlcTor1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5388
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: bAlcTor1:GCA_008658355.1
+genbank_pri: bAlcTor1:GCA_008658365.1
 genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 genome_size_method: null

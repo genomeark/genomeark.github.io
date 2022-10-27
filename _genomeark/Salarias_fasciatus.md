@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: jewelled blenny
 data_10x_bases: 128.31 Gbp
 data_10x_bytes: 79.223 GB
@@ -53,7 +53,9 @@ data_pacbio_coverage: 82.00x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5351
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: fSalaFa1:GCA_902148835.1
+genbank_pri: fSalaFa1:GCA_902148845.1
 genome_size: 797490645
 genome_size_display: 0.80 Gbp
 last_raw_data: 1554447472

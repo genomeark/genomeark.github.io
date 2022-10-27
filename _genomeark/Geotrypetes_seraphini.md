@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: Gaboon caecilian
 data_10x_bases: 222.66 Gbp
 data_10x_bytes: 164.460 GB
@@ -53,7 +53,9 @@ data_pacbio_coverage: 72.70x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5240
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: aGeoSer1:GCA_902459495.1
+genbank_pri: aGeoSer1:GCA_902459505.2
 genome_size: 3779413726
 genome_size_display: 3.78 Gbp
 last_raw_data: 1556224643

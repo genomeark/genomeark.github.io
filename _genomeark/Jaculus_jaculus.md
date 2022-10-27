@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: lesser Egyptian jerboa
 data_10x_links: s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/10x/<br>
 data_10x_scale: 1.9377
@@ -10,7 +10,8 @@ data_illumina_links: s3://genomeark/species/Jaculus_jaculus/mJacJac2/genomic_dat
 data_illumina_scale: 2.0484
 data_pacbio_links: s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5172
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:red">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:red">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:lightgray">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:lightgray">Scaffolding</em>'
+genbank_pat: mJacJac1:GCA_020740715.1
 genome_size: 0
 last_raw_data: 1613403927
 last_updated: 1626287538

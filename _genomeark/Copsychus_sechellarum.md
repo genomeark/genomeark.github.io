@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:red">none</em>
+assembly_status: <em style="color:black">none</em>
 common_name: Seychelles magpie-robin
 data_arima_bases: 75.99 Gbp
 data_arima_bytes: 39.014 GB
@@ -7,7 +7,7 @@ data_arima_coverage: 60258139077.23x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Copsychus_sechellarum/bCopSec1/genomic_data/arima/<br>
 data_arima_scale: 1.8139
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
 genome_size: 1.261
 genome_size_display: 1.261  bp
 genome_size_method: GoAT

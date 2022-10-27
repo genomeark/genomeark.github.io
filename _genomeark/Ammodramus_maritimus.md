@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:red">none</em>
+assembly_status: <em style="color:black">none</em>
 common_name: seaside sparrow
 data_arima_bases: 141.58 Gbp
 data_arima_bytes: 71.099 GB
@@ -12,7 +12,7 @@ data_bionano_bytes: 0.801 GB
 data_bionano_coverage: 1.13x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/genomic_data/bionano/<br>
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
 genome_size: 1306000000
 genome_size_display: 1.31 Gbp
 genome_size_method: GoAT

@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: bottlenose dolphin
 data_10x_bases: 323.11 Gbp
 data_10x_bytes: 154.610 GB
@@ -30,7 +30,9 @@ data_pacbio_coverage: 63.68x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5430
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_mat: mTurTru1:GCA_011762535.1
+genbank_pat: mTurTru1:GCA_011762515.1
 genome_size: 3200000000
 genome_size_display: 3.20 Gbp
 genome_size_method: null

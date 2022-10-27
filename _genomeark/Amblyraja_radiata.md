@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: Thorny skate
 data_10x_bases: 196.36 Gbp
 data_10x_bytes: 114.690 GB
@@ -59,7 +59,9 @@ data_pacbio_coverage: 128.19x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Amblyraja_radiata/sAmbRad1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5294
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: sAmbRad1:GCA_010909745.1
+genbank_pri: sAmbRad1:GCA_010909765.2
 genome_size: 2072923533
 genome_size_display: 2.07 Gbp
 last_raw_data: 1574700572

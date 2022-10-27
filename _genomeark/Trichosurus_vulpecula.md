@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: common brushtail possum
 data_10x_bases: 246.68 Gbp
 data_10x_bytes: 115.568 GB
@@ -53,7 +53,9 @@ data_pacbio_coverage: 60.78x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5381
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: mTriVul1:GCA_011100645.1
+genbank_pri: mTriVul1:GCA_011100635.1
 genome_size: 3000000000
 genome_size_display: 3.00 Gbp
 genome_size_method: null

@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: painted frog
 data_10x_bases: 256.60 Gbp
 data_10x_bytes: 124.407 GB
@@ -53,7 +53,7 @@ data_pacbio_coverage: 127.67x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5229
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
 genome_size: 3872581802
 genome_size_display: 3.87 Gbp
 last_raw_data: 1625148580

@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: live sharksucker
 data_10x_bases: 125.19 Gbp
 data_10x_bytes: 79.751 GB
@@ -53,7 +53,9 @@ data_pacbio_coverage: 83.23x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5340
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: fEcheNa1:GCA_900963505.1
+genbank_pri: fEcheNa1:GCA_900963305.2
 genome_size: 544212633
 genome_size_display: 0.54 Gbp
 last_raw_data: 1549384902

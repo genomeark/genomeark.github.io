@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: village indigobird
 data_arima_bases: 111.71 Gbp
 data_arima_bytes: 69.192 GB
@@ -48,7 +48,7 @@ data_pacbio_coverage: 29.26x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Vidua_chalybeata/bVidCha1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.2608
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
 genome_size: 1160000000
 genome_size_display: 1.16 Gbp
 genome_size_method: null

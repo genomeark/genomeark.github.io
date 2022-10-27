@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: barbel
 data_pacbiohifi_bam_bases: 76.02 Gbp
 data_pacbiohifi_bam_bytes: 143.344 GB
@@ -36,7 +36,9 @@ data_pacbiohifi_bam_coverage: 47.96x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Barbus_barbus/fBarBab1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 0.4939
-data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:red">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:red">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:lightgray">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:lightgray">Scaffolding</em>'
+genbank_alt: fBarBab1:GCA_936446605.1
+genbank_pri: fBarBab1:GCA_936440315.1
 genome_size: 1584929904
 genome_size_display: 1.58 Gbp
 last_raw_data: 1651604585

@@ -28,7 +28,7 @@ alt2sizes: |
   </tfoot>
   </table>
 alt2version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: long-spined sea scorpion
 data_10x_bases: 63.96 Gbp
 data_10x_bytes: 38.268 GB
@@ -48,7 +48,9 @@ data_pacbiohifi_bam_coverage: 38.87x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Taurulus_bubalis/fTauBub2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1130
-data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: fTauBub2:GCA_910589325.1
+genbank_pri: fTauBub2:GCA_910589615.1
 genome_size: 615153901
 genome_size_display: 0.62 Gbp
 last_raw_data: 1651599331

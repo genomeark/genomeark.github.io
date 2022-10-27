@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: European golden eagle
 data_10x_bases: 130.41 Gbp
 data_10x_bytes: 80.203 GB
@@ -53,7 +53,9 @@ data_pacbio_coverage: 61.53x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5261
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: bAquChr1:GCA_902153765.2
+genbank_pri: bAquChr1:GCA_900496995.4
 genome_size: 1203454851
 genome_size_display: 1.20 Gbp
 last_raw_data: 1554458077

@@ -28,7 +28,7 @@ alt2sizes: |
   </tfoot>
   </table>
 alt2version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: Indian glassy fish
 data_10x_bases: 127.53 Gbp
 data_10x_bytes: 81.181 GB
@@ -53,7 +53,9 @@ data_pacbio_coverage: 99.80x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Parambassis_ranga/fParRan2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5336
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: fParRan2:GCA_900651595.1
+genbank_pri: fParRan2:GCA_900634625.2
 genome_size: 551012959
 genome_size_display: 0.55 Gbp
 last_raw_data: 1535575225

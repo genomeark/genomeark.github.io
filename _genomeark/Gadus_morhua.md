@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: Atlantic cod
 data_10x_bases: 111.84 Gbp
 data_10x_bytes: 73.626 GB
@@ -53,7 +53,9 @@ data_pacbio_coverage: 130.43x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Gadus_morhua/fGadMor1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.2994
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: fGadMor3:GCA_902167395.1
+genbank_pri: fGadMor3:GCA_902167405.1
 genome_size: 669949713
 genome_size_display: 0.67 Gbp
 last_raw_data: 1556739326

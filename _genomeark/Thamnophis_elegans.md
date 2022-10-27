@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: Western terrestrial garter snake
 data_10x_bases: 204.27 Gbp
 data_10x_bytes: 104.274 GB
@@ -53,7 +53,9 @@ data_pacbio_coverage: 62.19x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5392
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: rThaEle1:GCA_009769695.1
+genbank_pri: rThaEle1:GCA_009769535.1
 genome_size: 1900000000
 genome_size_display: 1.90 Gbp
 genome_size_method: null

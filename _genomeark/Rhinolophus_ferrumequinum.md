@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: greater horseshoe bat
 data_10x_bases: 106.85 Gbp
 data_10x_bytes: 64.099 GB
@@ -53,7 +53,8 @@ data_phase_coverage: 18.90x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/phase/<br>
 data_phase_scale: 1.4874
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_pri: mRhiFer1:GCA_014108255.1
 genome_size: 2369916842
 genome_size_display: 2.37 Gbp
 last_raw_data: 1522747239

@@ -1,18 +1,18 @@
 
-{% if include.tseq or include.lseq or include.rseq or include.mseq %}
-
-{% comment %} Show a horiz-rule between assemblies {% endcomment %}
-{% if show_asm_div == true %}
-<hr>
-{% endif %}
-{% assign show_asm_div = true %}
+{% assign lseqsize = include.lseq | size %}
+{% assign rseqsize = include.rseq | size %}
+{% assign tseqsize = include.tseq | size %}
+{% assign mseqsize = include.mseq | size %}
+{% if lseqsize > 0 or rseqsize > 0 or tseqsize > 0 or mseqsize > 0 %}
 
 <div class="assembly-list">
+
+  {% comment %}  MERGED TRIO and DIPLOID ASSEMBLIES  {% endcomment %}
 
   {% if include.tseq %}
   <div class="assembly-block-l">
     <div class="sequence-file">
-      <b>Individual {{ include.individual }} Merged Trio Assembly</b><br>
+      <b>Individual {{ include.individual }} {{ include.tlabel }} Assembly</b><br>
       {% if include.tseq %}
         Version <em>{{ include.tversion }}</em> from {{ include.tdate | date: "%-d %B %Y" }}<br>
         <a href="{{ include.tseq }}">{{ include.tseq | split: "/" | last }}</a> ({{ include.tfilesize }})<br>
@@ -44,6 +44,9 @@
   </div>
   {% endif %}
 
+  {% comment %}  PHASED PRI/ALT MAT/PAT ASSEMBLIES  {% endcomment %}
+
+  {% if include.rseq or include.lseq %}
   <div class="assembly-block-l">
     <div class="sequence-file">
       <b>Individual {{ include.individual }} {{ include.llabel }} Assembly</b><br>
@@ -97,6 +100,10 @@
   <div class="genome-size">
   <br>
   </div>
+  {% endif %}
+
+
+  {% comment %}  MITO ASSEMBLY  {% endcomment %}
 
   {% if include.mseq %}
   <div class="mito-sequence">

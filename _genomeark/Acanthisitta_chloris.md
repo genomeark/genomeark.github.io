@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: rifleman
 data_10x_bases: 78.23 Gbp
 data_10x_bytes: 36.427 GB
@@ -53,7 +53,9 @@ data_pacbio_coverage: 65.69x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Acanthisitta_chloris/bAcaChl1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5419
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: bAcaChl1:GCA_016880875.1
+genbank_pri: bAcaChl1:GCA_016904835.1
 genome_size: 1050000000
 genome_size_display: 1.05 Gbp
 last_raw_data: 1568758968

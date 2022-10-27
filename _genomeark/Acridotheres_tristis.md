@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: common_myna
 data_arima_bases: 148.84 Gbp
 data_arima_bytes: 72.175 GB
@@ -59,7 +59,7 @@ data_pacbiohifi_fqgz_coverage: 14.85x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1470
-data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
 genome_size: 1280000000
 genome_size_display: 1.28 Gbp
 genome_size_method: GoaT ancestral inferred

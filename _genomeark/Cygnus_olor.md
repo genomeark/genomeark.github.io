@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated</em>
+assembly_status: <em style="color:forestgreen">curated</em>
 common_name: mute swan
 data_10x_bases: 73.81 Gbp
 data_10x_bytes: 37.600 GB
@@ -53,7 +53,9 @@ data_pacbio_coverage: 60.23x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5348
-data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
+data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+genbank_alt: bCygOlo1:GCA_009769485.2
+genbank_pri: bCygOlo1:GCA_009769625.2
 genome_size: 1480000000
 genome_size_display: 1.48 Gbp
 genome_size_method: null
