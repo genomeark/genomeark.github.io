@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: red-crested turaco
 data_10x_bases: 52.44 Gbp
 data_10x_bytes: 27.536 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 66.05x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Tauraco_erythrolophus/bTauEry1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5412
-data_status: <em style="color:red">no data</em>
-genbank_alt: bTauEry1:GCA_009764505.1
-genbank_pri: bTauEry1:GCA_009769465.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1170000000
 genome_size_display: 1.17 Gbp
 genome_size_method: null

@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: Adriatic sturgeon
 data_arima_bases: 266.74 Gbp
 data_arima_bytes: 135.040 GB
@@ -12,12 +12,18 @@ data_bionano_bytes: 7.853 GB
 data_bionano_coverage: 0.00x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Acipenser_naccarii/fAciNac1/genomic_data/bionano/<br>
-data_status: <em style="color:red">no data</em>
+data_pacbiohifi_fqgz_bases: 97.25 Gbp
+data_pacbiohifi_fqgz_bytes: 73.230 GB
+data_pacbiohifi_fqgz_coverage: 28.05x
+data_pacbiohifi_fqgz_files: 666
+data_pacbiohifi_fqgz_links: s3://genomeark/species/Acipenser_naccarii/fAciNac1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz_scale: 1.2368
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 3467000000
 genome_size_display: 3.47 Gbp
 genome_size_method: GoAT
-last_raw_data: 1644264663
-last_updated: 1644266504
+last_raw_data: 1655138860
+last_updated: 1655138860
 name: Acipenser naccarii
 name_: Acipenser_naccarii
 short_name: fAciNac

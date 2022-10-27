@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: platypus
 data_10x_bases: 359.56 Gbp
 data_10x_bytes: 166.575 GB
@@ -59,9 +59,7 @@ data_phase_coverage: 48.43x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/phase/<br>
 data_phase_scale: 1.5696
-data_status: <em style="color:red">no data</em>
-genbank_alt: mOrnAna1:GCA_004115175.2
-genbank_pri: mOrnAna1:GCA_004115215.4
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2128226567
 genome_size_display: 2.13 Gbp
 last_raw_data: 1536347587

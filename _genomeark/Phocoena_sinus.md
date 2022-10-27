@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: vaquita
 data_10x_bases: 202.00 Gbp
 data_10x_bytes: 104.510 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 108.97x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5423
-data_status: <em style="color:red">no data</em>
-genbank_alt: mPhoSin1:GCA_008692045.1
-genbank_pri: mPhoSin1:GCA_008692025.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 3000000000
 genome_size_display: 3.00 Gbp
 genome_size_method: null

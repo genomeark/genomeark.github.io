@@ -28,7 +28,7 @@ alt2sizes: |
   </tfoot>
   </table>
 alt2version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: banded archerfish
 data_arima_bases: 44.32 Gbp
 data_arima_bytes: 20.776 GB
@@ -49,9 +49,7 @@ data_pacbiohifi_clr_coverage: 656.90x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5205
-data_status: <em style="color:red">no data</em>
-genbank_alt: fToxJac2:GCA_017976295.1
-genbank_pri: fToxJac2:GCA_017976425.1
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 621503431
 genome_size_display: 0.62 Gbp
 last_raw_data: 1651601087

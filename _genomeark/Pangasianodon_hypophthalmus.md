@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: Iridescent shark
 data_arima_bases: 101.77 Gbp
 data_arima_bytes: 44.957 GB
@@ -53,7 +53,7 @@ data_pacbiohifi_clr_coverage: 412.69x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5195
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 764974446
 genome_size_display: 0.76 Gbp
 last_raw_data: 1651608637

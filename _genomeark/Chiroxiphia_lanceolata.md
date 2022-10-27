@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: lance-tailed manakin
 data_10x_bases: 98.30 Gbp
 data_10x_bytes: 46.415 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 67.90x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Chiroxiphia_lanceolata/bChiLan1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5414
-data_status: <em style="color:red">no data</em>
-genbank_alt: bChiLan1:GCA_009829205.1
-genbank_pri: bChiLan1:GCA_009829145.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1230000000
 genome_size_display: 1.23 Gbp
 genome_size_method: null

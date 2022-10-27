@@ -1,5 +1,5 @@
 ---
-assembly_status: hqdraft
+assembly_status: <em style="color:orange">high-quality draft</em>
 common_name: Kuhl's pipistrelle
 data_10x_bases: 95.71 Gbp
 data_10x_bytes: 59.271 GB
@@ -24,8 +24,7 @@ data_phase_coverage: 17.42x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/phase/<br>
 data_phase_scale: 1.6789
-data_status: <em style="color:red">no data</em>
-genbank_pri: mPipKuh1:GCA_014108245.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1775719727
 genome_size_display: 1.78 Gbp
 genome_size_method: DAmar assembly

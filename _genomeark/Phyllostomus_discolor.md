@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: pale spear-nosed bat
 data_10x_bases: 240.11 Gbp
 data_10x_bytes: 145.428 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 73.63x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5192
-data_status: <em style="color:red">no data</em>
-genbank_alt: mPhyDis1:GCA_004115245.2
-genbank_pri: mPhyDis1:GCA_004126475.3
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2213798723
 genome_size_display: 2.21 Gbp
 last_raw_data: 1527496005

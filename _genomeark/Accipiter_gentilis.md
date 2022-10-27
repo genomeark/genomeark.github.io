@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: northern goshawk
 data_10x_bases: 83.17 Gbp
 data_10x_bytes: 40.076 GB
@@ -48,9 +48,7 @@ data_pacbiohifi_bam_coverage: 36.03x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Accipiter_gentilis/bAccGen1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 0.5991
-data_status: <em style="color:red">no data</em>
-genbank_alt: bAccGen1:GCA_929447715.1
-genbank_pri: bAccGen1:GCA_929443795.1
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1398027955
 genome_size_display: 1.40 Gbp
 last_raw_data: 1651593249

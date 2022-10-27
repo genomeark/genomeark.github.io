@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: Chinese rufous horseshoe bat
 data_arima_bases: 190.60 Gbp
 data_arima_bytes: 85.361 GB
@@ -43,7 +43,7 @@ data_pacbio_coverage: 30.49x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/genomic_data/pacbio/<br>
 data_pacbio_scale: 1.0919
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2900000000
 genome_size_display: 2.90 Gbp
 last_raw_data: 1622744604

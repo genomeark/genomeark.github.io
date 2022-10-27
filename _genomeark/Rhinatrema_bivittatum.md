@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: two-lined caecilian
 data_10x_bases: 367.47 Gbp
 data_10x_bytes: 250.442 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 45.82x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5199
-data_status: <em style="color:red">no data</em>
-genbank_alt: aRhiBiv1:GCA_901001175.1
-genbank_pri: aRhiBiv1:GCA_901001135.2
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 5067838282
 genome_size_display: 5.07 Gbp
 genome_size_method: genomescope k=31

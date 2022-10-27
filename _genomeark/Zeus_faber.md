@@ -1,11 +1,11 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: John Dory
 data_10x_links: s3://genomeark/species/Zeus_faber/fZeuFab1/genomic_data/10x/<br>
 data_10x_scale: 1.4007
 data_pacbio_links: s3://genomeark/species/Zeus_faber/fZeuFab1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5202
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:red">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:red">Scaffolding</em>'
 genome_size: 0
 last_raw_data: 1519740599
 last_updated: 1570719805

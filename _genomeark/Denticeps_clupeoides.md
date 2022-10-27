@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: denticle herring
 data_10x_bases: 117.70 Gbp
 data_10x_bytes: 73.032 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 64.59x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5314
-data_status: <em style="color:red">no data</em>
-genbank_alt: fDenClu1:GCA_900700345.2
-genbank_pri: fDenClu1:GCA_900700375.2
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 567401054
 genome_size_display: 0.57 Gbp
 last_raw_data: 1535895622

@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: tire-track eel
 data_10x_bases: 115.86 Gbp
 data_10x_bytes: 79.367 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 39.55x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5176
-data_status: <em style="color:red">no data</em>
-genbank_alt: fMasArm1:GCA_900700395.1
-genbank_pri: fMasArm1:GCA_900324485.3
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 756753344
 genome_size_display: 0.76 Gbp
 last_raw_data: 1520585714

@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: carmine bee-eater
 data_10x_bases: 130.10 Gbp
 data_10x_bytes: 66.335 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 60.18x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Merops_nubicus/bMerNub1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5434
-data_status: <em style="color:red">no data</em>
-genbank_alt: bMerNub1:GCA_009819585.1
-genbank_pri: bMerNub1:GCA_009819595.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1300000000
 genome_size_display: 1.30 Gbp
 genome_size_method: null

@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: monito del monte
 data_10x_bases: 237.85 Gbp
 data_10x_bytes: 116.733 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 63.07x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Dromiciops_gliroides/mDroGli1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5299
-data_status: <em style="color:red">no data</em>
-genbank_alt: mDroGli1:GCA_019395325.1
-genbank_pri: mDroGli1:GCA_019393635.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 3303199800
 genome_size_display: 3.30 Gbp
 last_raw_data: 1601308154

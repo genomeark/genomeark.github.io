@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: common frog
 data_10x_bases: 404.57 Gbp
 data_10x_bytes: 250.988 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 77.86x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5143
-data_status: <em style="color:red">no data</em>
-genbank_alt: aRanTem1:GCA_905171725.1
-genbank_pri: aRanTem1:GCA_905171775.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 4111422596
 genome_size_display: 4.11 Gbp
 last_raw_data: 1578516698

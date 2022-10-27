@@ -28,7 +28,7 @@ alt2sizes: |
   </tfoot>
   </table>
 alt2version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: great white shark
 data_10x_bases: 272.74 Gbp
 data_10x_bytes: 132.949 GB
@@ -59,9 +59,7 @@ data_pacbio_coverage: 66.97x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5291
-data_status: <em style="color:red">no data</em>
-genbank_alt: sCarCar2:GCA_017639455.1
-genbank_pri: sCarCar2:GCA_017639515.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 4500000000
 genome_size_display: 4.50 Gbp
 genome_size_method: null

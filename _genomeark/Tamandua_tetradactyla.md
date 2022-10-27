@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: southern tamandua
 data_10x_bases: 310.46 Gbp
 data_10x_bytes: 146.854 GB
@@ -53,7 +53,7 @@ data_pacbio_coverage: 66.66x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Tamandua_tetradactyla/mTamTet1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5282
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 4020000000
 genome_size_display: 4.02 Gbp
 genome_size_method: GoAT

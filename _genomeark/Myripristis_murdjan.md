@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: pinecone soldierfish
 data_10x_bases: 144.84 Gbp
 data_10x_bytes: 81.514 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 59.21x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Myripristis_murdjan/fMyrMur1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5373
-data_status: <em style="color:red">no data</em>
-genbank_alt: fMyrMur1:GCA_902148815.1
-genbank_pri: fMyrMur1:GCA_902150065.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 835254674
 genome_size_display: 0.84 Gbp
 last_raw_data: 1556731081

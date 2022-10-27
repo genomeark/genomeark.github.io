@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: cattle
 data_10x_bases: 200.22 Gbp
 data_10x_bytes: 102.803 GB
@@ -30,7 +30,7 @@ data_phase_coverage: 11.98x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/phase/<br>
 data_phase_scale: 1.6305
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2700000000
 genome_size_display: 2.70 Gbp
 genome_size_method: null

@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: slow loris
 data_arima_bases: 289.27 Gbp
 data_arima_bytes: 146.446 GB
@@ -59,12 +59,12 @@ data_pacbiohifi_fqgz_coverage: 31.63x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2258
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 3501000000
 genome_size_display: 3.50 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651605637
-last_updated: 1651605637
+last_updated: 1655314105
 name: Nycticebus coucang
 name_: Nycticebus_coucang
 pri1date: 2022-04-01

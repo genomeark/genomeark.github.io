@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: Aeolian wall lizard
 data_arima_bases: 440.21 Gbp
 data_arima_bytes: 205.397 GB
@@ -53,7 +53,7 @@ data_pacbiohifi_fqgz_coverage: 31.05x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1826
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1949000000
 genome_size_display: 1.95 Gbp
 genome_size_method: GoAT

@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: lesser salmon catfish
 data_arima_bases: 375.53 Gbp
 data_arima_bytes: 174.645 GB
@@ -59,7 +59,7 @@ data_pacbiohifi_fqgz_coverage: 33.08x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1237
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2416000000
 genome_size_display: 2.42 Gbp
 genome_size_method: GoAT

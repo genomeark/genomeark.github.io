@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: flier cichlid
 data_10x_bases: 37.52 Gbp
 data_10x_bytes: 24.686 GB
@@ -53,9 +53,7 @@ data_phase_coverage: 94.41x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/phase/<br>
 data_phase_scale: 1.5504
-data_status: <em style="color:red">no data</em>
-genbank_alt: fArcCen1:GCA_007364235.1
-genbank_pri: fArcCen1:GCA_007364275.2
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 988048114
 genome_size_display: 0.99 Gbp
 last_raw_data: 1537873439

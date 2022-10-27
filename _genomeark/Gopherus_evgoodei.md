@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: Goode's thornscrub tortoise
 data_10x_bases: 300.39 Gbp
 data_10x_bytes: 138.694 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 58.22x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5352
-data_status: <em style="color:red">no data</em>
-genbank_alt: rGopEvg1:GCA_007399395.1
-genbank_pri: rGopEvg1:GCA_007399415.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2684436481
 genome_size_display: 2.68 Gbp
 last_raw_data: 1529613892

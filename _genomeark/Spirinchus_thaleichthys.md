@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: longfin smelt
 data_arima_bases: 77.63 Gbp
 data_arima_bytes: 37.831 GB
@@ -25,7 +25,7 @@ data_pacbiohifi_fqgz_coverage: 44.27x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Spirinchus_thaleichthys/fSpiTha1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2589
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 822000000
 genome_size_display: 0.82 Gbp
 genome_size_method: GoAT

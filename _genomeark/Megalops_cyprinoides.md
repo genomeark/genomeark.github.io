@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: Indo-Pacific tarpon
 data_10x_bases: 90.23 Gbp
 data_10x_bytes: 44.681 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 104.30x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5226
-data_status: <em style="color:red">no data</em>
-genbank_alt: fMegCyp1:GCA_013368575.1
-genbank_pri: fMegCyp1:GCA_013368585.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1093257451
 genome_size_display: 1.09 Gbp
 genome_size_method: genomescope

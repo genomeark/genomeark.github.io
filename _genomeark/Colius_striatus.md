@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: speckled mousebird
 data_arima_bases: 82.71 Gbp
 data_arima_bytes: 41.955 GB
@@ -18,12 +18,12 @@ data_pacbiohifi_fqgz_coverage: 28.91x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Colius_striatus/bColStr4/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1200
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1438000000
 genome_size_display: 1.44 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651005170
-last_updated: 1651005170
+last_updated: 1654548549
 name: Colius striatus
 name_: Colius_striatus
 short_name: bColStr

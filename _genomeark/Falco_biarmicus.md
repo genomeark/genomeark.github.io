@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: lanner falcon
 data_arima_bases: 85.46 Gbp
 data_arima_bytes: 56.004 GB
@@ -53,9 +53,7 @@ data_pacbiohifi_clr_coverage: 517.38x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5167
-data_status: <em style="color:red">no data</em>
-genbank_alt: bFalBia1:GCA_023634305.1
-genbank_pri: bFalBia1:GCA_023638135.1
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1400000000
 genome_size_display: 1.40 Gbp
 genome_size_method: GoaT ancestral inferred

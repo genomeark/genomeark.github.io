@@ -1,10 +1,10 @@
 ---
-alt2date: 2021-11-03
-alt2filesize: 622 MiB
-alt2length: 2316343881
-alt2n50ctg: 715012
-alt2n50scf: 715012
-alt2seq: https://s3.amazonaws.com/genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/mSorAra2.alt.asm.20211103.fasta.gz
+alt2date: 2022-07-07
+alt2filesize: 672 MiB
+alt2length: 2319662114
+alt2n50ctg: 718392
+alt2n50scf: 718392
+alt2seq: https://s3.amazonaws.com/genomeark/species/Sorex_araneus/mSorAra2/assembly_curated/mSorAra2.alt.cur.20220707.fasta.gz
 alt2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 89 </td><td> 2.34 Mbp </td><td> 89 </td><td> 2.34 Mbp </td></tr>  <tr><td> 20 </td><td> 232 </td><td> 1.71 Mbp </td><td> 232 </td><td> 1.71 Mbp </td></tr>  <tr><td> 30 </td><td> 424 </td><td> 1.30 Mbp </td><td> 424 </td><td> 1.30 Mbp </td></tr>  <tr><td> 40 </td><td> 683 </td><td> 0.95 Mbp </td><td> 683 </td><td> 0.95 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 1028 </td><td> 0.72 Mbp </td><td> 1028 </td><td> 0.72 Mbp </td></tr>  <tr><td> 60 </td><td> 1500 </td><td> 0.50 Mbp </td><td> 1500 </td><td> 0.50 Mbp </td></tr>  <tr><td> 70 </td><td> 2241 </td><td> 289.59 Kbp </td><td> 2241 </td><td> 289.59 Kbp </td></tr>  <tr><td> 80 </td><td> 4245 </td><td> 44.91 Kbp </td><td> 4245 </td><td> 44.91 Kbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 89 </td><td> 2.34 Mbp </td><td> 89 </td><td> 2.34 Mbp </td></tr>  <tr><td> 20 </td><td> 231 </td><td> 1.72 Mbp </td><td> 231 </td><td> 1.72 Mbp </td></tr>  <tr><td> 30 </td><td> 423 </td><td> 1.30 Mbp </td><td> 423 </td><td> 1.30 Mbp </td></tr>  <tr><td> 40 </td><td> 681 </td><td> 0.95 Mbp </td><td> 681 </td><td> 0.95 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 1025 </td><td> 0.72 Mbp </td><td> 1025 </td><td> 0.72 Mbp </td></tr>  <tr><td> 60 </td><td> 1496 </td><td> 0.51 Mbp </td><td> 1496 </td><td> 0.51 Mbp </td></tr>  <tr><td> 70 </td><td> 2232 </td><td> 292.05 Kbp </td><td> 2232 </td><td> 292.05 Kbp </td></tr>  <tr><td> 80 </td><td> 4176 </td><td> 48.61 Kbp </td><td> 4176 </td><td> 48.61 Kbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 0.814x </th><th> 5698 </th><th> 2.32 Gbp </th><th> 5698 </th><th> 2.32 Gbp </th></tr>
+  <tr><th> 0.815x </th><th> 5699 </th><th> 2.32 Gbp </th><th> 5699 </th><th> 2.32 Gbp </th></tr>
   </tfoot>
   </table>
-alt2version: assembly_vgp_standard_2.0
-assembly_status: hqdraft
+alt2version: assembly_curated
+assembly_status: <em style="color:green">curated</em>
 common_name: European shrew
 data_arima_bases: 294.87 Gbp
 data_arima_bytes: 137.646 GB
@@ -59,20 +59,20 @@ data_pacbiohifi_fqgz_coverage: 35.11x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Sorex_araneus/mSorAra1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2313
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2846000000
 genome_size_display: 2.85 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651667882
-last_updated: 1651667882
+last_updated: 1657190265
 name: Sorex araneus
 name_: Sorex_araneus
-pri2date: 2021-11-03
-pri2filesize: 685 MiB
-pri2length: 2459336321
-pri2n50ctg: 3257577
-pri2n50scf: 223109290
-pri2seq: https://s3.amazonaws.com/genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/mSorAra2.pri.asm.20211103.fasta.gz
+pri2date: 2022-07-07
+pri2filesize: 692 MiB
+pri2length: 2405993548
+pri2n50ctg: 3245462
+pri2n50scf: 239582062
+pri2seq: https://s3.amazonaws.com/genomeark/species/Sorex_araneus/mSorAra2/assembly_curated/mSorAra2.pri.cur.20220707.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -90,12 +90,12 @@ pri2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 23 </td><td> 8.90 Mbp </td><td> 0 </td><td> 441.24 Mbp </td></tr>  <tr><td> 20 </td><td> 59 </td><td> 6.87 Mbp </td><td> 1 </td><td> 379.55 Mbp </td></tr>  <tr><td> 30 </td><td> 106 </td><td> 5.41 Mbp </td><td> 2 </td><td> 338.23 Mbp </td></tr>  <tr><td> 40 </td><td> 166 </td><td> 4.19 Mbp </td><td> 2 </td><td> 338.23 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 242 </td><td style="background-color:#88ff88;"> 3.26 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 223.11 Mbp </td></tr>  <tr><td> 60 </td><td> 344 </td><td> 2.34 Mbp </td><td> 5 </td><td> 212.01 Mbp </td></tr>  <tr><td> 70 </td><td> 504 </td><td> 1.38 Mbp </td><td> 7 </td><td> 68.07 Mbp </td></tr>  <tr><td> 80 </td><td> 823 </td><td> 0.52 Mbp </td><td> 12 </td><td> 19.18 Mbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 23 </td><td> 8.84 Mbp </td><td> 0 </td><td> 452.70 Mbp </td></tr>  <tr><td> 20 </td><td> 60 </td><td> 6.69 Mbp </td><td> 1 </td><td> 381.07 Mbp </td></tr>  <tr><td> 30 </td><td> 107 </td><td> 5.40 Mbp </td><td> 2 </td><td> 374.36 Mbp </td></tr>  <tr><td> 40 </td><td> 166 </td><td> 4.19 Mbp </td><td> 2 </td><td> 374.36 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 243 </td><td style="background-color:#88ff88;"> 3.25 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 239.58 Mbp </td></tr>  <tr><td> 60 </td><td> 347 </td><td> 2.26 Mbp </td><td> 5 </td><td> 216.57 Mbp </td></tr>  <tr><td> 70 </td><td> 508 </td><td> 1.35 Mbp </td><td> 6 </td><td> 169.03 Mbp </td></tr>  <tr><td> 80 </td><td> 836 </td><td> 491.18 Kbp </td><td> 10 </td><td> 67.95 Mbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 0.843x </th><th> 1498 </th><th> 2.40 Gbp </th><th> 233 </th><th> 2.46 Gbp </th></tr>
+  <tr><th> 0.841x </th><th> 1492 </th><th> 2.39 Gbp </th><th> 65 </th><th> 2.41 Gbp </th></tr>
   </tfoot>
   </table>
-pri2version: assembly_vgp_standard_2.0
+pri2version: assembly_curated
 short_name: mSorAra
 taxon_id: 42254
 ---

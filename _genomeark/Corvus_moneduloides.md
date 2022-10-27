@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: New Caledonian crow
 data_10x_bases: 129.33 Gbp
 data_10x_bytes: 60.207 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 61.94x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5428
-data_status: <em style="color:red">no data</em>
-genbank_alt: bCorMon1:GCA_009651025.1
-genbank_pri: bCorMon1:GCA_009650955.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1250000000
 genome_size_display: 1.25 Gbp
 genome_size_method: null

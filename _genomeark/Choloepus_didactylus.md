@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_berlinSanger_vgp_1.6
-assembly_status: hqdraft
+assembly_status: <em style="color:orange">high-quality draft</em>
 common_name: southern two-toed sloth
 data_10x_bases: 342.78 Gbp
 data_10x_bytes: 159.933 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 56.84x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Choloepus_didactylus/mChoDid1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5302
-data_status: <em style="color:red">no data</em>
-genbank_alt: mChoDid1:GCA_015220265.1
-genbank_pri: mChoDid1:GCA_015220235.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 3400000000
 genome_size_display: 3.40 Gbp
 last_raw_data: 1547217154

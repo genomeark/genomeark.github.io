@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: red-legged seriema
 data_10x_bases: 154.31 Gbp
 data_10x_bytes: 72.479 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 51.10x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Cariama_cristata/bCarCri1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5394
-data_status: <em style="color:red">no data</em>
-genbank_alt: bCarCri1:GCA_009819485.1
-genbank_pri: bCarCri1:GCA_009819825.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1500000000
 genome_size_display: 1.50 Gbp
 last_raw_data: 1563354348

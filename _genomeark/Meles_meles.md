@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: European badger
 data_10x_bases: 131.47 Gbp
 data_10x_bytes: 81.138 GB
@@ -30,9 +30,7 @@ data_pacbiohifi_bam_coverage: 39.31x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Meles_meles/mMelMel3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.0126
-data_status: <em style="color:red">no data</em>
-genbank_mat: mMelMel3:GCA_922990625.1
-genbank_pat: mMelMel3:GCA_922984935.2
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2802245436
 genome_size_display: 2.80 Gbp
 genome_size_method: genomescope (k=31)

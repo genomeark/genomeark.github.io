@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: orbiculate cardinalfish
 data_10x_bases: 120.51 Gbp
 data_10x_bytes: 76.550 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 52.35x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5405
-data_status: <em style="color:red">no data</em>
-genbank_alt: fSphaOr1:GCA_902148825.1
-genbank_pri: fSphaOr1:GCA_902148855.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1342662642
 genome_size_display: 1.34 Gbp
 last_raw_data: 1553010021

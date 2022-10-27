@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: snub-nosed viper
 data_arima_bases: 165.33 Gbp
 data_arima_bytes: 105.120 GB
@@ -59,11 +59,11 @@ data_pacbiohifi_fqgz_coverage: 13.02x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Vipera_latastei/rVipLat1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1112
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2500000000
 genome_size_display: 2.50 Gbp
 last_raw_data: 1651607858
-last_updated: 1651607858
+last_updated: 1659344659
 name: Vipera latastei
 name_: Vipera_latastei
 pri1date: 2021-12-08

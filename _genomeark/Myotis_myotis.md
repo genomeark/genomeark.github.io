@@ -1,5 +1,5 @@
 ---
-assembly_status: hqdraft
+assembly_status: <em style="color:orange">high-quality draft</em>
 common_name: Greater mouse-eared bat
 data_10x_bases: 96.00 Gbp
 data_10x_bytes: 58.454 GB
@@ -24,8 +24,7 @@ data_phase_coverage: 14.23x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Myotis_myotis/mMyoMyo1/genomic_data/phase/<br>
 data_phase_scale: 1.6675
-data_status: <em style="color:red">no data</em>
-genbank_pri: mMyoMyo1:GCA_014108235.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2003238046
 genome_size_display: 2.00 Gbp
 last_raw_data: 1574722019

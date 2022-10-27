@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: song sparrow
 data_arima_bases: 145.05 Gbp
 data_arima_bytes: 70.555 GB
@@ -7,9 +7,7 @@ data_arima_coverage: 103.68x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Melospiza_melodia/bMelMel1/genomic_data/arima/<br>
 data_arima_scale: 1.9146
-data_status: <em style="color:red">no data</em>
-genbank_alt: bMelMel1:GCA_022749775.1
-genbank_pri: bMelMel1:GCA_022749695.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1399000000
 genome_size_display: 1.40 Gbp
 genome_size_method: GoAT

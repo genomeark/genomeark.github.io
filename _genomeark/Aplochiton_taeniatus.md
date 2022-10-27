@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: Peladilla
 data_10x_bases: 79.92 Gbp
 data_10x_bytes: 38.406 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 137.53x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5361
-data_status: <em style="color:red">no data</em>
-genbank_alt: fAplTae1:GCA_017639685.1
-genbank_pri: fAplTae1:GCA_017639675.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 461946147
 genome_size_display: 461.95 Mbp
 last_raw_data: 1572015575

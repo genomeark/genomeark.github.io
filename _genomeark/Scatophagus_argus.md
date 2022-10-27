@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: spotted scat
 data_10x_bases: 72.88 Gbp
 data_10x_bytes: 36.559 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 92.44x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5293
-data_status: <em style="color:red">no data</em>
-genbank_alt: fScaArg1:GCA_020382915.1
-genbank_pri: fScaArg1:GCA_020382885.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 647966298
 genome_size_display: 0.65 Gbp
 genome_size_method: genomescope

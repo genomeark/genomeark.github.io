@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: greater pipefish
 data_10x_bases: 143.29 Gbp
 data_10x_bytes: 82.039 GB
@@ -48,9 +48,7 @@ data_pacbio_coverage: 89.52x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Syngnathus_acus/fSynAcu1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5358
-data_status: <em style="color:red">no data</em>
-genbank_alt: fSynAcu1:GCA_901709685.1
-genbank_pri: fSynAcu1:GCA_901709675.2
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 324331233
 genome_size_display: 324.33 Mbp
 last_raw_data: 1554452546

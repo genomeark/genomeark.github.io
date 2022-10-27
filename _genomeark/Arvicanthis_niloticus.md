@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: African grass rat
 data_10x_bases: 261.68 Gbp
 data_10x_bytes: 124.201 GB
@@ -30,9 +30,7 @@ data_pacbio_coverage: 60.99x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5405
-data_status: <em style="color:red">no data</em>
-genbank_mat: mArvNil1:GCA_011750645.1
-genbank_pat: mArvNil1:GCA_011762545.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 3400000000
 genome_size_display: 3.40 Gbp
 genome_size_method: null

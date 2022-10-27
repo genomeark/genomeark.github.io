@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: European otter
 data_10x_bases: 260.97 Gbp
 data_10x_bytes: 165.375 GB
@@ -48,9 +48,7 @@ data_pacbio_coverage: 64.76x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Lutra_lutra/mLutLut1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5382
-data_status: <em style="color:red">no data</em>
-genbank_alt: mLutLut1:GCA_902653095.1
-genbank_pri: mLutLut1:GCA_902655055.2
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2438442342
 genome_size_display: 2.44 Gbp
 last_raw_data: 1591286244

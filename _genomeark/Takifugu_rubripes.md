@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: torafugu
 data_10x_bases: 115.43 Gbp
 data_10x_bytes: 73.884 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 83.09x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Takifugu_rubripes/fTakRub1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5301
-data_status: <em style="color:red">no data</em>
-genbank_alt: fTakRub1:GCA_901000745.3
-genbank_pri: fTakRub1:GCA_901000725.3
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 384110215
 genome_size_display: 384.11 Mbp
 last_raw_data: 1535574792

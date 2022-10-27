@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: South Island takahe
 data_arima_bases: 123.89 Gbp
 data_arima_bytes: 84.223 GB
@@ -30,8 +30,7 @@ data_pacbiohifi_clr_coverage: 645.26x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5146
-data_status: <em style="color:red">no data</em>
-genbank_pat: bPorHoc1:GCA_020801775.1
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 last_raw_data: 1651601059

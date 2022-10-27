@@ -1,12 +1,12 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: Dalmatian pelican
 data_bionano_links: s3://genomeark/species/Pelecanus_crispus/bPelCri1/genomic_data/bionano/<br>
 data_pacbiohifi_bam_links: s3://genomeark/species/Pelecanus_crispus/bPelCri1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2450
 data_pacbiohifi_clr_links: s3://genomeark/species/Pelecanus_crispus/bPelCri1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5189
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:red">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:red">Scaffolding</em>'
 genome_size: 0
 last_raw_data: 1651610212
 last_updated: 1651610212

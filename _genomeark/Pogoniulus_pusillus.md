@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: Red-fronted tinkerbird
 data_10x_bases: 107.86 Gbp
 data_10x_bytes: 54.502 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 165.69x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5271
-data_status: <em style="color:red">no data</em>
-genbank_alt: bPogPus1:GCA_015220175.1
-genbank_pri: bPogPus1:GCA_015220805.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 genome_size_method: null

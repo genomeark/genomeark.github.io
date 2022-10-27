@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: blue-and-yellow macaw
 data_arima_bases: 64.99 Gbp
 data_arima_bytes: 33.587 GB
@@ -18,12 +18,12 @@ data_pacbiohifi_fqgz_coverage: 38.95x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Ara_ararauna/bAraAra1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2440
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1412000000
 genome_size_display: 1.41 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651611545
-last_updated: 1651611545
+last_updated: 1655128019
 name: Ara ararauna
 name_: Ara_ararauna
 short_name: bAraAra

@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: false killer whale
 data_bionano_bases: 2.44 Gbp
 data_bionano_bytes: 1.704 GB
@@ -24,7 +24,7 @@ data_pacbiohifi_fqgz_coverage: 37.79x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1564
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:red">Scaffolding</em>'
 genome_size: 3081000000
 genome_size_display: 3.08 Gbp
 genome_size_method: GoAT

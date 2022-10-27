@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: Mexican gopher tortoise
 data_10x_bases: 248.31 Gbp
 data_10x_bytes: 116.626 GB
@@ -30,7 +30,7 @@ data_pacbio_coverage: 65.87x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5361
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2500000000
 genome_size_display: 2.50 Gbp
 genome_size_method: null

@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: North Atlantic right whale
 data_bionano_bases: 2.49 Gbp
 data_bionano_bytes: 0.948 GB
@@ -24,12 +24,12 @@ data_pacbiohifi_fqgz_coverage: 29.89x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1989
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:red">Scaffolding</em>'
 genome_size: 2866000000
 genome_size_display: 2.87 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651668699
-last_updated: 1651668699
+last_updated: 1660937131
 name: Eubalaena glacialis
 name_: Eubalaena_glacialis
 short_name: mEubGla

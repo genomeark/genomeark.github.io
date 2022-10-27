@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: hourglass treefrog
 data_10x_bases: 140.98 Gbp
 data_10x_bytes: 70.302 GB
@@ -30,7 +30,7 @@ data_pacbio_coverage: 70.02x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Dendropsophus_ebraccatus/aDenEbr1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5390
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2520000000
 genome_size_display: 2.52 Gbp
 genome_size_method: null

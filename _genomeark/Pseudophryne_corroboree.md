@@ -1,6 +1,17 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: corroboree frog
+data_arima_bases: 381.02 Gbp
+data_arima_bytes: 188.389 GB
+data_arima_coverage: 44.53x
+data_arima_files: 666
+data_arima_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/arima/<br>
+data_arima_scale: 1.8836
+data_bionano_bases: 10.12 Gbp
+data_bionano_bytes: 17.445 GB
+data_bionano_coverage: 1.18x
+data_bionano_files: 666
+data_bionano_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/bionano/<br>
 data_pacbiohifi_bam_bases: 6214.11 Gbp
 data_pacbiohifi_bam_bytes: 788.391 GB
 data_pacbiohifi_bam_coverage: 726.20x
@@ -19,12 +30,12 @@ data_pacbiohifi_fqgz_coverage: 160.40x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 7.3061
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 8557000000
 genome_size_display: 8.56 Gbp
 genome_size_method: GoAT
-last_raw_data: 1651610595
-last_updated: 1651610595
+last_raw_data: 1659461120
+last_updated: 1660757411
 name: Pseudophryne corroboree
 name_: Pseudophryne_corroboree
 short_name: aPseCor

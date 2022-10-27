@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: rock gunnel
 data_10x_bases: 64.42 Gbp
 data_10x_bytes: 37.786 GB
@@ -48,9 +48,7 @@ data_pacbiohifi_bam_coverage: 69.68x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1365
-data_status: <em style="color:red">no data</em>
-genbank_alt: fPhoGun1:GCA_910591705.2
-genbank_pri: fPhoGun1:GCA_910591455.2
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 588696950
 genome_size_display: 0.59 Gbp
 last_raw_data: 1651612017

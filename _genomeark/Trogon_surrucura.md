@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: Suruca trogon
 data_10x_bases: 151.40 Gbp
 data_10x_bytes: 74.516 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 108.43x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Trogon_surrucura/bTroSur1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5209
-data_status: <em style="color:red">no data</em>
-genbank_alt: bTroSur1:GCA_020746095.1
-genbank_pri: bTroSur1:GCA_020746105.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 last_raw_data: 1618859438

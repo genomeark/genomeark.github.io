@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: Harpy eagle
 data_arima_bases: 188.44 Gbp
 data_arima_bytes: 88.253 GB
@@ -53,7 +53,7 @@ data_pacbiohifi_clr_coverage: 508.38x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5182
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 last_raw_data: 1651615037

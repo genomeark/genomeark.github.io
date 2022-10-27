@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: red deer
 data_10x_bases: 123.07 Gbp
 data_10x_bytes: 72.565 GB
@@ -48,9 +48,7 @@ data_pacbiohifi_bam_coverage: 33.35x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.0876
-data_status: <em style="color:red">no data</em>
-genbank_alt: mCerEla1:GCA_910593805.1
-genbank_pri: mCerEla1:GCA_910594005.1
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2886619877
 genome_size_display: 2.89 Gbp
 last_raw_data: 1651593289

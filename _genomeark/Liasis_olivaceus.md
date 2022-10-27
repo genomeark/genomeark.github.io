@@ -1,6 +1,12 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: olive python
+data_arima_bases: 170.49 Gbp
+data_arima_bytes: 82.813 GB
+data_arima_coverage: 101.78x
+data_arima_files: 666
+data_arima_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/arima/<br>
+data_arima_scale: 1.9173
 data_bionano_bases: 1.47 Gbp
 data_bionano_bytes: 2.103 GB
 data_bionano_coverage: 0.88x
@@ -12,12 +18,12 @@ data_pacbiohifi_fqgz_coverage: 33.48x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1692
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1675000000
 genome_size_display: 1.68 Gbp
 genome_size_method: GoAT
-last_raw_data: 1653683082
-last_updated: 1653683082
+last_raw_data: 1655312129
+last_updated: 1655312604
 name: Liasis olivaceus
 name_: Liasis_olivaceus
 short_name: rLiaOli

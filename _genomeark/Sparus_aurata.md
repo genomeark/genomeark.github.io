@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: gilthead seabream
 data_10x_bases: 123.08 Gbp
 data_10x_bytes: 80.298 GB
@@ -48,9 +48,7 @@ data_pacbio_coverage: 56.56x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Sparus_aurata/fSpaAur1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5183
-data_status: <em style="color:red">no data</em>
-genbank_alt: fSpaAur1:GCA_900880695.1
-genbank_pri: fSpaAur1:GCA_900880675.2
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 833578411
 genome_size_display: 0.83 Gbp
 last_raw_data: 1523525722

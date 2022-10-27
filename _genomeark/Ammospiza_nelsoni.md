@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: Nelson's sparrow
 data_arima_bases: 143.86 Gbp
 data_arima_bytes: 71.710 GB
@@ -59,7 +59,7 @@ data_pacbiohifi_fqgz_coverage: 34.27x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1790
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1300000000
 genome_size_display: 1.30 Gbp
 genome_size_method: GoAT

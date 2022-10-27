@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: tailed frog
 data_arima_bases: 345.81 Gbp
 data_arima_bytes: 167.913 GB
@@ -25,7 +25,7 @@ data_pacbiohifi_fqgz_coverage: 29419221468.09x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Ascaphus_truei/aAscTru4/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2439
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 4.042
 genome_size_display: 4.042  bp
 genome_size_method: GoAT

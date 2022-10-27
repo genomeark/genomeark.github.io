@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: common toad
 data_10x_bases: 568.89 Gbp
 data_10x_bytes: 343.284 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 72.01x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5219
-data_status: <em style="color:red">no data</em>
-genbank_alt: aBufBuf1:GCA_905171715.1
-genbank_pri: aBufBuf1:GCA_905171765.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 5044812576
 genome_size_display: 5.04 Gbp
 last_raw_data: 1584379221

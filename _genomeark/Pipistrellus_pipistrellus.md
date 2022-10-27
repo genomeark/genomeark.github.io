@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: common pipistrelle
 data_10x_bases: 134.75 Gbp
 data_10x_bytes: 83.276 GB
@@ -48,9 +48,7 @@ data_pacbio_coverage: 71.15x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Pipistrellus_pipistrellus/mPipPip1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5359
-data_status: <em style="color:red">no data</em>
-genbank_alt: mPipPip1:GCA_903992515.1
-genbank_pri: mPipPip1:GCA_903992545.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1763439233
 genome_size_display: 1.76 Gbp
 last_raw_data: 1586515943

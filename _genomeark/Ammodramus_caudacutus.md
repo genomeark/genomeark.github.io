@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: saltmarsh sparrow
 data_arima_bases: 147.42 Gbp
 data_arima_bytes: 73.183 GB
@@ -59,7 +59,7 @@ data_pacbiohifi_fqgz_coverage: 34.18x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2743
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1306000000
 genome_size_display: 1.31 Gbp
 genome_size_method: GoAT

@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: Blainville's beaked whale
 data_bionano_bases: 2.60 Gbp
 data_bionano_bytes: 1.116 GB
@@ -53,12 +53,12 @@ data_pacbiohifi_fqgz_coverage: 33.65x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2057
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:red">Scaffolding</em>'
 genome_size: 3377000000
 genome_size_display: 3.38 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651616843
-last_updated: 1651616843
+last_updated: 1655491843
 name: Mesoplodon densirostris
 name_: Mesoplodon_densirostris
 pri1date: 2022-03-30

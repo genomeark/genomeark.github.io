@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: Common starling
 data_arima_bases: 64.33 Gbp
 data_arima_bytes: 33.149 GB
@@ -7,7 +7,7 @@ data_arima_coverage: 50222381608.07x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Sturnus_vulgaris/bStuVul1/genomic_data/arima/<br>
 data_arima_scale: 1.8075
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1.281
 genome_size_display: 1.281  bp
 genome_size_method: GoAT

@@ -1,6 +1,12 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: Bornean orangutan
+data_dovetail_bases: 170.10 Gbp
+data_dovetail_bytes: 87.235 GB
+data_dovetail_coverage: 47.52x
+data_dovetail_files: 666
+data_dovetail_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/dovetail/<br>
+data_dovetail_scale: 1.8160
 data_ont_bases: 632.81 Gbp
 data_ont_bytes: 538.023 GB
 data_ont_coverage: 176.79x
@@ -19,12 +25,12 @@ data_pacbiohifi_fqgz_coverage: 53.30x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.0964
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 3579480000
 genome_size_display: 3.58 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-last_raw_data: 1653694676
-last_updated: 1653694676
+last_raw_data: 1657568745
+last_updated: 1664998164
 name: Pongo pygmaeus
 name_: Pongo_pygmaeus
 short_name: mPonPyg

@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: golden arowana
 data_10x_bases: 133.07 Gbp
 data_10x_bytes: 80.211 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 73.00x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5438
-data_status: <em style="color:red">no data</em>
-genbank_alt: fSclFor1:GCA_900964985.2
-genbank_pri: fSclFor1:GCA_900964775.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 784546363
 genome_size_display: 0.78 Gbp
 last_raw_data: 1547566320

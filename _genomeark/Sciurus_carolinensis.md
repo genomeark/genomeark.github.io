@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: grey squirrel
 data_10x_bases: 270.69 Gbp
 data_10x_bytes: 167.150 GB
@@ -48,9 +48,7 @@ data_pacbio_coverage: 79.15x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Sciurus_carolinensis/mSciCar1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5432
-data_status: <em style="color:red">no data</em>
-genbank_alt: mSciCar1:GCA_902685475.1
-genbank_pri: mSciCar1:GCA_902686445.2
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2815397268
 genome_size_display: 2.82 Gbp
 last_raw_data: 1565307258

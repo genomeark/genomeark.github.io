@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: white-faced whistling-duck
 data_arima_links: s3://genomeark/species/Dendrocygna_viduata/bDenVid1/genomic_data/arima/<br>
 data_arima_scale: 1.3690
@@ -12,7 +12,7 @@ data_illumina_links: s3://genomeark/species/Dendrocygna_viduata/bDenVid1/genomic
 data_illumina_scale: 1.9826
 data_pacbio_links: s3://genomeark/species/Dendrocygna_viduata/bDenVid1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5262
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:red">Long</em> ::: <em style="color:red">Short</em> ::: <em style="color:red">Phasing</em> ::: <em style="color:red">Scaffolding</em>'
 genome_size: 0
 last_raw_data: 1638999952
 last_updated: 1638999952

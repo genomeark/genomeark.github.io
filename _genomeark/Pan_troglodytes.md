@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:red">no assembly</em>
+assembly_status: <em style="color:red">none</em>
 common_name: chimpanzee
 data_10x_bases: 248.16 Gbp
 data_10x_bytes: 153.494 GB
@@ -12,12 +12,18 @@ data_bionano_bytes: 0.785 GB
 data_bionano_coverage: 2.00x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/bionano/<br>
-data_ont_bases: 397.21 Gbp
-data_ont_bytes: 349.914 GB
-data_ont_coverage: 109.92x
+data_dovetail_bases: 190.56 Gbp
+data_dovetail_bytes: 94.870 GB
+data_dovetail_coverage: 52.73x
+data_dovetail_files: 666
+data_dovetail_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/dovetail/<br>
+data_dovetail_scale: 1.8707
+data_ont_bases: 397.87 Gbp
+data_ont_bytes: 351.062 GB
+data_ont_coverage: 110.10x
 data_ont_files: 666
 data_ont_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/ont/<br>
-data_ont_scale: 1.0572
+data_ont_scale: 1.0555
 data_pacbio_bases: 399.02 Gbp
 data_pacbio_bytes: 1432.610 GB
 data_pacbio_coverage: 110.42x
@@ -36,12 +42,12 @@ data_pacbiohifi_fqgz_coverage: 59.39x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2677
-data_status: <em style="color:red">no data</em>
+data_status: '<em style="color:green">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-last_raw_data: 1653656007
-last_updated: 1653656007
+last_raw_data: 1658800545
+last_updated: 1664998146
 mito1date: 2020-06-25
 mito1filesize: 5 KiB
 mito1length: 16556

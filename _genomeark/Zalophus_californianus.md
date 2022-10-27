@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: California sea lion
 data_10x_bases: 195.17 Gbp
 data_10x_bytes: 94.215 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 80.80x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5279
-data_status: <em style="color:red">no data</em>
-genbank_alt: mZalCal1:GCA_009762295.2
-genbank_pri: mZalCal1:GCA_009762305.2
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 3150000000
 genome_size_display: 3.15 Gbp
 genome_size_method: null

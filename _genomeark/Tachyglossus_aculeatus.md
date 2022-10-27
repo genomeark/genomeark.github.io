@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: short-beaked echidna
 data_10x_bases: 270.18 Gbp
 data_10x_bytes: 126.331 GB
@@ -53,9 +53,7 @@ data_phase_coverage: 14.72x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/phase/<br>
 data_phase_scale: 1.6966
-data_status: <em style="color:red">no data</em>
-genbank_alt: mTacAcu1:GCA_015852515.1
-genbank_pri: mTacAcu1:GCA_015852505.1
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 2890000000
 genome_size_display: 2.89 Gbp
 genome_size_method: null

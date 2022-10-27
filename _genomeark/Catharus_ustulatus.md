@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:green">curated assembly</em>
+assembly_status: <em style="color:green">curated</em>
 common_name: Swainson's thrush
 data_10x_bases: 127.92 Gbp
 data_10x_bytes: 65.050 GB
@@ -53,9 +53,7 @@ data_pacbio_coverage: 60.48x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5422
-data_status: <em style="color:red">no data</em>
-genbank_alt: bCatUst1:GCA_009819505.2
-genbank_pri: bCatUst1:GCA_009819885.2
+data_status: '<em style="color:red">HQ Long</em> ::: <em style="color:green">Long</em> ::: <em style="color:green">Short</em> ::: <em style="color:green">Phasing</em> ::: <em style="color:green">Scaffolding</em>'
 genome_size: 1490000000
 genome_size_display: 1.49 Gbp
 genome_size_method: null
