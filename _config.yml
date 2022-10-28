@@ -8,8 +8,8 @@ name: GenomeArk
 # Short bio or description (displayed in the header)
 # The first is also used in metadata, and so cannot include markup.
 # Used in _layouts/default.html.
-description: Genome Data from the                                           Earth BioGenome Project,                                                     Vertebrate Genomes Project,                                                                      Telomere-2-Telomere Consortium     and others.
-descriphtml: Genome Data from the <a href="https://www.earthbiogenome.org/">Earth BioGenome Project</a>, <a href="https://vertebrategenomesproject.org/">Vertebrate Genomes Project</a>, <a href="https://sites.google.com/ucsc.edu/t2tworkinggroup/home">Telomere-2-Telomere Consortium</a> and others.
+description: Genome Data from the                                           Earth BioGenome Project,                                                     Vertebrate Genomes Project,                                                                      Telomere-to-Telomere Consortium     and others.
+descriphtml: Genome Data from the <a href="https://www.earthbiogenome.org/">Earth BioGenome Project</a>, <a href="https://vertebrategenomesproject.org/">Vertebrate Genomes Project</a>, <a href="https://sites.google.com/ucsc.edu/t2tworkinggroup/home">Telomere-to-Telomere Consortium</a> and others.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/images/vgp.png
