@@ -48,7 +48,7 @@ data_pacbiohifi_bam_coverage: 69.68x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1365
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fPhoGun1:GCA_910591705.2
 genbank_pri: fPhoGun1:GCA_910591455.2
 genome_size: 588696950

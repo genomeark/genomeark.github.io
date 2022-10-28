@@ -25,7 +25,7 @@ data_pacbiohifi_fqgz_coverage: 44.27x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Spirinchus_thaleichthys/fSpiTha1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2589
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 822000000
 genome_size_display: 0.82 Gbp
 genome_size_method: GoAT

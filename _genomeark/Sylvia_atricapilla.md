@@ -53,7 +53,7 @@ data_pacbio_coverage: 66.50x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5364
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bSylAtr1:GCA_009819715.1
 genbank_pri: bSylAtr1:GCA_009819655.1
 genome_size: 1090000000

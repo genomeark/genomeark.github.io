@@ -48,7 +48,7 @@ data_pacbiohifi_bam_coverage: 46.08x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Thunnus_maccoyii/fThuMac1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.0717
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fThuMac1:GCA_910596085.1
 genbank_pri: fThuMac1:GCA_910596095.1
 genome_size: 782423977

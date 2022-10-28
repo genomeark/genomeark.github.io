@@ -30,7 +30,7 @@ data_pacbiohifi_clr_coverage: 645.26x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5146
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_pat: bPorHoc1:GCA_020801775.1
 genome_size: 1200000000
 genome_size_display: 1.20 Gbp

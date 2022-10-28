@@ -53,7 +53,7 @@ data_pacbiohifi_fqgz_coverage: 36.68x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Alosa_sapidissima/fAloSap1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.3359
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fAloSap1:GCA_018492705.1
 genbank_pri: fAloSap1:GCA_018492685.1
 genome_size: 900000000

@@ -53,7 +53,7 @@ data_pacbio_coverage: 62.33x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5462
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: kPetMar1:GCA_010993595.1
 genbank_pri: kPetMar1:GCA_010993605.1
 genome_size: 1500000000

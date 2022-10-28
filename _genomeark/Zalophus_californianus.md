@@ -53,7 +53,7 @@ data_pacbio_coverage: 80.80x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5279
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: mZalCal1:GCA_009762295.2
 genbank_pri: mZalCal1:GCA_009762305.2
 genome_size: 3150000000

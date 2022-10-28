@@ -7,7 +7,7 @@ data_arima_coverage: 77.27x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Chionoecetes_opilio/qChiOpi1/genomic_data/arima/<br>
 data_arima_scale: 1.4725
-data_status: '<em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">Arima</em>'
 genome_size: 2500000000
 genome_size_display: 2.50 Gbp
 last_raw_data: 1609968990

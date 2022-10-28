@@ -53,7 +53,7 @@ data_pacbiohifi_clr_coverage: 420.88x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5166
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bFalChe1:GCA_023634115.1
 genbank_pri: bFalChe1:GCA_023634085.1
 genome_size: 1420000000

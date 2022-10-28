@@ -53,7 +53,7 @@ data_pacbiohifi_clr_coverage: 412.69x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5195
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 764974446
 genome_size_display: 0.76 Gbp
 last_raw_data: 1651608637

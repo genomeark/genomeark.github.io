@@ -53,7 +53,7 @@ data_phase_coverage: 14.72x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/phase/<br>
 data_phase_scale: 1.6966
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_alt: mTacAcu1:GCA_015852515.1
 genbank_pri: mTacAcu1:GCA_015852505.1
 genome_size: 2890000000

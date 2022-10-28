@@ -30,7 +30,7 @@ data_pacbio_coverage: 61.01x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5380
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: bMelUnd1:GCA_012275265.1
 genbank_pat: bMelUnd1:GCA_012275275.1
 genome_size: 1230000000

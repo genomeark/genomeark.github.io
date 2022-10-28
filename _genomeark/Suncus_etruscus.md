@@ -53,7 +53,7 @@ data_pacbio_coverage: 143.20x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5190
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 3000000000
 genome_size_display: 3.00 Gbp
 last_raw_data: 1622136717

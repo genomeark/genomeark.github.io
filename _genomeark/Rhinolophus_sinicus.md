@@ -43,7 +43,7 @@ data_pacbio_coverage: 30.49x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/genomic_data/pacbio/<br>
 data_pacbio_scale: 1.0919
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 2900000000
 genome_size_display: 2.90 Gbp
 last_raw_data: 1622744604

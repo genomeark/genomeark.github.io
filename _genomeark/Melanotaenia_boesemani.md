@@ -53,7 +53,7 @@ data_pacbio_coverage: 71.57x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Melanotaenia_boesemani/fMelBoe1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5371
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fMelBoe1:GCA_017639755.1
 genbank_pri: fMelBoe1:GCA_017639745.1
 genome_size: 865575964

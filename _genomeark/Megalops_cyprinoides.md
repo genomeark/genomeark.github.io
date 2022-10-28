@@ -53,7 +53,7 @@ data_pacbio_coverage: 104.30x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5226
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fMegCyp1:GCA_013368575.1
 genbank_pri: fMegCyp1:GCA_013368585.1
 genome_size: 1093257451

@@ -30,7 +30,7 @@ data_pacbio_coverage: 232.75x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Grus_americana/bGruAme1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5167
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 last_raw_data: 1618851714

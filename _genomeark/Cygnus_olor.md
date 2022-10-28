@@ -53,7 +53,7 @@ data_pacbio_coverage: 60.23x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5348
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bCygOlo1:GCA_009769485.2
 genbank_pri: bCygOlo1:GCA_009769625.2
 genome_size: 1480000000

@@ -49,7 +49,7 @@ data_pacbiohifi_clr_coverage: 656.90x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5205
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fToxJac2:GCA_017976295.1
 genbank_pri: fToxJac2:GCA_017976425.1
 genome_size: 621503431

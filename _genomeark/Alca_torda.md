@@ -53,7 +53,7 @@ data_pacbio_coverage: 64.74x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Alca_torda/bAlcTor1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5388
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bAlcTor1:GCA_008658355.1
 genbank_pri: bAlcTor1:GCA_008658365.1
 genome_size: 1200000000

@@ -1,6 +1,10 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: zebrafish
+data_10x_bases: 259.78 Gbp
+data_10x_bytes: 158.919 GB
+data_10x_coverage: N/A
+data_10x_files: 666
 data_10x_links: s3://genomeark/species/Danio_rerio/fDreSAT1/genomic_data/10x/<br>
 data_10x_scale: 1.5224
 data_bionano_bases: 2.16 Gbp
@@ -8,13 +12,25 @@ data_bionano_bytes: 0.088 GB
 data_bionano_coverage: N/A
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Danio_rerio/fDreSAT1/genomic_data/bionano/<br>
+data_dovetail_bases: 121.99 Gbp
+data_dovetail_bytes: 79.097 GB
+data_dovetail_coverage: N/A
+data_dovetail_files: 666
 data_dovetail_links: s3://genomeark/species/Danio_rerio/fDreSAT3/genomic_data/dovetail/<br>
 data_dovetail_scale: 1.4364
+data_illumina_bases: 402.77 Gbp
+data_illumina_bytes: 201.240 GB
+data_illumina_coverage: N/A
+data_illumina_files: 666
 data_illumina_links: s3://genomeark/species/Danio_rerio/fDreABH1/genomic_data/illumina/<br>s3://genomeark/species/Danio_rerio/fDreTuH1/genomic_data/illumina/<br>
 data_illumina_scale: 1.8640
+data_pacbio_bases: 128.52 Gbp
+data_pacbio_bytes: 451.666 GB
+data_pacbio_coverage: N/A
+data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Danio_rerio/fDreSAT1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.2650
-data_status: '<em style="color:maroon">No data</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 0
 last_raw_data: 1566749074
 last_updated: 1591266209

@@ -53,7 +53,7 @@ data_pacbio_coverage: 52.35x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5405
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fSphaOr1:GCA_902148825.1
 genbank_pri: fSphaOr1:GCA_902148855.1
 genome_size: 1342662642

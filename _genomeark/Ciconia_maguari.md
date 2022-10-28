@@ -53,7 +53,7 @@ data_pacbio_coverage: 88.29x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5322
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bCicMag1:GCA_017639665.1
 genbank_pri: bCicMag1:GCA_017639555.1
 genome_size: 1000000000

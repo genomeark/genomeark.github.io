@@ -30,7 +30,7 @@ data_phase_coverage: 11.98x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/phase/<br>
 data_phase_scale: 1.6305
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Phase</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 2700000000
 genome_size_display: 2.70 Gbp
 genome_size_method: null

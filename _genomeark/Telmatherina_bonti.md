@@ -35,7 +35,7 @@ data_pacbiohifi_bam_coverage: 34.32x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Telmatherina_bonti/fTelBon1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.3830
-data_status: '<em style="color:forestgreen">PacBio CLR</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
 genbank_alt: fTelBon1:GCA_933228925.1
 genbank_pri: fTelBon1:GCA_933228915.1
 genome_size: 986039709

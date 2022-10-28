@@ -24,7 +24,7 @@ data_pacbiohifi_fqgz_coverage: 34.44x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Chasiempis_sclateri/bChaScl1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1876
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em>'
 genome_size: 1235000000
 genome_size_display: 1.24 Gbp
 genome_size_method: GoAT

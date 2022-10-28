@@ -19,7 +19,7 @@ data_pacbio_coverage: 69.45x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Potamotrygon_marinae/sPotMar1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5263
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 4500000000
 genome_size_display: 4.50 Gbp
 last_raw_data: 1618858204

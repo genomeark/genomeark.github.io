@@ -59,7 +59,7 @@ data_pacbiohifi_fqgz_coverage: 35.45x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2874
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1208000000
 genome_size_display: 1.21 Gbp
 genome_size_method: GoAT

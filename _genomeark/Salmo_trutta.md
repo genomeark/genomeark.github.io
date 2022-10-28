@@ -59,7 +59,7 @@ data_pacbiohifi_bam_coverage: 13.61x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Salmo_trutta/fSalTru1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.3739
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_pri: fSalTru1:GCA_901001165.2
 genome_size: 2371863509
 genome_size_display: 2.37 Gbp

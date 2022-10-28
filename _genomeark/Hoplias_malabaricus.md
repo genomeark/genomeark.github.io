@@ -18,7 +18,7 @@ data_pacbiohifi_fqgz_coverage: 26868961498.62x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2931
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1.252
 genome_size_display: 1.252  bp
 genome_size_method: GoAT

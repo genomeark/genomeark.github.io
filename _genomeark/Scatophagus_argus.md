@@ -53,7 +53,7 @@ data_pacbio_coverage: 92.44x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5293
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fScaArg1:GCA_020382915.1
 genbank_pri: fScaArg1:GCA_020382885.1
 genome_size: 647966298

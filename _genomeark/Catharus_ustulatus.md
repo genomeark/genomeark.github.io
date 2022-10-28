@@ -53,7 +53,7 @@ data_pacbio_coverage: 60.48x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5422
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bCatUst1:GCA_009819505.2
 genbank_pri: bCatUst1:GCA_009819885.2
 genome_size: 1490000000

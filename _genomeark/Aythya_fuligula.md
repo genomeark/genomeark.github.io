@@ -53,7 +53,7 @@ data_pacbio_coverage: 64.09x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Aythya_fuligula/bAytFul2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5499
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bAytFul2:GCA_009819845.1
 genbank_pri: bAytFul2:GCA_009819795.1
 genome_size: 1200000000

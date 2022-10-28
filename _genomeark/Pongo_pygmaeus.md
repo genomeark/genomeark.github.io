@@ -25,7 +25,7 @@ data_pacbiohifi_fqgz_coverage: 53.30x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.0964
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">ONT Duplex</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Dovetail</em>'
 dip2date: 2022-10-05
 dip2filesize: 2 GiB
 dip2length: 6217165865

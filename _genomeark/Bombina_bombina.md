@@ -49,7 +49,7 @@ data_pacbio_coverage: 92.78x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Bombina_bombina/aBomBom1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5287
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 10019663791
 genome_size_display: 10.02 Gbp
 last_raw_data: 1620809015

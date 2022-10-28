@@ -53,7 +53,7 @@ data_pacbio_coverage: 61.42x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5383
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bPhoRub2:GCA_009819805.1
 genbank_pri: bPhoRub2:GCA_009819775.1
 genome_size: 1250000000

@@ -53,7 +53,7 @@ data_pacbio_coverage: 59.21x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Myripristis_murdjan/fMyrMur1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5373
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fMyrMur1:GCA_902148815.1
 genbank_pri: fMyrMur1:GCA_902150065.1
 genome_size: 835254674

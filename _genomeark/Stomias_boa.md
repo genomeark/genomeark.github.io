@@ -1,9 +1,13 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: boa dragonfish
+data_arima_bases: 120.12 Gbp
+data_arima_bytes: 58.400 GB
+data_arima_coverage: N/A
+data_arima_files: 666
 data_arima_links: s3://genomeark/species/Stomias_boa/fStoBoa2/genomic_data/arima/<br>
 data_arima_scale: 1.9155
-data_status: '<em style="color:maroon">No data</em>'
+data_status: '<em style="color:forestgreen">Arima</em>'
 genome_size: 0
 last_raw_data: 1639848967
 last_updated: 1639854635

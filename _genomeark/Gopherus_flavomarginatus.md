@@ -30,7 +30,7 @@ data_pacbio_coverage: 65.87x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5361
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 2500000000
 genome_size_display: 2.50 Gbp
 genome_size_method: null

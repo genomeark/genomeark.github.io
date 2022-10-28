@@ -53,7 +53,7 @@ data_pacbio_coverage: 51.57x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5175
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fErpCal1:GCA_900700845.3
 genbank_pri: fErpCal1:GCA_900747795.4
 genome_size: 3811022027

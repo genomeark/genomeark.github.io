@@ -53,7 +53,7 @@ data_pacbio_coverage: 77.86x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5143
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: aRanTem1:GCA_905171725.1
 genbank_pri: aRanTem1:GCA_905171775.1
 genome_size: 4111422596

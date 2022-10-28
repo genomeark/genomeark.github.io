@@ -53,7 +53,7 @@ data_pacbio_coverage: 52.08x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Geothlypis_trichas/bGeoTri1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5238
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bGeoTri1:GCA_009764545.1
 genbank_pri: bGeoTri1:GCA_009764595.1
 genome_size: 1440000000

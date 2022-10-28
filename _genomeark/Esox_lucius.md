@@ -53,7 +53,7 @@ data_pacbio_coverage: 66.07x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Esox_lucius/fEsoLuc1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5324
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fEsoLuc1:GCA_011004835.1
 genbank_pri: fEsoLuc1:GCA_011004845.1
 genome_size: 1105706148

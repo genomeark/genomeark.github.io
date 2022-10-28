@@ -48,7 +48,7 @@ data_pacbio_coverage: 89.52x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Syngnathus_acus/fSynAcu1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5358
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: fSynAcu1:GCA_901709685.1
 genbank_pri: fSynAcu1:GCA_901709675.2
 genome_size: 324331233

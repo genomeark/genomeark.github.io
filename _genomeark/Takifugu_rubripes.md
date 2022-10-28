@@ -53,7 +53,7 @@ data_pacbio_coverage: 83.09x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Takifugu_rubripes/fTakRub1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5301
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fTakRub1:GCA_901000745.3
 genbank_pri: fTakRub1:GCA_901000725.3
 genome_size: 384110215

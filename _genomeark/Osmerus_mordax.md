@@ -36,7 +36,7 @@ data_pacbiohifi_fqgz_coverage: 36.74x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1230
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 675000000
 genome_size_display: 0.68 Gbp
 genome_size_method: GoAT

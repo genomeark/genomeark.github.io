@@ -53,7 +53,7 @@ data_pacbio_coverage: 64.59x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5314
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fDenClu1:GCA_900700345.2
 genbank_pri: fDenClu1:GCA_900700375.2
 genome_size: 567401054

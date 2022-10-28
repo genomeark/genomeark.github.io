@@ -30,7 +30,7 @@ data_pacbio_coverage: 70.02x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Dendropsophus_ebraccatus/aDenEbr1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5390
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 2520000000
 genome_size_display: 2.52 Gbp
 genome_size_method: null

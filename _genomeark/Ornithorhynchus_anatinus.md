@@ -59,7 +59,7 @@ data_phase_coverage: 48.43x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/phase/<br>
 data_phase_scale: 1.5696
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_alt: mOrnAna1:GCA_004115175.2
 genbank_pri: mOrnAna1:GCA_004115215.4
 genome_size: 2128226567

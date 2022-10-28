@@ -53,7 +53,7 @@ data_pacbio_coverage: 51.28x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Anguilla_anguilla/fAngAng1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5447
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fAngAng1:GCA_013347865.1
 genbank_pri: fAngAng1:GCA_013347855.1
 genome_size: 1355153153

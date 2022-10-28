@@ -48,7 +48,7 @@ data_pacbiohifi_bam_coverage: 38.87x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Taurulus_bubalis/fTauBub2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.1130
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fTauBub2:GCA_910589325.1
 genbank_pri: fTauBub2:GCA_910589615.1
 genome_size: 615153901

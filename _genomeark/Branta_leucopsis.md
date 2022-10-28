@@ -6,9 +6,13 @@ data_bionano_bytes: 2.738 GB
 data_bionano_coverage: N/A
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Branta_leucopsis/bBraLeu1/genomic_data/bionano/<br>
+data_pacbio_bases: 62.60 Gbp
+data_pacbio_bytes: 111.940 GB
+data_pacbio_coverage: N/A
+data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Branta_leucopsis/bBraLeu1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5208
-data_status: '<em style="color:maroon">No data</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em>'
 genome_size: 0
 last_raw_data: 1536592916
 last_updated: 1536592916

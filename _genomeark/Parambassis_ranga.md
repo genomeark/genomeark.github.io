@@ -53,7 +53,7 @@ data_pacbio_coverage: 99.80x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Parambassis_ranga/fParRan2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5336
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fParRan2:GCA_900651595.1
 genbank_pri: fParRan2:GCA_900634625.2
 genome_size: 551012959

@@ -30,7 +30,7 @@ data_pacbiohifi_clr_coverage: 562.64x
 data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.5169
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: mDicBic1:GCA_020826845.1
 genbank_pat: mDicBic1:GCA_020826835.1
 genome_size: 3000000000

@@ -31,7 +31,7 @@ data_pacbiohifi_fqgz_coverage: 74.78x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2784
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">ONT Duplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 dip1date: 2022-10-05
 dip1filesize: 1 GiB
 dip1length: 6386078599

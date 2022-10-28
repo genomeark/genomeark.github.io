@@ -83,65 +83,76 @@ layout: default
 
 {% include section-divider.html title="Raw Data" %}
 
+{% unless page.last_raw_data %}
+
 <div class="section">
-{% if page.last_raw_data %}
-  <table class="raw-data-table">
-  <thead><tr><th rowspan="2" class="label">Datatype</th>
-             <th colspan="2">Approximate Size</th>
-             <th rowspan="2">Download Size</th>
-         </tr>
-         <tr><th>Bases</th>
-             <th>Coverage</th>
-         </tr></thead>
-  <tbody>
-    {% if page.data_10x_bytes.size             > 0 %} <tr><td class="label">10x                       </td><td>{{ page.data_10x_bases             }}</td><td>{{ page.data_10x_coverage             }}</td><td>{{ page.data_10x_bytes             }}</td></tr> {% endif %}
-    {% if page.data_arima_bytes.size           > 0 %} <tr><td class="label">Arima                     </td><td>{{ page.data_arima_bases           }}</td><td>{{ page.data_arima_coverage           }}</td><td>{{ page.data_arima_bytes           }}</td></tr> {% endif %}
-    {% if page.data_bionano_bytes.size         > 0 %} <tr><td class="label">Bionano                   </td><td>{{ page.data_bionano_bases         }}</td><td>{{ page.data_bionano_coverage         }}</td><td>{{ page.data_bionano_bytes         }}</td></tr> {% endif %}
-    {% if page.data_dovetail_bytes.size        > 0 %} <tr><td class="label">Dovetail Genomics         </td><td>{{ page.data_dovetail_bases        }}</td><td>{{ page.data_dovetail_coverage        }}</td><td>{{ page.data_dovetail_bytes        }}</td></tr> {% endif %}
-    {% if page.data_illumina_bytes.size        > 0 %} <tr><td class="label">Illumina                  </td><td>{{ page.data_illumina_bases        }}</td><td>{{ page.data_illumina_coverage        }}</td><td>{{ page.data_illumina_bytes        }}</td></tr> {% endif %}
-    {% if page.data_ont_bytes.size             > 0 %} <tr><td class="label">Oxford Nanopore Simplex   </td><td>{{ page.data_ont_bases             }}</td><td>{{ page.data_ont_coverage             }}</td><td>{{ page.data_ont_bytes             }}</td></tr> {% endif %}
-    {% if page.data_ontduplex_bytes.size       > 0 %} <tr><td class="label">Oxford Nanopore Duplex    </td><td>{{ page.data_ontduplex_bases       }}</td><td>{{ page.data_ontduplex_coverage       }}</td><td>{{ page.data_ontduplex_bytes       }}</td></tr> {% endif %}
-    {% if page.data_pacbio_bytes.size          > 0 %} <tr><td class="label">PacBio CLR                </td><td>{{ page.data_pacbio_bases          }}</td><td>{{ page.data_pacbio_coverage          }}</td><td>{{ page.data_pacbio_bytes          }}</td></tr> {% endif %}
-    {% if page.data_pacbiohifi_fqgz_bytes.size > 0 %} <tr><td class="label">PacBio HiFi (.fq, Q&ge;20)</td><td>{{ page.data_pacbiohifi_fqgz_bases }}</td><td>{{ page.data_pacbiohifi_fqgz_coverage }}</td><td>{{ page.data_pacbiohifi_fqgz_bytes }}</td></tr> {% endif %}
-    {% if page.data_pacbiohifi_bam_bytes.size  > 0 %} <tr><td class="label">PacBio HiFi (.bam, Q&ge;0)</td><td>{{ page.data_pacbiohifi_bam_bases  }}</td><td>{{ page.data_pacbiohifi_bam_coverage  }}</td><td>{{ page.data_pacbiohifi_bam_bytes  }}</td></tr> {% endif %}
-    {% if page.data_pacbiohifi_clr_bytes.size  > 0 %} <tr><td class="label">PacBio HiFi (subreads)    </td><td>{{ page.data_pacbiohifi_clr_bases  }}</td><td>{{ page.data_pacbiohifi_clr_coverage  }}</td><td>{{ page.data_pacbiohifi_clr_bytes  }}</td></tr> {% endif %}
-    {% if page.data_phase_bytes.size           > 0 %} <tr><td class="label">Phase Genomics            </td><td>{{ page.data_phase_bases           }}</td><td>{{ page.data_phase_coverage           }}</td><td>{{ page.data_phase_bytes           }}</td></tr> {% endif %}
-  </tbody>
-  </table>
+<div class="data-use">
+<p style="text-align: center;">
+<em style="color:maroon">No raw data.</em>
+</p>
+</div>
+</div>
 
-  <p class="raw-data-size">  <!---<div align="right">--->
-    {% if page.genome_size_display %}
-    Coverage based on genome size {{ page.genome_size_display }}.
-    {% else %}
-    No genome size estimate available.
-    {% endif %}
-  </p>
-
-  <p class="raw-data-size">  <!---<div align="right">--->
-    Last upload on {{ page.last_raw_data | date: "%-d %B %Y" }}.
-  </p>
-
-  <div>
-  <p>Download each datatype using the <A HREF="https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html">AWS Command Line Interface</A>:</p>
-  <div class="raw-data-links">
-    {% if page.data_10x_links             %} {{ page.data_10x_links             }} {% endif %}
-    {% if page.data_arima_links           %} {{ page.data_arima_links           }} {% endif %}
-    {% if page.data_bionano_links         %} {{ page.data_bionano_links         }} {% endif %}
-    {% if page.data_dovetail_links        %} {{ page.data_dovetail_links        }} {% endif %}
-    {% if page.data_illumina_links        %} {{ page.data_illumina_links        }} {% endif %}
-    {% if page.data_ont_links             %} {{ page.data_ont_links             }} {% endif %}
-    {% if page.data_ontduplex_links       %} {{ page.data_ontduplex_links       }} {% endif %}
-    {% if page.data_pacbio_links          %} {{ page.data_pacbio_links          }} {% endif %}
-    {% if page.data_pacbiohifi_fqgz_links %} {{ page.data_pacbiohifi_fqgz_links }} {% endif %}
-    {% if page.data_pacbiohifi_bam_links  %} {{ page.data_pacbiohifi_bam_links  }} {% endif %}
-    {% if page.data_pacbiohifi_clr_links  %} {{ page.data_pacbiohifi_clr_links  }} {% endif %}
-    {% if page.data_phase_links           %} {{ page.data_phase_links           }} {% endif %}
-  </div class="raw-data-links">
-  </div>
 {% else %}
-  <em style="color:red">No data.</em><br/>
-{% endif %}
+
+<div class="section">
+<table class="raw-data-table">
+<thead><tr><th rowspan="2" class="label">Datatype</th>
+           <th colspan="2">Approximate Size</th>
+           <th rowspan="2">Download Size</th>
+       </tr>
+       <tr><th>Bases</th>
+           <th>Coverage</th>
+       </tr></thead>
+<tbody>
+  {% if page.data_10x_bytes.size             > 0 %} <tr><td class="label">10x                       </td><td>{{ page.data_10x_bases             }}</td><td>{{ page.data_10x_coverage             }}</td><td>{{ page.data_10x_bytes             }}</td></tr> {% endif %}
+  {% if page.data_arima_bytes.size           > 0 %} <tr><td class="label">Arima                     </td><td>{{ page.data_arima_bases           }}</td><td>{{ page.data_arima_coverage           }}</td><td>{{ page.data_arima_bytes           }}</td></tr> {% endif %}
+  {% if page.data_bionano_bytes.size         > 0 %} <tr><td class="label">Bionano                   </td><td>{{ page.data_bionano_bases         }}</td><td>{{ page.data_bionano_coverage         }}</td><td>{{ page.data_bionano_bytes         }}</td></tr> {% endif %}
+  {% if page.data_dovetail_bytes.size        > 0 %} <tr><td class="label">Dovetail Genomics         </td><td>{{ page.data_dovetail_bases        }}</td><td>{{ page.data_dovetail_coverage        }}</td><td>{{ page.data_dovetail_bytes        }}</td></tr> {% endif %}
+  {% if page.data_illumina_bytes.size        > 0 %} <tr><td class="label">Illumina                  </td><td>{{ page.data_illumina_bases        }}</td><td>{{ page.data_illumina_coverage        }}</td><td>{{ page.data_illumina_bytes        }}</td></tr> {% endif %}
+  {% if page.data_ont_bytes.size             > 0 %} <tr><td class="label">Oxford Nanopore Simplex   </td><td>{{ page.data_ont_bases             }}</td><td>{{ page.data_ont_coverage             }}</td><td>{{ page.data_ont_bytes             }}</td></tr> {% endif %}
+  {% if page.data_ontduplex_bytes.size       > 0 %} <tr><td class="label">Oxford Nanopore Duplex    </td><td>{{ page.data_ontduplex_bases       }}</td><td>{{ page.data_ontduplex_coverage       }}</td><td>{{ page.data_ontduplex_bytes       }}</td></tr> {% endif %}
+  {% if page.data_pacbio_bytes.size          > 0 %} <tr><td class="label">PacBio CLR                </td><td>{{ page.data_pacbio_bases          }}</td><td>{{ page.data_pacbio_coverage          }}</td><td>{{ page.data_pacbio_bytes          }}</td></tr> {% endif %}
+  {% if page.data_pacbiohifi_fqgz_bytes.size > 0 %} <tr><td class="label">PacBio HiFi (.fq, Q&ge;20)</td><td>{{ page.data_pacbiohifi_fqgz_bases }}</td><td>{{ page.data_pacbiohifi_fqgz_coverage }}</td><td>{{ page.data_pacbiohifi_fqgz_bytes }}</td></tr> {% endif %}
+  {% if page.data_pacbiohifi_bam_bytes.size  > 0 %} <tr><td class="label">PacBio HiFi (.bam, Q&ge;0)</td><td>{{ page.data_pacbiohifi_bam_bases  }}</td><td>{{ page.data_pacbiohifi_bam_coverage  }}</td><td>{{ page.data_pacbiohifi_bam_bytes  }}</td></tr> {% endif %}
+  {% if page.data_pacbiohifi_clr_bytes.size  > 0 %} <tr><td class="label">PacBio HiFi (subreads)    </td><td>{{ page.data_pacbiohifi_clr_bases  }}</td><td>{{ page.data_pacbiohifi_clr_coverage  }}</td><td>{{ page.data_pacbiohifi_clr_bytes  }}</td></tr> {% endif %}
+  {% if page.data_phase_bytes.size           > 0 %} <tr><td class="label">Phase Genomics            </td><td>{{ page.data_phase_bases           }}</td><td>{{ page.data_phase_coverage           }}</td><td>{{ page.data_phase_bytes           }}</td></tr> {% endif %}
+</tbody>
+</table>
+
+<p class="raw-data-size">  <!---<div align="right">--->
+  {% if page.genome_size_display %}
+  Coverage based on genome size {{ page.genome_size_display }}.
+  {% else %}
+  No genome size estimate available.
+  {% endif %}
+</p>
+
+<p class="raw-data-size">  <!---<div align="right">--->
+  Last upload on {{ page.last_raw_data | date: "%-d %B %Y" }}.
+</p>
+
+<div>
+<p>Download each datatype using the <A HREF="https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html">AWS Command Line Interface</A>:</p>
+<div class="raw-data-links">
+  {% if page.data_10x_links             %} {{ page.data_10x_links             }} {% endif %}
+  {% if page.data_arima_links           %} {{ page.data_arima_links           }} {% endif %}
+  {% if page.data_bionano_links         %} {{ page.data_bionano_links         }} {% endif %}
+  {% if page.data_dovetail_links        %} {{ page.data_dovetail_links        }} {% endif %}
+  {% if page.data_illumina_links        %} {{ page.data_illumina_links        }} {% endif %}
+  {% if page.data_ont_links             %} {{ page.data_ont_links             }} {% endif %}
+  {% if page.data_ontduplex_links       %} {{ page.data_ontduplex_links       }} {% endif %}
+  {% if page.data_pacbio_links          %} {{ page.data_pacbio_links          }} {% endif %}
+  {% if page.data_pacbiohifi_fqgz_links %} {{ page.data_pacbiohifi_fqgz_links }} {% endif %}
+  {% if page.data_pacbiohifi_bam_links  %} {{ page.data_pacbiohifi_bam_links  }} {% endif %}
+  {% if page.data_pacbiohifi_clr_links  %} {{ page.data_pacbiohifi_clr_links  }} {% endif %}
+  {% if page.data_phase_links           %} {{ page.data_phase_links           }} {% endif %}
+</div class="raw-data-links">
+</div>
 </div class="section">
+
+{% endunless %}
+
 
 <!-- NOTES --->
 
@@ -156,9 +167,6 @@ layout: default
 
 {% include section-divider.html title="Assemblies" %}
 
-<div class="section">
-<div class="assemblies">
-
 {% comment %}
   Create an assembly-stats block for any assembly that exists for up to six individuals.
   A block will have up to two assemblies shown (with an optional mito sequence):
@@ -167,6 +175,10 @@ layout: default
     DIP
   An individual shouldn't have both PRI/ALT and PAT/MAT, but it will still
   display properly (except that the mito will be shown for both).
+
+  There's a LOT of baloney here to get a divider between individuals shown, but that
+  same baloney lets us decide early if there are any assemblies at all, and if there are none,
+  to show an entirely different block.
 {% endcomment %}
 
 {% if page.pri1seq or page.alt1seq or page.mat1seq or page.pat1seq or page.mgd1seq or page.dip1seq or page.mito1seq %} {% assign d1 = true %} {% else %} {% assign d1 = false %} {% endif %}
@@ -187,6 +199,22 @@ layout: default
 {% if d4 or d5 or d6 %}             {% assign div34b = true %} {% else %} {% assign div34b = false %} {% endif %}
 {% if d5 or d6 %}                   {% assign div45b = true %} {% else %} {% assign div45b = false %} {% endif %}
 {% if d6 %}                         {% assign div56b = true %} {% else %} {% assign div56b = false %} {% endif %}
+
+
+{% unless d1 or d2 or d3 or d4 or d5 or d6 %}
+
+<div class="section">
+<div class="data-use">
+<p style="text-align: center;">
+<em style="color:maroon">No assemblies.</em>
+</p>
+</div>
+</div>
+
+{% else %}
+
+<div class="section">
+<div class="assemblies">
 
 {% assign shown = false %}
 
@@ -294,6 +322,7 @@ layout: default
 
 </div>
 </div>
+{% endunless %}
 
 
 <!-- DATA USE POLICY --->

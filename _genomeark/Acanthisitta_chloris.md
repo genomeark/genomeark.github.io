@@ -53,7 +53,7 @@ data_pacbio_coverage: 65.69x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Acanthisitta_chloris/bAcaChl1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5419
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bAcaChl1:GCA_016880875.1
 genbank_pri: bAcaChl1:GCA_016904835.1
 genome_size: 1050000000

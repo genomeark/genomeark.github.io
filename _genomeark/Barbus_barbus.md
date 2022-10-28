@@ -36,7 +36,7 @@ data_pacbiohifi_bam_coverage: 47.96x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Barbus_barbus/fBarBab1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 0.4939
-data_status: '<em style="color:forestgreen">PacBio CLR</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
 genbank_alt: fBarBab1:GCA_936446605.1
 genbank_pri: fBarBab1:GCA_936440315.1
 genome_size: 1584929904

@@ -53,7 +53,7 @@ data_pacbio_coverage: 72.14x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Sylvia_borin/bSylBor1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5534
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bSylBor1:GCA_014839765.1
 genbank_pri: bSylBor1:GCA_014839755.1
 genome_size: 1200000000

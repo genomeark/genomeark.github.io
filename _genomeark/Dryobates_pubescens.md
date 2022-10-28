@@ -53,7 +53,7 @@ data_pacbio_coverage: 62.33x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5473
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bDryPub1:GCA_014839825.1
 genbank_pri: bDryPub1:GCA_014839835.1
 genome_size: 1400000000

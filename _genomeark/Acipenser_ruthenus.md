@@ -1,6 +1,10 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: sterlet
+data_10x_bases: 245.95 Gbp
+data_10x_bytes: 158.814 GB
+data_10x_coverage: N/A
+data_10x_files: 666
 data_10x_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/10x/<br>
 data_10x_scale: 1.4423
 data_bionano_bases: 2.16 Gbp
@@ -8,15 +12,31 @@ data_bionano_bytes: 2.769 GB
 data_bionano_coverage: N/A
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/bionano/<br>
+data_dovetail_bases: 242.06 Gbp
+data_dovetail_bytes: 160.485 GB
+data_dovetail_coverage: N/A
+data_dovetail_files: 666
 data_dovetail_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/dovetail/<br>
 data_dovetail_scale: 1.4047
+data_illumina_bases: 211.10 Gbp
+data_illumina_bytes: 136.869 GB
+data_illumina_coverage: N/A
+data_illumina_files: 666
 data_illumina_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut1/genomic_data/illumina/<br>s3://genomeark/species/Acipenser_ruthenus/fAciRut2/genomic_data/illumina/<br>
 data_illumina_scale: 1.4364
+data_pacbiohifi_bam_bases: 109.50 Gbp
+data_pacbiohifi_bam_bytes: 74.553 GB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.3679
+data_pacbiohifi_clr_bases: 286.38 Gbp
+data_pacbiohifi_clr_bytes: 636.692 GB
+data_pacbiohifi_clr_coverage: N/A
+data_pacbiohifi_clr_files: 666
 data_pacbiohifi_clr_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.4189
-data_status: '<em style="color:maroon">No data</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: fAciRut3:GCA_902713425.2
 genbank_pat: fAciRut3:GCA_902713435.2
 genome_size: 0

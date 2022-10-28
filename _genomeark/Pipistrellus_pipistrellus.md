@@ -48,7 +48,7 @@ data_pacbio_coverage: 71.15x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Pipistrellus_pipistrellus/mPipPip1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5359
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: mPipPip1:GCA_903992515.1
 genbank_pri: mPipPip1:GCA_903992545.1
 genome_size: 1763439233

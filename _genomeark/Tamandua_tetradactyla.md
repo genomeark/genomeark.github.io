@@ -53,7 +53,7 @@ data_pacbio_coverage: 66.66x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Tamandua_tetradactyla/mTamTet1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5282
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 4020000000
 genome_size_display: 4.02 Gbp
 genome_size_method: GoAT

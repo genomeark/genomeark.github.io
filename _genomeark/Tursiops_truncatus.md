@@ -30,7 +30,7 @@ data_pacbio_coverage: 63.68x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5430
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: mTurTru1:GCA_011762535.1
 genbank_pat: mTurTru1:GCA_011762515.1
 genome_size: 3200000000

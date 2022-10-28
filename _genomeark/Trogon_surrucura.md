@@ -53,7 +53,7 @@ data_pacbio_coverage: 108.43x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Trogon_surrucura/bTroSur1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5209
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bTroSur1:GCA_020746095.1
 genbank_pri: bTroSur1:GCA_020746105.1
 genome_size: 1000000000

@@ -1,16 +1,32 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: lesser Egyptian jerboa
+data_10x_bases: 264.76 Gbp
+data_10x_bytes: 127.252 GB
+data_10x_coverage: N/A
+data_10x_files: 666
 data_10x_links: s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/10x/<br>
 data_10x_scale: 1.9377
+data_arima_bases: 194.36 Gbp
+data_arima_bytes: 108.872 GB
+data_arima_coverage: N/A
+data_arima_files: 666
 data_arima_links: s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/arima/<br>
 data_arima_scale: 1.6626
 data_bionano_links: s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/bionano/<br>
+data_illumina_bases: 368.48 Gbp
+data_illumina_bytes: 167.533 GB
+data_illumina_coverage: N/A
+data_illumina_files: 666
 data_illumina_links: s3://genomeark/species/Jaculus_jaculus/mJacJac2/genomic_data/illumina/<br>s3://genomeark/species/Jaculus_jaculus/mJacJac3/genomic_data/illumina/<br>
 data_illumina_scale: 2.0484
+data_pacbio_bases: 1323.74 Gbp
+data_pacbio_bytes: 2383.667 GB
+data_pacbio_coverage: N/A
+data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Jaculus_jaculus/mJacJac1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5172
-data_status: '<em style="color:maroon">No data</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_pat: mJacJac1:GCA_020740715.1
 genome_size: 0
 last_raw_data: 1613403927

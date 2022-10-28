@@ -53,7 +53,7 @@ data_phase_coverage: 119.89x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/phase/<br>
 data_phase_scale: 1.5082
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_alt: fAntMac1:GCA_013347815.1
 genbank_pri: fAntMac1:GCA_013358685.1
 genome_size: 604861782

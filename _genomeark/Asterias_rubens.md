@@ -48,7 +48,7 @@ data_pacbio_coverage: 112.68x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Asterias_rubens/eAstRub1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5220
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_alt: eAstRub1:GCA_902459445.1
 genbank_pri: eAstRub1:GCA_902459465.3
 genome_size: 417601740

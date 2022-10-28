@@ -30,7 +30,7 @@ data_pacbio_coverage: 60.99x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5405
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: mArvNil1:GCA_011750645.1
 genbank_pat: mArvNil1:GCA_011762545.1
 genome_size: 3400000000

@@ -53,7 +53,7 @@ data_phase_coverage: 94.41x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/phase/<br>
 data_phase_scale: 1.5504
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_alt: fArcCen1:GCA_007364235.1
 genbank_pri: fArcCen1:GCA_007364275.2
 genome_size: 988048114

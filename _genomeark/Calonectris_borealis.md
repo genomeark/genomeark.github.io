@@ -1,11 +1,19 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: Cory's Shearwater
+data_arima_bases: 124.86 Gbp
+data_arima_bytes: 58.402 GB
+data_arima_coverage: N/A
+data_arima_files: 666
 data_arima_links: s3://genomeark/species/Calonectris_borealis/bCalBor6/genomic_data/arima/<br>
 data_arima_scale: 1.9911
+data_pacbiohifi_bam_bases: 2.56 Gbp
+data_pacbiohifi_bam_bytes: 9.128 GB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Calonectris_borealis/bCalBor6/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 0.2616
-data_status: '<em style="color:maroon">No data</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
 last_raw_data: 1651605195
 last_updated: 1651605195

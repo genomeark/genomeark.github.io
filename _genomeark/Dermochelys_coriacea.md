@@ -53,7 +53,7 @@ data_pacbio_coverage: 63.94x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5394
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: rDerCor1:GCA_009762595.2
 genbank_pri: rDerCor1:GCA_009764565.4
 genome_size: 2500000000

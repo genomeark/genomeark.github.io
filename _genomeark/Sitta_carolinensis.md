@@ -7,7 +7,7 @@ data_arima_coverage: 66953283600.79x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Sitta_carolinensis/bSitCar2/genomic_data/arima/<br>
 data_arima_scale: 1.8433
-data_status: '<em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">Arima</em>'
 genome_size: 1.193
 genome_size_display: 1.193  bp
 genome_size_method: GoAT

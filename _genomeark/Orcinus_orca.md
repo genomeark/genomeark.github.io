@@ -36,7 +36,7 @@ data_pacbiohifi_bam_coverage: 37.07x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Orcinus_orca/mOrcOrc1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.4061
-data_status: '<em style="color:forestgreen">PacBio CLR</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
 genbank_alt: mOrcOrc1:GCA_937001455.1
 genbank_pri: mOrcOrc1:GCA_937001465.1
 genome_size: 2647351467

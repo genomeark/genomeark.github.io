@@ -48,7 +48,7 @@ data_pacbio_coverage: 56.56x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Sparus_aurata/fSpaAur1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5183
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fSpaAur1:GCA_900880695.1
 genbank_pri: fSpaAur1:GCA_900880675.2
 genome_size: 833578411

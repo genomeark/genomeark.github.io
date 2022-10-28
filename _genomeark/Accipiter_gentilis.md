@@ -48,7 +48,7 @@ data_pacbiohifi_bam_coverage: 36.03x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Accipiter_gentilis/bAccGen1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 0.5991
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bAccGen1:GCA_929447715.1
 genbank_pri: bAccGen1:GCA_929443795.1
 genome_size: 1398027955

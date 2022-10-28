@@ -59,7 +59,7 @@ data_pacbio_coverage: 105.11x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Falco_naumanni/bFalNau1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5198
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: bFalNau1:GCA_017639645.1
 genbank_pat: bFalNau1:GCA_017639655.1
 genome_size: 1350000000

@@ -53,7 +53,7 @@ data_pacbio_coverage: 144.69x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Chelmon_rostratus/fCheRos1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5386
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fCheRos1:GCA_017976315.1
 genbank_pri: fCheRos1:GCA_017976325.1
 genome_size: 734000000

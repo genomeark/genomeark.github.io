@@ -53,7 +53,7 @@ data_pacbio_coverage: 83.23x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5340
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: fEcheNa1:GCA_900963505.1
 genbank_pri: fEcheNa1:GCA_900963305.2
 genome_size: 544212633
