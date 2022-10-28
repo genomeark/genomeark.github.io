@@ -11,15 +11,13 @@ layout: default
   <p class="sd-sname">{{ page.name }}</p>
   <p class="sd-cname">{{ page.common_name }}</p>
 
-  <br>
-
   {% if page.taxon_id %}
-     <p>
-     <a href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id={{ page.taxon_id }}">NCBI Taxonomy</a><br>
-     <a href="https://genomeark.s3.amazonaws.com/index.html?prefix=species/{{ page.name_ }}">S3 HTML Index</a><br>
-     <a href="https://42basepairs.com/browse/s3/genomeark/species/{{ page.name_ }}">S3 GUI Browser</a><br>
-     </p>
+  <p><a href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id={{ page.taxon_id }}">NCBI Taxonomy</a></p>
+  <p><a href="https://genomeark.s3.amazonaws.com/index.html?prefix=species/{{ page.name_ }}">S3 HTML Index</a></p>
+  <p><a href="https://42basepairs.com/browse/s3/genomeark/species/{{ page.name_ }}">S3 GUI Browser</a></p>
   {% endif %}
+
+  <br>
 
   {% if page.genbank_pri or page.genbank_alt %}
     <table class="sd-info-tab">
