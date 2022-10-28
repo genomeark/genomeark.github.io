@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">draft</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: epaulette shark
 data_10x_bases: 357.24 Gbp
 data_10x_bytes: 182.947 GB
@@ -30,7 +30,7 @@ data_pacbio_coverage: 149.37x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5240
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_mat: sHemOce1:GCA_020745765.1
 genome_size: 5500000000
 genome_size_display: 5.50 Gbp

@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common marmoset
 data_10x_bases: 193.29 Gbp
 data_10x_bytes: 91.494 GB
@@ -30,7 +30,7 @@ data_pacbio_coverage: 63.53x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Callithrix_jacchus/mCalJac1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5362
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_mat: mCalJac1:GCA_011078405.1
 genbank_pat: mCalJac1:GCA_011100535.2
 genome_size: 3430000000

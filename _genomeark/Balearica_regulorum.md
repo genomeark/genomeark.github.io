@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: grey crowned-crane
 data_10x_bases: 156.29 Gbp
 data_10x_bytes: 76.352 GB
@@ -53,7 +53,7 @@ data_pacbio_coverage: 59.52x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5473
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bBalReg1:GCA_011004865.1
 genbank_pri: bBalReg1:GCA_011004875.1
 genome_size: 1450000000

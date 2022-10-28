@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: house finch
 data_arima_bases: 218.60 Gbp
 data_arima_bytes: 99.587 GB
@@ -53,7 +53,7 @@ data_pacbiohifi_fqgz_coverage: 36.85x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2564
-data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1369000000
 genome_size_display: 1.37 Gbp
 genome_size_method: GoAT

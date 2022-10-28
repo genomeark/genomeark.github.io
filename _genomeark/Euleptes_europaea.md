@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: tarantolino
 data_arima_bases: 251.93 Gbp
 data_arima_bytes: 124.647 GB
@@ -41,7 +41,7 @@ data_bionano_bytes: 0.889 GB
 data_bionano_coverage: 0.72x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/bionano/<br>
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 2533000000
 genome_size_display: 2.53 Gbp
 genome_size_method: GoAT

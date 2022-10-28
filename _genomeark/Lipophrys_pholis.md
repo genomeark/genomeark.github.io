@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:black">none</em>
+assembly_status: <em style="color:maroon">No assembly</em>
 common_name: shanny
 data_10x_links: s3://genomeark/species/Lipophrys_pholis/fLipPho2/genomic_data/10x/<br>
 data_10x_scale: 1.6403
@@ -7,7 +7,7 @@ data_arima_links: s3://genomeark/species/Lipophrys_pholis/fLipPho2/genomic_data/
 data_arima_scale: 1.5645
 data_pacbiohifi_bam_links: s3://genomeark/species/Lipophrys_pholis/fLipPho2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.3713
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:lightgray">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:lightgray">Scaffolding</em>'
+data_status: '<em style="color:maroon">No data</em>'
 genome_size: 0
 last_raw_data: 1651599569
 last_updated: 1651599569

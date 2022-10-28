@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">draft</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: chimpanzee
 data_10x_bases: 248.16 Gbp
 data_10x_bytes: 153.494 GB
@@ -42,7 +42,7 @@ data_pacbiohifi_fqgz_coverage: 59.39x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2677
-data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">ONT Duplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Dovetail</em>'
 dip3date: 2022-10-05
 dip3filesize: 1 GiB
 dip3length: 6209739776

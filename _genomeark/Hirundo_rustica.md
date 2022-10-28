@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: barn swallow
 data_10x_bases: 109.59 Gbp
 data_10x_bytes: 55.843 GB
@@ -53,7 +53,7 @@ data_pacbio_coverage: 51.17x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Hirundo_rustica/bHirRus1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5292
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bHirRus1:GCA_015227815.3
 genbank_pri: bHirRus1:GCA_015227805.3
 genome_size: 1310000000

@@ -57,7 +57,7 @@ alt2sizes: |
   </tfoot>
   </table>
 alt2version: assembly_curated
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: zebra finch
 data_10x_bases: 410.19 Gbp
 data_10x_bytes: 246.371 GB
@@ -106,7 +106,7 @@ data_pacbiohifi_fqgz_coverage: 38.16x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2070
-data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_alt: bTaeGut1:GCA_003957525.2 bTaeGut2:GCA_009859025.1
 genbank_mat: bTaeGut2:GCA_008822115.3
 genbank_pat: bTaeGut2:GCA_008822125.1

@@ -1,9 +1,9 @@
 ---
-assembly_status: <em style="color:black">none</em>
+assembly_status: <em style="color:maroon">No assembly</em>
 common_name: boa dragonfish
 data_arima_links: s3://genomeark/species/Stomias_boa/fStoBoa2/genomic_data/arima/<br>
 data_arima_scale: 1.9155
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:lightgray">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:lightgray">Scaffolding</em>'
+data_status: '<em style="color:maroon">No data</em>'
 genome_size: 0
 last_raw_data: 1639848967
 last_updated: 1639854635

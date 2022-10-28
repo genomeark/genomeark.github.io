@@ -28,14 +28,14 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 data_pacbiohifi_bam_bases: 33.84 Gbp
 data_pacbiohifi_bam_bytes: 22.791 GB
 data_pacbiohifi_bam_coverage: 34.32x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Telmatherina_bonti/fTelBon1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.3830
-data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:lightgray">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:lightgray">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em>'
 genbank_alt: fTelBon1:GCA_933228925.1
 genbank_pri: fTelBon1:GCA_933228915.1
 genome_size: 986039709

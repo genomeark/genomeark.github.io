@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: sterlet
 data_10x_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/10x/<br>
 data_10x_scale: 1.4423
@@ -16,7 +16,7 @@ data_pacbiohifi_bam_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/ge
 data_pacbiohifi_bam_scale: 1.3679
 data_pacbiohifi_clr_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr_scale: 0.4189
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:lightgray">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:lightgray">Scaffolding</em>'
+data_status: '<em style="color:maroon">No data</em>'
 genbank_mat: fAciRut3:GCA_902713425.2
 genbank_pat: fAciRut3:GCA_902713435.2
 genome_size: 0

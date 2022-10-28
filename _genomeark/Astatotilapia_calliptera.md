@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_vgp_standard_1.0
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Eastern happy
 data_10x_bases: 118.06 Gbp
 data_10x_bytes: 78.888 GB
@@ -47,7 +47,7 @@ data_pacbio_coverage: 77.01x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Astatotilapia_calliptera/fAstCal1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.2587
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:lightgray">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_pri: fAstCal1:GCA_900246225.5
 genome_size: 972478608
 genome_size_display: 0.97 Gbp

@@ -1,11 +1,11 @@
 ---
-assembly_status: <em style="color:black">none</em>
+assembly_status: <em style="color:maroon">No assembly</em>
 common_name: Cory's Shearwater
 data_arima_links: s3://genomeark/species/Calonectris_borealis/bCalBor6/genomic_data/arima/<br>
 data_arima_scale: 1.9911
 data_pacbiohifi_bam_links: s3://genomeark/species/Calonectris_borealis/bCalBor6/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 0.2616
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:lightgray">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:lightgray">Scaffolding</em>'
+data_status: '<em style="color:maroon">No data</em>'
 genome_size: 0
 last_raw_data: 1651605195
 last_updated: 1651605195

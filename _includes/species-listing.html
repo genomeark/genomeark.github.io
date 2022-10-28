@@ -12,15 +12,16 @@
 	<div class="species-list-info-wrapper" style="display:table-cell;">
     <div class="species-list-info-name">
     <a href="{{ site.baseurl }}{{ species.url }}"><i>{{ species.name }}</i></a>
+    {% if species.common_name %}
+    "{{ species.common_name }}"
+    {% endif %}
     </div>
     <div class="species-list-info-body">
-      {{ species.common_name }}
-      <br>
       Reads: {{ species.data_status }}
       <br>
       Assembly: {{ species.assembly_status }}
       {% if species.mito1seq or species.mito2seq or species.mito3seq or species.mito4seq %}
-      ::: <em style="color:green">mito assembly</em>
+      ::: <em style="color:green">Mitochondrial</em>
       {% endif %}
     </div>
 	</div>

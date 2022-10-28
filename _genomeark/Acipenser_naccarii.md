@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:black">none</em>
+assembly_status: <em style="color:maroon">No assembly</em>
 common_name: Adriatic sturgeon
 data_arima_bases: 266.74 Gbp
 data_arima_bytes: 135.040 GB
@@ -18,7 +18,7 @@ data_pacbiohifi_fqgz_coverage: 28.05x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Acipenser_naccarii/fAciNac1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2368
-data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 3467000000
 genome_size_display: 3.47 Gbp
 genome_size_method: GoAT

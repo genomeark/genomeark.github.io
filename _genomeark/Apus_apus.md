@@ -28,7 +28,7 @@ alt2sizes: |
   </tfoot>
   </table>
 alt2version: assembly_curated
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Common swift
 data_10x_bases: 68.99 Gbp
 data_10x_bytes: 32.114 GB
@@ -53,7 +53,7 @@ data_pacbio_coverage: 103.90x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Apus_apus/bApuApu2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5281
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bApuApu2:GCA_020740585.1
 genbank_pri: bApuApu2:GCA_020740795.1
 genome_size: 1100361224

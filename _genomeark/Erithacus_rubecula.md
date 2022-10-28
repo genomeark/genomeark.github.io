@@ -28,7 +28,7 @@ alt2sizes: |
   </tfoot>
   </table>
 alt2version: assembly_curated
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: European robin
 data_10x_bases: 126.32 Gbp
 data_10x_bytes: 78.131 GB
@@ -48,7 +48,7 @@ data_pacbio_coverage: 68.57x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Erithacus_rubecula/bEriRub2/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5330
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: bEriRub2:GCA_903797565.2
 genbank_pri: bEriRub2:GCA_903797595.2
 genome_size: 1086738318

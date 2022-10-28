@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Norway rat
 data_10x_bases: 187.56 Gbp
 data_10x_bytes: 130.223 GB
@@ -53,7 +53,7 @@ data_pacbio_coverage: 100.73x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5284
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 2647899415
 genome_size_display: 2.65 Gbp
 last_raw_data: 1580668926

@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: warty frogfish
 data_10x_bases: 44.14 Gbp
 data_10x_bytes: 25.759 GB
@@ -53,7 +53,7 @@ data_phase_coverage: 119.89x
 data_phase_files: 666
 data_phase_links: s3://genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/phase/<br>
 data_phase_scale: 1.5082
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_alt: fAntMac1:GCA_013347815.1
 genbank_pri: fAntMac1:GCA_013358685.1
 genome_size: 604861782

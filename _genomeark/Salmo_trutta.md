@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_cambridge
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: brown trout
 data_10x_bases: 209.35 Gbp
 data_10x_bytes: 142.574 GB
@@ -59,7 +59,7 @@ data_pacbiohifi_bam_coverage: 13.61x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Salmo_trutta/fSalTru1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.3739
-data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_pri: fSalTru1:GCA_901001165.2
 genome_size: 2371863509
 genome_size_display: 2.37 Gbp

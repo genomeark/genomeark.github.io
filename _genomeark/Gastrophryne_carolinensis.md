@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:black">none</em>
+assembly_status: <em style="color:maroon">No assembly</em>
 common_name: eastern narrow-mouthed toad
 data_arima_bases: 487.24 Gbp
 data_arima_bytes: 245.617 GB
@@ -25,7 +25,7 @@ data_pacbiohifi_fqgz_coverage: 29619360951.40x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2324
-data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em>'
 genome_size: 4.548
 genome_size_display: 4.548  bp
 genome_size_method: GoAT

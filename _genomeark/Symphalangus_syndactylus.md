@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">draft</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: siamang gibbon
 data_dovetail_bases: 258.65 Gbp
 data_dovetail_bytes: 127.912 GB
@@ -31,7 +31,7 @@ data_pacbiohifi_fqgz_coverage: 74.78x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2784
-data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">ONT Duplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Phase</em>'
 dip1date: 2022-10-05
 dip1filesize: 1 GiB
 dip1length: 6386078599

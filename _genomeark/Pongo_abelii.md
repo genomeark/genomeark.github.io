@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">draft</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: Sumatran orangutan
 data_dovetail_bases: 112.53 Gbp
 data_dovetail_bytes: 56.889 GB
@@ -25,7 +25,7 @@ data_pacbiohifi_fqgz_coverage: 88.02x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.2258
-data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">ONT Duplex</em> ::: <em style="color:forestgreen">Dovetail</em>'
 dip1date: 2022-10-05
 dip1filesize: 1 GiB
 dip1length: 6195299244

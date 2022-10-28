@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: hawaiian crow
 data_arima_bases: 86.80 Gbp
 data_arima_bytes: 58.170 GB
@@ -59,7 +59,7 @@ data_pacbiohifi_fqgz_coverage: 15.33x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Corvus_hawaiiensis/bCorHaw1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.0090
-data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bCorHaw1:GCA_020740675.1
 genbank_pri: bCorHaw1:GCA_020740725.1
 genome_size: 1200000000

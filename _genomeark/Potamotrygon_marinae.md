@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:black">none</em>
+assembly_status: <em style="color:maroon">No assembly</em>
 common_name: gold dust stingray
 data_arima_bases: 248.93 Gbp
 data_arima_bytes: 163.756 GB
@@ -19,7 +19,7 @@ data_pacbio_coverage: 69.45x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Potamotrygon_marinae/sPotMar1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5263
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Phase</em>'
 genome_size: 4500000000
 genome_size_display: 4.50 Gbp
 last_raw_data: 1618858204

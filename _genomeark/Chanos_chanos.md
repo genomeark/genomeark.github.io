@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: milkfish
 data_10x_bases: 134.89 Gbp
 data_10x_bytes: 80.753 GB
@@ -59,7 +59,7 @@ data_pacbiohifi_bam_coverage: 28.40x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2042
-data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: fChaCha1:GCA_902362175.1
 genbank_pri: fChaCha1:GCA_902362185.1
 genome_size: 656912816

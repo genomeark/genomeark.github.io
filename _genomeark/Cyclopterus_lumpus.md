@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: lumpfish
 data_10x_bases: 61.32 Gbp
 data_10x_bytes: 29.348 GB
@@ -53,7 +53,7 @@ data_pacbio_coverage: 55.80x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5373
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fCycLum1:GCA_009769515.1
 genbank_pri: fCycLum1:GCA_009769545.1
 genome_size: 1000000000

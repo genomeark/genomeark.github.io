@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: human
 data_10x_bases: 957.67 Gbp
 data_10x_bytes: 448.708 GB
@@ -36,7 +36,7 @@ data_pacbiohifi_bam_coverage: 61.22x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/pacbio_hifi/<br>s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/pacbio_hifi/<br>s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 1.2257
-data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_mat: mHomSap3:GCA_016695395.2
 genbank_pat: mHomSap3:GCA_016700455.2
 genome_size: 3200000000

@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">draft</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: Egyptian fruit bat
 data_10x_bases: 112.49 Gbp
 data_10x_bytes: 56.105 GB
@@ -24,7 +24,7 @@ data_pacbio_coverage: 58.02x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5252
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_pri: mRouAeg1:GCA_014176215.1
 genome_size: 2109999999
 genome_size_display: 2.11 Gbp

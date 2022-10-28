@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: zebrafish
 data_10x_links: s3://genomeark/species/Danio_rerio/fDreSAT1/genomic_data/10x/<br>
 data_10x_scale: 1.5224
@@ -14,7 +14,7 @@ data_illumina_links: s3://genomeark/species/Danio_rerio/fDreABH1/genomic_data/il
 data_illumina_scale: 1.8640
 data_pacbio_links: s3://genomeark/species/Danio_rerio/fDreSAT1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.2650
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:lightgray">Short</em> ::: <em style="color:lightgray">Phasing</em> ::: <em style="color:lightgray">Scaffolding</em>'
+data_status: '<em style="color:maroon">No data</em>'
 genome_size: 0
 last_raw_data: 1566749074
 last_updated: 1591266209

@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:black">none</em>
+assembly_status: <em style="color:maroon">No assembly</em>
 common_name: delta smelt
 data_arima_bases: 154.91 Gbp
 data_arima_bytes: 76.142 GB
@@ -12,7 +12,7 @@ data_bionano_bytes: 0.769 GB
 data_bionano_coverage: 0.88x
 data_bionano_files: 666
 data_bionano_links: s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/genomic_data/bionano/<br>
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 724000000
 genome_size_display: 0.72 Gbp
 genome_size_method: GoAT

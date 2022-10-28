@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">draft</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: budgerigar
 data_10x_bases: 98.91 Gbp
 data_10x_bytes: 50.530 GB
@@ -30,7 +30,7 @@ data_pacbio_coverage: 61.01x
 data_pacbio_files: 666
 data_pacbio_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/pacbio/<br>
 data_pacbio_scale: 0.5380
-data_status: '<em style="color:lightgray">HQ Long</em> ::: <em style="color:forestgreen">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_mat: bMelUnd1:GCA_012275265.1
 genbank_pat: bMelUnd1:GCA_012275275.1
 genome_size: 1230000000

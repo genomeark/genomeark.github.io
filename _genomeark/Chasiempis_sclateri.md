@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:black">none</em>
+assembly_status: <em style="color:maroon">No assembly</em>
 common_name: Kauai elepaio
 data_bionano_bases: 1.17 Gbp
 data_bionano_bytes: 2.045 GB
@@ -24,7 +24,7 @@ data_pacbiohifi_fqgz_coverage: 34.44x
 data_pacbiohifi_fqgz_files: 666
 data_pacbiohifi_fqgz_links: s3://genomeark/species/Chasiempis_sclateri/bChaScl1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz_scale: 1.1876
-data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:lightgray">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1235000000
 genome_size_display: 1.24 Gbp
 genome_size_method: GoAT

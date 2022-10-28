@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-assembly_status: <em style="color:forestgreen">curated</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: yellowfin tuna
 data_10x_bases: 59.35 Gbp
 data_10x_bytes: 29.565 GB
@@ -48,7 +48,7 @@ data_pacbiohifi_bam_coverage: 55.85x
 data_pacbiohifi_bam_files: 666
 data_pacbiohifi_bam_links: s3://genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam_scale: 0.2629
-data_status: '<em style="color:forestgreen">HQ Long</em> ::: <em style="color:lightgray">Long</em> ::: <em style="color:forestgreen">Short</em> ::: <em style="color:forestgreen">Phasing</em> ::: <em style="color:forestgreen">Scaffolding</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em>'
 genbank_alt: fThuAlb1:GCA_914744365.1
 genbank_pri: fThuAlb1:GCA_914725855.1
 genome_size: 792117861
