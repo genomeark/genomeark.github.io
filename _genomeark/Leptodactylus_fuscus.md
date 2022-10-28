@@ -3,13 +3,13 @@ assembly_status: <em style="color:maroon">No assembly</em>
 common_name: rufous frog
 data_arima_bases: 237.77 Gbp
 data_arima_bytes: 115.912 GB
-data_arima_coverage: 91731672469.91x
+data_arima_coverage: 91.73x
 data_arima_files: 666
 data_arima_links: s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/arima/<br>
 data_arima_scale: 1.9104
 data_status: '<em style="color:forestgreen">Arima</em>'
-genome_size: 2.592
-genome_size_display: 2.592  bp
+genome_size: 2592000000
+genome_size_display: 2.59 Gbp
 genome_size_method: GoAT
 last_raw_data: 1641846724
 last_updated: 1641847956
