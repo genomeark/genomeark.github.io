@@ -14,21 +14,11 @@ layout: default
   <br>
 
   {% if page.taxon_id %}
-    <table class="sd-info-tab">
-    <thead><tr><th class="label" width="30%">Resource</th>
-               <th></th>
-           </tr></thead>
-    <tbody><tr><td class="label">NCBI Taxonomy Browser</td>
-               <td><a href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id={{ page.taxon_id }}">NCBI:txid{{ page.taxon_id }}</a></td>
-           </tr>
-           <tr><td class="label">S3 HTML Index</td>
-               <td><a href="https://genomeark.s3.amazonaws.com/index.html?prefix=species/{{ page.name_ }}">{{ page.name }}</a></td>
-           </tr>
-           <tr><td class="label">S3 GUI Browser</td>
-               <td><a href="https://42basepairs.com/browse/s3/genomeark/species/{{ page.name_ }}">{{ page.name }}</a></td>
-           </tr></tbody>
-    </table>
-    <br>
+     <p>
+     <a href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id={{ page.taxon_id }}">NCBI Taxonomy</a><br>
+     <a href="https://genomeark.s3.amazonaws.com/index.html?prefix=species/{{ page.name_ }}">S3 HTML Index</a><br>
+     <a href="https://42basepairs.com/browse/s3/genomeark/species/{{ page.name_ }}">S3 GUI Browser</a><br>
+     </p>
   {% endif %}
 
   {% if page.genbank_pri or page.genbank_alt %}
