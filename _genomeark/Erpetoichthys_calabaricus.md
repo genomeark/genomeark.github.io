@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-03-05
-alt1filesize: 765 MiB
+alt1filesize: 764.8 MiB
 alt1length: 2607661443
 alt1n50ctg: 98416
 alt1n50scf: 98429
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: reedfish
+data_10x-1_bases: 251.18 Gbp
+data_10x-1_bytes: 163.1 GiB
+data_10x-1_coverage: 65.91x
+data_10x-1_links: s3://genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/10x/
+data_10x-1_scale: 1.4339
 data_10x_bases: 251.18 Gbp
-data_10x_bytes: 163.142 GB
+data_10x_bytes: 163.1 GiB
 data_10x_coverage: 65.91x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/10x/<br>
-data_10x_scale: 1.4339
+data_arima-1_bases: 265.30 Gbp
+data_arima-1_bytes: 152.4 GiB
+data_arima-1_coverage: 69.61x
+data_arima-1_links: s3://genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/arima/
+data_arima-1_scale: 1.6211
 data_arima_bases: 265.30 Gbp
-data_arima_bytes: 152.416 GB
+data_arima_bytes: 152.4 GiB
 data_arima_coverage: 69.61x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/arima/<br>
-data_arima_scale: 1.6211
-data_bionano_bases: 5.77 Gbp
-data_bionano_bytes: 1.938 GB
-data_bionano_coverage: 1.51x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/bionano/<br>
-data_pacbio_bases: 196.55 Gbp
-data_pacbio_bytes: 353.718 GB
-data_pacbio_coverage: 51.57x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5175
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.9 GiB
+data_bionano-1_coverage: 309.43x
+data_bionano-1_links: s3://genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/bionano/
+data_bionano-1_scale: 589.7892
+data_bionano_bases: N/A
+data_bionano_bytes: 1.9 GiB
+data_bionano_coverage: 309.43x
+data_pacbio-1_bases: 196.40 Gbp
+data_pacbio-1_bytes: 353.5 GiB
+data_pacbio-1_coverage: 51.54x
+data_pacbio-1_links: s3://genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5175
+data_pacbio_bases: 196.40 Gbp
+data_pacbio_bytes: 353.5 GiB
+data_pacbio_coverage: 51.54x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fErpCal1:GCA_900700845.3
 genbank_pri: fErpCal1:GCA_900747795.4
 genome_size: 3811022027
@@ -61,7 +78,7 @@ genome_size_display: 3.81 Gbp
 last_raw_data: 1536592476
 last_updated: 1570719802
 mito1date: 2019-10-02
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16619
 mito1n50ctg: 16619
 mito1n50scf: 16619
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Erpetoichthys calabaricus
 name_: Erpetoichthys_calabaricus
 pri1date: 2019-03-05
-pri1filesize: 1 GiB
+pri1filesize: 1.0 GiB
 pri1length: 3811022027
 pri1n50ctg: 1143051
 pri1n50scf: 199226436

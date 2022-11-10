@@ -1,6 +1,6 @@
 ---
 alt1date: 2018-09-07
-alt1filesize: 453 MiB
+alt1filesize: 453.2 MiB
 alt1length: 1514615512
 alt1n50ctg: 90103
 alt1n50scf: 90180
@@ -30,37 +30,54 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: greater horseshoe bat
+data_10x-1_bases: 106.85 Gbp
+data_10x-1_bytes: 64.1 GiB
+data_10x-1_coverage: 45.08x
+data_10x-1_links: s3://genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/10x/
+data_10x-1_scale: 1.5524
 data_10x_bases: 106.85 Gbp
-data_10x_bytes: 64.099 GB
+data_10x_bytes: 64.1 GiB
 data_10x_coverage: 45.08x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/10x/<br>
-data_10x_scale: 1.5524
-data_bionano_bases: 4.32 Gbp
-data_bionano_bytes: 2.220 GB
-data_bionano_coverage: 1.82x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/bionano/<br>
-data_pacbio_bases: 152.59 Gbp
-data_pacbio_bytes: 271.143 GB
-data_pacbio_coverage: 64.38x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5241
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.2 GiB
+data_bionano-1_coverage: 672.14x
+data_bionano-1_links: s3://genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/bionano/
+data_bionano-1_scale: 670.9615
+data_bionano_bases: N/A
+data_bionano_bytes: 2.2 GiB
+data_bionano_coverage: 672.14x
+data_pacbio-1_bases: 152.50 Gbp
+data_pacbio-1_bytes: 271.0 GiB
+data_pacbio-1_coverage: 64.35x
+data_pacbio-1_links: s3://genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5241
+data_pacbio_bases: 152.50 Gbp
+data_pacbio_bytes: 271.0 GiB
+data_pacbio_coverage: 64.35x
+data_phase-1_bases: 44.79 Gbp
+data_phase-1_bytes: 28.0 GiB
+data_phase-1_coverage: 18.90x
+data_phase-1_links: s3://genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/phase/<br>
+data_phase-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/phase/
+data_phase-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/phase/
+data_phase-1_scale: 1.4874
 data_phase_bases: 44.79 Gbp
-data_phase_bytes: 28.046 GB
+data_phase_bytes: 28.0 GiB
 data_phase_coverage: 18.90x
-data_phase_files: 666
-data_phase_links: s3://genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/phase/<br>
-data_phase_scale: 1.4874
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_pri: mRhiFer1:GCA_014108255.1
 genome_size: 2369916842
 genome_size_display: 2.37 Gbp
 last_raw_data: 1522747239
 last_updated: 1582304335
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16848
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -91,7 +108,7 @@ mito1version: assembly_MT_rockefeller
 name: Rhinolophus ferrumequinum
 name_: Rhinolophus_ferrumequinum
 pri1date: 2018-09-07
-pri1filesize: 607 MiB
+pri1filesize: 606.7 MiB
 pri1length: 2075768562
 pri1n50ctg: 25175215
 pri1n50scf: 83956141

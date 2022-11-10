@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-12-09
-alt1filesize: 228 MiB
+alt1filesize: 227.8 MiB
 alt1length: 842094559
 alt1n50ctg: 94766
 alt1n50scf: 95250
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: sea lamprey
+data_10x-1_bases: 101.00 Gbp
+data_10x-1_bytes: 50.5 GiB
+data_10x-1_coverage: 67.33x
+data_10x-1_links: s3://genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Petromyzon_marinus/kPetMar1/genomic_data/10x/
+data_10x-1_scale: 1.8623
 data_10x_bases: 101.00 Gbp
-data_10x_bytes: 50.509 GB
+data_10x_bytes: 50.5 GiB
 data_10x_coverage: 67.33x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/10x/<br>
-data_10x_scale: 1.8623
+data_arima-1_bases: 106.03 Gbp
+data_arima-1_bytes: 56.8 GiB
+data_arima-1_coverage: 70.69x
+data_arima-1_links: s3://genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Petromyzon_marinus/kPetMar1/genomic_data/arima/
+data_arima-1_scale: 1.7397
 data_arima_bases: 106.03 Gbp
-data_arima_bytes: 56.763 GB
+data_arima_bytes: 56.8 GiB
 data_arima_coverage: 70.69x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/arima/<br>
-data_arima_scale: 1.7397
-data_bionano_bases: 1.56 Gbp
-data_bionano_bytes: 0.838 GB
-data_bionano_coverage: 1.04x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/bionano/<br>
-data_pacbio_bases: 93.49 Gbp
-data_pacbio_bytes: 159.414 GB
-data_pacbio_coverage: 62.33x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5462
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 846.3 MiB
+data_bionano-1_coverage: 538.18x
+data_bionano-1_links: s3://genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Petromyzon_marinus/kPetMar1/genomic_data/bionano/
+data_bionano-1_scale: 909.7414
+data_bionano_bases: N/A
+data_bionano_bytes: 846.3 MiB
+data_bionano_coverage: 538.18x
+data_pacbio-1_bases: 93.47 Gbp
+data_pacbio-1_bytes: 159.4 GiB
+data_pacbio-1_coverage: 62.31x
+data_pacbio-1_links: s3://genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Petromyzon_marinus/kPetMar1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Petromyzon_marinus/kPetMar1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5462
+data_pacbio_bases: 93.47 Gbp
+data_pacbio_bytes: 159.4 GiB
+data_pacbio_coverage: 62.31x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: kPetMar1:GCA_010993595.1
 genbank_pri: kPetMar1:GCA_010993605.1
 genome_size: 1500000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1587223430
 last_updated: 1587342950
 mito1date: 2020-04-19
-mito1filesize: 5 KiB
+mito1filesize: 4.8 KiB
 mito1length: 16230
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Petromyzon marinus
 name_: Petromyzon_marinus
 pri1date: 2019-12-09
-pri1filesize: 283 MiB
+pri1filesize: 283.1 MiB
 pri1length: 1089034415
 pri1n50ctg: 966156
 pri1n50scf: 10963866

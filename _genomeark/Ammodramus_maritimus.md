@@ -1,18 +1,27 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: seaside sparrow
+data_arima-1_bases: 141.58 Gbp
+data_arima-1_bytes: 71.1 GiB
+data_arima-1_coverage: 108.40x
+data_arima-1_links: s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ammodramus_maritimus/bAmmMai1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammodramus_maritimus/bAmmMai1/genomic_data/arima/
+data_arima-1_scale: 1.8545
 data_arima_bases: 141.58 Gbp
-data_arima_bytes: 71.099 GB
+data_arima_bytes: 71.1 GiB
 data_arima_coverage: 108.40x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/genomic_data/arima/<br>
-data_arima_scale: 1.8545
-data_bionano_bases: 1.47 Gbp
-data_bionano_bytes: 0.801 GB
-data_bionano_coverage: 1.13x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/genomic_data/bionano/<br>
-data_status: '<em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 802.2 MiB
+data_bionano-1_coverage: 395.89x
+data_bionano-1_links: s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ammodramus_maritimus/bAmmMai1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammodramus_maritimus/bAmmMai1/genomic_data/bionano/
+data_bionano-1_scale: 614.6642
+data_bionano_bases: N/A
+data_bionano_bytes: 802.2 MiB
+data_bionano_coverage: 395.89x
+data_status: '<em style="color:forestgreen">Arima</em>'
 genome_size: 1306000000
 genome_size_display: 1.31 Gbp
 genome_size_method: GoAT

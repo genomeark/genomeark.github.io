@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-04-29
-alt1filesize: 283 MiB
+alt1filesize: 283.5 MiB
 alt1length: 1033298757
 alt1n50ctg: 576475
 alt1n50scf: 576475
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Nelson's sparrow
+data_arima-1_bases: 143.86 Gbp
+data_arima-1_bytes: 71.7 GiB
+data_arima-1_coverage: 110.66x
+data_arima-1_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammospiza_nelsoni/bAmmNel1/genomic_data/arima/
+data_arima-1_scale: 1.8683
 data_arima_bases: 143.86 Gbp
-data_arima_bytes: 71.710 GB
+data_arima_bytes: 71.7 GiB
 data_arima_coverage: 110.66x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/arima/<br>
-data_arima_scale: 1.8683
-data_bionano_bases: 1.36 Gbp
-data_bionano_bytes: 0.655 GB
-data_bionano_coverage: 1.05x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/bionano/<br>
-data_pacbiohifi_bam_bases: 194.05 Gbp
-data_pacbiohifi_bam_bytes: 153.260 GB
-data_pacbiohifi_bam_coverage: 149.27x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1792
-data_pacbiohifi_clr_bases: 262.84 Gbp
-data_pacbiohifi_clr_bytes: 563.506 GB
-data_pacbiohifi_clr_coverage: 202.18x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.4344
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 653.6 MiB
+data_bionano-1_coverage: 320.03x
+data_bionano-1_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammospiza_nelsoni/bAmmNel1/genomic_data/bionano/
+data_bionano-1_scale: 607.0153
+data_bionano_bases: N/A
+data_bionano_bytes: 653.6 MiB
+data_bionano_coverage: 320.03x
+data_pacbiohifi_bam-1_bases: 44.37 Gbp
+data_pacbiohifi_bam-1_bytes: 153.3 GiB
+data_pacbiohifi_bam-1_coverage: 34.13x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2696
+data_pacbiohifi_bam_bases: 44.37 Gbp
+data_pacbiohifi_bam_bytes: 153.3 GiB
+data_pacbiohifi_bam_coverage: 34.13x
+data_pacbiohifi_clr-1_bases: 262.77 Gbp
+data_pacbiohifi_clr-1_bytes: 563.4 GiB
+data_pacbiohifi_clr-1_coverage: 202.13x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.4344
+data_pacbiohifi_clr_bases: 262.77 Gbp
+data_pacbiohifi_clr_bytes: 563.4 GiB
+data_pacbiohifi_clr_coverage: 202.13x
+data_pacbiohifi_fqgz-1_bases: 44.56 Gbp
+data_pacbiohifi_fqgz-1_bytes: 35.2 GiB
+data_pacbiohifi_fqgz-1_coverage: 34.27x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.1790
 data_pacbiohifi_fqgz_bases: 44.56 Gbp
-data_pacbiohifi_fqgz_bytes: 35.196 GB
+data_pacbiohifi_fqgz_bytes: 35.2 GiB
 data_pacbiohifi_fqgz_coverage: 34.27x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.1790
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1300000000
 genome_size_display: 1.30 Gbp
 genome_size_method: GoAT
@@ -68,7 +89,7 @@ last_updated: 1651597538
 name: Ammospiza nelsoni
 name_: Ammospiza_nelsoni
 pri1date: 2022-04-29
-pri1filesize: 325 MiB
+pri1filesize: 324.5 MiB
 pri1length: 1185463352
 pri1n50ctg: 10158201
 pri1n50scf: 65395694

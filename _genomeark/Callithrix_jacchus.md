@@ -1,36 +1,64 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common marmoset
+data_10x-1_bases: 193.29 Gbp
+data_10x-1_bytes: 91.5 GiB
+data_10x-1_coverage: 56.35x
+data_10x-1_links: s3://genomeark/species/Callithrix_jacchus/mCalJac1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Callithrix_jacchus/mCalJac1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Callithrix_jacchus/mCalJac1/genomic_data/10x/
+data_10x-1_scale: 1.9675
 data_10x_bases: 193.29 Gbp
-data_10x_bytes: 91.494 GB
+data_10x_bytes: 91.5 GiB
 data_10x_coverage: 56.35x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Callithrix_jacchus/mCalJac1/genomic_data/10x/<br>
-data_10x_scale: 1.9675
+data_arima-1_bases: 354.23 Gbp
+data_arima-1_bytes: 180.3 GiB
+data_arima-1_coverage: 103.27x
+data_arima-1_links: s3://genomeark/species/Callithrix_jacchus/mCalJac1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Callithrix_jacchus/mCalJac1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Callithrix_jacchus/mCalJac1/genomic_data/arima/
+data_arima-1_scale: 1.8301
 data_arima_bases: 354.23 Gbp
-data_arima_bytes: 180.263 GB
+data_arima_bytes: 180.3 GiB
 data_arima_coverage: 103.27x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Callithrix_jacchus/mCalJac1/genomic_data/arima/<br>
-data_arima_scale: 1.8301
-data_bionano_bases: 3.34 Gbp
-data_bionano_bytes: 0.863 GB
-data_bionano_coverage: 0.97x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Callithrix_jacchus/mCalJac1/genomic_data/bionano/<br>
-data_illumina_bases: 485.01 Gbp
-data_illumina_bytes: 237.365 GB
-data_illumina_coverage: 141.40x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Callithrix_jacchus/mCalJac2/genomic_data/illumina/<br>s3://genomeark/species/Callithrix_jacchus/mCalJac3/genomic_data/illumina/<br>
-data_illumina_scale: 1.9030
-data_pacbio_bases: 217.90 Gbp
-data_pacbio_bytes: 378.467 GB
-data_pacbio_coverage: 63.53x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Callithrix_jacchus/mCalJac1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5362
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 837.7 MiB
+data_bionano-1_coverage: 154.52x
+data_bionano-1_links: s3://genomeark/species/Callithrix_jacchus/mCalJac1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Callithrix_jacchus/mCalJac1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Callithrix_jacchus/mCalJac1/genomic_data/bionano/
+data_bionano-1_scale: 603.4082
+data_bionano_bases: N/A
+data_bionano_bytes: 837.7 MiB
+data_bionano_coverage: 154.52x
+data_illumina-2_bases: 234.81 Gbp
+data_illumina-2_bytes: 114.0 GiB
+data_illumina-2_coverage: 68.46x
+data_illumina-2_links: s3://genomeark/species/Callithrix_jacchus/mCalJac2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Callithrix_jacchus/mCalJac2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Callithrix_jacchus/mCalJac2/genomic_data/illumina/
+data_illumina-2_scale: 1.9182
+data_illumina-3_bases: 253.41 Gbp
+data_illumina-3_bytes: 123.4 GiB
+data_illumina-3_coverage: 73.88x
+data_illumina-3_links: s3://genomeark/species/Callithrix_jacchus/mCalJac3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Callithrix_jacchus/mCalJac3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Callithrix_jacchus/mCalJac3/genomic_data/illumina/
+data_illumina-3_scale: 1.9132
+data_illumina_bases: 488.23 Gbp
+data_illumina_bytes: 237.4 GiB
+data_illumina_coverage: 142.34x
+data_pacbio-1_bases: 217.82 Gbp
+data_pacbio-1_bytes: 378.3 GiB
+data_pacbio-1_coverage: 63.50x
+data_pacbio-1_links: s3://genomeark/species/Callithrix_jacchus/mCalJac1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Callithrix_jacchus/mCalJac1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Callithrix_jacchus/mCalJac1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5362
+data_pacbio_bases: 217.82 Gbp
+data_pacbio_bytes: 378.3 GiB
+data_pacbio_coverage: 63.50x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: mCalJac1:GCA_011078405.1
 genbank_pat: mCalJac1:GCA_011100535.2
 genome_size: 3430000000
@@ -39,7 +67,7 @@ genome_size_method: null
 last_raw_data: 1561760568
 last_updated: 1634138099
 mat1date: 2020-02-12
-mat1filesize: 809 MiB
+mat1filesize: 809.5 MiB
 mat1length: 2811151840
 mat1n50ctg: 6019561
 mat1n50scf: 127657425
@@ -68,7 +96,7 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mgd1date: 2020-02-12
-mgd1filesize: 844 MiB
+mgd1filesize: 844.4 MiB
 mgd1length: 2829727687
 mgd1n50ctg: 9933029
 mgd1n50scf: 128529401
@@ -97,7 +125,7 @@ mgd1sizes: |
   </table>
 mgd1version: assembly_curated
 mito1date: 2019-08-20
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16489
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -128,7 +156,7 @@ mito1version: assembly_MT_rockefeller
 name: Callithrix jacchus
 name_: Callithrix_jacchus
 pat1date: 2021-04-25
-pat1filesize: 812 MiB
+pat1filesize: 811.7 MiB
 pat1length: 2727469741
 pat1n50ctg: 9831330
 pat1n50scf: 126104592

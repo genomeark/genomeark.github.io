@@ -1,6 +1,6 @@
 ---
 alt2date: 2018-12-05
-alt2filesize: 140 MiB
+alt2filesize: 139.6 MiB
 alt2length: 486545135
 alt2n50ctg: 409592
 alt2n50scf: 417098
@@ -30,30 +30,47 @@ alt2sizes: |
 alt2version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Indian glassy fish
+data_10x-2_bases: 127.53 Gbp
+data_10x-2_bytes: 81.2 GiB
+data_10x-2_coverage: 231.45x
+data_10x-2_links: s3://genomeark/species/Parambassis_ranga/fParRan2/genomic_data/10x/<br>
+data_10x-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Parambassis_ranga/fParRan2/genomic_data/10x/
+data_10x-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Parambassis_ranga/fParRan2/genomic_data/10x/
+data_10x-2_scale: 1.4631
 data_10x_bases: 127.53 Gbp
-data_10x_bytes: 81.181 GB
+data_10x_bytes: 81.2 GiB
 data_10x_coverage: 231.45x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Parambassis_ranga/fParRan2/genomic_data/10x/<br>
-data_10x_scale: 1.4631
+data_arima-2_bases: 58.97 Gbp
+data_arima-2_bytes: 29.9 GiB
+data_arima-2_coverage: 107.01x
+data_arima-2_links: s3://genomeark/species/Parambassis_ranga/fParRan2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Parambassis_ranga/fParRan2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Parambassis_ranga/fParRan2/genomic_data/arima/
+data_arima-2_scale: 1.8356
 data_arima_bases: 58.97 Gbp
-data_arima_bytes: 29.917 GB
+data_arima_bytes: 29.9 GiB
 data_arima_coverage: 107.01x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Parambassis_ranga/fParRan2/genomic_data/arima/<br>
-data_arima_scale: 1.8356
-data_bionano_bases: 1.02 Gbp
-data_bionano_bytes: 1.081 GB
-data_bionano_coverage: 1.84x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Parambassis_ranga/fParRan2/genomic_data/bionano/<br>
-data_pacbio_bases: 54.99 Gbp
-data_pacbio_bytes: 95.977 GB
-data_pacbio_coverage: 99.80x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Parambassis_ranga/fParRan2/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5336
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-2_bases: N/A
+data_bionano-2_bytes: 1.1 GiB
+data_bionano-2_coverage: 1321.04x
+data_bionano-2_links: s3://genomeark/species/Parambassis_ranga/fParRan2/genomic_data/bionano/<br>
+data_bionano-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Parambassis_ranga/fParRan2/genomic_data/bionano/
+data_bionano-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Parambassis_ranga/fParRan2/genomic_data/bionano/
+data_bionano-2_scale: 633.9651
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 1321.04x
+data_pacbio-2_bases: 54.96 Gbp
+data_pacbio-2_bytes: 95.9 GiB
+data_pacbio-2_coverage: 99.75x
+data_pacbio-2_links: s3://genomeark/species/Parambassis_ranga/fParRan2/genomic_data/pacbio/<br>
+data_pacbio-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Parambassis_ranga/fParRan2/genomic_data/pacbio/
+data_pacbio-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Parambassis_ranga/fParRan2/genomic_data/pacbio/
+data_pacbio-2_scale: 0.5336
+data_pacbio_bases: 54.96 Gbp
+data_pacbio_bytes: 95.9 GiB
+data_pacbio_coverage: 99.75x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fParRan2:GCA_900651595.1
 genbank_pri: fParRan2:GCA_900634625.2
 genome_size: 551012959
@@ -61,7 +78,7 @@ genome_size_display: 0.55 Gbp
 last_raw_data: 1535575225
 last_updated: 1576512992
 mito2date: 2019-12-16
-mito2filesize: 5 KiB
+mito2filesize: 5.0 KiB
 mito2length: 17024
 mito2n50ctg: 17024
 mito2n50scf: 17024
@@ -92,7 +109,7 @@ mito2version: assembly_MT_rockefeller
 name: Parambassis ranga
 name_: Parambassis_ranga
 pri2date: 2018-12-05
-pri2filesize: 144 MiB
+pri2filesize: 143.7 MiB
 pri2length: 551012959
 pri2n50ctg: 5080925
 pri2n50scf: 22993012

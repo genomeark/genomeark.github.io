@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-08-05
-alt1filesize: 181 MiB
+alt1filesize: 181.4 MiB
 alt1length: 637484823
 alt1n50ctg: 508005
 alt1n50scf: 508005
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: milkfish
+data_10x-1_bases: 134.89 Gbp
+data_10x-1_bytes: 80.8 GiB
+data_10x-1_coverage: 205.34x
+data_10x-1_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Chanos_chanos/fChaCha1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chanos_chanos/fChaCha1/genomic_data/10x/
+data_10x-1_scale: 1.5557
 data_10x_bases: 134.89 Gbp
-data_10x_bytes: 80.753 GB
+data_10x_bytes: 80.8 GiB
 data_10x_coverage: 205.34x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/10x/<br>
-data_10x_scale: 1.5557
-data_bionano_bases: 0.80 Gbp
-data_bionano_bytes: 1.060 GB
-data_bionano_coverage: 1.21x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.1 GiB
+data_bionano-1_coverage: 1136.25x
+data_bionano-1_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Chanos_chanos/fChaCha1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chanos_chanos/fChaCha1/genomic_data/bionano/
+data_bionano-1_scale: 656.9592
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 1136.25x
+data_dovetail-1_bases: 122.96 Gbp
+data_dovetail-1_bytes: 81.3 GiB
+data_dovetail-1_coverage: 187.18x
+data_dovetail-1_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Chanos_chanos/fChaCha1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chanos_chanos/fChaCha1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.4093
 data_dovetail_bases: 122.96 Gbp
-data_dovetail_bytes: 81.257 GB
+data_dovetail_bytes: 81.3 GiB
 data_dovetail_coverage: 187.18x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.4093
-data_pacbio_bases: 48.59 Gbp
-data_pacbio_bytes: 82.899 GB
-data_pacbio_coverage: 73.97x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5459
-data_pacbiohifi_bam_bases: 18.65 Gbp
-data_pacbiohifi_bam_bytes: 14.427 GB
-data_pacbiohifi_bam_coverage: 28.40x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.2042
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_pacbio-1_bases: 48.58 Gbp
+data_pacbio-1_bytes: 82.9 GiB
+data_pacbio-1_coverage: 73.94x
+data_pacbio-1_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Chanos_chanos/fChaCha1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chanos_chanos/fChaCha1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5459
+data_pacbio_bases: 48.58 Gbp
+data_pacbio_bytes: 82.9 GiB
+data_pacbio_coverage: 73.94x
+data_pacbiohifi_bam-1_bases: 18.63 Gbp
+data_pacbiohifi_bam-1_bytes: 14.4 GiB
+data_pacbiohifi_bam-1_coverage: 28.37x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Chanos_chanos/fChaCha1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Chanos_chanos/fChaCha1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chanos_chanos/fChaCha1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.2042
+data_pacbiohifi_bam_bases: 18.63 Gbp
+data_pacbiohifi_bam_bytes: 14.4 GiB
+data_pacbiohifi_bam_coverage: 28.37x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: fChaCha1:GCA_902362175.1
 genbank_pri: fChaCha1:GCA_902362185.1
 genome_size: 656912816
@@ -69,7 +90,7 @@ last_updated: 1651685227
 name: Chanos chanos
 name_: Chanos_chanos
 pri1date: 2019-08-05
-pri1filesize: 185 MiB
+pri1filesize: 185.4 MiB
 pri1length: 656912816
 pri1n50ctg: 23134051
 pri1n50scf: 50300218

@@ -1,36 +1,64 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: budgerigar
+data_10x-1_bases: 98.91 Gbp
+data_10x-1_bytes: 50.5 GiB
+data_10x-1_coverage: 80.41x
+data_10x-1_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melopsittacus_undulatus/bMelUnd1/genomic_data/10x/
+data_10x-1_scale: 1.8230
 data_10x_bases: 98.91 Gbp
-data_10x_bytes: 50.530 GB
+data_10x_bytes: 50.5 GiB
 data_10x_coverage: 80.41x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/10x/<br>
-data_10x_scale: 1.8230
+data_arima-1_bases: 100.51 Gbp
+data_arima-1_bytes: 53.2 GiB
+data_arima-1_coverage: 81.72x
+data_arima-1_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melopsittacus_undulatus/bMelUnd1/genomic_data/arima/
+data_arima-1_scale: 1.7581
 data_arima_bases: 100.51 Gbp
-data_arima_bytes: 53.244 GB
+data_arima_bytes: 53.2 GiB
 data_arima_coverage: 81.72x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/arima/<br>
-data_arima_scale: 1.7581
-data_bionano_bases: 1.23 Gbp
-data_bionano_bytes: 0.991 GB
-data_bionano_coverage: 1.00x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/bionano/<br>
-data_illumina_bases: 381.94 Gbp
-data_illumina_bytes: 191.222 GB
-data_illumina_coverage: 310.52x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd2/genomic_data/illumina/<br>s3://genomeark/species/Melopsittacus_undulatus/bMelUnd3/genomic_data/illumina/<br>
-data_illumina_scale: 1.8602
-data_pacbio_bases: 75.04 Gbp
-data_pacbio_bytes: 129.896 GB
-data_pacbio_coverage: 61.01x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5380
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.0 GiB
+data_bionano-1_coverage: 402.68x
+data_bionano-1_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melopsittacus_undulatus/bMelUnd1/genomic_data/bionano/
+data_bionano-1_scale: 475.5080
+data_bionano_bases: N/A
+data_bionano_bytes: 1.0 GiB
+data_bionano_coverage: 402.68x
+data_illumina-2_bases: 199.74 Gbp
+data_illumina-2_bytes: 98.6 GiB
+data_illumina-2_coverage: 162.39x
+data_illumina-2_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Melopsittacus_undulatus/bMelUnd2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melopsittacus_undulatus/bMelUnd2/genomic_data/illumina/
+data_illumina-2_scale: 1.8862
+data_illumina-3_bases: 188.39 Gbp
+data_illumina-3_bytes: 92.6 GiB
+data_illumina-3_coverage: 153.16x
+data_illumina-3_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Melopsittacus_undulatus/bMelUnd3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melopsittacus_undulatus/bMelUnd3/genomic_data/illumina/
+data_illumina-3_scale: 1.8947
+data_illumina_bases: 388.13 Gbp
+data_illumina_bytes: 191.2 GiB
+data_illumina_coverage: 315.55x
+data_pacbio-1_bases: 75.02 Gbp
+data_pacbio-1_bytes: 129.9 GiB
+data_pacbio-1_coverage: 60.99x
+data_pacbio-1_links: s3://genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Melopsittacus_undulatus/bMelUnd1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melopsittacus_undulatus/bMelUnd1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5380
+data_pacbio_bases: 75.02 Gbp
+data_pacbio_bytes: 129.9 GiB
+data_pacbio_coverage: 60.99x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: bMelUnd1:GCA_012275265.1
 genbank_pat: bMelUnd1:GCA_012275275.1
 genome_size: 1230000000
@@ -39,7 +67,7 @@ genome_size_method: null
 last_raw_data: 1567193616
 last_updated: 1582729616
 mat1date: 2019-08-30
-mat1filesize: 317 MiB
+mat1filesize: 317.3 MiB
 mat1length: 1169393027
 mat1n50ctg: 12553612
 mat1n50scf: 75845561
@@ -68,7 +96,7 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mgd1date: 2020-02-04
-mgd1filesize: 336 MiB
+mgd1filesize: 335.5 MiB
 mgd1length: 1171617451
 mgd1n50ctg: 15859735
 mgd1n50scf: 87083378
@@ -97,7 +125,7 @@ mgd1sizes: |
   </table>
 mgd1version: assembly_curated
 mito1date: 2019-08-20
-mito1filesize: 5 KiB
+mito1filesize: 5.1 KiB
 mito1length: 18200
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -128,7 +156,7 @@ mito1version: assembly_MT_rockefeller
 name: Melopsittacus undulatus
 name_: Melopsittacus_undulatus
 pat1date: 2019-08-30
-pat1filesize: 324 MiB
+pat1filesize: 323.8 MiB
 pat1length: 1124753724
 pat1n50ctg: 9580607
 pat1n50scf: 87112318

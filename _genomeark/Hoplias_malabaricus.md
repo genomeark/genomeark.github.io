@@ -1,24 +1,27 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: trahira
+data_arima-1_bases: 57.37 Gbp
+data_arima-1_bytes: 29.5 GiB
+data_arima-1_coverage: 45.82x
+data_arima-1_links: s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoplias_malabaricus/fHopMal1/genomic_data/arima/
+data_arima-1_scale: 1.8088
 data_arima_bases: 57.37 Gbp
-data_arima_bytes: 29.537 GB
+data_arima_bytes: 29.5 GiB
 data_arima_coverage: 45.82x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/arima/<br>
-data_arima_scale: 1.8088
-data_bionano_bases: 1.23 Gbp
-data_bionano_bytes: 0.015 GB
-data_bionano_coverage: 0.98x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/bionano/<br>
+data_pacbiohifi_fqgz-1_bases: 33.64 Gbp
+data_pacbiohifi_fqgz-1_bytes: 24.2 GiB
+data_pacbiohifi_fqgz-1_coverage: 26.87x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2931
 data_pacbiohifi_fqgz_bases: 33.64 Gbp
-data_pacbiohifi_fqgz_bytes: 24.228 GB
+data_pacbiohifi_fqgz_bytes: 24.2 GiB
 data_pacbiohifi_fqgz_coverage: 26.87x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.2931
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1252000000
 genome_size_display: 1.25 Gbp
 genome_size_method: GoAT

@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-02-04
-alt1filesize: 154 MiB
+alt1filesize: 154.1 MiB
 alt1length: 530348589
 alt1n50ctg: 312546
 alt1n50scf: 312546
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: warty frogfish
+data_10x-1_bases: 44.14 Gbp
+data_10x-1_bytes: 25.8 GiB
+data_10x-1_coverage: 72.97x
+data_10x-1_links: s3://genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Antennarius_maculatus/fAntMac1/genomic_data/10x/
+data_10x-1_scale: 1.5959
 data_10x_bases: 44.14 Gbp
-data_10x_bytes: 25.759 GB
+data_10x_bytes: 25.8 GiB
 data_10x_coverage: 72.97x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/10x/<br>
-data_10x_scale: 1.5959
-data_bionano_bases: 0.56 Gbp
-data_bionano_bytes: 1.933 GB
-data_bionano_coverage: 0.93x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/bionano/<br>
-data_pacbio_bases: 85.35 Gbp
-data_pacbio_bytes: 147.534 GB
-data_pacbio_coverage: 141.11x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5388
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.9 GiB
+data_bionano-1_coverage: 1705.08x
+data_bionano-1_links: s3://genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Antennarius_maculatus/fAntMac1/genomic_data/bionano/
+data_bionano-1_scale: 497.1482
+data_bionano_bases: N/A
+data_bionano_bytes: 1.9 GiB
+data_bionano_coverage: 1705.08x
+data_pacbio-1_bases: 85.32 Gbp
+data_pacbio-1_bytes: 147.5 GiB
+data_pacbio-1_coverage: 141.06x
+data_pacbio-1_links: s3://genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Antennarius_maculatus/fAntMac1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5388
+data_pacbio_bases: 85.32 Gbp
+data_pacbio_bytes: 147.5 GiB
+data_pacbio_coverage: 141.06x
+data_phase-1_bases: 72.52 Gbp
+data_phase-1_bytes: 44.8 GiB
+data_phase-1_coverage: 119.89x
+data_phase-1_links: s3://genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/phase/<br>
+data_phase-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/phase/
+data_phase-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Antennarius_maculatus/fAntMac1/genomic_data/phase/
+data_phase-1_scale: 1.5082
 data_phase_bases: 72.52 Gbp
-data_phase_bytes: 44.781 GB
+data_phase_bytes: 44.8 GiB
 data_phase_coverage: 119.89x
-data_phase_files: 666
-data_phase_links: s3://genomeark/species/Antennarius_maculatus/fAntMac1/genomic_data/phase/<br>
-data_phase_scale: 1.5082
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_alt: fAntMac1:GCA_013347815.1
 genbank_pri: fAntMac1:GCA_013358685.1
 genome_size: 604861782
@@ -62,7 +79,7 @@ genome_size_method: meryl
 last_raw_data: 1562750508
 last_updated: 1581331796
 mito1date: 2019-10-05
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 19188
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Antennarius maculatus
 name_: Antennarius_maculatus
 pri1date: 2020-02-04
-pri1filesize: 157 MiB
+pri1filesize: 157.5 MiB
 pri1length: 549930323
 pri1n50ctg: 9068444
 pri1n50scf: 21940471

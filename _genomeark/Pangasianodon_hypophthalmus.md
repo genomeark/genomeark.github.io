@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-12-09
-alt1filesize: 211 MiB
+alt1filesize: 211.4 MiB
 alt1length: 738869872
 alt1n50ctg: 449892
 alt1n50scf: 449892
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Iridescent shark
+data_arima-1_bases: 101.77 Gbp
+data_arima-1_bytes: 45.0 GiB
+data_arima-1_coverage: 133.04x
+data_arima-1_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/arima/
+data_arima-1_scale: 2.1083
 data_arima_bases: 101.77 Gbp
-data_arima_bytes: 44.957 GB
+data_arima_bytes: 45.0 GiB
 data_arima_coverage: 133.04x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/arima/<br>
-data_arima_scale: 2.1083
-data_bionano_bases: 0.89 Gbp
-data_bionano_bytes: 1.651 GB
-data_bionano_coverage: 1.17x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.6 GiB
+data_bionano-1_coverage: 1428.57x
+data_bionano-1_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/bionano/
+data_bionano-1_scale: 620.0477
+data_bionano_bases: N/A
+data_bionano_bytes: 1.6 GiB
+data_bionano_coverage: 1428.57x
+data_pacbiohifi_bam-1_bases: 18.28 Gbp
+data_pacbiohifi_bam-1_bytes: 12.3 GiB
+data_pacbiohifi_bam-1_coverage: 23.90x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.3808
 data_pacbiohifi_bam_bases: 18.28 Gbp
-data_pacbiohifi_bam_bytes: 12.331 GB
+data_pacbiohifi_bam_bytes: 12.3 GiB
 data_pacbiohifi_bam_coverage: 23.90x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.3808
-data_pacbiohifi_clr_bases: 315.70 Gbp
-data_pacbiohifi_clr_bytes: 565.963 GB
-data_pacbiohifi_clr_coverage: 412.69x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5195
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_clr-1_bases: 315.56 Gbp
+data_pacbiohifi_clr-1_bytes: 565.7 GiB
+data_pacbiohifi_clr-1_coverage: 412.51x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5195
+data_pacbiohifi_clr_bases: 315.56 Gbp
+data_pacbiohifi_clr_bytes: 565.7 GiB
+data_pacbiohifi_clr_coverage: 412.51x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 764974446
 genome_size_display: 0.76 Gbp
 last_raw_data: 1651608637
@@ -61,7 +78,7 @@ last_updated: 1651608637
 name: Pangasianodon hypophthalmus
 name_: Pangasianodon_hypophthalmus
 pri1date: 2021-12-09
-pri1filesize: 217 MiB
+pri1filesize: 217.1 MiB
 pri1length: 764974446
 pri1n50ctg: 13007371
 pri1n50scf: 26128932

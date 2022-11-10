@@ -1,39 +1,66 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: gorilla
+data_dovetail-1_bases: 148.47 Gbp
+data_dovetail-1_bytes: 75.6 GiB
+data_dovetail-1_coverage: 42.52x
+data_dovetail-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.8291
 data_dovetail_bases: 148.47 Gbp
-data_dovetail_bytes: 75.595 GB
+data_dovetail_bytes: 75.6 GiB
 data_dovetail_coverage: 42.52x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.8291
-data_illumina_bases: 466.35 Gbp
-data_illumina_bytes: 222.126 GB
-data_illumina_coverage: 133.57x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Gorilla_gorilla/mGorGor2/genomic_data/illumina/<br>s3://genomeark/species/Gorilla_gorilla/mGorGor3/genomic_data/illumina/<br>
-data_illumina_scale: 1.9553
+data_illumina-2_bases: 213.03 Gbp
+data_illumina-2_bytes: 102.2 GiB
+data_illumina-2_coverage: 61.02x
+data_illumina-2_links: s3://genomeark/species/Gorilla_gorilla/mGorGor2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor2/genomic_data/illumina/
+data_illumina-2_scale: 1.9420
+data_illumina-3_bases: 250.56 Gbp
+data_illumina-3_bytes: 120.0 GiB
+data_illumina-3_coverage: 71.76x
+data_illumina-3_links: s3://genomeark/species/Gorilla_gorilla/mGorGor3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor3/genomic_data/illumina/
+data_illumina-3_scale: 1.9452
+data_illumina_bases: 463.59 Gbp
+data_illumina_bytes: 222.1 GiB
+data_illumina_coverage: 132.78x
+data_ont-1_bases: 420.92 Gbp
+data_ont-1_bytes: 369.5 GiB
+data_ont-1_coverage: 120.56x
+data_ont-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/ont/<br>
+data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/ont/
+data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/ont/
+data_ont-1_scale: 1.0608
 data_ont_bases: 420.92 Gbp
-data_ont_bytes: 369.543 GB
+data_ont_bytes: 369.5 GiB
 data_ont_coverage: 120.56x
-data_ont_files: 666
-data_ont_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/ont/<br>
-data_ont_scale: 1.0608
-data_pacbiohifi_clr_bases: 4504.64 Gbp
-data_pacbiohifi_clr_bytes: 8393.902 GB
-data_pacbiohifi_clr_coverage: 1290.19x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.4998
+data_pacbiohifi_clr-1_bases: 4503.32 Gbp
+data_pacbiohifi_clr-1_bytes: 8.2 TiB
+data_pacbiohifi_clr-1_coverage: 1289.81x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.4998
+data_pacbiohifi_clr_bases: 4503.32 Gbp
+data_pacbiohifi_clr_bytes: 8.2 TiB
+data_pacbiohifi_clr_coverage: 1289.81x
+data_pacbiohifi_fqgz-1_bases: 266.14 Gbp
+data_pacbiohifi_fqgz-1_bytes: 198.1 GiB
+data_pacbiohifi_fqgz-1_coverage: 76.23x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2514
 data_pacbiohifi_fqgz_bases: 266.14 Gbp
-data_pacbiohifi_fqgz_bytes: 198.068 GB
+data_pacbiohifi_fqgz_bytes: 198.1 GiB
 data_pacbiohifi_fqgz_coverage: 76.23x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.2514
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 dip1date: 2022-10-05
-dip1filesize: 1 GiB
+dip1filesize: 1.4 GiB
 dip1length: 6889170655
 dip1n50ctg: 151559850
 dip1n50scf: 170822215

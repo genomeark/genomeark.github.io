@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-08-12
-alt1filesize: 958 MiB
+alt1filesize: 0.9 GiB
 alt1length: 3271590920
 alt1n50ctg: 564027
 alt1n50scf: 564027
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Gaboon caecilian
+data_10x-1_bases: 222.66 Gbp
+data_10x-1_bytes: 164.5 GiB
+data_10x-1_coverage: 58.91x
+data_10x-1_links: s3://genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geotrypetes_seraphini/aGeoSer1/genomic_data/10x/
+data_10x-1_scale: 1.2609
 data_10x_bases: 222.66 Gbp
-data_10x_bytes: 164.460 GB
+data_10x_bytes: 164.5 GiB
 data_10x_coverage: 58.91x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/10x/<br>
-data_10x_scale: 1.2609
-data_bionano_bases: 7.09 Gbp
-data_bionano_bytes: 2.169 GB
-data_bionano_coverage: 1.88x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.1 GiB
+data_bionano-1_coverage: 370.46x
+data_bionano-1_links: s3://genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geotrypetes_seraphini/aGeoSer1/genomic_data/bionano/
+data_bionano-1_scale: 607.4208
+data_bionano_bases: N/A
+data_bionano_bytes: 2.1 GiB
+data_bionano_coverage: 370.46x
+data_dovetail-1_bases: 273.04 Gbp
+data_dovetail-1_bytes: 169.7 GiB
+data_dovetail-1_coverage: 72.24x
+data_dovetail-1_links: s3://genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geotrypetes_seraphini/aGeoSer1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.4981
 data_dovetail_bases: 273.04 Gbp
-data_dovetail_bytes: 169.739 GB
+data_dovetail_bytes: 169.7 GiB
 data_dovetail_coverage: 72.24x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.4981
-data_pacbio_bases: 274.75 Gbp
-data_pacbio_bytes: 488.315 GB
-data_pacbio_coverage: 72.70x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5240
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_pacbio-1_bases: 274.65 Gbp
+data_pacbio-1_bytes: 488.1 GiB
+data_pacbio-1_coverage: 72.67x
+data_pacbio-1_links: s3://genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Geotrypetes_seraphini/aGeoSer1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geotrypetes_seraphini/aGeoSer1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5240
+data_pacbio_bases: 274.65 Gbp
+data_pacbio_bytes: 488.1 GiB
+data_pacbio_coverage: 72.67x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: aGeoSer1:GCA_902459495.1
 genbank_pri: aGeoSer1:GCA_902459505.2
 genome_size: 3779413726
@@ -61,7 +78,7 @@ genome_size_display: 3.78 Gbp
 last_raw_data: 1556224643
 last_updated: 1570719802
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 4.8 KiB
 mito1length: 16291
 mito1n50ctg: 16291
 mito1n50scf: 16291
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Geotrypetes seraphini
 name_: Geotrypetes_seraphini
 pri1date: 2019-08-12
-pri1filesize: 1 GiB
+pri1filesize: 1.1 GiB
 pri1length: 3779413726
 pri1n50ctg: 20656571
 pri1n50scf: 272612222

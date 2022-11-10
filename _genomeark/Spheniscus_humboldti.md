@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-03-22
-alt1filesize: 328 MiB
+alt1filesize: 328.2 MiB
 alt1length: 1159977626
 alt1n50ctg: 352302
 alt1n50scf: 352302
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Humboldt's penguin
+data_arima-1_bases: 93.66 Gbp
+data_arima-1_bytes: 48.7 GiB
+data_arima-1_coverage: 58.76x
+data_arima-1_links: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spheniscus_humboldti/bSphHub1/genomic_data/arima/
+data_arima-1_scale: 1.7913
 data_arima_bases: 93.66 Gbp
-data_arima_bytes: 48.695 GB
+data_arima_bytes: 48.7 GiB
 data_arima_coverage: 58.76x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/arima/<br>
-data_arima_scale: 1.7913
-data_bionano_bases: 1.30 Gbp
-data_bionano_bytes: 2.524 GB
-data_bionano_coverage: 0.81x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/bionano/<br>
-data_pacbiohifi_bam_bases: 196.02 Gbp
-data_pacbiohifi_bam_bytes: 153.787 GB
-data_pacbiohifi_bam_coverage: 122.98x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1871
-data_pacbiohifi_clr_bases: 268.70 Gbp
-data_pacbiohifi_clr_bytes: 576.080 GB
-data_pacbiohifi_clr_coverage: 168.57x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.4344
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.5 GiB
+data_bionano-1_coverage: 887.53x
+data_bionano-1_links: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spheniscus_humboldti/bSphHub1/genomic_data/bionano/
+data_bionano-1_scale: 525.7683
+data_bionano_bases: N/A
+data_bionano_bytes: 2.5 GiB
+data_bionano_coverage: 887.53x
+data_pacbiohifi_bam-1_bases: 44.70 Gbp
+data_pacbiohifi_bam-1_bytes: 153.8 GiB
+data_pacbiohifi_bam-1_coverage: 28.04x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spheniscus_humboldti/bSphHub1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2707
+data_pacbiohifi_bam_bases: 44.70 Gbp
+data_pacbiohifi_bam_bytes: 153.8 GiB
+data_pacbiohifi_bam_coverage: 28.04x
+data_pacbiohifi_clr-1_bases: 268.64 Gbp
+data_pacbiohifi_clr-1_bytes: 575.9 GiB
+data_pacbiohifi_clr-1_coverage: 168.53x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spheniscus_humboldti/bSphHub1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.4344
+data_pacbiohifi_clr_bases: 268.64 Gbp
+data_pacbiohifi_clr_bytes: 575.9 GiB
+data_pacbiohifi_clr_coverage: 168.53x
+data_pacbiohifi_fqgz-1_bases: 44.85 Gbp
+data_pacbiohifi_fqgz-1_bytes: 35.2 GiB
+data_pacbiohifi_fqgz-1_coverage: 28.14x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spheniscus_humboldti/bSphHub1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.1870
 data_pacbiohifi_fqgz_bases: 44.85 Gbp
-data_pacbiohifi_fqgz_bytes: 35.192 GB
+data_pacbiohifi_fqgz_bytes: 35.2 GiB
 data_pacbiohifi_fqgz_coverage: 28.14x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.1870
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1594000000
 genome_size_display: 1.59 Gbp
 genome_size_method: GoAT
@@ -68,7 +89,7 @@ last_updated: 1651597110
 name: Spheniscus humboldti
 name_: Spheniscus_humboldti
 pri1date: 2022-03-22
-pri1filesize: 382 MiB
+pri1filesize: 381.9 MiB
 pri1length: 1358357718
 pri1n50ctg: 11028263
 pri1n50scf: 84169648

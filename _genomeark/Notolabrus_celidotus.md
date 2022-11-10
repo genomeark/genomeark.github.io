@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-11-08
-alt1filesize: 224 MiB
+alt1filesize: 224.3 MiB
 alt1length: 770553912
 alt1n50ctg: 381593
 alt1n50scf: 381593
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: spotty wrasse
+data_10x-1_bases: 52.53 Gbp
+data_10x-1_bytes: 26.9 GiB
+data_10x-1_coverage: 52.53x
+data_10x-1_links: s3://genomeark/species/Notolabrus_celidotus/fNotCel1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Notolabrus_celidotus/fNotCel1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Notolabrus_celidotus/fNotCel1/genomic_data/10x/
+data_10x-1_scale: 1.8197
 data_10x_bases: 52.53 Gbp
-data_10x_bytes: 26.884 GB
+data_10x_bytes: 26.9 GiB
 data_10x_coverage: 52.53x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Notolabrus_celidotus/fNotCel1/genomic_data/10x/<br>
-data_10x_scale: 1.8197
+data_arima-1_bases: 228.72 Gbp
+data_arima-1_bytes: 117.0 GiB
+data_arima-1_coverage: 228.72x
+data_arima-1_links: s3://genomeark/species/Notolabrus_celidotus/fNotCel1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Notolabrus_celidotus/fNotCel1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Notolabrus_celidotus/fNotCel1/genomic_data/arima/
+data_arima-1_scale: 1.8212
 data_arima_bases: 228.72 Gbp
-data_arima_bytes: 116.964 GB
+data_arima_bytes: 117.0 GiB
 data_arima_coverage: 228.72x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Notolabrus_celidotus/fNotCel1/genomic_data/arima/<br>
-data_arima_scale: 1.8212
-data_bionano_bases: 1.55 Gbp
-data_bionano_bytes: 2.384 GB
-data_bionano_coverage: 1.55x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Notolabrus_celidotus/fNotCel1/genomic_data/bionano/<br>
-data_pacbio_bases: 71.05 Gbp
-data_pacbio_bytes: 123.727 GB
-data_pacbio_coverage: 71.05x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Notolabrus_celidotus/fNotCel1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5348
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.4 GiB
+data_bionano-1_coverage: 1310.13x
+data_bionano-1_links: s3://genomeark/species/Notolabrus_celidotus/fNotCel1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Notolabrus_celidotus/fNotCel1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Notolabrus_celidotus/fNotCel1/genomic_data/bionano/
+data_bionano-1_scale: 515.8494
+data_bionano_bases: N/A
+data_bionano_bytes: 2.4 GiB
+data_bionano_coverage: 1310.13x
+data_pacbio-1_bases: 71.01 Gbp
+data_pacbio-1_bytes: 123.7 GiB
+data_pacbio-1_coverage: 71.01x
+data_pacbio-1_links: s3://genomeark/species/Notolabrus_celidotus/fNotCel1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Notolabrus_celidotus/fNotCel1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Notolabrus_celidotus/fNotCel1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5348
+data_pacbio_bases: 71.01 Gbp
+data_pacbio_bytes: 123.7 GiB
+data_pacbio_coverage: 71.01x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fNotCel1:GCA_009762545.1
 genbank_pri: fNotCel1:GCA_009762535.1
 genome_size: 1000000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1570122122
 last_updated: 1587251203
 mito1date: 2019-12-14
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16525
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller_nanopore
 name: Notolabrus celidotus
 name_: Notolabrus_celidotus
 pri1date: 2019-11-08
-pri1filesize: 240 MiB
+pri1filesize: 239.6 MiB
 pri1length: 846744262
 pri1n50ctg: 2526821
 pri1n50scf: 35656165

@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-03-24
-alt1filesize: 176 MiB
+alt1filesize: 176.3 MiB
 alt1length: 601666562
 alt1n50ctg: 357560
 alt1n50scf: 357560
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: copperband butterflyfish
+data_10x-1_bases: 94.09 Gbp
+data_10x-1_bytes: 46.5 GiB
+data_10x-1_coverage: 128.18x
+data_10x-1_links: s3://genomeark/species/Chelmon_rostratus/fCheRos1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Chelmon_rostratus/fCheRos1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chelmon_rostratus/fCheRos1/genomic_data/10x/
+data_10x-1_scale: 1.8824
 data_10x_bases: 94.09 Gbp
-data_10x_bytes: 46.549 GB
+data_10x_bytes: 46.5 GiB
 data_10x_coverage: 128.18x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Chelmon_rostratus/fCheRos1/genomic_data/10x/<br>
-data_10x_scale: 1.8824
+data_arima-1_bases: 108.64 Gbp
+data_arima-1_bytes: 64.9 GiB
+data_arima-1_coverage: 148.01x
+data_arima-1_links: s3://genomeark/species/Chelmon_rostratus/fCheRos1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Chelmon_rostratus/fCheRos1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chelmon_rostratus/fCheRos1/genomic_data/arima/
+data_arima-1_scale: 1.5601
 data_arima_bases: 108.64 Gbp
-data_arima_bytes: 64.852 GB
+data_arima_bytes: 64.9 GiB
 data_arima_coverage: 148.01x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Chelmon_rostratus/fCheRos1/genomic_data/arima/<br>
-data_arima_scale: 1.5601
-data_bionano_bases: 0.86 Gbp
-data_bionano_bytes: 1.870 GB
-data_bionano_coverage: 1.17x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Chelmon_rostratus/fCheRos1/genomic_data/bionano/<br>
-data_pacbio_bases: 106.20 Gbp
-data_pacbio_bytes: 183.636 GB
-data_pacbio_coverage: 144.69x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Chelmon_rostratus/fCheRos1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5386
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.9 GiB
+data_bionano-1_coverage: 1688.95x
+data_bionano-1_links: s3://genomeark/species/Chelmon_rostratus/fCheRos1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Chelmon_rostratus/fCheRos1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chelmon_rostratus/fCheRos1/genomic_data/bionano/
+data_bionano-1_scale: 618.1030
+data_bionano_bases: N/A
+data_bionano_bytes: 1.9 GiB
+data_bionano_coverage: 1688.95x
+data_pacbio-1_bases: 106.15 Gbp
+data_pacbio-1_bytes: 183.5 GiB
+data_pacbio-1_coverage: 144.62x
+data_pacbio-1_links: s3://genomeark/species/Chelmon_rostratus/fCheRos1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Chelmon_rostratus/fCheRos1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chelmon_rostratus/fCheRos1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5386
+data_pacbio_bases: 106.15 Gbp
+data_pacbio_bytes: 183.5 GiB
+data_pacbio_coverage: 144.62x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fCheRos1:GCA_017976315.1
 genbank_pri: fCheRos1:GCA_017976325.1
 genome_size: 734000000
@@ -62,7 +79,7 @@ genome_size_method: GoAT
 last_raw_data: 1606990153
 last_updated: 1617106884
 mito1date: 2019-10-01
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16523
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Chelmon rostratus
 name_: Chelmon_rostratus
 pri1date: 2021-03-24
-pri1filesize: 188 MiB
+pri1filesize: 188.4 MiB
 pri1length: 644191893
 pri1n50ctg: 15108662
 pri1n50scf: 27561893

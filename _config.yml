@@ -140,7 +140,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: vgp
+  github: genomeark/genomeark.github.io
   instagram:
   linkedin:
   pinterest:
@@ -206,3 +206,4 @@ exclude:
   - README.md
   - README.txt
   - CNAME
+  - _layouts/.#genomeark.html

@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-01-31
-alt1filesize: 582 MiB
+alt1filesize: 582.1 MiB
 alt1length: 1961129424
 alt1n50ctg: 385939
 alt1n50scf: 385939
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Goode's thornscrub tortoise
+data_10x-1_bases: 300.39 Gbp
+data_10x-1_bytes: 138.7 GiB
+data_10x-1_coverage: 111.90x
+data_10x-1_links: s3://genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_evgoodei/rGopEvg1/genomic_data/10x/
+data_10x-1_scale: 2.0171
 data_10x_bases: 300.39 Gbp
-data_10x_bytes: 138.694 GB
+data_10x_bytes: 138.7 GiB
 data_10x_coverage: 111.90x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/10x/<br>
-data_10x_scale: 2.0171
+data_arima-1_bases: 186.79 Gbp
+data_arima-1_bytes: 100.2 GiB
+data_arima-1_coverage: 69.58x
+data_arima-1_links: s3://genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_evgoodei/rGopEvg1/genomic_data/arima/
+data_arima-1_scale: 1.7367
 data_arima_bases: 186.79 Gbp
-data_arima_bytes: 100.166 GB
+data_arima_bytes: 100.2 GiB
 data_arima_coverage: 69.58x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/arima/<br>
-data_arima_scale: 1.7367
-data_bionano_bases: 4.32 Gbp
-data_bionano_bytes: 1.704 GB
-data_bionano_coverage: 1.61x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/bionano/<br>
-data_pacbio_bases: 156.28 Gbp
-data_pacbio_bytes: 271.943 GB
-data_pacbio_coverage: 58.22x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5352
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.7 GiB
+data_bionano-1_coverage: 370.34x
+data_bionano-1_links: s3://genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_evgoodei/rGopEvg1/genomic_data/bionano/
+data_bionano-1_scale: 547.0962
+data_bionano_bases: N/A
+data_bionano_bytes: 1.7 GiB
+data_bionano_coverage: 370.34x
+data_pacbio-1_bases: 156.21 Gbp
+data_pacbio-1_bytes: 271.8 GiB
+data_pacbio-1_coverage: 58.19x
+data_pacbio-1_links: s3://genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gopherus_evgoodei/rGopEvg1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_evgoodei/rGopEvg1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5352
+data_pacbio_bases: 156.21 Gbp
+data_pacbio_bytes: 271.8 GiB
+data_pacbio_coverage: 58.19x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: rGopEvg1:GCA_007399395.1
 genbank_pri: rGopEvg1:GCA_007399415.1
 genome_size: 2684436481
@@ -61,7 +78,7 @@ genome_size_display: 2.68 Gbp
 last_raw_data: 1529613892
 last_updated: 1570720002
 mito1date: 2019-10-02
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16845
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Gopherus evgoodei
 name_: Gopherus_evgoodei
 pri1date: 2019-06-03
-pri1filesize: 656 MiB
+pri1filesize: 655.9 MiB
 pri1length: 2298547364
 pri1n50ctg: 10520693
 pri1n50scf: 131611970

@@ -1,6 +1,6 @@
 ---
 alt2date: 2021-03-05
-alt2filesize: 166 MiB
+alt2filesize: 166.0 MiB
 alt2length: 594660453
 alt2n50ctg: 493489
 alt2n50scf: 493489
@@ -30,25 +30,46 @@ alt2sizes: |
 alt2version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: banded archerfish
+data_arima-2_bases: 44.32 Gbp
+data_arima-2_bytes: 20.8 GiB
+data_arima-2_coverage: 71.30x
+data_arima-2_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Toxotes_jaculatrix/fToxJac2/genomic_data/arima/
+data_arima-2_scale: 1.9865
 data_arima_bases: 44.32 Gbp
-data_arima_bytes: 20.776 GB
+data_arima_bytes: 20.8 GiB
 data_arima_coverage: 71.30x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/arima/<br>
-data_arima_scale: 1.9865
-data_bionano_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/bionano/<br>
+data_bionano-2_bases: N/A
+data_bionano-2_bytes: 1.3 GiB
+data_bionano-2_coverage: 1518.88x
+data_bionano-2_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/bionano/<br>
+data_bionano-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/bionano/
+data_bionano-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Toxotes_jaculatrix/fToxJac2/genomic_data/bionano/
+data_bionano-2_scale: 671.5562
+data_bionano_bases: N/A
+data_bionano_bytes: 1.3 GiB
+data_bionano_coverage: 1518.88x
+data_pacbiohifi_bam-2_bases: 27.34 Gbp
+data_pacbiohifi_bam-2_bytes: 20.6 GiB
+data_pacbiohifi_bam-2_coverage: 43.99x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 1.2353
 data_pacbiohifi_bam_bases: 27.34 Gbp
-data_pacbiohifi_bam_bytes: 20.611 GB
+data_pacbiohifi_bam_bytes: 20.6 GiB
 data_pacbiohifi_bam_coverage: 43.99x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.2353
-data_pacbiohifi_clr_bases: 408.26 Gbp
-data_pacbiohifi_clr_bytes: 730.499 GB
-data_pacbiohifi_clr_coverage: 656.90x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5205
+data_pacbiohifi_clr-2_bases: 408.11 Gbp
+data_pacbiohifi_clr-2_bytes: 730.2 GiB
+data_pacbiohifi_clr-2_coverage: 656.65x
+data_pacbiohifi_clr-2_links: s3://genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_scale: 0.5205
+data_pacbiohifi_clr_bases: 408.11 Gbp
+data_pacbiohifi_clr_bytes: 730.2 GiB
+data_pacbiohifi_clr_coverage: 656.65x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fToxJac2:GCA_017976295.1
 genbank_pri: fToxJac2:GCA_017976425.1
@@ -59,7 +80,7 @@ last_updated: 1651601087
 name: Toxotes jaculatrix
 name_: Toxotes_jaculatrix
 pri2date: 2021-03-05
-pri2filesize: 171 MiB
+pri2filesize: 171.2 MiB
 pri2length: 621503431
 pri2n50ctg: 15555772
 pri2n50scf: 26859436

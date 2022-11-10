@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-03-05
-alt1filesize: 13 MiB
+alt1filesize: 12.6 MiB
 alt1length: 43703874
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: tire-track eel
+data_10x-1_bases: 115.86 Gbp
+data_10x-1_bytes: 79.4 GiB
+data_10x-1_coverage: 153.10x
+data_10x-1_links: s3://genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mastacembelus_armatus/fMasArm1/genomic_data/10x/
+data_10x-1_scale: 1.3595
 data_10x_bases: 115.86 Gbp
-data_10x_bytes: 79.367 GB
+data_10x_bytes: 79.4 GiB
 data_10x_coverage: 153.10x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/10x/<br>
-data_10x_scale: 1.3595
+data_arima-1_bases: 148.15 Gbp
+data_arima-1_bytes: 71.3 GiB
+data_arima-1_coverage: 195.77x
+data_arima-1_links: s3://genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mastacembelus_armatus/fMasArm1/genomic_data/arima/
+data_arima-1_scale: 1.9357
 data_arima_bases: 148.15 Gbp
-data_arima_bytes: 71.281 GB
+data_arima_bytes: 71.3 GiB
 data_arima_coverage: 195.77x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/arima/<br>
-data_arima_scale: 1.9357
-data_bionano_bases: 2.08 Gbp
-data_bionano_bytes: 2.687 GB
-data_bionano_coverage: 2.75x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/bionano/<br>
-data_pacbio_bases: 29.93 Gbp
-data_pacbio_bytes: 53.849 GB
-data_pacbio_coverage: 39.55x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5176
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.7 GiB
+data_bionano-1_coverage: 2140.44x
+data_bionano-1_links: s3://genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mastacembelus_armatus/fMasArm1/genomic_data/bionano/
+data_bionano-1_scale: 562.2273
+data_bionano_bases: N/A
+data_bionano_bytes: 2.7 GiB
+data_bionano_coverage: 2140.44x
+data_pacbio-1_bases: 29.91 Gbp
+data_pacbio-1_bytes: 53.8 GiB
+data_pacbio-1_coverage: 39.52x
+data_pacbio-1_links: s3://genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mastacembelus_armatus/fMasArm1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mastacembelus_armatus/fMasArm1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5176
+data_pacbio_bases: 29.91 Gbp
+data_pacbio_bytes: 53.8 GiB
+data_pacbio_coverage: 39.52x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fMasArm1:GCA_900700395.1
 genbank_pri: fMasArm1:GCA_900324485.3
 genome_size: 756753344
@@ -61,7 +78,7 @@ genome_size_display: 0.76 Gbp
 last_raw_data: 1520585714
 last_updated: 1570719801
 mito1date: 2019-10-02
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16490
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Mastacembelus armatus
 name_: Mastacembelus_armatus
 pri1date: 2019-03-05
-pri1filesize: 169 MiB
+pri1filesize: 168.6 MiB
 pri1length: 591935101
 pri1n50ctg: 4763706
 pri1n50scf: 23286013

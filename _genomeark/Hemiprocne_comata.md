@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-09-24
-alt1filesize: 307 MiB
+alt1filesize: 307.3 MiB
 alt1length: 1052608110
 alt1n50ctg: 1936339
 alt1n50scf: 1936339
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: whiskered treeswift
+data_10x-1_bases: 73.94 Gbp
+data_10x-1_bytes: 37.3 GiB
+data_10x-1_coverage: 73.94x
+data_10x-1_links: s3://genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/genomic_data/10x/
+data_10x-1_scale: 1.8449
 data_10x_bases: 73.94 Gbp
-data_10x_bytes: 37.324 GB
+data_10x_bytes: 37.3 GiB
 data_10x_coverage: 73.94x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/10x/<br>
-data_10x_scale: 1.8449
+data_arima-1_bases: 130.36 Gbp
+data_arima-1_bytes: 73.0 GiB
+data_arima-1_coverage: 130.36x
+data_arima-1_links: s3://genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/genomic_data/arima/
+data_arima-1_scale: 1.6622
 data_arima_bases: 130.36 Gbp
-data_arima_bytes: 73.038 GB
+data_arima_bytes: 73.0 GiB
 data_arima_coverage: 130.36x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/arima/<br>
-data_arima_scale: 1.6622
-data_bionano_bases: 1.31 Gbp
-data_bionano_bytes: 2.152 GB
-data_bionano_coverage: 1.31x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/bionano/<br>
-data_pacbio_bases: 79.91 Gbp
-data_pacbio_bytes: 139.859 GB
-data_pacbio_coverage: 79.91x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5321
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.1 GiB
+data_bionano-1_coverage: 1112.43x
+data_bionano-1_links: s3://genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/genomic_data/bionano/
+data_bionano-1_scale: 485.7246
+data_bionano_bases: N/A
+data_bionano_bytes: 2.1 GiB
+data_bionano_coverage: 1112.43x
+data_pacbio-1_bases: 79.87 Gbp
+data_pacbio-1_bytes: 139.8 GiB
+data_pacbio-1_coverage: 79.87x
+data_pacbio-1_links: s3://genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hemiprocne_comata/bHemCom1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5321
+data_pacbio_bases: 79.87 Gbp
+data_pacbio_bytes: 139.8 GiB
+data_pacbio_coverage: 79.87x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bHemCom1:GCA_020745695.1
 genbank_pri: bHemCom1:GCA_020745705.1
 genome_size: 1000000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1594744121
 last_updated: 1632508751
 mito1date: 2019-12-04
-mito1filesize: 5 KiB
+mito1filesize: 5.1 KiB
 mito1length: 19122
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Hemiprocne comata
 name_: Hemiprocne_comata
 pri1date: 2021-09-24
-pri1filesize: 337 MiB
+pri1filesize: 337.3 MiB
 pri1length: 1164793941
 pri1n50ctg: 25637051
 pri1n50scf: 123375213

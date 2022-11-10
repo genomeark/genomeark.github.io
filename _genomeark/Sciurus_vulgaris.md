@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-10-27
-alt1filesize: 398 MiB
+alt1filesize: 398.3 MiB
 alt1length: 1366022868
 alt1n50ctg: 192948
 alt1n50scf: 193053
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Eurasian red squirrel
+data_10x-1_bases: 221.64 Gbp
+data_10x-1_bytes: 148.5 GiB
+data_10x-1_coverage: 76.99x
+data_10x-1_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_vulgaris/mSciVul1/genomic_data/10x/
+data_10x-1_scale: 1.3896
 data_10x_bases: 221.64 Gbp
-data_10x_bytes: 148.542 GB
+data_10x_bytes: 148.5 GiB
 data_10x_coverage: 76.99x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/10x/<br>
-data_10x_scale: 1.3896
+data_arima-1_bases: 46.84 Gbp
+data_arima-1_bytes: 24.9 GiB
+data_arima-1_coverage: 16.27x
+data_arima-1_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_vulgaris/mSciVul1/genomic_data/arima/
+data_arima-1_scale: 1.7498
 data_arima_bases: 46.84 Gbp
-data_arima_bytes: 24.928 GB
+data_arima_bytes: 24.9 GiB
 data_arima_coverage: 16.27x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/arima/<br>
-data_arima_scale: 1.7498
-data_bionano_bases: 3.27 Gbp
-data_bionano_bytes: 0.977 GB
-data_bionano_coverage: 1.14x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/bionano/<br>
-data_pacbio_bases: 207.43 Gbp
-data_pacbio_bytes: 363.403 GB
-data_pacbio_coverage: 72.06x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5316
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 0.9 GiB
+data_bionano-1_coverage: 184.05x
+data_bionano-1_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_vulgaris/mSciVul1/genomic_data/bionano/
+data_bionano-1_scale: 532.7531
+data_bionano_bases: N/A
+data_bionano_bytes: 0.9 GiB
+data_bionano_coverage: 184.05x
+data_pacbio-1_bases: 207.32 Gbp
+data_pacbio-1_bytes: 363.2 GiB
+data_pacbio-1_coverage: 72.02x
+data_pacbio-1_links: s3://genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sciurus_vulgaris/mSciVul1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_vulgaris/mSciVul1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5316
+data_pacbio_bases: 207.32 Gbp
+data_pacbio_bytes: 363.2 GiB
+data_pacbio_coverage: 72.02x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: mSciVul1:GCA_902685485.1
 genbank_pri: mSciVul1:GCA_902686455.2
 genome_size: 2878591032
@@ -61,7 +78,7 @@ genome_size_display: 2.88 Gbp
 last_raw_data: 1591286461
 last_updated: 1591286461
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16511
 mito1n50ctg: 16511
 mito1n50scf: 16511
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Sciurus vulgaris
 name_: Sciurus_vulgaris
 pri1date: 2019-10-27
-pri1filesize: 791 MiB
+pri1filesize: 791.3 MiB
 pri1length: 2878591032
 pri1n50ctg: 16327774
 pri1n50scf: 153872958

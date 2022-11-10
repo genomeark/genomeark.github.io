@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-07-10
-alt1filesize: 164 MiB
+alt1filesize: 163.7 MiB
 alt1length: 584119146
 alt1n50ctg: 278226
 alt1n50scf: 278683
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Atlantic cod
+data_10x-1_bases: 111.84 Gbp
+data_10x-1_bytes: 73.6 GiB
+data_10x-1_coverage: 166.94x
+data_10x-1_links: s3://genomeark/species/Gadus_morhua/fGadMor1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gadus_morhua/fGadMor1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gadus_morhua/fGadMor1/genomic_data/10x/
+data_10x-1_scale: 1.4147
 data_10x_bases: 111.84 Gbp
-data_10x_bytes: 73.626 GB
+data_10x_bytes: 73.6 GiB
 data_10x_coverage: 166.94x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Gadus_morhua/fGadMor1/genomic_data/10x/<br>
-data_10x_scale: 1.4147
+data_arima-1_bases: 106.89 Gbp
+data_arima-1_bytes: 69.9 GiB
+data_arima-1_coverage: 159.54x
+data_arima-1_links: s3://genomeark/species/Gadus_morhua/fGadMor1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gadus_morhua/fGadMor1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gadus_morhua/fGadMor1/genomic_data/arima/
+data_arima-1_scale: 1.4243
 data_arima_bases: 106.89 Gbp
-data_arima_bytes: 69.890 GB
+data_arima_bytes: 69.9 GiB
 data_arima_coverage: 159.54x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Gadus_morhua/fGadMor1/genomic_data/arima/<br>
-data_arima_scale: 1.4243
-data_bionano_bases: 0.86 Gbp
-data_bionano_bytes: 1.116 GB
-data_bionano_coverage: 1.29x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Gadus_morhua/fGadMor1/genomic_data/bionano/<br>
-data_pacbio_bases: 87.38 Gbp
-data_pacbio_bytes: 271.813 GB
-data_pacbio_coverage: 130.43x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Gadus_morhua/fGadMor1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.2994
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.1 GiB
+data_bionano-1_coverage: 1416.82x
+data_bionano-1_links: s3://genomeark/species/Gadus_morhua/fGadMor1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gadus_morhua/fGadMor1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gadus_morhua/fGadMor1/genomic_data/bionano/
+data_bionano-1_scale: 793.4282
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 1416.82x
+data_pacbio-1_bases: 87.34 Gbp
+data_pacbio-1_bytes: 271.7 GiB
+data_pacbio-1_coverage: 130.37x
+data_pacbio-1_links: s3://genomeark/species/Gadus_morhua/fGadMor1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gadus_morhua/fGadMor1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gadus_morhua/fGadMor1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.2994
+data_pacbio_bases: 87.34 Gbp
+data_pacbio_bytes: 271.7 GiB
+data_pacbio_coverage: 130.37x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fGadMor3:GCA_902167395.1
 genbank_pri: fGadMor3:GCA_902167405.1
 genome_size: 669949713
@@ -63,7 +80,7 @@ last_updated: 1562780932
 name: Gadus morhua
 name_: Gadus_morhua
 pri1date: 2019-07-10
-pri1filesize: 181 MiB
+pri1filesize: 180.5 MiB
 pri1length: 669949713
 pri1n50ctg: 1015663
 pri1n50scf: 28732775

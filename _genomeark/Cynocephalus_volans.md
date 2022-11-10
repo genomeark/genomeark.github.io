@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-05-20
-alt1filesize: 706 MiB
+alt1filesize: 706.2 MiB
 alt1length: 2453279509
 alt1n50ctg: 2450335
 alt1n50scf: 2450335
@@ -30,30 +30,46 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Philippine flying lemur
+data_arima-1_bases: 247.97 Gbp
+data_arima-1_bytes: 123.9 GiB
+data_arima-1_coverage: 69.77x
+data_arima-1_links: s3://genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cynocephalus_volans/mCynVol1/genomic_data/arima/
+data_arima-1_scale: 1.8637
 data_arima_bases: 247.97 Gbp
-data_arima_bytes: 123.917 GB
+data_arima_bytes: 123.9 GiB
 data_arima_coverage: 69.77x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/arima/<br>
-data_arima_scale: 1.8637
-data_pacbiohifi_bam_bases: 379.04 Gbp
-data_pacbiohifi_bam_bytes: 385.046 GB
-data_pacbiohifi_bam_coverage: 106.65x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 0.9168
-data_pacbiohifi_clr_bases: 352.06 Gbp
-data_pacbiohifi_clr_bytes: 860.810 GB
-data_pacbiohifi_clr_coverage: 99.06x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.3809
+data_pacbiohifi_bam-1_bases: 113.57 Gbp
+data_pacbiohifi_bam-1_bytes: 385.0 GiB
+data_pacbiohifi_bam-1_coverage: 31.96x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2747
+data_pacbiohifi_bam_bases: 113.57 Gbp
+data_pacbiohifi_bam_bytes: 385.0 GiB
+data_pacbiohifi_bam_coverage: 31.96x
+data_pacbiohifi_clr-1_bases: 351.98 Gbp
+data_pacbiohifi_clr-1_bytes: 860.6 GiB
+data_pacbiohifi_clr-1_coverage: 99.04x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.3809
+data_pacbiohifi_clr_bases: 351.98 Gbp
+data_pacbiohifi_clr_bytes: 860.6 GiB
+data_pacbiohifi_clr_coverage: 99.04x
+data_pacbiohifi_fqgz-1_bases: 113.11 Gbp
+data_pacbiohifi_fqgz-1_bytes: 86.5 GiB
+data_pacbiohifi_fqgz-1_coverage: 31.83x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2177
 data_pacbiohifi_fqgz_bases: 113.11 Gbp
-data_pacbiohifi_fqgz_bytes: 86.510 GB
+data_pacbiohifi_fqgz_bytes: 86.5 GiB
 data_pacbiohifi_fqgz_coverage: 31.83x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.2177
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 3554000000
 genome_size_display: 3.55 Gbp
@@ -63,7 +79,7 @@ last_updated: 1662580135
 name: Cynocephalus volans
 name_: Cynocephalus_volans
 pri1date: 2022-05-20
-pri1filesize: 796 MiB
+pri1filesize: 796.3 MiB
 pri1length: 2814418120
 pri1n50ctg: 51993623
 pri1n50scf: 152846236

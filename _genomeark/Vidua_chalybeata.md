@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-01-17
-alt1filesize: 41 MiB
+alt1filesize: 41.4 MiB
 alt1length: 154870056
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,24 +30,36 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: village indigobird
+data_arima-2_bases: 111.71 Gbp
+data_arima-2_bytes: 69.2 GiB
+data_arima-2_coverage: 96.30x
+data_arima-2_links: s3://genomeark/species/Vidua_chalybeata/bVidCha2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Vidua_chalybeata/bVidCha2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vidua_chalybeata/bVidCha2/genomic_data/arima/
+data_arima-2_scale: 1.5036
 data_arima_bases: 111.71 Gbp
-data_arima_bytes: 69.192 GB
+data_arima_bytes: 69.2 GiB
 data_arima_coverage: 96.30x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Vidua_chalybeata/bVidCha2/genomic_data/arima/<br>
-data_arima_scale: 1.5036
+data_illumina-1_bases: 86.65 Gbp
+data_illumina-1_bytes: 45.1 GiB
+data_illumina-1_coverage: 74.70x
+data_illumina-1_links: s3://genomeark/species/Vidua_chalybeata/bVidCha1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Vidua_chalybeata/bVidCha1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vidua_chalybeata/bVidCha1/genomic_data/illumina/
+data_illumina-1_scale: 1.7891
 data_illumina_bases: 86.65 Gbp
-data_illumina_bytes: 45.106 GB
+data_illumina_bytes: 45.1 GiB
 data_illumina_coverage: 74.70x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Vidua_chalybeata/bVidCha1/genomic_data/illumina/<br>
-data_illumina_scale: 1.7891
-data_pacbio_bases: 33.94 Gbp
-data_pacbio_bytes: 121.194 GB
-data_pacbio_coverage: 29.26x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Vidua_chalybeata/bVidCha1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.2608
+data_pacbio-1_bases: 33.93 Gbp
+data_pacbio-1_bytes: 121.2 GiB
+data_pacbio-1_coverage: 29.25x
+data_pacbio-1_links: s3://genomeark/species/Vidua_chalybeata/bVidCha1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Vidua_chalybeata/bVidCha1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vidua_chalybeata/bVidCha1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.2608
+data_pacbio_bases: 33.93 Gbp
+data_pacbio_bytes: 121.2 GiB
+data_pacbio_coverage: 29.25x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 1160000000
 genome_size_display: 1.16 Gbp
@@ -55,7 +67,7 @@ genome_size_method: null
 last_raw_data: 1610479235
 last_updated: 1642416676
 mito1date: 2021-04-02
-mito1filesize: 5 KiB
+mito1filesize: 5.1 KiB
 mito1length: 16892
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -86,7 +98,7 @@ mito1version: assembly_vgp_standard_1.6
 name: Vidua chalybeata
 name_: Vidua_chalybeata
 pri1date: 2022-01-17
-pri1filesize: 311 MiB
+pri1filesize: 310.9 MiB
 pri1length: 1080457469
 pri1n50ctg: 13825515
 pri1n50scf: 72553174

@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-08-20
-alt1filesize: 347 MiB
+alt1filesize: 347.0 MiB
 alt1length: 1175438911
 alt1n50ctg: 4333961
 alt1n50scf: 4333961
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common tern
+data_10x-1_bases: 240.03 Gbp
+data_10x-1_bytes: 123.4 GiB
+data_10x-1_coverage: 171.45x
+data_10x-1_links: s3://genomeark/species/Sterna_hirundo/bSteHir1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sterna_hirundo/bSteHir1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sterna_hirundo/bSteHir1/genomic_data/10x/
+data_10x-1_scale: 1.8123
 data_10x_bases: 240.03 Gbp
-data_10x_bytes: 123.351 GB
+data_10x_bytes: 123.4 GiB
 data_10x_coverage: 171.45x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Sterna_hirundo/bSteHir1/genomic_data/10x/<br>
-data_10x_scale: 1.8123
+data_arima-1_bases: 111.42 Gbp
+data_arima-1_bytes: 57.1 GiB
+data_arima-1_coverage: 79.59x
+data_arima-1_links: s3://genomeark/species/Sterna_hirundo/bSteHir1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sterna_hirundo/bSteHir1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sterna_hirundo/bSteHir1/genomic_data/arima/
+data_arima-1_scale: 1.8185
 data_arima_bases: 111.42 Gbp
-data_arima_bytes: 57.063 GB
+data_arima_bytes: 57.1 GiB
 data_arima_coverage: 79.59x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Sterna_hirundo/bSteHir1/genomic_data/arima/<br>
-data_arima_scale: 1.8185
-data_bionano_bases: 1.39 Gbp
-data_bionano_bytes: 1.693 GB
-data_bionano_coverage: 0.99x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Sterna_hirundo/bSteHir1/genomic_data/bionano/<br>
-data_pacbio_bases: 95.14 Gbp
-data_pacbio_bytes: 162.558 GB
-data_pacbio_coverage: 67.96x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Sterna_hirundo/bSteHir1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5451
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.7 GiB
+data_bionano-1_coverage: 698.35x
+data_bionano-1_links: s3://genomeark/species/Sterna_hirundo/bSteHir1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sterna_hirundo/bSteHir1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sterna_hirundo/bSteHir1/genomic_data/bionano/
+data_bionano-1_scale: 544.1267
+data_bionano_bases: N/A
+data_bionano_bytes: 1.7 GiB
+data_bionano_coverage: 698.35x
+data_pacbio-1_bases: 95.11 Gbp
+data_pacbio-1_bytes: 162.5 GiB
+data_pacbio-1_coverage: 67.94x
+data_pacbio-1_links: s3://genomeark/species/Sterna_hirundo/bSteHir1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sterna_hirundo/bSteHir1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sterna_hirundo/bSteHir1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5451
+data_pacbio_bases: 95.11 Gbp
+data_pacbio_bytes: 162.5 GiB
+data_pacbio_coverage: 67.94x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bSteHir1:GCA_009819645.1
 genbank_pri: bSteHir1:GCA_009819605.1
 genome_size: 1400000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1559739259
 last_updated: 1569703950
 mito1date: 2019-09-18
-mito1filesize: 6 KiB
+mito1filesize: 5.7 KiB
 mito1length: 19053
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Sterna hirundo
 name_: Sterna_hirundo
 pri1date: 2019-08-20
-pri1filesize: 358 MiB
+pri1filesize: 358.3 MiB
 pri1length: 1229953488
 pri1n50ctg: 18745483
 pri1n50scf: 83246160

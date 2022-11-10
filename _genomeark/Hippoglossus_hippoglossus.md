@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-11-25
-alt1filesize: 199 MiB
+alt1filesize: 198.8 MiB
 alt1length: 676690381
 alt1n50ctg: 257952
 alt1n50scf: 258427
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Atlantic halibut
+data_10x-1_bases: 73.63 Gbp
+data_10x-1_bytes: 37.7 GiB
+data_10x-1_coverage: 73.63x
+data_10x-1_links: s3://genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/10x/
+data_10x-1_scale: 1.8206
 data_10x_bases: 73.63 Gbp
-data_10x_bytes: 37.667 GB
+data_10x_bytes: 37.7 GiB
 data_10x_coverage: 73.63x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/10x/<br>
-data_10x_scale: 1.8206
+data_arima-1_bases: 192.21 Gbp
+data_arima-1_bytes: 100.4 GiB
+data_arima-1_coverage: 192.21x
+data_arima-1_links: s3://genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/arima/
+data_arima-1_scale: 1.7833
 data_arima_bases: 192.21 Gbp
-data_arima_bytes: 100.381 GB
+data_arima_bytes: 100.4 GiB
 data_arima_coverage: 192.21x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/arima/<br>
-data_arima_scale: 1.7833
-data_bionano_bases: 0.85 Gbp
-data_bionano_bytes: 0.669 GB
-data_bionano_coverage: 0.85x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/bionano/<br>
-data_pacbio_bases: 56.32 Gbp
-data_pacbio_bytes: 97.581 GB
-data_pacbio_coverage: 56.32x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5375
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 677.0 MiB
+data_bionano-1_coverage: 496.25x
+data_bionano-1_links: s3://genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/bionano/
+data_bionano-1_scale: 699.0028
+data_bionano_bases: N/A
+data_bionano_bytes: 677.0 MiB
+data_bionano_coverage: 496.25x
+data_pacbio-1_bases: 56.29 Gbp
+data_pacbio-1_bytes: 97.5 GiB
+data_pacbio-1_coverage: 56.29x
+data_pacbio-1_links: s3://genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5375
+data_pacbio_bases: 56.29 Gbp
+data_pacbio_bytes: 97.5 GiB
+data_pacbio_coverage: 56.29x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fHipHip1:GCA_009819745.1
 genbank_pri: fHipHip1:GCA_009819705.1
 genome_size: 1000000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1570030503
 last_updated: 1574789906
 mito1date: 2019-10-04
-mito1filesize: 5 KiB
+mito1filesize: 5.1 KiB
 mito1length: 17607
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Hippoglossus hippoglossus
 name_: Hippoglossus_hippoglossus
 pri1date: 2019-11-25
-pri1filesize: 172 MiB
+pri1filesize: 172.1 MiB
 pri1length: 596775069
 pri1n50ctg: 1520163
 pri1n50scf: 21256114

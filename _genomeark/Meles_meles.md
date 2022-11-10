@@ -1,36 +1,64 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: European badger
+data_10x-3_bases: 131.47 Gbp
+data_10x-3_bytes: 81.1 GiB
+data_10x-3_coverage: 46.92x
+data_10x-3_links: s3://genomeark/species/Meles_meles/mMelMel3/genomic_data/10x/<br>
+data_10x-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Meles_meles/mMelMel3/genomic_data/10x/
+data_10x-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Meles_meles/mMelMel3/genomic_data/10x/
+data_10x-3_scale: 1.5091
 data_10x_bases: 131.47 Gbp
-data_10x_bytes: 81.138 GB
+data_10x_bytes: 81.1 GiB
 data_10x_coverage: 46.92x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Meles_meles/mMelMel3/genomic_data/10x/<br>
-data_10x_scale: 1.5091
+data_arima-3_bases: 364.74 Gbp
+data_arima-3_bytes: 181.2 GiB
+data_arima-3_coverage: 130.16x
+data_arima-3_links: s3://genomeark/species/Meles_meles/mMelMel3/genomic_data/arima/<br>
+data_arima-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Meles_meles/mMelMel3/genomic_data/arima/
+data_arima-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Meles_meles/mMelMel3/genomic_data/arima/
+data_arima-3_scale: 1.8748
 data_arima_bases: 364.74 Gbp
-data_arima_bytes: 181.189 GB
+data_arima_bytes: 181.2 GiB
 data_arima_coverage: 130.16x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Meles_meles/mMelMel3/genomic_data/arima/<br>
-data_arima_scale: 1.8748
-data_bionano_bases: 2.69 Gbp
-data_bionano_bytes: 3.121 GB
-data_bionano_coverage: 0.96x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Meles_meles/mMelMel3/genomic_data/bionano/<br>
-data_illumina_bases: 231.59 Gbp
-data_illumina_bytes: 157.840 GB
-data_illumina_coverage: 82.65x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Meles_meles/mMelMel1/genomic_data/illumina/<br>s3://genomeark/species/Meles_meles/mMelMel2/genomic_data/illumina/<br>
-data_illumina_scale: 1.3665
-data_pacbiohifi_bam_bases: 110.17 Gbp
-data_pacbiohifi_bam_bytes: 101.324 GB
-data_pacbiohifi_bam_coverage: 39.31x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Meles_meles/mMelMel3/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.0126
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_bionano-3_bases: N/A
+data_bionano-3_bytes: 3.1 GiB
+data_bionano-3_coverage: 795.01x
+data_bionano-3_links: s3://genomeark/species/Meles_meles/mMelMel3/genomic_data/bionano/<br>
+data_bionano-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Meles_meles/mMelMel3/genomic_data/bionano/
+data_bionano-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Meles_meles/mMelMel3/genomic_data/bionano/
+data_bionano-3_scale: 666.8775
+data_bionano_bases: N/A
+data_bionano_bytes: 3.1 GiB
+data_bionano_coverage: 795.01x
+data_illumina-1_bases: 117.38 Gbp
+data_illumina-1_bytes: 80.7 GiB
+data_illumina-1_coverage: 41.89x
+data_illumina-1_links: s3://genomeark/species/Meles_meles/mMelMel1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Meles_meles/mMelMel1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Meles_meles/mMelMel1/genomic_data/illumina/
+data_illumina-1_scale: 1.3544
+data_illumina-2_bases: 114.43 Gbp
+data_illumina-2_bytes: 77.1 GiB
+data_illumina-2_coverage: 40.83x
+data_illumina-2_links: s3://genomeark/species/Meles_meles/mMelMel2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Meles_meles/mMelMel2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Meles_meles/mMelMel2/genomic_data/illumina/
+data_illumina-2_scale: 1.3818
+data_illumina_bases: 231.81 Gbp
+data_illumina_bytes: 157.8 GiB
+data_illumina_coverage: 82.72x
+data_pacbiohifi_bam-3_bases: 110.09 Gbp
+data_pacbiohifi_bam-3_bytes: 101.3 GiB
+data_pacbiohifi_bam-3_coverage: 39.29x
+data_pacbiohifi_bam-3_links: s3://genomeark/species/Meles_meles/mMelMel3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Meles_meles/mMelMel3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Meles_meles/mMelMel3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_scale: 1.0126
+data_pacbiohifi_bam_bases: 110.09 Gbp
+data_pacbiohifi_bam_bytes: 101.3 GiB
+data_pacbiohifi_bam_coverage: 39.29x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: mMelMel3:GCA_922990625.1
 genbank_pat: mMelMel3:GCA_922984935.2
 genome_size: 2802245436
@@ -39,7 +67,7 @@ genome_size_method: genomescope (k=31)
 last_raw_data: 1651609357
 last_updated: 1651609357
 mat3date: 2021-12-10
-mat3filesize: 768 MiB
+mat3filesize: 768.1 MiB
 mat3length: 2692729365
 mat3n50ctg: 65751393
 mat3n50scf: 113445278
@@ -68,7 +96,7 @@ mat3sizes: |
   </table>
 mat3version: assembly_curated
 mgd3date: 2021-12-10
-mgd3filesize: 780 MiB
+mgd3filesize: 780.0 MiB
 mgd3length: 2738678004
 mgd3n50ctg: 70607720
 mgd3n50scf: 120130420

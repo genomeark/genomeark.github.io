@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-05-23
-alt1filesize: 1 GiB
+alt1filesize: 1.1 GiB
 alt1length: 3698322623
 alt1n50ctg: 245207
 alt1n50scf: 245207
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: tiny Cayenne caecilian
+data_10x-1_bases: 354.61 Gbp
+data_10x-1_bytes: 242.7 GiB
+data_10x-1_coverage: 75.68x
+data_10x-1_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Microcaecilia_unicolor/aMicUni1/genomic_data/10x/
+data_10x-1_scale: 1.3610
 data_10x_bases: 354.61 Gbp
-data_10x_bytes: 242.655 GB
+data_10x_bytes: 242.7 GiB
 data_10x_coverage: 75.68x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/10x/<br>
-data_10x_scale: 1.3610
+data_arima-1_bases: 271.20 Gbp
+data_arima-1_bytes: 166.5 GiB
+data_arima-1_coverage: 57.87x
+data_arima-1_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Microcaecilia_unicolor/aMicUni1/genomic_data/arima/
+data_arima-1_scale: 1.5172
 data_arima_bases: 271.20 Gbp
-data_arima_bytes: 166.471 GB
+data_arima_bytes: 166.5 GiB
 data_arima_coverage: 57.87x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/arima/<br>
-data_arima_scale: 1.5172
-data_bionano_bases: 6.55 Gbp
-data_bionano_bytes: 2.704 GB
-data_bionano_coverage: 1.40x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.7 GiB
+data_bionano-1_coverage: 476.20x
+data_bionano-1_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Microcaecilia_unicolor/aMicUni1/genomic_data/bionano/
+data_bionano-1_scale: 774.0901
+data_bionano_bases: N/A
+data_bionano_bytes: 2.7 GiB
+data_bionano_coverage: 476.20x
+data_dovetail-1_bases: 239.65 Gbp
+data_dovetail-1_bytes: 151.3 GiB
+data_dovetail-1_coverage: 51.14x
+data_dovetail-1_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Microcaecilia_unicolor/aMicUni1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.4754
 data_dovetail_bases: 239.65 Gbp
-data_dovetail_bytes: 151.277 GB
+data_dovetail_bytes: 151.3 GiB
 data_dovetail_coverage: 51.14x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.4754
-data_pacbio_bases: 252.37 Gbp
-data_pacbio_bytes: 441.129 GB
-data_pacbio_coverage: 53.86x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5328
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_pacbio-1_bases: 252.24 Gbp
+data_pacbio-1_bytes: 440.9 GiB
+data_pacbio-1_coverage: 53.83x
+data_pacbio-1_links: s3://genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Microcaecilia_unicolor/aMicUni1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Microcaecilia_unicolor/aMicUni1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5328
+data_pacbio_bases: 252.24 Gbp
+data_pacbio_bytes: 440.9 GiB
+data_pacbio_coverage: 53.83x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: aMicUni1:GCA_901765105.1
 genbank_pri: aMicUni1:GCA_901765095.2
 genome_size: 4685923413
@@ -67,7 +88,7 @@ genome_size_display: 4.69 Gbp
 last_raw_data: 1548859097
 last_updated: 1570719802
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 5.1 KiB
 mito1length: 16008
 mito1n50ctg: 16008
 mito1n50scf: 16008
@@ -98,7 +119,7 @@ mito1version: assembly_MT_rockefeller
 name: Microcaecilia unicolor
 name_: Microcaecilia_unicolor
 pri1date: 2019-05-23
-pri1filesize: 1 GiB
+pri1filesize: 1.3 GiB
 pri1length: 4685923413
 pri1n50ctg: 3650988
 pri1n50scf: 376147139

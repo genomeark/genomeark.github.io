@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-08-06
-alt1filesize: 327 MiB
+alt1filesize: 327.1 MiB
 alt1length: 1128658440
 alt1n50ctg: 824168
 alt1n50scf: 838262
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Swainson's thrush
+data_10x-1_bases: 127.92 Gbp
+data_10x-1_bytes: 65.0 GiB
+data_10x-1_coverage: 85.85x
+data_10x-1_links: s3://genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Catharus_ustulatus/bCatUst1/genomic_data/10x/
+data_10x-1_scale: 1.8314
 data_10x_bases: 127.92 Gbp
-data_10x_bytes: 65.050 GB
+data_10x_bytes: 65.0 GiB
 data_10x_coverage: 85.85x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/10x/<br>
-data_10x_scale: 1.8314
+data_arima-1_bases: 105.37 Gbp
+data_arima-1_bytes: 66.9 GiB
+data_arima-1_coverage: 70.72x
+data_arima-1_links: s3://genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Catharus_ustulatus/bCatUst1/genomic_data/arima/
+data_arima-1_scale: 1.4660
 data_arima_bases: 105.37 Gbp
-data_arima_bytes: 66.941 GB
+data_arima_bytes: 66.9 GiB
 data_arima_coverage: 70.72x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/arima/<br>
-data_arima_scale: 1.4660
-data_bionano_bases: 1.45 Gbp
-data_bionano_bytes: 0.405 GB
-data_bionano_coverage: 0.97x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/bionano/<br>
-data_pacbio_bases: 90.12 Gbp
-data_pacbio_bytes: 154.793 GB
-data_pacbio_coverage: 60.48x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5422
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 395.9 MiB
+data_bionano-1_coverage: 183.77x
+data_bionano-1_links: s3://genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Catharus_ustulatus/bCatUst1/genomic_data/bionano/
+data_bionano-1_scale: 659.6837
+data_bionano_bases: N/A
+data_bionano_bytes: 395.9 MiB
+data_bionano_coverage: 183.77x
+data_pacbio-1_bases: 90.09 Gbp
+data_pacbio-1_bytes: 154.7 GiB
+data_pacbio-1_coverage: 60.46x
+data_pacbio-1_links: s3://genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Catharus_ustulatus/bCatUst1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Catharus_ustulatus/bCatUst1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5422
+data_pacbio_bases: 90.09 Gbp
+data_pacbio_bytes: 154.7 GiB
+data_pacbio_coverage: 60.46x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bCatUst1:GCA_009819505.2
 genbank_pri: bCatUst1:GCA_009819885.2
 genome_size: 1490000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1568075266
 last_updated: 1596732014
 mito1date: 2019-09-18
-mito1filesize: 5 KiB
+mito1filesize: 5.1 KiB
 mito1length: 18726
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Catharus ustulatus
 name_: Catharus_ustulatus
 pri1date: 2020-08-06
-pri1filesize: 322 MiB
+pri1filesize: 322.0 MiB
 pri1length: 1131616530
 pri1n50ctg: 3156799
 pri1n50scf: 36548054

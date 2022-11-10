@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-05-23
-alt1filesize: 71 MiB
+alt1filesize: 70.6 MiB
 alt1length: 234858432
 alt1n50ctg: 169498
 alt1n50scf: 170058
@@ -30,24 +30,36 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: greater pipefish
+data_10x-1_bases: 143.29 Gbp
+data_10x-1_bytes: 82.0 GiB
+data_10x-1_coverage: 441.81x
+data_10x-1_links: s3://genomeark/species/Syngnathus_acus/fSynAcu1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Syngnathus_acus/fSynAcu1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Syngnathus_acus/fSynAcu1/genomic_data/10x/
+data_10x-1_scale: 1.6267
 data_10x_bases: 143.29 Gbp
-data_10x_bytes: 82.039 GB
+data_10x_bytes: 82.0 GiB
 data_10x_coverage: 441.81x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Syngnathus_acus/fSynAcu1/genomic_data/10x/<br>
-data_10x_scale: 1.6267
+data_dovetail-1_bases: 107.67 Gbp
+data_dovetail-1_bytes: 72.4 GiB
+data_dovetail-1_coverage: 331.98x
+data_dovetail-1_links: s3://genomeark/species/Syngnathus_acus/fSynAcu1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Syngnathus_acus/fSynAcu1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Syngnathus_acus/fSynAcu1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.3844
 data_dovetail_bases: 107.67 Gbp
-data_dovetail_bytes: 72.434 GB
+data_dovetail_bytes: 72.4 GiB
 data_dovetail_coverage: 331.98x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Syngnathus_acus/fSynAcu1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.3844
-data_pacbio_bases: 29.04 Gbp
-data_pacbio_bytes: 50.470 GB
-data_pacbio_coverage: 89.52x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Syngnathus_acus/fSynAcu1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5358
+data_pacbio-1_bases: 29.02 Gbp
+data_pacbio-1_bytes: 50.4 GiB
+data_pacbio-1_coverage: 89.49x
+data_pacbio-1_links: s3://genomeark/species/Syngnathus_acus/fSynAcu1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Syngnathus_acus/fSynAcu1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Syngnathus_acus/fSynAcu1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5358
+data_pacbio_bases: 29.02 Gbp
+data_pacbio_bytes: 50.4 GiB
+data_pacbio_coverage: 89.49x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: fSynAcu1:GCA_901709685.1
 genbank_pri: fSynAcu1:GCA_901709675.2
@@ -56,7 +68,7 @@ genome_size_display: 324.33 Mbp
 last_raw_data: 1554452546
 last_updated: 1570719807
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16454
 mito1n50ctg: 16454
 mito1n50scf: 16454
@@ -87,7 +99,7 @@ mito1version: assembly_MT_rockefeller
 name: Syngnathus acus
 name_: Syngnathus_acus
 pri1date: 2019-05-23
-pri1filesize: 87 MiB
+pri1filesize: 87.1 MiB
 pri1length: 324331233
 pri1n50ctg: 11959915
 pri1n50scf: 14974571

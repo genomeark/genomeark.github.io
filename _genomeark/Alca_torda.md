@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-06-18
-alt1filesize: 362 MiB
+alt1filesize: 362.2 MiB
 alt1length: 1220378950
 alt1n50ctg: 1996128
 alt1n50scf: 1996128
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: razorbill
+data_10x-1_bases: 79.24 Gbp
+data_10x-1_bytes: 37.9 GiB
+data_10x-1_coverage: 66.03x
+data_10x-1_links: s3://genomeark/species/Alca_torda/bAlcTor1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Alca_torda/bAlcTor1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alca_torda/bAlcTor1/genomic_data/10x/
+data_10x-1_scale: 1.9451
 data_10x_bases: 79.24 Gbp
-data_10x_bytes: 37.941 GB
+data_10x_bytes: 37.9 GiB
 data_10x_coverage: 66.03x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Alca_torda/bAlcTor1/genomic_data/10x/<br>
-data_10x_scale: 1.9451
+data_arima-1_bases: 105.11 Gbp
+data_arima-1_bytes: 53.1 GiB
+data_arima-1_coverage: 87.59x
+data_arima-1_links: s3://genomeark/species/Alca_torda/bAlcTor1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Alca_torda/bAlcTor1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alca_torda/bAlcTor1/genomic_data/arima/
+data_arima-1_scale: 1.8449
 data_arima_bases: 105.11 Gbp
-data_arima_bytes: 53.061 GB
+data_arima_bytes: 53.1 GiB
 data_arima_coverage: 87.59x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Alca_torda/bAlcTor1/genomic_data/arima/<br>
-data_arima_scale: 1.8449
-data_bionano_bases: 1.30 Gbp
-data_bionano_bytes: 0.656 GB
-data_bionano_coverage: 1.08x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Alca_torda/bAlcTor1/genomic_data/bionano/<br>
-data_pacbio_bases: 77.69 Gbp
-data_pacbio_bytes: 134.283 GB
-data_pacbio_coverage: 64.74x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Alca_torda/bAlcTor1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5388
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 652.3 MiB
+data_bionano-1_coverage: 295.25x
+data_bionano-1_links: s3://genomeark/species/Alca_torda/bAlcTor1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Alca_torda/bAlcTor1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alca_torda/bAlcTor1/genomic_data/bionano/
+data_bionano-1_scale: 517.9669
+data_bionano_bases: N/A
+data_bionano_bytes: 652.3 MiB
+data_bionano_coverage: 295.25x
+data_pacbio-1_bases: 77.65 Gbp
+data_pacbio-1_bytes: 134.2 GiB
+data_pacbio-1_coverage: 64.71x
+data_pacbio-1_links: s3://genomeark/species/Alca_torda/bAlcTor1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Alca_torda/bAlcTor1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alca_torda/bAlcTor1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5388
+data_pacbio_bases: 77.65 Gbp
+data_pacbio_bytes: 134.2 GiB
+data_pacbio_coverage: 64.71x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bAlcTor1:GCA_008658355.1
 genbank_pri: bAlcTor1:GCA_008658365.1
 genome_size: 1200000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1545245416
 last_updated: 1566590342
 mito1date: 2019-08-20
-mito1filesize: 5 KiB
+mito1filesize: 5.1 KiB
 mito1length: 19110
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Alca torda
 name_: Alca_torda
 pri1date: 2019-06-13
-pri1filesize: 345 MiB
+pri1filesize: 345.1 MiB
 pri1length: 1178473458
 pri1n50ctg: 18221265
 pri1n50scf: 82438829

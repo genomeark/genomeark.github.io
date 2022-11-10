@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-03-04
-alt1filesize: 156 MiB
+alt1filesize: 155.9 MiB
 alt1length: 560414924
 alt1n50ctg: 156481
 alt1n50scf: 156481
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Peladilla
+data_10x-1_bases: 79.92 Gbp
+data_10x-1_bytes: 38.4 GiB
+data_10x-1_coverage: 173.01x
+data_10x-1_links: s3://genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aplochiton_taeniatus/fAplTae1/genomic_data/10x/
+data_10x-1_scale: 1.9380
 data_10x_bases: 79.92 Gbp
-data_10x_bytes: 38.406 GB
+data_10x_bytes: 38.4 GiB
 data_10x_coverage: 173.01x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/10x/<br>
-data_10x_scale: 1.9380
+data_arima-1_bases: 89.27 Gbp
+data_arima-1_bytes: 54.2 GiB
+data_arima-1_coverage: 193.24x
+data_arima-1_links: s3://genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aplochiton_taeniatus/fAplTae1/genomic_data/arima/
+data_arima-1_scale: 1.5342
 data_arima_bases: 89.27 Gbp
-data_arima_bytes: 54.188 GB
+data_arima_bytes: 54.2 GiB
 data_arima_coverage: 193.24x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/arima/<br>
-data_arima_scale: 1.5342
-data_bionano_bases: 0.61 Gbp
-data_bionano_bytes: 1.708 GB
-data_bionano_coverage: 1.31x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/bionano/<br>
-data_pacbio_bases: 63.53 Gbp
-data_pacbio_bytes: 110.371 GB
-data_pacbio_coverage: 137.53x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5361
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.7 GiB
+data_bionano-1_coverage: 2460.89x
+data_bionano-1_links: s3://genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aplochiton_taeniatus/fAplTae1/genomic_data/bionano/
+data_bionano-1_scale: 620.5581
+data_bionano_bases: N/A
+data_bionano_bytes: 1.7 GiB
+data_bionano_coverage: 2460.89x
+data_pacbio-1_bases: 63.51 Gbp
+data_pacbio-1_bytes: 110.3 GiB
+data_pacbio-1_coverage: 137.48x
+data_pacbio-1_links: s3://genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aplochiton_taeniatus/fAplTae1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aplochiton_taeniatus/fAplTae1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5361
+data_pacbio_bases: 63.51 Gbp
+data_pacbio_bytes: 110.3 GiB
+data_pacbio_coverage: 137.48x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fAplTae1:GCA_017639685.1
 genbank_pri: fAplTae1:GCA_017639675.1
 genome_size: 461946147
@@ -63,7 +80,7 @@ last_updated: 1615825427
 name: Aplochiton taeniatus
 name_: Aplochiton_taeniatus
 pri1date: 2021-03-04
-pri1filesize: 126 MiB
+pri1filesize: 126.3 MiB
 pri1length: 461946147
 pri1n50ctg: 956540
 pri1n50scf: 20392628

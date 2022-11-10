@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-12-09
-alt1filesize: 785 MiB
+alt1filesize: 785.0 MiB
 alt1length: 2814424163
 alt1n50ctg: 717383
 alt1n50scf: 732815
@@ -30,36 +30,53 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: painted frog
+data_10x-1_bases: 256.60 Gbp
+data_10x-1_bytes: 124.4 GiB
+data_10x-1_coverage: 66.26x
+data_10x-1_links: s3://genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Discoglossus_pictus/aDisPic1/genomic_data/10x/
+data_10x-1_scale: 1.9209
 data_10x_bases: 256.60 Gbp
-data_10x_bytes: 124.407 GB
+data_10x_bytes: 124.4 GiB
 data_10x_coverage: 66.26x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/10x/<br>
-data_10x_scale: 1.9209
+data_arima-1_bases: 250.61 Gbp
+data_arima-1_bytes: 117.9 GiB
+data_arima-1_coverage: 64.71x
+data_arima-1_links: s3://genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Discoglossus_pictus/aDisPic1/genomic_data/arima/
+data_arima-1_scale: 1.9800
 data_arima_bases: 250.61 Gbp
-data_arima_bytes: 117.879 GB
+data_arima_bytes: 117.9 GiB
 data_arima_coverage: 64.71x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/arima/<br>
-data_arima_scale: 1.9800
-data_bionano_bases: 7.26 Gbp
-data_bionano_bytes: 5.448 GB
-data_bionano_coverage: 1.87x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/bionano/<br>
-data_pacbio_bases: 494.40 Gbp
-data_pacbio_bytes: 880.567 GB
-data_pacbio_coverage: 127.67x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5229
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 5.4 GiB
+data_bionano-1_coverage: 890.41x
+data_bionano-1_links: s3://genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Discoglossus_pictus/aDisPic1/genomic_data/bionano/
+data_bionano-1_scale: 597.9196
+data_bionano_bases: N/A
+data_bionano_bytes: 5.4 GiB
+data_bionano_coverage: 890.41x
+data_pacbio-1_bases: 494.26 Gbp
+data_pacbio-1_bytes: 880.3 GiB
+data_pacbio-1_coverage: 127.63x
+data_pacbio-1_links: s3://genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Discoglossus_pictus/aDisPic1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5229
+data_pacbio_bases: 494.26 Gbp
+data_pacbio_bytes: 880.3 GiB
+data_pacbio_coverage: 127.63x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 3872581802
 genome_size_display: 3.87 Gbp
 last_raw_data: 1625148580
 last_updated: 1639078402
 mito1date: 2021-07-06
-mito1filesize: 7 KiB
+mito1filesize: 7.1 KiB
 mito1length: 40122
 mito1n50ctg: 40122
 mito1n50scf: 40122
@@ -90,7 +107,7 @@ mito1version: assembly_MT_rockefeller
 name: Discoglossus pictus
 name_: Discoglossus_pictus
 pri1date: 2021-12-09
-pri1filesize: 1 GiB
+pri1filesize: 1.0 GiB
 pri1length: 3872581802
 pri1n50ctg: 3043591
 pri1n50scf: 453717995

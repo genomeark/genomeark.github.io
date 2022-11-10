@@ -6,7 +6,6 @@ layout: default
 {% include species-image.html species_name=page.name_ %}
 
 <div class="section">
-<div>
 <div class="sd-info">
   <p class="sd-sname">{{ page.name }}</p>
   <p class="sd-cname">{{ page.common_name }}</p>
@@ -71,13 +70,12 @@ layout: default
       {{ license }}
     </div>
   </div>
-</div>
-</div>
+</div class="sd-image">
 </div class="section">
 
-{% include section-divider.html title="Raw Data" %}
-
 {% unless page.last_raw_data %}
+
+{% include section-divider.html title="Raw Data" %}
 
 <div class="section">
 <div class="data-use">
@@ -89,64 +87,18 @@ layout: default
 
 {% else %}
 
+{% include section-divider.html title="Raw Data by Technology" %}
 <div class="section">
-<table class="raw-data-table">
-<thead><tr><th rowspan="2" class="label">Datatype</th>
-           <th colspan="2">Approximate Size</th>
-           <th rowspan="2">Download Size</th>
-       </tr>
-       <tr><th>Bases</th>
-           <th>Coverage</th>
-       </tr></thead>
-<tbody>
-  {% if page.data_10x_bytes.size             > 0 %} <tr><td class="label">10x                       </td><td>{{ page.data_10x_bases             }}</td><td>{{ page.data_10x_coverage             }}</td><td>{{ page.data_10x_bytes             }}</td></tr> {% endif %}
-  {% if page.data_arima_bytes.size           > 0 %} <tr><td class="label">Arima                     </td><td>{{ page.data_arima_bases           }}</td><td>{{ page.data_arima_coverage           }}</td><td>{{ page.data_arima_bytes           }}</td></tr> {% endif %}
-  {% if page.data_bionano_bytes.size         > 0 %} <tr><td class="label">Bionano                   </td><td>{{ page.data_bionano_bases         }}</td><td>{{ page.data_bionano_coverage         }}</td><td>{{ page.data_bionano_bytes         }}</td></tr> {% endif %}
-  {% if page.data_dovetail_bytes.size        > 0 %} <tr><td class="label">Dovetail Genomics         </td><td>{{ page.data_dovetail_bases        }}</td><td>{{ page.data_dovetail_coverage        }}</td><td>{{ page.data_dovetail_bytes        }}</td></tr> {% endif %}
-  {% if page.data_illumina_bytes.size        > 0 %} <tr><td class="label">Illumina                  </td><td>{{ page.data_illumina_bases        }}</td><td>{{ page.data_illumina_coverage        }}</td><td>{{ page.data_illumina_bytes        }}</td></tr> {% endif %}
-  {% if page.data_ont_bytes.size             > 0 %} <tr><td class="label">Oxford Nanopore Simplex   </td><td>{{ page.data_ont_bases             }}</td><td>{{ page.data_ont_coverage             }}</td><td>{{ page.data_ont_bytes             }}</td></tr> {% endif %}
-  {% if page.data_ontduplex_bytes.size       > 0 %} <tr><td class="label">Oxford Nanopore Duplex    </td><td>{{ page.data_ontduplex_bases       }}</td><td>{{ page.data_ontduplex_coverage       }}</td><td>{{ page.data_ontduplex_bytes       }}</td></tr> {% endif %}
-  {% if page.data_pacbio_bytes.size          > 0 %} <tr><td class="label">PacBio CLR                </td><td>{{ page.data_pacbio_bases          }}</td><td>{{ page.data_pacbio_coverage          }}</td><td>{{ page.data_pacbio_bytes          }}</td></tr> {% endif %}
-  {% if page.data_pacbiohifi_fqgz_bytes.size > 0 %} <tr><td class="label">PacBio HiFi (.fq, Q&ge;20)</td><td>{{ page.data_pacbiohifi_fqgz_bases }}</td><td>{{ page.data_pacbiohifi_fqgz_coverage }}</td><td>{{ page.data_pacbiohifi_fqgz_bytes }}</td></tr> {% endif %}
-  {% if page.data_pacbiohifi_bam_bytes.size  > 0 %} <tr><td class="label">PacBio HiFi (.bam, Q&ge;0)</td><td>{{ page.data_pacbiohifi_bam_bases  }}</td><td>{{ page.data_pacbiohifi_bam_coverage  }}</td><td>{{ page.data_pacbiohifi_bam_bytes  }}</td></tr> {% endif %}
-  {% if page.data_pacbiohifi_clr_bytes.size  > 0 %} <tr><td class="label">PacBio HiFi (subreads)    </td><td>{{ page.data_pacbiohifi_clr_bases  }}</td><td>{{ page.data_pacbiohifi_clr_coverage  }}</td><td>{{ page.data_pacbiohifi_clr_bytes  }}</td></tr> {% endif %}
-  {% if page.data_phase_bytes.size           > 0 %} <tr><td class="label">Phase Genomics            </td><td>{{ page.data_phase_bases           }}</td><td>{{ page.data_phase_coverage           }}</td><td>{{ page.data_phase_bytes           }}</td></tr> {% endif %}
-</tbody>
-</table>
+{% include data-table-technology.html %}
+</div class="section">
 
-<p class="raw-data-size">  <!---<div align="right">--->
-  {% if page.genome_size_display %}
-  Coverage based on genome size {{ page.genome_size_display }}.
-  {% else %}
-  No genome size estimate available.
-  {% endif %}
-</p>
+{% include section-divider.html title="Raw Data by Individual" %}
 
-<p class="raw-data-size">  <!---<div align="right">--->
-  Last upload on {{ page.last_raw_data | date: "%-d %B %Y" }}.
-</p>
-
-<div>
-<p>Download each datatype using the <A HREF="https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html">AWS Command Line Interface</A>:</p>
-<div class="raw-data-links">
-  {% if page.data_10x_links             %} {{ page.data_10x_links             }} {% endif %}
-  {% if page.data_arima_links           %} {{ page.data_arima_links           }} {% endif %}
-  {% if page.data_bionano_links         %} {{ page.data_bionano_links         }} {% endif %}
-  {% if page.data_dovetail_links        %} {{ page.data_dovetail_links        }} {% endif %}
-  {% if page.data_illumina_links        %} {{ page.data_illumina_links        }} {% endif %}
-  {% if page.data_ont_links             %} {{ page.data_ont_links             }} {% endif %}
-  {% if page.data_ontduplex_links       %} {{ page.data_ontduplex_links       }} {% endif %}
-  {% if page.data_pacbio_links          %} {{ page.data_pacbio_links          }} {% endif %}
-  {% if page.data_pacbiohifi_fqgz_links %} {{ page.data_pacbiohifi_fqgz_links }} {% endif %}
-  {% if page.data_pacbiohifi_bam_links  %} {{ page.data_pacbiohifi_bam_links  }} {% endif %}
-  {% if page.data_pacbiohifi_clr_links  %} {{ page.data_pacbiohifi_clr_links  }} {% endif %}
-  {% if page.data_phase_links           %} {{ page.data_phase_links           }} {% endif %}
-</div class="raw-data-links">
-</div>
+<div class="section">
+{% include data-table-individual.html %}
 </div class="section">
 
 {% endunless %}
-
 
 <!-- NOTES --->
 
@@ -208,113 +160,97 @@ layout: default
 {% else %}
 
 <div class="section">
-<div class="assemblies">
 
 {% assign shown = false %}
 
-{% include assembly-stats.html individual=1 genome_size_display=page.genome_size_display
-     llabel="Primary"     lseq=page.pri1seq  lversion=page.pri1version  ldate=page.pri1date  lfilesize=page.pri1filesize  lsizes=page.pri1sizes
-     rlabel="Alternate"   rseq=page.alt1seq  rversion=page.alt1version  rdate=page.alt1date  rfilesize=page.alt1filesize  rsizes=page.alt1sizes %}
-{% include assembly-stats.html individual=1 genome_size_display=page.genome_size_display
-     llabel="Maternal"    lseq=page.mat1seq  lversion=page.mat1version  ldate=page.mat1date  lfilesize=page.mat1filesize  lsizes=page.mat1sizes
-     rlabel="Paternal"    rseq=page.pat1seq  rversion=page.pat1version  rdate=page.pat1date  rfilesize=page.pat1filesize  rsizes=page.pat1sizes
-     tlabel="Merged Trio" tseq=page.mgd1seq  tversion=page.mgd1version  tdate=page.mgd1date  tfilesize=page.mgd1filesize  tsizes=page.mgd1sizes %}
-{% include assembly-stats.html individual=1 genome_size_display=page.genome_size_display
-     tlabel="Diploid"     tseq=page.dip1seq  tversion=page.dip1version  tdate=page.dip1date  tfilesize=page.dip1filesize  tsizes=page.dip1sizes %}
-{% include assembly-stats.html individual=1
-                          mseq=page.mito1seq mversion=page.mito1version mdate=page.mito1date mfilesize=page.mito1filesize %}
+{% include assembly-stats.html individual=1 tlabel="Diploid"     tseq=page.dip1seq  tversion=page.dip1version  tdate=page.dip1date  tfilesize=page.dip1filesize  tsizes=page.dip1sizes %}
+{% include assembly-stats.html individual=1 llabel="Primary"     lseq=page.pri1seq  lversion=page.pri1version  ldate=page.pri1date  lfilesize=page.pri1filesize  lsizes=page.pri1sizes
+                                            rlabel="Alternate"   rseq=page.alt1seq  rversion=page.alt1version  rdate=page.alt1date  rfilesize=page.alt1filesize  rsizes=page.alt1sizes %}
+{% include assembly-stats.html individual=1 tlabel="Merged Trio" tseq=page.mgd1seq  tversion=page.mgd1version  tdate=page.mgd1date  tfilesize=page.mgd1filesize  tsizes=page.mgd1sizes %}
+{% include assembly-stats.html individual=1 llabel="Maternal"    lseq=page.mat1seq  lversion=page.mat1version  ldate=page.mat1date  lfilesize=page.mat1filesize  lsizes=page.mat1sizes
+                                            rlabel="Paternal"    rseq=page.pat1seq  rversion=page.pat1version  rdate=page.pat1date  rfilesize=page.pat1filesize  rsizes=page.pat1sizes %}
+{% include assembly-stats.html individual=1                      mseq=page.mito1seq mversion=page.mito1version mdate=page.mito1date mfilesize=page.mito1filesize %}
 
 {% if d1 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d1 and div12b %}
-{% assign shown = true %} <br><hr><br>
+{% assign shown = true %}
+<div class="assembly-list-line-line">
+<hr width="80%">
+</div>
 {% endif %}
 
-
-{% include assembly-stats.html individual=2 genome_size_display=page.genome_size_display
-     llabel="Primary"     lseq=page.pri2seq  lversion=page.pri2version  ldate=page.pri2date  lfilesize=page.pri2filesize  lsizes=page.pri2sizes
-     rlabel="Alternate"   rseq=page.alt2seq  rversion=page.alt2version  rdate=page.alt2date  rfilesize=page.alt2filesize  rsizes=page.alt2sizes %}
-{% include assembly-stats.html individual=2 genome_size_display=page.genome_size_display
-     llabel="Maternal"    lseq=page.mat2seq  lversion=page.mat2version  ldate=page.mat2date  lfilesize=page.mat2filesize  lsizes=page.mat2sizes
-     rlabel="Paternal"    rseq=page.pat2seq  rversion=page.pat2version  rdate=page.pat2date  rfilesize=page.pat2filesize  rsizes=page.pat2sizes
-     tlabel="Merged Trio" tseq=page.mgd2seq  tversion=page.mgd2version  tdate=page.mgd2date  tfilesize=page.mgd2filesize  tsizes=page.mgd2sizes %}
-{% include assembly-stats.html individual=2 genome_size_display=page.genome_size_display
-     tlabel="Diploid"     tseq=page.dip2seq  tversion=page.dip2version  tdate=page.dip2date  tfilesize=page.dip2filesize  tsizes=page.dip2sizes %}
-{% include assembly-stats.html individual=2
-                          mseq=page.mito2seq mversion=page.mito2version mdate=page.mito2date mfilesize=page.mito2filesize %}
+{% include assembly-stats.html individual=2 tlabel="Diploid"     tseq=page.dip2seq  tversion=page.dip2version  tdate=page.dip2date  tfilesize=page.dip2filesize  tsizes=page.dip2sizes %}
+{% include assembly-stats.html individual=2 llabel="Primary"     lseq=page.pri2seq  lversion=page.pri2version  ldate=page.pri2date  lfilesize=page.pri2filesize  lsizes=page.pri2sizes
+                                            rlabel="Alternate"   rseq=page.alt2seq  rversion=page.alt2version  rdate=page.alt2date  rfilesize=page.alt2filesize  rsizes=page.alt2sizes %}
+{% include assembly-stats.html individual=2 tlabel="Merged Trio" tseq=page.mgd2seq  tversion=page.mgd2version  tdate=page.mgd2date  tfilesize=page.mgd2filesize  tsizes=page.mgd2sizes %}
+{% include assembly-stats.html individual=2 llabel="Maternal"    lseq=page.mat2seq  lversion=page.mat2version  ldate=page.mat2date  lfilesize=page.mat2filesize  lsizes=page.mat2sizes
+                                            rlabel="Paternal"    rseq=page.pat2seq  rversion=page.pat2version  rdate=page.pat2date  rfilesize=page.pat2filesize  rsizes=page.pat2sizes %}
+{% include assembly-stats.html individual=2                      mseq=page.mito2seq mversion=page.mito2version mdate=page.mito2date mfilesize=page.mito2filesize %}
 
 {% if d2 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d2 and div23b %}
-{% assign shown = true %} <br><hr><br>
+{% assign shown = true %}
+<div class="assembly-list-line-line">
+<hr width="80%">
+</div>
 {% endif %}
 
-
-{% include assembly-stats.html individual=3 genome_size_display=page.genome_size_display
-     llabel="Primary"     lseq=page.pri3seq  lversion=page.pri3version  ldate=page.pri3date  lfilesize=page.pri3filesize  lsizes=page.pri3sizes
-     rlabel="Alternate"   rseq=page.alt3seq  rversion=page.alt3version  rdate=page.alt3date  rfilesize=page.alt3filesize  rsizes=page.alt3sizes %}
-{% include assembly-stats.html individual=3 genome_size_display=page.genome_size_display
-     llabel="Maternal"    lseq=page.mat3seq  lversion=page.mat3version  ldate=page.mat3date  lfilesize=page.mat3filesize  lsizes=page.mat3sizes
-     rlabel="Paternal"    rseq=page.pat3seq  rversion=page.pat3version  rdate=page.pat3date  rfilesize=page.pat3filesize  rsizes=page.pat3sizes
-     tlabel="Merged Trio" tseq=page.mgd3seq  tversion=page.mgd3version  tdate=page.mgd3date  tfilesize=page.mgd3filesize  tsizes=page.mgd3sizes %}
-{% include assembly-stats.html individual=3 genome_size_display=page.genome_size_display
-     tlabel="Diploid"     tseq=page.dip3seq  tversion=page.dip3version  tdate=page.dip3date  tfilesize=page.dip3filesize  tsizes=page.dip3sizes %}
-{% include assembly-stats.html individual=3
-                          mseq=page.mito3seq mversion=page.mito3version mdate=page.mito3date mfilesize=page.mito3filesize %}
+{% include assembly-stats.html individual=3 tlabel="Diploid"     tseq=page.dip3seq  tversion=page.dip3version  tdate=page.dip3date  tfilesize=page.dip3filesize  tsizes=page.dip3sizes %}
+{% include assembly-stats.html individual=3 llabel="Primary"     lseq=page.pri3seq  lversion=page.pri3version  ldate=page.pri3date  lfilesize=page.pri3filesize  lsizes=page.pri3sizes
+                                            rlabel="Alternate"   rseq=page.alt3seq  rversion=page.alt3version  rdate=page.alt3date  rfilesize=page.alt3filesize  rsizes=page.alt3sizes %}
+{% include assembly-stats.html individual=3 tlabel="Merged Trio" tseq=page.mgd3seq  tversion=page.mgd3version  tdate=page.mgd3date  tfilesize=page.mgd3filesize  tsizes=page.mgd3sizes %}
+{% include assembly-stats.html individual=3 llabel="Maternal"    lseq=page.mat3seq  lversion=page.mat3version  ldate=page.mat3date  lfilesize=page.mat3filesize  lsizes=page.mat3sizes
+                                            rlabel="Paternal"    rseq=page.pat3seq  rversion=page.pat3version  rdate=page.pat3date  rfilesize=page.pat3filesize  rsizes=page.pat3sizes %}
+{% include assembly-stats.html individual=3                      mseq=page.mito3seq mversion=page.mito3version mdate=page.mito3date mfilesize=page.mito3filesize %}
 
 {% if d3 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d3 and div34b %}
-{% assign shown = true %} <br><hr><br>
+{% assign shown = true %}
+<div class="assembly-list-line-line">
+<hr width="80%">
+</div>
 {% endif %}
 
-
-{% include assembly-stats.html individual=4 genome_size_display=page.genome_size_display
-     llabel="Primary"     lseq=page.pri4seq  lversion=page.pri4version  ldate=page.pri4date  lfilesize=page.pri4filesize  lsizes=page.pri4sizes
-     rlabel="Alternate"   rseq=page.alt4seq  rversion=page.alt4version  rdate=page.alt4date  rfilesize=page.alt4filesize  rsizes=page.alt4sizes %}
-{% include assembly-stats.html individual=4 genome_size_display=page.genome_size_display
-     llabel="Maternal"    lseq=page.mat4seq  lversion=page.mat4version  ldate=page.mat4date  lfilesize=page.mat4filesize  lsizes=page.mat4sizes
-     rlabel="Paternal"    rseq=page.pat4seq  rversion=page.pat4version  rdate=page.pat4date  rfilesize=page.pat4filesize  rsizes=page.pat4sizes
-     tlabel="Merged Trio" tseq=page.mgd4seq  tversion=page.mgd4version  tdate=page.mgd4date  tfilesize=page.mgd4filesize  tsizes=page.mgd4sizes %}
-{% include assembly-stats.html individual=4 genome_size_display=page.genome_size_display
-     tlabel="Diploid"     tseq=page.dip4seq  tversion=page.dip4version  tdate=page.dip4date  tfilesize=page.dip4filesize  tsizes=page.dip4sizes %}
-{% include assembly-stats.html individual=4
-                          mseq=page.mito4seq mversion=page.mito4version mdate=page.mito4date mfilesize=page.mito4filesize %}
+{% include assembly-stats.html individual=4 tlabel="Diploid"     tseq=page.dip4seq  tversion=page.dip4version  tdate=page.dip4date  tfilesize=page.dip4filesize  tsizes=page.dip4sizes %}
+{% include assembly-stats.html individual=4 llabel="Primary"     lseq=page.pri4seq  lversion=page.pri4version  ldate=page.pri4date  lfilesize=page.pri4filesize  lsizes=page.pri4sizes
+                                            rlabel="Alternate"   rseq=page.alt4seq  rversion=page.alt4version  rdate=page.alt4date  rfilesize=page.alt4filesize  rsizes=page.alt4sizes %}
+{% include assembly-stats.html individual=4 tlabel="Merged Trio" tseq=page.mgd4seq  tversion=page.mgd4version  tdate=page.mgd4date  tfilesize=page.mgd4filesize  tsizes=page.mgd4sizes %}
+{% include assembly-stats.html individual=4 llabel="Maternal"    lseq=page.mat4seq  lversion=page.mat4version  ldate=page.mat4date  lfilesize=page.mat4filesize  lsizes=page.mat4sizes
+                                            rlabel="Paternal"    rseq=page.pat4seq  rversion=page.pat4version  rdate=page.pat4date  rfilesize=page.pat4filesize  rsizes=page.pat4sizes %}
+{% include assembly-stats.html individual=4                      mseq=page.mito4seq mversion=page.mito4version mdate=page.mito4date mfilesize=page.mito4filesize %}
 
 {% if d4 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d4 and div45b %}
-{% assign shown = true %} <br><hr><br>
+{% assign shown = true %}
+<div class="assembly-list-line-line">
+<hr width="80%">
+</div>
 {% endif %}
 
-
-{% include assembly-stats.html individual=5 genome_size_display=page.genome_size_display
-     llabel="Primary"     lseq=page.pri5seq  lversion=page.pri5version  ldate=page.pri5date  lfilesize=page.pri5filesize  lsizes=page.pri5sizes
-     rlabel="Alternate"   rseq=page.alt5seq  rversion=page.alt5version  rdate=page.alt5date  rfilesize=page.alt5filesize  rsizes=page.alt5sizes %}
-{% include assembly-stats.html individual=5 genome_size_display=page.genome_size_display
-     llabel="Maternal"    lseq=page.mat5seq  lversion=page.mat5version  ldate=page.mat5date  lfilesize=page.mat5filesize  lsizes=page.mat5sizes
-     rlabel="Paternal"    rseq=page.pat5seq  rversion=page.pat5version  rdate=page.pat5date  rfilesize=page.pat5filesize  rsizes=page.pat5sizes
-     tlabel="Merged Trio" tseq=page.mgd5seq  tversion=page.mgd5version  tdate=page.mgd5date  tfilesize=page.mgd5filesize  tsizes=page.mgd5sizes %}
-{% include assembly-stats.html individual=5 genome_size_display=page.genome_size_display
-     tlabel="Diploid"     tseq=page.dip5seq  tversion=page.dip5version  tdate=page.dip5date  tfilesize=page.dip5filesize  tsizes=page.dip5sizes %}
-{% include assembly-stats.html individual=5
-                          mseq=page.mito5seq mversion=page.mito5version mdate=page.mito5date mfilesize=page.mito5filesize %}
+{% include assembly-stats.html individual=5 tlabel="Diploid"     tseq=page.dip5seq  tversion=page.dip5version  tdate=page.dip5date  tfilesize=page.dip5filesize  tsizes=page.dip5sizes %}
+{% include assembly-stats.html individual=5 llabel="Primary"     lseq=page.pri5seq  lversion=page.pri5version  ldate=page.pri5date  lfilesize=page.pri5filesize  lsizes=page.pri5sizes
+                                            rlabel="Alternate"   rseq=page.alt5seq  rversion=page.alt5version  rdate=page.alt5date  rfilesize=page.alt5filesize  rsizes=page.alt5sizes %}
+{% include assembly-stats.html individual=5 tlabel="Merged Trio" tseq=page.mgd5seq  tversion=page.mgd5version  tdate=page.mgd5date  tfilesize=page.mgd5filesize  tsizes=page.mgd5sizes %}
+{% include assembly-stats.html individual=5 llabel="Maternal"    lseq=page.mat5seq  lversion=page.mat5version  ldate=page.mat5date  lfilesize=page.mat5filesize  lsizes=page.mat5sizes
+                                            rlabel="Paternal"    rseq=page.pat5seq  rversion=page.pat5version  rdate=page.pat5date  rfilesize=page.pat5filesize  rsizes=page.pat5sizes %}
+{% include assembly-stats.html individual=5                      mseq=page.mito5seq mversion=page.mito5version mdate=page.mito5date mfilesize=page.mito5filesize %}
 
 {% if d5 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d5 and div56b %}
-{% assign shown = true %} <br><hr><br>
+{% assign shown = true %}
+<div class="assembly-list-line-line">
+<hr width="80%">
+</div>
 {% endif %}
 
+{% include assembly-stats.html individual=6 tlabel="Diploid"     tseq=page.dip6seq  tversion=page.dip6version  tdate=page.dip6date  tfilesize=page.dip6filesize  tsizes=page.dip6sizes %}
+{% include assembly-stats.html individual=6 llabel="Primary"     lseq=page.pri6seq  lversion=page.pri6version  ldate=page.pri6date  lfilesize=page.pri6filesize  lsizes=page.pri6sizes
+                                            rlabel="Alternate"   rseq=page.alt6seq  rversion=page.alt6version  rdate=page.alt6date  rfilesize=page.alt6filesize  rsizes=page.alt6sizes %}
+{% include assembly-stats.html individual=6 tlabel="Merged Trio" tseq=page.mgd6seq  tversion=page.mgd6version  tdate=page.mgd6date  tfilesize=page.mgd6filesize  tsizes=page.mgd6sizes %}
+{% include assembly-stats.html individual=6 llabel="Maternal"    lseq=page.mat6seq  lversion=page.mat6version  ldate=page.mat6date  lfilesize=page.mat6filesize  lsizes=page.mat6sizes
+                                            rlabel="Paternal"    rseq=page.pat6seq  rversion=page.pat6version  rdate=page.pat6date  rfilesize=page.pat6filesize  rsizes=page.pat6sizes %}
+{% include assembly-stats.html individual=6                      mseq=page.mito6seq mversion=page.mito6version mdate=page.mito6date mfilesize=page.mito6filesize %}
 
-{% include assembly-stats.html individual=6 genome_size_display=page.genome_size_display
-     llabel="Primary"     lseq=page.pri6seq  lversion=page.pri6version  ldate=page.pri6date  lfilesize=page.pri6filesize  lsizes=page.pri6sizes
-     rlabel="Alternate"   rseq=page.alt6seq  rversion=page.alt6version  rdate=page.alt6date  rfilesize=page.alt6filesize  rsizes=page.alt6sizes %}
-{% include assembly-stats.html individual=6 genome_size_display=page.genome_size_display
-     llabel="Maternal"    lseq=page.mat6seq  lversion=page.mat6version  ldate=page.mat6date  lfilesize=page.mat6filesize  lsizes=page.mat6sizes
-     rlabel="Paternal"    rseq=page.pat6seq  rversion=page.pat6version  rdate=page.pat6date  rfilesize=page.pat6filesize  rsizes=page.pat6sizes
-     tlabel="Merged Trio" tseq=page.mgd6seq  tversion=page.mgd6version  tdate=page.mgd6date  tfilesize=page.mgd6filesize  tsizes=page.mgd6sizes %}
-{% include assembly-stats.html individual=6 genome_size_display=page.genome_size_display
-     tlabel="Diploid"     tseq=page.dip6seq  tversion=page.dip6version  tdate=page.dip6date  tfilesize=page.dip6filesize  tsizes=page.dip6sizes %}
-{% include assembly-stats.html individual=6
-                          mseq=page.mito6seq mversion=page.mito6version mdate=page.mito6date mfilesize=page.mito6filesize %}
-
-</div>
 </div>
 {% endunless %}
 
@@ -328,7 +264,7 @@ layout: default
 <p>
 Samples and data come from a variety of sources. To support fair and productive use of this data,
 please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/"><em>Data Use Policy</em></a>
-and contact us with any questions.
+and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 </p>
 </div>
 </div>

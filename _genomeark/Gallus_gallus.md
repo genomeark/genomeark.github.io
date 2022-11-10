@@ -1,6 +1,6 @@
 ---
 alt4date: 2021-10-04
-alt4filesize: 254 MiB
+alt4filesize: 254.0 MiB
 alt4length: 885772923
 alt4n50ctg: 479354
 alt4n50scf: 479354
@@ -29,7 +29,7 @@ alt4sizes: |
   </table>
 alt4version: assembly_curated
 alt5date: 2021-09-20
-alt5filesize: 260 MiB
+alt5filesize: 260.2 MiB
 alt5length: 911865540
 alt5n50ctg: 633998
 alt5n50scf: 633998
@@ -59,54 +59,157 @@ alt5sizes: |
 alt5version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: chicken
-data_10x_bases: 293.19 Gbp
-data_10x_bytes: 143.454 GB
-data_10x_coverage: 242.30x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/10x/<br>s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/10x/<br>s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/10x/<br>
-data_10x_scale: 1.9034
-data_arima_bases: 568.28 Gbp
-data_arima_bytes: 331.384 GB
-data_arima_coverage: 469.65x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/arima/<br>s3://genomeark/species/Gallus_gallus/bGalGal2/genomic_data/arima/<br>s3://genomeark/species/Gallus_gallus/bGalGal3/genomic_data/arima/<br>s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/arima/<br>s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/arima/<br>
-data_arima_scale: 1.5971
-data_bionano_bases: 3.45 Gbp
-data_bionano_bytes: 2.792 GB
-data_bionano_coverage: 2.86x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/bionano/<br>s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/bionano/<br>s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/bionano/<br>
-data_illumina_bases: 222.17 Gbp
-data_illumina_bytes: 109.707 GB
-data_illumina_coverage: 183.61x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Gallus_gallus/bGalGal2/genomic_data/illumina/<br>s3://genomeark/species/Gallus_gallus/bGalGal3/genomic_data/illumina/<br>
-data_illumina_scale: 1.8860
-data_pacbio_bases: 123.53 Gbp
-data_pacbio_bytes: 213.318 GB
-data_pacbio_coverage: 102.09x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5393
+data_10x-1_bases: 95.77 Gbp
+data_10x-1_bytes: 52.8 GiB
+data_10x-1_coverage: 79.15x
+data_10x-1_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal1/genomic_data/10x/
+data_10x-1_scale: 1.6892
+data_10x-4_bases: 78.41 Gbp
+data_10x-4_bytes: 39.1 GiB
+data_10x-4_coverage: 64.80x
+data_10x-4_links: s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/10x/<br>
+data_10x-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal4/genomic_data/10x/
+data_10x-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal4/genomic_data/10x/
+data_10x-4_scale: 1.8685
+data_10x-5_bases: 104.31 Gbp
+data_10x-5_bytes: 51.6 GiB
+data_10x-5_coverage: 86.21x
+data_10x-5_links: s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/10x/<br>
+data_10x-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal5/genomic_data/10x/
+data_10x-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal5/genomic_data/10x/
+data_10x-5_scale: 1.8838
+data_10x_bases: 278.49 Gbp
+data_10x_bytes: 143.5 GiB
+data_10x_coverage: 230.16x
+data_arima-1_bases: 106.22 Gbp
+data_arima-1_bytes: 63.1 GiB
+data_arima-1_coverage: 87.78x
+data_arima-1_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal1/genomic_data/arima/
+data_arima-1_scale: 1.5670
+data_arima-2_bases: 100.61 Gbp
+data_arima-2_bytes: 63.1 GiB
+data_arima-2_coverage: 83.15x
+data_arima-2_links: s3://genomeark/species/Gallus_gallus/bGalGal2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal2/genomic_data/arima/
+data_arima-2_scale: 1.4850
+data_arima-3_bases: 102.19 Gbp
+data_arima-3_bytes: 63.0 GiB
+data_arima-3_coverage: 84.45x
+data_arima-3_links: s3://genomeark/species/Gallus_gallus/bGalGal3/genomic_data/arima/<br>
+data_arima-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal3/genomic_data/arima/
+data_arima-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal3/genomic_data/arima/
+data_arima-3_scale: 1.5100
+data_arima-4_bases: 79.34 Gbp
+data_arima-4_bytes: 52.5 GiB
+data_arima-4_coverage: 65.57x
+data_arima-4_links: s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/arima/<br>
+data_arima-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal4/genomic_data/arima/
+data_arima-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal4/genomic_data/arima/
+data_arima-4_scale: 1.4073
+data_arima-5_bases: 147.73 Gbp
+data_arima-5_bytes: 89.6 GiB
+data_arima-5_coverage: 122.09x
+data_arima-5_links: s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/arima/<br>
+data_arima-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal5/genomic_data/arima/
+data_arima-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal5/genomic_data/arima/
+data_arima-5_scale: 1.5352
+data_arima_bases: 536.09 Gbp
+data_arima_bytes: 331.4 GiB
+data_arima_coverage: 443.05x
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.0 GiB
+data_bionano-1_coverage: 456.16x
+data_bionano-1_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal1/genomic_data/bionano/
+data_bionano-1_scale: 510.0196
+data_bionano-4_bases: N/A
+data_bionano-4_bytes: 802.4 MiB
+data_bionano-4_coverage: 319.58x
+data_bionano-4_links: s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/bionano/<br>
+data_bionano-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal4/genomic_data/bionano/
+data_bionano-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal4/genomic_data/bionano/
+data_bionano-4_scale: 459.5875
+data_bionano-5_bases: N/A
+data_bionano-5_bytes: 0.9 GiB
+data_bionano-5_coverage: 459.32x
+data_bionano-5_links: s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/bionano/<br>
+data_bionano-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal5/genomic_data/bionano/
+data_bionano-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal5/genomic_data/bionano/
+data_bionano-5_scale: 545.6752
+data_bionano_bases: N/A
+data_bionano_bytes: 2.7 GiB
+data_bionano_coverage: 1235.05x
+data_illumina-2_bases: 103.18 Gbp
+data_illumina-2_bytes: 51.7 GiB
+data_illumina-2_coverage: 85.27x
+data_illumina-2_links: s3://genomeark/species/Gallus_gallus/bGalGal2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal2/genomic_data/illumina/
+data_illumina-2_scale: 1.8592
+data_illumina-3_bases: 116.18 Gbp
+data_illumina-3_bytes: 58.0 GiB
+data_illumina-3_coverage: 96.02x
+data_illumina-3_links: s3://genomeark/species/Gallus_gallus/bGalGal3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal3/genomic_data/illumina/
+data_illumina-3_scale: 1.8649
+data_illumina_bases: 219.36 Gbp
+data_illumina_bytes: 109.7 GiB
+data_illumina_coverage: 181.29x
+data_pacbio-1_bases: 123.49 Gbp
+data_pacbio-1_bytes: 213.3 GiB
+data_pacbio-1_coverage: 102.06x
+data_pacbio-1_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5393
+data_pacbio_bases: 123.49 Gbp
+data_pacbio_bytes: 213.3 GiB
+data_pacbio_coverage: 102.06x
+data_pacbiohifi_bam-4_bases: 39.38 Gbp
+data_pacbiohifi_bam-4_bytes: 33.7 GiB
+data_pacbiohifi_bam-4_coverage: 32.55x
+data_pacbiohifi_bam-4_links: s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal4/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal4/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-4_scale: 1.0892
 data_pacbiohifi_bam_bases: 39.38 Gbp
-data_pacbiohifi_bam_bytes: 33.672 GB
+data_pacbiohifi_bam_bytes: 33.7 GiB
 data_pacbiohifi_bam_coverage: 32.55x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.0892
-data_pacbiohifi_clr_bases: 1521.69 Gbp
-data_pacbiohifi_clr_bytes: 2760.926 GB
-data_pacbiohifi_clr_coverage: 1257.59x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/pacbio_hifi/<br>s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5133
+data_pacbiohifi_clr-4_bases: 803.98 Gbp
+data_pacbiohifi_clr-4_bytes: 1.4 TiB
+data_pacbiohifi_clr-4_coverage: 664.44x
+data_pacbiohifi_clr-4_links: s3://genomeark/species/Gallus_gallus/bGalGal4/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal4/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal4/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-4_scale: 0.5156
+data_pacbiohifi_clr-5_bases: 733.80 Gbp
+data_pacbiohifi_clr-5_bytes: 1.3 TiB
+data_pacbiohifi_clr-5_coverage: 606.45x
+data_pacbiohifi_clr-5_links: s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-5_scale: 0.5227
+data_pacbiohifi_clr_bases: 1537.77 Gbp
+data_pacbiohifi_clr_bytes: 2.7 TiB
+data_pacbiohifi_clr_coverage: 1270.89x
+data_pacbiohifi_fqgz-5_bases: 45.73 Gbp
+data_pacbiohifi_fqgz-5_bytes: 33.8 GiB
+data_pacbiohifi_fqgz-5_coverage: 37.79x
+data_pacbiohifi_fqgz-5_links: s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-5_scale: 1.2606
 data_pacbiohifi_fqgz_bases: 45.73 Gbp
-data_pacbiohifi_fqgz_bytes: 33.784 GB
+data_pacbiohifi_fqgz_bytes: 33.8 GiB
 data_pacbiohifi_fqgz_coverage: 37.79x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.2606
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: bGalGal1:GCA_016699485.1
 genbank_pat: bGalGal1:GCA_016700215.2
 genome_size: 1210000000
@@ -115,7 +218,7 @@ genome_size_method: null
 last_raw_data: 1653513293
 last_updated: 1653513293
 mat1date: 2019-10-17
-mat1filesize: 286 MiB
+mat1filesize: 285.8 MiB
 mat1length: 1050497396
 mat1n50ctg: 16502132
 mat1n50scf: 34594428
@@ -144,7 +247,7 @@ mat1sizes: |
   </table>
 mat1version: assembly_rockefeller_trio_1.6
 mito1date: 2019-10-02
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 16784
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -175,7 +278,7 @@ mito1version: assembly_MT_rockefeller
 name: Gallus gallus
 name_: Gallus_gallus
 pat1date: 2019-10-17
-pat1filesize: 303 MiB
+pat1filesize: 302.8 MiB
 pat1length: 1057759867
 pat1n50ctg: 14979167
 pat1n50scf: 74413464
@@ -204,7 +307,7 @@ pat1sizes: |
   </table>
 pat1version: assembly_rockefeller_trio_1.6
 pri4date: 2021-10-04
-pri4filesize: 306 MiB
+pri4filesize: 306.0 MiB
 pri4length: 1094281734
 pri4n50ctg: 4534642
 pri4n50scf: 80140557
@@ -233,7 +336,7 @@ pri4sizes: |
   </table>
 pri4version: assembly_curated
 pri5date: 2021-09-20
-pri5filesize: 309 MiB
+pri5filesize: 309.3 MiB
 pri5length: 1109044877
 pri5n50ctg: 7055388
 pri5n50scf: 87475253

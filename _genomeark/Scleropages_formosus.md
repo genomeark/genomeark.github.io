@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-04-01
-alt1filesize: 223 MiB
+alt1filesize: 223.0 MiB
 alt1length: 751313211
 alt1n50ctg: 659444
 alt1n50scf: 659444
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: golden arowana
+data_10x-1_bases: 133.07 Gbp
+data_10x-1_bytes: 80.2 GiB
+data_10x-1_coverage: 169.62x
+data_10x-1_links: s3://genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scleropages_formosus/fSclFor1/genomic_data/10x/
+data_10x-1_scale: 1.5451
 data_10x_bases: 133.07 Gbp
-data_10x_bytes: 80.211 GB
+data_10x_bytes: 80.2 GiB
 data_10x_coverage: 169.62x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/10x/<br>
-data_10x_scale: 1.5451
+data_arima-1_bases: 139.71 Gbp
+data_arima-1_bytes: 85.1 GiB
+data_arima-1_coverage: 178.08x
+data_arima-1_links: s3://genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scleropages_formosus/fSclFor1/genomic_data/arima/
+data_arima-1_scale: 1.5299
 data_arima_bases: 139.71 Gbp
-data_arima_bytes: 85.051 GB
+data_arima_bytes: 85.1 GiB
 data_arima_coverage: 178.08x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/arima/<br>
-data_arima_scale: 1.5299
-data_bionano_bases: 275.70 Mbp
-data_bionano_bytes: 0.119 GB
-data_bionano_coverage: 0.35x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/bionano/<br>
-data_pacbio_bases: 57.27 Gbp
-data_pacbio_bytes: 98.084 GB
-data_pacbio_coverage: 73.00x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5438
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 121.5 MiB
+data_bionano-1_coverage: 93.42x
+data_bionano-1_links: s3://genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scleropages_formosus/fSclFor1/genomic_data/bionano/
+data_bionano-1_scale: 575.3713
+data_bionano_bases: N/A
+data_bionano_bytes: 121.5 MiB
+data_bionano_coverage: 93.42x
+data_pacbio-1_bases: 57.25 Gbp
+data_pacbio-1_bytes: 98.1 GiB
+data_pacbio-1_coverage: 72.98x
+data_pacbio-1_links: s3://genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scleropages_formosus/fSclFor1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scleropages_formosus/fSclFor1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5438
+data_pacbio_bases: 57.25 Gbp
+data_pacbio_bytes: 98.1 GiB
+data_pacbio_coverage: 72.98x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fSclFor1:GCA_900964985.2
 genbank_pri: fSclFor1:GCA_900964775.1
 genome_size: 784546363
@@ -63,7 +80,7 @@ last_updated: 1554196395
 name: Scleropages formosus
 name_: Scleropages_formosus
 pri1date: 2019-04-01
-pri1filesize: 231 MiB
+pri1filesize: 230.5 MiB
 pri1length: 784546363
 pri1n50ctg: 9102216
 pri1n50scf: 31084684

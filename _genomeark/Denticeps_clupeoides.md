@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-03-05
-alt1filesize: 134 MiB
+alt1filesize: 133.7 MiB
 alt1length: 457704509
 alt1n50ctg: 384267
 alt1n50scf: 384267
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: denticle herring
+data_10x-1_bases: 117.70 Gbp
+data_10x-1_bytes: 73.0 GiB
+data_10x-1_coverage: 207.43x
+data_10x-1_links: s3://genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Denticeps_clupeoides/fDenClu1/genomic_data/10x/
+data_10x-1_scale: 1.5009
 data_10x_bases: 117.70 Gbp
-data_10x_bytes: 73.032 GB
+data_10x_bytes: 73.0 GiB
 data_10x_coverage: 207.43x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/10x/<br>
-data_10x_scale: 1.5009
+data_arima-1_bases: 54.73 Gbp
+data_arima-1_bytes: 27.8 GiB
+data_arima-1_coverage: 96.45x
+data_arima-1_links: s3://genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Denticeps_clupeoides/fDenClu1/genomic_data/arima/
+data_arima-1_scale: 1.8332
 data_arima_bases: 54.73 Gbp
-data_arima_bytes: 27.804 GB
+data_arima_bytes: 27.8 GiB
 data_arima_coverage: 96.45x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/arima/<br>
-data_arima_scale: 1.8332
-data_bionano_bases: 0.78 Gbp
-data_bionano_bytes: 1.006 GB
-data_bionano_coverage: 1.37x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/bionano/<br>
-data_pacbio_bases: 36.65 Gbp
-data_pacbio_bytes: 64.234 GB
-data_pacbio_coverage: 64.59x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5314
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.0 GiB
+data_bionano-1_coverage: 1270.66x
+data_bionano-1_links: s3://genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Denticeps_clupeoides/fDenClu1/genomic_data/bionano/
+data_bionano-1_scale: 672.5974
+data_bionano_bases: N/A
+data_bionano_bytes: 1.0 GiB
+data_bionano_coverage: 1270.66x
+data_pacbio-1_bases: 36.64 Gbp
+data_pacbio-1_bytes: 64.2 GiB
+data_pacbio-1_coverage: 64.57x
+data_pacbio-1_links: s3://genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Denticeps_clupeoides/fDenClu1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Denticeps_clupeoides/fDenClu1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5314
+data_pacbio_bases: 36.64 Gbp
+data_pacbio_bytes: 64.2 GiB
+data_pacbio_coverage: 64.57x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fDenClu1:GCA_900700345.2
 genbank_pri: fDenClu1:GCA_900700375.2
 genome_size: 567401054
@@ -61,7 +78,7 @@ genome_size_display: 0.57 Gbp
 last_raw_data: 1535895622
 last_updated: 1570719802
 mito1date: 2019-10-02
-mito1filesize: 5 KiB
+mito1filesize: 5.1 KiB
 mito1length: 16916
 mito1n50ctg: 16916
 mito1n50scf: 16916
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Denticeps clupeoides
 name_: Denticeps_clupeoides
 pri1date: 2019-03-05
-pri1filesize: 162 MiB
+pri1filesize: 162.2 MiB
 pri1length: 567401054
 pri1n50ctg: 3059612
 pri1n50scf: 22793177

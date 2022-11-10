@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-07-16
-alt1filesize: 165 MiB
+alt1filesize: 165.2 MiB
 alt1length: 563244951
 alt1n50ctg: 661860
 alt1n50scf: 661860
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: spotted scat
+data_10x-1_bases: 72.88 Gbp
+data_10x-1_bytes: 36.6 GiB
+data_10x-1_coverage: 112.47x
+data_10x-1_links: s3://genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scatophagus_argus/fScaArg1/genomic_data/10x/
+data_10x-1_scale: 1.8565
 data_10x_bases: 72.88 Gbp
-data_10x_bytes: 36.559 GB
+data_10x_bytes: 36.6 GiB
 data_10x_coverage: 112.47x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/10x/<br>
-data_10x_scale: 1.8565
+data_arima-1_bases: 134.89 Gbp
+data_arima-1_bytes: 78.0 GiB
+data_arima-1_coverage: 208.17x
+data_arima-1_links: s3://genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scatophagus_argus/fScaArg1/genomic_data/arima/
+data_arima-1_scale: 1.6111
 data_arima_bases: 134.89 Gbp
-data_arima_bytes: 77.973 GB
+data_arima_bytes: 78.0 GiB
 data_arima_coverage: 208.17x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/arima/<br>
-data_arima_scale: 1.6111
-data_bionano_bases: 0.66 Gbp
-data_bionano_bytes: 1.288 GB
-data_bionano_coverage: 1.02x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/bionano/<br>
-data_pacbio_bases: 59.90 Gbp
-data_pacbio_bytes: 105.390 GB
-data_pacbio_coverage: 92.44x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5293
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.3 GiB
+data_bionano-1_coverage: 1425.77x
+data_bionano-1_links: s3://genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scatophagus_argus/fScaArg1/genomic_data/bionano/
+data_bionano-1_scale: 669.1180
+data_bionano_bases: N/A
+data_bionano_bytes: 1.3 GiB
+data_bionano_coverage: 1425.77x
+data_pacbio-1_bases: 59.86 Gbp
+data_pacbio-1_bytes: 105.3 GiB
+data_pacbio-1_coverage: 92.38x
+data_pacbio-1_links: s3://genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scatophagus_argus/fScaArg1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scatophagus_argus/fScaArg1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5293
+data_pacbio_bases: 59.86 Gbp
+data_pacbio_bytes: 105.3 GiB
+data_pacbio_coverage: 92.38x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fScaArg1:GCA_020382915.1
 genbank_pri: fScaArg1:GCA_020382885.1
 genome_size: 647966298
@@ -62,7 +79,7 @@ genome_size_method: genomescope
 last_raw_data: 1585955244
 last_updated: 1628608234
 mito1date: 2020-03-31
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16771
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Scatophagus argus
 name_: Scatophagus_argus
 pri1date: 2021-07-16
-pri1filesize: 167 MiB
+pri1filesize: 166.7 MiB
 pri1length: 570785501
 pri1n50ctg: 16317671
 pri1n50scf: 23939444

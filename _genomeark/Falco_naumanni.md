@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-08-18
-alt1filesize: 11 KiB
+alt1filesize: 11.2 KiB
 alt1length: 36353
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,36 +30,64 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: lesser kestrel
+data_10x-1_bases: 89.04 Gbp
+data_10x-1_bytes: 44.8 GiB
+data_10x-1_coverage: 65.96x
+data_10x-1_links: s3://genomeark/species/Falco_naumanni/bFalNau1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_naumanni/bFalNau1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_naumanni/bFalNau1/genomic_data/10x/
+data_10x-1_scale: 1.8502
 data_10x_bases: 89.04 Gbp
-data_10x_bytes: 44.819 GB
+data_10x_bytes: 44.8 GiB
 data_10x_coverage: 65.96x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Falco_naumanni/bFalNau1/genomic_data/10x/<br>
-data_10x_scale: 1.8502
+data_arima-1_bases: 72.12 Gbp
+data_arima-1_bytes: 40.4 GiB
+data_arima-1_coverage: 53.42x
+data_arima-1_links: s3://genomeark/species/Falco_naumanni/bFalNau1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_naumanni/bFalNau1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_naumanni/bFalNau1/genomic_data/arima/
+data_arima-1_scale: 1.6607
 data_arima_bases: 72.12 Gbp
-data_arima_bytes: 40.446 GB
+data_arima_bytes: 40.4 GiB
 data_arima_coverage: 53.42x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Falco_naumanni/bFalNau1/genomic_data/arima/<br>
-data_arima_scale: 1.6607
-data_bionano_bases: 1.52 Gbp
-data_bionano_bytes: 0.859 GB
-data_bionano_coverage: 1.12x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Falco_naumanni/bFalNau1/genomic_data/bionano/<br>
-data_illumina_bases: 350.58 Gbp
-data_illumina_bytes: 169.136 GB
-data_illumina_coverage: 259.69x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Falco_naumanni/bFalNau2/genomic_data/illumina/<br>s3://genomeark/species/Falco_naumanni/bFalNau3/genomic_data/illumina/<br>
-data_illumina_scale: 1.9304
-data_pacbio_bases: 141.90 Gbp
-data_pacbio_bytes: 254.242 GB
-data_pacbio_coverage: 105.11x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Falco_naumanni/bFalNau1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5198
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 857.0 MiB
+data_bionano-1_coverage: 335.35x
+data_bionano-1_links: s3://genomeark/species/Falco_naumanni/bFalNau1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_naumanni/bFalNau1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_naumanni/bFalNau1/genomic_data/bionano/
+data_bionano-1_scale: 503.7949
+data_bionano_bases: N/A
+data_bionano_bytes: 857.0 MiB
+data_bionano_coverage: 335.35x
+data_illumina-2_bases: 157.96 Gbp
+data_illumina-2_bytes: 76.2 GiB
+data_illumina-2_coverage: 117.00x
+data_illumina-2_links: s3://genomeark/species/Falco_naumanni/bFalNau2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_naumanni/bFalNau2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_naumanni/bFalNau2/genomic_data/illumina/
+data_illumina-2_scale: 1.9293
+data_illumina-3_bases: 192.80 Gbp
+data_illumina-3_bytes: 92.9 GiB
+data_illumina-3_coverage: 142.81x
+data_illumina-3_links: s3://genomeark/species/Falco_naumanni/bFalNau3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_naumanni/bFalNau3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_naumanni/bFalNau3/genomic_data/illumina/
+data_illumina-3_scale: 1.9331
+data_illumina_bases: 350.76 Gbp
+data_illumina_bytes: 169.1 GiB
+data_illumina_coverage: 259.82x
+data_pacbio-1_bases: 141.85 Gbp
+data_pacbio-1_bytes: 254.1 GiB
+data_pacbio-1_coverage: 105.07x
+data_pacbio-1_links: s3://genomeark/species/Falco_naumanni/bFalNau1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_naumanni/bFalNau1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_naumanni/bFalNau1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5198
+data_pacbio_bases: 141.85 Gbp
+data_pacbio_bytes: 254.1 GiB
+data_pacbio_coverage: 105.07x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: bFalNau1:GCA_017639645.1
 genbank_pat: bFalNau1:GCA_017639655.1
 genome_size: 1350000000
@@ -68,7 +96,7 @@ genome_size_method: kmers
 last_raw_data: 1579812394
 last_updated: 1597764242
 mat1date: 2020-07-14
-mat1filesize: 335 MiB
+mat1filesize: 334.9 MiB
 mat1length: 1156765323
 mat1n50ctg: 11498467
 mat1n50scf: 55895994
@@ -97,7 +125,7 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mgd1date: 2020-07-14
-mgd1filesize: 354 MiB
+mgd1filesize: 354.2 MiB
 mgd1length: 1215702009
 mgd1n50ctg: 12381245
 mgd1n50scf: 86597978
@@ -126,7 +154,7 @@ mgd1sizes: |
   </table>
 mgd1version: assembly_curated
 mito1date: 2019-12-04
-mito1filesize: 5 KiB
+mito1filesize: 5.1 KiB
 mito1length: 17652
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -157,7 +185,7 @@ mito1version: assembly_MT_rockefeller
 name: Falco naumanni
 name_: Falco_naumanni
 pat1date: 2020-07-14
-pat1filesize: 348 MiB
+pat1filesize: 347.9 MiB
 pat1length: 1197470248
 pat1n50ctg: 12463014
 pat1n50scf: 68606003
@@ -186,7 +214,7 @@ pat1sizes: |
   </table>
 pat1version: assembly_curated
 pri1date: 2020-08-18
-pri1filesize: 354 MiB
+pri1filesize: 354.2 MiB
 pri1length: 1215702009
 pri1n50ctg: 12381245
 pri1n50scf: 86597978

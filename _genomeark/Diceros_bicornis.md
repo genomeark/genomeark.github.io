@@ -1,36 +1,64 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: black rhinoceros
+data_arima-1_bases: 218.61 Gbp
+data_arima-1_bytes: 148.4 GiB
+data_arima-1_coverage: 72.87x
+data_arima-1_links: s3://genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Diceros_bicornis/mDicBic1/genomic_data/arima/
+data_arima-1_scale: 1.3718
 data_arima_bases: 218.61 Gbp
-data_arima_bytes: 148.418 GB
+data_arima_bytes: 148.4 GiB
 data_arima_coverage: 72.87x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/arima/<br>
-data_arima_scale: 1.3718
-data_bionano_bases: 2.64 Gbp
-data_bionano_bytes: 4.610 GB
-data_bionano_coverage: 0.88x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/bionano/<br>
-data_illumina_bases: 424.23 Gbp
-data_illumina_bytes: 197.046 GB
-data_illumina_coverage: 141.41x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Diceros_bicornis/mDicBic2/genomic_data/illumina/<br>s3://genomeark/species/Diceros_bicornis/mDicBic3/genomic_data/illumina/<br>
-data_illumina_scale: 2.0051
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 4.6 GiB
+data_bionano-1_coverage: 791.92x
+data_bionano-1_links: s3://genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Diceros_bicornis/mDicBic1/genomic_data/bionano/
+data_bionano-1_scale: 483.7922
+data_bionano_bases: N/A
+data_bionano_bytes: 4.6 GiB
+data_bionano_coverage: 791.92x
+data_illumina-2_bases: 286.35 Gbp
+data_illumina-2_bytes: 133.3 GiB
+data_illumina-2_coverage: 95.45x
+data_illumina-2_links: s3://genomeark/species/Diceros_bicornis/mDicBic2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Diceros_bicornis/mDicBic2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Diceros_bicornis/mDicBic2/genomic_data/illumina/
+data_illumina-2_scale: 2.0002
+data_illumina-3_bases: 136.49 Gbp
+data_illumina-3_bytes: 63.7 GiB
+data_illumina-3_coverage: 45.50x
+data_illumina-3_links: s3://genomeark/species/Diceros_bicornis/mDicBic3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Diceros_bicornis/mDicBic3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Diceros_bicornis/mDicBic3/genomic_data/illumina/
+data_illumina-3_scale: 1.9949
+data_illumina_bases: 422.83 Gbp
+data_illumina_bytes: 197.0 GiB
+data_illumina_coverage: 140.94x
+data_pacbiohifi_bam-1_bases: 91.93 Gbp
+data_pacbiohifi_bam-1_bytes: 76.9 GiB
+data_pacbiohifi_bam-1_coverage: 30.64x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Diceros_bicornis/mDicBic1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.1128
 data_pacbiohifi_bam_bases: 91.93 Gbp
-data_pacbiohifi_bam_bytes: 76.939 GB
+data_pacbiohifi_bam_bytes: 76.9 GiB
 data_pacbiohifi_bam_coverage: 30.64x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1128
-data_pacbiohifi_clr_bases: 1687.92 Gbp
-data_pacbiohifi_clr_bytes: 3041.206 GB
-data_pacbiohifi_clr_coverage: 562.64x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5169
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_pacbiohifi_clr-1_bases: 1687.25 Gbp
+data_pacbiohifi_clr-1_bytes: 3.0 TiB
+data_pacbiohifi_clr-1_coverage: 562.42x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Diceros_bicornis/mDicBic1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Diceros_bicornis/mDicBic1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5169
+data_pacbiohifi_clr_bases: 1687.25 Gbp
+data_pacbiohifi_clr_bytes: 3.0 TiB
+data_pacbiohifi_clr_coverage: 562.42x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: mDicBic1:GCA_020826845.1
 genbank_pat: mDicBic1:GCA_020826835.1
 genome_size: 3000000000
@@ -38,7 +66,7 @@ genome_size_display: 3.00 Gbp
 last_raw_data: 1651608901
 last_updated: 1651608901
 mat1date: 2021-07-16
-mat1filesize: 832 MiB
+mat1filesize: 832.1 MiB
 mat1length: 3005519209
 mat1n50ctg: 28468213
 mat1n50scf: 65026825
@@ -69,7 +97,7 @@ mat1version: assembly_curated
 name: Diceros bicornis
 name_: Diceros_bicornis
 pat1date: 2021-07-16
-pat1filesize: 845 MiB
+pat1filesize: 845.3 MiB
 pat1length: 3044793931
 pat1n50ctg: 28776087
 pat1n50scf: 59078673

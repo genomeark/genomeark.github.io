@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-06-19
-alt1filesize: 324 MiB
+alt1filesize: 324.0 MiB
 alt1length: 1135435641
 alt1n50ctg: 246057
 alt1n50scf: 249014
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: orbiculate cardinalfish
+data_10x-1_bases: 120.51 Gbp
+data_10x-1_bytes: 76.6 GiB
+data_10x-1_coverage: 89.75x
+data_10x-1_links: s3://genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/10x/
+data_10x-1_scale: 1.4661
 data_10x_bases: 120.51 Gbp
-data_10x_bytes: 76.550 GB
+data_10x_bytes: 76.6 GiB
 data_10x_coverage: 89.75x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/10x/<br>
-data_10x_scale: 1.4661
+data_arima-1_bases: 140.47 Gbp
+data_arima-1_bytes: 85.3 GiB
+data_arima-1_coverage: 104.62x
+data_arima-1_links: s3://genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/arima/
+data_arima-1_scale: 1.5330
 data_arima_bases: 140.47 Gbp
-data_arima_bytes: 85.337 GB
+data_arima_bytes: 85.3 GiB
 data_arima_coverage: 104.62x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/arima/<br>
-data_arima_scale: 1.5330
-data_bionano_bases: 1.49 Gbp
-data_bionano_bytes: 1.154 GB
-data_bionano_coverage: 1.11x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/bionano/<br>
-data_pacbio_bases: 70.28 Gbp
-data_pacbio_bytes: 121.103 GB
-data_pacbio_coverage: 52.35x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5405
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.1 GiB
+data_bionano-1_coverage: 591.95x
+data_bionano-1_links: s3://genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/bionano/
+data_bionano-1_scale: 643.7571
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 591.95x
+data_pacbio-1_bases: 70.26 Gbp
+data_pacbio-1_bytes: 121.1 GiB
+data_pacbio-1_coverage: 52.33x
+data_pacbio-1_links: s3://genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5405
+data_pacbio_bases: 70.26 Gbp
+data_pacbio_bytes: 121.1 GiB
+data_pacbio_coverage: 52.33x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fSphaOr1:GCA_902148825.1
 genbank_pri: fSphaOr1:GCA_902148855.1
 genome_size: 1342662642
@@ -63,7 +80,7 @@ last_updated: 1561653480
 name: Sphaeramia orbicularis
 name_: Sphaeramia_orbicularis
 pri1date: 2019-06-19
-pri1filesize: 378 MiB
+pri1filesize: 378.0 MiB
 pri1length: 1342662642
 pri1n50ctg: 2360121
 pri1n50scf: 57165184

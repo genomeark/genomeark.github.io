@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-12-16
-alt1filesize: 1 GiB
+alt1filesize: 1.1 GiB
 alt1length: 3867000847
 alt1n50ctg: 230697
 alt1n50scf: 230697
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: lesser-spotted catshark
+data_10x-1_bases: 444.23 Gbp
+data_10x-1_bytes: 295.8 GiB
+data_10x-1_coverage: 105.26x
+data_10x-1_links: s3://genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scyliorhinus_canicula/sScyCan1/genomic_data/10x/
+data_10x-1_scale: 1.3985
 data_10x_bases: 444.23 Gbp
-data_10x_bytes: 295.832 GB
+data_10x_bytes: 295.8 GiB
 data_10x_coverage: 105.26x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/10x/<br>
-data_10x_scale: 1.3985
+data_arima-1_bases: 149.36 Gbp
+data_arima-1_bytes: 99.0 GiB
+data_arima-1_coverage: 35.39x
+data_arima-1_links: s3://genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scyliorhinus_canicula/sScyCan1/genomic_data/arima/
+data_arima-1_scale: 1.4052
 data_arima_bases: 149.36 Gbp
-data_arima_bytes: 98.991 GB
+data_arima_bytes: 99.0 GiB
 data_arima_coverage: 35.39x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/arima/<br>
-data_arima_scale: 1.4052
-data_bionano_bases: 9.42 Gbp
-data_bionano_bytes: 1.817 GB
-data_bionano_coverage: 2.23x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/bionano/<br>
-data_pacbio_bases: 335.92 Gbp
-data_pacbio_bytes: 588.060 GB
-data_pacbio_coverage: 79.59x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5320
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.7 GiB
+data_bionano-1_coverage: 359.61x
+data_bionano-1_links: s3://genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scyliorhinus_canicula/sScyCan1/genomic_data/bionano/
+data_bionano-1_scale: 817.6315
+data_bionano_bases: N/A
+data_bionano_bytes: 1.7 GiB
+data_bionano_coverage: 359.61x
+data_pacbio-1_bases: 335.74 Gbp
+data_pacbio-1_bytes: 587.7 GiB
+data_pacbio-1_coverage: 79.55x
+data_pacbio-1_links: s3://genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scyliorhinus_canicula/sScyCan1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scyliorhinus_canicula/sScyCan1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5320
+data_pacbio_bases: 335.74 Gbp
+data_pacbio_bytes: 587.7 GiB
+data_pacbio_coverage: 79.55x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: sScyCan1:GCA_902713625.2
 genbank_pri: sScyCan1:GCA_902713615.2
 genome_size: 4220389930
@@ -63,7 +80,7 @@ last_updated: 1608203939
 name: Scyliorhinus canicula
 name_: Scyliorhinus_canicula
 pri1date: 2019-12-16
-pri1filesize: 1 GiB
+pri1filesize: 1.2 GiB
 pri1length: 4220389930
 pri1n50ctg: 1855773
 pri1n50scf: 198790641

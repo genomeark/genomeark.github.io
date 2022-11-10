@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-10-11
-alt1filesize: 202 MiB
+alt1filesize: 202.2 MiB
 alt1length: 698977026
 alt1n50ctg: 265665
 alt1n50scf: 265830
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Korean giant-fin mudskipper
+data_10x-1_bases: 73.95 Gbp
+data_10x-1_bytes: 34.5 GiB
+data_10x-1_coverage: 73.95x
+data_10x-1_links: s3://genomeark/species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/10x/
+data_10x-1_scale: 1.9988
 data_10x_bases: 73.95 Gbp
-data_10x_bytes: 34.457 GB
+data_10x_bytes: 34.5 GiB
 data_10x_coverage: 73.95x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/10x/<br>
-data_10x_scale: 1.9988
+data_arima-1_bases: 95.06 Gbp
+data_arima-1_bytes: 57.5 GiB
+data_arima-1_coverage: 95.06x
+data_arima-1_links: s3://genomeark/species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/arima/
+data_arima-1_scale: 1.5392
 data_arima_bases: 95.06 Gbp
-data_arima_bytes: 57.519 GB
+data_arima_bytes: 57.5 GiB
 data_arima_coverage: 95.06x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/arima/<br>
-data_arima_scale: 1.5392
-data_bionano_bases: 0.97 Gbp
-data_bionano_bytes: 1.419 GB
-data_bionano_coverage: 0.97x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/bionano/<br>
-data_pacbio_bases: 69.68 Gbp
-data_pacbio_bytes: 121.200 GB
-data_pacbio_coverage: 69.68x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5354
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.4 GiB
+data_bionano-1_coverage: 743.85x
+data_bionano-1_links: s3://genomeark/species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/bionano/
+data_bionano-1_scale: 491.9999
+data_bionano_bases: N/A
+data_bionano_bytes: 1.4 GiB
+data_bionano_coverage: 743.85x
+data_pacbio-1_bases: 69.64 Gbp
+data_pacbio-1_bytes: 121.1 GiB
+data_pacbio-1_coverage: 69.64x
+data_pacbio-1_links: s3://genomeark/species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5354
+data_pacbio_bases: 69.64 Gbp
+data_pacbio_bytes: 121.1 GiB
+data_pacbio_coverage: 69.64x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fPerMag1:GCA_009829135.1
 genbank_pri: fPerMag1:GCA_009829125.1
 genome_size: 1000000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1565835138
 last_updated: 1570816584
 mito1date: 2019-10-02
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16496
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Periophthalmus magnuspinnatus
 name_: Periophthalmus_magnuspinnatus
 pri1date: 2019-10-11
-pri1filesize: 213 MiB
+pri1filesize: 213.5 MiB
 pri1length: 752605361
 pri1n50ctg: 1539147
 pri1n50scf: 30435919

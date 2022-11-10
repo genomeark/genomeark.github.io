@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-04-01
-alt1filesize: 279 MiB
+alt1filesize: 278.9 MiB
 alt1length: 1011372379
 alt1n50ctg: 17570343
 alt1n50scf: 50326596
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: plains spadefoot toad
+data_arima-1_bases: 194.61 Gbp
+data_arima-1_bytes: 98.8 GiB
+data_arima-1_coverage: 161.10x
+data_arima-1_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spea_bombifrons/aSpeBom1/genomic_data/arima/
+data_arima-1_scale: 1.8338
 data_arima_bases: 194.61 Gbp
-data_arima_bytes: 98.838 GB
+data_arima_bytes: 98.8 GiB
 data_arima_coverage: 161.10x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/arima/<br>
-data_arima_scale: 1.8338
-data_bionano_bases: 1.90 Gbp
-data_bionano_bytes: 0.693 GB
-data_bionano_coverage: 1.57x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/bionano/<br>
-data_pacbiohifi_bam_bases: 200.73 Gbp
-data_pacbiohifi_bam_bytes: 144.977 GB
-data_pacbiohifi_bam_coverage: 166.17x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.2895
-data_pacbiohifi_clr_bases: 112.15 Gbp
-data_pacbiohifi_clr_bytes: 277.855 GB
-data_pacbiohifi_clr_coverage: 92.84x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.3759
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 684.1 MiB
+data_bionano-1_coverage: 373.08x
+data_bionano-1_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spea_bombifrons/aSpeBom1/genomic_data/bionano/
+data_bionano-1_scale: 628.2845
+data_bionano_bases: N/A
+data_bionano_bytes: 684.1 MiB
+data_bionano_coverage: 373.08x
+data_pacbiohifi_bam-1_bases: 43.31 Gbp
+data_pacbiohifi_bam-1_bytes: 145.0 GiB
+data_pacbiohifi_bam-1_coverage: 35.85x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2782
+data_pacbiohifi_bam_bases: 43.31 Gbp
+data_pacbiohifi_bam_bytes: 145.0 GiB
+data_pacbiohifi_bam_coverage: 35.85x
+data_pacbiohifi_clr-1_bases: 112.12 Gbp
+data_pacbiohifi_clr-1_bytes: 277.8 GiB
+data_pacbiohifi_clr-1_coverage: 92.82x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.3759
+data_pacbiohifi_clr_bases: 112.12 Gbp
+data_pacbiohifi_clr_bytes: 277.8 GiB
+data_pacbiohifi_clr_coverage: 92.82x
+data_pacbiohifi_fqgz-1_bases: 42.82 Gbp
+data_pacbiohifi_fqgz-1_bytes: 31.0 GiB
+data_pacbiohifi_fqgz-1_coverage: 35.45x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2874
 data_pacbiohifi_fqgz_bases: 42.82 Gbp
-data_pacbiohifi_fqgz_bytes: 30.976 GB
+data_pacbiohifi_fqgz_bytes: 31.0 GiB
 data_pacbiohifi_fqgz_coverage: 35.45x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.2874
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1208000000
 genome_size_display: 1.21 Gbp
 genome_size_method: GoAT
@@ -68,7 +89,7 @@ last_updated: 1651594550
 name: Spea bombifrons
 name_: Spea_bombifrons
 pri1date: 2022-04-01
-pri1filesize: 273 MiB
+pri1filesize: 273.5 MiB
 pri1length: 989826660
 pri1n50ctg: 17563255
 pri1n50scf: 109868144

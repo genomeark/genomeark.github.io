@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-08-20
-alt1filesize: 536 MiB
+alt1filesize: 535.6 MiB
 alt1length: 1814330211
 alt1n50ctg: 379232
 alt1n50scf: 382953
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Western terrestrial garter snake
+data_10x-1_bases: 204.27 Gbp
+data_10x-1_bytes: 104.3 GiB
+data_10x-1_coverage: 107.51x
+data_10x-1_links: s3://genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thamnophis_elegans/rThaEle1/genomic_data/10x/
+data_10x-1_scale: 1.8244
 data_10x_bases: 204.27 Gbp
-data_10x_bytes: 104.274 GB
+data_10x_bytes: 104.3 GiB
 data_10x_coverage: 107.51x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/10x/<br>
-data_10x_scale: 1.8244
-data_bionano_bases: 3.00 Gbp
-data_bionano_bytes: 0.589 GB
-data_bionano_coverage: 1.58x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 563.7 MiB
+data_bionano-1_coverage: 185.58x
+data_bionano-1_links: s3://genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thamnophis_elegans/rThaEle1/genomic_data/bionano/
+data_bionano-1_scale: 596.5558
+data_bionano_bases: N/A
+data_bionano_bytes: 563.7 MiB
+data_bionano_coverage: 185.58x
+data_dovetail-1_bases: 260.54 Gbp
+data_dovetail-1_bytes: 147.8 GiB
+data_dovetail-1_coverage: 137.13x
+data_dovetail-1_links: s3://genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thamnophis_elegans/rThaEle1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.6412
 data_dovetail_bases: 260.54 Gbp
-data_dovetail_bytes: 147.848 GB
+data_dovetail_bytes: 147.8 GiB
 data_dovetail_coverage: 137.13x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.6412
-data_pacbio_bases: 118.16 Gbp
-data_pacbio_bytes: 204.091 GB
-data_pacbio_coverage: 62.19x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5392
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_pacbio-1_bases: 118.12 Gbp
+data_pacbio-1_bytes: 204.0 GiB
+data_pacbio-1_coverage: 62.17x
+data_pacbio-1_links: s3://genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Thamnophis_elegans/rThaEle1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thamnophis_elegans/rThaEle1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5392
+data_pacbio_bases: 118.12 Gbp
+data_pacbio_bytes: 204.0 GiB
+data_pacbio_coverage: 62.17x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: rThaEle1:GCA_009769695.1
 genbank_pri: rThaEle1:GCA_009769535.1
 genome_size: 1900000000
@@ -64,7 +81,7 @@ last_updated: 1566486524
 name: Thamnophis elegans
 name_: Thamnophis_elegans
 pri1date: 2019-08-20
-pri1filesize: 473 MiB
+pri1filesize: 473.1 MiB
 pri1length: 1672190305
 pri1n50ctg: 3552160
 pri1n50scf: 88492469

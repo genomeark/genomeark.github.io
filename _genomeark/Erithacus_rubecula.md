@@ -1,6 +1,6 @@
 ---
 alt2date: 2020-06-03
-alt2filesize: 264 MiB
+alt2filesize: 264.1 MiB
 alt2length: 912720829
 alt2n50ctg: 602370
 alt2n50scf: 603216
@@ -30,24 +30,36 @@ alt2sizes: |
 alt2version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: European robin
+data_10x-2_bases: 126.32 Gbp
+data_10x-2_bytes: 78.1 GiB
+data_10x-2_coverage: 116.23x
+data_10x-2_links: s3://genomeark/species/Erithacus_rubecula/bEriRub2/genomic_data/10x/<br>
+data_10x-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Erithacus_rubecula/bEriRub2/genomic_data/10x/
+data_10x-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erithacus_rubecula/bEriRub2/genomic_data/10x/
+data_10x-2_scale: 1.5057
 data_10x_bases: 126.32 Gbp
-data_10x_bytes: 78.131 GB
+data_10x_bytes: 78.1 GiB
 data_10x_coverage: 116.23x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Erithacus_rubecula/bEriRub2/genomic_data/10x/<br>
-data_10x_scale: 1.5057
+data_dovetail-2_bases: 137.17 Gbp
+data_dovetail-2_bytes: 85.1 GiB
+data_dovetail-2_coverage: 126.22x
+data_dovetail-2_links: s3://genomeark/species/Erithacus_rubecula/bEriRub2/genomic_data/dovetail/<br>
+data_dovetail-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Erithacus_rubecula/bEriRub2/genomic_data/dovetail/
+data_dovetail-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erithacus_rubecula/bEriRub2/genomic_data/dovetail/
+data_dovetail-2_scale: 1.5019
 data_dovetail_bases: 137.17 Gbp
-data_dovetail_bytes: 85.060 GB
+data_dovetail_bytes: 85.1 GiB
 data_dovetail_coverage: 126.22x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Erithacus_rubecula/bEriRub2/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.5019
-data_pacbio_bases: 74.52 Gbp
-data_pacbio_bytes: 130.206 GB
-data_pacbio_coverage: 68.57x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Erithacus_rubecula/bEriRub2/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5330
+data_pacbio-2_bases: 74.48 Gbp
+data_pacbio-2_bytes: 130.1 GiB
+data_pacbio-2_coverage: 68.53x
+data_pacbio-2_links: s3://genomeark/species/Erithacus_rubecula/bEriRub2/genomic_data/pacbio/<br>
+data_pacbio-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Erithacus_rubecula/bEriRub2/genomic_data/pacbio/
+data_pacbio-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erithacus_rubecula/bEriRub2/genomic_data/pacbio/
+data_pacbio-2_scale: 0.5330
+data_pacbio_bases: 74.48 Gbp
+data_pacbio_bytes: 130.1 GiB
+data_pacbio_coverage: 68.53x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: bEriRub2:GCA_903797565.2
 genbank_pri: bEriRub2:GCA_903797595.2
@@ -58,7 +70,7 @@ last_updated: 1591259911
 name: Erithacus rubecula
 name_: Erithacus_rubecula
 pri2date: 2020-06-03
-pri2filesize: 313 MiB
+pri2filesize: 313.1 MiB
 pri2length: 1086738318
 pri2n50ctg: 5585877
 pri2n50scf: 46560559

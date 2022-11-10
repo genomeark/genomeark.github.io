@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-03-18
-alt1filesize: 270 MiB
+alt1filesize: 270.4 MiB
 alt1length: 969356965
 alt1n50ctg: 848045
 alt1n50scf: 848045
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common_myna
+data_arima:bAcrTri1_bases: 148.84 Gbp
+data_arima:bAcrTri1_bytes: 72.2 GiB
+data_arima:bAcrTri1_coverage: 116.28x
+data_arima:bAcrTri1_links: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/arima/<br>
+data_arima:bAcrTri1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/arima/
+data_arima:bAcrTri1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acridotheres_tristis/bAcrTri1/genomic_data/arima/
+data_arima:bAcrTri1_scale: 1.9206
 data_arima_bases: 148.84 Gbp
-data_arima_bytes: 72.175 GB
+data_arima_bytes: 72.2 GiB
 data_arima_coverage: 116.28x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/arima/<br>
-data_arima_scale: 1.9206
-data_bionano_bases: 1.46 Gbp
-data_bionano_bytes: 0.873 GB
-data_bionano_coverage: 1.14x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/bionano/<br>
-data_pacbiohifi_bam_bases: 39.24 Gbp
-data_pacbiohifi_bam_bytes: 31.613 GB
-data_pacbiohifi_bam_coverage: 30.66x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1561
-data_pacbiohifi_clr_bases: 905.04 Gbp
-data_pacbiohifi_clr_bytes: 1613.491 GB
-data_pacbiohifi_clr_coverage: 707.07x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5224
+data_bionano:bAcrTri1_bases: N/A
+data_bionano:bAcrTri1_bytes: 876.1 MiB
+data_bionano:bAcrTri1_coverage: 381.32x
+data_bionano:bAcrTri1_links: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/bionano/<br>
+data_bionano:bAcrTri1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/bionano/
+data_bionano:bAcrTri1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acridotheres_tristis/bAcrTri1/genomic_data/bionano/
+data_bionano:bAcrTri1_scale: 531.3233
+data_bionano_bases: N/A
+data_bionano_bytes: 876.1 MiB
+data_bionano_coverage: 381.32x
+data_pacbiohifi_bam:bAcrTri1_bases: 40.37 Gbp
+data_pacbiohifi_bam:bAcrTri1_bytes: 31.6 GiB
+data_pacbiohifi_bam:bAcrTri1_coverage: 31.54x
+data_pacbiohifi_bam:bAcrTri1_links: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam:bAcrTri1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam:bAcrTri1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acridotheres_tristis/bAcrTri1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam:bAcrTri1_scale: 1.1892
+data_pacbiohifi_bam_bases: 40.37 Gbp
+data_pacbiohifi_bam_bytes: 31.6 GiB
+data_pacbiohifi_bam_coverage: 31.54x
+data_pacbiohifi_clr:bAcrTri1_bases: 904.67 Gbp
+data_pacbiohifi_clr:bAcrTri1_bytes: 1.6 TiB
+data_pacbiohifi_clr:bAcrTri1_coverage: 706.77x
+data_pacbiohifi_clr:bAcrTri1_links: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr:bAcrTri1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr:bAcrTri1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acridotheres_tristis/bAcrTri1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr:bAcrTri1_scale: 0.5224
+data_pacbiohifi_clr_bases: 904.67 Gbp
+data_pacbiohifi_clr_bytes: 1.6 TiB
+data_pacbiohifi_clr_coverage: 706.77x
+data_pacbiohifi_fqgz:bAcrTri1_bases: 19.01 Gbp
+data_pacbiohifi_fqgz:bAcrTri1_bytes: 15.4 GiB
+data_pacbiohifi_fqgz:bAcrTri1_coverage: 14.85x
+data_pacbiohifi_fqgz:bAcrTri1_links: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz:bAcrTri1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz:bAcrTri1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acridotheres_tristis/bAcrTri1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz:bAcrTri1_scale: 1.1470
 data_pacbiohifi_fqgz_bases: 19.01 Gbp
-data_pacbiohifi_fqgz_bytes: 15.432 GB
+data_pacbiohifi_fqgz_bytes: 15.4 GiB
 data_pacbiohifi_fqgz_coverage: 14.85x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.1470
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1280000000
 genome_size_display: 1.28 Gbp
 genome_size_method: GoaT ancestral inferred
@@ -68,7 +89,7 @@ last_updated: 1655490293
 name: Acridotheres tristis
 name_: Acridotheres_tristis
 pri1date: 2022-03-18
-pri1filesize: 325 MiB
+pri1filesize: 325.0 MiB
 pri1length: 1193400391
 pri1n50ctg: 6993937
 pri1n50scf: 75254055

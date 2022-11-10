@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-12-04
-alt1filesize: 308 MiB
+alt1filesize: 307.7 MiB
 alt1length: 1042364165
 alt1n50ctg: 1662631
 alt1n50scf: 1662631
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: grey crowned-crane
+data_10x-1_bases: 156.29 Gbp
+data_10x-1_bytes: 76.4 GiB
+data_10x-1_coverage: 107.79x
+data_10x-1_links: s3://genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balearica_regulorum/bBalReg1/genomic_data/10x/
+data_10x-1_scale: 1.9064
 data_10x_bases: 156.29 Gbp
-data_10x_bytes: 76.352 GB
+data_10x_bytes: 76.4 GiB
 data_10x_coverage: 107.79x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/10x/<br>
-data_10x_scale: 1.9064
+data_arima-1_bases: 93.71 Gbp
+data_arima-1_bytes: 56.1 GiB
+data_arima-1_coverage: 64.63x
+data_arima-1_links: s3://genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balearica_regulorum/bBalReg1/genomic_data/arima/
+data_arima-1_scale: 1.5545
 data_arima_bases: 93.71 Gbp
-data_arima_bytes: 56.145 GB
+data_arima_bytes: 56.1 GiB
 data_arima_coverage: 64.63x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/arima/<br>
-data_arima_scale: 1.5545
-data_bionano_bases: 1.50 Gbp
-data_bionano_bytes: 0.954 GB
-data_bionano_coverage: 1.03x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/bionano/<br>
-data_pacbio_bases: 86.31 Gbp
-data_pacbio_bytes: 146.868 GB
-data_pacbio_coverage: 59.52x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5473
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 0.9 GiB
+data_bionano-1_coverage: 444.79x
+data_bionano-1_links: s3://genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balearica_regulorum/bBalReg1/genomic_data/bionano/
+data_bionano-1_scale: 643.5434
+data_bionano_bases: N/A
+data_bionano_bytes: 0.9 GiB
+data_bionano_coverage: 444.79x
+data_pacbio-1_bases: 86.29 Gbp
+data_pacbio-1_bytes: 146.8 GiB
+data_pacbio-1_coverage: 59.51x
+data_pacbio-1_links: s3://genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Balearica_regulorum/bBalReg1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balearica_regulorum/bBalReg1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5473
+data_pacbio_bases: 86.29 Gbp
+data_pacbio_bytes: 146.8 GiB
+data_pacbio_coverage: 59.51x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bBalReg1:GCA_011004865.1
 genbank_pri: bBalReg1:GCA_011004875.1
 genome_size: 1450000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1571157581
 last_updated: 1576514397
 mito1date: 2019-12-16
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 19234
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Balearica regulorum
 name_: Balearica_regulorum
 pri1date: 2019-12-04
-pri1filesize: 356 MiB
+pri1filesize: 356.3 MiB
 pri1length: 1221032548
 pri1n50ctg: 19783995
 pri1n50scf: 71435996

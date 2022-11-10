@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-02-04
-alt1filesize: 311 MiB
+alt1filesize: 311.2 MiB
 alt1length: 1112029929
 alt1n50ctg: 704099
 alt1n50scf: 704099
@@ -30,24 +30,36 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: northern goshawk
+data_10x-1_bases: 83.17 Gbp
+data_10x-1_bytes: 40.1 GiB
+data_10x-1_coverage: 59.49x
+data_10x-1_links: s3://genomeark/species/Accipiter_gentilis/bAccGen1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Accipiter_gentilis/bAccGen1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Accipiter_gentilis/bAccGen1/genomic_data/10x/
+data_10x-1_scale: 1.9329
 data_10x_bases: 83.17 Gbp
-data_10x_bytes: 40.076 GB
+data_10x_bytes: 40.1 GiB
 data_10x_coverage: 59.49x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Accipiter_gentilis/bAccGen1/genomic_data/10x/<br>
-data_10x_scale: 1.9329
+data_arima-1_bases: 68.59 Gbp
+data_arima-1_bytes: 31.8 GiB
+data_arima-1_coverage: 49.06x
+data_arima-1_links: s3://genomeark/species/Accipiter_gentilis/bAccGen1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Accipiter_gentilis/bAccGen1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Accipiter_gentilis/bAccGen1/genomic_data/arima/
+data_arima-1_scale: 2.0117
 data_arima_bases: 68.59 Gbp
-data_arima_bytes: 31.754 GB
+data_arima_bytes: 31.8 GiB
 data_arima_coverage: 49.06x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Accipiter_gentilis/bAccGen1/genomic_data/arima/<br>
-data_arima_scale: 2.0117
-data_pacbiohifi_bam_bases: 50.37 Gbp
-data_pacbiohifi_bam_bytes: 78.306 GB
-data_pacbiohifi_bam_coverage: 36.03x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Accipiter_gentilis/bAccGen1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 0.5991
+data_pacbiohifi_bam-1_bases: 50.34 Gbp
+data_pacbiohifi_bam-1_bytes: 78.3 GiB
+data_pacbiohifi_bam-1_coverage: 36.01x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Accipiter_gentilis/bAccGen1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Accipiter_gentilis/bAccGen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Accipiter_gentilis/bAccGen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.5991
+data_pacbiohifi_bam_bases: 50.34 Gbp
+data_pacbiohifi_bam_bytes: 78.3 GiB
+data_pacbiohifi_bam_coverage: 36.01x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bAccGen1:GCA_929447715.1
 genbank_pri: bAccGen1:GCA_929443795.1
@@ -58,7 +70,7 @@ last_updated: 1651593249
 name: Accipiter gentilis
 name_: Accipiter_gentilis
 pri1date: 2022-02-04
-pri1filesize: 383 MiB
+pri1filesize: 382.5 MiB
 pri1length: 1398027955
 pri1n50ctg: 17712854
 pri1n50scf: 35025567

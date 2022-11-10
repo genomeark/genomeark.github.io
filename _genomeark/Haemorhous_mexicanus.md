@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-02-03
-alt1filesize: 294 MiB
+alt1filesize: 294.3 MiB
 alt1length: 1039351984
 alt1n50ctg: 2940900
 alt1n50scf: 2940900
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: house finch
+data_arima-1_bases: 218.60 Gbp
+data_arima-1_bytes: 99.6 GiB
+data_arima-1_coverage: 159.68x
+data_arima-1_links: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Haemorhous_mexicanus/bHaeMex1/genomic_data/arima/
+data_arima-1_scale: 2.0443
 data_arima_bases: 218.60 Gbp
-data_arima_bytes: 99.587 GB
+data_arima_bytes: 99.6 GiB
 data_arima_coverage: 159.68x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/arima/<br>
-data_arima_scale: 2.0443
-data_bionano_bases: 1.29 Gbp
-data_bionano_bytes: 0.953 GB
-data_bionano_coverage: 0.94x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/bionano/<br>
-data_pacbiohifi_clr_bases: 512.41 Gbp
-data_pacbiohifi_clr_bytes: 989.673 GB
-data_pacbiohifi_clr_coverage: 374.30x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.4822
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 0.9 GiB
+data_bionano-1_coverage: 430.47x
+data_bionano-1_links: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Haemorhous_mexicanus/bHaeMex1/genomic_data/bionano/
+data_bionano-1_scale: 586.4871
+data_bionano_bases: N/A
+data_bionano_bytes: 0.9 GiB
+data_bionano_coverage: 430.47x
+data_pacbiohifi_clr-1_bases: 512.18 Gbp
+data_pacbiohifi_clr-1_bytes: 1.0 TiB
+data_pacbiohifi_clr-1_coverage: 374.13x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Haemorhous_mexicanus/bHaeMex1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.4822
+data_pacbiohifi_clr_bases: 512.18 Gbp
+data_pacbiohifi_clr_bytes: 1.0 TiB
+data_pacbiohifi_clr_coverage: 374.13x
+data_pacbiohifi_fqgz-1_bases: 50.45 Gbp
+data_pacbiohifi_fqgz-1_bytes: 37.4 GiB
+data_pacbiohifi_fqgz-1_coverage: 36.85x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Haemorhous_mexicanus/bHaeMex1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2564
 data_pacbiohifi_fqgz_bases: 50.45 Gbp
-data_pacbiohifi_fqgz_bytes: 37.399 GB
+data_pacbiohifi_fqgz_bytes: 37.4 GiB
 data_pacbiohifi_fqgz_coverage: 36.85x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.2564
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1369000000
 genome_size_display: 1.37 Gbp
 genome_size_method: GoAT
@@ -62,7 +79,7 @@ last_updated: 1651611249
 name: Haemorhous mexicanus
 name_: Haemorhous_mexicanus
 pri1date: 2022-02-03
-pri1filesize: 320 MiB
+pri1filesize: 320.1 MiB
 pri1length: 1148216196
 pri1n50ctg: 13364686
 pri1n50scf: 66865462

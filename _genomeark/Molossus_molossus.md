@@ -1,30 +1,47 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: Pallas's mastiff bat
+data_10x-1_bases: 106.64 Gbp
+data_10x-1_bytes: 55.2 GiB
+data_10x-1_coverage: 45.98x
+data_10x-1_links: s3://genomeark/species/Molossus_molossus/mMolMol1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Molossus_molossus/mMolMol1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Molossus_molossus/mMolMol1/genomic_data/10x/
+data_10x-1_scale: 1.7983
 data_10x_bases: 106.64 Gbp
-data_10x_bytes: 55.226 GB
+data_10x_bytes: 55.2 GiB
 data_10x_coverage: 45.98x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Molossus_molossus/mMolMol1/genomic_data/10x/<br>
-data_10x_scale: 1.7983
+data_arima-1_bases: 148.51 Gbp
+data_arima-1_bytes: 95.5 GiB
+data_arima-1_coverage: 64.04x
+data_arima-1_links: s3://genomeark/species/Molossus_molossus/mMolMol1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Molossus_molossus/mMolMol1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Molossus_molossus/mMolMol1/genomic_data/arima/
+data_arima-1_scale: 1.4485
 data_arima_bases: 148.51 Gbp
-data_arima_bytes: 95.483 GB
+data_arima_bytes: 95.5 GiB
 data_arima_coverage: 64.04x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Molossus_molossus/mMolMol1/genomic_data/arima/<br>
-data_arima_scale: 1.4485
-data_bionano_bases: 2.94 Gbp
-data_bionano_bytes: 1.463 GB
-data_bionano_coverage: 1.27x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Molossus_molossus/mMolMol1/genomic_data/bionano/<br>
-data_pacbio_bases: 135.14 Gbp
-data_pacbio_bytes: 235.251 GB
-data_pacbio_coverage: 58.28x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Molossus_molossus/mMolMol1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5350
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.5 GiB
+data_bionano-1_coverage: 408.78x
+data_bionano-1_links: s3://genomeark/species/Molossus_molossus/mMolMol1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Molossus_molossus/mMolMol1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Molossus_molossus/mMolMol1/genomic_data/bionano/
+data_bionano-1_scale: 607.4019
+data_bionano_bases: N/A
+data_bionano_bytes: 1.5 GiB
+data_bionano_coverage: 408.78x
+data_pacbio-1_bases: 135.08 Gbp
+data_pacbio-1_bytes: 235.1 GiB
+data_pacbio-1_coverage: 58.25x
+data_pacbio-1_links: s3://genomeark/species/Molossus_molossus/mMolMol1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Molossus_molossus/mMolMol1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Molossus_molossus/mMolMol1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5350
+data_pacbio_bases: 135.08 Gbp
+data_pacbio_bytes: 235.1 GiB
+data_pacbio_coverage: 58.25x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_pri: mMolMol1:GCA_014108415.1
 genome_size: 2319008189
 genome_size_display: 2.32 Gbp
@@ -34,7 +51,7 @@ last_updated: 1582495898
 name: Molossus molossus
 name_: Molossus_molossus
 pri1date: 2019-04-18
-pri1filesize: 723 MiB
+pri1filesize: 722.5 MiB
 pri1length: 2319008189
 pri1n50ctg: 21658165
 pri1n50scf: 110665204

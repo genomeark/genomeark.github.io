@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-03-13
-alt1filesize: 84 MiB
+alt1filesize: 83.6 MiB
 alt1length: 289313524
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: red-bellied piranha
+data_10x-1_bases: 87.78 Gbp
+data_10x-1_bytes: 41.0 GiB
+data_10x-1_coverage: 73.15x
+data_10x-1_links: s3://genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pygocentrus_nattereri/fPygNat1/genomic_data/10x/
+data_10x-1_scale: 1.9932
 data_10x_bases: 87.78 Gbp
-data_10x_bytes: 41.015 GB
+data_10x_bytes: 41.0 GiB
 data_10x_coverage: 73.15x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/10x/<br>
-data_10x_scale: 1.9932
+data_arima-1_bases: 92.17 Gbp
+data_arima-1_bytes: 55.4 GiB
+data_arima-1_coverage: 76.81x
+data_arima-1_links: s3://genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pygocentrus_nattereri/fPygNat1/genomic_data/arima/
+data_arima-1_scale: 1.5503
 data_arima_bases: 92.17 Gbp
-data_arima_bytes: 55.372 GB
+data_arima_bytes: 55.4 GiB
 data_arima_coverage: 76.81x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/arima/<br>
-data_arima_scale: 1.5503
-data_bionano_bases: 1.31 Gbp
-data_bionano_bytes: 1.082 GB
-data_bionano_coverage: 1.09x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/bionano/<br>
-data_pacbio_bases: 93.28 Gbp
-data_pacbio_bytes: 160.160 GB
-data_pacbio_coverage: 77.73x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5424
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.1 GiB
+data_bionano-1_coverage: 700.00x
+data_bionano-1_links: s3://genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pygocentrus_nattereri/fPygNat1/genomic_data/bionano/
+data_bionano-1_scale: 725.0932
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 700.00x
+data_pacbio-1_bases: 93.24 Gbp
+data_pacbio-1_bytes: 160.1 GiB
+data_pacbio-1_coverage: 77.70x
+data_pacbio-1_links: s3://genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pygocentrus_nattereri/fPygNat1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pygocentrus_nattereri/fPygNat1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5424
+data_pacbio_bases: 93.24 Gbp
+data_pacbio_bytes: 160.1 GiB
+data_pacbio_coverage: 77.70x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fPygNat1:GCA_015220065.1
 genbank_pri: fPygNat1:GCA_015220715.1
 genome_size: 1200000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1570708223
 last_updated: 1584960723
 mito1date: 2019-10-07
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16708
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Pygocentrus nattereri
 name_: Pygocentrus_nattereri
 pri1date: 2020-03-13
-pri1filesize: 343 MiB
+pri1filesize: 343.2 MiB
 pri1length: 1222050449
 pri1n50ctg: 13176364
 pri1n50scf: 42283192

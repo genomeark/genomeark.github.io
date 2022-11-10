@@ -1,30 +1,47 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: false killer whale
-data_bionano_bases: 2.44 Gbp
-data_bionano_bytes: 1.704 GB
-data_bionano_coverage: 0.79x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/bionano/<br>
-data_pacbiohifi_bam_bases: 501.59 Gbp
-data_pacbiohifi_bam_bytes: 403.232 GB
-data_pacbiohifi_bam_coverage: 162.80x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1585
-data_pacbiohifi_clr_bases: 382.26 Gbp
-data_pacbiohifi_clr_bytes: 915.428 GB
-data_pacbiohifi_clr_coverage: 124.07x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.3889
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.7 GiB
+data_bionano-1_coverage: 270.84x
+data_bionano-1_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudorca_crassidens/mPseCra1/genomic_data/bionano/
+data_bionano-1_scale: 465.3108
+data_bionano_bases: N/A
+data_bionano_bytes: 1.7 GiB
+data_bionano_coverage: 270.84x
+data_pacbiohifi_bam-1_bases: 116.99 Gbp
+data_pacbiohifi_bam-1_bytes: 403.2 GiB
+data_pacbiohifi_bam-1_coverage: 37.97x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2702
+data_pacbiohifi_bam_bases: 116.99 Gbp
+data_pacbiohifi_bam_bytes: 403.2 GiB
+data_pacbiohifi_bam_coverage: 37.97x
+data_pacbiohifi_clr-1_bases: 382.18 Gbp
+data_pacbiohifi_clr-1_bytes: 0.9 TiB
+data_pacbiohifi_clr-1_coverage: 124.04x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.3889
+data_pacbiohifi_clr_bases: 382.18 Gbp
+data_pacbiohifi_clr_bytes: 0.9 TiB
+data_pacbiohifi_clr_coverage: 124.04x
+data_pacbiohifi_fqgz-1_bases: 116.44 Gbp
+data_pacbiohifi_fqgz-1_bytes: 93.8 GiB
+data_pacbiohifi_fqgz-1_coverage: 37.79x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.1564
 data_pacbiohifi_fqgz_bases: 116.44 Gbp
-data_pacbiohifi_fqgz_bytes: 93.779 GB
+data_pacbiohifi_fqgz_bytes: 93.8 GiB
 data_pacbiohifi_fqgz_coverage: 37.79x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.1564
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
 genome_size: 3081000000
 genome_size_display: 3.08 Gbp
 genome_size_method: GoAT

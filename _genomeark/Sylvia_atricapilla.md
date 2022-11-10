@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-09-16
-alt1filesize: 291 MiB
+alt1filesize: 290.7 MiB
 alt1length: 991486332
 alt1n50ctg: 1338450
 alt1n50scf: 1338450
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Eurasian blackcap
+data_10x-1_bases: 90.89 Gbp
+data_10x-1_bytes: 43.3 GiB
+data_10x-1_coverage: 83.38x
+data_10x-1_links: s3://genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_atricapilla/bSylAtr1/genomic_data/10x/
+data_10x-1_scale: 1.9527
 data_10x_bases: 90.89 Gbp
-data_10x_bytes: 43.349 GB
+data_10x_bytes: 43.3 GiB
 data_10x_coverage: 83.38x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/10x/<br>
-data_10x_scale: 1.9527
+data_arima-1_bases: 177.70 Gbp
+data_arima-1_bytes: 89.2 GiB
+data_arima-1_coverage: 163.03x
+data_arima-1_links: s3://genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_atricapilla/bSylAtr1/genomic_data/arima/
+data_arima-1_scale: 1.8552
 data_arima_bases: 177.70 Gbp
-data_arima_bytes: 89.206 GB
+data_arima_bytes: 89.2 GiB
 data_arima_coverage: 163.03x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/arima/<br>
-data_arima_scale: 1.8552
-data_bionano_bases: 1.39 Gbp
-data_bionano_bytes: 0.371 GB
-data_bionano_coverage: 1.28x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/bionano/<br>
-data_pacbio_bases: 72.49 Gbp
-data_pacbio_bytes: 125.854 GB
-data_pacbio_coverage: 66.50x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5364
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 361.7 MiB
+data_bionano-1_coverage: 185.76x
+data_bionano-1_links: s3://genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_atricapilla/bSylAtr1/genomic_data/bionano/
+data_bionano-1_scale: 533.9255
+data_bionano_bases: N/A
+data_bionano_bytes: 361.7 MiB
+data_bionano_coverage: 185.76x
+data_pacbio-1_bases: 72.45 Gbp
+data_pacbio-1_bytes: 125.8 GiB
+data_pacbio-1_coverage: 66.47x
+data_pacbio-1_links: s3://genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sylvia_atricapilla/bSylAtr1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_atricapilla/bSylAtr1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5364
+data_pacbio_bases: 72.45 Gbp
+data_pacbio_bytes: 125.8 GiB
+data_pacbio_coverage: 66.47x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bSylAtr1:GCA_009819715.1
 genbank_pri: bSylAtr1:GCA_009819655.1
 genome_size: 1090000000
@@ -64,7 +81,7 @@ last_updated: 1568927405
 name: Sylvia atricapilla
 name_: Sylvia_atricapilla
 pri1date: 2019-09-16
-pri1filesize: 307 MiB
+pri1filesize: 306.6 MiB
 pri1length: 1066786587
 pri1n50ctg: 7060864
 pri1n50scf: 72605035

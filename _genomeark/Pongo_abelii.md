@@ -1,33 +1,49 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: Sumatran orangutan
+data_dovetail-1_bases: 112.53 Gbp
+data_dovetail-1_bytes: 56.9 GiB
+data_dovetail-1_coverage: 31.44x
+data_dovetail-1_links: s3://genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pongo_abelii/mPonAbe1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.8422
 data_dovetail_bases: 112.53 Gbp
-data_dovetail_bytes: 56.889 GB
+data_dovetail_bytes: 56.9 GiB
 data_dovetail_coverage: 31.44x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.8422
+data_ont-1_bases: 291.23 Gbp
+data_ont-1_bytes: 246.6 GiB
+data_ont-1_coverage: 81.36x
+data_ont-1_links: s3://genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/ont/<br>
+data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/ont/
+data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pongo_abelii/mPonAbe1/genomic_data/ont/
+data_ont-1_scale: 1.0997
 data_ont_bases: 291.23 Gbp
-data_ont_bytes: 246.637 GB
+data_ont_bytes: 246.6 GiB
 data_ont_coverage: 81.36x
-data_ont_files: 666
-data_ont_links: s3://genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/ont/<br>
-data_ont_scale: 1.0997
-data_pacbiohifi_clr_bases: 5012.59 Gbp
-data_pacbiohifi_clr_bytes: 9471.160 GB
-data_pacbiohifi_clr_coverage: 1400.37x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.4929
+data_pacbiohifi_clr-1_bases: 5011.07 Gbp
+data_pacbiohifi_clr-1_bytes: 9.2 TiB
+data_pacbiohifi_clr-1_coverage: 1399.94x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.4929
+data_pacbiohifi_clr_bases: 5011.07 Gbp
+data_pacbiohifi_clr_bytes: 9.2 TiB
+data_pacbiohifi_clr_coverage: 1399.94x
+data_pacbiohifi_fqgz-1_bases: 315.06 Gbp
+data_pacbiohifi_fqgz-1_bytes: 239.4 GiB
+data_pacbiohifi_fqgz-1_coverage: 88.02x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2258
 data_pacbiohifi_fqgz_bases: 315.06 Gbp
-data_pacbiohifi_fqgz_bytes: 239.372 GB
+data_pacbiohifi_fqgz_bytes: 239.4 GiB
 data_pacbiohifi_fqgz_coverage: 88.02x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.2258
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Dovetail</em>'
 dip1date: 2022-10-05
-dip1filesize: 1 GiB
+dip1filesize: 1.5 GiB
 dip1length: 6195299244
 dip1n50ctg: 20929732
 dip1n50scf: 20929732

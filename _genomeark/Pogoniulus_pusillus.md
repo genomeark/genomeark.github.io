@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-05-14
-alt1filesize: 315 MiB
+alt1filesize: 315.5 MiB
 alt1length: 1101771457
 alt1n50ctg: 714436
 alt1n50scf: 714436
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Red-fronted tinkerbird
+data_10x-1_bases: 107.86 Gbp
+data_10x-1_bytes: 54.5 GiB
+data_10x-1_coverage: 107.86x
+data_10x-1_links: s3://genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pogoniulus_pusillus/bPogPus1/genomic_data/10x/
+data_10x-1_scale: 1.8431
 data_10x_bases: 107.86 Gbp
-data_10x_bytes: 54.502 GB
+data_10x_bytes: 54.5 GiB
 data_10x_coverage: 107.86x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/10x/<br>
-data_10x_scale: 1.8431
+data_arima-1_bases: 79.25 Gbp
+data_arima-1_bytes: 44.0 GiB
+data_arima-1_coverage: 79.25x
+data_arima-1_links: s3://genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pogoniulus_pusillus/bPogPus1/genomic_data/arima/
+data_arima-1_scale: 1.6787
 data_arima_bases: 79.25 Gbp
-data_arima_bytes: 43.965 GB
+data_arima_bytes: 44.0 GiB
 data_arima_coverage: 79.25x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/arima/<br>
-data_arima_scale: 1.6787
-data_bionano_bases: 1.40 Gbp
-data_bionano_bytes: 1.110 GB
-data_bionano_coverage: 1.40x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/bionano/<br>
-data_pacbio_bases: 165.69 Gbp
-data_pacbio_bytes: 292.750 GB
-data_pacbio_coverage: 165.69x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5271
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.1 GiB
+data_bionano-1_coverage: 597.46x
+data_bionano-1_links: s3://genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pogoniulus_pusillus/bPogPus1/genomic_data/bionano/
+data_bionano-1_scale: 510.0652
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 597.46x
+data_pacbio-1_bases: 165.64 Gbp
+data_pacbio-1_bytes: 292.7 GiB
+data_pacbio-1_coverage: 165.64x
+data_pacbio-1_links: s3://genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pogoniulus_pusillus/bPogPus1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pogoniulus_pusillus/bPogPus1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5271
+data_pacbio_bases: 165.64 Gbp
+data_pacbio_bytes: 292.7 GiB
+data_pacbio_coverage: 165.64x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bPogPus1:GCA_015220175.1
 genbank_pri: bPogPus1:GCA_015220805.1
 genome_size: 1000000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1579788702
 last_updated: 1589472340
 mito1date: 2020-01-24
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 19935
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Pogoniulus pusillus
 name_: Pogoniulus_pusillus
 pri1date: 2020-05-14
-pri1filesize: 359 MiB
+pri1filesize: 359.5 MiB
 pri1length: 1272338968
 pri1n50ctg: 20642447
 pri1n50scf: 41511246

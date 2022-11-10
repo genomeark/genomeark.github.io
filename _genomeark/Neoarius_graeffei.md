@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-03-11
-alt1filesize: 622 MiB
+alt1filesize: 622.0 MiB
 alt1length: 2195086527
 alt1n50ctg: 698418
 alt1n50scf: 698418
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: lesser salmon catfish
+data_arima-1_bases: 375.53 Gbp
+data_arima-1_bytes: 174.6 GiB
+data_arima-1_coverage: 155.44x
+data_arima-1_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Neoarius_graeffei/fNeoGra1/genomic_data/arima/
+data_arima-1_scale: 2.0026
 data_arima_bases: 375.53 Gbp
-data_arima_bytes: 174.645 GB
+data_arima_bytes: 174.6 GiB
 data_arima_coverage: 155.44x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/arima/<br>
-data_arima_scale: 2.0026
-data_bionano_bases: 2.93 Gbp
-data_bionano_bytes: 0.719 GB
-data_bionano_coverage: 1.21x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/bionano/<br>
-data_pacbiohifi_bam_bases: 337.17 Gbp
-data_pacbiohifi_bam_bytes: 279.447 GB
-data_pacbiohifi_bam_coverage: 139.56x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1237
-data_pacbiohifi_clr_bases: 490.52 Gbp
-data_pacbiohifi_clr_bytes: 1043.001 GB
-data_pacbiohifi_clr_coverage: 203.03x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.4380
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 707.0 MiB
+data_bionano-1_coverage: 224.76x
+data_bionano-1_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Neoarius_graeffei/fNeoGra1/genomic_data/bionano/
+data_bionano-1_scale: 732.5311
+data_bionano_bases: N/A
+data_bionano_bytes: 707.0 MiB
+data_bionano_coverage: 224.76x
+data_pacbiohifi_bam-1_bases: 79.90 Gbp
+data_pacbiohifi_bam-1_bytes: 279.4 GiB
+data_pacbiohifi_bam-1_coverage: 33.07x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2663
+data_pacbiohifi_bam_bases: 79.90 Gbp
+data_pacbiohifi_bam_bytes: 279.4 GiB
+data_pacbiohifi_bam_coverage: 33.07x
+data_pacbiohifi_clr-1_bases: 490.41 Gbp
+data_pacbiohifi_clr-1_bytes: 1.0 TiB
+data_pacbiohifi_clr-1_coverage: 202.98x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.4380
+data_pacbiohifi_clr_bases: 490.41 Gbp
+data_pacbiohifi_clr_bytes: 1.0 TiB
+data_pacbiohifi_clr_coverage: 202.98x
+data_pacbiohifi_fqgz-1_bases: 79.92 Gbp
+data_pacbiohifi_fqgz-1_bytes: 66.2 GiB
+data_pacbiohifi_fqgz-1_coverage: 33.08x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.1237
 data_pacbiohifi_fqgz_bases: 79.92 Gbp
-data_pacbiohifi_fqgz_bytes: 66.235 GB
+data_pacbiohifi_fqgz_bytes: 66.2 GiB
 data_pacbiohifi_fqgz_coverage: 33.08x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.1237
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 2416000000
 genome_size_display: 2.42 Gbp
 genome_size_method: GoAT
@@ -68,7 +89,7 @@ last_updated: 1651598084
 name: Neoarius graeffei
 name_: Neoarius_graeffei
 pri1date: 2022-03-11
-pri1filesize: 656 MiB
+pri1filesize: 656.5 MiB
 pri1length: 2341916362
 pri1n50ctg: 14669962
 pri1n50scf: 83211567

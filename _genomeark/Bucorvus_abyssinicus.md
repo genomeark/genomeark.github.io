@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-08-12
-alt1filesize: 305 MiB
+alt1filesize: 304.6 MiB
 alt1length: 1024138499
 alt1n50ctg: 954952
 alt1n50scf: 954952
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Abyssinian ground-hornbill
+data_10x-1_bases: 105.59 Gbp
+data_10x-1_bytes: 50.5 GiB
+data_10x-1_coverage: 93.23x
+data_10x-1_links: s3://genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bucorvus_abyssinicus/bBucAby1/genomic_data/10x/
+data_10x-1_scale: 1.9478
 data_10x_bases: 105.59 Gbp
-data_10x_bytes: 50.486 GB
+data_10x_bytes: 50.5 GiB
 data_10x_coverage: 93.23x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/10x/<br>
-data_10x_scale: 1.9478
+data_arima-1_bases: 283.78 Gbp
+data_arima-1_bytes: 146.8 GiB
+data_arima-1_coverage: 250.56x
+data_arima-1_links: s3://genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bucorvus_abyssinicus/bBucAby1/genomic_data/arima/
+data_arima-1_scale: 1.8009
 data_arima_bases: 283.78 Gbp
-data_arima_bytes: 146.756 GB
+data_arima_bytes: 146.8 GiB
 data_arima_coverage: 250.56x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/arima/<br>
-data_arima_scale: 1.8009
-data_bionano_bases: 1.40 Gbp
-data_bionano_bytes: 2.001 GB
-data_bionano_coverage: 1.23x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/bionano/<br>
-data_pacbio_bases: 86.91 Gbp
-data_pacbio_bytes: 150.701 GB
-data_pacbio_coverage: 76.74x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5371
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.0 GiB
+data_bionano-1_coverage: 1079.16x
+data_bionano-1_links: s3://genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bucorvus_abyssinicus/bBucAby1/genomic_data/bionano/
+data_bionano-1_scale: 574.6226
+data_bionano_bases: N/A
+data_bionano_bytes: 2.0 GiB
+data_bionano_coverage: 1079.16x
+data_pacbio-1_bases: 86.87 Gbp
+data_pacbio-1_bytes: 150.6 GiB
+data_pacbio-1_coverage: 76.70x
+data_pacbio-1_links: s3://genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bucorvus_abyssinicus/bBucAby1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5371
+data_pacbio_bases: 86.87 Gbp
+data_pacbio_bytes: 150.6 GiB
+data_pacbio_coverage: 76.70x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bBucAby1:GCA_009769595.1
 genbank_pri: bBucAby1:GCA_009769605.1
 genome_size: 1132597561
@@ -63,7 +80,7 @@ last_updated: 1565897614
 name: Bucorvus abyssinicus
 name_: Bucorvus_abyssinicus
 pri1date: 2019-08-12
-pri1filesize: 331 MiB
+pri1filesize: 330.7 MiB
 pri1length: 1132597561
 pri1n50ctg: 12039478
 pri1n50scf: 40274051

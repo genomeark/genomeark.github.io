@@ -1,24 +1,32 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: John Dory
+data_10x-1_bases: 104.63 Gbp
+data_10x-1_bytes: 69.6 GiB
+data_10x-1_coverage: N/A
+data_10x-1_links: s3://genomeark/species/Zeus_faber/fZeuFab1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Zeus_faber/fZeuFab1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zeus_faber/fZeuFab1/genomic_data/10x/
+data_10x-1_scale: 1.4007
 data_10x_bases: 104.63 Gbp
-data_10x_bytes: 69.566 GB
+data_10x_bytes: 69.6 GiB
 data_10x_coverage: N/A
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Zeus_faber/fZeuFab1/genomic_data/10x/<br>
-data_10x_scale: 1.4007
-data_pacbio_bases: 71.73 Gbp
-data_pacbio_bytes: 128.412 GB
+data_pacbio-1_bases: 71.68 Gbp
+data_pacbio-1_bytes: 128.3 GiB
+data_pacbio-1_coverage: N/A
+data_pacbio-1_links: s3://genomeark/species/Zeus_faber/fZeuFab1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Zeus_faber/fZeuFab1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zeus_faber/fZeuFab1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5202
+data_pacbio_bases: 71.68 Gbp
+data_pacbio_bytes: 128.3 GiB
 data_pacbio_coverage: N/A
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Zeus_faber/fZeuFab1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5202
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>'
 genome_size: 0
 last_raw_data: 1519740599
 last_updated: 1570719805
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 5.1 KiB
 mito1length: 16722
 mito1n50ctg: 16722
 mito1n50scf: 16722

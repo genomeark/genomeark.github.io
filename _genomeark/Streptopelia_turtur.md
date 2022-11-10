@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-05-23
-alt1filesize: 308 MiB
+alt1filesize: 307.7 MiB
 alt1length: 1035214426
 alt1n50ctg: 776317
 alt1n50scf: 776317
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: turtle dove
+data_10x-1_bases: 131.88 Gbp
+data_10x-1_bytes: 81.0 GiB
+data_10x-1_coverage: 111.86x
+data_10x-1_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Streptopelia_turtur/bStrTur1/genomic_data/10x/
+data_10x-1_scale: 1.5160
 data_10x_bases: 131.88 Gbp
-data_10x_bytes: 81.016 GB
+data_10x_bytes: 81.0 GiB
 data_10x_coverage: 111.86x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/10x/<br>
-data_10x_scale: 1.5160
+data_arima-1_bases: 125.06 Gbp
+data_arima-1_bytes: 58.8 GiB
+data_arima-1_coverage: 106.08x
+data_arima-1_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Streptopelia_turtur/bStrTur1/genomic_data/arima/
+data_arima-1_scale: 1.9815
 data_arima_bases: 125.06 Gbp
-data_arima_bytes: 58.781 GB
+data_arima_bytes: 58.8 GiB
 data_arima_coverage: 106.08x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/arima/<br>
-data_arima_scale: 1.9815
-data_bionano_bases: 1.08 Gbp
-data_bionano_bytes: 0.536 GB
-data_bionano_coverage: 0.91x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/bionano/<br>
-data_pacbio_bases: 61.72 Gbp
-data_pacbio_bytes: 107.985 GB
-data_pacbio_coverage: 52.35x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5323
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 545.8 MiB
+data_bionano-1_coverage: 294.91x
+data_bionano-1_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Streptopelia_turtur/bStrTur1/genomic_data/bionano/
+data_bionano-1_scale: 607.5458
+data_bionano_bases: N/A
+data_bionano_bytes: 545.8 MiB
+data_bionano_coverage: 294.91x
+data_pacbio-1_bases: 61.69 Gbp
+data_pacbio-1_bytes: 107.9 GiB
+data_pacbio-1_coverage: 52.33x
+data_pacbio-1_links: s3://genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Streptopelia_turtur/bStrTur1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Streptopelia_turtur/bStrTur1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5323
+data_pacbio_bases: 61.69 Gbp
+data_pacbio_bytes: 107.9 GiB
+data_pacbio_coverage: 52.33x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bStrTur1:GCA_901699165.2
 genbank_pri: bStrTur1:GCA_901699155.2
 genome_size: 1178928410
@@ -63,7 +80,7 @@ last_updated: 1559462111
 name: Streptopelia turtur
 name_: Streptopelia_turtur
 pri1date: 2019-05-23
-pri1filesize: 344 MiB
+pri1filesize: 343.8 MiB
 pri1length: 1178928410
 pri1n50ctg: 3730413
 pri1n50scf: 80150727

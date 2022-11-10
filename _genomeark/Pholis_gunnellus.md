@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-10-20
-alt1filesize: 170 MiB
+alt1filesize: 170.0 MiB
 alt1length: 590303236
 alt1n50ctg: 640680
 alt1n50scf: 640680
@@ -30,24 +30,36 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: rock gunnel
+data_10x-1_bases: 64.42 Gbp
+data_10x-1_bytes: 37.8 GiB
+data_10x-1_coverage: 109.43x
+data_10x-1_links: s3://genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pholis_gunnellus/fPhoGun1/genomic_data/10x/
+data_10x-1_scale: 1.5878
 data_10x_bases: 64.42 Gbp
-data_10x_bytes: 37.786 GB
+data_10x_bytes: 37.8 GiB
 data_10x_coverage: 109.43x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/10x/<br>
-data_10x_scale: 1.5878
+data_arima-1_bases: 128.76 Gbp
+data_arima-1_bytes: 75.8 GiB
+data_arima-1_coverage: 218.72x
+data_arima-1_links: s3://genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pholis_gunnellus/fPhoGun1/genomic_data/arima/
+data_arima-1_scale: 1.5823
 data_arima_bases: 128.76 Gbp
-data_arima_bytes: 75.788 GB
+data_arima_bytes: 75.8 GiB
 data_arima_coverage: 218.72x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/arima/<br>
-data_arima_scale: 1.5823
-data_pacbiohifi_bam_bases: 41.02 Gbp
-data_pacbiohifi_bam_bytes: 33.614 GB
-data_pacbiohifi_bam_coverage: 69.68x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1365
+data_pacbiohifi_bam-1_bases: 40.98 Gbp
+data_pacbiohifi_bam-1_bytes: 33.6 GiB
+data_pacbiohifi_bam-1_coverage: 69.61x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pholis_gunnellus/fPhoGun1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.1365
+data_pacbiohifi_bam_bases: 40.98 Gbp
+data_pacbiohifi_bam_bytes: 33.6 GiB
+data_pacbiohifi_bam_coverage: 69.61x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fPhoGun1:GCA_910591705.2
 genbank_pri: fPhoGun1:GCA_910591455.2
@@ -58,7 +70,7 @@ last_updated: 1651612017
 name: Pholis gunnellus
 name_: Pholis_gunnellus
 pri1date: 2021-10-20
-pri1filesize: 170 MiB
+pri1filesize: 169.6 MiB
 pri1length: 588696950
 pri1n50ctg: 3519450
 pri1n50scf: 25364761

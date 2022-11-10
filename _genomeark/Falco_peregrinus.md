@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-12-14
-alt1filesize: 337 MiB
+alt1filesize: 336.7 MiB
 alt1length: 1175509191
 alt1n50ctg: 1182388
 alt1n50scf: 1182388
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: peregrine falcon
+data_arima-1_bases: 228.47 Gbp
+data_arima-1_bytes: 149.1 GiB
+data_arima-1_coverage: 160.90x
+data_arima-1_links: s3://genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_peregrinus/bFalPer1/genomic_data/arima/
+data_arima-1_scale: 1.4274
 data_arima_bases: 228.47 Gbp
-data_arima_bytes: 149.069 GB
+data_arima_bytes: 149.1 GiB
 data_arima_coverage: 160.90x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/arima/<br>
-data_arima_scale: 1.4274
-data_bionano_bases: 1.32 Gbp
-data_bionano_bytes: 0.780 GB
-data_bionano_coverage: 0.93x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/bionano/<br>
-data_pacbiohifi_clr_bases: 574.30 Gbp
-data_pacbiohifi_clr_bytes: 1027.990 GB
-data_pacbiohifi_clr_coverage: 404.44x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5203
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 777.9 MiB
+data_bionano-1_coverage: 287.34x
+data_bionano-1_links: s3://genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_peregrinus/bFalPer1/genomic_data/bionano/
+data_bionano-1_scale: 500.2286
+data_bionano_bases: N/A
+data_bionano_bytes: 777.9 MiB
+data_bionano_coverage: 287.34x
+data_pacbiohifi_clr-1_bases: 574.08 Gbp
+data_pacbiohifi_clr-1_bytes: 1.0 TiB
+data_pacbiohifi_clr-1_coverage: 404.28x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_peregrinus/bFalPer1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5203
+data_pacbiohifi_clr_bases: 574.08 Gbp
+data_pacbiohifi_clr_bytes: 1.0 TiB
+data_pacbiohifi_clr_coverage: 404.28x
+data_pacbiohifi_fqgz-1_bases: 34.35 Gbp
+data_pacbiohifi_fqgz-1_bytes: 28.6 GiB
+data_pacbiohifi_fqgz-1_coverage: 24.19x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_peregrinus/bFalPer1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.1175
 data_pacbiohifi_fqgz_bases: 34.35 Gbp
-data_pacbiohifi_fqgz_bytes: 28.631 GB
+data_pacbiohifi_fqgz_bytes: 28.6 GiB
 data_pacbiohifi_fqgz_coverage: 24.19x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.1175
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bFalPer1:GCA_023634185.1
 genbank_pri: bFalPer1:GCA_023634155.1
 genome_size: 1420000000
@@ -64,7 +81,7 @@ last_updated: 1653509926
 name: Falco peregrinus
 name_: Falco_peregrinus
 pri1date: 2021-12-14
-pri1filesize: 363 MiB
+pri1filesize: 362.9 MiB
 pri1length: 1311580791
 pri1n50ctg: 14426051
 pri1n50scf: 93682670

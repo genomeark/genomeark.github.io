@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-03-02
-alt1filesize: 309 MiB
+alt1filesize: 308.8 MiB
 alt1length: 1041284291
 alt1n50ctg: 2549616
 alt1n50scf: 2549616
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: great potoo
+data_10x-1_bases: 130.46 Gbp
+data_10x-1_bytes: 63.0 GiB
+data_10x-1_coverage: 130.46x
+data_10x-1_links: s3://genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nyctibius_grandis/bNycGra1/genomic_data/10x/
+data_10x-1_scale: 1.9281
 data_10x_bases: 130.46 Gbp
-data_10x_bytes: 63.015 GB
+data_10x_bytes: 63.0 GiB
 data_10x_coverage: 130.46x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/10x/<br>
-data_10x_scale: 1.9281
+data_arima-1_bases: 112.31 Gbp
+data_arima-1_bytes: 59.9 GiB
+data_arima-1_coverage: 112.31x
+data_arima-1_links: s3://genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nyctibius_grandis/bNycGra1/genomic_data/arima/
+data_arima-1_scale: 1.7472
 data_arima_bases: 112.31 Gbp
-data_arima_bytes: 59.866 GB
+data_arima_bytes: 59.9 GiB
 data_arima_coverage: 112.31x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/arima/<br>
-data_arima_scale: 1.7472
-data_bionano_bases: 1.44 Gbp
-data_bionano_bytes: 0.797 GB
-data_bionano_coverage: 1.44x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/bionano/<br>
-data_pacbio_bases: 88.42 Gbp
-data_pacbio_bytes: 153.661 GB
-data_pacbio_coverage: 88.42x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5359
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 795.8 MiB
+data_bionano-1_coverage: 448.15x
+data_bionano-1_links: s3://genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nyctibius_grandis/bNycGra1/genomic_data/bionano/
+data_bionano-1_scale: 537.0338
+data_bionano_bases: N/A
+data_bionano_bytes: 795.8 MiB
+data_bionano_coverage: 448.15x
+data_pacbio-1_bases: 88.38 Gbp
+data_pacbio-1_bytes: 153.6 GiB
+data_pacbio-1_coverage: 88.38x
+data_pacbio-1_links: s3://genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nyctibius_grandis/bNycGra1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nyctibius_grandis/bNycGra1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5359
+data_pacbio_bases: 88.38 Gbp
+data_pacbio_bytes: 153.6 GiB
+data_pacbio_coverage: 88.38x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bNycGra1:GCA_013368595.1
 genbank_pri: bNycGra1:GCA_013368605.1
 genome_size: 1000000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1572448610
 last_updated: 1589468600
 mito1date: 2019-10-02
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 21413
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Nyctibius grandis
 name_: Nyctibius_grandis
 pri1date: 2020-03-02
-pri1filesize: 366 MiB
+pri1filesize: 365.9 MiB
 pri1length: 1256393467
 pri1n50ctg: 28622470
 pri1n50scf: 99981954

@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-03-30
-alt1filesize: 646 MiB
+alt1filesize: 646.0 MiB
 alt1length: 2376281363
 alt1n50ctg: 776382
 alt1n50scf: 776382
@@ -30,39 +30,85 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Blainville's beaked whale
-data_bionano_bases: 2.60 Gbp
-data_bionano_bytes: 1.116 GB
-data_bionano_coverage: 0.77x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/bionano/<br>
-data_pacbiohifi_bam_bases: 228.32 Gbp
-data_pacbiohifi_bam_bytes: 385.982 GB
-data_pacbiohifi_bam_coverage: 67.61x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 0.5509
-data_pacbiohifi_clr_bases: 398.80 Gbp
-data_pacbiohifi_clr_bytes: 932.029 GB
-data_pacbiohifi_clr_coverage: 118.09x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.3985
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.1 GiB
+data_bionano-1_coverage: 214.97x
+data_bionano-1_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mesoplodon_densirostris/mMesDen1/genomic_data/bionano/
+data_bionano-1_scale: 626.1875
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 214.97x
+data_pacbiohifi_bam-1_bases: 113.68 Gbp
+data_pacbiohifi_bam-1_bytes: 386.0 GiB
+data_pacbiohifi_bam-1_coverage: 33.66x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2743
+data_pacbiohifi_bam_bases: 113.68 Gbp
+data_pacbiohifi_bam_bytes: 386.0 GiB
+data_pacbiohifi_bam_coverage: 33.66x
+data_pacbiohifi_clr-1_bases: 398.71 Gbp
+data_pacbiohifi_clr-1_bytes: 0.9 TiB
+data_pacbiohifi_clr-1_coverage: 118.07x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.3985
+data_pacbiohifi_clr_bases: 398.71 Gbp
+data_pacbiohifi_clr_bytes: 0.9 TiB
+data_pacbiohifi_clr_coverage: 118.07x
+data_pacbiohifi_fqgz-1_bases: 113.63 Gbp
+data_pacbiohifi_fqgz-1_bytes: 87.8 GiB
+data_pacbiohifi_fqgz-1_coverage: 33.65x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2057
 data_pacbiohifi_fqgz_bases: 113.63 Gbp
-data_pacbiohifi_fqgz_bytes: 87.774 GB
+data_pacbiohifi_fqgz_bytes: 87.8 GiB
 data_pacbiohifi_fqgz_coverage: 33.65x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.2057
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
 genome_size: 3377000000
 genome_size_display: 3.38 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651616843
-last_updated: 1655491843
+last_updated: 1667318720
+mito1date: 2022-06-17
+mito1filesize: 4.9 KiB
+mito1length: 16347
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Mesoplodon_densirostris/mMesDen1/assembly_MT_rockefeller/mMesDen1.MT.20220617.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.35 Kbp </th><th> 1 </th><th> 16.35 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Mesoplodon densirostris
 name_: Mesoplodon_densirostris
 pri1date: 2022-03-30
-pri1filesize: 727 MiB
+pri1filesize: 727.4 MiB
 pri1length: 2683375131
 pri1n50ctg: 40142772
 pri1n50scf: 111292810

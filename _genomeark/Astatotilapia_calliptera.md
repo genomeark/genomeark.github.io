@@ -1,6 +1,6 @@
 ---
 alt1date: 2018-08-17
-alt1filesize: 141 MiB
+alt1filesize: 141.4 MiB
 alt1length: 467673105
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,31 +30,44 @@ alt1sizes: |
 alt1version: assembly_vgp_standard_1.0
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Eastern happy
+data_10x-1_bases: 118.06 Gbp
+data_10x-1_bytes: 78.9 GiB
+data_10x-1_coverage: 121.40x
+data_10x-1_links: s3://genomeark/species/Astatotilapia_calliptera/fAstCal1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Astatotilapia_calliptera/fAstCal1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Astatotilapia_calliptera/fAstCal1/genomic_data/10x/
+data_10x-1_scale: 1.3938
 data_10x_bases: 118.06 Gbp
-data_10x_bytes: 78.888 GB
+data_10x_bytes: 78.9 GiB
 data_10x_coverage: 121.40x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Astatotilapia_calliptera/fAstCal1/genomic_data/10x/<br>
-data_10x_scale: 1.3938
-data_bionano_bases: 1.06 Gbp
-data_bionano_bytes: 0.128 GB
-data_bionano_coverage: 1.09x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Astatotilapia_calliptera/fAstCal1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 129.7 MiB
+data_bionano-1_coverage: 109.85x
+data_bionano-1_links: s3://genomeark/species/Astatotilapia_calliptera/fAstCal1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Astatotilapia_calliptera/fAstCal1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Astatotilapia_calliptera/fAstCal1/genomic_data/bionano/
+data_bionano-1_scale: 785.6340
+data_bionano_bases: N/A
+data_bionano_bytes: 129.7 MiB
+data_bionano_coverage: 109.85x
+data_pacbio-1_bases: 74.89 Gbp
+data_pacbio-1_bytes: 269.6 GiB
+data_pacbio-1_coverage: 77.01x
+data_pacbio-1_links: s3://genomeark/species/Astatotilapia_calliptera/fAstCal1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Astatotilapia_calliptera/fAstCal1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Astatotilapia_calliptera/fAstCal1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.2587
 data_pacbio_bases: 74.89 Gbp
-data_pacbio_bytes: 269.612 GB
+data_pacbio_bytes: 269.6 GiB
 data_pacbio_coverage: 77.01x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Astatotilapia_calliptera/fAstCal1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.2587
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>'
 genbank_pri: fAstCal1:GCA_900246225.5
 genome_size: 972478608
 genome_size_display: 0.97 Gbp
 last_raw_data: 1520006832
 last_updated: 1570719801
 mito1date: 2019-10-02
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16582
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -85,7 +98,7 @@ mito1version: assembly_MT_rockefeller
 name: Astatotilapia calliptera
 name_: Astatotilapia_calliptera
 pri1date: 2018-05-30
-pri1filesize: 267 MiB
+pri1filesize: 267.4 MiB
 pri1length: 880428986
 pri1n50ctg: 3979531
 pri1n50scf: 36676067

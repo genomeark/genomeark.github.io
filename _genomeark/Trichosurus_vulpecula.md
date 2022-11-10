@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-01-15
-alt1filesize: 757 MiB
+alt1filesize: 756.9 MiB
 alt1length: 2591928569
 alt1n50ctg: 438275
 alt1n50scf: 438275
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common brushtail possum
+data_10x-1_bases: 246.68 Gbp
+data_10x-1_bytes: 115.6 GiB
+data_10x-1_coverage: 82.23x
+data_10x-1_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trichosurus_vulpecula/mTriVul1/genomic_data/10x/
+data_10x-1_scale: 1.9879
 data_10x_bases: 246.68 Gbp
-data_10x_bytes: 115.568 GB
+data_10x_bytes: 115.6 GiB
 data_10x_coverage: 82.23x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/10x/<br>
-data_10x_scale: 1.9879
+data_arima-1_bases: 441.83 Gbp
+data_arima-1_bytes: 227.8 GiB
+data_arima-1_coverage: 147.28x
+data_arima-1_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trichosurus_vulpecula/mTriVul1/genomic_data/arima/
+data_arima-1_scale: 1.8067
 data_arima_bases: 441.83 Gbp
-data_arima_bytes: 227.757 GB
+data_arima_bytes: 227.8 GiB
 data_arima_coverage: 147.28x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/arima/<br>
-data_arima_scale: 1.8067
-data_bionano_bases: 3.88 Gbp
-data_bionano_bytes: 1.178 GB
-data_bionano_coverage: 1.29x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/bionano/<br>
-data_pacbio_bases: 182.35 Gbp
-data_pacbio_bytes: 315.605 GB
-data_pacbio_coverage: 60.78x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5381
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.1 GiB
+data_bionano-1_coverage: 197.07x
+data_bionano-1_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trichosurus_vulpecula/mTriVul1/genomic_data/bionano/
+data_bionano-1_scale: 492.6950
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 197.07x
+data_pacbio-1_bases: 182.26 Gbp
+data_pacbio-1_bytes: 315.5 GiB
+data_pacbio-1_coverage: 60.75x
+data_pacbio-1_links: s3://genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Trichosurus_vulpecula/mTriVul1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trichosurus_vulpecula/mTriVul1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5381
+data_pacbio_bases: 182.26 Gbp
+data_pacbio_bytes: 315.5 GiB
+data_pacbio_coverage: 60.75x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: mTriVul1:GCA_011100645.1
 genbank_pri: mTriVul1:GCA_011100635.1
 genome_size: 3000000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1558101664
 last_updated: 1581069403
 mito1date: 2019-10-04
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 17277
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Trichosurus vulpecula
 name_: Trichosurus_vulpecula
 pri1date: 2020-01-15
-pri1filesize: 972 MiB
+pri1filesize: 0.9 GiB
 pri1length: 3359330516
 pri1n50ctg: 4820465
 pri1n50scf: 442560073

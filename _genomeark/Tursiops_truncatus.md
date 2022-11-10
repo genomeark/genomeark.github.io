@@ -1,36 +1,64 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: bottlenose dolphin
+data_10x-1_bases: 323.11 Gbp
+data_10x-1_bytes: 154.6 GiB
+data_10x-1_coverage: 100.97x
+data_10x-1_links: s3://genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tursiops_truncatus/mTurTru1/genomic_data/10x/
+data_10x-1_scale: 1.9463
 data_10x_bases: 323.11 Gbp
-data_10x_bytes: 154.610 GB
+data_10x_bytes: 154.6 GiB
 data_10x_coverage: 100.97x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/10x/<br>
-data_10x_scale: 1.9463
+data_arima-1_bases: 223.19 Gbp
+data_arima-1_bytes: 144.6 GiB
+data_arima-1_coverage: 69.75x
+data_arima-1_links: s3://genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tursiops_truncatus/mTurTru1/genomic_data/arima/
+data_arima-1_scale: 1.4378
 data_arima_bases: 223.19 Gbp
-data_arima_bytes: 144.567 GB
+data_arima_bytes: 144.6 GiB
 data_arima_coverage: 69.75x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/arima/<br>
-data_arima_scale: 1.4378
-data_bionano_bases: 2.60 Gbp
-data_bionano_bytes: 1.047 GB
-data_bionano_coverage: 0.81x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/bionano/<br>
-data_illumina_bases: 432.63 Gbp
-data_illumina_bytes: 215.556 GB
-data_illumina_coverage: 135.20x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Tursiops_truncatus/mTurTru2/genomic_data/illumina/<br>s3://genomeark/species/Tursiops_truncatus/mTurTru3/genomic_data/illumina/<br>
-data_illumina_scale: 1.8692
-data_pacbio_bases: 203.77 Gbp
-data_pacbio_bytes: 349.496 GB
-data_pacbio_coverage: 63.68x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5430
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.0 GiB
+data_bionano-1_coverage: 236.40x
+data_bionano-1_links: s3://genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tursiops_truncatus/mTurTru1/genomic_data/bionano/
+data_bionano-1_scale: 696.7834
+data_bionano_bases: N/A
+data_bionano_bytes: 1.0 GiB
+data_bionano_coverage: 236.40x
+data_illumina-2_bases: 206.50 Gbp
+data_illumina-2_bytes: 101.8 GiB
+data_illumina-2_coverage: 64.53x
+data_illumina-2_links: s3://genomeark/species/Tursiops_truncatus/mTurTru2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tursiops_truncatus/mTurTru2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tursiops_truncatus/mTurTru2/genomic_data/illumina/
+data_illumina-2_scale: 1.8895
+data_illumina-3_bases: 229.65 Gbp
+data_illumina-3_bytes: 113.8 GiB
+data_illumina-3_coverage: 71.77x
+data_illumina-3_links: s3://genomeark/species/Tursiops_truncatus/mTurTru3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tursiops_truncatus/mTurTru3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tursiops_truncatus/mTurTru3/genomic_data/illumina/
+data_illumina-3_scale: 1.8799
+data_illumina_bases: 436.15 Gbp
+data_illumina_bytes: 215.6 GiB
+data_illumina_coverage: 136.30x
+data_pacbio-1_bases: 203.70 Gbp
+data_pacbio-1_bytes: 349.4 GiB
+data_pacbio-1_coverage: 63.66x
+data_pacbio-1_links: s3://genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tursiops_truncatus/mTurTru1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tursiops_truncatus/mTurTru1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5430
+data_pacbio_bases: 203.70 Gbp
+data_pacbio_bytes: 349.4 GiB
+data_pacbio_coverage: 63.66x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: mTurTru1:GCA_011762535.1
 genbank_pat: mTurTru1:GCA_011762515.1
 genome_size: 3200000000
@@ -39,7 +67,7 @@ genome_size_method: null
 last_raw_data: 1567096890
 last_updated: 1581070857
 mat1date: 2019-08-30
-mat1filesize: 692 MiB
+mat1filesize: 691.8 MiB
 mat1length: 2385753970
 mat1n50ctg: 6845203
 mat1n50scf: 78151963
@@ -68,7 +96,7 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mgd1date: 2020-01-15
-mgd1filesize: 689 MiB
+mgd1filesize: 688.7 MiB
 mgd1length: 2378505825
 mgd1n50ctg: 6845203
 mgd1n50scf: 89330967
@@ -97,7 +125,7 @@ mgd1sizes: |
   </table>
 mgd1version: assembly_curated
 mito1date: 2019-08-20
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16389
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -128,7 +156,7 @@ mito1version: assembly_MT_rockefeller
 name: Tursiops truncatus
 name_: Tursiops_truncatus
 pat1date: 2019-08-30
-pat1filesize: 680 MiB
+pat1filesize: 680.0 MiB
 pat1length: 2378995196
 pat1n50ctg: 8156464
 pat1n50scf: 77884346

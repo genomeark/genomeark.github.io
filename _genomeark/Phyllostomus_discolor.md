@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-05-04
-alt1filesize: 608 MiB
+alt1filesize: 608.3 MiB
 alt1length: 2051656167
 alt1n50ctg: 841438
 alt1n50scf: 841438
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: pale spear-nosed bat
+data_10x-1_bases: 240.11 Gbp
+data_10x-1_bytes: 145.4 GiB
+data_10x-1_coverage: 108.46x
+data_10x-1_links: s3://genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phyllostomus_discolor/mPhyDis1/genomic_data/10x/
+data_10x-1_scale: 1.5377
 data_10x_bases: 240.11 Gbp
-data_10x_bytes: 145.428 GB
+data_10x_bytes: 145.4 GiB
 data_10x_coverage: 108.46x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/10x/<br>
-data_10x_scale: 1.5377
+data_arima-1_bases: 194.47 Gbp
+data_arima-1_bytes: 99.8 GiB
+data_arima-1_coverage: 87.85x
+data_arima-1_links: s3://genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phyllostomus_discolor/mPhyDis1/genomic_data/arima/
+data_arima-1_scale: 1.8141
 data_arima_bases: 194.47 Gbp
-data_arima_bytes: 99.838 GB
+data_arima_bytes: 99.8 GiB
 data_arima_coverage: 87.85x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/arima/<br>
-data_arima_scale: 1.8141
-data_bionano_bases: 4.28 Gbp
-data_bionano_bytes: 1.416 GB
-data_bionano_coverage: 1.93x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/bionano/<br>
-data_pacbio_bases: 163.01 Gbp
-data_pacbio_bytes: 292.405 GB
-data_pacbio_coverage: 73.63x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5192
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.4 GiB
+data_bionano-1_coverage: 487.36x
+data_bionano-1_links: s3://genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phyllostomus_discolor/mPhyDis1/genomic_data/bionano/
+data_bionano-1_scale: 714.4700
+data_bionano_bases: N/A
+data_bionano_bytes: 1.4 GiB
+data_bionano_coverage: 487.36x
+data_pacbio-1_bases: 162.91 Gbp
+data_pacbio-1_bytes: 292.2 GiB
+data_pacbio-1_coverage: 73.59x
+data_pacbio-1_links: s3://genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phyllostomus_discolor/mPhyDis1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phyllostomus_discolor/mPhyDis1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5192
+data_pacbio_bases: 162.91 Gbp
+data_pacbio_bytes: 292.2 GiB
+data_pacbio_coverage: 73.59x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: mPhyDis1:GCA_004115245.2
 genbank_pri: mPhyDis1:GCA_004126475.3
 genome_size: 2213798723
@@ -61,7 +78,7 @@ genome_size_display: 2.21 Gbp
 last_raw_data: 1527496005
 last_updated: 1588615948
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16692
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Phyllostomus discolor
 name_: Phyllostomus_discolor
 pri1date: 2020-05-04
-pri1filesize: 613 MiB
+pri1filesize: 613.4 MiB
 pri1length: 2108832841
 pri1n50ctg: 6377178
 pri1n50scf: 171742863

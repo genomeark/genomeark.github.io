@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-12-16
-alt1filesize: 1 GiB
+alt1filesize: 1.0 GiB
 alt1length: 3744894388
 alt1n50ctg: 241528
 alt1n50scf: 243161
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common toad
+data_10x-1_bases: 568.89 Gbp
+data_10x-1_bytes: 343.3 GiB
+data_10x-1_coverage: 112.77x
+data_10x-1_links: s3://genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bufo_bufo/aBufBuf1/genomic_data/10x/
+data_10x-1_scale: 1.5434
 data_10x_bases: 568.89 Gbp
-data_10x_bytes: 343.284 GB
+data_10x_bytes: 343.3 GiB
 data_10x_coverage: 112.77x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/10x/<br>
-data_10x_scale: 1.5434
+data_arima-1_bases: 556.93 Gbp
+data_arima-1_bytes: 335.6 GiB
+data_arima-1_coverage: 110.40x
+data_arima-1_links: s3://genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bufo_bufo/aBufBuf1/genomic_data/arima/
+data_arima-1_scale: 1.5454
 data_arima_bases: 556.93 Gbp
-data_arima_bytes: 335.631 GB
+data_arima_bytes: 335.6 GiB
 data_arima_coverage: 110.40x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/arima/<br>
-data_arima_scale: 1.5454
-data_bionano_bases: 5.30 Gbp
-data_bionano_bytes: 3.695 GB
-data_bionano_coverage: 1.05x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 3.7 GiB
+data_bionano-1_coverage: 644.67x
+data_bionano-1_links: s3://genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bufo_bufo/aBufBuf1/genomic_data/bionano/
+data_bionano-1_scale: 821.8894
+data_bionano_bases: N/A
+data_bionano_bytes: 3.7 GiB
+data_bionano_coverage: 644.67x
+data_pacbio-1_bases: 363.27 Gbp
+data_pacbio-1_bytes: 648.2 GiB
+data_pacbio-1_coverage: 72.01x
+data_pacbio-1_links: s3://genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bufo_bufo/aBufBuf1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5219
 data_pacbio_bases: 363.27 Gbp
-data_pacbio_bytes: 648.243 GB
+data_pacbio_bytes: 648.2 GiB
 data_pacbio_coverage: 72.01x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Bufo_bufo/aBufBuf1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5219
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: aBufBuf1:GCA_905171715.1
 genbank_pri: aBufBuf1:GCA_905171765.1
 genome_size: 5044812576
@@ -61,7 +78,7 @@ genome_size_display: 5.04 Gbp
 last_raw_data: 1584379221
 last_updated: 1608197105
 mito1date: 2019-10-05
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 17865
 mito1n50ctg: 17865
 mito1n50scf: 17865
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Bufo bufo
 name_: Bufo_bufo
 pri1date: 2020-12-16
-pri1filesize: 1 GiB
+pri1filesize: 1.4 GiB
 pri1length: 5044812576
 pri1n50ctg: 3941737
 pri1n50scf: 635713434

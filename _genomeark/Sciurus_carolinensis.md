@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-11-14
-alt1filesize: 599 MiB
+alt1filesize: 599.5 MiB
 alt1length: 2057949030
 alt1n50ctg: 492513
 alt1n50scf: 492513
@@ -30,24 +30,36 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: grey squirrel
+data_10x-1_bases: 270.69 Gbp
+data_10x-1_bytes: 167.2 GiB
+data_10x-1_coverage: 96.14x
+data_10x-1_links: s3://genomeark/species/Sciurus_carolinensis/mSciCar1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sciurus_carolinensis/mSciCar1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_carolinensis/mSciCar1/genomic_data/10x/
+data_10x-1_scale: 1.5082
 data_10x_bases: 270.69 Gbp
-data_10x_bytes: 167.150 GB
+data_10x_bytes: 167.2 GiB
 data_10x_coverage: 96.14x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Sciurus_carolinensis/mSciCar1/genomic_data/10x/<br>
-data_10x_scale: 1.5082
+data_dovetail-1_bases: 370.23 Gbp
+data_dovetail-1_bytes: 237.3 GiB
+data_dovetail-1_coverage: 131.50x
+data_dovetail-1_links: s3://genomeark/species/Sciurus_carolinensis/mSciCar1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sciurus_carolinensis/mSciCar1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_carolinensis/mSciCar1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.4532
 data_dovetail_bases: 370.23 Gbp
-data_dovetail_bytes: 237.270 GB
+data_dovetail_bytes: 237.3 GiB
 data_dovetail_coverage: 131.50x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Sciurus_carolinensis/mSciCar1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.4532
-data_pacbio_bases: 222.84 Gbp
-data_pacbio_bytes: 382.059 GB
-data_pacbio_coverage: 79.15x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Sciurus_carolinensis/mSciCar1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5432
+data_pacbio-1_bases: 222.76 Gbp
+data_pacbio-1_bytes: 381.9 GiB
+data_pacbio-1_coverage: 79.12x
+data_pacbio-1_links: s3://genomeark/species/Sciurus_carolinensis/mSciCar1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sciurus_carolinensis/mSciCar1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_carolinensis/mSciCar1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5432
+data_pacbio_bases: 222.76 Gbp
+data_pacbio_bytes: 381.9 GiB
+data_pacbio_coverage: 79.12x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: mSciCar1:GCA_902685475.1
 genbank_pri: mSciCar1:GCA_902686445.2
@@ -56,7 +68,7 @@ genome_size_display: 2.82 Gbp
 last_raw_data: 1565307258
 last_updated: 1576534343
 mito1date: 2019-12-16
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16533
 mito1n50ctg: 16533
 mito1n50scf: 16533
@@ -87,7 +99,7 @@ mito1version: assembly_MT_rockefeller
 name: Sciurus carolinensis
 name_: Sciurus_carolinensis
 pri1date: 2019-11-14
-pri1filesize: 819 MiB
+pri1filesize: 818.7 MiB
 pri1length: 2815397268
 pri1n50ctg: 13975867
 pri1n50scf: 148229995

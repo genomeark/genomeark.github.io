@@ -1,0 +1,22 @@
+<table class="raw-data-table">
+<thead><tr><th class="label">Datatype</th>
+           <th>Bases</th>
+           <th>Coverage</th>
+           <th>Bytes</th>
+       </tr></thead>
+<tbody>
+  {% if page.data_10x_bytes.size             > 0 %} <tr><td class="label">10x                       </td><td>{{ page.data_10x_bases             }}</td><td>{{ page.data_10x_coverage             }}</td><td>{{ page.data_10x_bytes             }}</td></tr> {% endif %}
+  {% if page.data_arima_bytes.size           > 0 %} <tr><td class="label">Arima                     </td><td>{{ page.data_arima_bases           }}</td><td>{{ page.data_arima_coverage           }}</td><td>{{ page.data_arima_bytes           }}</td></tr> {% endif %}
+  {% if page.data_bionano_bytes.size         > 0 %} <tr><td class="label">Bionano                   </td><td>{{ page.data_bionano_bases         }}</td><td>{{ page.data_bionano_coverage         }}</td><td>{{ page.data_bionano_bytes         }}</td></tr> {% endif %}
+  {% if page.data_dovetail_bytes.size        > 0 %} <tr><td class="label">Dovetail Genomics         </td><td>{{ page.data_dovetail_bases        }}</td><td>{{ page.data_dovetail_coverage        }}</td><td>{{ page.data_dovetail_bytes        }}</td></tr> {% endif %}
+  {% if page.data_illumina_bytes.size        > 0 %} <tr><td class="label">Illumina                  </td><td>{{ page.data_illumina_bases        }}</td><td>{{ page.data_illumina_coverage        }}</td><td>{{ page.data_illumina_bytes        }}</td></tr> {% endif %}
+  {% if page.data_ont_bytes.size             > 0 %} <tr><td class="label">Oxford Nanopore Simplex   </td><td>{{ page.data_ont_bases             }}</td><td>{{ page.data_ont_coverage             }}</td><td>{{ page.data_ont_bytes             }}</td></tr> {% endif %}
+  {% if page.data_ontduplex_bytes.size       > 0 %} <tr><td class="label">Oxford Nanopore Duplex    </td><td>{{ page.data_ontduplex_bases       }}</td><td>{{ page.data_ontduplex_coverage       }}</td><td>{{ page.data_ontduplex_bytes       }}</td></tr> {% endif %}
+  {% if page.data_pacbio_bytes.size          > 0 %} <tr><td class="label">PacBio CLR                </td><td>{{ page.data_pacbio_bases          }}</td><td>{{ page.data_pacbio_coverage          }}</td><td>{{ page.data_pacbio_bytes          }}</td></tr> {% endif %}
+  {% if page.data_pacbiohifi_fqgz_bytes.size > 0 %} <tr><td class="label">PacBio HiFi (.fq, Q&ge;20)</td><td>{{ page.data_pacbiohifi_fqgz_bases }}</td><td>{{ page.data_pacbiohifi_fqgz_coverage }}</td><td>{{ page.data_pacbiohifi_fqgz_bytes }}</td></tr> {% endif %}
+  {% if page.data_pacbiohifi_bam_bytes.size  > 0 %} <tr><td class="label">PacBio HiFi (.bam, Q&ge;0)</td><td>{{ page.data_pacbiohifi_bam_bases  }}</td><td>{{ page.data_pacbiohifi_bam_coverage  }}</td><td>{{ page.data_pacbiohifi_bam_bytes  }}</td></tr> {% endif %}
+  {% if page.data_pacbiohifi_clr_bytes.size  > 0 %} <tr><td class="label">PacBio HiFi (subreads)    </td><td>{{ page.data_pacbiohifi_clr_bases  }}</td><td>{{ page.data_pacbiohifi_clr_coverage  }}</td><td>{{ page.data_pacbiohifi_clr_bytes  }}</td></tr> {% endif %}
+  {% if page.data_phase_bytes.size           > 0 %} <tr><td class="label">Phase Genomics            </td><td>{{ page.data_phase_bases           }}</td><td>{{ page.data_phase_coverage           }}</td><td>{{ page.data_phase_bytes           }}</td></tr> {% endif %}
+</tbody>
+print "{% include data-table-footer.html %}\n";
+</table>

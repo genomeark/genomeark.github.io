@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-05-26
-alt1filesize: 240 MiB
+alt1filesize: 240.5 MiB
 alt1length: 827793803
 alt1n50ctg: 1181371
 alt1n50scf: 1181371
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: rifleman
+data_10x-1_bases: 78.23 Gbp
+data_10x-1_bytes: 36.4 GiB
+data_10x-1_coverage: 74.50x
+data_10x-1_links: s3://genomeark/species/Acanthisitta_chloris/bAcaChl1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acanthisitta_chloris/bAcaChl1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acanthisitta_chloris/bAcaChl1/genomic_data/10x/
+data_10x-1_scale: 2.0001
 data_10x_bases: 78.23 Gbp
-data_10x_bytes: 36.427 GB
+data_10x_bytes: 36.4 GiB
 data_10x_coverage: 74.50x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Acanthisitta_chloris/bAcaChl1/genomic_data/10x/<br>
-data_10x_scale: 2.0001
+data_arima-4_bases: 94.23 Gbp
+data_arima-4_bytes: 56.6 GiB
+data_arima-4_coverage: 89.74x
+data_arima-4_links: s3://genomeark/species/Acanthisitta_chloris/bAcaChl4/genomic_data/arima/<br>
+data_arima-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acanthisitta_chloris/bAcaChl4/genomic_data/arima/
+data_arima-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acanthisitta_chloris/bAcaChl4/genomic_data/arima/
+data_arima-4_scale: 1.5506
 data_arima_bases: 94.23 Gbp
-data_arima_bytes: 56.596 GB
+data_arima_bytes: 56.6 GiB
 data_arima_coverage: 89.74x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Acanthisitta_chloris/bAcaChl4/genomic_data/arima/<br>
-data_arima_scale: 1.5506
-data_bionano_bases: 1.11 Gbp
-data_bionano_bytes: 0.641 GB
-data_bionano_coverage: 1.05x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Acanthisitta_chloris/bAcaChl1/genomic_data/bionano/<br>
-data_pacbio_bases: 68.98 Gbp
-data_pacbio_bytes: 118.549 GB
-data_pacbio_coverage: 65.69x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Acanthisitta_chloris/bAcaChl1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5419
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 639.9 MiB
+data_bionano-1_coverage: 592.44x
+data_bionano-1_links: s3://genomeark/species/Acanthisitta_chloris/bAcaChl1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acanthisitta_chloris/bAcaChl1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acanthisitta_chloris/bAcaChl1/genomic_data/bionano/
+data_bionano-1_scale: 927.0975
+data_bionano_bases: N/A
+data_bionano_bytes: 639.9 MiB
+data_bionano_coverage: 592.44x
+data_pacbio-1_bases: 68.95 Gbp
+data_pacbio-1_bytes: 118.5 GiB
+data_pacbio-1_coverage: 65.67x
+data_pacbio-1_links: s3://genomeark/species/Acanthisitta_chloris/bAcaChl1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acanthisitta_chloris/bAcaChl1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acanthisitta_chloris/bAcaChl1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5419
+data_pacbio_bases: 68.95 Gbp
+data_pacbio_bytes: 118.5 GiB
+data_pacbio_coverage: 65.67x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bAcaChl1:GCA_016880875.1
 genbank_pri: bAcaChl1:GCA_016904835.1
 genome_size: 1050000000
@@ -61,7 +78,7 @@ genome_size_display: 1.05 Gbp
 last_raw_data: 1568758968
 last_updated: 1622050157
 mito1date: 2019-10-04
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 19029
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Acanthisitta chloris
 name_: Acanthisitta_chloris
 pri1date: 2021-05-26
-pri1filesize: 311 MiB
+pri1filesize: 311.4 MiB
 pri1length: 1077368553
 pri1n50ctg: 16730285
 pri1n50scf: 40827287

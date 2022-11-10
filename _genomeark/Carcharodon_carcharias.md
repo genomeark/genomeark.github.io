@@ -1,6 +1,6 @@
 ---
 alt2date: 2021-02-05
-alt2filesize: 2 MiB
+alt2filesize: 1.5 MiB
 alt2length: 6205005
 alt2n50ctg: 0
 alt2n50scf: 0
@@ -30,36 +30,57 @@ alt2sizes: |
 alt2version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: great white shark
+data_10x-2_bases: 272.74 Gbp
+data_10x-2_bytes: 132.9 GiB
+data_10x-2_coverage: 60.61x
+data_10x-2_links: s3://genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/10x/<br>
+data_10x-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/10x/
+data_10x-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Carcharodon_carcharias/sCarCar2/genomic_data/10x/
+data_10x-2_scale: 1.9106
 data_10x_bases: 272.74 Gbp
-data_10x_bytes: 132.949 GB
+data_10x_bytes: 132.9 GiB
 data_10x_coverage: 60.61x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/10x/<br>
-data_10x_scale: 1.9106
+data_arima-2_bases: 452.74 Gbp
+data_arima-2_bytes: 284.5 GiB
+data_arima-2_coverage: 100.61x
+data_arima-2_links: s3://genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Carcharodon_carcharias/sCarCar2/genomic_data/arima/
+data_arima-2_scale: 1.4821
 data_arima_bases: 452.74 Gbp
-data_arima_bytes: 284.496 GB
+data_arima_bytes: 284.5 GiB
 data_arima_coverage: 100.61x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/arima/<br>
-data_arima_scale: 1.4821
-data_bionano_bases: 4.04 Gbp
-data_bionano_bytes: 1.609 GB
-data_bionano_coverage: 0.90x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/bionano/<br>
+data_bionano-2_bases: N/A
+data_bionano-2_bytes: 1.6 GiB
+data_bionano-2_coverage: 244.61x
+data_bionano-2_links: s3://genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/bionano/<br>
+data_bionano-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/bionano/
+data_bionano-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Carcharodon_carcharias/sCarCar2/genomic_data/bionano/
+data_bionano-2_scale: 656.6693
+data_bionano_bases: N/A
+data_bionano_bytes: 1.6 GiB
+data_bionano_coverage: 244.61x
+data_illumina-2_bases: 305.38 Gbp
+data_illumina-2_bytes: 144.3 GiB
+data_illumina-2_coverage: 67.86x
+data_illumina-2_links: s3://genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Carcharodon_carcharias/sCarCar2/genomic_data/illumina/
+data_illumina-2_scale: 1.9703
 data_illumina_bases: 305.38 Gbp
-data_illumina_bytes: 144.347 GB
+data_illumina_bytes: 144.3 GiB
 data_illumina_coverage: 67.86x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/illumina/<br>
-data_illumina_scale: 1.9703
-data_pacbio_bases: 301.36 Gbp
-data_pacbio_bytes: 530.449 GB
-data_pacbio_coverage: 66.97x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5291
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_pacbio-2_bases: 301.28 Gbp
+data_pacbio-2_bytes: 530.3 GiB
+data_pacbio-2_coverage: 66.95x
+data_pacbio-2_links: s3://genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/pacbio/<br>
+data_pacbio-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Carcharodon_carcharias/sCarCar2/genomic_data/pacbio/
+data_pacbio-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Carcharodon_carcharias/sCarCar2/genomic_data/pacbio/
+data_pacbio-2_scale: 0.5291
+data_pacbio_bases: 301.28 Gbp
+data_pacbio_bytes: 530.3 GiB
+data_pacbio_coverage: 66.95x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_alt: sCarCar2:GCA_017639455.1
 genbank_pri: sCarCar2:GCA_017639515.1
 genome_size: 4500000000
@@ -68,7 +89,7 @@ genome_size_method: null
 last_raw_data: 1594664727
 last_updated: 1612557299
 mito2date: 2019-10-04
-mito2filesize: 5 KiB
+mito2filesize: 5.0 KiB
 mito2length: 16745
 mito2n50ctg: 0
 mito2n50scf: 0
@@ -99,7 +120,7 @@ mito2version: assembly_MT_rockefeller
 name: Carcharodon carcharias
 name_: Carcharodon_carcharias
 pri2date: 2021-02-05
-pri2filesize: 1 GiB
+pri2filesize: 1.1 GiB
 pri2length: 4286294447
 pri2n50ctg: 5932073
 pri2n50scf: 153340763

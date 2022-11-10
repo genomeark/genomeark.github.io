@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-07-28
-alt1filesize: 320 MiB
+alt1filesize: 320.1 MiB
 alt1length: 1085787090
 alt1n50ctg: 2547826
 alt1n50scf: 2547826
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: European golden plover
+data_10x-1_bases: 99.38 Gbp
+data_10x-1_bytes: 50.3 GiB
+data_10x-1_coverage: 99.38x
+data_10x-1_links: s3://genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pluvialis_apricaria/bPluApr1/genomic_data/10x/
+data_10x-1_scale: 1.8385
 data_10x_bases: 99.38 Gbp
-data_10x_bytes: 50.342 GB
+data_10x_bytes: 50.3 GiB
 data_10x_coverage: 99.38x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/10x/<br>
-data_10x_scale: 1.8385
+data_arima-1_bases: 86.82 Gbp
+data_arima-1_bytes: 48.6 GiB
+data_arima-1_coverage: 86.82x
+data_arima-1_links: s3://genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pluvialis_apricaria/bPluApr1/genomic_data/arima/
+data_arima-1_scale: 1.6635
 data_arima_bases: 86.82 Gbp
-data_arima_bytes: 48.604 GB
+data_arima_bytes: 48.6 GiB
 data_arima_coverage: 86.82x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/arima/<br>
-data_arima_scale: 1.6635
-data_bionano_bases: 1.63 Gbp
-data_bionano_bytes: 0.804 GB
-data_bionano_coverage: 1.63x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/bionano/<br>
-data_pacbio_bases: 98.38 Gbp
-data_pacbio_bytes: 175.523 GB
-data_pacbio_coverage: 98.38x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5220
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 801.3 MiB
+data_bionano-1_coverage: 473.49x
+data_bionano-1_links: s3://genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pluvialis_apricaria/bPluApr1/genomic_data/bionano/
+data_bionano-1_scale: 563.5069
+data_bionano_bases: N/A
+data_bionano_bytes: 801.3 MiB
+data_bionano_coverage: 473.49x
+data_pacbio-1_bases: 98.35 Gbp
+data_pacbio-1_bytes: 175.5 GiB
+data_pacbio-1_coverage: 98.35x
+data_pacbio-1_links: s3://genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pluvialis_apricaria/bPluApr1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pluvialis_apricaria/bPluApr1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5220
+data_pacbio_bases: 98.35 Gbp
+data_pacbio_bytes: 175.5 GiB
+data_pacbio_coverage: 98.35x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bPluApr1:GCA_017639475.1
 genbank_pri: bPluApr1:GCA_017639485.1
 genome_size: 1000000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1583337100
 last_updated: 1595946718
 mito1date: 2019-12-05
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 20624
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Pluvialis apricaria
 name_: Pluvialis_apricaria
 pri1date: 2020-07-28
-pri1filesize: 363 MiB
+pri1filesize: 363.1 MiB
 pri1length: 1247746888
 pri1n50ctg: 19964169
 pri1n50scf: 130366996

@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-09-26
-alt1filesize: 266 MiB
+alt1filesize: 265.7 MiB
 alt1length: 905198257
 alt1n50ctg: 1531320
 alt1n50scf: 1531320
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: New Caledonian crow
+data_10x-1_bases: 129.33 Gbp
+data_10x-1_bytes: 60.2 GiB
+data_10x-1_coverage: 103.46x
+data_10x-1_links: s3://genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Corvus_moneduloides/bCorMon1/genomic_data/10x/
+data_10x-1_scale: 2.0005
 data_10x_bases: 129.33 Gbp
-data_10x_bytes: 60.207 GB
+data_10x_bytes: 60.2 GiB
 data_10x_coverage: 103.46x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/10x/<br>
-data_10x_scale: 2.0005
+data_arima-1_bases: 102.95 Gbp
+data_arima-1_bytes: 64.0 GiB
+data_arima-1_coverage: 82.36x
+data_arima-1_links: s3://genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Corvus_moneduloides/bCorMon1/genomic_data/arima/
+data_arima-1_scale: 1.4979
 data_arima_bases: 102.95 Gbp
-data_arima_bytes: 64.008 GB
+data_arima_bytes: 64.0 GiB
 data_arima_coverage: 82.36x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/arima/<br>
-data_arima_scale: 1.4979
-data_bionano_bases: 1.34 Gbp
-data_bionano_bytes: 0.425 GB
-data_bionano_coverage: 1.07x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/bionano/<br>
-data_pacbio_bases: 77.43 Gbp
-data_pacbio_bytes: 132.848 GB
-data_pacbio_coverage: 61.94x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5428
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 417.3 MiB
+data_bionano-1_coverage: 182.81x
+data_bionano-1_links: s3://genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Corvus_moneduloides/bCorMon1/genomic_data/bionano/
+data_bionano-1_scale: 522.2804
+data_bionano_bases: N/A
+data_bionano_bytes: 417.3 MiB
+data_bionano_coverage: 182.81x
+data_pacbio-1_bases: 77.40 Gbp
+data_pacbio-1_bytes: 132.8 GiB
+data_pacbio-1_coverage: 61.92x
+data_pacbio-1_links: s3://genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Corvus_moneduloides/bCorMon1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Corvus_moneduloides/bCorMon1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5428
+data_pacbio_bases: 77.40 Gbp
+data_pacbio_bytes: 132.8 GiB
+data_pacbio_coverage: 61.92x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bCorMon1:GCA_009651025.1
 genbank_pri: bCorMon1:GCA_009650955.1
 genome_size: 1250000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1564251926
 last_updated: 1569703784
 mito1date: 2019-09-18
-mito1filesize: 5 KiB
+mito1filesize: 5.1 KiB
 mito1length: 16895
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Corvus moneduloides
 name_: Corvus_moneduloides
 pri1date: 2019-09-26
-pri1filesize: 315 MiB
+pri1filesize: 315.5 MiB
 pri1length: 1112734206
 pri1n50ctg: 9839847
 pri1n50scf: 74461389

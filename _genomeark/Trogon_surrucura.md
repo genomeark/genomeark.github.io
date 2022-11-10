@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-05-25
-alt1filesize: 293 MiB
+alt1filesize: 292.8 MiB
 alt1length: 997329498
 alt1n50ctg: 1468797
 alt1n50scf: 1468797
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Suruca trogon
+data_10x-1_bases: 151.40 Gbp
+data_10x-1_bytes: 74.5 GiB
+data_10x-1_coverage: 151.40x
+data_10x-1_links: s3://genomeark/species/Trogon_surrucura/bTroSur1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Trogon_surrucura/bTroSur1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trogon_surrucura/bTroSur1/genomic_data/10x/
+data_10x-1_scale: 1.8922
 data_10x_bases: 151.40 Gbp
-data_10x_bytes: 74.516 GB
+data_10x_bytes: 74.5 GiB
 data_10x_coverage: 151.40x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Trogon_surrucura/bTroSur1/genomic_data/10x/<br>
-data_10x_scale: 1.8922
+data_arima-1_bases: 98.51 Gbp
+data_arima-1_bytes: 67.9 GiB
+data_arima-1_coverage: 98.51x
+data_arima-1_links: s3://genomeark/species/Trogon_surrucura/bTroSur1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Trogon_surrucura/bTroSur1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trogon_surrucura/bTroSur1/genomic_data/arima/
+data_arima-1_scale: 1.3502
 data_arima_bases: 98.51 Gbp
-data_arima_bytes: 67.949 GB
+data_arima_bytes: 67.9 GiB
 data_arima_coverage: 98.51x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Trogon_surrucura/bTroSur1/genomic_data/arima/<br>
-data_arima_scale: 1.3502
-data_bionano_bases: 1.29 Gbp
-data_bionano_bytes: 1.372 GB
-data_bionano_coverage: 1.29x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Trogon_surrucura/bTroSur1/genomic_data/bionano/<br>
-data_pacbio_bases: 108.43 Gbp
-data_pacbio_bytes: 193.867 GB
-data_pacbio_coverage: 108.43x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Trogon_surrucura/bTroSur1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5209
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.4 GiB
+data_bionano-1_coverage: 646.50x
+data_bionano-1_links: s3://genomeark/species/Trogon_surrucura/bTroSur1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Trogon_surrucura/bTroSur1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trogon_surrucura/bTroSur1/genomic_data/bionano/
+data_bionano-1_scale: 445.1428
+data_bionano_bases: N/A
+data_bionano_bytes: 1.4 GiB
+data_bionano_coverage: 646.50x
+data_pacbio-1_bases: 108.40 Gbp
+data_pacbio-1_bytes: 193.8 GiB
+data_pacbio-1_coverage: 108.40x
+data_pacbio-1_links: s3://genomeark/species/Trogon_surrucura/bTroSur1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Trogon_surrucura/bTroSur1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trogon_surrucura/bTroSur1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5209
+data_pacbio_bases: 108.40 Gbp
+data_pacbio_bytes: 193.8 GiB
+data_pacbio_coverage: 108.40x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bTroSur1:GCA_020746095.1
 genbank_pri: bTroSur1:GCA_020746105.1
 genome_size: 1000000000
@@ -61,7 +78,7 @@ genome_size_display: 1.00 Gbp
 last_raw_data: 1618859438
 last_updated: 1623161222
 mito1date: 2021-01-21
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 22126
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Trogon surrucura
 name_: Trogon_surrucura
 pri1date: 2021-05-25
-pri1filesize: 339 MiB
+pri1filesize: 338.9 MiB
 pri1length: 1165727389
 pri1n50ctg: 17925126
 pri1n50scf: 87900276

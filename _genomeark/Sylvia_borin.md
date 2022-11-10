@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-04-24
-alt1filesize: 301 MiB
+alt1filesize: 300.8 MiB
 alt1length: 1032649170
 alt1n50ctg: 3358973
 alt1n50scf: 3358973
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: garden warbler
+data_10x-1_bases: 105.80 Gbp
+data_10x-1_bytes: 55.2 GiB
+data_10x-1_coverage: 88.16x
+data_10x-1_links: s3://genomeark/species/Sylvia_borin/bSylBor1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sylvia_borin/bSylBor1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_borin/bSylBor1/genomic_data/10x/
+data_10x-1_scale: 1.7850
 data_10x_bases: 105.80 Gbp
-data_10x_bytes: 55.199 GB
+data_10x_bytes: 55.2 GiB
 data_10x_coverage: 88.16x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Sylvia_borin/bSylBor1/genomic_data/10x/<br>
-data_10x_scale: 1.7850
+data_arima-2_bases: 95.65 Gbp
+data_arima-2_bytes: 57.6 GiB
+data_arima-2_coverage: 79.71x
+data_arima-2_links: s3://genomeark/species/Sylvia_borin/bSylBor2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sylvia_borin/bSylBor2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_borin/bSylBor2/genomic_data/arima/
+data_arima-2_scale: 1.5462
 data_arima_bases: 95.65 Gbp
-data_arima_bytes: 57.616 GB
+data_arima_bytes: 57.6 GiB
 data_arima_coverage: 79.71x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Sylvia_borin/bSylBor2/genomic_data/arima/<br>
-data_arima_scale: 1.5462
-data_bionano_bases: 1.20 Gbp
-data_bionano_bytes: 1.193 GB
-data_bionano_coverage: 1.00x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Sylvia_borin/bSylBor1/genomic_data/bionano/<br>
-data_pacbio_bases: 86.57 Gbp
-data_pacbio_bytes: 145.685 GB
-data_pacbio_coverage: 72.14x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Sylvia_borin/bSylBor1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5534
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.2 GiB
+data_bionano-1_coverage: 589.67x
+data_bionano-1_links: s3://genomeark/species/Sylvia_borin/bSylBor1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sylvia_borin/bSylBor1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_borin/bSylBor1/genomic_data/bionano/
+data_bionano-1_scale: 560.0834
+data_bionano_bases: N/A
+data_bionano_bytes: 1.2 GiB
+data_bionano_coverage: 589.67x
+data_pacbio-1_bases: 86.55 Gbp
+data_pacbio-1_bytes: 145.6 GiB
+data_pacbio-1_coverage: 72.12x
+data_pacbio-1_links: s3://genomeark/species/Sylvia_borin/bSylBor1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sylvia_borin/bSylBor1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_borin/bSylBor1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5534
+data_pacbio_bases: 86.55 Gbp
+data_pacbio_bytes: 145.6 GiB
+data_pacbio_coverage: 72.12x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bSylBor1:GCA_014839765.1
 genbank_pri: bSylBor1:GCA_014839755.1
 genome_size: 1200000000
@@ -64,7 +81,7 @@ last_updated: 1589470386
 name: Sylvia borin
 name_: Sylvia_borin
 pri1date: 2020-04-24
-pri1filesize: 303 MiB
+pri1filesize: 302.7 MiB
 pri1length: 1045652180
 pri1n50ctg: 28094227
 pri1n50scf: 72287029

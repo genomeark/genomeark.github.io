@@ -1,6 +1,6 @@
 ---
 alt1date: 2018-12-11
-alt1filesize: 86 MiB
+alt1filesize: 85.6 MiB
 alt1length: 285706558
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: kakapo
+data_10x-1_bases: 132.33 Gbp
+data_10x-1_bytes: 63.4 GiB
+data_10x-1_coverage: 110.88x
+data_10x-1_links: s3://genomeark/species/Strigops_habroptilus/bStrHab1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Strigops_habroptilus/bStrHab1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Strigops_habroptilus/bStrHab1/genomic_data/10x/
+data_10x-1_scale: 1.9425
 data_10x_bases: 132.33 Gbp
-data_10x_bytes: 63.445 GB
+data_10x_bytes: 63.4 GiB
 data_10x_coverage: 110.88x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Strigops_habroptilus/bStrHab1/genomic_data/10x/<br>
-data_10x_scale: 1.9425
+data_arima-1_bases: 116.00 Gbp
+data_arima-1_bytes: 60.4 GiB
+data_arima-1_coverage: 97.20x
+data_arima-1_links: s3://genomeark/species/Strigops_habroptilus/bStrHab1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Strigops_habroptilus/bStrHab1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Strigops_habroptilus/bStrHab1/genomic_data/arima/
+data_arima-1_scale: 1.7876
 data_arima_bases: 116.00 Gbp
-data_arima_bytes: 60.433 GB
+data_arima_bytes: 60.4 GiB
 data_arima_coverage: 97.20x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Strigops_habroptilus/bStrHab1/genomic_data/arima/<br>
-data_arima_scale: 1.7876
-data_bionano_bases: 1.38 Gbp
-data_bionano_bytes: 0.837 GB
-data_bionano_coverage: 1.15x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Strigops_habroptilus/bStrHab1/genomic_data/bionano/<br>
-data_pacbio_bases: 106.23 Gbp
-data_pacbio_bytes: 388.442 GB
-data_pacbio_coverage: 89.02x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Strigops_habroptilus/bStrHab1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.2547
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 852.0 MiB
+data_bionano-1_coverage: 548.36x
+data_bionano-1_links: s3://genomeark/species/Strigops_habroptilus/bStrHab1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Strigops_habroptilus/bStrHab1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Strigops_habroptilus/bStrHab1/genomic_data/bionano/
+data_bionano-1_scale: 732.4773
+data_bionano_bases: N/A
+data_bionano_bytes: 852.0 MiB
+data_bionano_coverage: 548.36x
+data_pacbio-1_bases: 106.19 Gbp
+data_pacbio-1_bytes: 388.3 GiB
+data_pacbio-1_coverage: 88.98x
+data_pacbio-1_links: s3://genomeark/species/Strigops_habroptilus/bStrHab1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Strigops_habroptilus/bStrHab1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Strigops_habroptilus/bStrHab1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.2547
+data_pacbio_bases: 106.19 Gbp
+data_pacbio_bytes: 388.3 GiB
+data_pacbio_coverage: 88.98x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bStrHab1:GCA_004011185.1
 genbank_pri: bStrHab1:GCA_004027225.2
 genome_size: 1193409022
@@ -61,7 +78,7 @@ genome_size_display: 1.19 Gbp
 last_raw_data: 1568581172
 last_updated: 1580938436
 mito1date: 2018-12-11
-mito1filesize: 5 KiB
+mito1filesize: 5.5 KiB
 mito1length: 17830
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -92,7 +109,7 @@ mito1version: assembly_curated
 name: Strigops habroptilus
 name_: Strigops_habroptilus
 pri1date: 2019-11-08
-pri1filesize: 333 MiB
+pri1filesize: 332.9 MiB
 pri1length: 1148597545
 pri1n50ctg: 9112118
 pri1n50scf: 83240647

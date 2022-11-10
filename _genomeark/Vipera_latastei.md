@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-12-08
-alt1filesize: 446 MiB
+alt1filesize: 446.5 MiB
 alt1length: 1549880332
 alt1n50ctg: 196326
 alt1n50scf: 196326
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: snub-nosed viper
+data_arima-1_bases: 165.33 Gbp
+data_arima-1_bytes: 105.1 GiB
+data_arima-1_coverage: 66.13x
+data_arima-1_links: s3://genomeark/species/Vipera_latastei/rVipLat1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Vipera_latastei/rVipLat1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vipera_latastei/rVipLat1/genomic_data/arima/
+data_arima-1_scale: 1.4648
 data_arima_bases: 165.33 Gbp
-data_arima_bytes: 105.120 GB
+data_arima_bytes: 105.1 GiB
 data_arima_coverage: 66.13x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Vipera_latastei/rVipLat1/genomic_data/arima/<br>
-data_arima_scale: 1.4648
-data_bionano_bases: 2.21 Gbp
-data_bionano_bytes: 2.831 GB
-data_bionano_coverage: 0.88x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Vipera_latastei/rVipLat1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.8 GiB
+data_bionano-1_coverage: 540.22x
+data_bionano-1_links: s3://genomeark/species/Vipera_latastei/rVipLat1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Vipera_latastei/rVipLat1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vipera_latastei/rVipLat1/genomic_data/bionano/
+data_bionano-1_scale: 449.4577
+data_bionano_bases: N/A
+data_bionano_bytes: 2.8 GiB
+data_bionano_coverage: 540.22x
+data_pacbiohifi_bam-1_bases: 79.25 Gbp
+data_pacbiohifi_bam-1_bytes: 65.1 GiB
+data_pacbiohifi_bam-1_coverage: 31.70x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Vipera_latastei/rVipLat1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Vipera_latastei/rVipLat1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vipera_latastei/rVipLat1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.1334
 data_pacbiohifi_bam_bases: 79.25 Gbp
-data_pacbiohifi_bam_bytes: 65.119 GB
+data_pacbiohifi_bam_bytes: 65.1 GiB
 data_pacbiohifi_bam_coverage: 31.70x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Vipera_latastei/rVipLat1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1334
-data_pacbiohifi_clr_bases: 1564.48 Gbp
-data_pacbiohifi_clr_bytes: 2774.248 GB
-data_pacbiohifi_clr_coverage: 625.79x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Vipera_latastei/rVipLat1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5252
+data_pacbiohifi_clr-1_bases: 1563.89 Gbp
+data_pacbiohifi_clr-1_bytes: 2.7 TiB
+data_pacbiohifi_clr-1_coverage: 625.56x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Vipera_latastei/rVipLat1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Vipera_latastei/rVipLat1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vipera_latastei/rVipLat1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5252
+data_pacbiohifi_clr_bases: 1563.89 Gbp
+data_pacbiohifi_clr_bytes: 2.7 TiB
+data_pacbiohifi_clr_coverage: 625.56x
+data_pacbiohifi_fqgz-1_bases: 32.56 Gbp
+data_pacbiohifi_fqgz-1_bytes: 27.3 GiB
+data_pacbiohifi_fqgz-1_coverage: 13.02x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Vipera_latastei/rVipLat1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Vipera_latastei/rVipLat1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vipera_latastei/rVipLat1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.1112
 data_pacbiohifi_fqgz_bases: 32.56 Gbp
-data_pacbiohifi_fqgz_bytes: 27.287 GB
+data_pacbiohifi_fqgz_bytes: 27.3 GiB
 data_pacbiohifi_fqgz_coverage: 13.02x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Vipera_latastei/rVipLat1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.1112
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 2500000000
 genome_size_display: 2.50 Gbp
 last_raw_data: 1651607858
@@ -67,7 +88,7 @@ last_updated: 1659344659
 name: Vipera latastei
 name_: Vipera_latastei
 pri1date: 2021-12-08
-pri1filesize: 466 MiB
+pri1filesize: 466.3 MiB
 pri1length: 1631568913
 pri1n50ctg: 7285792
 pri1n50scf: 104936932

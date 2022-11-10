@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-08-16
-alt1filesize: 322 MiB
+alt1filesize: 321.7 MiB
 alt1length: 1084112861
 alt1n50ctg: 1118899
 alt1n50scf: 1118899
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: red-crested turaco
+data_10x-1_bases: 52.44 Gbp
+data_10x-1_bytes: 27.5 GiB
+data_10x-1_coverage: 44.82x
+data_10x-1_links: s3://genomeark/species/Tauraco_erythrolophus/bTauEry1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tauraco_erythrolophus/bTauEry1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tauraco_erythrolophus/bTauEry1/genomic_data/10x/
+data_10x-1_scale: 1.7735
 data_10x_bases: 52.44 Gbp
-data_10x_bytes: 27.536 GB
+data_10x_bytes: 27.5 GiB
 data_10x_coverage: 44.82x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Tauraco_erythrolophus/bTauEry1/genomic_data/10x/<br>
-data_10x_scale: 1.7735
+data_arima-1_bases: 78.71 Gbp
+data_arima-1_bytes: 40.2 GiB
+data_arima-1_coverage: 67.27x
+data_arima-1_links: s3://genomeark/species/Tauraco_erythrolophus/bTauEry1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tauraco_erythrolophus/bTauEry1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tauraco_erythrolophus/bTauEry1/genomic_data/arima/
+data_arima-1_scale: 1.8217
 data_arima_bases: 78.71 Gbp
-data_arima_bytes: 40.237 GB
+data_arima_bytes: 40.2 GiB
 data_arima_coverage: 67.27x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Tauraco_erythrolophus/bTauEry1/genomic_data/arima/<br>
-data_arima_scale: 1.8217
-data_bionano_bases: 1.46 Gbp
-data_bionano_bytes: 1.400 GB
-data_bionano_coverage: 1.25x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Tauraco_erythrolophus/bTauEry1/genomic_data/bionano/<br>
-data_pacbio_bases: 77.27 Gbp
-data_pacbio_bytes: 132.977 GB
-data_pacbio_coverage: 66.05x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Tauraco_erythrolophus/bTauEry1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5412
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.4 GiB
+data_bionano-1_coverage: 755.88x
+data_bionano-1_links: s3://genomeark/species/Tauraco_erythrolophus/bTauEry1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tauraco_erythrolophus/bTauEry1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tauraco_erythrolophus/bTauEry1/genomic_data/bionano/
+data_bionano-1_scale: 597.4910
+data_bionano_bases: N/A
+data_bionano_bytes: 1.4 GiB
+data_bionano_coverage: 755.88x
+data_pacbio-1_bases: 77.25 Gbp
+data_pacbio-1_bytes: 132.9 GiB
+data_pacbio-1_coverage: 66.02x
+data_pacbio-1_links: s3://genomeark/species/Tauraco_erythrolophus/bTauEry1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tauraco_erythrolophus/bTauEry1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tauraco_erythrolophus/bTauEry1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5412
+data_pacbio_bases: 77.25 Gbp
+data_pacbio_bytes: 132.9 GiB
+data_pacbio_coverage: 66.02x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bTauEry1:GCA_009764505.1
 genbank_pri: bTauEry1:GCA_009769465.1
 genome_size: 1170000000
@@ -64,7 +81,7 @@ last_updated: 1588867679
 name: Tauraco erythrolophus
 name_: Tauraco_erythrolophus
 pri1date: 2019-08-16
-pri1filesize: 360 MiB
+pri1filesize: 360.3 MiB
 pri1length: 1252271553
 pri1n50ctg: 12059329
 pri1n50scf: 85562082

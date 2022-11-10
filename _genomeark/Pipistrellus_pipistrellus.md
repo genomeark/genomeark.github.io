@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-07-24
-alt1filesize: 460 MiB
+alt1filesize: 459.9 MiB
 alt1length: 1579816813
 alt1n50ctg: 229984
 alt1n50scf: 230226
@@ -30,24 +30,36 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common pipistrelle
+data_10x-1_bases: 134.75 Gbp
+data_10x-1_bytes: 83.3 GiB
+data_10x-1_coverage: 76.41x
+data_10x-1_links: s3://genomeark/species/Pipistrellus_pipistrellus/mPipPip1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pipistrellus_pipistrellus/mPipPip1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_pipistrellus/mPipPip1/genomic_data/10x/
+data_10x-1_scale: 1.5070
 data_10x_bases: 134.75 Gbp
-data_10x_bytes: 83.276 GB
+data_10x_bytes: 83.3 GiB
 data_10x_coverage: 76.41x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Pipistrellus_pipistrellus/mPipPip1/genomic_data/10x/<br>
-data_10x_scale: 1.5070
+data_arima-2_bases: 247.70 Gbp
+data_arima-2_bytes: 158.9 GiB
+data_arima-2_coverage: 140.46x
+data_arima-2_links: s3://genomeark/species/Pipistrellus_pipistrellus/mPipPip2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pipistrellus_pipistrellus/mPipPip2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_pipistrellus/mPipPip2/genomic_data/arima/
+data_arima-2_scale: 1.4519
 data_arima_bases: 247.70 Gbp
-data_arima_bytes: 158.888 GB
+data_arima_bytes: 158.9 GiB
 data_arima_coverage: 140.46x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Pipistrellus_pipistrellus/mPipPip2/genomic_data/arima/<br>
-data_arima_scale: 1.4519
-data_pacbio_bases: 125.48 Gbp
-data_pacbio_bytes: 218.060 GB
-data_pacbio_coverage: 71.15x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Pipistrellus_pipistrellus/mPipPip1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5359
+data_pacbio-1_bases: 125.41 Gbp
+data_pacbio-1_bytes: 218.0 GiB
+data_pacbio-1_coverage: 71.12x
+data_pacbio-1_links: s3://genomeark/species/Pipistrellus_pipistrellus/mPipPip1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pipistrellus_pipistrellus/mPipPip1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_pipistrellus/mPipPip1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5359
+data_pacbio_bases: 125.41 Gbp
+data_pacbio_bytes: 218.0 GiB
+data_pacbio_coverage: 71.12x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: mPipPip1:GCA_903992515.1
 genbank_pri: mPipPip1:GCA_903992545.1
@@ -56,7 +68,7 @@ genome_size_display: 1.76 Gbp
 last_raw_data: 1586515943
 last_updated: 1605869756
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16925
 mito1n50ctg: 16925
 mito1n50scf: 16925
@@ -87,7 +99,7 @@ mito1version: assembly_MT_rockefeller
 name: Pipistrellus pipistrellus
 name_: Pipistrellus_pipistrellus
 pri1date: 2020-07-24
-pri1filesize: 512 MiB
+pri1filesize: 512.2 MiB
 pri1length: 1763439233
 pri1n50ctg: 4446752
 pri1n50scf: 94929986

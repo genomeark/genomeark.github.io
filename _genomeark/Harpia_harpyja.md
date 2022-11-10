@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-02-03
-alt1filesize: 336 MiB
+alt1filesize: 336.4 MiB
 alt1length: 1185324778
 alt1n50ctg: 717996
 alt1n50scf: 717996
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Harpy eagle
+data_arima-1_bases: 188.44 Gbp
+data_arima-1_bytes: 88.3 GiB
+data_arima-1_coverage: 157.04x
+data_arima-1_links: s3://genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Harpia_harpyja/bHarHar1/genomic_data/arima/
+data_arima-1_scale: 1.9886
 data_arima_bases: 188.44 Gbp
-data_arima_bytes: 88.253 GB
+data_arima_bytes: 88.3 GiB
 data_arima_coverage: 157.04x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/arima/<br>
-data_arima_scale: 1.9886
-data_bionano_bases: 1.44 Gbp
-data_bionano_bytes: 1.963 GB
-data_bionano_coverage: 1.20x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.9 GiB
+data_bionano-1_coverage: 707.27x
+data_bionano-1_links: s3://genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Harpia_harpyja/bHarHar1/genomic_data/bionano/
+data_bionano-1_scale: 406.8829
+data_bionano_bases: N/A
+data_bionano_bytes: 1.9 GiB
+data_bionano_coverage: 707.27x
+data_pacbiohifi_bam-1_bases: 37.69 Gbp
+data_pacbiohifi_bam-1_bytes: 31.3 GiB
+data_pacbiohifi_bam-1_coverage: 31.41x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Harpia_harpyja/bHarHar1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.1214
 data_pacbiohifi_bam_bases: 37.69 Gbp
-data_pacbiohifi_bam_bytes: 31.305 GB
+data_pacbiohifi_bam_bytes: 31.3 GiB
 data_pacbiohifi_bam_coverage: 31.41x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1214
-data_pacbiohifi_clr_bases: 610.06 Gbp
-data_pacbiohifi_clr_bytes: 1096.417 GB
-data_pacbiohifi_clr_coverage: 508.38x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5182
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_clr-1_bases: 609.84 Gbp
+data_pacbiohifi_clr-1_bytes: 1.1 TiB
+data_pacbiohifi_clr-1_coverage: 508.20x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Harpia_harpyja/bHarHar1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Harpia_harpyja/bHarHar1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5182
+data_pacbiohifi_clr_bases: 609.84 Gbp
+data_pacbiohifi_clr_bytes: 1.1 TiB
+data_pacbiohifi_clr_coverage: 508.20x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 last_raw_data: 1651615037
@@ -61,7 +78,7 @@ last_updated: 1651615037
 name: Harpia harpyja
 name_: Harpia_harpyja
 pri1date: 2022-02-03
-pri1filesize: 376 MiB
+pri1filesize: 375.9 MiB
 pri1length: 1351447071
 pri1n50ctg: 18312066
 pri1n50scf: 70996697

@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-08-13
-alt1filesize: 347 MiB
+alt1filesize: 347.2 MiB
 alt1length: 1167509893
 alt1n50ctg: 1304954
 alt1n50scf: 1304954
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: American flamingo
+data_10x-1_bases: 103.00 Gbp
+data_10x-1_bytes: 49.2 GiB
+data_10x-1_coverage: 82.40x
+data_10x-1_links: s3://genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phoenicopterus_ruber/bPhoRub1/genomic_data/10x/
+data_10x-1_scale: 1.9511
 data_10x_bases: 103.00 Gbp
-data_10x_bytes: 49.167 GB
+data_10x_bytes: 49.2 GiB
 data_10x_coverage: 82.40x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/10x/<br>
-data_10x_scale: 1.9511
+data_arima-1_bases: 244.61 Gbp
+data_arima-1_bytes: 121.9 GiB
+data_arima-1_coverage: 195.69x
+data_arima-1_links: s3://genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phoenicopterus_ruber/bPhoRub1/genomic_data/arima/
+data_arima-1_scale: 1.8694
 data_arima_bases: 244.61 Gbp
-data_arima_bytes: 121.862 GB
+data_arima_bytes: 121.9 GiB
 data_arima_coverage: 195.69x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/arima/<br>
-data_arima_scale: 1.8694
-data_bionano_bases: 1.39 Gbp
-data_bionano_bytes: 0.935 GB
-data_bionano_coverage: 1.11x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/bionano/<br>
-data_pacbio_bases: 76.78 Gbp
-data_pacbio_bytes: 132.832 GB
-data_pacbio_coverage: 61.42x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5383
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 0.9 GiB
+data_bionano-1_coverage: 455.07x
+data_bionano-1_links: s3://genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phoenicopterus_ruber/bPhoRub1/genomic_data/bionano/
+data_bionano-1_scale: 579.4354
+data_bionano_bases: N/A
+data_bionano_bytes: 0.9 GiB
+data_bionano_coverage: 455.07x
+data_pacbio-1_bases: 76.75 Gbp
+data_pacbio-1_bytes: 132.8 GiB
+data_pacbio-1_coverage: 61.40x
+data_pacbio-1_links: s3://genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phoenicopterus_ruber/bPhoRub1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phoenicopterus_ruber/bPhoRub1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5383
+data_pacbio_bases: 76.75 Gbp
+data_pacbio_bytes: 132.8 GiB
+data_pacbio_coverage: 61.40x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bPhoRub2:GCA_009819805.1
 genbank_pri: bPhoRub2:GCA_009819775.1
 genome_size: 1250000000
@@ -64,7 +81,7 @@ last_updated: 1565898027
 name: Phoenicopterus ruber
 name_: Phoenicopterus_ruber
 pri1date: 2019-08-13
-pri1filesize: 364 MiB
+pri1filesize: 364.3 MiB
 pri1length: 1246226932
 pri1n50ctg: 14700712
 pri1n50scf: 85472901

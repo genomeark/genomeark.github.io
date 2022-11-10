@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-11-30
-alt1filesize: 239 MiB
+alt1filesize: 238.7 MiB
 alt1length: 814594871
 alt1n50ctg: 48927
 alt1n50scf: 48945
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: mute swan
+data_10x-1_bases: 73.81 Gbp
+data_10x-1_bytes: 37.6 GiB
+data_10x-1_coverage: 49.87x
+data_10x-1_links: s3://genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cygnus_olor/bCygOlo1/genomic_data/10x/
+data_10x-1_scale: 1.8282
 data_10x_bases: 73.81 Gbp
-data_10x_bytes: 37.600 GB
+data_10x_bytes: 37.6 GiB
 data_10x_coverage: 49.87x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/10x/<br>
-data_10x_scale: 1.8282
+data_arima-1_bases: 96.55 Gbp
+data_arima-1_bytes: 62.0 GiB
+data_arima-1_coverage: 65.23x
+data_arima-1_links: s3://genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cygnus_olor/bCygOlo1/genomic_data/arima/
+data_arima-1_scale: 1.4499
 data_arima_bases: 96.55 Gbp
-data_arima_bytes: 62.015 GB
+data_arima_bytes: 62.0 GiB
 data_arima_coverage: 65.23x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/arima/<br>
-data_arima_scale: 1.4499
-data_bionano_bases: 1.25 Gbp
-data_bionano_bytes: 0.808 GB
-data_bionano_coverage: 0.85x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/bionano/<br>
-data_pacbio_bases: 89.14 Gbp
-data_pacbio_bytes: 155.236 GB
-data_pacbio_coverage: 60.23x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5348
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 809.3 MiB
+data_bionano-1_coverage: 348.05x
+data_bionano-1_links: s3://genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cygnus_olor/bCygOlo1/genomic_data/bionano/
+data_bionano-1_scale: 607.0080
+data_bionano_bases: N/A
+data_bionano_bytes: 809.3 MiB
+data_bionano_coverage: 348.05x
+data_pacbio-1_bases: 89.10 Gbp
+data_pacbio-1_bytes: 155.2 GiB
+data_pacbio-1_coverage: 60.20x
+data_pacbio-1_links: s3://genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cygnus_olor/bCygOlo1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5348
+data_pacbio_bases: 89.10 Gbp
+data_pacbio_bytes: 155.2 GiB
+data_pacbio_coverage: 60.20x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bCygOlo1:GCA_009769485.2
 genbank_pri: bCygOlo1:GCA_009769625.2
 genome_size: 1480000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1564200622
 last_updated: 1606748870
 mito1date: 2019-09-28
-mito1filesize: 5 KiB
+mito1filesize: 5.4 KiB
 mito1length: 16733
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Cygnus olor
 name_: Cygnus_olor
 pri1date: 2020-11-30
-pri1filesize: 329 MiB
+pri1filesize: 329.2 MiB
 pri1length: 1134169903
 pri1n50ctg: 4985026
 pri1n50scf: 40612327

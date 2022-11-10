@@ -403,8 +403,8 @@ table.project-table {
 table.project-table thead {
   text-align:       right;
   border:           1px solid #dddddd;
-  border-top:       1px solid #111111;
-  border-bottom:    2px solid #111111;
+  border-top:       2px solid #111111;
+  border-bottom:    1px solid #111111;
 }
 
 table.project-table th {
@@ -604,58 +604,54 @@ div.sd-image {
 //  The raw data tables
 //
 
-table.raw-data-table thead {
+//table.raw-data-table thead {
+//  text-align:       right;
+//  border-top:       1px solid #111111;
+//  border-bottom:    2px solid #111111;
+//}
+
+tr.raw-data-toprow {                         //  toprow is set in utilities/make-data-table.pl
+  border-top: 1px solid #111111;             //  to draw a line between types/individuals; the
+}                                            //  line at the bottom is in the footer.
+
+table.raw-data-table thead th {
   text-align:       right;
-  border:           1px solid #dddddd;
   border-top:       1px solid #111111;
   border-bottom:    2px solid #111111;
-}
-
-table.raw-data-table th {
-  text-align:       right;
-  border:           1px solid #111111;
+  border-left:      1px solid #111111;
+  border-right:     1px solid #111111;
   padding:          2px;
   padding-left:     8px;
   padding-right:    8px;
   background-color: #cccccc;
 }
 
-table.raw-data-table td {
+table.raw-data-table tbody td {
   text-align:       right;
-  border:           1px solid #dddddd;
+  border-top:       1px dotted #dddddd;
+  border-bottom:    inherit;
+  border-left:      1px solid #dddddd;
+  border-right:     1px solid #dddddd;
   padding:          2px;
   padding-left:     8px;
   padding-right:    8px;
 }
+
+table.raw-data-table tfoot tr {
+  border-top:       2px solid #111111;
+}
+table.raw-data-table tfoot td {
+  text-align:       right;
+  font-size:        75%;
+  border:           0px ;
+  padding:          2px;
+  padding-left:     8px;
+  padding-right:    8px;
+}
+
+
 table.raw-data-table .label {
   text-align:       left;
-}
-
-table.raw-data-table tfoot {
-  text-align:       right;
-  border-top:       2px solid #111111;
-  border-bottom:    1px solid #111111;
-}
-
-p.raw-data-size {
-  margin:         0px 0px 0px 0px;
-  font-size:      75%;
-  text-align:     right;
-}
-p.raw-data-date {
-  margin:         0px 0px 0px 0px;
-  font-size:      75%;
-  text-align:     right;
-}
-
-div.raw-data-links {
-  padding:      0px 0px 0px 20px;
-  overflow-y:   auto;
-  overflow-x:   auto;  //scroll;
-  white-space:  nowrap;
-  margin-right: 0px 10px 0px 10px;
-  font-family:  monospace;
-  font-size:    75%;
 }
 
 //
@@ -665,26 +661,64 @@ div.raw-data-links {
 div.assembly-list {
   width:    97%;
 }
-
-div.assembly-block-l {
-  @media only screen and (max-width: 768px) { width: 99%; overflow: scroll;               }
-  @media only screen and (min-width: 769px) { width: 49%; overflow: hidden; float: left;  }
+div.assembly-list-line {
+  clear:    both;
 }
-div.assembly-block-r {
-  @media only screen and (max-width: 768px) { width: 99%; overflow: scroll;               }
-  @media only screen and (min-width: 769px) { width: 49%; overflow: hidden; float: right; }
-}
-
-.sequence-file {
+div.assembly-list-item {
+  clear:    both;
+  padding:  10px;
+  border:   1px solid #6600ff;
+  width:    100%;
+  overflow: auto;
 }
 
-.sequence-sizes-table {
+//  For small screens...
+@media only screen and (max-width: 768px) {
+  div.assembly-block-l {
+    width:    100%;
+    overflow: scroll;
+  }
+  div.assembly-block-r {
+    width:    100%;
+    overflow: scroll;
+  }
+  div.mito-block {
+    width:    100%;
+    overflow: scroll;
+  }
 }
 
-.genome-size {
-  clear:    left;
-  text-align: right;
+//  For big screens...
+@media only screen and (min-width: 769px) {
+  div.assembly-block-l {
+    padding-top:    12px;
+    padding-bottom: 12px;
+    padding-right: 8px;
+    width:    50%;
+    overflow: hidden;
+    clear:    left;
+    float:    left;
+  }
+  div.assembly-block-r {
+    padding-top:    12px;
+    padding-bottom: 12px;
+    padding-left: 8px;
+    width:    50%;
+    overflow: hidden;
+    clear:    right;
+    float:    right;
+  }
+  div.mito-block {
+    padding-top:    12px;
+    padding-bottom: 12px;
+    width:    100%;
+    overflow: hidden;
+    clear:    both;
+    float:    none;
+  }
 }
+
+
 
 table.sequence-sizes-table thead {
     text-align:       right;
@@ -714,6 +748,12 @@ table.sequence-sizes-table tfoot {
     text-align:       right;
     border-top:       2px solid #111111;
     border-bottom:    1px solid #111111;
+}
+
+.genome-size {         //  "NG based on genome size ..."
+  font-size:  75%;
+  clear:      left;
+  text-align: right;
 }
 
 
@@ -750,7 +790,6 @@ div.data-use {
 //div {
 //    border: 1px solid #000000;
 //}
-
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

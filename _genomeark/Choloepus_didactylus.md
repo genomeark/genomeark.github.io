@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-09-14
-alt1filesize: 942 MiB
+alt1filesize: 0.9 GiB
 alt1length: 3180649806
 alt1n50ctg: 459769
 alt1n50scf: 461725
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_berlinSanger_vgp_1.6
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: southern two-toed sloth
+data_10x-1_bases: 342.78 Gbp
+data_10x-1_bytes: 159.9 GiB
+data_10x-1_coverage: 100.82x
+data_10x-1_links: s3://genomeark/species/Choloepus_didactylus/mChoDid1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Choloepus_didactylus/mChoDid1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Choloepus_didactylus/mChoDid1/genomic_data/10x/
+data_10x-1_scale: 1.9961
 data_10x_bases: 342.78 Gbp
-data_10x_bytes: 159.933 GB
+data_10x_bytes: 159.9 GiB
 data_10x_coverage: 100.82x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Choloepus_didactylus/mChoDid1/genomic_data/10x/<br>
-data_10x_scale: 1.9961
+data_arima-1_bases: 297.29 Gbp
+data_arima-1_bytes: 153.7 GiB
+data_arima-1_coverage: 87.44x
+data_arima-1_links: s3://genomeark/species/Choloepus_didactylus/mChoDid1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Choloepus_didactylus/mChoDid1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Choloepus_didactylus/mChoDid1/genomic_data/arima/
+data_arima-1_scale: 1.8010
 data_arima_bases: 297.29 Gbp
-data_arima_bytes: 153.732 GB
+data_arima_bytes: 153.7 GiB
 data_arima_coverage: 87.44x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Choloepus_didactylus/mChoDid1/genomic_data/arima/<br>
-data_arima_scale: 1.8010
-data_bionano_bases: 5.99 Gbp
-data_bionano_bytes: 1.633 GB
-data_bionano_coverage: 1.76x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Choloepus_didactylus/mChoDid1/genomic_data/bionano/<br>
-data_pacbio_bases: 193.25 Gbp
-data_pacbio_bytes: 339.455 GB
-data_pacbio_coverage: 56.84x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Choloepus_didactylus/mChoDid1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5302
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.5 GiB
+data_bionano-1_coverage: 251.42x
+data_bionano-1_links: s3://genomeark/species/Choloepus_didactylus/mChoDid1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Choloepus_didactylus/mChoDid1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Choloepus_didactylus/mChoDid1/genomic_data/bionano/
+data_bionano-1_scale: 516.2922
+data_bionano_bases: N/A
+data_bionano_bytes: 1.5 GiB
+data_bionano_coverage: 251.42x
+data_pacbio-1_bases: 193.17 Gbp
+data_pacbio-1_bytes: 339.3 GiB
+data_pacbio-1_coverage: 56.81x
+data_pacbio-1_links: s3://genomeark/species/Choloepus_didactylus/mChoDid1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Choloepus_didactylus/mChoDid1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Choloepus_didactylus/mChoDid1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5302
+data_pacbio_bases: 193.17 Gbp
+data_pacbio_bytes: 339.3 GiB
+data_pacbio_coverage: 56.81x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: mChoDid1:GCA_015220265.1
 genbank_pri: mChoDid1:GCA_015220235.1
 genome_size: 3400000000
@@ -61,7 +78,7 @@ genome_size_display: 3.40 Gbp
 last_raw_data: 1547217154
 last_updated: 1600171198
 mito1date: 2019-08-20
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16499
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Choloepus didactylus
 name_: Choloepus_didactylus
 pri1date: 2020-09-14
-pri1filesize: 915 MiB
+pri1filesize: 0.9 GiB
 pri1length: 3214686105
 pri1n50ctg: 19041222
 pri1n50scf: 146178362

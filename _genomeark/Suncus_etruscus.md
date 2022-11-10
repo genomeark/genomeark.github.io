@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-11-25
-alt1filesize: 434 MiB
+alt1filesize: 434.3 MiB
 alt1length: 1515382512
 alt1n50ctg: 24626
 alt1n50scf: 24724
@@ -30,36 +30,53 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: white-toothed pygmy shrew
+data_10x-1_bases: 317.83 Gbp
+data_10x-1_bytes: 155.1 GiB
+data_10x-1_coverage: 105.94x
+data_10x-1_links: s3://genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Suncus_etruscus/mSunEtr1/genomic_data/10x/
+data_10x-1_scale: 1.9086
 data_10x_bases: 317.83 Gbp
-data_10x_bytes: 155.090 GB
+data_10x_bytes: 155.1 GiB
 data_10x_coverage: 105.94x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/10x/<br>
-data_10x_scale: 1.9086
+data_arima-1_bases: 162.67 Gbp
+data_arima-1_bytes: 100.8 GiB
+data_arima-1_coverage: 54.22x
+data_arima-1_links: s3://genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Suncus_etruscus/mSunEtr1/genomic_data/arima/
+data_arima-1_scale: 1.5026
 data_arima_bases: 162.67 Gbp
-data_arima_bytes: 100.821 GB
+data_arima_bytes: 100.8 GiB
 data_arima_coverage: 54.22x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/arima/<br>
-data_arima_scale: 1.5026
-data_bionano_bases: 2.91 Gbp
-data_bionano_bytes: 0.875 GB
-data_bionano_coverage: 0.97x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/bionano/<br>
-data_pacbio_bases: 429.61 Gbp
-data_pacbio_bytes: 770.918 GB
-data_pacbio_coverage: 143.20x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5190
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 857.0 MiB
+data_bionano-1_coverage: 209.49x
+data_bionano-1_links: s3://genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Suncus_etruscus/mSunEtr1/genomic_data/bionano/
+data_bionano-1_scale: 699.3564
+data_bionano_bases: N/A
+data_bionano_bytes: 857.0 MiB
+data_bionano_coverage: 209.49x
+data_pacbio-1_bases: 429.46 Gbp
+data_pacbio-1_bytes: 770.6 GiB
+data_pacbio-1_coverage: 143.15x
+data_pacbio-1_links: s3://genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Suncus_etruscus/mSunEtr1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Suncus_etruscus/mSunEtr1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5190
+data_pacbio_bases: 429.46 Gbp
+data_pacbio_bytes: 770.6 GiB
+data_pacbio_coverage: 143.15x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 3000000000
 genome_size_display: 3.00 Gbp
 last_raw_data: 1622136717
 last_updated: 1637843882
 mito1date: 2021-05-27
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16982
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -90,7 +107,7 @@ mito1version: assembly_MT_rockefeller
 name: Suncus etruscus
 name_: Suncus_etruscus
 pri1date: 2021-11-25
-pri1filesize: 706 MiB
+pri1filesize: 705.6 MiB
 pri1length: 2471683639
 pri1n50ctg: 3856164
 pri1n50scf: 116298652

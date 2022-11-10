@@ -1,43 +1,64 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: cattle
+data_10x-1_bases: 200.22 Gbp
+data_10x-1_bytes: 102.8 GiB
+data_10x-1_coverage: 74.16x
+data_10x-1_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bos_taurus/mBosTau1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bos_taurus/mBosTau1/genomic_data/10x/
+data_10x-1_scale: 1.8139
 data_10x_bases: 200.22 Gbp
-data_10x_bytes: 102.803 GB
+data_10x_bytes: 102.8 GiB
 data_10x_coverage: 74.16x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/10x/<br>
-data_10x_scale: 1.8139
-data_bionano_bases: 3.34 Gbp
-data_bionano_bytes: 1.118 GB
-data_bionano_coverage: 1.24x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.1 GiB
+data_bionano-1_coverage: 284.15x
+data_bionano-1_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bos_taurus/mBosTau1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bos_taurus/mBosTau1/genomic_data/bionano/
+data_bionano-1_scale: 644.8422
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 284.15x
+data_illumina-1_bases: 235.68 Gbp
+data_illumina-1_bytes: 152.5 GiB
+data_illumina-1_coverage: 87.29x
+data_illumina-1_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bos_taurus/mBosTau1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bos_taurus/mBosTau1/genomic_data/illumina/
+data_illumina-1_scale: 1.4393
 data_illumina_bases: 235.68 Gbp
-data_illumina_bytes: 152.498 GB
+data_illumina_bytes: 152.5 GiB
 data_illumina_coverage: 87.29x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/illumina/<br>
-data_illumina_scale: 1.4393
-data_pacbio_bases: 361.28 Gbp
-data_pacbio_bytes: 970.499 GB
-data_pacbio_coverage: 133.81x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.3467
+data_pacbio-1_bases: 361.14 Gbp
+data_pacbio-1_bytes: 0.9 TiB
+data_pacbio-1_coverage: 133.76x
+data_pacbio-1_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bos_taurus/mBosTau1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bos_taurus/mBosTau1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.3467
+data_pacbio_bases: 361.14 Gbp
+data_pacbio_bytes: 0.9 TiB
+data_pacbio_coverage: 133.76x
+data_phase-1_bases: 32.36 Gbp
+data_phase-1_bytes: 18.5 GiB
+data_phase-1_coverage: 11.98x
+data_phase-1_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/phase/<br>
+data_phase-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bos_taurus/mBosTau1/genomic_data/phase/
+data_phase-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bos_taurus/mBosTau1/genomic_data/phase/
+data_phase-1_scale: 1.6305
 data_phase_bases: 32.36 Gbp
-data_phase_bytes: 18.483 GB
+data_phase_bytes: 18.5 GiB
 data_phase_coverage: 11.98x
-data_phase_files: 666
-data_phase_links: s3://genomeark/species/Bos_taurus/mBosTau1/genomic_data/phase/<br>
-data_phase_scale: 1.6305
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Phase</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Phase</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 2700000000
 genome_size_display: 2.70 Gbp
 genome_size_method: null
 last_raw_data: 1577216959
 last_updated: 1582287605
 mat1date: 2020-02-13
-mat1filesize: 777 MiB
+mat1filesize: 776.6 MiB
 mat1length: 2680830071
 mat1n50ctg: 26764281
 mat1n50scf: 104466507
@@ -66,7 +87,7 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mito1date: 2019-10-07
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 16339
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -97,7 +118,7 @@ mito1version: assembly_curated
 name: Bos taurus
 name_: Bos_taurus
 pat1date: 2020-02-13
-pat1filesize: 743 MiB
+pat1filesize: 742.9 MiB
 pat1length: 2580284709
 pat1n50ctg: 35242446
 pat1n50scf: 91133937

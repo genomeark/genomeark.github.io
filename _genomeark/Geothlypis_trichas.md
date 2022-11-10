@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-10-08
-alt1filesize: 286 MiB
+alt1filesize: 285.6 MiB
 alt1length: 976433058
 alt1n50ctg: 340904
 alt1n50scf: 340904
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common yellowthroat
+data_10x-1_bases: 49.03 Gbp
+data_10x-1_bytes: 28.5 GiB
+data_10x-1_coverage: 34.05x
+data_10x-1_links: s3://genomeark/species/Geothlypis_trichas/bGeoTri1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Geothlypis_trichas/bGeoTri1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geothlypis_trichas/bGeoTri1/genomic_data/10x/
+data_10x-1_scale: 1.6011
 data_10x_bases: 49.03 Gbp
-data_10x_bytes: 28.521 GB
+data_10x_bytes: 28.5 GiB
 data_10x_coverage: 34.05x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Geothlypis_trichas/bGeoTri1/genomic_data/10x/<br>
-data_10x_scale: 1.6011
+data_arima-1_bases: 136.08 Gbp
+data_arima-1_bytes: 65.3 GiB
+data_arima-1_coverage: 94.50x
+data_arima-1_links: s3://genomeark/species/Geothlypis_trichas/bGeoTri1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Geothlypis_trichas/bGeoTri1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geothlypis_trichas/bGeoTri1/genomic_data/arima/
+data_arima-1_scale: 1.9402
 data_arima_bases: 136.08 Gbp
-data_arima_bytes: 65.322 GB
+data_arima_bytes: 65.3 GiB
 data_arima_coverage: 94.50x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Geothlypis_trichas/bGeoTri1/genomic_data/arima/<br>
-data_arima_scale: 1.9402
-data_bionano_bases: 2.99 Gbp
-data_bionano_bytes: 2.877 GB
-data_bionano_coverage: 2.08x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Geothlypis_trichas/bGeoTri1/genomic_data/bionano/<br>
-data_pacbio_bases: 75.00 Gbp
-data_pacbio_bytes: 133.351 GB
-data_pacbio_coverage: 52.08x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Geothlypis_trichas/bGeoTri1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5238
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.8 GiB
+data_bionano-1_coverage: 1362.71x
+data_bionano-1_links: s3://genomeark/species/Geothlypis_trichas/bGeoTri1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Geothlypis_trichas/bGeoTri1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geothlypis_trichas/bGeoTri1/genomic_data/bionano/
+data_bionano-1_scale: 642.8093
+data_bionano_bases: N/A
+data_bionano_bytes: 2.8 GiB
+data_bionano_coverage: 1362.71x
+data_pacbio-1_bases: 74.94 Gbp
+data_pacbio-1_bytes: 133.2 GiB
+data_pacbio-1_coverage: 52.04x
+data_pacbio-1_links: s3://genomeark/species/Geothlypis_trichas/bGeoTri1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Geothlypis_trichas/bGeoTri1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geothlypis_trichas/bGeoTri1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5238
+data_pacbio_bases: 74.94 Gbp
+data_pacbio_bytes: 133.2 GiB
+data_pacbio_coverage: 52.04x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bGeoTri1:GCA_009764545.1
 genbank_pri: bGeoTri1:GCA_009764595.1
 genome_size: 1440000000
@@ -62,7 +79,7 @@ genome_size_method: Feulgen Image Analysis Densitometry
 last_raw_data: 1570134727
 last_updated: 1576521593
 mito1date: 2019-12-16
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16814
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Geothlypis trichas
 name_: Geothlypis_trichas
 pri1date: 2019-10-08
-pri1filesize: 308 MiB
+pri1filesize: 307.8 MiB
 pri1length: 1078128490
 pri1n50ctg: 1615884
 pri1n50scf: 36946645

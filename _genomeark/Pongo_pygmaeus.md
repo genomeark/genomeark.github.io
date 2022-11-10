@@ -1,33 +1,49 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: Bornean orangutan
+data_dovetail-2_bases: 170.10 Gbp
+data_dovetail-2_bytes: 87.2 GiB
+data_dovetail-2_coverage: 47.52x
+data_dovetail-2_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/dovetail/<br>
+data_dovetail-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/dovetail/
+data_dovetail-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pongo_pygmaeus/mPonPyg2/genomic_data/dovetail/
+data_dovetail-2_scale: 1.8160
 data_dovetail_bases: 170.10 Gbp
-data_dovetail_bytes: 87.235 GB
+data_dovetail_bytes: 87.2 GiB
 data_dovetail_coverage: 47.52x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.8160
+data_ont-2_bases: 632.81 Gbp
+data_ont-2_bytes: 538.0 GiB
+data_ont-2_coverage: 176.79x
+data_ont-2_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/ont/<br>
+data_ont-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/ont/
+data_ont-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pongo_pygmaeus/mPonPyg2/genomic_data/ont/
+data_ont-2_scale: 1.0954
 data_ont_bases: 632.81 Gbp
-data_ont_bytes: 538.023 GB
+data_ont_bytes: 538.0 GiB
 data_ont_coverage: 176.79x
-data_ont_files: 666
-data_ont_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/ont/<br>
-data_ont_scale: 1.0954
-data_pacbiohifi_clr_bases: 3482.61 Gbp
-data_pacbiohifi_clr_bytes: 6527.331 GB
-data_pacbiohifi_clr_coverage: 972.94x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.4969
+data_pacbiohifi_clr-2_bases: 3481.77 Gbp
+data_pacbiohifi_clr-2_bytes: 6.4 TiB
+data_pacbiohifi_clr-2_coverage: 972.70x
+data_pacbiohifi_clr-2_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_scale: 0.4969
+data_pacbiohifi_clr_bases: 3481.77 Gbp
+data_pacbiohifi_clr_bytes: 6.4 TiB
+data_pacbiohifi_clr_coverage: 972.70x
+data_pacbiohifi_fqgz-2_bases: 190.78 Gbp
+data_pacbiohifi_fqgz-2_bytes: 162.1 GiB
+data_pacbiohifi_fqgz-2_coverage: 53.30x
+data_pacbiohifi_fqgz-2_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-2_scale: 1.0964
 data_pacbiohifi_fqgz_bases: 190.78 Gbp
-data_pacbiohifi_fqgz_bytes: 162.057 GB
+data_pacbiohifi_fqgz_bytes: 162.1 GiB
 data_pacbiohifi_fqgz_coverage: 53.30x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.0964
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Dovetail</em>'
 dip2date: 2022-10-05
-dip2filesize: 2 GiB
+dip2filesize: 1.5 GiB
 dip2length: 6217165865
 dip2n50ctg: 42239407
 dip2n50scf: 42239407

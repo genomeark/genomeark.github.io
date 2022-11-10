@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-07-16
-alt1filesize: 311 MiB
+alt1filesize: 310.7 MiB
 alt1length: 1082594729
 alt1n50ctg: 1342166
 alt1n50scf: 1342166
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: downy woodpecker
+data_10x-1_bases: 166.14 Gbp
+data_10x-1_bytes: 79.5 GiB
+data_10x-1_coverage: 118.67x
+data_10x-1_links: s3://genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dryobates_pubescens/bDryPub1/genomic_data/10x/
+data_10x-1_scale: 1.9461
 data_10x_bases: 166.14 Gbp
-data_10x_bytes: 79.508 GB
+data_10x_bytes: 79.5 GiB
 data_10x_coverage: 118.67x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/10x/<br>
-data_10x_scale: 1.9461
+data_arima-1_bases: 115.36 Gbp
+data_arima-1_bytes: 62.0 GiB
+data_arima-1_coverage: 82.40x
+data_arima-1_links: s3://genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dryobates_pubescens/bDryPub1/genomic_data/arima/
+data_arima-1_scale: 1.7320
 data_arima_bases: 115.36 Gbp
-data_arima_bytes: 62.031 GB
+data_arima_bytes: 62.0 GiB
 data_arima_coverage: 82.40x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/arima/<br>
-data_arima_scale: 1.7320
-data_bionano_bases: 1.38 Gbp
-data_bionano_bytes: 0.918 GB
-data_bionano_coverage: 0.98x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/bionano/<br>
-data_pacbio_bases: 87.26 Gbp
-data_pacbio_bytes: 148.486 GB
-data_pacbio_coverage: 62.33x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5473
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 0.9 GiB
+data_bionano-1_coverage: 418.12x
+data_bionano-1_links: s3://genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dryobates_pubescens/bDryPub1/genomic_data/bionano/
+data_bionano-1_scale: 605.2510
+data_bionano_bases: N/A
+data_bionano_bytes: 0.9 GiB
+data_bionano_coverage: 418.12x
+data_pacbio-1_bases: 87.23 Gbp
+data_pacbio-1_bytes: 148.4 GiB
+data_pacbio-1_coverage: 62.31x
+data_pacbio-1_links: s3://genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dryobates_pubescens/bDryPub1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dryobates_pubescens/bDryPub1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5473
+data_pacbio_bases: 87.23 Gbp
+data_pacbio_bytes: 148.4 GiB
+data_pacbio_coverage: 62.31x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bDryPub1:GCA_014839825.1
 genbank_pri: bDryPub1:GCA_014839835.1
 genome_size: 1400000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1571155873
 last_updated: 1594895381
 mito1date: 2019-10-05
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16842
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Dryobates pubescens
 name_: Dryobates_pubescens
 pri1date: 2020-07-16
-pri1filesize: 338 MiB
+pri1filesize: 338.4 MiB
 pri1length: 1187939694
 pri1n50ctg: 15853833
 pri1n50scf: 34196716

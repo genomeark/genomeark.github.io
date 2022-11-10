@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-08-08
-alt1filesize: 862 MiB
+alt1filesize: 861.7 MiB
 alt1length: 3021267164
 alt1n50ctg: 2407262
 alt1n50scf: 2407262
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Yellow-spotted hyrax
+data_arima-1_bases: 338.40 Gbp
+data_arima-1_bytes: 146.1 GiB
+data_arima-1_coverage: 97.02x
+data_arima-1_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Heterohyrax_brucei/mHetBru1/genomic_data/arima/
+data_arima-1_scale: 2.1571
 data_arima_bases: 338.40 Gbp
-data_arima_bytes: 146.103 GB
+data_arima_bytes: 146.1 GiB
 data_arima_coverage: 97.02x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/arima/<br>
-data_arima_scale: 2.1571
-data_bionano_bases: 2.99 Gbp
-data_bionano_bytes: 1.194 GB
-data_bionano_coverage: 0.86x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.2 GiB
+data_bionano-1_coverage: 148.72x
+data_bionano-1_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Heterohyrax_brucei/mHetBru1/genomic_data/bionano/
+data_bionano-1_scale: 419.7203
+data_bionano_bases: N/A
+data_bionano_bytes: 1.2 GiB
+data_bionano_coverage: 148.72x
+data_pacbiohifi_bam-1_bases: 122.23 Gbp
+data_pacbiohifi_bam-1_bytes: 80.9 GiB
+data_pacbiohifi_bam-1_coverage: 35.04x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.4078
 data_pacbiohifi_bam_bases: 122.23 Gbp
-data_pacbiohifi_bam_bytes: 80.859 GB
+data_pacbiohifi_bam_bytes: 80.9 GiB
 data_pacbiohifi_bam_coverage: 35.04x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.4078
-data_pacbiohifi_clr_bases: 2178.83 Gbp
-data_pacbiohifi_clr_bytes: 3803.544 GB
-data_pacbiohifi_clr_coverage: 624.65x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5335
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_clr-1_bases: 2177.89 Gbp
+data_pacbiohifi_clr-1_bytes: 3.7 TiB
+data_pacbiohifi_clr-1_coverage: 624.39x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5335
+data_pacbiohifi_clr_bases: 2177.89 Gbp
+data_pacbiohifi_clr_bytes: 3.7 TiB
+data_pacbiohifi_clr_coverage: 624.39x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 3488059404
 genome_size_display: 3.49 Gbp
 last_raw_data: 1651620730
@@ -61,7 +78,7 @@ last_updated: 1659976604
 name: Heterohyrax brucei
 name_: Heterohyrax_brucei
 pri1date: 2022-08-08
-pri1filesize: 981 MiB
+pri1filesize: 1.0 GiB
 pri1length: 3488059404
 pri1n50ctg: 78495281
 pri1n50scf: 139648372

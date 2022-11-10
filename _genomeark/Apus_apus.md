@@ -1,6 +1,6 @@
 ---
 alt2date: 2021-10-18
-alt2filesize: 297 MiB
+alt2filesize: 297.1 MiB
 alt2length: 1019504970
 alt2n50ctg: 2357147
 alt2n50scf: 2357147
@@ -30,30 +30,47 @@ alt2sizes: |
 alt2version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Common swift
+data_10x-2_bases: 68.99 Gbp
+data_10x-2_bytes: 32.1 GiB
+data_10x-2_coverage: 62.70x
+data_10x-2_links: s3://genomeark/species/Apus_apus/bApuApu2/genomic_data/10x/<br>
+data_10x-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Apus_apus/bApuApu2/genomic_data/10x/
+data_10x-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Apus_apus/bApuApu2/genomic_data/10x/
+data_10x-2_scale: 2.0008
 data_10x_bases: 68.99 Gbp
-data_10x_bytes: 32.114 GB
+data_10x_bytes: 32.1 GiB
 data_10x_coverage: 62.70x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Apus_apus/bApuApu2/genomic_data/10x/<br>
-data_10x_scale: 2.0008
+data_arima-2_bases: 67.00 Gbp
+data_arima-2_bytes: 30.4 GiB
+data_arima-2_coverage: 60.89x
+data_arima-2_links: s3://genomeark/species/Apus_apus/bApuApu2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Apus_apus/bApuApu2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Apus_apus/bApuApu2/genomic_data/arima/
+data_arima-2_scale: 2.0531
 data_arima_bases: 67.00 Gbp
-data_arima_bytes: 30.391 GB
+data_arima_bytes: 30.4 GiB
 data_arima_coverage: 60.89x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Apus_apus/bApuApu2/genomic_data/arima/<br>
-data_arima_scale: 2.0531
-data_bionano_bases: 1.18 Gbp
-data_bionano_bytes: 1.005 GB
-data_bionano_coverage: 1.07x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Apus_apus/bApuApu2/genomic_data/bionano/<br>
-data_pacbio_bases: 114.32 Gbp
-data_pacbio_bytes: 201.613 GB
-data_pacbio_coverage: 103.90x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Apus_apus/bApuApu2/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5281
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-2_bases: N/A
+data_bionano-2_bytes: 1.0 GiB
+data_bionano-2_coverage: 561.46x
+data_bionano-2_links: s3://genomeark/species/Apus_apus/bApuApu2/genomic_data/bionano/<br>
+data_bionano-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Apus_apus/bApuApu2/genomic_data/bionano/
+data_bionano-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Apus_apus/bApuApu2/genomic_data/bionano/
+data_bionano-2_scale: 583.3735
+data_bionano_bases: N/A
+data_bionano_bytes: 1.0 GiB
+data_bionano_coverage: 561.46x
+data_pacbio-2_bases: 114.30 Gbp
+data_pacbio-2_bytes: 201.6 GiB
+data_pacbio-2_coverage: 103.87x
+data_pacbio-2_links: s3://genomeark/species/Apus_apus/bApuApu2/genomic_data/pacbio/<br>
+data_pacbio-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Apus_apus/bApuApu2/genomic_data/pacbio/
+data_pacbio-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Apus_apus/bApuApu2/genomic_data/pacbio/
+data_pacbio-2_scale: 0.5281
+data_pacbio_bases: 114.30 Gbp
+data_pacbio_bytes: 201.6 GiB
+data_pacbio_coverage: 103.87x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bApuApu2:GCA_020740585.1
 genbank_pri: bApuApu2:GCA_020740795.1
 genome_size: 1100361224
@@ -63,7 +80,7 @@ last_updated: 1634554847
 name: Apus apus
 name_: Apus_apus
 pri2date: 2021-10-18
-pri2filesize: 320 MiB
+pri2filesize: 320.3 MiB
 pri2length: 1100361224
 pri2n50ctg: 25561769
 pri2n50scf: 115508478

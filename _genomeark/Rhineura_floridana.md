@@ -1,12 +1,17 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: Florida worm lizard
-data_bionano_bases: 2.26 Gbp
-data_bionano_bytes: 0.563 GB
-data_bionano_coverage: 1.39x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/bionano/<br>
-data_status: '<em style="color:forestgreen">Bionano</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 545.2 MiB
+data_bionano-1_coverage: 204.64x
+data_bionano-1_links: s3://genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhineura_floridana/rRhiFlo1/genomic_data/bionano/
+data_bionano-1_scale: 580.9160
+data_bionano_bases: N/A
+data_bionano_bytes: 545.2 MiB
+data_bionano_coverage: 204.64x
+data_status: '<em style="color:maroon">No data</em>'
 genome_size: 1623000000
 genome_size_display: 1.62 Gbp
 genome_size_method: GoAT

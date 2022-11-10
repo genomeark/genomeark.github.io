@@ -1,0 +1,1588 @@
+{% comment %}IMPORT FROM MAKE-INDIVIDUAL-TABLE BEGINS{% endcomment %}
+
+<table class="raw-data-table">
+<thead><tr><th class="label">Individual</th>
+           <th class="label">Datatype</th>
+           <th>Bases</th>
+           <th>Coverage</th>
+           <th>Bytes</th>
+           <th>Access</th>
+       </tr></thead>
+<tbody>
+
+{% assign rs = 0 %}
+
+{% if page.data_pacbio-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_fqgz-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_bam-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_ont-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_ontduplex-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_10x-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_bionano-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_arima-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_dovetail-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_phase-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_illumina-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+
+{% if rs > 0 %}
+  {% assign first = true %}
+
+  {% if page.data_pacbio-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}1</td>
+          <td class="label">PacBio CLR</td>
+          <td>{{ page.data_pacbio-1_bases   }}</td>
+          <td>{{ page.data_pacbio-1_coverage}}</td>
+          <td>{{ page.data_pacbio-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio CLR</td>
+          <td>{{ page.data_pacbio-1_bases   }}</td>
+          <td>{{ page.data_pacbio-1_coverage}}</td>
+          <td>{{ page.data_pacbio-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_fqgz-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}1</td>
+          <td class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td>{{ page.data_pacbiohifi_fqgz-1_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-1_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fqgz-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fqgz-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td>{{ page.data_pacbiohifi_fqgz-1_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-1_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fqgz-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fqgz-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_bam-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}1</td>
+          <td class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td>{{ page.data_pacbiohifi_bam-1_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_bam-1_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_bam-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_bam-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_bam-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td>{{ page.data_pacbiohifi_bam-1_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_bam-1_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_bam-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_bam-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_bam-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_ont-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}1</td>
+          <td class="label">Oxford Nanopore Simplex</td>
+          <td>{{ page.data_ont-1_bases   }}</td>
+          <td>{{ page.data_ont-1_coverage}}</td>
+          <td>{{ page.data_ont-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ont-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ont-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Oxford Nanopore Simplex</td>
+          <td>{{ page.data_ont-1_bases   }}</td>
+          <td>{{ page.data_ont-1_coverage}}</td>
+          <td>{{ page.data_ont-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ont-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ont-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_ontduplex-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}1</td>
+          <td class="label">Oxford Nanopore Duplex</td>
+          <td>{{ page.data_ontduplex-1_bases   }}</td>
+          <td>{{ page.data_ontduplex-1_coverage}}</td>
+          <td>{{ page.data_ontduplex-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ontduplex-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ontduplex-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Oxford Nanopore Duplex</td>
+          <td>{{ page.data_ontduplex-1_bases   }}</td>
+          <td>{{ page.data_ontduplex-1_coverage}}</td>
+          <td>{{ page.data_ontduplex-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ontduplex-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ontduplex-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_10x-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}1</td>
+          <td class="label">10x</td>
+          <td>{{ page.data_10x-1_bases   }}</td>
+          <td>{{ page.data_10x-1_coverage}}</td>
+          <td>{{ page.data_10x-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_10x-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_10x-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">10x</td>
+          <td>{{ page.data_10x-1_bases   }}</td>
+          <td>{{ page.data_10x-1_coverage}}</td>
+          <td>{{ page.data_10x-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_10x-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_10x-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_bionano-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}1</td>
+          <td class="label">Bionano</td>
+          <td>{{ page.data_bionano-1_bases   }}</td>
+          <td>{{ page.data_bionano-1_coverage}}</td>
+          <td>{{ page.data_bionano-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_bionano-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_bionano-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Bionano</td>
+          <td>{{ page.data_bionano-1_bases   }}</td>
+          <td>{{ page.data_bionano-1_coverage}}</td>
+          <td>{{ page.data_bionano-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_bionano-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_bionano-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_arima-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}1</td>
+          <td class="label">Arima</td>
+          <td>{{ page.data_arima-1_bases   }}</td>
+          <td>{{ page.data_arima-1_coverage}}</td>
+          <td>{{ page.data_arima-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_arima-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_arima-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Arima</td>
+          <td>{{ page.data_arima-1_bases   }}</td>
+          <td>{{ page.data_arima-1_coverage}}</td>
+          <td>{{ page.data_arima-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_arima-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_arima-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_dovetail-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}1</td>
+          <td class="label">Dovetail Genomics</td>
+          <td>{{ page.data_dovetail-1_bases   }}</td>
+          <td>{{ page.data_dovetail-1_coverage}}</td>
+          <td>{{ page.data_dovetail-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_dovetail-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_dovetail-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Dovetail Genomics</td>
+          <td>{{ page.data_dovetail-1_bases   }}</td>
+          <td>{{ page.data_dovetail-1_coverage}}</td>
+          <td>{{ page.data_dovetail-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_dovetail-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_dovetail-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_phase-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}1</td>
+          <td class="label">Phase</td>
+          <td>{{ page.data_phase-1_bases   }}</td>
+          <td>{{ page.data_phase-1_coverage}}</td>
+          <td>{{ page.data_phase-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_phase-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_phase-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Phase</td>
+          <td>{{ page.data_phase-1_bases   }}</td>
+          <td>{{ page.data_phase-1_coverage}}</td>
+          <td>{{ page.data_phase-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_phase-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_phase-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_illumina-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}1</td>
+          <td class="label">Illumina</td>
+          <td>{{ page.data_illumina-1_bases   }}</td>
+          <td>{{ page.data_illumina-1_coverage}}</td>
+          <td>{{ page.data_illumina-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_illumina-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_illumina-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Illumina</td>
+          <td>{{ page.data_illumina-1_bases   }}</td>
+          <td>{{ page.data_illumina-1_coverage}}</td>
+          <td>{{ page.data_illumina-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_illumina-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_illumina-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+{% endif %}
+
+
+{% assign rs = 0 %}
+
+{% if page.data_pacbio-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_fqgz-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_bam-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_ont-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_ontduplex-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_10x-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_bionano-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_arima-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_dovetail-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_phase-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_illumina-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+
+{% if rs > 0 %}
+  {% assign first = true %}
+
+  {% if page.data_pacbio-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}2</td>
+          <td class="label">PacBio CLR</td>
+          <td>{{ page.data_pacbio-2_bases   }}</td>
+          <td>{{ page.data_pacbio-2_coverage}}</td>
+          <td>{{ page.data_pacbio-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio CLR</td>
+          <td>{{ page.data_pacbio-2_bases   }}</td>
+          <td>{{ page.data_pacbio-2_coverage}}</td>
+          <td>{{ page.data_pacbio-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_fqgz-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}2</td>
+          <td class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td>{{ page.data_pacbiohifi_fqgz-2_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-2_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fqgz-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fqgz-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td>{{ page.data_pacbiohifi_fqgz-2_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-2_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fqgz-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fqgz-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_bam-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}2</td>
+          <td class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td>{{ page.data_pacbiohifi_bam-2_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_bam-2_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_bam-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_bam-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_bam-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td>{{ page.data_pacbiohifi_bam-2_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_bam-2_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_bam-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_bam-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_bam-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_ont-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}2</td>
+          <td class="label">Oxford Nanopore Simplex</td>
+          <td>{{ page.data_ont-2_bases   }}</td>
+          <td>{{ page.data_ont-2_coverage}}</td>
+          <td>{{ page.data_ont-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ont-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ont-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Oxford Nanopore Simplex</td>
+          <td>{{ page.data_ont-2_bases   }}</td>
+          <td>{{ page.data_ont-2_coverage}}</td>
+          <td>{{ page.data_ont-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ont-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ont-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_ontduplex-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}2</td>
+          <td class="label">Oxford Nanopore Duplex</td>
+          <td>{{ page.data_ontduplex-2_bases   }}</td>
+          <td>{{ page.data_ontduplex-2_coverage}}</td>
+          <td>{{ page.data_ontduplex-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ontduplex-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ontduplex-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Oxford Nanopore Duplex</td>
+          <td>{{ page.data_ontduplex-2_bases   }}</td>
+          <td>{{ page.data_ontduplex-2_coverage}}</td>
+          <td>{{ page.data_ontduplex-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ontduplex-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ontduplex-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_10x-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}2</td>
+          <td class="label">10x</td>
+          <td>{{ page.data_10x-2_bases   }}</td>
+          <td>{{ page.data_10x-2_coverage}}</td>
+          <td>{{ page.data_10x-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_10x-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_10x-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">10x</td>
+          <td>{{ page.data_10x-2_bases   }}</td>
+          <td>{{ page.data_10x-2_coverage}}</td>
+          <td>{{ page.data_10x-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_10x-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_10x-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_bionano-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}2</td>
+          <td class="label">Bionano</td>
+          <td>{{ page.data_bionano-2_bases   }}</td>
+          <td>{{ page.data_bionano-2_coverage}}</td>
+          <td>{{ page.data_bionano-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_bionano-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_bionano-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Bionano</td>
+          <td>{{ page.data_bionano-2_bases   }}</td>
+          <td>{{ page.data_bionano-2_coverage}}</td>
+          <td>{{ page.data_bionano-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_bionano-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_bionano-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_arima-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}2</td>
+          <td class="label">Arima</td>
+          <td>{{ page.data_arima-2_bases   }}</td>
+          <td>{{ page.data_arima-2_coverage}}</td>
+          <td>{{ page.data_arima-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_arima-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_arima-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Arima</td>
+          <td>{{ page.data_arima-2_bases   }}</td>
+          <td>{{ page.data_arima-2_coverage}}</td>
+          <td>{{ page.data_arima-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_arima-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_arima-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_dovetail-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}2</td>
+          <td class="label">Dovetail Genomics</td>
+          <td>{{ page.data_dovetail-2_bases   }}</td>
+          <td>{{ page.data_dovetail-2_coverage}}</td>
+          <td>{{ page.data_dovetail-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_dovetail-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_dovetail-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Dovetail Genomics</td>
+          <td>{{ page.data_dovetail-2_bases   }}</td>
+          <td>{{ page.data_dovetail-2_coverage}}</td>
+          <td>{{ page.data_dovetail-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_dovetail-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_dovetail-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_phase-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}2</td>
+          <td class="label">Phase</td>
+          <td>{{ page.data_phase-2_bases   }}</td>
+          <td>{{ page.data_phase-2_coverage}}</td>
+          <td>{{ page.data_phase-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_phase-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_phase-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Phase</td>
+          <td>{{ page.data_phase-2_bases   }}</td>
+          <td>{{ page.data_phase-2_coverage}}</td>
+          <td>{{ page.data_phase-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_phase-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_phase-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_illumina-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}2</td>
+          <td class="label">Illumina</td>
+          <td>{{ page.data_illumina-2_bases   }}</td>
+          <td>{{ page.data_illumina-2_coverage}}</td>
+          <td>{{ page.data_illumina-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_illumina-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_illumina-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Illumina</td>
+          <td>{{ page.data_illumina-2_bases   }}</td>
+          <td>{{ page.data_illumina-2_coverage}}</td>
+          <td>{{ page.data_illumina-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_illumina-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_illumina-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+{% endif %}
+
+
+{% assign rs = 0 %}
+
+{% if page.data_pacbio-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_fqgz-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_bam-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_ont-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_ontduplex-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_10x-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_bionano-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_arima-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_dovetail-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_phase-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_illumina-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+
+{% if rs > 0 %}
+  {% assign first = true %}
+
+  {% if page.data_pacbio-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}3</td>
+          <td class="label">PacBio CLR</td>
+          <td>{{ page.data_pacbio-3_bases   }}</td>
+          <td>{{ page.data_pacbio-3_coverage}}</td>
+          <td>{{ page.data_pacbio-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio CLR</td>
+          <td>{{ page.data_pacbio-3_bases   }}</td>
+          <td>{{ page.data_pacbio-3_coverage}}</td>
+          <td>{{ page.data_pacbio-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_fqgz-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}3</td>
+          <td class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td>{{ page.data_pacbiohifi_fqgz-3_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-3_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fqgz-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fqgz-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td>{{ page.data_pacbiohifi_fqgz-3_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-3_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fqgz-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fqgz-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_bam-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}3</td>
+          <td class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td>{{ page.data_pacbiohifi_bam-3_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_bam-3_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_bam-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_bam-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_bam-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td>{{ page.data_pacbiohifi_bam-3_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_bam-3_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_bam-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_bam-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_bam-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_ont-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}3</td>
+          <td class="label">Oxford Nanopore Simplex</td>
+          <td>{{ page.data_ont-3_bases   }}</td>
+          <td>{{ page.data_ont-3_coverage}}</td>
+          <td>{{ page.data_ont-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ont-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ont-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Oxford Nanopore Simplex</td>
+          <td>{{ page.data_ont-3_bases   }}</td>
+          <td>{{ page.data_ont-3_coverage}}</td>
+          <td>{{ page.data_ont-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ont-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ont-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_ontduplex-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}3</td>
+          <td class="label">Oxford Nanopore Duplex</td>
+          <td>{{ page.data_ontduplex-3_bases   }}</td>
+          <td>{{ page.data_ontduplex-3_coverage}}</td>
+          <td>{{ page.data_ontduplex-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ontduplex-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ontduplex-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Oxford Nanopore Duplex</td>
+          <td>{{ page.data_ontduplex-3_bases   }}</td>
+          <td>{{ page.data_ontduplex-3_coverage}}</td>
+          <td>{{ page.data_ontduplex-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ontduplex-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ontduplex-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_10x-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}3</td>
+          <td class="label">10x</td>
+          <td>{{ page.data_10x-3_bases   }}</td>
+          <td>{{ page.data_10x-3_coverage}}</td>
+          <td>{{ page.data_10x-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_10x-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_10x-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">10x</td>
+          <td>{{ page.data_10x-3_bases   }}</td>
+          <td>{{ page.data_10x-3_coverage}}</td>
+          <td>{{ page.data_10x-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_10x-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_10x-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_bionano-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}3</td>
+          <td class="label">Bionano</td>
+          <td>{{ page.data_bionano-3_bases   }}</td>
+          <td>{{ page.data_bionano-3_coverage}}</td>
+          <td>{{ page.data_bionano-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_bionano-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_bionano-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Bionano</td>
+          <td>{{ page.data_bionano-3_bases   }}</td>
+          <td>{{ page.data_bionano-3_coverage}}</td>
+          <td>{{ page.data_bionano-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_bionano-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_bionano-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_arima-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}3</td>
+          <td class="label">Arima</td>
+          <td>{{ page.data_arima-3_bases   }}</td>
+          <td>{{ page.data_arima-3_coverage}}</td>
+          <td>{{ page.data_arima-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_arima-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_arima-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Arima</td>
+          <td>{{ page.data_arima-3_bases   }}</td>
+          <td>{{ page.data_arima-3_coverage}}</td>
+          <td>{{ page.data_arima-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_arima-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_arima-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_dovetail-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}3</td>
+          <td class="label">Dovetail Genomics</td>
+          <td>{{ page.data_dovetail-3_bases   }}</td>
+          <td>{{ page.data_dovetail-3_coverage}}</td>
+          <td>{{ page.data_dovetail-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_dovetail-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_dovetail-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Dovetail Genomics</td>
+          <td>{{ page.data_dovetail-3_bases   }}</td>
+          <td>{{ page.data_dovetail-3_coverage}}</td>
+          <td>{{ page.data_dovetail-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_dovetail-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_dovetail-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_phase-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}3</td>
+          <td class="label">Phase</td>
+          <td>{{ page.data_phase-3_bases   }}</td>
+          <td>{{ page.data_phase-3_coverage}}</td>
+          <td>{{ page.data_phase-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_phase-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_phase-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Phase</td>
+          <td>{{ page.data_phase-3_bases   }}</td>
+          <td>{{ page.data_phase-3_coverage}}</td>
+          <td>{{ page.data_phase-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_phase-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_phase-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_illumina-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}3</td>
+          <td class="label">Illumina</td>
+          <td>{{ page.data_illumina-3_bases   }}</td>
+          <td>{{ page.data_illumina-3_coverage}}</td>
+          <td>{{ page.data_illumina-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_illumina-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_illumina-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Illumina</td>
+          <td>{{ page.data_illumina-3_bases   }}</td>
+          <td>{{ page.data_illumina-3_coverage}}</td>
+          <td>{{ page.data_illumina-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_illumina-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_illumina-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+{% endif %}
+
+
+{% assign rs = 0 %}
+
+{% if page.data_pacbio-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_fqgz-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_bam-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_ont-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_ontduplex-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_10x-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_bionano-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_arima-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_dovetail-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_phase-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_illumina-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+
+{% if rs > 0 %}
+  {% assign first = true %}
+
+  {% if page.data_pacbio-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}4</td>
+          <td class="label">PacBio CLR</td>
+          <td>{{ page.data_pacbio-4_bases   }}</td>
+          <td>{{ page.data_pacbio-4_coverage}}</td>
+          <td>{{ page.data_pacbio-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio CLR</td>
+          <td>{{ page.data_pacbio-4_bases   }}</td>
+          <td>{{ page.data_pacbio-4_coverage}}</td>
+          <td>{{ page.data_pacbio-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_fqgz-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}4</td>
+          <td class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td>{{ page.data_pacbiohifi_fqgz-4_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-4_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fqgz-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fqgz-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td>{{ page.data_pacbiohifi_fqgz-4_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-4_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fqgz-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fqgz-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_bam-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}4</td>
+          <td class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td>{{ page.data_pacbiohifi_bam-4_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_bam-4_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_bam-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_bam-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_bam-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td>{{ page.data_pacbiohifi_bam-4_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_bam-4_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_bam-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_bam-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_bam-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_ont-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}4</td>
+          <td class="label">Oxford Nanopore Simplex</td>
+          <td>{{ page.data_ont-4_bases   }}</td>
+          <td>{{ page.data_ont-4_coverage}}</td>
+          <td>{{ page.data_ont-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ont-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ont-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Oxford Nanopore Simplex</td>
+          <td>{{ page.data_ont-4_bases   }}</td>
+          <td>{{ page.data_ont-4_coverage}}</td>
+          <td>{{ page.data_ont-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ont-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ont-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_ontduplex-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}4</td>
+          <td class="label">Oxford Nanopore Duplex</td>
+          <td>{{ page.data_ontduplex-4_bases   }}</td>
+          <td>{{ page.data_ontduplex-4_coverage}}</td>
+          <td>{{ page.data_ontduplex-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ontduplex-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ontduplex-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Oxford Nanopore Duplex</td>
+          <td>{{ page.data_ontduplex-4_bases   }}</td>
+          <td>{{ page.data_ontduplex-4_coverage}}</td>
+          <td>{{ page.data_ontduplex-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ontduplex-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ontduplex-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_10x-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}4</td>
+          <td class="label">10x</td>
+          <td>{{ page.data_10x-4_bases   }}</td>
+          <td>{{ page.data_10x-4_coverage}}</td>
+          <td>{{ page.data_10x-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_10x-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_10x-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">10x</td>
+          <td>{{ page.data_10x-4_bases   }}</td>
+          <td>{{ page.data_10x-4_coverage}}</td>
+          <td>{{ page.data_10x-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_10x-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_10x-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_bionano-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}4</td>
+          <td class="label">Bionano</td>
+          <td>{{ page.data_bionano-4_bases   }}</td>
+          <td>{{ page.data_bionano-4_coverage}}</td>
+          <td>{{ page.data_bionano-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_bionano-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_bionano-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Bionano</td>
+          <td>{{ page.data_bionano-4_bases   }}</td>
+          <td>{{ page.data_bionano-4_coverage}}</td>
+          <td>{{ page.data_bionano-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_bionano-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_bionano-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_arima-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}4</td>
+          <td class="label">Arima</td>
+          <td>{{ page.data_arima-4_bases   }}</td>
+          <td>{{ page.data_arima-4_coverage}}</td>
+          <td>{{ page.data_arima-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_arima-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_arima-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Arima</td>
+          <td>{{ page.data_arima-4_bases   }}</td>
+          <td>{{ page.data_arima-4_coverage}}</td>
+          <td>{{ page.data_arima-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_arima-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_arima-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_dovetail-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}4</td>
+          <td class="label">Dovetail Genomics</td>
+          <td>{{ page.data_dovetail-4_bases   }}</td>
+          <td>{{ page.data_dovetail-4_coverage}}</td>
+          <td>{{ page.data_dovetail-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_dovetail-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_dovetail-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Dovetail Genomics</td>
+          <td>{{ page.data_dovetail-4_bases   }}</td>
+          <td>{{ page.data_dovetail-4_coverage}}</td>
+          <td>{{ page.data_dovetail-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_dovetail-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_dovetail-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_phase-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}4</td>
+          <td class="label">Phase</td>
+          <td>{{ page.data_phase-4_bases   }}</td>
+          <td>{{ page.data_phase-4_coverage}}</td>
+          <td>{{ page.data_phase-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_phase-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_phase-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Phase</td>
+          <td>{{ page.data_phase-4_bases   }}</td>
+          <td>{{ page.data_phase-4_coverage}}</td>
+          <td>{{ page.data_phase-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_phase-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_phase-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_illumina-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}4</td>
+          <td class="label">Illumina</td>
+          <td>{{ page.data_illumina-4_bases   }}</td>
+          <td>{{ page.data_illumina-4_coverage}}</td>
+          <td>{{ page.data_illumina-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_illumina-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_illumina-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Illumina</td>
+          <td>{{ page.data_illumina-4_bases   }}</td>
+          <td>{{ page.data_illumina-4_coverage}}</td>
+          <td>{{ page.data_illumina-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_illumina-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_illumina-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+{% endif %}
+
+
+{% assign rs = 0 %}
+
+{% if page.data_pacbio-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_fqgz-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_bam-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_ont-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_ontduplex-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_10x-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_bionano-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_arima-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_dovetail-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_phase-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_illumina-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+
+{% if rs > 0 %}
+  {% assign first = true %}
+
+  {% if page.data_pacbio-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}5</td>
+          <td class="label">PacBio CLR</td>
+          <td>{{ page.data_pacbio-5_bases   }}</td>
+          <td>{{ page.data_pacbio-5_coverage}}</td>
+          <td>{{ page.data_pacbio-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio CLR</td>
+          <td>{{ page.data_pacbio-5_bases   }}</td>
+          <td>{{ page.data_pacbio-5_coverage}}</td>
+          <td>{{ page.data_pacbio-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_fqgz-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}5</td>
+          <td class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td>{{ page.data_pacbiohifi_fqgz-5_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-5_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fqgz-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fqgz-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td>{{ page.data_pacbiohifi_fqgz-5_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-5_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fqgz-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fqgz-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_bam-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}5</td>
+          <td class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td>{{ page.data_pacbiohifi_bam-5_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_bam-5_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_bam-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_bam-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_bam-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td>{{ page.data_pacbiohifi_bam-5_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_bam-5_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_bam-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_bam-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_bam-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_ont-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}5</td>
+          <td class="label">Oxford Nanopore Simplex</td>
+          <td>{{ page.data_ont-5_bases   }}</td>
+          <td>{{ page.data_ont-5_coverage}}</td>
+          <td>{{ page.data_ont-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ont-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ont-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Oxford Nanopore Simplex</td>
+          <td>{{ page.data_ont-5_bases   }}</td>
+          <td>{{ page.data_ont-5_coverage}}</td>
+          <td>{{ page.data_ont-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ont-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ont-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_ontduplex-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}5</td>
+          <td class="label">Oxford Nanopore Duplex</td>
+          <td>{{ page.data_ontduplex-5_bases   }}</td>
+          <td>{{ page.data_ontduplex-5_coverage}}</td>
+          <td>{{ page.data_ontduplex-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ontduplex-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ontduplex-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Oxford Nanopore Duplex</td>
+          <td>{{ page.data_ontduplex-5_bases   }}</td>
+          <td>{{ page.data_ontduplex-5_coverage}}</td>
+          <td>{{ page.data_ontduplex-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ontduplex-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ontduplex-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_10x-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}5</td>
+          <td class="label">10x</td>
+          <td>{{ page.data_10x-5_bases   }}</td>
+          <td>{{ page.data_10x-5_coverage}}</td>
+          <td>{{ page.data_10x-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_10x-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_10x-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">10x</td>
+          <td>{{ page.data_10x-5_bases   }}</td>
+          <td>{{ page.data_10x-5_coverage}}</td>
+          <td>{{ page.data_10x-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_10x-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_10x-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_bionano-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}5</td>
+          <td class="label">Bionano</td>
+          <td>{{ page.data_bionano-5_bases   }}</td>
+          <td>{{ page.data_bionano-5_coverage}}</td>
+          <td>{{ page.data_bionano-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_bionano-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_bionano-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Bionano</td>
+          <td>{{ page.data_bionano-5_bases   }}</td>
+          <td>{{ page.data_bionano-5_coverage}}</td>
+          <td>{{ page.data_bionano-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_bionano-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_bionano-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_arima-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}5</td>
+          <td class="label">Arima</td>
+          <td>{{ page.data_arima-5_bases   }}</td>
+          <td>{{ page.data_arima-5_coverage}}</td>
+          <td>{{ page.data_arima-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_arima-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_arima-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Arima</td>
+          <td>{{ page.data_arima-5_bases   }}</td>
+          <td>{{ page.data_arima-5_coverage}}</td>
+          <td>{{ page.data_arima-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_arima-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_arima-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_dovetail-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}5</td>
+          <td class="label">Dovetail Genomics</td>
+          <td>{{ page.data_dovetail-5_bases   }}</td>
+          <td>{{ page.data_dovetail-5_coverage}}</td>
+          <td>{{ page.data_dovetail-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_dovetail-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_dovetail-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Dovetail Genomics</td>
+          <td>{{ page.data_dovetail-5_bases   }}</td>
+          <td>{{ page.data_dovetail-5_coverage}}</td>
+          <td>{{ page.data_dovetail-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_dovetail-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_dovetail-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_phase-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}5</td>
+          <td class="label">Phase</td>
+          <td>{{ page.data_phase-5_bases   }}</td>
+          <td>{{ page.data_phase-5_coverage}}</td>
+          <td>{{ page.data_phase-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_phase-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_phase-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Phase</td>
+          <td>{{ page.data_phase-5_bases   }}</td>
+          <td>{{ page.data_phase-5_coverage}}</td>
+          <td>{{ page.data_phase-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_phase-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_phase-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_illumina-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}5</td>
+          <td class="label">Illumina</td>
+          <td>{{ page.data_illumina-5_bases   }}</td>
+          <td>{{ page.data_illumina-5_coverage}}</td>
+          <td>{{ page.data_illumina-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_illumina-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_illumina-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Illumina</td>
+          <td>{{ page.data_illumina-5_bases   }}</td>
+          <td>{{ page.data_illumina-5_coverage}}</td>
+          <td>{{ page.data_illumina-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_illumina-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_illumina-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+{% endif %}
+
+
+{% assign rs = 0 %}
+
+{% if page.data_pacbio-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_fqgz-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_bam-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_ont-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_ontduplex-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_10x-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_bionano-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_arima-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_dovetail-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_phase-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_illumina-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+
+{% if rs > 0 %}
+  {% assign first = true %}
+
+  {% if page.data_pacbio-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}6</td>
+          <td class="label">PacBio CLR</td>
+          <td>{{ page.data_pacbio-6_bases   }}</td>
+          <td>{{ page.data_pacbio-6_coverage}}</td>
+          <td>{{ page.data_pacbio-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio CLR</td>
+          <td>{{ page.data_pacbio-6_bases   }}</td>
+          <td>{{ page.data_pacbio-6_coverage}}</td>
+          <td>{{ page.data_pacbio-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_fqgz-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}6</td>
+          <td class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td>{{ page.data_pacbiohifi_fqgz-6_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-6_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fqgz-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fqgz-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td>{{ page.data_pacbiohifi_fqgz-6_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-6_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fqgz-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fqgz-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fqgz-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_bam-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}6</td>
+          <td class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td>{{ page.data_pacbiohifi_bam-6_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_bam-6_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_bam-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_bam-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_bam-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td>{{ page.data_pacbiohifi_bam-6_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_bam-6_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_bam-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_bam-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_bam-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_ont-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}6</td>
+          <td class="label">Oxford Nanopore Simplex</td>
+          <td>{{ page.data_ont-6_bases   }}</td>
+          <td>{{ page.data_ont-6_coverage}}</td>
+          <td>{{ page.data_ont-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ont-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ont-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Oxford Nanopore Simplex</td>
+          <td>{{ page.data_ont-6_bases   }}</td>
+          <td>{{ page.data_ont-6_coverage}}</td>
+          <td>{{ page.data_ont-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ont-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ont-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_ontduplex-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}6</td>
+          <td class="label">Oxford Nanopore Duplex</td>
+          <td>{{ page.data_ontduplex-6_bases   }}</td>
+          <td>{{ page.data_ontduplex-6_coverage}}</td>
+          <td>{{ page.data_ontduplex-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ontduplex-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ontduplex-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Oxford Nanopore Duplex</td>
+          <td>{{ page.data_ontduplex-6_bases   }}</td>
+          <td>{{ page.data_ontduplex-6_coverage}}</td>
+          <td>{{ page.data_ontduplex-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_ontduplex-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_ontduplex-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_10x-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}6</td>
+          <td class="label">10x</td>
+          <td>{{ page.data_10x-6_bases   }}</td>
+          <td>{{ page.data_10x-6_coverage}}</td>
+          <td>{{ page.data_10x-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_10x-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_10x-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">10x</td>
+          <td>{{ page.data_10x-6_bases   }}</td>
+          <td>{{ page.data_10x-6_coverage}}</td>
+          <td>{{ page.data_10x-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_10x-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_10x-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_bionano-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}6</td>
+          <td class="label">Bionano</td>
+          <td>{{ page.data_bionano-6_bases   }}</td>
+          <td>{{ page.data_bionano-6_coverage}}</td>
+          <td>{{ page.data_bionano-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_bionano-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_bionano-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Bionano</td>
+          <td>{{ page.data_bionano-6_bases   }}</td>
+          <td>{{ page.data_bionano-6_coverage}}</td>
+          <td>{{ page.data_bionano-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_bionano-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_bionano-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_arima-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}6</td>
+          <td class="label">Arima</td>
+          <td>{{ page.data_arima-6_bases   }}</td>
+          <td>{{ page.data_arima-6_coverage}}</td>
+          <td>{{ page.data_arima-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_arima-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_arima-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Arima</td>
+          <td>{{ page.data_arima-6_bases   }}</td>
+          <td>{{ page.data_arima-6_coverage}}</td>
+          <td>{{ page.data_arima-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_arima-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_arima-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_dovetail-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}6</td>
+          <td class="label">Dovetail Genomics</td>
+          <td>{{ page.data_dovetail-6_bases   }}</td>
+          <td>{{ page.data_dovetail-6_coverage}}</td>
+          <td>{{ page.data_dovetail-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_dovetail-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_dovetail-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Dovetail Genomics</td>
+          <td>{{ page.data_dovetail-6_bases   }}</td>
+          <td>{{ page.data_dovetail-6_coverage}}</td>
+          <td>{{ page.data_dovetail-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_dovetail-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_dovetail-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_phase-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}6</td>
+          <td class="label">Phase</td>
+          <td>{{ page.data_phase-6_bases   }}</td>
+          <td>{{ page.data_phase-6_coverage}}</td>
+          <td>{{ page.data_phase-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_phase-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_phase-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Phase</td>
+          <td>{{ page.data_phase-6_bases   }}</td>
+          <td>{{ page.data_phase-6_coverage}}</td>
+          <td>{{ page.data_phase-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_phase-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_phase-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_illumina-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">{{ page.short_name }}6</td>
+          <td class="label">Illumina</td>
+          <td>{{ page.data_illumina-6_bases   }}</td>
+          <td>{{ page.data_illumina-6_coverage}}</td>
+          <td>{{ page.data_illumina-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_illumina-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_illumina-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">Illumina</td>
+          <td>{{ page.data_illumina-6_bases   }}</td>
+          <td>{{ page.data_illumina-6_coverage}}</td>
+          <td>{{ page.data_illumina-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_illumina-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_illumina-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+{% endif %}
+
+</tbody>
+{% include data-table-footer.html %}
+</table>
+
+{% comment %}IMPORT FROM MAKE-INDIVIDUAL-TABLE ENDS{% endcomment %}

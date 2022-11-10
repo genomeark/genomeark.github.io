@@ -1,6 +1,6 @@
 ---
 alt2date: 2018-11-16
-alt2filesize: 18 MiB
+alt2filesize: 17.8 MiB
 alt2length: 62949365
 alt2n50ctg: 0
 alt2n50scf: 0
@@ -30,30 +30,47 @@ alt2sizes: |
 alt2version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: blunt-snouted clingfish
+data_10x-2_bases: 107.78 Gbp
+data_10x-2_bytes: 75.2 GiB
+data_10x-2_coverage: 91.17x
+data_10x-2_links: s3://genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/10x/<br>
+data_10x-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/10x/
+data_10x-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gouania_willdenowi/fGouWil2/genomic_data/10x/
+data_10x-2_scale: 1.3347
 data_10x_bases: 107.78 Gbp
-data_10x_bytes: 75.206 GB
+data_10x_bytes: 75.2 GiB
 data_10x_coverage: 91.17x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/10x/<br>
-data_10x_scale: 1.3347
+data_arima-2_bases: 77.88 Gbp
+data_arima-2_bytes: 38.7 GiB
+data_arima-2_coverage: 65.87x
+data_arima-2_links: s3://genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gouania_willdenowi/fGouWil2/genomic_data/arima/
+data_arima-2_scale: 1.8726
 data_arima_bases: 77.88 Gbp
-data_arima_bytes: 38.732 GB
+data_arima_bytes: 38.7 GiB
 data_arima_coverage: 65.87x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/arima/<br>
-data_arima_scale: 1.8726
-data_bionano_bases: 2.66 Gbp
-data_bionano_bytes: 0.272 GB
-data_bionano_coverage: 2.25x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/bionano/<br>
-data_pacbio_bases: 56.72 Gbp
-data_pacbio_bytes: 100.723 GB
-data_pacbio_coverage: 47.98x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5245
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-2_bases: N/A
+data_bionano-2_bytes: 275.6 MiB
+data_bionano-2_coverage: 241.52x
+data_bionano-2_links: s3://genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/bionano/<br>
+data_bionano-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/bionano/
+data_bionano-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gouania_willdenowi/fGouWil2/genomic_data/bionano/
+data_bionano-2_scale: 988.1359
+data_bionano_bases: N/A
+data_bionano_bytes: 275.6 MiB
+data_bionano_coverage: 241.52x
+data_pacbio-2_bases: 56.70 Gbp
+data_pacbio-2_bytes: 100.7 GiB
+data_pacbio-2_coverage: 47.96x
+data_pacbio-2_links: s3://genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/pacbio/<br>
+data_pacbio-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gouania_willdenowi/fGouWil2/genomic_data/pacbio/
+data_pacbio-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gouania_willdenowi/fGouWil2/genomic_data/pacbio/
+data_pacbio-2_scale: 0.5245
+data_pacbio_bases: 56.70 Gbp
+data_pacbio_bytes: 100.7 GiB
+data_pacbio_coverage: 47.96x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fGouWil2:GCA_900650505.1
 genbank_pri: fGouWil2:GCA_900634775.2
 genome_size: 1182215999
@@ -61,7 +78,7 @@ genome_size_display: 1.18 Gbp
 last_raw_data: 1523524486
 last_updated: 1570719802
 mito2date: 2019-10-02
-mito2filesize: 5 KiB
+mito2filesize: 5.3 KiB
 mito2length: 19076
 mito2n50ctg: 0
 mito2n50scf: 0
@@ -92,7 +109,7 @@ mito2version: assembly_MT_rockefeller
 name: Gouania willdenowi
 name_: Gouania_willdenowi
 pri2date: 2018-11-16
-pri2filesize: 266 MiB
+pri2filesize: 265.9 MiB
 pri2length: 937150793
 pri2n50ctg: 1178098
 pri2n50scf: 36801689

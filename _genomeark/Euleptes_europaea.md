@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-10-12
-alt1filesize: 3 MiB
+alt1filesize: 2.7 MiB
 alt1length: 9154800
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,18 +30,27 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: tarantolino
+data_arima-1_bases: 251.93 Gbp
+data_arima-1_bytes: 124.6 GiB
+data_arima-1_coverage: 99.46x
+data_arima-1_links: s3://genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Euleptes_europaea/rEulEur1/genomic_data/arima/
+data_arima-1_scale: 1.8823
 data_arima_bases: 251.93 Gbp
-data_arima_bytes: 124.647 GB
+data_arima_bytes: 124.6 GiB
 data_arima_coverage: 99.46x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/arima/<br>
-data_arima_scale: 1.8823
-data_bionano_bases: 1.84 Gbp
-data_bionano_bytes: 0.889 GB
-data_bionano_coverage: 0.72x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/bionano/<br>
-data_status: '<em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 880.0 MiB
+data_bionano-1_coverage: 189.47x
+data_bionano-1_links: s3://genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Euleptes_europaea/rEulEur1/genomic_data/bionano/
+data_bionano-1_scale: 520.0868
+data_bionano_bases: N/A
+data_bionano_bytes: 880.0 MiB
+data_bionano_coverage: 189.47x
+data_status: '<em style="color:forestgreen">Arima</em>'
 genome_size: 2533000000
 genome_size_display: 2.53 Gbp
 genome_size_method: GoAT
@@ -50,7 +59,7 @@ last_updated: 1665529451
 name: Euleptes europaea
 name_: Euleptes_europaea
 pri1date: 2022-10-12
-pri1filesize: 514 MiB
+pri1filesize: 513.9 MiB
 pri1length: 1772761307
 pri1n50ctg: 16416473
 pri1n50scf: 71032696

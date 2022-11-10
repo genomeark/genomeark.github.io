@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-05-28
-alt1filesize: 556 MiB
+alt1filesize: 556.1 MiB
 alt1length: 1896142417
 alt1n50ctg: 454332
 alt1n50scf: 455478
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Green sea turtle
+data_10x-1_bases: 154.22 Gbp
+data_10x-1_bytes: 74.6 GiB
+data_10x-1_coverage: 72.26x
+data_10x-1_links: s3://genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chelonia_mydas/rCheMyd1/genomic_data/10x/
+data_10x-1_scale: 1.9253
 data_10x_bases: 154.22 Gbp
-data_10x_bytes: 74.602 GB
+data_10x_bytes: 74.6 GiB
 data_10x_coverage: 72.26x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/10x/<br>
-data_10x_scale: 1.9253
+data_arima-1_bases: 185.18 Gbp
+data_arima-1_bytes: 90.3 GiB
+data_arima-1_coverage: 86.76x
+data_arima-1_links: s3://genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chelonia_mydas/rCheMyd1/genomic_data/arima/
+data_arima-1_scale: 1.9108
 data_arima_bases: 185.18 Gbp
-data_arima_bytes: 90.255 GB
+data_arima_bytes: 90.3 GiB
 data_arima_coverage: 86.76x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/arima/<br>
-data_arima_scale: 1.9108
-data_bionano_bases: 2.30 Gbp
-data_bionano_bytes: 1.187 GB
-data_bionano_coverage: 1.08x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/bionano/<br>
-data_pacbio_bases: 145.80 Gbp
-data_pacbio_bytes: 249.509 GB
-data_pacbio_coverage: 68.31x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5442
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.2 GiB
+data_bionano-1_coverage: 380.29x
+data_bionano-1_links: s3://genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chelonia_mydas/rCheMyd1/genomic_data/bionano/
+data_bionano-1_scale: 640.6740
+data_bionano_bases: N/A
+data_bionano_bytes: 1.2 GiB
+data_bionano_coverage: 380.29x
+data_pacbio-1_bases: 145.76 Gbp
+data_pacbio-1_bytes: 249.4 GiB
+data_pacbio-1_coverage: 68.29x
+data_pacbio-1_links: s3://genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Chelonia_mydas/rCheMyd1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chelonia_mydas/rCheMyd1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5442
+data_pacbio_bases: 145.76 Gbp
+data_pacbio_bytes: 249.4 GiB
+data_pacbio_coverage: 68.29x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: rCheMyd1:GCA_015220195.2
 genbank_pri: rCheMyd1:GCA_015237465.2
 genome_size: 2134358617
@@ -63,7 +80,7 @@ last_updated: 1622211426
 name: Chelonia mydas
 name_: Chelonia_mydas
 pri1date: 2021-05-28
-pri1filesize: 622 MiB
+pri1filesize: 622.5 MiB
 pri1length: 2134358617
 pri1n50ctg: 39415510
 pri1n50scf: 134428053

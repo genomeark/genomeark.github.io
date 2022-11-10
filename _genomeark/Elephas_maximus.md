@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-06-16
-alt1filesize: 844 MiB
+alt1filesize: 844.2 MiB
 alt1length: 2952809375
 alt1n50ctg: 992739
 alt1n50scf: 992739
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Asiatic elephant
+data_arima-1_bases: 277.42 Gbp
+data_arima-1_bytes: 139.5 GiB
+data_arima-1_coverage: 70.39x
+data_arima-1_links: s3://genomeark/species/Elephas_maximus/mEleMax1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Elephas_maximus/mEleMax1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Elephas_maximus/mEleMax1/genomic_data/arima/
+data_arima-1_scale: 1.8521
 data_arima_bases: 277.42 Gbp
-data_arima_bytes: 139.502 GB
+data_arima_bytes: 139.5 GiB
 data_arima_coverage: 70.39x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Elephas_maximus/mEleMax1/genomic_data/arima/<br>
-data_arima_scale: 1.8521
-data_bionano_bases: 3.41 Gbp
-data_bionano_bytes: 2.176 GB
-data_bionano_coverage: 0.87x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Elephas_maximus/mEleMax1/genomic_data/bionano/<br>
-data_pacbiohifi_bam_bases: 353.84 Gbp
-data_pacbiohifi_bam_bytes: 475.181 GB
-data_pacbiohifi_bam_coverage: 89.78x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 0.6935
-data_pacbiohifi_clr_bases: 1180.64 Gbp
-data_pacbiohifi_clr_bytes: 2350.481 GB
-data_pacbiohifi_clr_coverage: 299.58x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.4678
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.1 GiB
+data_bionano-1_coverage: 313.92x
+data_bionano-1_links: s3://genomeark/species/Elephas_maximus/mEleMax1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Elephas_maximus/mEleMax1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Elephas_maximus/mEleMax1/genomic_data/bionano/
+data_bionano-1_scale: 540.9316
+data_bionano_bases: N/A
+data_bionano_bytes: 2.1 GiB
+data_bionano_coverage: 313.92x
+data_pacbiohifi_bam-1_bases: 137.66 Gbp
+data_pacbiohifi_bam-1_bytes: 475.2 GiB
+data_pacbiohifi_bam-1_coverage: 34.93x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2698
+data_pacbiohifi_bam_bases: 137.66 Gbp
+data_pacbiohifi_bam_bytes: 475.2 GiB
+data_pacbiohifi_bam_coverage: 34.93x
+data_pacbiohifi_clr-1_bases: 1180.24 Gbp
+data_pacbiohifi_clr-1_bytes: 2.3 TiB
+data_pacbiohifi_clr-1_coverage: 299.48x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.4678
+data_pacbiohifi_clr_bases: 1180.24 Gbp
+data_pacbiohifi_clr_bytes: 2.3 TiB
+data_pacbiohifi_clr_coverage: 299.48x
+data_pacbiohifi_fqgz-1_bases: 137.82 Gbp
+data_pacbiohifi_fqgz-1_bytes: 108.8 GiB
+data_pacbiohifi_fqgz-1_coverage: 34.97x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.1793
 data_pacbiohifi_fqgz_bases: 137.82 Gbp
-data_pacbiohifi_fqgz_bytes: 108.838 GB
+data_pacbiohifi_fqgz_bytes: 108.8 GiB
 data_pacbiohifi_fqgz_coverage: 34.97x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.1793
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 3941000000
 genome_size_display: 3.94 Gbp
 genome_size_method: GoAT
@@ -68,7 +89,7 @@ last_updated: 1655389936
 name: Elephas maximus
 name_: Elephas_maximus
 pri1date: 2022-06-16
-pri1filesize: 962 MiB
+pri1filesize: 0.9 GiB
 pri1length: 3401247148
 pri1n50ctg: 77002330
 pri1n50scf: 117052157

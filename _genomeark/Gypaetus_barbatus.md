@@ -1,6 +1,6 @@
 ---
 alt2date: 2021-12-17
-alt2filesize: 536 MiB
+alt2filesize: 536.4 MiB
 alt2length: 1889331645
 alt2n50ctg: 1158238
 alt2n50scf: 1158238
@@ -30,30 +30,47 @@ alt2sizes: |
 alt2version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: lammergeier
+data_arima-2_bases: 188.97 Gbp
+data_arima-2_bytes: 93.1 GiB
+data_arima-2_coverage: 131.78x
+data_arima-2_links: s3://genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gypaetus_barbatus/bGypBar2/genomic_data/arima/
+data_arima-2_scale: 1.8911
 data_arima_bases: 188.97 Gbp
-data_arima_bytes: 93.062 GB
+data_arima_bytes: 93.1 GiB
 data_arima_coverage: 131.78x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/arima/<br>
-data_arima_scale: 1.8911
-data_bionano_bases: 1.25 Gbp
-data_bionano_bytes: 1.075 GB
-data_bionano_coverage: 0.87x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/bionano/<br>
-data_pacbiohifi_clr_bases: 198.56 Gbp
-data_pacbiohifi_clr_bytes: 445.714 GB
-data_pacbiohifi_clr_coverage: 138.47x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.4149
+data_bionano-2_bases: N/A
+data_bionano-2_bytes: 1.1 GiB
+data_bionano-2_coverage: 439.54x
+data_bionano-2_links: s3://genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/bionano/<br>
+data_bionano-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/bionano/
+data_bionano-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gypaetus_barbatus/bGypBar2/genomic_data/bionano/
+data_bionano-2_scale: 555.8593
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 439.54x
+data_pacbiohifi_clr-2_bases: 198.51 Gbp
+data_pacbiohifi_clr-2_bytes: 445.6 GiB
+data_pacbiohifi_clr-2_coverage: 138.43x
+data_pacbiohifi_clr-2_links: s3://genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gypaetus_barbatus/bGypBar2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_scale: 0.4149
+data_pacbiohifi_clr_bases: 198.51 Gbp
+data_pacbiohifi_clr_bytes: 445.6 GiB
+data_pacbiohifi_clr_coverage: 138.43x
+data_pacbiohifi_fqgz-2_bases: 39.17 Gbp
+data_pacbiohifi_fqgz-2_bytes: 32.6 GiB
+data_pacbiohifi_fqgz-2_coverage: 27.32x
+data_pacbiohifi_fqgz-2_links: s3://genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gypaetus_barbatus/bGypBar2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-2_scale: 1.1192
 data_pacbiohifi_fqgz_bases: 39.17 Gbp
-data_pacbiohifi_fqgz_bytes: 32.598 GB
+data_pacbiohifi_fqgz_bytes: 32.6 GiB
 data_pacbiohifi_fqgz_coverage: 27.32x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Gypaetus_barbatus/bGypBar2/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.1192
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1434000000
 genome_size_display: 1.43 Gbp
 genome_size_method: GoAT
@@ -62,7 +79,7 @@ last_updated: 1651609477
 name: Gypaetus barbatus
 name_: Gypaetus_barbatus
 pri2date: 2021-12-17
-pri2filesize: 372 MiB
+pri2filesize: 372.2 MiB
 pri2length: 1365299843
 pri2n50ctg: 17616302
 pri2n50scf: 52189775

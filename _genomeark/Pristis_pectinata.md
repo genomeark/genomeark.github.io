@@ -1,6 +1,6 @@
 ---
 alt2date: 2020-12-15
-alt2filesize: 497 MiB
+alt2filesize: 496.7 MiB
 alt2length: 1694166684
 alt2n50ctg: 98930
 alt2n50scf: 98930
@@ -30,30 +30,47 @@ alt2sizes: |
 alt2version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: smalltooth sawfish
+data_10x-2_bases: 183.73 Gbp
+data_10x-2_bytes: 94.0 GiB
+data_10x-2_coverage: 65.62x
+data_10x-2_links: s3://genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/10x/<br>
+data_10x-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/10x/
+data_10x-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pristis_pectinata/sPriPec2/genomic_data/10x/
+data_10x-2_scale: 1.8195
 data_10x_bases: 183.73 Gbp
-data_10x_bytes: 94.045 GB
+data_10x_bytes: 94.0 GiB
 data_10x_coverage: 65.62x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/10x/<br>
-data_10x_scale: 1.8195
+data_arima-2_bases: 209.01 Gbp
+data_arima-2_bytes: 109.8 GiB
+data_arima-2_coverage: 74.65x
+data_arima-2_links: s3://genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pristis_pectinata/sPriPec2/genomic_data/arima/
+data_arima-2_scale: 1.7727
 data_arima_bases: 209.01 Gbp
-data_arima_bytes: 109.807 GB
+data_arima_bytes: 109.8 GiB
 data_arima_coverage: 74.65x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/arima/<br>
-data_arima_scale: 1.7727
-data_bionano_bases: 2.44 Gbp
-data_bionano_bytes: 1.136 GB
-data_bionano_coverage: 0.87x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/bionano/<br>
-data_pacbio_bases: 173.51 Gbp
-data_pacbio_bytes: 296.938 GB
-data_pacbio_coverage: 61.97x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5442
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-2_bases: N/A
+data_bionano-2_bytes: 1.1 GiB
+data_bionano-2_coverage: 233.88x
+data_bionano-2_links: s3://genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/bionano/<br>
+data_bionano-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/bionano/
+data_bionano-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pristis_pectinata/sPriPec2/genomic_data/bionano/
+data_bionano-2_scale: 552.9414
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 233.88x
+data_pacbio-2_bases: 173.45 Gbp
+data_pacbio-2_bytes: 296.8 GiB
+data_pacbio-2_coverage: 61.95x
+data_pacbio-2_links: s3://genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/pacbio/<br>
+data_pacbio-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pristis_pectinata/sPriPec2/genomic_data/pacbio/
+data_pacbio-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pristis_pectinata/sPriPec2/genomic_data/pacbio/
+data_pacbio-2_scale: 0.5442
+data_pacbio_bases: 173.45 Gbp
+data_pacbio_bytes: 296.8 GiB
+data_pacbio_coverage: 61.95x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: sPriPec2:GCA_009764485.1
 genbank_pri: sPriPec2:GCA_009764475.2
 genome_size: 2800000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1566356326
 last_updated: 1608058951
 mito2date: 2019-08-21
-mito2filesize: 5 KiB
+mito2filesize: 5.0 KiB
 mito2length: 16803
 mito2n50ctg: 0
 mito2n50scf: 0
@@ -93,7 +110,7 @@ mito2version: assembly_MT_rockefeller
 name: Pristis pectinata
 name_: Pristis_pectinata
 pri2date: 2020-12-15
-pri2filesize: 659 MiB
+pri2filesize: 658.8 MiB
 pri2length: 2267840987
 pri2n50ctg: 11068733
 pri2n50scf: 53952022

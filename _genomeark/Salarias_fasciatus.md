@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-06-24
-alt1filesize: 257 MiB
+alt1filesize: 256.5 MiB
 alt1length: 894675777
 alt1n50ctg: 421533
 alt1n50scf: 424591
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: jewelled blenny
+data_10x-1_bases: 128.31 Gbp
+data_10x-1_bytes: 79.2 GiB
+data_10x-1_coverage: 160.89x
+data_10x-1_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salarias_fasciatus/fSalaFa1/genomic_data/10x/
+data_10x-1_scale: 1.5084
 data_10x_bases: 128.31 Gbp
-data_10x_bytes: 79.223 GB
+data_10x_bytes: 79.2 GiB
 data_10x_coverage: 160.89x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/10x/<br>
-data_10x_scale: 1.5084
-data_bionano_bases: 1.54 Gbp
-data_bionano_bytes: 1.082 GB
-data_bionano_coverage: 1.93x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.1 GiB
+data_bionano-1_coverage: 1348.74x
+data_bionano-1_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salarias_fasciatus/fSalaFa1/genomic_data/bionano/
+data_bionano-1_scale: 928.2556
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 1348.74x
+data_dovetail-1_bases: 118.79 Gbp
+data_dovetail-1_bytes: 78.1 GiB
+data_dovetail-1_coverage: 148.95x
+data_dovetail-1_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salarias_fasciatus/fSalaFa1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.4163
 data_dovetail_bases: 118.79 Gbp
-data_dovetail_bytes: 78.111 GB
+data_dovetail_bytes: 78.1 GiB
 data_dovetail_coverage: 148.95x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.4163
-data_pacbio_bases: 65.40 Gbp
-data_pacbio_bytes: 113.821 GB
-data_pacbio_coverage: 82.00x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5351
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_pacbio-1_bases: 65.36 Gbp
+data_pacbio-1_bytes: 113.8 GiB
+data_pacbio-1_coverage: 81.95x
+data_pacbio-1_links: s3://genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Salarias_fasciatus/fSalaFa1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salarias_fasciatus/fSalaFa1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5351
+data_pacbio_bases: 65.36 Gbp
+data_pacbio_bytes: 113.8 GiB
+data_pacbio_coverage: 81.95x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: fSalaFa1:GCA_902148835.1
 genbank_pri: fSalaFa1:GCA_902148845.1
 genome_size: 797490645
@@ -63,7 +80,7 @@ last_updated: 1561653349
 name: Salarias fasciatus
 name_: Salarias_fasciatus
 pri1date: 2019-06-24
-pri1filesize: 227 MiB
+pri1filesize: 227.2 MiB
 pri1length: 797490645
 pri1n50ctg: 2597836
 pri1n50scf: 32729575

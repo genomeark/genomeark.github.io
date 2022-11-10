@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-05-28
-alt1filesize: 513 MiB
+alt1filesize: 513.3 MiB
 alt1length: 1835388607
 alt1n50ctg: 107614
 alt1n50scf: 107614
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: blue whale
+data_10x-1_bases: 322.69 Gbp
+data_10x-1_bytes: 185.9 GiB
+data_10x-1_coverage: 104.30x
+data_10x-1_links: s3://genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balaenoptera_musculus/mBalMus1/genomic_data/10x/
+data_10x-1_scale: 1.6168
 data_10x_bases: 322.69 Gbp
-data_10x_bytes: 185.877 GB
+data_10x_bytes: 185.9 GiB
 data_10x_coverage: 104.30x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/10x/<br>
-data_10x_scale: 1.6168
-data_bionano_bases: 7.86 Gbp
-data_bionano_bytes: 2.063 GB
-data_bionano_coverage: 2.54x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.0 GiB
+data_bionano-1_coverage: 469.63x
+data_bionano-1_links: s3://genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balaenoptera_musculus/mBalMus1/genomic_data/bionano/
+data_bionano-1_scale: 664.6716
+data_bionano_bases: N/A
+data_bionano_bytes: 2.0 GiB
+data_bionano_coverage: 469.63x
+data_dovetail-1_bases: 118.44 Gbp
+data_dovetail-1_bytes: 70.9 GiB
+data_dovetail-1_coverage: 38.28x
+data_dovetail-1_links: s3://genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balaenoptera_musculus/mBalMus1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.5561
 data_dovetail_bases: 118.44 Gbp
-data_dovetail_bytes: 70.884 GB
+data_dovetail_bytes: 70.9 GiB
 data_dovetail_coverage: 38.28x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.5561
+data_illumina-1_bases: 381.77 Gbp
+data_illumina-1_bytes: 187.2 GiB
+data_illumina-1_coverage: 123.40x
+data_illumina-1_links: s3://genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balaenoptera_musculus/mBalMus1/genomic_data/illumina/
+data_illumina-1_scale: 1.8995
 data_illumina_bases: 381.77 Gbp
-data_illumina_bytes: 187.181 GB
+data_illumina_bytes: 187.2 GiB
 data_illumina_coverage: 123.40x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/illumina/<br>
-data_illumina_scale: 1.8995
-data_pacbio_bases: 158.36 Gbp
-data_pacbio_bytes: 283.843 GB
-data_pacbio_coverage: 51.19x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5196
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_pacbio-1_bases: 158.26 Gbp
+data_pacbio-1_bytes: 283.7 GiB
+data_pacbio-1_coverage: 51.16x
+data_pacbio-1_links: s3://genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Balaenoptera_musculus/mBalMus1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balaenoptera_musculus/mBalMus1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5196
+data_pacbio_bases: 158.26 Gbp
+data_pacbio_bytes: 283.7 GiB
+data_pacbio_coverage: 51.16x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_alt: mBalMus1:GCA_008658375.2
 genbank_pri: mBalMus1:GCA_009873245.3
 genome_size: 3093707188
@@ -68,7 +89,7 @@ genome_size_method: genomescope (k=31)
 last_raw_data: 1584557134
 last_updated: 1628606187
 mito1date: 2019-10-02
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16403
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -99,7 +120,7 @@ mito1version: assembly_MT_rockefeller
 name: Balaenoptera musculus
 name_: Balaenoptera_musculus
 pri1date: 2020-05-28
-pri1filesize: 663 MiB
+pri1filesize: 662.8 MiB
 pri1length: 2374852541
 pri1n50ctg: 4489592
 pri1n50scf: 104068540

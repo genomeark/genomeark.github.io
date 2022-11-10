@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-02-08
-alt1filesize: 308 MiB
+alt1filesize: 307.7 MiB
 alt1length: 1034011644
 alt1n50ctg: 491400
 alt1n50scf: 493474
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: flier cichlid
+data_10x-1_bases: 37.52 Gbp
+data_10x-1_bytes: 24.7 GiB
+data_10x-1_coverage: 37.98x
+data_10x-1_links: s3://genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Archocentrus_centrarchus/fArcCen1/genomic_data/10x/
+data_10x-1_scale: 1.4156
 data_10x_bases: 37.52 Gbp
-data_10x_bytes: 24.686 GB
+data_10x_bytes: 24.7 GiB
 data_10x_coverage: 37.98x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/10x/<br>
-data_10x_scale: 1.4156
-data_bionano_bases: 2.31 Gbp
-data_bionano_bytes: 1.789 GB
-data_bionano_coverage: 2.34x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.8 GiB
+data_bionano-1_coverage: 1140.18x
+data_bionano-1_links: s3://genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Archocentrus_centrarchus/fArcCen1/genomic_data/bionano/
+data_bionano-1_scale: 588.8345
+data_bionano_bases: N/A
+data_bionano_bytes: 1.8 GiB
+data_bionano_coverage: 1140.18x
+data_pacbio-1_bases: 76.00 Gbp
+data_pacbio-1_bytes: 131.5 GiB
+data_pacbio-1_coverage: 76.92x
+data_pacbio-1_links: s3://genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Archocentrus_centrarchus/fArcCen1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5383
 data_pacbio_bases: 76.00 Gbp
-data_pacbio_bytes: 131.487 GB
+data_pacbio_bytes: 131.5 GiB
 data_pacbio_coverage: 76.92x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5383
+data_phase-1_bases: 93.28 Gbp
+data_phase-1_bytes: 56.0 GiB
+data_phase-1_coverage: 94.41x
+data_phase-1_links: s3://genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/phase/<br>
+data_phase-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/phase/
+data_phase-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Archocentrus_centrarchus/fArcCen1/genomic_data/phase/
+data_phase-1_scale: 1.5504
 data_phase_bases: 93.28 Gbp
-data_phase_bytes: 56.032 GB
+data_phase_bytes: 56.0 GiB
 data_phase_coverage: 94.41x
-data_phase_files: 666
-data_phase_links: s3://genomeark/species/Archocentrus_centrarchus/fArcCen1/genomic_data/phase/<br>
-data_phase_scale: 1.5504
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_alt: fArcCen1:GCA_007364235.1
 genbank_pri: fArcCen1:GCA_007364275.2
 genome_size: 988048114
@@ -61,7 +78,7 @@ genome_size_display: 0.99 Gbp
 last_raw_data: 1537873439
 last_updated: 1570719699
 mito1date: 2019-10-01
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16663
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Archocentrus centrarchus
 name_: Archocentrus_centrarchus
 pri1date: 2019-02-08
-pri1filesize: 267 MiB
+pri1filesize: 266.9 MiB
 pri1length: 932930362
 pri1n50ctg: 2005422
 pri1n50scf: 35590001

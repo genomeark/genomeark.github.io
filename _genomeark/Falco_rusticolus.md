@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-07-20
-alt1filesize: 158 MiB
+alt1filesize: 158.5 MiB
 alt1length: 516243243
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: gyrfalcon
+data_10x-1_bases: 150.96 Gbp
+data_10x-1_bytes: 67.5 GiB
+data_10x-1_coverage: 107.83x
+data_10x-1_links: s3://genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_rusticolus/bFalRus1/genomic_data/10x/
+data_10x-1_scale: 2.0826
 data_10x_bases: 150.96 Gbp
-data_10x_bytes: 67.507 GB
+data_10x_bytes: 67.5 GiB
 data_10x_coverage: 107.83x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/10x/<br>
-data_10x_scale: 2.0826
+data_arima-1_bases: 118.64 Gbp
+data_arima-1_bytes: 73.0 GiB
+data_arima-1_coverage: 84.74x
+data_arima-1_links: s3://genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_rusticolus/bFalRus1/genomic_data/arima/
+data_arima-1_scale: 1.5141
 data_arima_bases: 118.64 Gbp
-data_arima_bytes: 72.973 GB
+data_arima_bytes: 73.0 GiB
 data_arima_coverage: 84.74x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/arima/<br>
-data_arima_scale: 1.5141
-data_bionano_bases: 1.41 Gbp
-data_bionano_bytes: 0.592 GB
-data_bionano_coverage: 1.01x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/bionano/<br>
-data_pacbio_bases: 61.97 Gbp
-data_pacbio_bytes: 110.035 GB
-data_pacbio_coverage: 44.26x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5245
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 585.0 MiB
+data_bionano-1_coverage: 246.43x
+data_bionano-1_links: s3://genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_rusticolus/bFalRus1/genomic_data/bionano/
+data_bionano-1_scale: 562.4726
+data_bionano_bases: N/A
+data_bionano_bytes: 585.0 MiB
+data_bionano_coverage: 246.43x
+data_pacbio-1_bases: 61.93 Gbp
+data_pacbio-1_bytes: 110.0 GiB
+data_pacbio-1_coverage: 44.24x
+data_pacbio-1_links: s3://genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_rusticolus/bFalRus1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_rusticolus/bFalRus1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5245
+data_pacbio_bases: 61.93 Gbp
+data_pacbio_bytes: 110.0 GiB
+data_pacbio_coverage: 44.24x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bFalRus1:GCA_015220155.1
 genbank_pri: bFalRus1:GCA_015220075.1
 genome_size: 1400000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1578071543
 last_updated: 1629346092
 mito1date: 2019-12-16
-mito1filesize: 6 KiB
+mito1filesize: 5.6 KiB
 mito1length: 18488
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Falco rusticolus
 name_: Falco_rusticolus
 pri1date: 2020-07-20
-pri1filesize: 349 MiB
+pri1filesize: 349.2 MiB
 pri1length: 1195829278
 pri1n50ctg: 12482491
 pri1n50scf: 84785561

@@ -1,30 +1,47 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: Kuhl's pipistrelle
+data_10x-1_bases: 95.71 Gbp
+data_10x-1_bytes: 59.3 GiB
+data_10x-1_coverage: 53.90x
+data_10x-1_links: s3://genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/10x/
+data_10x-1_scale: 1.5039
 data_10x_bases: 95.71 Gbp
-data_10x_bytes: 59.271 GB
+data_10x_bytes: 59.3 GiB
 data_10x_coverage: 53.90x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/10x/<br>
-data_10x_scale: 1.5039
-data_bionano_bases: 1.88 Gbp
-data_bionano_bytes: 2.136 GB
-data_bionano_coverage: 1.06x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/bionano/<br>
-data_pacbio_bases: 144.69 Gbp
-data_pacbio_bytes: 253.486 GB
-data_pacbio_coverage: 81.48x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5316
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.1 GiB
+data_bionano-1_coverage: 798.92x
+data_bionano-1_links: s3://genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/bionano/
+data_bionano-1_scale: 620.1882
+data_bionano_bases: N/A
+data_bionano_bytes: 2.1 GiB
+data_bionano_coverage: 798.92x
+data_pacbio-1_bases: 144.60 Gbp
+data_pacbio-1_bytes: 253.3 GiB
+data_pacbio-1_coverage: 81.43x
+data_pacbio-1_links: s3://genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5316
+data_pacbio_bases: 144.60 Gbp
+data_pacbio_bytes: 253.3 GiB
+data_pacbio_coverage: 81.43x
+data_phase-1_bases: 30.93 Gbp
+data_phase-1_bytes: 17.2 GiB
+data_phase-1_coverage: 17.42x
+data_phase-1_links: s3://genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/phase/<br>
+data_phase-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/phase/
+data_phase-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/phase/
+data_phase-1_scale: 1.6789
 data_phase_bases: 30.93 Gbp
-data_phase_bytes: 17.157 GB
+data_phase_bytes: 17.2 GiB
 data_phase_coverage: 17.42x
-data_phase_files: 666
-data_phase_links: s3://genomeark/species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/phase/<br>
-data_phase_scale: 1.6789
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_pri: mPipKuh1:GCA_014108245.1
 genome_size: 1775719727
 genome_size_display: 1.78 Gbp
@@ -32,7 +49,7 @@ genome_size_method: DAmar assembly
 last_raw_data: 1574852977
 last_updated: 1582303601
 mito1date: 2019-12-04
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 17207
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -63,7 +80,7 @@ mito1version: assembly_MT_rockefeller
 name: Pipistrellus kuhlii
 name_: Pipistrellus_kuhlii
 pri1date: 2019-04-24
-pri1filesize: 562 MiB
+pri1filesize: 562.1 MiB
 pri1length: 1775719727
 pri1n50ctg: 10239182
 pri1n50scf: 80237350

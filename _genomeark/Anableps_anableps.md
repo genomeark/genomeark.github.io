@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-05-14
-alt1filesize: 135 MiB
+alt1filesize: 134.7 MiB
 alt1length: 445542990
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: largescale foureyes
+data_10x-1_bases: 68.55 Gbp
+data_10x-1_bytes: 32.4 GiB
+data_10x-1_coverage: 72.96x
+data_10x-1_links: s3://genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anableps_anableps/fAnaAna1/genomic_data/10x/
+data_10x-1_scale: 1.9685
 data_10x_bases: 68.55 Gbp
-data_10x_bytes: 32.430 GB
+data_10x_bytes: 32.4 GiB
 data_10x_coverage: 72.96x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/10x/<br>
-data_10x_scale: 1.9685
+data_arima-1_bases: 144.05 Gbp
+data_arima-1_bytes: 92.2 GiB
+data_arima-1_coverage: 153.33x
+data_arima-1_links: s3://genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anableps_anableps/fAnaAna1/genomic_data/arima/
+data_arima-1_scale: 1.4554
 data_arima_bases: 144.05 Gbp
-data_arima_bytes: 92.177 GB
+data_arima_bytes: 92.2 GiB
 data_arima_coverage: 153.33x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/arima/<br>
-data_arima_scale: 1.4554
-data_bionano_bases: 0.93 Gbp
-data_bionano_bytes: 0.869 GB
-data_bionano_coverage: 0.99x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/bionano/<br>
-data_pacbio_bases: 59.08 Gbp
-data_pacbio_bytes: 104.326 GB
-data_pacbio_coverage: 62.89x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5274
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 887.5 MiB
+data_bionano-1_coverage: 630.71x
+data_bionano-1_links: s3://genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anableps_anableps/fAnaAna1/genomic_data/bionano/
+data_bionano-1_scale: 636.6861
+data_bionano_bases: N/A
+data_bionano_bytes: 887.5 MiB
+data_bionano_coverage: 630.71x
+data_pacbio-1_bases: 59.05 Gbp
+data_pacbio-1_bytes: 104.3 GiB
+data_pacbio-1_coverage: 62.85x
+data_pacbio-1_links: s3://genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Anableps_anableps/fAnaAna1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anableps_anableps/fAnaAna1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5274
+data_pacbio_bases: 59.05 Gbp
+data_pacbio_bytes: 104.3 GiB
+data_pacbio_coverage: 62.85x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fAnaAna1:GCA_014839705.1
 genbank_pri: fAnaAna1:GCA_014839685.1
 genome_size: 939460000
@@ -62,7 +79,7 @@ genome_size_method: 10X Genomics Supernova assembly
 last_raw_data: 1563553434
 last_updated: 1589472768
 mito1date: 2019-10-01
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16511
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Anableps anableps
 name_: Anableps_anableps
 pri1date: 2020-05-14
-pri1filesize: 253 MiB
+pri1filesize: 253.1 MiB
 pri1length: 867616482
 pri1n50ctg: 15304339
 pri1n50scf: 38412296

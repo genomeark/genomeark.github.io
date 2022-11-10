@@ -1,43 +1,71 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: Mexican gopher tortoise
+data_10x-2_bases: 248.31 Gbp
+data_10x-2_bytes: 116.6 GiB
+data_10x-2_coverage: 99.32x
+data_10x-2_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/10x/<br>
+data_10x-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/10x/
+data_10x-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_flavomarginatus/rGopFla2/genomic_data/10x/
+data_10x-2_scale: 1.9829
 data_10x_bases: 248.31 Gbp
-data_10x_bytes: 116.626 GB
+data_10x_bytes: 116.6 GiB
 data_10x_coverage: 99.32x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/10x/<br>
-data_10x_scale: 1.9829
+data_arima-2_bases: 167.06 Gbp
+data_arima-2_bytes: 107.3 GiB
+data_arima-2_coverage: 66.82x
+data_arima-2_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_flavomarginatus/rGopFla2/genomic_data/arima/
+data_arima-2_scale: 1.4505
 data_arima_bases: 167.06 Gbp
-data_arima_bytes: 107.261 GB
+data_arima_bytes: 107.3 GiB
 data_arima_coverage: 66.82x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/arima/<br>
-data_arima_scale: 1.4505
-data_bionano_bases: 2.58 Gbp
-data_bionano_bytes: 1.086 GB
-data_bionano_coverage: 1.03x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/bionano/<br>
-data_illumina_bases: 405.64 Gbp
-data_illumina_bytes: 202.969 GB
-data_illumina_coverage: 162.26x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla1/genomic_data/illumina/<br>s3://genomeark/species/Gopherus_flavomarginatus/rGopFla3/genomic_data/illumina/<br>
-data_illumina_scale: 1.8613
-data_pacbio_bases: 164.68 Gbp
-data_pacbio_bytes: 286.083 GB
-data_pacbio_coverage: 65.87x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5361
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_bionano-2_bases: N/A
+data_bionano-2_bytes: 1.1 GiB
+data_bionano-2_coverage: 263.61x
+data_bionano-2_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/bionano/<br>
+data_bionano-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/bionano/
+data_bionano-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_flavomarginatus/rGopFla2/genomic_data/bionano/
+data_bionano-2_scale: 584.4172
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 263.61x
+data_illumina-1_bases: 202.29 Gbp
+data_illumina-1_bytes: 101.8 GiB
+data_illumina-1_coverage: 80.91x
+data_illumina-1_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gopherus_flavomarginatus/rGopFla1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_flavomarginatus/rGopFla1/genomic_data/illumina/
+data_illumina-1_scale: 1.8498
+data_illumina-3_bases: 204.29 Gbp
+data_illumina-3_bytes: 101.1 GiB
+data_illumina-3_coverage: 81.72x
+data_illumina-3_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gopherus_flavomarginatus/rGopFla3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_flavomarginatus/rGopFla3/genomic_data/illumina/
+data_illumina-3_scale: 1.8815
+data_illumina_bases: 406.58 Gbp
+data_illumina_bytes: 203.0 GiB
+data_illumina_coverage: 162.63x
+data_pacbio-2_bases: 164.62 Gbp
+data_pacbio-2_bytes: 286.0 GiB
+data_pacbio-2_coverage: 65.85x
+data_pacbio-2_links: s3://genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/pacbio/<br>
+data_pacbio-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gopherus_flavomarginatus/rGopFla2/genomic_data/pacbio/
+data_pacbio-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_flavomarginatus/rGopFla2/genomic_data/pacbio/
+data_pacbio-2_scale: 0.5361
+data_pacbio_bases: 164.62 Gbp
+data_pacbio_bytes: 286.0 GiB
+data_pacbio_coverage: 65.85x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 2500000000
 genome_size_display: 2.50 Gbp
 genome_size_method: null
 last_raw_data: 1562792194
 last_updated: 1635884912
 mat2date: 2021-11-02
-mat2filesize: 731 MiB
+mat2filesize: 730.8 MiB
 mat2length: 2629494463
 mat2n50ctg: 6571772
 mat2n50scf: 132089145
@@ -66,7 +94,7 @@ mat2sizes: |
   </table>
 mat2version: assembly_curated
 mgd2date: 2021-11-02
-mgd2filesize: 689 MiB
+mgd2filesize: 688.9 MiB
 mgd2length: 2460558587
 mgd2n50ctg: 6571772
 mgd2n50scf: 162938067
@@ -95,7 +123,7 @@ mgd2sizes: |
   </table>
 mgd2version: assembly_curated
 mito2date: 2019-12-16
-mito2filesize: 5 KiB
+mito2filesize: 4.9 KiB
 mito2length: 16501
 mito2n50ctg: 0
 mito2n50scf: 0
@@ -126,7 +154,7 @@ mito2version: assembly_MT_rockefeller
 name: Gopherus flavomarginatus
 name_: Gopherus_flavomarginatus
 pat2date: 2021-11-02
-pat2filesize: 723 MiB
+pat2filesize: 723.2 MiB
 pat2length: 2584697711
 pat2n50ctg: 6312536
 pat2n50scf: 133543772

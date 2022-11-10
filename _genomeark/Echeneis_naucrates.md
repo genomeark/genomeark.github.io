@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-04-01
-alt1filesize: 155 MiB
+alt1filesize: 155.5 MiB
 alt1length: 528272450
 alt1n50ctg: 889301
 alt1n50scf: 915456
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: live sharksucker
+data_10x-1_bases: 125.19 Gbp
+data_10x-1_bytes: 79.8 GiB
+data_10x-1_coverage: 230.05x
+data_10x-1_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Echeneis_naucrates/fEcheNa1/genomic_data/10x/
+data_10x-1_scale: 1.4620
 data_10x_bases: 125.19 Gbp
-data_10x_bytes: 79.751 GB
+data_10x_bytes: 79.8 GiB
 data_10x_coverage: 230.05x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/10x/<br>
-data_10x_scale: 1.4620
-data_bionano_bases: 0.58 Gbp
-data_bionano_bytes: 0.900 GB
-data_bionano_coverage: 1.06x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 0.9 GiB
+data_bionano-1_coverage: 1314.98x
+data_bionano-1_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Echeneis_naucrates/fEcheNa1/genomic_data/bionano/
+data_bionano-1_scale: 741.9325
+data_bionano_bases: N/A
+data_bionano_bytes: 0.9 GiB
+data_bionano_coverage: 1314.98x
+data_dovetail-1_bases: 137.31 Gbp
+data_dovetail-1_bytes: 84.0 GiB
+data_dovetail-1_coverage: 252.31x
+data_dovetail-1_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Echeneis_naucrates/fEcheNa1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.5229
 data_dovetail_bases: 137.31 Gbp
-data_dovetail_bytes: 83.970 GB
+data_dovetail_bytes: 84.0 GiB
 data_dovetail_coverage: 252.31x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.5229
-data_pacbio_bases: 45.30 Gbp
-data_pacbio_bytes: 79.001 GB
-data_pacbio_coverage: 83.23x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5340
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_pacbio-1_bases: 45.28 Gbp
+data_pacbio-1_bytes: 79.0 GiB
+data_pacbio-1_coverage: 83.20x
+data_pacbio-1_links: s3://genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Echeneis_naucrates/fEcheNa1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Echeneis_naucrates/fEcheNa1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5340
+data_pacbio_bases: 45.28 Gbp
+data_pacbio_bytes: 79.0 GiB
+data_pacbio_coverage: 83.20x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: fEcheNa1:GCA_900963505.1
 genbank_pri: fEcheNa1:GCA_900963305.2
 genome_size: 544212633
@@ -61,7 +78,7 @@ genome_size_display: 0.54 Gbp
 last_raw_data: 1549384902
 last_updated: 1570719802
 mito1date: 2019-10-02
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16610
 mito1n50ctg: 16610
 mito1n50scf: 16610
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Echeneis naucrates
 name_: Echeneis_naucrates
 pri1date: 2019-04-01
-pri1filesize: 147 MiB
+pri1filesize: 147.5 MiB
 pri1length: 544212633
 pri1n50ctg: 12371513
 pri1n50scf: 23287306

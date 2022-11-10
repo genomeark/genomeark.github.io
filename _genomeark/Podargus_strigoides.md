@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-03-18
-alt1filesize: 280 MiB
+alt1filesize: 280.4 MiB
 alt1length: 977391185
 alt1n50ctg: 2660038
 alt1n50scf: 2678946
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: tawny frogmouth
+data_arima-1_bases: 79.83 Gbp
+data_arima-1_bytes: 41.5 GiB
+data_arima-1_coverage: 58.40x
+data_arima-1_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podargus_strigoides/bPodStr1/genomic_data/arima/
+data_arima-1_scale: 1.7901
 data_arima_bases: 79.83 Gbp
-data_arima_bytes: 41.532 GB
+data_arima_bytes: 41.5 GiB
 data_arima_coverage: 58.40x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/arima/<br>
-data_arima_scale: 1.7901
-data_bionano_bases: 1.21 Gbp
-data_bionano_bytes: 1.107 GB
-data_bionano_coverage: 0.89x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/bionano/<br>
-data_pacbiohifi_bam_bases: 172.94 Gbp
-data_pacbiohifi_bam_bytes: 128.653 GB
-data_pacbiohifi_bam_coverage: 126.51x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.2519
-data_pacbiohifi_clr_bases: 203.19 Gbp
-data_pacbiohifi_clr_bytes: 435.834 GB
-data_pacbiohifi_clr_coverage: 148.64x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.4342
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.1 GiB
+data_bionano-1_coverage: 442.86x
+data_bionano-1_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podargus_strigoides/bPodStr1/genomic_data/bionano/
+data_bionano-1_scale: 517.3724
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 442.86x
+data_pacbiohifi_bam-1_bases: 37.80 Gbp
+data_pacbiohifi_bam-1_bytes: 128.7 GiB
+data_pacbiohifi_bam-1_coverage: 27.65x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2736
+data_pacbiohifi_bam_bases: 37.80 Gbp
+data_pacbiohifi_bam_bytes: 128.7 GiB
+data_pacbiohifi_bam_coverage: 27.65x
+data_pacbiohifi_clr-1_bases: 203.14 Gbp
+data_pacbiohifi_clr-1_bytes: 435.7 GiB
+data_pacbiohifi_clr-1_coverage: 148.60x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.4342
+data_pacbiohifi_clr_bases: 203.14 Gbp
+data_pacbiohifi_clr_bytes: 435.7 GiB
+data_pacbiohifi_clr_coverage: 148.60x
+data_pacbiohifi_fqgz-1_bases: 37.87 Gbp
+data_pacbiohifi_fqgz-1_bytes: 28.2 GiB
+data_pacbiohifi_fqgz-1_coverage: 27.70x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2495
 data_pacbiohifi_fqgz_bases: 37.87 Gbp
-data_pacbiohifi_fqgz_bytes: 28.228 GB
+data_pacbiohifi_fqgz_bytes: 28.2 GiB
 data_pacbiohifi_fqgz_coverage: 27.70x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.2495
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1367000000
 genome_size_display: 1.37 Gbp
 genome_size_method: GoAT
@@ -68,7 +89,7 @@ last_updated: 1651598422
 name: Podargus strigoides
 name_: Podargus_strigoides
 pri1date: 2022-03-18
-pri1filesize: 348 MiB
+pri1filesize: 347.9 MiB
 pri1length: 1271141449
 pri1n50ctg: 9243896
 pri1n50scf: 46382565

@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-03-13
-alt1filesize: 578 MiB
+alt1filesize: 578.2 MiB
 alt1length: 1970935876
 alt1n50ctg: 596618
 alt1n50scf: 596618
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: California sea lion
+data_10x-1_bases: 195.17 Gbp
+data_10x-1_bytes: 94.2 GiB
+data_10x-1_coverage: 61.96x
+data_10x-1_links: s3://genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zalophus_californianus/mZalCal1/genomic_data/10x/
+data_10x-1_scale: 1.9293
 data_10x_bases: 195.17 Gbp
-data_10x_bytes: 94.215 GB
+data_10x_bytes: 94.2 GiB
 data_10x_coverage: 61.96x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/10x/<br>
-data_10x_scale: 1.9293
+data_arima-1_bases: 200.89 Gbp
+data_arima-1_bytes: 124.3 GiB
+data_arima-1_coverage: 63.77x
+data_arima-1_links: s3://genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zalophus_californianus/mZalCal1/genomic_data/arima/
+data_arima-1_scale: 1.5046
 data_arima_bases: 200.89 Gbp
-data_arima_bytes: 124.347 GB
+data_arima_bytes: 124.3 GiB
 data_arima_coverage: 63.77x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/arima/<br>
-data_arima_scale: 1.5046
-data_bionano_bases: 2.53 Gbp
-data_bionano_bytes: 0.820 GB
-data_bionano_coverage: 0.80x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/bionano/<br>
-data_pacbio_bases: 254.52 Gbp
-data_pacbio_bytes: 449.022 GB
-data_pacbio_coverage: 80.80x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5279
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 799.9 MiB
+data_bionano-1_coverage: 129.51x
+data_bionano-1_links: s3://genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zalophus_californianus/mZalCal1/genomic_data/bionano/
+data_bionano-1_scale: 486.3746
+data_bionano_bases: N/A
+data_bionano_bytes: 799.9 MiB
+data_bionano_coverage: 129.51x
+data_pacbio-1_bases: 254.46 Gbp
+data_pacbio-1_bytes: 448.9 GiB
+data_pacbio-1_coverage: 80.78x
+data_pacbio-1_links: s3://genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Zalophus_californianus/mZalCal1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zalophus_californianus/mZalCal1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5279
+data_pacbio_bases: 254.46 Gbp
+data_pacbio_bytes: 448.9 GiB
+data_pacbio_coverage: 80.78x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: mZalCal1:GCA_009762295.2
 genbank_pri: mZalCal1:GCA_009762305.2
 genome_size: 3150000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1567714756
 last_updated: 1584962094
 mito1date: 2019-10-04
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16715
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Zalophus californianus
 name_: Zalophus_californianus
 pri1date: 2020-03-13
-pri1filesize: 698 MiB
+pri1filesize: 697.5 MiB
 pri1length: 2409668595
 pri1n50ctg: 24587606
 pri1n50scf: 129409743

@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-09-07
-alt1filesize: 221 MiB
+alt1filesize: 221.0 MiB
 alt1length: 765970641
 alt1n50ctg: 400765
 alt1n50scf: 409755
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: honeycomb rockfish
+data_10x-1_bases: 53.67 Gbp
+data_10x-1_bytes: 27.0 GiB
+data_10x-1_coverage: 53.67x
+data_10x-1_links: s3://genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sebastes_umbrosus/fSebUmb1/genomic_data/10x/
+data_10x-1_scale: 1.8544
 data_10x_bases: 53.67 Gbp
-data_10x_bytes: 26.956 GB
+data_10x_bytes: 27.0 GiB
 data_10x_coverage: 53.67x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/10x/<br>
-data_10x_scale: 1.8544
+data_arima-1_bases: 31.45 Gbp
+data_arima-1_bytes: 12.9 GiB
+data_arima-1_coverage: 31.45x
+data_arima-1_links: s3://genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sebastes_umbrosus/fSebUmb1/genomic_data/arima/
+data_arima-1_scale: 2.2716
 data_arima_bases: 31.45 Gbp
-data_arima_bytes: 12.893 GB
+data_arima_bytes: 12.9 GiB
 data_arima_coverage: 31.45x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/arima/<br>
-data_arima_scale: 2.2716
-data_bionano_bases: 0.86 Gbp
-data_bionano_bytes: 1.911 GB
-data_bionano_coverage: 0.86x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.9 GiB
+data_bionano-1_coverage: 1114.12x
+data_bionano-1_links: s3://genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sebastes_umbrosus/fSebUmb1/genomic_data/bionano/
+data_bionano-1_scale: 545.7965
+data_bionano_bases: N/A
+data_bionano_bytes: 1.9 GiB
+data_bionano_coverage: 1114.12x
+data_illumina-1_bases: 42.48 Gbp
+data_illumina-1_bytes: 18.5 GiB
+data_illumina-1_coverage: 42.48x
+data_illumina-1_links: s3://genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sebastes_umbrosus/fSebUmb1/genomic_data/illumina/
+data_illumina-1_scale: 2.1334
 data_illumina_bases: 42.48 Gbp
-data_illumina_bytes: 18.543 GB
+data_illumina_bytes: 18.5 GiB
 data_illumina_coverage: 42.48x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/illumina/<br>
-data_illumina_scale: 2.1334
-data_pacbio_bases: 45.14 Gbp
-data_pacbio_bytes: 76.821 GB
-data_pacbio_coverage: 45.14x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5473
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_pacbio-1_bases: 45.13 Gbp
+data_pacbio-1_bytes: 76.8 GiB
+data_pacbio-1_coverage: 45.13x
+data_pacbio-1_links: s3://genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sebastes_umbrosus/fSebUmb1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sebastes_umbrosus/fSebUmb1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5473
+data_pacbio_bases: 45.13 Gbp
+data_pacbio_bytes: 76.8 GiB
+data_pacbio_coverage: 45.13x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_alt: fSebUmb1:GCA_015220095.1
 genbank_pri: fSebUmb1:GCA_015220745.1
 genome_size: 1000000000
@@ -68,7 +89,7 @@ genome_size_method: null
 last_raw_data: 1574794326
 last_updated: 1628608526
 mito1date: 2019-12-03
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 17611
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -99,7 +120,7 @@ mito1version: assembly_MT_rockefeller
 name: Sebastes umbrosus
 name_: Sebastes_umbrosus
 pri1date: 2020-09-07
-pri1filesize: 229 MiB
+pri1filesize: 229.2 MiB
 pri1length: 800904020
 pri1n50ctg: 8304483
 pri1n50scf: 32625529

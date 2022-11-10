@@ -1,24 +1,36 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: bank vole
+data_10x-1_bases: 166.99 Gbp
+data_10x-1_bytes: 80.3 GiB
+data_10x-1_coverage: N/A
+data_10x-1_links: s3://genomeark/species/Myodes_glareolus/mMyoGla1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myodes_glareolus/mMyoGla1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myodes_glareolus/mMyoGla1/genomic_data/10x/
+data_10x-1_scale: 1.9365
 data_10x_bases: 166.99 Gbp
-data_10x_bytes: 80.309 GB
+data_10x_bytes: 80.3 GiB
 data_10x_coverage: N/A
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Myodes_glareolus/mMyoGla1/genomic_data/10x/<br>
-data_10x_scale: 1.9365
+data_arima-2_bases: 524.29 Gbp
+data_arima-2_bytes: 245.8 GiB
+data_arima-2_coverage: N/A
+data_arima-2_links: s3://genomeark/species/Myodes_glareolus/mMyoGla2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myodes_glareolus/mMyoGla2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myodes_glareolus/mMyoGla2/genomic_data/arima/
+data_arima-2_scale: 1.9867
 data_arima_bases: 524.29 Gbp
-data_arima_bytes: 245.777 GB
+data_arima_bytes: 245.8 GiB
 data_arima_coverage: N/A
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Myodes_glareolus/mMyoGla2/genomic_data/arima/<br>
-data_arima_scale: 1.9867
-data_pacbiohifi_bam_bases: 52.42 Gbp
-data_pacbiohifi_bam_bytes: 189.601 GB
+data_pacbiohifi_bam-1_bases: 52.41 Gbp
+data_pacbiohifi_bam-1_bytes: 189.6 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Myodes_glareolus/mMyoGla1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myodes_glareolus/mMyoGla1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myodes_glareolus/mMyoGla1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2575
+data_pacbiohifi_bam_bases: 52.41 Gbp
+data_pacbiohifi_bam_bytes: 189.6 GiB
 data_pacbiohifi_bam_coverage: N/A
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Myodes_glareolus/mMyoGla1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 0.2575
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
 last_raw_data: 1651593803

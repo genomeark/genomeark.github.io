@@ -1,6 +1,6 @@
 ---
 alt2date: 2021-05-24
-alt2filesize: 174 MiB
+alt2filesize: 174.1 MiB
 alt2length: 614755631
 alt2n50ctg: 883972
 alt2n50scf: 883972
@@ -30,24 +30,36 @@ alt2sizes: |
 alt2version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: long-spined sea scorpion
+data_10x-2_bases: 63.96 Gbp
+data_10x-2_bytes: 38.3 GiB
+data_10x-2_coverage: 103.98x
+data_10x-2_links: s3://genomeark/species/Taurulus_bubalis/fTauBub2/genomic_data/10x/<br>
+data_10x-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taurulus_bubalis/fTauBub2/genomic_data/10x/
+data_10x-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taurulus_bubalis/fTauBub2/genomic_data/10x/
+data_10x-2_scale: 1.5567
 data_10x_bases: 63.96 Gbp
-data_10x_bytes: 38.268 GB
+data_10x_bytes: 38.3 GiB
 data_10x_coverage: 103.98x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Taurulus_bubalis/fTauBub2/genomic_data/10x/<br>
-data_10x_scale: 1.5567
+data_arima-2_bases: 101.23 Gbp
+data_arima-2_bytes: 50.5 GiB
+data_arima-2_coverage: 164.56x
+data_arima-2_links: s3://genomeark/species/Taurulus_bubalis/fTauBub2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taurulus_bubalis/fTauBub2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taurulus_bubalis/fTauBub2/genomic_data/arima/
+data_arima-2_scale: 1.8669
 data_arima_bases: 101.23 Gbp
-data_arima_bytes: 50.500 GB
+data_arima_bytes: 50.5 GiB
 data_arima_coverage: 164.56x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Taurulus_bubalis/fTauBub2/genomic_data/arima/<br>
-data_arima_scale: 1.8669
-data_pacbiohifi_bam_bases: 23.91 Gbp
-data_pacbiohifi_bam_bytes: 20.007 GB
-data_pacbiohifi_bam_coverage: 38.87x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Taurulus_bubalis/fTauBub2/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1130
+data_pacbiohifi_bam-2_bases: 23.89 Gbp
+data_pacbiohifi_bam-2_bytes: 20.0 GiB
+data_pacbiohifi_bam-2_coverage: 38.83x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Taurulus_bubalis/fTauBub2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taurulus_bubalis/fTauBub2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taurulus_bubalis/fTauBub2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 1.1130
+data_pacbiohifi_bam_bases: 23.89 Gbp
+data_pacbiohifi_bam_bytes: 20.0 GiB
+data_pacbiohifi_bam_coverage: 38.83x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fTauBub2:GCA_910589325.1
 genbank_pri: fTauBub2:GCA_910589615.1
@@ -58,7 +70,7 @@ last_updated: 1651599331
 name: Taurulus bubalis
 name_: Taurulus_bubalis
 pri2date: 2021-05-24
-pri2filesize: 173 MiB
+pri2filesize: 173.0 MiB
 pri2length: 615153901
 pri2n50ctg: 13037006
 pri2n50scf: 29138660

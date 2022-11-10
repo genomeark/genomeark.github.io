@@ -1,49 +1,81 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: sterlet
+data_10x-3_bases: 245.95 Gbp
+data_10x-3_bytes: 158.8 GiB
+data_10x-3_coverage: N/A
+data_10x-3_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/10x/<br>
+data_10x-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/10x/
+data_10x-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acipenser_ruthenus/fAciRut3/genomic_data/10x/
+data_10x-3_scale: 1.4423
 data_10x_bases: 245.95 Gbp
-data_10x_bytes: 158.814 GB
+data_10x_bytes: 158.8 GiB
 data_10x_coverage: N/A
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/10x/<br>
-data_10x_scale: 1.4423
-data_bionano_bases: 2.16 Gbp
-data_bionano_bytes: 2.769 GB
+data_bionano-3_bases: N/A
+data_bionano-3_bytes: 2.8 GiB
+data_bionano-3_coverage: N/A
+data_bionano-3_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/bionano/<br>
+data_bionano-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/bionano/
+data_bionano-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acipenser_ruthenus/fAciRut3/genomic_data/bionano/
+data_bionano-3_scale: 685.5753
+data_bionano_bases: N/A
+data_bionano_bytes: 2.8 GiB
 data_bionano_coverage: N/A
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/bionano/<br>
+data_dovetail-3_bases: 242.06 Gbp
+data_dovetail-3_bytes: 160.5 GiB
+data_dovetail-3_coverage: N/A
+data_dovetail-3_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/dovetail/<br>
+data_dovetail-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/dovetail/
+data_dovetail-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acipenser_ruthenus/fAciRut3/genomic_data/dovetail/
+data_dovetail-3_scale: 1.4047
 data_dovetail_bases: 242.06 Gbp
-data_dovetail_bytes: 160.485 GB
+data_dovetail_bytes: 160.5 GiB
 data_dovetail_coverage: N/A
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.4047
-data_illumina_bases: 211.10 Gbp
-data_illumina_bytes: 136.869 GB
+data_illumina-1_bases: 98.64 Gbp
+data_illumina-1_bytes: 65.6 GiB
+data_illumina-1_coverage: N/A
+data_illumina-1_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acipenser_ruthenus/fAciRut1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acipenser_ruthenus/fAciRut1/genomic_data/illumina/
+data_illumina-1_scale: 1.4005
+data_illumina-2_bases: 110.74 Gbp
+data_illumina-2_bytes: 71.3 GiB
+data_illumina-2_coverage: N/A
+data_illumina-2_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acipenser_ruthenus/fAciRut2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acipenser_ruthenus/fAciRut2/genomic_data/illumina/
+data_illumina-2_scale: 1.4470
+data_illumina_bases: 209.38 Gbp
+data_illumina_bytes: 136.9 GiB
 data_illumina_coverage: N/A
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut1/genomic_data/illumina/<br>s3://genomeark/species/Acipenser_ruthenus/fAciRut2/genomic_data/illumina/<br>
-data_illumina_scale: 1.4364
-data_pacbiohifi_bam_bases: 109.50 Gbp
-data_pacbiohifi_bam_bytes: 74.553 GB
+data_pacbiohifi_bam-3_bases: 109.39 Gbp
+data_pacbiohifi_bam-3_bytes: 74.5 GiB
+data_pacbiohifi_bam-3_coverage: N/A
+data_pacbiohifi_bam-3_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_scale: 1.3679
+data_pacbiohifi_bam_bases: 109.39 Gbp
+data_pacbiohifi_bam_bytes: 74.5 GiB
 data_pacbiohifi_bam_coverage: N/A
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.3679
-data_pacbiohifi_clr_bases: 286.38 Gbp
-data_pacbiohifi_clr_bytes: 636.692 GB
+data_pacbiohifi_clr-3_bases: 359.00 Gbp
+data_pacbiohifi_clr-3_bytes: 636.5 GiB
+data_pacbiohifi_clr-3_coverage: N/A
+data_pacbiohifi_clr-3_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-3_scale: 0.5253
+data_pacbiohifi_clr_bases: 359.00 Gbp
+data_pacbiohifi_clr_bytes: 636.5 GiB
 data_pacbiohifi_clr_coverage: N/A
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.4189
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: fAciRut3:GCA_902713425.2
 genbank_pat: fAciRut3:GCA_902713435.2
 genome_size: 0
 last_raw_data: 1651605306
 last_updated: 1651605306
 mat3date: 2019-12-04
-mat3filesize: 467 MiB
+mat3filesize: 466.5 MiB
 mat3length: 1638742712
 mat3n50ctg: 10828506
 mat3n50scf: 43124428
@@ -72,7 +104,7 @@ mat3sizes: |
   </table>
 mat3version: assembly_curated
 mito3date: 2019-10-02
-mito3filesize: 5 KiB
+mito3filesize: 5.0 KiB
 mito3length: 16706
 mito3n50ctg: 16706
 mito3n50scf: 16706
@@ -103,7 +135,7 @@ mito3version: assembly_MT_rockefeller
 name: Acipenser ruthenus
 name_: Acipenser_ruthenus
 pat3date: 2019-12-04
-pat3filesize: 473 MiB
+pat3filesize: 473.3 MiB
 pat3length: 1663879616
 pat3n50ctg: 11500722
 pat3n50scf: 42536799

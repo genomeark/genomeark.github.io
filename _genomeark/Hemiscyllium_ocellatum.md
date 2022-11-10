@@ -1,36 +1,64 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: epaulette shark
+data_10x-1_bases: 357.24 Gbp
+data_10x-1_bytes: 182.9 GiB
+data_10x-1_coverage: 64.95x
+data_10x-1_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/10x/
+data_10x-1_scale: 1.8186
 data_10x_bases: 357.24 Gbp
-data_10x_bytes: 182.947 GB
+data_10x_bytes: 182.9 GiB
 data_10x_coverage: 64.95x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/10x/<br>
-data_10x_scale: 1.8186
+data_arima-1_bases: 431.09 Gbp
+data_arima-1_bytes: 239.5 GiB
+data_arima-1_coverage: 78.38x
+data_arima-1_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/arima/
+data_arima-1_scale: 1.6761
 data_arima_bases: 431.09 Gbp
-data_arima_bytes: 239.533 GB
+data_arima_bytes: 239.5 GiB
 data_arima_coverage: 78.38x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/arima/<br>
-data_arima_scale: 1.6761
-data_bionano_bases: 4.98 Gbp
-data_bionano_bytes: 0.833 GB
-data_bionano_coverage: 0.91x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/bionano/<br>
-data_illumina_bases: 1150.92 Gbp
-data_illumina_bytes: 558.941 GB
-data_illumina_coverage: 209.26x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce2/genomic_data/illumina/<br>s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce3/genomic_data/illumina/<br>
-data_illumina_scale: 1.9177
-data_pacbio_bases: 821.53 Gbp
-data_pacbio_bytes: 1460.126 GB
-data_pacbio_coverage: 149.37x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5240
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 801.5 MiB
+data_bionano-1_coverage: 79.57x
+data_bionano-1_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/bionano/
+data_bionano-1_scale: 520.7403
+data_bionano_bases: N/A
+data_bionano_bytes: 801.5 MiB
+data_bionano_coverage: 79.57x
+data_illumina-2_bases: 523.13 Gbp
+data_illumina-2_bytes: 253.6 GiB
+data_illumina-2_coverage: 95.12x
+data_illumina-2_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hemiscyllium_ocellatum/sHemOce2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiscyllium_ocellatum/sHemOce2/genomic_data/illumina/
+data_illumina-2_scale: 1.9215
+data_illumina-3_bases: 629.32 Gbp
+data_illumina-3_bytes: 305.4 GiB
+data_illumina-3_coverage: 114.42x
+data_illumina-3_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hemiscyllium_ocellatum/sHemOce3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiscyllium_ocellatum/sHemOce3/genomic_data/illumina/
+data_illumina-3_scale: 1.9192
+data_illumina_bases: 1152.45 Gbp
+data_illumina_bytes: 558.9 GiB
+data_illumina_coverage: 209.54x
+data_pacbio-1_bases: 821.27 Gbp
+data_pacbio-1_bytes: 1.4 TiB
+data_pacbio-1_coverage: 149.32x
+data_pacbio-1_links: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5240
+data_pacbio_bases: 821.27 Gbp
+data_pacbio_bytes: 1.4 TiB
+data_pacbio_coverage: 149.32x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: sHemOce1:GCA_020745765.1
 genome_size: 5500000000
 genome_size_display: 5.50 Gbp
@@ -38,7 +66,7 @@ genome_size_method: null
 last_raw_data: 1594752182
 last_updated: 1622230107
 mat1date: 2021-05-28
-mat1filesize: 1 GiB
+mat1filesize: 1.1 GiB
 mat1length: 4149461884
 mat1n50ctg: 2768958
 mat1n50scf: 37995810
@@ -67,7 +95,7 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mgd1date: 2021-05-28
-mgd1filesize: 1 GiB
+mgd1filesize: 1.1 GiB
 mgd1length: 3983466396
 mgd1n50ctg: 2833298
 mgd1n50scf: 55856321
@@ -96,7 +124,7 @@ mgd1sizes: |
   </table>
 mgd1version: assembly_curated
 mito1date: 2021-03-04
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16725
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -127,7 +155,7 @@ mito1version: assembly_rockefeller_trio_1.6
 name: Hemiscyllium ocellatum
 name_: Hemiscyllium_ocellatum
 pat1date: 2021-05-28
-pat1filesize: 1 GiB
+pat1filesize: 1.1 GiB
 pat1length: 4171631382
 pat1n50ctg: 2726060
 pat1n50scf: 41064340

@@ -1,6 +1,6 @@
 ---
 alt1date: 2018-10-16
-alt1filesize: 55 MiB
+alt1filesize: 54.7 MiB
 alt1length: 189975052
 alt1n50ctg: 53126
 alt1n50scf: 53126
@@ -30,43 +30,64 @@ alt1sizes: |
 alt1version: assembly_cambridge
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: brown trout
+data_10x-1_bases: 209.35 Gbp
+data_10x-1_bytes: 142.6 GiB
+data_10x-1_coverage: 88.26x
+data_10x-1_links: s3://genomeark/species/Salmo_trutta/fSalTru1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Salmo_trutta/fSalTru1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salmo_trutta/fSalTru1/genomic_data/10x/
+data_10x-1_scale: 1.3675
 data_10x_bases: 209.35 Gbp
-data_10x_bytes: 142.574 GB
+data_10x_bytes: 142.6 GiB
 data_10x_coverage: 88.26x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Salmo_trutta/fSalTru1/genomic_data/10x/<br>
-data_10x_scale: 1.3675
+data_arima-1_bases: 145.95 Gbp
+data_arima-1_bytes: 71.2 GiB
+data_arima-1_coverage: 61.53x
+data_arima-1_links: s3://genomeark/species/Salmo_trutta/fSalTru1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Salmo_trutta/fSalTru1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salmo_trutta/fSalTru1/genomic_data/arima/
+data_arima-1_scale: 1.9102
 data_arima_bases: 145.95 Gbp
-data_arima_bytes: 71.159 GB
+data_arima_bytes: 71.2 GiB
 data_arima_coverage: 61.53x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Salmo_trutta/fSalTru1/genomic_data/arima/<br>
-data_arima_scale: 1.9102
-data_bionano_bases: 2.59 Gbp
-data_bionano_bytes: 0.592 GB
-data_bionano_coverage: 1.09x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Salmo_trutta/fSalTru1/genomic_data/bionano/<br>
-data_pacbio_bases: 163.35 Gbp
-data_pacbio_bytes: 286.601 GB
-data_pacbio_coverage: 68.87x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Salmo_trutta/fSalTru1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5308
-data_pacbiohifi_bam_bases: 32.28 Gbp
-data_pacbiohifi_bam_bytes: 21.885 GB
-data_pacbiohifi_bam_coverage: 13.61x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Salmo_trutta/fSalTru1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.3739
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 585.8 MiB
+data_bionano-1_coverage: 208.45x
+data_bionano-1_links: s3://genomeark/species/Salmo_trutta/fSalTru1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Salmo_trutta/fSalTru1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salmo_trutta/fSalTru1/genomic_data/bionano/
+data_bionano-1_scale: 804.9089
+data_bionano_bases: N/A
+data_bionano_bytes: 585.8 MiB
+data_bionano_coverage: 208.45x
+data_pacbio-1_bases: 163.26 Gbp
+data_pacbio-1_bytes: 286.4 GiB
+data_pacbio-1_coverage: 68.83x
+data_pacbio-1_links: s3://genomeark/species/Salmo_trutta/fSalTru1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Salmo_trutta/fSalTru1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salmo_trutta/fSalTru1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5308
+data_pacbio_bases: 163.26 Gbp
+data_pacbio_bytes: 286.4 GiB
+data_pacbio_coverage: 68.83x
+data_pacbiohifi_bam-1_bases: 32.24 Gbp
+data_pacbiohifi_bam-1_bytes: 21.9 GiB
+data_pacbiohifi_bam-1_coverage: 13.59x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Salmo_trutta/fSalTru1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Salmo_trutta/fSalTru1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salmo_trutta/fSalTru1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.3739
+data_pacbiohifi_bam_bases: 32.24 Gbp
+data_pacbiohifi_bam_bytes: 21.9 GiB
+data_pacbiohifi_bam_coverage: 13.59x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_pri: fSalTru1:GCA_901001165.2
 genome_size: 2371863509
 genome_size_display: 2.37 Gbp
 last_raw_data: 1651685405
 last_updated: 1651685405
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 5.1 KiB
 mito1length: 16677
 mito1n50ctg: 16677
 mito1n50scf: 16677
@@ -97,7 +118,7 @@ mito1version: assembly_MT_rockefeller
 name: Salmo trutta
 name_: Salmo_trutta
 pri1date: 2019-04-03
-pri1filesize: 624 MiB
+pri1filesize: 623.9 MiB
 pri1length: 2371863509
 pri1n50ctg: 1692994
 pri1n50scf: 52209666

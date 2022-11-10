@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-06-21
-alt1filesize: 238 MiB
+alt1filesize: 237.9 MiB
 alt1length: 819084930
 alt1n50ctg: 612296
 alt1n50scf: 612296
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: pinecone soldierfish
+data_10x-1_bases: 144.84 Gbp
+data_10x-1_bytes: 81.5 GiB
+data_10x-1_coverage: 173.40x
+data_10x-1_links: s3://genomeark/species/Myripristis_murdjan/fMyrMur1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myripristis_murdjan/fMyrMur1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myripristis_murdjan/fMyrMur1/genomic_data/10x/
+data_10x-1_scale: 1.6548
 data_10x_bases: 144.84 Gbp
-data_10x_bytes: 81.514 GB
+data_10x_bytes: 81.5 GiB
 data_10x_coverage: 173.40x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Myripristis_murdjan/fMyrMur1/genomic_data/10x/<br>
-data_10x_scale: 1.6548
+data_arima-1_bases: 136.22 Gbp
+data_arima-1_bytes: 84.3 GiB
+data_arima-1_coverage: 163.09x
+data_arima-1_links: s3://genomeark/species/Myripristis_murdjan/fMyrMur1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myripristis_murdjan/fMyrMur1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myripristis_murdjan/fMyrMur1/genomic_data/arima/
+data_arima-1_scale: 1.5054
 data_arima_bases: 136.22 Gbp
-data_arima_bytes: 84.273 GB
+data_arima_bytes: 84.3 GiB
 data_arima_coverage: 163.09x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Myripristis_murdjan/fMyrMur1/genomic_data/arima/<br>
-data_arima_scale: 1.5054
-data_bionano_bases: 1.09 Gbp
-data_bionano_bytes: 1.851 GB
-data_bionano_coverage: 1.31x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Myripristis_murdjan/fMyrMur1/genomic_data/bionano/<br>
-data_pacbio_bases: 49.46 Gbp
-data_pacbio_bytes: 85.729 GB
-data_pacbio_coverage: 59.21x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Myripristis_murdjan/fMyrMur1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5373
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.8 GiB
+data_bionano-1_coverage: 1539.69x
+data_bionano-1_links: s3://genomeark/species/Myripristis_murdjan/fMyrMur1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myripristis_murdjan/fMyrMur1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myripristis_murdjan/fMyrMur1/genomic_data/bionano/
+data_bionano-1_scale: 648.2271
+data_bionano_bases: N/A
+data_bionano_bytes: 1.8 GiB
+data_bionano_coverage: 1539.69x
+data_pacbio-1_bases: 49.44 Gbp
+data_pacbio-1_bytes: 85.7 GiB
+data_pacbio-1_coverage: 59.19x
+data_pacbio-1_links: s3://genomeark/species/Myripristis_murdjan/fMyrMur1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myripristis_murdjan/fMyrMur1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myripristis_murdjan/fMyrMur1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5373
+data_pacbio_bases: 49.44 Gbp
+data_pacbio_bytes: 85.7 GiB
+data_pacbio_coverage: 59.19x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fMyrMur1:GCA_902148815.1
 genbank_pri: fMyrMur1:GCA_902150065.1
 genome_size: 835254674
@@ -63,7 +80,7 @@ last_updated: 1561653213
 name: Myripristis murdjan
 name_: Myripristis_murdjan
 pri1date: 2019-06-21
-pri1filesize: 242 MiB
+pri1filesize: 241.6 MiB
 pri1length: 835254674
 pri1n50ctg: 14475636
 pri1n50scf: 34950760

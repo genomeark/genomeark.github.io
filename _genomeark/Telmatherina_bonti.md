@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-03-07
-alt1filesize: 200 MiB
+alt1filesize: 199.6 MiB
 alt1length: 781234592
 alt1n50ctg: 323021
 alt1n50scf: 323021
@@ -29,12 +29,16 @@ alt1sizes: |
   </table>
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
-data_pacbiohifi_bam_bases: 33.84 Gbp
-data_pacbiohifi_bam_bytes: 22.791 GB
-data_pacbiohifi_bam_coverage: 34.32x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Telmatherina_bonti/fTelBon1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.3830
+data_pacbiohifi_bam-1_bases: 33.79 Gbp
+data_pacbiohifi_bam-1_bytes: 22.8 GiB
+data_pacbiohifi_bam-1_coverage: 34.27x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Telmatherina_bonti/fTelBon1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Telmatherina_bonti/fTelBon1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Telmatherina_bonti/fTelBon1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.3830
+data_pacbiohifi_bam_bases: 33.79 Gbp
+data_pacbiohifi_bam_bytes: 22.8 GiB
+data_pacbiohifi_bam_coverage: 34.27x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
 genbank_alt: fTelBon1:GCA_933228925.1
 genbank_pri: fTelBon1:GCA_933228915.1
@@ -45,7 +49,7 @@ last_updated: 1651599485
 name: Telmatherina bonti
 name_: Telmatherina_bonti
 pri1date: 2022-03-07
-pri1filesize: 248 MiB
+pri1filesize: 248.0 MiB
 pri1length: 986039709
 pri1n50ctg: 1254875
 pri1n50scf: 41523244

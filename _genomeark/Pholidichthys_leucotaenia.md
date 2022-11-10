@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-07-16
-alt1filesize: 545 MiB
+alt1filesize: 545.4 MiB
 alt1length: 1865716438
 alt1n50ctg: 134817
 alt1n50scf: 136096
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Convict blenny
+data_10x-1_bases: 360.30 Gbp
+data_10x-1_bytes: 183.1 GiB
+data_10x-1_coverage: 59.73x
+data_10x-1_links: s3://genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/10x/
+data_10x-1_scale: 1.8331
 data_10x_bases: 360.30 Gbp
-data_10x_bytes: 183.052 GB
+data_10x_bytes: 183.1 GiB
 data_10x_coverage: 59.73x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/10x/<br>
-data_10x_scale: 1.8331
+data_arima-1_bases: 350.68 Gbp
+data_arima-1_bytes: 227.2 GiB
+data_arima-1_coverage: 58.13x
+data_arima-1_links: s3://genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/arima/
+data_arima-1_scale: 1.4374
 data_arima_bases: 350.68 Gbp
-data_arima_bytes: 227.215 GB
+data_arima_bytes: 227.2 GiB
 data_arima_coverage: 58.13x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/arima/<br>
-data_arima_scale: 1.4374
-data_bionano_bases: 6.64 Gbp
-data_bionano_bytes: 0.856 GB
-data_bionano_coverage: 1.10x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/bionano/<br>
-data_pacbio_bases: 592.80 Gbp
-data_pacbio_bytes: 1076.618 GB
-data_pacbio_coverage: 98.27x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5128
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 862.1 MiB
+data_bionano-1_coverage: 112.08x
+data_bionano-1_links: s3://genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/bionano/
+data_bionano-1_scale: 747.9013
+data_bionano_bases: N/A
+data_bionano_bytes: 862.1 MiB
+data_bionano_coverage: 112.08x
+data_pacbio-1_bases: 592.48 Gbp
+data_pacbio-1_bytes: 1.1 TiB
+data_pacbio-1_coverage: 98.22x
+data_pacbio-1_links: s3://genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5128
+data_pacbio_bases: 592.48 Gbp
+data_pacbio_bytes: 1.1 TiB
+data_pacbio_coverage: 98.22x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fPhoLeu1:GCA_020510965.1
 genbank_pri: fPhoLeu1:GCA_020510985.1
 genome_size: 6032307556
@@ -63,7 +80,7 @@ last_updated: 1626466846
 name: Pholidichthys leucotaenia
 name_: Pholidichthys_leucotaenia
 pri1date: 2021-07-16
-pri1filesize: 2 GiB
+pri1filesize: 1.7 GiB
 pri1length: 6032307556
 pri1n50ctg: 5866050
 pri1n50scf: 435632707

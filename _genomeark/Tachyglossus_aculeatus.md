@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-09-17
-alt1filesize: 519 MiB
+alt1filesize: 519.0 MiB
 alt1length: 1885160879
 alt1n50ctg: 448053
 alt1n50scf: 451621
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: short-beaked echidna
+data_10x-1_bases: 270.18 Gbp
+data_10x-1_bytes: 126.3 GiB
+data_10x-1_coverage: 93.49x
+data_10x-1_links: s3://genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/10x/
+data_10x-1_scale: 1.9918
 data_10x_bases: 270.18 Gbp
-data_10x_bytes: 126.331 GB
+data_10x_bytes: 126.3 GiB
 data_10x_coverage: 93.49x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/10x/<br>
-data_10x_scale: 1.9918
-data_bionano_bases: 4.44 Gbp
-data_bionano_bytes: 1.143 GB
-data_bionano_coverage: 1.54x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/bionano/<br>
-data_pacbio_bases: 168.46 Gbp
-data_pacbio_bytes: 606.932 GB
-data_pacbio_coverage: 58.29x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.2585
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.1 GiB
+data_bionano-1_coverage: 246.21x
+data_bionano-1_links: s3://genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/bionano/
+data_bionano-1_scale: 602.8464
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 246.21x
+data_pacbio-1_bases: 168.41 Gbp
+data_pacbio-1_bytes: 606.8 GiB
+data_pacbio-1_coverage: 58.27x
+data_pacbio-1_links: s3://genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.2585
+data_pacbio_bases: 168.41 Gbp
+data_pacbio_bytes: 606.8 GiB
+data_pacbio_coverage: 58.27x
+data_phase-1_bases: 42.54 Gbp
+data_phase-1_bytes: 23.4 GiB
+data_phase-1_coverage: 14.72x
+data_phase-1_links: s3://genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/phase/<br>
+data_phase-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/phase/
+data_phase-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/phase/
+data_phase-1_scale: 1.6966
 data_phase_bases: 42.54 Gbp
-data_phase_bytes: 23.352 GB
+data_phase_bytes: 23.4 GiB
 data_phase_coverage: 14.72x
-data_phase_files: 666
-data_phase_links: s3://genomeark/species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/phase/<br>
-data_phase_scale: 1.6966
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_alt: mTacAcu1:GCA_015852515.1
 genbank_pri: mTacAcu1:GCA_015852505.1
 genome_size: 2890000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1584648955
 last_updated: 1600456374
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16381
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Tachyglossus aculeatus
 name_: Tachyglossus_aculeatus
 pri1date: 2020-09-17
-pri1filesize: 603 MiB
+pri1filesize: 602.9 MiB
 pri1length: 2213004314
 pri1n50ctg: 12243461
 pri1n50scf: 59605462

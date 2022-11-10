@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-07-24
-alt1filesize: 515 MiB
+alt1filesize: 514.8 MiB
 alt1length: 1764008884
 alt1n50ctg: 147871
 alt1n50scf: 147918
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: European water vole
+data_10x-1_bases: 246.00 Gbp
+data_10x-1_bytes: 152.1 GiB
+data_10x-1_coverage: 107.06x
+data_10x-1_links: s3://genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicola_amphibius/mArvAmp1/genomic_data/10x/
+data_10x-1_scale: 1.5065
 data_10x_bases: 246.00 Gbp
-data_10x_bytes: 152.080 GB
+data_10x_bytes: 152.1 GiB
 data_10x_coverage: 107.06x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/10x/<br>
-data_10x_scale: 1.5065
-data_bionano_bases: 2.53 Gbp
-data_bionano_bytes: 3.790 GB
-data_bionano_coverage: 1.10x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 3.8 GiB
+data_bionano-1_coverage: 1030.11x
+data_bionano-1_links: s3://genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicola_amphibius/mArvAmp1/genomic_data/bionano/
+data_bionano-1_scale: 582.8391
+data_bionano_bases: N/A
+data_bionano_bytes: 3.8 GiB
+data_bionano_coverage: 1030.11x
+data_dovetail-1_bases: 84.67 Gbp
+data_dovetail-1_bytes: 53.5 GiB
+data_dovetail-1_coverage: 36.85x
+data_dovetail-1_links: s3://genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicola_amphibius/mArvAmp1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.4739
 data_dovetail_bases: 84.67 Gbp
-data_dovetail_bytes: 53.501 GB
+data_dovetail_bytes: 53.5 GiB
 data_dovetail_coverage: 36.85x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.4739
-data_pacbio_bases: 152.51 Gbp
-data_pacbio_bytes: 269.719 GB
-data_pacbio_coverage: 66.37x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5266
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_pacbio-1_bases: 152.43 Gbp
+data_pacbio-1_bytes: 269.6 GiB
+data_pacbio-1_coverage: 66.34x
+data_pacbio-1_links: s3://genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Arvicola_amphibius/mArvAmp1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicola_amphibius/mArvAmp1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5266
+data_pacbio_bases: 152.43 Gbp
+data_pacbio_bytes: 269.6 GiB
+data_pacbio_coverage: 66.34x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: mArvAmp1:GCA_903992525.1
 genbank_pri: mArvAmp1:GCA_903992535.2
 genome_size: 2297765997
@@ -63,7 +80,7 @@ last_updated: 1597303643
 name: Arvicola amphibius
 name_: Arvicola_amphibius
 pri1date: 2020-07-24
-pri1filesize: 667 MiB
+pri1filesize: 667.2 MiB
 pri1length: 2297765997
 pri1n50ctg: 5308170
 pri1n50scf: 138658583

@@ -1,6 +1,6 @@
 ---
 alt1date: 2018-12-11
-alt1filesize: 157 MiB
+alt1filesize: 156.5 MiB
 alt1length: 539091056
 alt1n50ctg: 709261
 alt1n50scf: 752903
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: climbing perch
+data_10x-1_bases: 120.49 Gbp
+data_10x-1_bytes: 78.0 GiB
+data_10x-1_coverage: 181.81x
+data_10x-1_links: s3://genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anabas_testudineus/fAnaTes1/genomic_data/10x/
+data_10x-1_scale: 1.4377
 data_10x_bases: 120.49 Gbp
-data_10x_bytes: 78.050 GB
+data_10x_bytes: 78.0 GiB
 data_10x_coverage: 181.81x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/10x/<br>
-data_10x_scale: 1.4377
+data_arima-1_bases: 98.84 Gbp
+data_arima-1_bytes: 50.9 GiB
+data_arima-1_coverage: 149.14x
+data_arima-1_links: s3://genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anabas_testudineus/fAnaTes1/genomic_data/arima/
+data_arima-1_scale: 1.8098
 data_arima_bases: 98.84 Gbp
-data_arima_bytes: 50.861 GB
+data_arima_bytes: 50.9 GiB
 data_arima_coverage: 149.14x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/arima/<br>
-data_arima_scale: 1.8098
-data_bionano_bases: 2.97 Gbp
-data_bionano_bytes: 3.216 GB
-data_bionano_coverage: 4.48x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/bionano/<br>
-data_pacbio_bases: 38.96 Gbp
-data_pacbio_bytes: 69.835 GB
-data_pacbio_coverage: 58.79x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5196
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 3.2 GiB
+data_bionano-1_coverage: 3640.00x
+data_bionano-1_links: s3://genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anabas_testudineus/fAnaTes1/genomic_data/bionano/
+data_bionano-1_scale: 700.1671
+data_bionano_bases: N/A
+data_bionano_bytes: 3.2 GiB
+data_bionano_coverage: 3640.00x
+data_pacbio-1_bases: 38.94 Gbp
+data_pacbio-1_bytes: 69.8 GiB
+data_pacbio-1_coverage: 58.76x
+data_pacbio-1_links: s3://genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Anabas_testudineus/fAnaTes1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anabas_testudineus/fAnaTes1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5196
+data_pacbio_bases: 38.94 Gbp
+data_pacbio_bytes: 69.8 GiB
+data_pacbio_coverage: 58.76x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fAnaTes1:GCA_900650485.1
 genbank_pri: fAnaTes1:GCA_900324465.3
 genome_size: 662696525
@@ -61,7 +78,7 @@ genome_size_display: 0.66 Gbp
 last_raw_data: 1520584604
 last_updated: 1570719699
 mito1date: 2019-10-01
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 17111
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Anabas testudineus
 name_: Anabas_testudineus
 pri1date: 2018-12-11
-pri1filesize: 149 MiB
+pri1filesize: 149.0 MiB
 pri1length: 555641398
 pri1n50ctg: 4568778
 pri1n50scf: 23456640

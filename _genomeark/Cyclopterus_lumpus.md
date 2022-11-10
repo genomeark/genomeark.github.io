@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-10-11
-alt1filesize: 136 MiB
+alt1filesize: 136.4 MiB
 alt1length: 480967379
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: lumpfish
+data_10x-1_bases: 61.32 Gbp
+data_10x-1_bytes: 29.3 GiB
+data_10x-1_coverage: 61.32x
+data_10x-1_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum1/genomic_data/10x/
+data_10x-1_scale: 1.9459
 data_10x_bases: 61.32 Gbp
-data_10x_bytes: 29.348 GB
+data_10x_bytes: 29.3 GiB
 data_10x_coverage: 61.32x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/10x/<br>
-data_10x_scale: 1.9459
+data_arima-1_bases: 89.68 Gbp
+data_arima-1_bytes: 56.3 GiB
+data_arima-1_coverage: 89.68x
+data_arima-1_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum1/genomic_data/arima/
+data_arima-1_scale: 1.4836
 data_arima_bases: 89.68 Gbp
-data_arima_bytes: 56.298 GB
+data_arima_bytes: 56.3 GiB
 data_arima_coverage: 89.68x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/arima/<br>
-data_arima_scale: 1.4836
-data_bionano_bases: 0.69 Gbp
-data_bionano_bytes: 0.673 GB
-data_bionano_coverage: 0.69x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/bionano/<br>
-data_pacbio_bases: 55.80 Gbp
-data_pacbio_bytes: 96.721 GB
-data_pacbio_coverage: 55.80x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5373
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 682.5 MiB
+data_bionano-1_coverage: 508.20x
+data_bionano-1_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum1/genomic_data/bionano/
+data_bionano-1_scale: 710.1708
+data_bionano_bases: N/A
+data_bionano_bytes: 682.5 MiB
+data_bionano_coverage: 508.20x
+data_pacbio-1_bases: 55.78 Gbp
+data_pacbio-1_bytes: 96.7 GiB
+data_pacbio-1_coverage: 55.78x
+data_pacbio-1_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5373
+data_pacbio_bases: 55.78 Gbp
+data_pacbio_bytes: 96.7 GiB
+data_pacbio_coverage: 55.78x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fCycLum1:GCA_009769515.1
 genbank_pri: fCycLum1:GCA_009769545.1
 genome_size: 1000000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1565031189
 last_updated: 1570816797
 mito1date: 2019-10-02
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 17282
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Cyclopterus lumpus
 name_: Cyclopterus_lumpus
 pri1date: 2019-10-11
-pri1filesize: 157 MiB
+pri1filesize: 157.1 MiB
 pri1length: 572885595
 pri1n50ctg: 907248
 pri1n50scf: 17613290

@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-04-09
-alt1filesize: 257 MiB
+alt1filesize: 256.6 MiB
 alt1length: 887567949
 alt1n50ctg: 2519600
 alt1n50scf: 2519600
@@ -29,7 +29,7 @@ alt1sizes: |
   </table>
 alt1version: assembly_curated
 alt2date: 2022-05-27
-alt2filesize: 92 KiB
+alt2filesize: 91.5 KiB
 alt2length: 306067
 alt2n50ctg: 0
 alt2n50scf: 0
@@ -59,54 +59,143 @@ alt2sizes: |
 alt2version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: zebra finch
-data_10x_bases: 410.19 Gbp
-data_10x_bytes: 246.371 GB
-data_10x_coverage: 396.09x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut1/genomic_data/10x/<br>s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/10x/<br>s3://genomeark/species/Taeniopygia_guttata/bTaeGut3/genomic_data/10x/<br>s3://genomeark/species/Taeniopygia_guttata/bTaeGut4/genomic_data/10x/<br>
-data_10x_scale: 1.5506
-data_arima_bases: 251.18 Gbp
-data_arima_bytes: 126.558 GB
-data_arima_coverage: 242.54x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut1/genomic_data/arima/<br>s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/<br>
-data_arima_scale: 1.8484
-data_bionano_bases: 7.21 Gbp
-data_bionano_bytes: 3.428 GB
-data_bionano_coverage: 6.96x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut1/genomic_data/bionano/<br>s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/bionano/<br>
-data_illumina_bases: 138.32 Gbp
-data_illumina_bytes: 71.694 GB
-data_illumina_coverage: 133.56x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut3/genomic_data/illumina/<br>s3://genomeark/species/Taeniopygia_guttata/bTaeGut4/genomic_data/illumina/<br>
-data_illumina_scale: 1.7968
-data_pacbio_bases: 228.54 Gbp
-data_pacbio_bytes: 822.438 GB
-data_pacbio_coverage: 220.68x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut1/genomic_data/pacbio/<br>s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio/<br>s3://genomeark/species/Taeniopygia_guttata/bTaeGut6/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.2588
-data_pacbiohifi_bam_bases: 101.65 Gbp
-data_pacbiohifi_bam_bytes: 76.019 GB
-data_pacbiohifi_bam_coverage: 98.15x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.2453
-data_pacbiohifi_clr_bases: 485.63 Gbp
-data_pacbiohifi_clr_bytes: 903.838 GB
-data_pacbiohifi_clr_coverage: 468.93x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5004
+data_10x-1_bases: 98.70 Gbp
+data_10x-1_bytes: 59.5 GiB
+data_10x-1_coverage: 95.31x
+data_10x-1_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut1/genomic_data/10x/
+data_10x-1_scale: 1.5455
+data_10x-2_bases: 107.06 Gbp
+data_10x-2_bytes: 64.3 GiB
+data_10x-2_coverage: 103.38x
+data_10x-2_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/10x/<br>
+data_10x-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/10x/
+data_10x-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/10x/
+data_10x-2_scale: 1.5509
+data_10x-3_bases: 116.87 Gbp
+data_10x-3_bytes: 58.5 GiB
+data_10x-3_coverage: 112.85x
+data_10x-3_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut3/genomic_data/10x/<br>
+data_10x-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut3/genomic_data/10x/
+data_10x-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut3/genomic_data/10x/
+data_10x-3_scale: 1.8613
+data_10x-4_bases: 127.78 Gbp
+data_10x-4_bytes: 64.1 GiB
+data_10x-4_coverage: 123.39x
+data_10x-4_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut4/genomic_data/10x/<br>
+data_10x-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut4/genomic_data/10x/
+data_10x-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut4/genomic_data/10x/
+data_10x-4_scale: 1.8559
+data_10x_bases: 450.42 Gbp
+data_10x_bytes: 246.4 GiB
+data_10x_coverage: 434.93x
+data_arima-1_bases: 152.55 Gbp
+data_arima-1_bytes: 79.0 GiB
+data_arima-1_coverage: 147.30x
+data_arima-1_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut1/genomic_data/arima/
+data_arima-1_scale: 1.7995
+data_arima-2_bases: 99.04 Gbp
+data_arima-2_bytes: 47.6 GiB
+data_arima-2_coverage: 95.64x
+data_arima-2_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
+data_arima-2_scale: 1.9376
+data_arima_bases: 251.59 Gbp
+data_arima_bytes: 126.6 GiB
+data_arima_coverage: 242.94x
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 246.7 MiB
+data_bionano-1_coverage: 287.16x
+data_bionano-1_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut1/genomic_data/bionano/
+data_bionano-1_scale: 1149.7425
+data_bionano-2_bases: N/A
+data_bionano-2_bytes: 3.1 GiB
+data_bionano-2_coverage: 1994.36x
+data_bionano-2_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/bionano/<br>
+data_bionano-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/bionano/
+data_bionano-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/bionano/
+data_bionano-2_scale: 614.0120
+data_bionano_bases: N/A
+data_bionano_bytes: 3.4 GiB
+data_bionano_coverage: 2281.52x
+data_illumina-3_bases: 66.06 Gbp
+data_illumina-3_bytes: 35.2 GiB
+data_illumina-3_coverage: 63.78x
+data_illumina-3_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut3/genomic_data/illumina/
+data_illumina-3_scale: 1.7483
+data_illumina-4_bases: 68.24 Gbp
+data_illumina-4_bytes: 36.5 GiB
+data_illumina-4_coverage: 65.89x
+data_illumina-4_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut4/genomic_data/illumina/<br>
+data_illumina-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut4/genomic_data/illumina/
+data_illumina-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut4/genomic_data/illumina/
+data_illumina-4_scale: 1.7409
+data_illumina_bases: 134.30 Gbp
+data_illumina_bytes: 71.7 GiB
+data_illumina_coverage: 129.68x
+data_pacbio-1_bases: 109.72 Gbp
+data_pacbio-1_bytes: 392.7 GiB
+data_pacbio-1_coverage: 105.95x
+data_pacbio-1_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.2602
+data_pacbio-2_bases: 102.06 Gbp
+data_pacbio-2_bytes: 181.8 GiB
+data_pacbio-2_coverage: 98.55x
+data_pacbio-2_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio/<br>
+data_pacbio-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio/
+data_pacbio-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio/
+data_pacbio-2_scale: 0.5228
+data_pacbio-6_bases: 139.76 Gbp
+data_pacbio-6_bytes: 247.6 GiB
+data_pacbio-6_coverage: 134.96x
+data_pacbio-6_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut6/genomic_data/pacbio/<br>
+data_pacbio-6_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut6/genomic_data/pacbio/
+data_pacbio-6_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut6/genomic_data/pacbio/
+data_pacbio-6_scale: 0.5257
+data_pacbio_bases: 351.54 Gbp
+data_pacbio_bytes: 822.1 GiB
+data_pacbio_coverage: 339.45x
+data_pacbiohifi_bam-2_bases: 47.60 Gbp
+data_pacbiohifi_bam-2_bytes: 76.0 GiB
+data_pacbiohifi_bam-2_coverage: 45.96x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 0.5831
+data_pacbiohifi_bam_bases: 47.60 Gbp
+data_pacbiohifi_bam_bytes: 76.0 GiB
+data_pacbiohifi_bam_coverage: 45.96x
+data_pacbiohifi_clr-2_bases: 485.43 Gbp
+data_pacbiohifi_clr-2_bytes: 0.9 TiB
+data_pacbiohifi_clr-2_coverage: 468.74x
+data_pacbiohifi_clr-2_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_scale: 0.5004
+data_pacbiohifi_clr_bases: 485.43 Gbp
+data_pacbiohifi_clr_bytes: 0.9 TiB
+data_pacbiohifi_clr_coverage: 468.74x
+data_pacbiohifi_fqgz-2_bases: 39.52 Gbp
+data_pacbiohifi_fqgz-2_bytes: 30.5 GiB
+data_pacbiohifi_fqgz-2_coverage: 38.16x
+data_pacbiohifi_fqgz-2_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-2_scale: 1.2070
 data_pacbiohifi_fqgz_bases: 39.52 Gbp
-data_pacbiohifi_fqgz_bytes: 30.492 GB
+data_pacbiohifi_fqgz_bytes: 30.5 GiB
 data_pacbiohifi_fqgz_coverage: 38.16x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.2070
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_alt: bTaeGut1:GCA_003957525.2 bTaeGut2:GCA_009859025.1
 genbank_mat: bTaeGut2:GCA_008822115.3
 genbank_pat: bTaeGut2:GCA_008822125.1
@@ -116,7 +205,7 @@ genome_size_display: 1.04 Gbp
 last_raw_data: 1651592061
 last_updated: 1662416643
 mat2date: 2022-05-27
-mat2filesize: 289 MiB
+mat2filesize: 289.3 MiB
 mat2length: 1021085914
 mat2n50ctg: 8471529
 mat2n50scf: 72150601
@@ -145,7 +234,7 @@ mat2sizes: |
   </table>
 mat2version: assembly_curated
 mgd2date: 2022-09-05
-mgd2filesize: 328 MiB
+mgd2filesize: 327.9 MiB
 mgd2length: 1166567356
 mgd2n50ctg: 8218280
 mgd2n50scf: 72811203
@@ -174,7 +263,7 @@ mgd2sizes: |
   </table>
 mgd2version: assembly_curated
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16855
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -203,7 +292,7 @@ mito1sizes: |
   </table>
 mito1version: assembly_MT_rockefeller
 mito2date: 2019-10-03
-mito2filesize: 5 KiB
+mito2filesize: 5.0 KiB
 mito2length: 16856
 mito2n50ctg: 0
 mito2n50scf: 0
@@ -234,7 +323,7 @@ mito2version: assembly_MT_rockefeller
 name: Taeniopygia guttata
 name_: Taeniopygia_guttata
 pat2date: 2020-01-24
-pat2filesize: 298 MiB
+pat2filesize: 298.1 MiB
 pat2length: 1047573732
 pat2n50ctg: 4426777
 pat2n50scf: 71343966
@@ -263,7 +352,7 @@ pat2sizes: |
   </table>
 pat2version: assembly_curated
 pri1date: 2021-04-09
-pri1filesize: 298 MiB
+pri1filesize: 298.4 MiB
 pri1length: 1035408015
 pri1n50ctg: 9018386
 pri1n50scf: 71569005
@@ -292,7 +381,7 @@ pri1sizes: |
   </table>
 pri1version: assembly_curated
 pri2date: 2022-04-25
-pri2filesize: 309 MiB
+pri2filesize: 309.4 MiB
 pri2length: 1097792017
 pri2n50ctg: 7846396
 pri2n50scf: 72884614

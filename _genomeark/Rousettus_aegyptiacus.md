@@ -1,30 +1,47 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: Egyptian fruit bat
+data_10x-1_bases: 112.49 Gbp
+data_10x-1_bytes: 56.1 GiB
+data_10x-1_coverage: 53.31x
+data_10x-1_links: s3://genomeark/species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/10x/
+data_10x-1_scale: 1.8673
 data_10x_bases: 112.49 Gbp
-data_10x_bytes: 56.105 GB
+data_10x_bytes: 56.1 GiB
 data_10x_coverage: 53.31x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/10x/<br>
-data_10x_scale: 1.8673
+data_arima-1_bases: 22.84 Gbp
+data_arima-1_bytes: 14.8 GiB
+data_arima-1_coverage: 10.82x
+data_arima-1_links: s3://genomeark/species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/arima/
+data_arima-1_scale: 1.4382
 data_arima_bases: 22.84 Gbp
-data_arima_bytes: 14.790 GB
+data_arima_bytes: 14.8 GiB
 data_arima_coverage: 10.82x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/arima/<br>
-data_arima_scale: 1.4382
-data_bionano_bases: 0.58 Gbp
-data_bionano_bytes: 1.033 GB
-data_bionano_coverage: 0.27x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/bionano/<br>
-data_pacbio_bases: 122.43 Gbp
-data_pacbio_bytes: 217.105 GB
-data_pacbio_coverage: 58.02x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5252
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.0 GiB
+data_bionano-1_coverage: 725.93x
+data_bionano-1_links: s3://genomeark/species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/bionano/
+data_bionano-1_scale: 1393.3942
+data_bionano_bases: N/A
+data_bionano_bytes: 1.0 GiB
+data_bionano_coverage: 725.93x
+data_pacbio-1_bases: 122.36 Gbp
+data_pacbio-1_bytes: 217.0 GiB
+data_pacbio-1_coverage: 57.99x
+data_pacbio-1_links: s3://genomeark/species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5252
+data_pacbio_bases: 122.36 Gbp
+data_pacbio_bytes: 217.0 GiB
+data_pacbio_coverage: 57.99x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_pri: mRouAeg1:GCA_014176215.1
 genome_size: 2109999999
 genome_size_display: 2.11 Gbp
@@ -34,7 +51,7 @@ last_updated: 1582492214
 name: Rousettus aegyptiacus
 name_: Rousettus_aegyptiacus
 pri1date: 2019-04-27
-pri1filesize: 599 MiB
+pri1filesize: 598.8 MiB
 pri1length: 1893602072
 pri1n50ctg: 18628968
 pri1n50scf: 112742020

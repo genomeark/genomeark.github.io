@@ -1,43 +1,71 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: South Island takahe
+data_arima-1_bases: 123.89 Gbp
+data_arima-1_bytes: 84.2 GiB
+data_arima-1_coverage: 103.24x
+data_arima-1_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/arima/
+data_arima-1_scale: 1.3699
 data_arima_bases: 123.89 Gbp
-data_arima_bytes: 84.223 GB
+data_arima_bytes: 84.2 GiB
 data_arima_coverage: 103.24x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/arima/<br>
-data_arima_scale: 1.3699
-data_bionano_bases: 1.30 Gbp
-data_bionano_bytes: 0.871 GB
-data_bionano_coverage: 1.09x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/bionano/<br>
-data_illumina_bases: 168.44 Gbp
-data_illumina_bytes: 79.203 GB
-data_illumina_coverage: 140.36x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc2/genomic_data/illumina/<br>s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc3/genomic_data/illumina/<br>
-data_illumina_scale: 1.9806
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 872.8 MiB
+data_bionano-1_coverage: 407.45x
+data_bionano-1_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/bionano/
+data_bionano-1_scale: 534.2192
+data_bionano_bases: N/A
+data_bionano_bytes: 872.8 MiB
+data_bionano_coverage: 407.45x
+data_illumina-2_bases: 99.86 Gbp
+data_illumina-2_bytes: 47.0 GiB
+data_illumina-2_coverage: 83.22x
+data_illumina-2_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Porphyrio_hochstetteri/bPorHoc2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Porphyrio_hochstetteri/bPorHoc2/genomic_data/illumina/
+data_illumina-2_scale: 1.9787
+data_illumina-3_bases: 68.15 Gbp
+data_illumina-3_bytes: 32.2 GiB
+data_illumina-3_coverage: 56.79x
+data_illumina-3_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Porphyrio_hochstetteri/bPorHoc3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Porphyrio_hochstetteri/bPorHoc3/genomic_data/illumina/
+data_illumina-3_scale: 1.9712
+data_illumina_bases: 168.02 Gbp
+data_illumina_bytes: 79.2 GiB
+data_illumina_coverage: 140.01x
+data_pacbiohifi_bam-1_bases: 43.98 Gbp
+data_pacbiohifi_bam-1_bytes: 36.5 GiB
+data_pacbiohifi_bam-1_coverage: 36.65x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.1230
 data_pacbiohifi_bam_bases: 43.98 Gbp
-data_pacbiohifi_bam_bytes: 36.476 GB
+data_pacbiohifi_bam_bytes: 36.5 GiB
 data_pacbiohifi_bam_coverage: 36.65x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1230
-data_pacbiohifi_clr_bases: 774.32 Gbp
-data_pacbiohifi_clr_bytes: 1401.360 GB
-data_pacbiohifi_clr_coverage: 645.26x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5146
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_pacbiohifi_clr-1_bases: 773.99 Gbp
+data_pacbiohifi_clr-1_bytes: 1.4 TiB
+data_pacbiohifi_clr-1_coverage: 644.99x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5146
+data_pacbiohifi_clr_bases: 773.99 Gbp
+data_pacbiohifi_clr_bytes: 1.4 TiB
+data_pacbiohifi_clr_coverage: 644.99x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_pat: bPorHoc1:GCA_020801775.1
 genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 last_raw_data: 1651601059
 last_updated: 1651601059
 mat1date: 2021-07-20
-mat1filesize: 329 MiB
+mat1filesize: 329.1 MiB
 mat1length: 1179292245
 mat1n50ctg: 13469758
 mat1n50scf: 54210398
@@ -66,7 +94,7 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mgd1date: 2021-07-20
-mgd1filesize: 358 MiB
+mgd1filesize: 358.2 MiB
 mgd1length: 1270322674
 mgd1n50ctg: 13521236
 mgd1n50scf: 92514803
@@ -95,7 +123,7 @@ mgd1sizes: |
   </table>
 mgd1version: assembly_curated
 mito1date: 2021-06-04
-mito1filesize: 5 KiB
+mito1filesize: 5.4 KiB
 mito1length: 16988
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -126,7 +154,7 @@ mito1version: assembly_vgp_standard_2.0
 name: Porphyrio hochstetteri
 name_: Porphyrio_hochstetteri
 pat1date: 2021-07-20
-pat1filesize: 352 MiB
+pat1filesize: 351.6 MiB
 pat1length: 1245128614
 pat1n50ctg: 13967171
 pat1n50scf: 71521518

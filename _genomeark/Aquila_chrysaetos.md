@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-07-02
-alt1filesize: 242 MiB
+alt1filesize: 241.6 MiB
 alt1length: 823060160
 alt1n50ctg: 640223
 alt1n50scf: 659735
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: European golden eagle
+data_10x-1_bases: 130.41 Gbp
+data_10x-1_bytes: 80.2 GiB
+data_10x-1_coverage: 108.36x
+data_10x-1_links: s3://genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aquila_chrysaetos/bAquChr1/genomic_data/10x/
+data_10x-1_scale: 1.5143
 data_10x_bases: 130.41 Gbp
-data_10x_bytes: 80.203 GB
+data_10x_bytes: 80.2 GiB
 data_10x_coverage: 108.36x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/10x/<br>
-data_10x_scale: 1.5143
-data_bionano_bases: 1.32 Gbp
-data_bionano_bytes: 0.501 GB
-data_bionano_coverage: 1.10x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 508.5 MiB
+data_bionano-1_coverage: 319.88x
+data_bionano-1_links: s3://genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aquila_chrysaetos/bAquChr1/genomic_data/bionano/
+data_bionano-1_scale: 722.0255
+data_bionano_bases: N/A
+data_bionano_bytes: 508.5 MiB
+data_bionano_coverage: 319.88x
+data_dovetail-1_bases: 120.80 Gbp
+data_dovetail-1_bytes: 78.0 GiB
+data_dovetail-1_coverage: 100.38x
+data_dovetail-1_links: s3://genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aquila_chrysaetos/bAquChr1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.4426
 data_dovetail_bases: 120.80 Gbp
-data_dovetail_bytes: 77.987 GB
+data_dovetail_bytes: 78.0 GiB
 data_dovetail_coverage: 100.38x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.4426
-data_pacbio_bases: 74.05 Gbp
-data_pacbio_bytes: 131.083 GB
-data_pacbio_coverage: 61.53x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5261
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_pacbio-1_bases: 74.01 Gbp
+data_pacbio-1_bytes: 131.0 GiB
+data_pacbio-1_coverage: 61.50x
+data_pacbio-1_links: s3://genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aquila_chrysaetos/bAquChr1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aquila_chrysaetos/bAquChr1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5261
+data_pacbio_bases: 74.01 Gbp
+data_pacbio_bytes: 131.0 GiB
+data_pacbio_coverage: 61.50x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: bAquChr1:GCA_902153765.2
 genbank_pri: bAquChr1:GCA_900496995.4
 genome_size: 1203454851
@@ -61,7 +78,7 @@ genome_size_display: 1.20 Gbp
 last_raw_data: 1554458077
 last_updated: 1570719699
 mito1date: 2019-10-01
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 18265
 mito1n50ctg: 18265
 mito1n50scf: 18265
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Aquila chrysaetos chrysaetos
 name_: Aquila_chrysaetos
 pri1date: 2019-07-02
-pri1filesize: 352 MiB
+pri1filesize: 352.1 MiB
 pri1length: 1203454851
 pri1n50ctg: 21924221
 pri1n50scf: 46934974

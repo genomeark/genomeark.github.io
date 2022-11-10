@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-06-15
-alt1filesize: 730 MiB
+alt1filesize: 729.6 MiB
 alt1length: 2903978491
 alt1n50ctg: 2236403
 alt1n50scf: 2259288
@@ -30,24 +30,36 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: red deer
+data_10x-1_bases: 123.07 Gbp
+data_10x-1_bytes: 72.6 GiB
+data_10x-1_coverage: 42.63x
+data_10x-1_links: s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cervus_elaphus/mCerEla1/genomic_data/10x/
+data_10x-1_scale: 1.5795
 data_10x_bases: 123.07 Gbp
-data_10x_bytes: 72.565 GB
+data_10x_bytes: 72.6 GiB
 data_10x_coverage: 42.63x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/10x/<br>
-data_10x_scale: 1.5795
+data_arima-1_bases: 461.54 Gbp
+data_arima-1_bytes: 225.2 GiB
+data_arima-1_coverage: 159.89x
+data_arima-1_links: s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cervus_elaphus/mCerEla1/genomic_data/arima/
+data_arima-1_scale: 1.9084
 data_arima_bases: 461.54 Gbp
-data_arima_bytes: 225.239 GB
+data_arima_bytes: 225.2 GiB
 data_arima_coverage: 159.89x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/arima/<br>
-data_arima_scale: 1.9084
-data_pacbiohifi_bam_bases: 96.28 Gbp
-data_pacbiohifi_bam_bytes: 82.448 GB
-data_pacbiohifi_bam_coverage: 33.35x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.0876
+data_pacbiohifi_bam-1_bases: 96.21 Gbp
+data_pacbiohifi_bam-1_bytes: 82.4 GiB
+data_pacbiohifi_bam-1_coverage: 33.33x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cervus_elaphus/mCerEla1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cervus_elaphus/mCerEla1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.0876
+data_pacbiohifi_bam_bases: 96.21 Gbp
+data_pacbiohifi_bam_bytes: 82.4 GiB
+data_pacbiohifi_bam_coverage: 33.33x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: mCerEla1:GCA_910593805.1
 genbank_pri: mCerEla1:GCA_910594005.1
@@ -58,7 +70,7 @@ last_updated: 1651593289
 name: Cervus elaphus
 name_: Cervus_elaphus
 pri1date: 2021-06-15
-pri1filesize: 778 MiB
+pri1filesize: 777.6 MiB
 pri1length: 2886619877
 pri1n50ctg: 68741660
 pri1n50scf: 83473711

@@ -1,18 +1,26 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: Cory's Shearwater
+data_arima-6_bases: 124.86 Gbp
+data_arima-6_bytes: 58.4 GiB
+data_arima-6_coverage: N/A
+data_arima-6_links: s3://genomeark/species/Calonectris_borealis/bCalBor6/genomic_data/arima/<br>
+data_arima-6_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Calonectris_borealis/bCalBor6/genomic_data/arima/
+data_arima-6_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Calonectris_borealis/bCalBor6/genomic_data/arima/
+data_arima-6_scale: 1.9911
 data_arima_bases: 124.86 Gbp
-data_arima_bytes: 58.402 GB
+data_arima_bytes: 58.4 GiB
 data_arima_coverage: N/A
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Calonectris_borealis/bCalBor6/genomic_data/arima/<br>
-data_arima_scale: 1.9911
+data_pacbiohifi_bam-6_bases: 2.56 Gbp
+data_pacbiohifi_bam-6_bytes: 9.1 GiB
+data_pacbiohifi_bam-6_coverage: N/A
+data_pacbiohifi_bam-6_links: s3://genomeark/species/Calonectris_borealis/bCalBor6/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-6_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Calonectris_borealis/bCalBor6/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-6_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Calonectris_borealis/bCalBor6/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-6_scale: 0.2616
 data_pacbiohifi_bam_bases: 2.56 Gbp
-data_pacbiohifi_bam_bytes: 9.128 GB
+data_pacbiohifi_bam_bytes: 9.1 GiB
 data_pacbiohifi_bam_coverage: N/A
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Calonectris_borealis/bCalBor6/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 0.2616
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
 last_raw_data: 1651605195

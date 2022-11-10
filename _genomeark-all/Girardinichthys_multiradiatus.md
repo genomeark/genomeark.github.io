@@ -1,0 +1,1 @@
+../_genomeark/Girardinichthys_multiradiatus.md

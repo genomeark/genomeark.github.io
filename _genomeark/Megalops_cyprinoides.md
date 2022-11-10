@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-04-24
-alt1filesize: 271 MiB
+alt1filesize: 271.3 MiB
 alt1length: 920469332
 alt1n50ctg: 353491
 alt1n50scf: 353491
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Indo-Pacific tarpon
+data_10x-1_bases: 90.23 Gbp
+data_10x-1_bytes: 44.7 GiB
+data_10x-1_coverage: 82.54x
+data_10x-1_links: s3://genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Megalops_cyprinoides/fMegCyp1/genomic_data/10x/
+data_10x-1_scale: 1.8808
 data_10x_bases: 90.23 Gbp
-data_10x_bytes: 44.681 GB
+data_10x_bytes: 44.7 GiB
 data_10x_coverage: 82.54x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/10x/<br>
-data_10x_scale: 1.8808
+data_arima-1_bases: 86.43 Gbp
+data_arima-1_bytes: 52.1 GiB
+data_arima-1_coverage: 79.06x
+data_arima-1_links: s3://genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Megalops_cyprinoides/fMegCyp1/genomic_data/arima/
+data_arima-1_scale: 1.5446
 data_arima_bases: 86.43 Gbp
-data_arima_bytes: 52.112 GB
+data_arima_bytes: 52.1 GiB
 data_arima_coverage: 79.06x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/arima/<br>
-data_arima_scale: 1.5446
-data_bionano_bases: 1.05 Gbp
-data_bionano_bytes: 0.556 GB
-data_bionano_coverage: 0.96x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/bionano/<br>
-data_pacbio_bases: 114.03 Gbp
-data_pacbio_bytes: 203.205 GB
-data_pacbio_coverage: 104.30x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5226
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 566.1 MiB
+data_bionano-1_coverage: 426.17x
+data_bionano-1_links: s3://genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Megalops_cyprinoides/fMegCyp1/genomic_data/bionano/
+data_bionano-1_scale: 784.8838
+data_bionano_bases: N/A
+data_bionano_bytes: 566.1 MiB
+data_bionano_coverage: 426.17x
+data_pacbio-1_bases: 113.96 Gbp
+data_pacbio-1_bytes: 203.1 GiB
+data_pacbio-1_coverage: 104.24x
+data_pacbio-1_links: s3://genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Megalops_cyprinoides/fMegCyp1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Megalops_cyprinoides/fMegCyp1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5226
+data_pacbio_bases: 113.96 Gbp
+data_pacbio_bytes: 203.1 GiB
+data_pacbio_coverage: 104.24x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fMegCyp1:GCA_013368575.1
 genbank_pri: fMegCyp1:GCA_013368585.1
 genome_size: 1093257451
@@ -62,7 +79,7 @@ genome_size_method: genomescope
 last_raw_data: 1570701747
 last_updated: 1589471718
 mito1date: 2019-10-02
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 17143
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Megalops cyprinoides
 name_: Megalops_cyprinoides
 pri1date: 2020-04-24
-pri1filesize: 279 MiB
+pri1filesize: 278.7 MiB
 pri1length: 959241634
 pri1n50ctg: 23339181
 pri1n50scf: 37498192

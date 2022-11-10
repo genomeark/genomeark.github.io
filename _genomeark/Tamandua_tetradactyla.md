@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-02-03
-alt1filesize: 847 MiB
+alt1filesize: 846.8 MiB
 alt1length: 2898984517
 alt1n50ctg: 357687
 alt1n50scf: 357687
@@ -30,37 +30,54 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: southern tamandua
+data_10x-1_bases: 310.46 Gbp
+data_10x-1_bytes: 146.9 GiB
+data_10x-1_coverage: 77.23x
+data_10x-1_links: s3://genomeark/species/Tamandua_tetradactyla/mTamTet1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tamandua_tetradactyla/mTamTet1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tamandua_tetradactyla/mTamTet1/genomic_data/10x/
+data_10x-1_scale: 1.9689
 data_10x_bases: 310.46 Gbp
-data_10x_bytes: 146.854 GB
+data_10x_bytes: 146.9 GiB
 data_10x_coverage: 77.23x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Tamandua_tetradactyla/mTamTet1/genomic_data/10x/<br>
-data_10x_scale: 1.9689
+data_arima-1_bases: 323.25 Gbp
+data_arima-1_bytes: 159.0 GiB
+data_arima-1_coverage: 80.41x
+data_arima-1_links: s3://genomeark/species/Tamandua_tetradactyla/mTamTet1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tamandua_tetradactyla/mTamTet1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tamandua_tetradactyla/mTamTet1/genomic_data/arima/
+data_arima-1_scale: 1.8928
 data_arima_bases: 323.25 Gbp
-data_arima_bytes: 159.050 GB
+data_arima_bytes: 159.0 GiB
 data_arima_coverage: 80.41x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Tamandua_tetradactyla/mTamTet1/genomic_data/arima/<br>
-data_arima_scale: 1.8928
-data_bionano_bases: 3.75 Gbp
-data_bionano_bytes: 3.867 GB
-data_bionano_coverage: 0.93x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Tamandua_tetradactyla/mTamTet1/genomic_data/bionano/<br>
-data_pacbio_bases: 267.98 Gbp
-data_pacbio_bytes: 472.511 GB
-data_pacbio_coverage: 66.66x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Tamandua_tetradactyla/mTamTet1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5282
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 3.9 GiB
+data_bionano-1_coverage: 478.92x
+data_bionano-1_links: s3://genomeark/species/Tamandua_tetradactyla/mTamTet1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tamandua_tetradactyla/mTamTet1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tamandua_tetradactyla/mTamTet1/genomic_data/bionano/
+data_bionano-1_scale: 465.2311
+data_bionano_bases: N/A
+data_bionano_bytes: 3.9 GiB
+data_bionano_coverage: 478.92x
+data_pacbio-1_bases: 267.93 Gbp
+data_pacbio-1_bytes: 472.4 GiB
+data_pacbio-1_coverage: 66.65x
+data_pacbio-1_links: s3://genomeark/species/Tamandua_tetradactyla/mTamTet1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tamandua_tetradactyla/mTamTet1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tamandua_tetradactyla/mTamTet1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5282
+data_pacbio_bases: 267.93 Gbp
+data_pacbio_bytes: 472.4 GiB
+data_pacbio_coverage: 66.65x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 4020000000
 genome_size_display: 4.02 Gbp
 genome_size_method: GoAT
 last_raw_data: 1567182765
 last_updated: 1653624324
 mito1date: 2022-02-03
-mito1filesize: 5 KiB
+mito1filesize: 4.8 KiB
 mito1length: 16394
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -91,7 +108,7 @@ mito1version: assembly_curated
 name: Tamandua tetradactyla
 name_: Tamandua_tetradactyla
 pri1date: 2022-02-03
-pri1filesize: 931 MiB
+pri1filesize: 0.9 GiB
 pri1length: 3205741135
 pri1n50ctg: 7118616
 pri1n50scf: 103053378

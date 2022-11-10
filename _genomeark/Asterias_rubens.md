@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-08-09
-alt1filesize: 112 MiB
+alt1filesize: 112.3 MiB
 alt1length: 390768305
 alt1n50ctg: 161267
 alt1n50scf: 161267
@@ -30,24 +30,36 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common starfish
+data_dovetail-1_bases: 121.28 Gbp
+data_dovetail-1_bytes: 77.7 GiB
+data_dovetail-1_coverage: 290.42x
+data_dovetail-1_links: s3://genomeark/species/Asterias_rubens/eAstRub1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Asterias_rubens/eAstRub1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Asterias_rubens/eAstRub1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.4540
 data_dovetail_bases: 121.28 Gbp
-data_dovetail_bytes: 77.682 GB
+data_dovetail_bytes: 77.7 GiB
 data_dovetail_coverage: 290.42x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Asterias_rubens/eAstRub1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.4540
+data_illumina-1_bases: 119.26 Gbp
+data_illumina-1_bytes: 78.8 GiB
+data_illumina-1_coverage: 285.57x
+data_illumina-1_links: s3://genomeark/species/Asterias_rubens/eAstRub1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Asterias_rubens/eAstRub1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Asterias_rubens/eAstRub1/genomic_data/illumina/
+data_illumina-1_scale: 1.4094
 data_illumina_bases: 119.26 Gbp
-data_illumina_bytes: 78.804 GB
+data_illumina_bytes: 78.8 GiB
 data_illumina_coverage: 285.57x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Asterias_rubens/eAstRub1/genomic_data/illumina/<br>
-data_illumina_scale: 1.4094
-data_pacbio_bases: 47.06 Gbp
-data_pacbio_bytes: 83.954 GB
-data_pacbio_coverage: 112.68x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Asterias_rubens/eAstRub1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5220
+data_pacbio-1_bases: 47.02 Gbp
+data_pacbio-1_bytes: 83.9 GiB
+data_pacbio-1_coverage: 112.59x
+data_pacbio-1_links: s3://genomeark/species/Asterias_rubens/eAstRub1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Asterias_rubens/eAstRub1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Asterias_rubens/eAstRub1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5220
+data_pacbio_bases: 47.02 Gbp
+data_pacbio_bytes: 83.9 GiB
+data_pacbio_coverage: 112.59x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_alt: eAstRub1:GCA_902459445.1
 genbank_pri: eAstRub1:GCA_902459465.3
@@ -56,7 +68,7 @@ genome_size_display: 417.60 Mbp
 last_raw_data: 1565272838
 last_updated: 1575763686
 mito1date: 2019-12-07
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16418
 mito1n50ctg: 16418
 mito1n50scf: 16418
@@ -87,7 +99,7 @@ mito1version: assembly_MT_rockefeller
 name: Asterias rubens
 name_: Asterias_rubens
 pri1date: 2019-08-09
-pri1filesize: 119 MiB
+pri1filesize: 119.3 MiB
 pri1length: 417601740
 pri1n50ctg: 1383654
 pri1n50scf: 20558067

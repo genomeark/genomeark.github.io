@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-12-16
-alt1filesize: 235 MiB
+alt1filesize: 235.3 MiB
 alt1length: 818939194
 alt1n50ctg: 1547897
 alt1n50scf: 1610964
@@ -30,24 +30,36 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Atlantic horse mackerel
+data_10x-1_bases: 111.34 Gbp
+data_10x-1_bytes: 71.0 GiB
+data_10x-1_coverage: 135.75x
+data_10x-1_links: s3://genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trachurus_trachurus/fTraTra1/genomic_data/10x/
+data_10x-1_scale: 1.4600
 data_10x_bases: 111.34 Gbp
-data_10x_bytes: 71.023 GB
+data_10x_bytes: 71.0 GiB
 data_10x_coverage: 135.75x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/10x/<br>
-data_10x_scale: 1.4600
+data_arima-1_bases: 85.58 Gbp
+data_arima-1_bytes: 52.5 GiB
+data_arima-1_coverage: 104.34x
+data_arima-1_links: s3://genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trachurus_trachurus/fTraTra1/genomic_data/arima/
+data_arima-1_scale: 1.5188
 data_arima_bases: 85.58 Gbp
-data_arima_bytes: 52.475 GB
+data_arima_bytes: 52.5 GiB
 data_arima_coverage: 104.34x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/arima/<br>
-data_arima_scale: 1.5188
-data_pacbio_bases: 138.57 Gbp
-data_pacbio_bytes: 248.090 GB
-data_pacbio_coverage: 168.96x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5202
+data_pacbio-1_bases: 138.52 Gbp
+data_pacbio-1_bytes: 248.0 GiB
+data_pacbio-1_coverage: 168.89x
+data_pacbio-1_links: s3://genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trachurus_trachurus/fTraTra1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5202
+data_pacbio_bases: 138.52 Gbp
+data_pacbio_bytes: 248.0 GiB
+data_pacbio_coverage: 168.89x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fTraTra1:GCA_905171655.2
 genbank_pri: fTraTra1:GCA_905171665.2
@@ -56,7 +68,7 @@ genome_size_display: 0.82 Gbp
 last_raw_data: 1576663199
 last_updated: 1608197281
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 5.3 KiB
 mito1length: 16561
 mito1n50ctg: 16561
 mito1n50scf: 16561
@@ -87,7 +99,7 @@ mito1version: assembly_MT_rockefeller
 name: Trachurus trachurus
 name_: Trachurus_trachurus
 pri1date: 2020-12-16
-pri1filesize: 235 MiB
+pri1filesize: 235.0 MiB
 pri1length: 820163303
 pri1n50ctg: 6264696
 pri1n50scf: 35447499

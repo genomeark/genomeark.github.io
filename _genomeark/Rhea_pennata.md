@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-06-17
-alt1filesize: 29 MiB
+alt1filesize: 29.2 MiB
 alt1length: 104446743
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: lesser rhea
+data_arima-1_bases: 44.48 Gbp
+data_arima-1_bytes: 22.6 GiB
+data_arima-1_coverage: 27.04x
+data_arima-1_links: s3://genomeark/species/Rhea_pennata/bPtePen1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhea_pennata/bPtePen1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhea_pennata/bPtePen1/genomic_data/arima/
+data_arima-1_scale: 1.8336
 data_arima_bases: 44.48 Gbp
-data_arima_bytes: 22.593 GB
+data_arima_bytes: 22.6 GiB
 data_arima_coverage: 27.04x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Rhea_pennata/bPtePen1/genomic_data/arima/<br>
-data_arima_scale: 1.8336
-data_bionano_bases: 1.29 Gbp
-data_bionano_bytes: 1.101 GB
-data_bionano_coverage: 0.79x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Rhea_pennata/bPtePen1/genomic_data/bionano/<br>
-data_pacbiohifi_bam_bases: 232.20 Gbp
-data_pacbiohifi_bam_bytes: 187.251 GB
-data_pacbiohifi_bam_coverage: 141.16x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1549
-data_pacbiohifi_clr_bases: 211.00 Gbp
-data_pacbiohifi_clr_bytes: 489.919 GB
-data_pacbiohifi_clr_coverage: 128.27x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.4011
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.1 GiB
+data_bionano-1_coverage: 365.53x
+data_bionano-1_links: s3://genomeark/species/Rhea_pennata/bPtePen1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhea_pennata/bPtePen1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhea_pennata/bPtePen1/genomic_data/bionano/
+data_bionano-1_scale: 517.6139
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 365.53x
+data_pacbiohifi_bam-1_bases: 54.17 Gbp
+data_pacbiohifi_bam-1_bytes: 187.3 GiB
+data_pacbiohifi_bam-1_coverage: 32.93x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2694
+data_pacbiohifi_bam_bases: 54.17 Gbp
+data_pacbiohifi_bam_bytes: 187.3 GiB
+data_pacbiohifi_bam_coverage: 32.93x
+data_pacbiohifi_clr-1_bases: 210.95 Gbp
+data_pacbiohifi_clr-1_bytes: 489.8 GiB
+data_pacbiohifi_clr-1_coverage: 128.24x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.4011
+data_pacbiohifi_clr_bases: 210.95 Gbp
+data_pacbiohifi_clr_bytes: 489.8 GiB
+data_pacbiohifi_clr_coverage: 128.24x
+data_pacbiohifi_fqgz-1_bases: 54.15 Gbp
+data_pacbiohifi_fqgz-1_bytes: 43.7 GiB
+data_pacbiohifi_fqgz-1_coverage: 32.92x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.1547
 data_pacbiohifi_fqgz_bases: 54.15 Gbp
-data_pacbiohifi_fqgz_bytes: 43.676 GB
+data_pacbiohifi_fqgz_bytes: 43.7 GiB
 data_pacbiohifi_fqgz_coverage: 32.92x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.1547
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1645000000
 genome_size_display: 1.65 Gbp
 genome_size_method: GoAT
@@ -68,7 +89,7 @@ last_updated: 1655457086
 name: Rhea pennata
 name_: Rhea_pennata
 pri1date: 2022-06-17
-pri1filesize: 358 MiB
+pri1filesize: 358.3 MiB
 pri1length: 1269000025
 pri1n50ctg: 12985132
 pri1n50scf: 41212425

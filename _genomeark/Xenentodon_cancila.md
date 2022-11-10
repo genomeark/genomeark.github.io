@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-04-24
-alt1filesize: 192 MiB
+alt1filesize: 192.0 MiB
 alt1length: 658557970
 alt1n50ctg: 211426
 alt1n50scf: 211426
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: freshwater garfish
+data_10x-1_bases: 64.25 Gbp
+data_10x-1_bytes: 29.2 GiB
+data_10x-1_coverage: 87.28x
+data_10x-1_links: s3://genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Xenentodon_cancila/fXenCan1/genomic_data/10x/
+data_10x-1_scale: 2.0478
 data_10x_bases: 64.25 Gbp
-data_10x_bytes: 29.222 GB
+data_10x_bytes: 29.2 GiB
 data_10x_coverage: 87.28x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/10x/<br>
-data_10x_scale: 2.0478
+data_arima-1_bases: 100.15 Gbp
+data_arima-1_bytes: 61.5 GiB
+data_arima-1_coverage: 136.03x
+data_arima-1_links: s3://genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Xenentodon_cancila/fXenCan1/genomic_data/arima/
+data_arima-1_scale: 1.5156
 data_arima_bases: 100.15 Gbp
-data_arima_bytes: 61.539 GB
+data_arima_bytes: 61.5 GiB
 data_arima_coverage: 136.03x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/arima/<br>
-data_arima_scale: 1.5156
-data_bionano_bases: 1.25 Gbp
-data_bionano_bytes: 0.396 GB
-data_bionano_coverage: 1.70x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/bionano/<br>
-data_pacbio_bases: 63.15 Gbp
-data_pacbio_bytes: 111.435 GB
-data_pacbio_coverage: 85.78x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5278
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 402.2 MiB
+data_bionano-1_coverage: 423.85x
+data_bionano-1_links: s3://genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Xenentodon_cancila/fXenCan1/genomic_data/bionano/
+data_bionano-1_scale: 739.8307
+data_bionano_bases: N/A
+data_bionano_bytes: 402.2 MiB
+data_bionano_coverage: 423.85x
+data_pacbio-1_bases: 63.12 Gbp
+data_pacbio-1_bytes: 111.4 GiB
+data_pacbio-1_coverage: 85.74x
+data_pacbio-1_links: s3://genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Xenentodon_cancila/fXenCan1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Xenentodon_cancila/fXenCan1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5278
+data_pacbio_bases: 63.12 Gbp
+data_pacbio_bytes: 111.4 GiB
+data_pacbio_coverage: 85.74x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fXenCan1:GCA_014839645.1
 genbank_pri: fXenCan1:GCA_014839995.1
 genome_size: 736198484
@@ -61,7 +78,7 @@ genome_size_display: 0.74 Gbp
 last_raw_data: 1570704548
 last_updated: 1589469348
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16452
 mito1n50ctg: 16452
 mito1n50scf: 16452
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Xenentodon cancila
 name_: Xenentodon_cancila
 pri1date: 2020-04-24
-pri1filesize: 209 MiB
+pri1filesize: 209.0 MiB
 pri1length: 736198484
 pri1n50ctg: 2195850
 pri1n50scf: 28679447

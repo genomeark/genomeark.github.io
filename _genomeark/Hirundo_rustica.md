@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-10-03
-alt1filesize: 255 MiB
+alt1filesize: 255.2 MiB
 alt1length: 936032861
 alt1n50ctg: 544458
 alt1n50scf: 544458
@@ -30,30 +30,37 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: barn swallow
+data_10x-1_bases: 109.59 Gbp
+data_10x-1_bytes: 55.8 GiB
+data_10x-1_coverage: 83.66x
+data_10x-1_links: s3://genomeark/species/Hirundo_rustica/bHirRus1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hirundo_rustica/bHirRus1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hirundo_rustica/bHirRus1/genomic_data/10x/
+data_10x-1_scale: 1.8277
 data_10x_bases: 109.59 Gbp
-data_10x_bytes: 55.843 GB
+data_10x_bytes: 55.8 GiB
 data_10x_coverage: 83.66x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Hirundo_rustica/bHirRus1/genomic_data/10x/<br>
-data_10x_scale: 1.8277
+data_arima-1_bases: 81.85 Gbp
+data_arima-1_bytes: 46.9 GiB
+data_arima-1_coverage: 62.48x
+data_arima-1_links: s3://genomeark/species/Hirundo_rustica/bHirRus1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hirundo_rustica/bHirRus1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hirundo_rustica/bHirRus1/genomic_data/arima/
+data_arima-1_scale: 1.6243
 data_arima_bases: 81.85 Gbp
-data_arima_bytes: 46.927 GB
+data_arima_bytes: 46.9 GiB
 data_arima_coverage: 62.48x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Hirundo_rustica/bHirRus1/genomic_data/arima/<br>
-data_arima_scale: 1.6243
-data_bionano_bases: 1.31 Gbp
-data_bionano_bytes: 0.017 GB
-data_bionano_coverage: 1.00x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Hirundo_rustica/bHirRus1/genomic_data/bionano/<br>
+data_pacbio-1_bases: 67.04 Gbp
+data_pacbio-1_bytes: 118.0 GiB
+data_pacbio-1_coverage: 51.17x
+data_pacbio-1_links: s3://genomeark/species/Hirundo_rustica/bHirRus1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hirundo_rustica/bHirRus1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hirundo_rustica/bHirRus1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5292
 data_pacbio_bases: 67.04 Gbp
-data_pacbio_bytes: 117.976 GB
+data_pacbio_bytes: 118.0 GiB
 data_pacbio_coverage: 51.17x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Hirundo_rustica/bHirRus1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5292
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bHirRus1:GCA_015227815.3
 genbank_pri: bHirRus1:GCA_015227805.3
 genome_size: 1310000000
@@ -64,7 +71,7 @@ last_updated: 1633316806
 name: Hirundo rustica
 name_: Hirundo_rustica
 pri1date: 2021-08-20
-pri1filesize: 315 MiB
+pri1filesize: 314.6 MiB
 pri1length: 1105955550
 pri1n50ctg: 2024395
 pri1n50scf: 63258489

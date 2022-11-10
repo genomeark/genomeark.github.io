@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-09-20
-alt1filesize: 637 MiB
+alt1filesize: 636.6 MiB
 alt1length: 2244597913
 alt1n50ctg: 532979
 alt1n50scf: 533711
@@ -30,19 +30,36 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Chinese rufous horseshoe bat
+data_arima-1_bases: 190.60 Gbp
+data_arima-1_bytes: 85.4 GiB
+data_arima-1_coverage: 65.72x
+data_arima-1_links: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinolophus_sinicus/mRhiSin1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_sinicus/mRhiSin1/genomic_data/arima/
+data_arima-1_scale: 2.0795
 data_arima_bases: 190.60 Gbp
-data_arima_bytes: 85.361 GB
+data_arima_bytes: 85.4 GiB
 data_arima_coverage: 65.72x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/genomic_data/arima/<br>
-data_arima_scale: 2.0795
-data_bionano_links: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/genomic_data/bionano/<br>
-data_pacbio_bases: 88.41 Gbp
-data_pacbio_bytes: 75.410 GB
-data_pacbio_coverage: 30.49x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/genomic_data/pacbio/<br>
-data_pacbio_scale: 1.0919
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 14.7 GiB
+data_bionano-1_coverage: 1053.15x
+data_bionano-1_links: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinolophus_sinicus/mRhiSin1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_sinicus/mRhiSin1/genomic_data/bionano/
+data_bionano-1_scale: 193.1778
+data_bionano_bases: N/A
+data_bionano_bytes: 14.7 GiB
+data_bionano_coverage: 1053.15x
+data_pacbio-1_bases: 88.35 Gbp
+data_pacbio-1_bytes: 75.4 GiB
+data_pacbio-1_coverage: 30.47x
+data_pacbio-1_links: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinolophus_sinicus/mRhiSin1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_sinicus/mRhiSin1/genomic_data/pacbio/
+data_pacbio-1_scale: 1.0919
+data_pacbio_bases: 88.35 Gbp
+data_pacbio_bytes: 75.4 GiB
+data_pacbio_coverage: 30.47x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 2900000000
 genome_size_display: 2.90 Gbp
@@ -51,7 +68,7 @@ last_updated: 1632134120
 name: Rhinolophus sinicus
 name_: Rhinolophus_sinicus
 pri1date: 2021-09-20
-pri1filesize: 652 MiB
+pri1filesize: 651.6 MiB
 pri1length: 2338923724
 pri1n50ctg: 28884222
 pri1n50scf: 145751350

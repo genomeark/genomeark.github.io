@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-04-09
-alt1filesize: 1 GiB
+alt1filesize: 1.3 GiB
 alt1length: 4615304139
 alt1n50ctg: 231019
 alt1n50scf: 231019
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: two-lined caecilian
+data_10x-1_bases: 367.47 Gbp
+data_10x-1_bytes: 250.4 GiB
+data_10x-1_coverage: 72.51x
+data_10x-1_links: s3://genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/10x/
+data_10x-1_scale: 1.3665
 data_10x_bases: 367.47 Gbp
-data_10x_bytes: 250.442 GB
+data_10x_bytes: 250.4 GiB
 data_10x_coverage: 72.51x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/10x/<br>
-data_10x_scale: 1.3665
+data_arima-1_bases: 367.47 Gbp
+data_arima-1_bytes: 222.5 GiB
+data_arima-1_coverage: 72.51x
+data_arima-1_links: s3://genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/arima/
+data_arima-1_scale: 1.5382
 data_arima_bases: 367.47 Gbp
-data_arima_bytes: 222.490 GB
+data_arima_bytes: 222.5 GiB
 data_arima_coverage: 72.51x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/arima/<br>
-data_arima_scale: 1.5382
-data_bionano_bases: 16.53 Gbp
-data_bionano_bytes: 1.550 GB
-data_bionano_coverage: 3.26x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/bionano/<br>
-data_pacbio_bases: 232.19 Gbp
-data_pacbio_bytes: 415.928 GB
-data_pacbio_coverage: 45.82x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5199
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.5 GiB
+data_bionano-1_coverage: 359.44x
+data_bionano-1_links: s3://genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/bionano/
+data_bionano-1_scale: 1118.0872
+data_bionano_bases: N/A
+data_bionano_bytes: 1.5 GiB
+data_bionano_coverage: 359.44x
+data_pacbio-1_bases: 232.06 Gbp
+data_pacbio-1_bytes: 415.7 GiB
+data_pacbio-1_coverage: 45.79x
+data_pacbio-1_links: s3://genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5199
+data_pacbio_bases: 232.06 Gbp
+data_pacbio_bytes: 415.7 GiB
+data_pacbio_coverage: 45.79x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: aRhiBiv1:GCA_901001175.1
 genbank_pri: aRhiBiv1:GCA_901001135.2
 genome_size: 5067838282
@@ -62,7 +79,7 @@ genome_size_method: genomescope k=31
 last_raw_data: 1525161722
 last_updated: 1570719804
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 5.3 KiB
 mito1length: 16407
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Rhinatrema bivittatum
 name_: Rhinatrema_bivittatum
 pri1date: 2019-04-09
-pri1filesize: 2 GiB
+pri1filesize: 1.5 GiB
 pri1length: 5319222779
 pri1n50ctg: 3350639
 pri1n50scf: 486875112

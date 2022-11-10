@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-04-08
-alt1filesize: 1 GiB
+alt1filesize: 1.5 GiB
 alt1length: 5351721905
 alt1n50ctg: 176330
 alt1n50scf: 176912
@@ -30,25 +30,46 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: European fire-bellied toad
+data_10x-1_bases: 703.90 Gbp
+data_10x-1_bytes: 326.9 GiB
+data_10x-1_coverage: 70.25x
+data_10x-1_links: s3://genomeark/species/Bombina_bombina/aBomBom1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bombina_bombina/aBomBom1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bombina_bombina/aBomBom1/genomic_data/10x/
+data_10x-1_scale: 2.0056
 data_10x_bases: 703.90 Gbp
-data_10x_bytes: 326.866 GB
+data_10x_bytes: 326.9 GiB
 data_10x_coverage: 70.25x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Bombina_bombina/aBomBom1/genomic_data/10x/<br>
-data_10x_scale: 2.0056
+data_arima-1_bases: 1466.58 Gbp
+data_arima-1_bytes: 684.5 GiB
+data_arima-1_coverage: 146.37x
+data_arima-1_links: s3://genomeark/species/Bombina_bombina/aBomBom1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bombina_bombina/aBomBom1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bombina_bombina/aBomBom1/genomic_data/arima/
+data_arima-1_scale: 1.9954
 data_arima_bases: 1466.58 Gbp
-data_arima_bytes: 684.506 GB
+data_arima_bytes: 684.5 GiB
 data_arima_coverage: 146.37x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Bombina_bombina/aBomBom1/genomic_data/arima/<br>
-data_arima_scale: 1.9954
-data_bionano_links: s3://genomeark/species/Bombina_bombina/aBomBom1/genomic_data/bionano/<br>
-data_pacbio_bases: 929.59 Gbp
-data_pacbio_bytes: 1637.509 GB
-data_pacbio_coverage: 92.78x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Bombina_bombina/aBomBom1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5287
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 8.7 GiB
+data_bionano-1_coverage: 364.07x
+data_bionano-1_links: s3://genomeark/species/Bombina_bombina/aBomBom1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bombina_bombina/aBomBom1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bombina_bombina/aBomBom1/genomic_data/bionano/
+data_bionano-1_scale: 390.5366
+data_bionano_bases: N/A
+data_bionano_bytes: 8.7 GiB
+data_bionano_coverage: 364.07x
+data_pacbio-1_bases: 929.36 Gbp
+data_pacbio-1_bytes: 1.6 TiB
+data_pacbio-1_coverage: 92.75x
+data_pacbio-1_links: s3://genomeark/species/Bombina_bombina/aBomBom1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bombina_bombina/aBomBom1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bombina_bombina/aBomBom1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5287
+data_pacbio_bases: 929.36 Gbp
+data_pacbio_bytes: 1.6 TiB
+data_pacbio_coverage: 92.75x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 10019663791
 genome_size_display: 10.02 Gbp
@@ -57,7 +78,7 @@ last_updated: 1649439095
 name: Bombina bombina
 name_: Bombina_bombina
 pri1date: 2022-04-08
-pri1filesize: 3 GiB
+pri1filesize: 2.7 GiB
 pri1length: 10019663791
 pri1n50ctg: 3712229
 pri1n50scf: 1241340601

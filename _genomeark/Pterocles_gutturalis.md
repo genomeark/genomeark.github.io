@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-10-16
-alt1filesize: 308 MiB
+alt1filesize: 308.4 MiB
 alt1length: 1037717354
 alt1n50ctg: 1085641
 alt1n50scf: 1085641
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: yellow-throated sandgrouse
+data_10x-1_bases: 165.59 Gbp
+data_10x-1_bytes: 85.1 GiB
+data_10x-1_coverage: 154.75x
+data_10x-1_links: s3://genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pterocles_gutturalis/bPteGut1/genomic_data/10x/
+data_10x-1_scale: 1.8114
 data_10x_bases: 165.59 Gbp
-data_10x_bytes: 85.135 GB
+data_10x_bytes: 85.1 GiB
 data_10x_coverage: 154.75x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/10x/<br>
-data_10x_scale: 1.8114
+data_arima-1_bases: 198.08 Gbp
+data_arima-1_bytes: 103.9 GiB
+data_arima-1_coverage: 185.12x
+data_arima-1_links: s3://genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pterocles_gutturalis/bPteGut1/genomic_data/arima/
+data_arima-1_scale: 1.7749
 data_arima_bases: 198.08 Gbp
-data_arima_bytes: 103.934 GB
+data_arima_bytes: 103.9 GiB
 data_arima_coverage: 185.12x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/arima/<br>
-data_arima_scale: 1.7749
-data_bionano_bases: 1.49 Gbp
-data_bionano_bytes: 0.298 GB
-data_bionano_coverage: 1.39x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/bionano/<br>
-data_pacbio_bases: 75.99 Gbp
-data_pacbio_bytes: 130.736 GB
-data_pacbio_coverage: 71.02x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5413
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 286.3 MiB
+data_bionano-1_coverage: 167.74x
+data_bionano-1_links: s3://genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pterocles_gutturalis/bPteGut1/genomic_data/bionano/
+data_bionano-1_scale: 597.7996
+data_bionano_bases: N/A
+data_bionano_bytes: 286.3 MiB
+data_bionano_coverage: 167.74x
+data_pacbio-1_bases: 75.96 Gbp
+data_pacbio-1_bytes: 130.7 GiB
+data_pacbio-1_coverage: 70.99x
+data_pacbio-1_links: s3://genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pterocles_gutturalis/bPteGut1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5413
+data_pacbio_bases: 75.96 Gbp
+data_pacbio_bytes: 130.7 GiB
+data_pacbio_coverage: 70.99x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bPteGut1:GCA_009769505.1
 genbank_pri: bPteGut1:GCA_009769525.1
 genome_size: 1070000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1565837200
 last_updated: 1571322263
 mito1date: 2019-08-21
-mito1filesize: 6 KiB
+mito1filesize: 5.7 KiB
 mito1length: 24468
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Pterocles gutturalis
 name_: Pterocles_gutturalis
 pri1date: 2019-10-16
-pri1filesize: 329 MiB
+pri1filesize: 328.9 MiB
 pri1length: 1127398289
 pri1n50ctg: 12223312
 pri1n50scf: 47165387

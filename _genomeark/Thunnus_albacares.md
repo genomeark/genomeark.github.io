@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-08-27
-alt1filesize: 227 MiB
+alt1filesize: 227.0 MiB
 alt1length: 786643039
 alt1n50ctg: 4118720
 alt1n50scf: 4118720
@@ -30,24 +30,36 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: yellowfin tuna
+data_10x-1_bases: 59.35 Gbp
+data_10x-1_bytes: 29.6 GiB
+data_10x-1_coverage: 74.92x
+data_10x-1_links: s3://genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thunnus_albacares/fThuAlb1/genomic_data/10x/
+data_10x-1_scale: 1.8695
 data_10x_bases: 59.35 Gbp
-data_10x_bytes: 29.565 GB
+data_10x_bytes: 29.6 GiB
 data_10x_coverage: 74.92x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/10x/<br>
-data_10x_scale: 1.8695
+data_arima-1_bases: 75.53 Gbp
+data_arima-1_bytes: 37.0 GiB
+data_arima-1_coverage: 95.36x
+data_arima-1_links: s3://genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thunnus_albacares/fThuAlb1/genomic_data/arima/
+data_arima-1_scale: 1.9031
 data_arima_bases: 75.53 Gbp
-data_arima_bytes: 36.963 GB
+data_arima_bytes: 37.0 GiB
 data_arima_coverage: 95.36x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/arima/<br>
-data_arima_scale: 1.9031
-data_pacbiohifi_bam_bases: 44.24 Gbp
-data_pacbiohifi_bam_bytes: 156.712 GB
-data_pacbiohifi_bam_coverage: 55.85x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 0.2629
+data_pacbiohifi_bam-1_bases: 44.22 Gbp
+data_pacbiohifi_bam-1_bytes: 156.7 GiB
+data_pacbiohifi_bam-1_coverage: 55.83x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thunnus_albacares/fThuAlb1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2629
+data_pacbiohifi_bam_bases: 44.22 Gbp
+data_pacbiohifi_bam_bytes: 156.7 GiB
+data_pacbiohifi_bam_coverage: 55.83x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fThuAlb1:GCA_914744365.1
 genbank_pri: fThuAlb1:GCA_914725855.1
@@ -58,7 +70,7 @@ last_updated: 1651599613
 name: Thunnus albacares
 name_: Thunnus_albacares
 pri1date: 2021-08-27
-pri1filesize: 228 MiB
+pri1filesize: 228.1 MiB
 pri1length: 792117861
 pri1n50ctg: 26795544
 pri1n50scf: 34622995

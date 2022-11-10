@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-05-25
-alt1filesize: 305 MiB
+alt1filesize: 305.3 MiB
 alt1length: 1041135290
 alt1n50ctg: 4883876
 alt1n50scf: 4883876
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: plumbeous ibis
+data_10x-1_bases: 140.72 Gbp
+data_10x-1_bytes: 69.4 GiB
+data_10x-1_coverage: 140.72x
+data_10x-1_links: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Theristicus_caerulescens/bTheCae1/genomic_data/10x/
+data_10x-1_scale: 1.8880
 data_10x_bases: 140.72 Gbp
-data_10x_bytes: 69.418 GB
+data_10x_bytes: 69.4 GiB
 data_10x_coverage: 140.72x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/10x/<br>
-data_10x_scale: 1.8880
+data_arima-1_bases: 250.14 Gbp
+data_arima-1_bytes: 160.1 GiB
+data_arima-1_coverage: 250.14x
+data_arima-1_links: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Theristicus_caerulescens/bTheCae1/genomic_data/arima/
+data_arima-1_scale: 1.4550
 data_arima_bases: 250.14 Gbp
-data_arima_bytes: 160.112 GB
+data_arima_bytes: 160.1 GiB
 data_arima_coverage: 250.14x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/arima/<br>
-data_arima_scale: 1.4550
-data_bionano_bases: 1.27 Gbp
-data_bionano_bytes: 1.183 GB
-data_bionano_coverage: 1.27x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/bionano/<br>
-data_pacbio_bases: 160.53 Gbp
-data_pacbio_bytes: 284.386 GB
-data_pacbio_coverage: 160.53x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5257
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.2 GiB
+data_bionano-1_coverage: 524.88x
+data_bionano-1_links: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Theristicus_caerulescens/bTheCae1/genomic_data/bionano/
+data_bionano-1_scale: 420.2435
+data_bionano_bases: N/A
+data_bionano_bytes: 1.2 GiB
+data_bionano_coverage: 524.88x
+data_pacbio-1_bases: 160.49 Gbp
+data_pacbio-1_bytes: 284.3 GiB
+data_pacbio-1_coverage: 160.49x
+data_pacbio-1_links: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Theristicus_caerulescens/bTheCae1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Theristicus_caerulescens/bTheCae1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5257
+data_pacbio_bases: 160.49 Gbp
+data_pacbio_bytes: 284.3 GiB
+data_pacbio_coverage: 160.49x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bTheCae1:GCA_020745805.1
 genbank_pri: bTheCae1:GCA_020745775.1
 genome_size: 1000000000
@@ -61,7 +78,7 @@ genome_size_display: 1.00 Gbp
 last_raw_data: 1611681977
 last_updated: 1623161411
 mito1date: 2021-01-20
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 19114
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Theristicus caerulescens
 name_: Theristicus_caerulescens
 pri1date: 2021-05-25
-pri1filesize: 352 MiB
+pri1filesize: 351.9 MiB
 pri1length: 1203353649
 pri1n50ctg: 41768366
 pri1n50scf: 128006814

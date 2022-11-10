@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-01-26
-alt1filesize: 53 MiB
+alt1filesize: 52.7 MiB
 alt1length: 182031793
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Aeolian wall lizard
+data_arima-1_bases: 440.21 Gbp
+data_arima-1_bytes: 205.4 GiB
+data_arima-1_coverage: 225.86x
+data_arima-1_links: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podarcis_raffonei/rPodRaf1/genomic_data/arima/
+data_arima-1_scale: 1.9960
 data_arima_bases: 440.21 Gbp
-data_arima_bytes: 205.397 GB
+data_arima_bytes: 205.4 GiB
 data_arima_coverage: 225.86x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/arima/<br>
-data_arima_scale: 1.9960
-data_bionano_bases: 1.50 Gbp
-data_bionano_bytes: 1.089 GB
-data_bionano_coverage: 0.77x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/bionano/<br>
-data_pacbiohifi_clr_bases: 773.67 Gbp
-data_pacbiohifi_clr_bytes: 1406.468 GB
-data_pacbiohifi_clr_coverage: 396.96x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5123
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.1 GiB
+data_bionano-1_coverage: 305.50x
+data_bionano-1_links: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podarcis_raffonei/rPodRaf1/genomic_data/bionano/
+data_bionano-1_scale: 520.3221
+data_bionano_bases: N/A
+data_bionano_bytes: 1.1 GiB
+data_bionano_coverage: 305.50x
+data_pacbiohifi_clr-1_bases: 773.36 Gbp
+data_pacbiohifi_clr-1_bytes: 1.4 TiB
+data_pacbiohifi_clr-1_coverage: 396.80x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podarcis_raffonei/rPodRaf1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5123
+data_pacbiohifi_clr_bases: 773.36 Gbp
+data_pacbiohifi_clr_bytes: 1.4 TiB
+data_pacbiohifi_clr_coverage: 396.80x
+data_pacbiohifi_fqgz-1_bases: 60.52 Gbp
+data_pacbiohifi_fqgz-1_bytes: 47.7 GiB
+data_pacbiohifi_fqgz-1_coverage: 31.05x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podarcis_raffonei/rPodRaf1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.1826
 data_pacbiohifi_fqgz_bases: 60.52 Gbp
-data_pacbiohifi_fqgz_bytes: 47.662 GB
+data_pacbiohifi_fqgz_bytes: 47.7 GiB
 data_pacbiohifi_fqgz_coverage: 31.05x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.1826
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1949000000
 genome_size_display: 1.95 Gbp
 genome_size_method: GoAT
@@ -62,7 +79,7 @@ last_updated: 1651594802
 name: Podarcis raffonei
 name_: Podarcis_raffonei
 pri1date: 2022-01-26
-pri1filesize: 436 MiB
+pri1filesize: 435.7 MiB
 pri1length: 1513131503
 pri1n50ctg: 55215715
 pri1n50scf: 79254795

@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-10-17
-alt1filesize: 482 MiB
+alt1filesize: 482.4 MiB
 alt1length: 1640216494
 alt1n50ctg: 167863
 alt1n50scf: 167863
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: stoat
+data_10x-1_bases: 306.79 Gbp
+data_10x-1_bytes: 146.5 GiB
+data_10x-1_coverage: 99.61x
+data_10x-1_links: s3://genomeark/species/Mustela_erminea/mMusErm1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mustela_erminea/mMusErm1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mustela_erminea/mMusErm1/genomic_data/10x/
+data_10x-1_scale: 1.9508
 data_10x_bases: 306.79 Gbp
-data_10x_bytes: 146.463 GB
+data_10x_bytes: 146.5 GiB
 data_10x_coverage: 99.61x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Mustela_erminea/mMusErm1/genomic_data/10x/<br>
-data_10x_scale: 1.9508
+data_arima-1_bases: 459.92 Gbp
+data_arima-1_bytes: 292.2 GiB
+data_arima-1_coverage: 149.33x
+data_arima-1_links: s3://genomeark/species/Mustela_erminea/mMusErm1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mustela_erminea/mMusErm1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mustela_erminea/mMusErm1/genomic_data/arima/
+data_arima-1_scale: 1.4658
 data_arima_bases: 459.92 Gbp
-data_arima_bytes: 292.220 GB
+data_arima_bytes: 292.2 GiB
 data_arima_coverage: 149.33x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Mustela_erminea/mMusErm1/genomic_data/arima/<br>
-data_arima_scale: 1.4658
-data_bionano_bases: 2.68 Gbp
-data_bionano_bytes: 0.843 GB
-data_bionano_coverage: 0.87x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Mustela_erminea/mMusErm1/genomic_data/bionano/<br>
-data_pacbio_bases: 193.54 Gbp
-data_pacbio_bytes: 331.089 GB
-data_pacbio_coverage: 62.84x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Mustela_erminea/mMusErm1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5444
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 819.2 MiB
+data_bionano-1_coverage: 149.82x
+data_bionano-1_links: s3://genomeark/species/Mustela_erminea/mMusErm1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mustela_erminea/mMusErm1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mustela_erminea/mMusErm1/genomic_data/bionano/
+data_bionano-1_scale: 537.1969
+data_bionano_bases: N/A
+data_bionano_bytes: 819.2 MiB
+data_bionano_coverage: 149.82x
+data_pacbio-1_bases: 193.47 Gbp
+data_pacbio-1_bytes: 331.0 GiB
+data_pacbio-1_coverage: 62.82x
+data_pacbio-1_links: s3://genomeark/species/Mustela_erminea/mMusErm1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mustela_erminea/mMusErm1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mustela_erminea/mMusErm1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5444
+data_pacbio_bases: 193.47 Gbp
+data_pacbio_bytes: 331.0 GiB
+data_pacbio_coverage: 62.82x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: mMusErm1:GCA_009829165.1
 genbank_pri: mMusErm1:GCA_009829155.1
 genome_size: 3080000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1565693768
 last_updated: 1571322017
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16482
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Mustela erminea
 name_: Mustela_erminea
 pri1date: 2019-10-17
-pri1filesize: 706 MiB
+pri1filesize: 706.2 MiB
 pri1length: 2445200799
 pri1n50ctg: 26508710
 pri1n50scf: 109748187

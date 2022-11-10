@@ -1,50 +1,79 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: chimpanzee
+data_10x-1_bases: 248.16 Gbp
+data_10x-1_bytes: 153.5 GiB
+data_10x-1_coverage: 68.67x
+data_10x-1_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro1/genomic_data/10x/
+data_10x-1_scale: 1.5057
 data_10x_bases: 248.16 Gbp
-data_10x_bytes: 153.494 GB
+data_10x_bytes: 153.5 GiB
 data_10x_coverage: 68.67x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/10x/<br>
-data_10x_scale: 1.5057
-data_bionano_bases: 7.24 Gbp
-data_bionano_bytes: 0.785 GB
-data_bionano_coverage: 2.00x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 735.6 MiB
+data_bionano-1_coverage: 226.94x
+data_bionano-1_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro1/genomic_data/bionano/
+data_bionano-1_scale: 1063.2043
+data_bionano_bases: N/A
+data_bionano_bytes: 735.6 MiB
+data_bionano_coverage: 226.94x
+data_dovetail-3_bases: 190.56 Gbp
+data_dovetail-3_bytes: 94.9 GiB
+data_dovetail-3_coverage: 52.73x
+data_dovetail-3_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/dovetail/<br>
+data_dovetail-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/dovetail/
+data_dovetail-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro3/genomic_data/dovetail/
+data_dovetail-3_scale: 1.8707
 data_dovetail_bases: 190.56 Gbp
-data_dovetail_bytes: 94.870 GB
+data_dovetail_bytes: 94.9 GiB
 data_dovetail_coverage: 52.73x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.8707
+data_ont-3_bases: 397.87 Gbp
+data_ont-3_bytes: 351.1 GiB
+data_ont-3_coverage: 110.10x
+data_ont-3_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/ont/<br>
+data_ont-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/ont/
+data_ont-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro3/genomic_data/ont/
+data_ont-3_scale: 1.0555
 data_ont_bases: 397.87 Gbp
-data_ont_bytes: 351.062 GB
+data_ont_bytes: 351.1 GiB
 data_ont_coverage: 110.10x
-data_ont_files: 666
-data_ont_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/ont/<br>
-data_ont_scale: 1.0555
-data_pacbio_bases: 399.02 Gbp
-data_pacbio_bytes: 1432.610 GB
-data_pacbio_coverage: 110.42x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.2594
-data_pacbiohifi_clr_bases: 3800.22 Gbp
-data_pacbiohifi_clr_bytes: 6849.690 GB
-data_pacbiohifi_clr_coverage: 1051.61x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5167
+data_pacbio-1_bases: 398.91 Gbp
+data_pacbio-1_bytes: 1.4 TiB
+data_pacbio-1_coverage: 110.39x
+data_pacbio-1_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.2594
+data_pacbio_bases: 398.91 Gbp
+data_pacbio_bytes: 1.4 TiB
+data_pacbio_coverage: 110.39x
+data_pacbiohifi_clr-3_bases: 3799.28 Gbp
+data_pacbiohifi_clr-3_bytes: 6.7 TiB
+data_pacbiohifi_clr-3_coverage: 1051.35x
+data_pacbiohifi_clr-3_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-3_scale: 0.5167
+data_pacbiohifi_clr_bases: 3799.28 Gbp
+data_pacbiohifi_clr_bytes: 6.7 TiB
+data_pacbiohifi_clr_coverage: 1051.35x
+data_pacbiohifi_fqgz-3_bases: 214.62 Gbp
+data_pacbiohifi_fqgz-3_bytes: 157.7 GiB
+data_pacbiohifi_fqgz-3_coverage: 59.39x
+data_pacbiohifi_fqgz-3_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-3_scale: 1.2677
 data_pacbiohifi_fqgz_bases: 214.62 Gbp
-data_pacbiohifi_fqgz_bytes: 157.671 GB
+data_pacbiohifi_fqgz_bytes: 157.7 GiB
 data_pacbiohifi_fqgz_coverage: 59.39x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.2677
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 dip3date: 2022-10-05
-dip3filesize: 1 GiB
+dip3filesize: 1.5 GiB
 dip3length: 6209739776
 dip3n50ctg: 40249980
 dip3n50scf: 40249980
@@ -78,7 +107,7 @@ genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
 last_raw_data: 1658800545
 last_updated: 1664998139
 mito1date: 2020-06-25
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16556
 mito1n50ctg: 0
 mito1n50scf: 0

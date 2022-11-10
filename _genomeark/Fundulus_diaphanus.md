@@ -1,18 +1,27 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: banded killifish
+data_arima-1_bases: 185.87 Gbp
+data_arima-1_bytes: 88.6 GiB
+data_arima-1_coverage: 122.69x
+data_arima-1_links: s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Fundulus_diaphanus/fFunDia1/genomic_data/arima/
+data_arima-1_scale: 1.9544
 data_arima_bases: 185.87 Gbp
-data_arima_bytes: 88.574 GB
+data_arima_bytes: 88.6 GiB
 data_arima_coverage: 122.69x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/arima/<br>
-data_arima_scale: 1.9544
-data_bionano_bases: 1.37 Gbp
-data_bionano_bytes: 1.593 GB
-data_bionano_coverage: 0.91x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/bionano/<br>
-data_status: '<em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.6 GiB
+data_bionano-1_coverage: 613.16x
+data_bionano-1_links: s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Fundulus_diaphanus/fFunDia1/genomic_data/bionano/
+data_bionano-1_scale: 548.4036
+data_bionano_bases: N/A
+data_bionano_bytes: 1.6 GiB
+data_bionano_coverage: 613.16x
+data_status: '<em style="color:forestgreen">Arima</em>'
 genome_size: 1515000000
 genome_size_display: 1.52 Gbp
 genome_size_method: GoAT

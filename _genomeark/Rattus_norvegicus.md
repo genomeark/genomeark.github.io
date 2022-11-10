@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-09-11
-alt1filesize: 84 MiB
+alt1filesize: 83.8 MiB
 alt1length: 286931403
 alt1n50ctg: 100340
 alt1n50scf: 100349
@@ -30,36 +30,53 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Norway rat
+data_10x-1_bases: 187.56 Gbp
+data_10x-1_bytes: 130.2 GiB
+data_10x-1_coverage: 70.83x
+data_10x-1_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rattus_norvegicus/mRatNor1/genomic_data/10x/
+data_10x-1_scale: 1.3414
 data_10x_bases: 187.56 Gbp
-data_10x_bytes: 130.223 GB
+data_10x_bytes: 130.2 GiB
 data_10x_coverage: 70.83x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/10x/<br>
-data_10x_scale: 1.3414
+data_arima-1_bases: 253.27 Gbp
+data_arima-1_bytes: 155.0 GiB
+data_arima-1_coverage: 95.65x
+data_arima-1_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rattus_norvegicus/mRatNor1/genomic_data/arima/
+data_arima-1_scale: 1.5215
 data_arima_bases: 253.27 Gbp
-data_arima_bytes: 155.028 GB
+data_arima_bytes: 155.0 GiB
 data_arima_coverage: 95.65x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/arima/<br>
-data_arima_scale: 1.5215
-data_bionano_bases: 2.86 Gbp
-data_bionano_bytes: 1.419 GB
-data_bionano_coverage: 1.08x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/bionano/<br>
-data_pacbio_bases: 266.71 Gbp
-data_pacbio_bytes: 470.087 GB
-data_pacbio_coverage: 100.73x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5284
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.4 GiB
+data_bionano-1_coverage: 292.14x
+data_bionano-1_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rattus_norvegicus/mRatNor1/genomic_data/bionano/
+data_bionano-1_scale: 511.0373
+data_bionano_bases: N/A
+data_bionano_bytes: 1.4 GiB
+data_bionano_coverage: 292.14x
+data_pacbio-1_bases: 266.64 Gbp
+data_pacbio-1_bytes: 470.0 GiB
+data_pacbio-1_coverage: 100.70x
+data_pacbio-1_links: s3://genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rattus_norvegicus/mRatNor1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rattus_norvegicus/mRatNor1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5284
+data_pacbio_bases: 266.64 Gbp
+data_pacbio_bytes: 470.0 GiB
+data_pacbio_coverage: 100.70x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 2647899415
 genome_size_display: 2.65 Gbp
 last_raw_data: 1580668926
 last_updated: 1608199961
 mito1date: 2019-12-04
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16313
 mito1n50ctg: 16313
 mito1n50scf: 16313
@@ -90,7 +107,7 @@ mito1version: assembly_MT_rockefeller
 name: Rattus norvegicus
 name_: Rattus_norvegicus
 pri1date: 2020-09-11
-pri1filesize: 770 MiB
+pri1filesize: 770.4 MiB
 pri1length: 2647899415
 pri1n50ctg: 29198295
 pri1n50scf: 135012528

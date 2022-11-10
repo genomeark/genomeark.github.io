@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-07-15
-alt1filesize: 287 MiB
+alt1filesize: 286.5 MiB
 alt1length: 967599765
 alt1n50ctg: 334883
 alt1n50scf: 334883
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: maguari stork
+data_10x-1_bases: 154.77 Gbp
+data_10x-1_bytes: 78.2 GiB
+data_10x-1_coverage: 154.77x
+data_10x-1_links: s3://genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ciconia_maguari/bCicMag1/genomic_data/10x/
+data_10x-1_scale: 1.8433
 data_10x_bases: 154.77 Gbp
-data_10x_bytes: 78.198 GB
+data_10x_bytes: 78.2 GiB
 data_10x_coverage: 154.77x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/10x/<br>
-data_10x_scale: 1.8433
+data_arima-1_bases: 112.29 Gbp
+data_arima-1_bytes: 65.2 GiB
+data_arima-1_coverage: 112.29x
+data_arima-1_links: s3://genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ciconia_maguari/bCicMag1/genomic_data/arima/
+data_arima-1_scale: 1.6028
 data_arima_bases: 112.29 Gbp
-data_arima_bytes: 65.246 GB
+data_arima_bytes: 65.2 GiB
 data_arima_coverage: 112.29x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/arima/<br>
-data_arima_scale: 1.6028
-data_bionano_bases: 1.40 Gbp
-data_bionano_bytes: 1.395 GB
-data_bionano_coverage: 1.40x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/bionano/<br>
-data_pacbio_bases: 88.29 Gbp
-data_pacbio_bytes: 154.494 GB
-data_pacbio_coverage: 88.29x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5322
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.4 GiB
+data_bionano-1_coverage: 806.51x
+data_bionano-1_links: s3://genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ciconia_maguari/bCicMag1/genomic_data/bionano/
+data_bionano-1_scale: 546.5242
+data_bionano_bases: N/A
+data_bionano_bytes: 1.4 GiB
+data_bionano_coverage: 806.51x
+data_pacbio-1_bases: 88.25 Gbp
+data_pacbio-1_bytes: 154.4 GiB
+data_pacbio-1_coverage: 88.25x
+data_pacbio-1_links: s3://genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ciconia_maguari/bCicMag1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ciconia_maguari/bCicMag1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5322
+data_pacbio_bases: 88.25 Gbp
+data_pacbio_bytes: 154.4 GiB
+data_pacbio_coverage: 88.25x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bCicMag1:GCA_017639665.1
 genbank_pri: bCicMag1:GCA_017639555.1
 genome_size: 1000000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1583245111
 last_updated: 1594836847
 mito1date: 2020-02-26
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 21477
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Ciconia maguari
 name_: Ciconia_maguari
 pri1date: 2020-07-15
-pri1filesize: 358 MiB
+pri1filesize: 357.6 MiB
 pri1length: 1239415939
 pri1n50ctg: 24935193
 pri1n50scf: 128636905

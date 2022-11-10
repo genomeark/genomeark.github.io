@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-11-19
-alt1filesize: 568 MiB
+alt1filesize: 568.2 MiB
 alt1length: 1948666914
 alt1n50ctg: 321357
 alt1n50scf: 321461
@@ -30,30 +30,46 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: North American porcupine
+data_10x-1_bases: 235.27 Gbp
+data_10x-1_bytes: 119.9 GiB
+data_10x-1_coverage: 81.13x
+data_10x-1_links: s3://genomeark/species/Erethizon_dorsatum/mEreDor1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Erethizon_dorsatum/mEreDor1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/genomic_data/10x/
+data_10x-1_scale: 1.8272
 data_10x_bases: 235.27 Gbp
-data_10x_bytes: 119.919 GB
+data_10x_bytes: 119.9 GiB
 data_10x_coverage: 81.13x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Erethizon_dorsatum/mEreDor1/genomic_data/10x/<br>
-data_10x_scale: 1.8272
+data_arima-1_bases: 337.66 Gbp
+data_arima-1_bytes: 215.4 GiB
+data_arima-1_coverage: 116.44x
+data_arima-1_links: s3://genomeark/species/Erethizon_dorsatum/mEreDor1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Erethizon_dorsatum/mEreDor1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/genomic_data/arima/
+data_arima-1_scale: 1.4597
 data_arima_bases: 337.66 Gbp
-data_arima_bytes: 215.436 GB
+data_arima_bytes: 215.4 GiB
 data_arima_coverage: 116.44x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Erethizon_dorsatum/mEreDor1/genomic_data/arima/<br>
-data_arima_scale: 1.4597
+data_illumina-1_bases: 326.51 Gbp
+data_illumina-1_bytes: 160.7 GiB
+data_illumina-1_coverage: 112.59x
+data_illumina-1_links: s3://genomeark/species/Erethizon_dorsatum/mEreDor1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Erethizon_dorsatum/mEreDor1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/genomic_data/illumina/
+data_illumina-1_scale: 1.8923
 data_illumina_bases: 326.51 Gbp
-data_illumina_bytes: 160.698 GB
+data_illumina_bytes: 160.7 GiB
 data_illumina_coverage: 112.59x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Erethizon_dorsatum/mEreDor1/genomic_data/illumina/<br>
-data_illumina_scale: 1.8923
-data_pacbio_bases: 334.22 Gbp
-data_pacbio_bytes: 592.091 GB
-data_pacbio_coverage: 115.25x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Erethizon_dorsatum/mEreDor1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5257
+data_pacbio-1_bases: 334.12 Gbp
+data_pacbio-1_bytes: 591.9 GiB
+data_pacbio-1_coverage: 115.21x
+data_pacbio-1_links: s3://genomeark/species/Erethizon_dorsatum/mEreDor1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Erethizon_dorsatum/mEreDor1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5257
+data_pacbio_bases: 334.12 Gbp
+data_pacbio_bytes: 591.9 GiB
+data_pacbio_coverage: 115.21x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 2900000000
 genome_size_display: 2.90 Gbp
@@ -61,7 +77,7 @@ genome_size_method: null
 last_raw_data: 1627391464
 last_updated: 1637318124
 mito1date: 2021-07-27
-mito1filesize: 5 KiB
+mito1filesize: 5.0 KiB
 mito1length: 16828
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -92,7 +108,7 @@ mito1version: assembly_MT_rockefeller
 name: Erethizon dorsatum
 name_: Erethizon_dorsatum
 pri1date: 2021-11-19
-pri1filesize: 708 MiB
+pri1filesize: 708.3 MiB
 pri1length: 2432147792
 pri1n50ctg: 14914602
 pri1n50scf: 127610041

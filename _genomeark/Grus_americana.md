@@ -1,42 +1,70 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: Whooping crane
+data_10x-1_bases: 111.13 Gbp
+data_10x-1_bytes: 55.1 GiB
+data_10x-1_coverage: 111.13x
+data_10x-1_links: s3://genomeark/species/Grus_americana/bGruAme1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Grus_americana/bGruAme1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Grus_americana/bGruAme1/genomic_data/10x/
+data_10x-1_scale: 1.8776
 data_10x_bases: 111.13 Gbp
-data_10x_bytes: 55.124 GB
+data_10x_bytes: 55.1 GiB
 data_10x_coverage: 111.13x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Grus_americana/bGruAme1/genomic_data/10x/<br>
-data_10x_scale: 1.8776
+data_arima-1_bases: 93.77 Gbp
+data_arima-1_bytes: 60.2 GiB
+data_arima-1_coverage: 93.77x
+data_arima-1_links: s3://genomeark/species/Grus_americana/bGruAme1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Grus_americana/bGruAme1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Grus_americana/bGruAme1/genomic_data/arima/
+data_arima-1_scale: 1.4496
 data_arima_bases: 93.77 Gbp
-data_arima_bytes: 60.244 GB
+data_arima_bytes: 60.2 GiB
 data_arima_coverage: 93.77x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Grus_americana/bGruAme1/genomic_data/arima/<br>
-data_arima_scale: 1.4496
-data_bionano_bases: 1.36 Gbp
-data_bionano_bytes: 0.640 GB
-data_bionano_coverage: 1.36x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Grus_americana/bGruAme1/genomic_data/bionano/<br>
-data_illumina_bases: 175.56 Gbp
-data_illumina_bytes: 83.581 GB
-data_illumina_coverage: 175.56x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Grus_americana/bGruAme2/genomic_data/illumina/<br>s3://genomeark/species/Grus_americana/bGruAme3/genomic_data/illumina/<br>
-data_illumina_scale: 1.9562
-data_pacbio_bases: 232.75 Gbp
-data_pacbio_bytes: 419.518 GB
-data_pacbio_coverage: 232.75x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Grus_americana/bGruAme1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5167
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 635.8 MiB
+data_bionano-1_coverage: 417.39x
+data_bionano-1_links: s3://genomeark/species/Grus_americana/bGruAme1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Grus_americana/bGruAme1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Grus_americana/bGruAme1/genomic_data/bionano/
+data_bionano-1_scale: 626.0917
+data_bionano_bases: N/A
+data_bionano_bytes: 635.8 MiB
+data_bionano_coverage: 417.39x
+data_illumina-2_bases: 87.69 Gbp
+data_illumina-2_bytes: 41.9 GiB
+data_illumina-2_coverage: 87.69x
+data_illumina-2_links: s3://genomeark/species/Grus_americana/bGruAme2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Grus_americana/bGruAme2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Grus_americana/bGruAme2/genomic_data/illumina/
+data_illumina-2_scale: 1.9483
+data_illumina-3_bases: 87.90 Gbp
+data_illumina-3_bytes: 41.7 GiB
+data_illumina-3_coverage: 87.90x
+data_illumina-3_links: s3://genomeark/species/Grus_americana/bGruAme3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Grus_americana/bGruAme3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Grus_americana/bGruAme3/genomic_data/illumina/
+data_illumina-3_scale: 1.9647
+data_illumina_bases: 175.58 Gbp
+data_illumina_bytes: 83.6 GiB
+data_illumina_coverage: 175.58x
+data_pacbio-1_bases: 232.67 Gbp
+data_pacbio-1_bytes: 419.4 GiB
+data_pacbio-1_coverage: 232.67x
+data_pacbio-1_links: s3://genomeark/species/Grus_americana/bGruAme1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Grus_americana/bGruAme1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Grus_americana/bGruAme1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5167
+data_pacbio_bases: 232.67 Gbp
+data_pacbio_bytes: 419.4 GiB
+data_pacbio_coverage: 232.67x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 last_raw_data: 1618851714
 last_updated: 1653098522
 mat1date: 2022-05-16
-mat1filesize: 334 MiB
+mat1filesize: 333.5 MiB
 mat1length: 1257850737
 mat1n50ctg: 49584025
 mat1n50scf: 62796182
@@ -67,7 +95,7 @@ mat1version: assembly_vgp_trio_1.7
 name: Grus americana
 name_: Grus_americana
 pat1date: 2022-05-16
-pat1filesize: 325 MiB
+pat1filesize: 325.1 MiB
 pat1length: 1201873056
 pat1n50ctg: 9193214
 pat1n50scf: 70444274

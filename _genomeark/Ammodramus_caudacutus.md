@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-04-22
-alt1filesize: 320 MiB
+alt1filesize: 319.7 MiB
 alt1length: 1166743317
 alt1n50ctg: 696509
 alt1n50scf: 696509
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: saltmarsh sparrow
+data_arima-1_bases: 147.42 Gbp
+data_arima-1_bytes: 73.2 GiB
+data_arima-1_coverage: 112.88x
+data_arima-1_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammodramus_caudacutus/bAmmCau1/genomic_data/arima/
+data_arima-1_scale: 1.8760
 data_arima_bases: 147.42 Gbp
-data_arima_bytes: 73.183 GB
+data_arima_bytes: 73.2 GiB
 data_arima_coverage: 112.88x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/arima/<br>
-data_arima_scale: 1.8760
-data_bionano_bases: 1.26 Gbp
-data_bionano_bytes: 0.952 GB
-data_bionano_coverage: 0.96x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/bionano/<br>
-data_pacbiohifi_bam_bases: 208.15 Gbp
-data_pacbiohifi_bam_bytes: 151.992 GB
-data_pacbiohifi_bam_coverage: 159.38x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.2754
-data_pacbiohifi_clr_bases: 250.65 Gbp
-data_pacbiohifi_clr_bytes: 540.240 GB
-data_pacbiohifi_clr_coverage: 191.92x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.4321
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 0.9 GiB
+data_bionano-1_coverage: 450.73x
+data_bionano-1_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammodramus_caudacutus/bAmmCau1/genomic_data/bionano/
+data_bionano-1_scale: 585.8801
+data_bionano_bases: N/A
+data_bionano_bytes: 0.9 GiB
+data_bionano_coverage: 450.73x
+data_pacbiohifi_bam-1_bases: 44.44 Gbp
+data_pacbiohifi_bam-1_bytes: 152.0 GiB
+data_pacbiohifi_bam-1_coverage: 34.03x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2723
+data_pacbiohifi_bam_bases: 44.44 Gbp
+data_pacbiohifi_bam_bytes: 152.0 GiB
+data_pacbiohifi_bam_coverage: 34.03x
+data_pacbiohifi_clr-1_bases: 250.59 Gbp
+data_pacbiohifi_clr-1_bytes: 540.1 GiB
+data_pacbiohifi_clr-1_coverage: 191.87x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.4321
+data_pacbiohifi_clr_bases: 250.59 Gbp
+data_pacbiohifi_clr_bytes: 540.1 GiB
+data_pacbiohifi_clr_coverage: 191.87x
+data_pacbiohifi_fqgz-1_bases: 44.64 Gbp
+data_pacbiohifi_fqgz-1_bytes: 32.6 GiB
+data_pacbiohifi_fqgz-1_coverage: 34.18x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2743
 data_pacbiohifi_fqgz_bases: 44.64 Gbp
-data_pacbiohifi_fqgz_bytes: 32.625 GB
+data_pacbiohifi_fqgz_bytes: 32.6 GiB
 data_pacbiohifi_fqgz_coverage: 34.18x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.2743
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1306000000
 genome_size_display: 1.31 Gbp
 genome_size_method: GoAT
@@ -68,7 +89,7 @@ last_updated: 1651595293
 name: Ammodramus caudacutus
 name_: Ammodramus_caudacutus
 pri1date: 2022-04-22
-pri1filesize: 330 MiB
+pri1filesize: 329.6 MiB
 pri1length: 1241209685
 pri1n50ctg: 7539169
 pri1n50scf: 66577810

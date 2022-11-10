@@ -1,6 +1,6 @@
 ---
 alt4date: 2020-04-03
-alt4filesize: 425 MiB
+alt4filesize: 425.0 MiB
 alt4length: 1416309019
 alt4n50ctg: 50002
 alt4n50scf: 50009
@@ -30,30 +30,47 @@ alt4sizes: |
 alt4version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Canada lynx
+data_10x-4_bases: 318.35 Gbp
+data_10x-4_bytes: 194.7 GiB
+data_10x-4_coverage: 128.81x
+data_10x-4_links: s3://genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/10x/<br>
+data_10x-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/10x/
+data_10x-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lynx_canadensis/mLynCan4/genomic_data/10x/
+data_10x-4_scale: 1.5229
 data_10x_bases: 318.35 Gbp
-data_10x_bytes: 194.683 GB
+data_10x_bytes: 194.7 GiB
 data_10x_coverage: 128.81x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/10x/<br>
-data_10x_scale: 1.5229
+data_arima-4_bases: 232.95 Gbp
+data_arima-4_bytes: 114.0 GiB
+data_arima-4_coverage: 94.25x
+data_arima-4_links: s3://genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/arima/<br>
+data_arima-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/arima/
+data_arima-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lynx_canadensis/mLynCan4/genomic_data/arima/
+data_arima-4_scale: 1.9030
 data_arima_bases: 232.95 Gbp
-data_arima_bytes: 114.006 GB
+data_arima_bytes: 114.0 GiB
 data_arima_coverage: 94.25x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/arima/<br>
-data_arima_scale: 1.9030
-data_bionano_bases: 4.59 Gbp
-data_bionano_bytes: 2.321 GB
-data_bionano_coverage: 1.86x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/bionano/<br>
-data_pacbio_bases: 179.99 Gbp
-data_pacbio_bytes: 311.347 GB
-data_pacbio_coverage: 72.83x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5384
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-4_bases: N/A
+data_bionano-4_bytes: 2.3 GiB
+data_bionano-4_coverage: 585.59x
+data_bionano-4_links: s3://genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/bionano/<br>
+data_bionano-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/bionano/
+data_bionano-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lynx_canadensis/mLynCan4/genomic_data/bionano/
+data_bionano-4_scale: 583.0231
+data_bionano_bases: N/A
+data_bionano_bytes: 2.3 GiB
+data_bionano_coverage: 585.59x
+data_pacbio-4_bases: 179.91 Gbp
+data_pacbio-4_bytes: 311.2 GiB
+data_pacbio-4_coverage: 72.79x
+data_pacbio-4_links: s3://genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/pacbio/<br>
+data_pacbio-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lynx_canadensis/mLynCan4/genomic_data/pacbio/
+data_pacbio-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lynx_canadensis/mLynCan4/genomic_data/pacbio/
+data_pacbio-4_scale: 0.5384
+data_pacbio_bases: 179.91 Gbp
+data_pacbio_bytes: 311.2 GiB
+data_pacbio_coverage: 72.79x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: mLynCan4:GCA_007474575.2
 genbank_pri: mLynCan4:GCA_007474595.2
 genome_size: 2471525315
@@ -61,7 +78,7 @@ genome_size_display: 2.47 Gbp
 last_raw_data: 1534379101
 last_updated: 1591639160
 mito4date: 2019-10-03
-mito4filesize: 5 KiB
+mito4filesize: 5.0 KiB
 mito4length: 17044
 mito4n50ctg: 0
 mito4n50scf: 0
@@ -92,7 +109,7 @@ mito4version: assembly_MT_rockefeller
 name: Lynx canadensis
 name_: Lynx_canadensis
 pri4date: 2020-06-08
-pri4filesize: 700 MiB
+pri4filesize: 700.1 MiB
 pri4length: 2407810255
 pri4n50ctg: 7406471
 pri4n50scf: 147275701

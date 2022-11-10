@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-09-26
-alt1filesize: 513 MiB
+alt1filesize: 513.3 MiB
 alt1length: 1767810094
 alt1n50ctg: 119171
 alt1n50scf: 119214
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: prehistoric monster fish
+data_10x-1_bases: 239.24 Gbp
+data_10x-1_bytes: 161.4 GiB
+data_10x-1_coverage: 97.79x
+data_10x-1_links: s3://genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thalassophryne_amazonica/fThaAma1/genomic_data/10x/
+data_10x-1_scale: 1.3805
 data_10x_bases: 239.24 Gbp
-data_10x_bytes: 161.400 GB
+data_10x_bytes: 161.4 GiB
 data_10x_coverage: 97.79x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/10x/<br>
-data_10x_scale: 1.3805
+data_arima-1_bases: 265.57 Gbp
+data_arima-1_bytes: 165.3 GiB
+data_arima-1_coverage: 108.55x
+data_arima-1_links: s3://genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thalassophryne_amazonica/fThaAma1/genomic_data/arima/
+data_arima-1_scale: 1.4962
 data_arima_bases: 265.57 Gbp
-data_arima_bytes: 165.309 GB
+data_arima_bytes: 165.3 GiB
 data_arima_coverage: 108.55x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/arima/<br>
-data_arima_scale: 1.4962
-data_bionano_bases: 2.39 Gbp
-data_bionano_bytes: 1.247 GB
-data_bionano_coverage: 0.98x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.2 GiB
+data_bionano-1_coverage: 330.51x
+data_bionano-1_links: s3://genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thalassophryne_amazonica/fThaAma1/genomic_data/bionano/
+data_bionano-1_scale: 607.3186
+data_bionano_bases: N/A
+data_bionano_bytes: 1.2 GiB
+data_bionano_coverage: 330.51x
+data_dovetail-1_bases: 285.89 Gbp
+data_dovetail-1_bytes: 172.3 GiB
+data_dovetail-1_coverage: 116.85x
+data_dovetail-1_links: s3://genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thalassophryne_amazonica/fThaAma1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.5457
 data_dovetail_bases: 285.89 Gbp
-data_dovetail_bytes: 172.258 GB
+data_dovetail_bytes: 172.3 GiB
 data_dovetail_coverage: 116.85x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.5457
-data_pacbio_bases: 134.13 Gbp
-data_pacbio_bytes: 235.823 GB
-data_pacbio_coverage: 54.82x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5297
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_pacbio-1_bases: 134.05 Gbp
+data_pacbio-1_bytes: 235.7 GiB
+data_pacbio-1_coverage: 54.79x
+data_pacbio-1_links: s3://genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Thalassophryne_amazonica/fThaAma1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thalassophryne_amazonica/fThaAma1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5297
+data_pacbio_bases: 134.05 Gbp
+data_pacbio_bytes: 235.7 GiB
+data_pacbio_coverage: 54.79x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: fThaAma1:GCA_902500245.1
 genbank_pri: fThaAma1:GCA_902500255.1
 genome_size: 2446592878
@@ -69,7 +90,7 @@ last_updated: 1575989671
 name: Thalassophryne amazonica
 name_: Thalassophryne_amazonica
 pri1date: 2019-09-26
-pri1filesize: 702 MiB
+pri1filesize: 702.3 MiB
 pri1length: 2446592878
 pri1n50ctg: 2319587
 pri1n50scf: 118421481

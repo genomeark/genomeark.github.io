@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-03-15
-alt1filesize: 416 MiB
+alt1filesize: 416.0 MiB
 alt1length: 1446594657
 alt1n50ctg: 719346
 alt1n50scf: 719346
@@ -30,24 +30,36 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Greenland wolf
+data_10x-1_bases: 283.59 Gbp
+data_10x-1_bytes: 167.9 GiB
+data_10x-1_coverage: 115.87x
+data_10x-1_links: s3://genomeark/species/Canis_lupus/mCanLor1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Canis_lupus/mCanLor1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLor1/genomic_data/10x/
+data_10x-1_scale: 1.5731
 data_10x_bases: 283.59 Gbp
-data_10x_bytes: 167.896 GB
+data_10x_bytes: 167.9 GiB
 data_10x_coverage: 115.87x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/10x/<br>
-data_10x_scale: 1.5731
+data_dovetail-1_bases: 116.58 Gbp
+data_dovetail-1_bytes: 72.1 GiB
+data_dovetail-1_coverage: 47.63x
+data_dovetail-1_links: s3://genomeark/species/Canis_lupus/mCanLor1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Canis_lupus/mCanLor1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLor1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.5050
 data_dovetail_bases: 116.58 Gbp
-data_dovetail_bytes: 72.144 GB
+data_dovetail_bytes: 72.1 GiB
 data_dovetail_coverage: 47.63x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.5050
-data_pacbiohifi_bam_bases: 82.67 Gbp
-data_pacbiohifi_bam_bytes: 68.416 GB
-data_pacbiohifi_bam_coverage: 33.78x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1253
+data_pacbiohifi_bam-1_bases: 82.58 Gbp
+data_pacbiohifi_bam-1_bytes: 68.3 GiB
+data_pacbiohifi_bam-1_coverage: 33.74x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Canis_lupus/mCanLor1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Canis_lupus/mCanLor1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLor1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.1253
+data_pacbiohifi_bam_bases: 82.58 Gbp
+data_pacbiohifi_bam_bytes: 68.3 GiB
+data_pacbiohifi_bam_coverage: 33.74x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: mCanLor1:GCA_905319845.1
 genbank_pri: mCanLor1:GCA_905319855.2
@@ -58,7 +70,7 @@ last_updated: 1651605565
 name: Canis lupus orion
 name_: Canis_lupus
 pri1date: 2021-03-15
-pri1filesize: 701 MiB
+pri1filesize: 701.1 MiB
 pri1length: 2447463909
 pri1n50ctg: 34375412
 pri1n50scf: 65778685

@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-05-24
-alt1filesize: 423 MiB
+alt1filesize: 422.7 MiB
 alt1length: 1444786651
 alt1n50ctg: 84375
 alt1n50scf: 84421
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: leatherback sea turtle
+data_10x-1_bases: 288.93 Gbp
+data_10x-1_bytes: 139.5 GiB
+data_10x-1_coverage: 115.57x
+data_10x-1_links: s3://genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dermochelys_coriacea/rDerCor1/genomic_data/10x/
+data_10x-1_scale: 1.9283
 data_10x_bases: 288.93 Gbp
-data_10x_bytes: 139.545 GB
+data_10x_bytes: 139.5 GiB
 data_10x_coverage: 115.57x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/10x/<br>
-data_10x_scale: 1.9283
+data_arima-1_bases: 178.70 Gbp
+data_arima-1_bytes: 93.4 GiB
+data_arima-1_coverage: 71.48x
+data_arima-1_links: s3://genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dermochelys_coriacea/rDerCor1/genomic_data/arima/
+data_arima-1_scale: 1.7816
 data_arima_bases: 178.70 Gbp
-data_arima_bytes: 93.416 GB
+data_arima_bytes: 93.4 GiB
 data_arima_coverage: 71.48x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/arima/<br>
-data_arima_scale: 1.7816
-data_bionano_bases: 2.42 Gbp
-data_bionano_bytes: 2.931 GB
-data_bionano_coverage: 0.97x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/bionano/<br>
-data_pacbio_bases: 159.86 Gbp
-data_pacbio_bytes: 276.004 GB
-data_pacbio_coverage: 63.94x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5394
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.9 GiB
+data_bionano-1_coverage: 675.90x
+data_bionano-1_links: s3://genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dermochelys_coriacea/rDerCor1/genomic_data/bionano/
+data_bionano-1_scale: 543.5747
+data_bionano_bases: N/A
+data_bionano_bytes: 2.9 GiB
+data_bionano_coverage: 675.90x
+data_pacbio-1_bases: 159.79 Gbp
+data_pacbio-1_bytes: 275.9 GiB
+data_pacbio-1_coverage: 63.91x
+data_pacbio-1_links: s3://genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dermochelys_coriacea/rDerCor1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dermochelys_coriacea/rDerCor1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5394
+data_pacbio_bases: 159.79 Gbp
+data_pacbio_bytes: 275.9 GiB
+data_pacbio_coverage: 63.91x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: rDerCor1:GCA_009762595.2
 genbank_pri: rDerCor1:GCA_009764565.4
 genome_size: 2500000000
@@ -61,7 +78,7 @@ genome_size_display: 2.50 Gbp
 last_raw_data: 1563832512
 last_updated: 1621879478
 mito1date: 2019-08-20
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16625
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Dermochelys coriacea
 name_: Dermochelys_coriacea
 pri1date: 2021-05-24
-pri1filesize: 631 MiB
+pri1filesize: 631.2 MiB
 pri1length: 2164762090
 pri1n50ctg: 6014687
 pri1n50scf: 131128815

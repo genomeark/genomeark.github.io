@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-07-23
-alt1filesize: 299 MiB
+alt1filesize: 299.3 MiB
 alt1length: 995426950
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: vaquita
+data_10x-1_bases: 202.00 Gbp
+data_10x-1_bytes: 104.5 GiB
+data_10x-1_coverage: 67.33x
+data_10x-1_links: s3://genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phocoena_sinus/mPhoSin1/genomic_data/10x/
+data_10x-1_scale: 1.8001
 data_10x_bases: 202.00 Gbp
-data_10x_bytes: 104.510 GB
+data_10x_bytes: 104.5 GiB
 data_10x_coverage: 67.33x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/10x/<br>
-data_10x_scale: 1.8001
+data_arima-1_bases: 529.63 Gbp
+data_arima-1_bytes: 254.9 GiB
+data_arima-1_coverage: 176.54x
+data_arima-1_links: s3://genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phocoena_sinus/mPhoSin1/genomic_data/arima/
+data_arima-1_scale: 1.9352
 data_arima_bases: 529.63 Gbp
-data_arima_bytes: 254.886 GB
+data_arima_bytes: 254.9 GiB
 data_arima_coverage: 176.54x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/arima/<br>
-data_arima_scale: 1.9352
-data_bionano_bases: 2.49 Gbp
-data_bionano_bytes: 2.220 GB
-data_bionano_coverage: 0.83x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/bionano/<br>
-data_pacbio_bases: 326.92 Gbp
-data_pacbio_bytes: 561.436 GB
-data_pacbio_coverage: 108.97x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5423
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.2 GiB
+data_bionano-1_coverage: 396.81x
+data_bionano-1_links: s3://genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phocoena_sinus/mPhoSin1/genomic_data/bionano/
+data_bionano-1_scale: 507.4332
+data_bionano_bases: N/A
+data_bionano_bytes: 2.2 GiB
+data_bionano_coverage: 396.81x
+data_pacbio-1_bases: 326.80 Gbp
+data_pacbio-1_bytes: 561.2 GiB
+data_pacbio-1_coverage: 108.93x
+data_pacbio-1_links: s3://genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phocoena_sinus/mPhoSin1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phocoena_sinus/mPhoSin1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5423
+data_pacbio_bases: 326.80 Gbp
+data_pacbio_bytes: 561.2 GiB
+data_pacbio_coverage: 108.93x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: mPhoSin1:GCA_008692045.1
 genbank_pri: mPhoSin1:GCA_008692025.1
 genome_size: 3000000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1557360444
 last_updated: 1570720575
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16370
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Phocoena sinus
 name_: Phocoena_sinus
 pri1date: 2019-07-23
-pri1filesize: 690 MiB
+pri1filesize: 690.3 MiB
 pri1length: 2371524154
 pri1n50ctg: 16115062
 pri1n50scf: 104118372

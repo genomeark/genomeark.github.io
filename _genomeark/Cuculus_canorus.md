@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-03-30
-alt1filesize: 310 MiB
+alt1filesize: 309.6 MiB
 alt1length: 1063845602
 alt1n50ctg: 2363301
 alt1n50scf: 2363301
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common cuckoo
+data_10x-1_bases: 127.74 Gbp
+data_10x-1_bytes: 60.9 GiB
+data_10x-1_coverage: 91.25x
+data_10x-1_links: s3://genomeark/species/Cuculus_canorus/bCucCan1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cuculus_canorus/bCucCan1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cuculus_canorus/bCucCan1/genomic_data/10x/
+data_10x-1_scale: 1.9521
 data_10x_bases: 127.74 Gbp
-data_10x_bytes: 60.946 GB
+data_10x_bytes: 60.9 GiB
 data_10x_coverage: 91.25x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Cuculus_canorus/bCucCan1/genomic_data/10x/<br>
-data_10x_scale: 1.9521
+data_arima-2_bases: 117.50 Gbp
+data_arima-2_bytes: 72.3 GiB
+data_arima-2_coverage: 83.93x
+data_arima-2_links: s3://genomeark/species/Cuculus_canorus/bCucCan2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cuculus_canorus/bCucCan2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cuculus_canorus/bCucCan2/genomic_data/arima/
+data_arima-2_scale: 1.5128
 data_arima_bases: 117.50 Gbp
-data_arima_bytes: 72.339 GB
+data_arima_bytes: 72.3 GiB
 data_arima_coverage: 83.93x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Cuculus_canorus/bCucCan2/genomic_data/arima/<br>
-data_arima_scale: 1.5128
-data_bionano_bases: 1.45 Gbp
-data_bionano_bytes: 0.588 GB
-data_bionano_coverage: 1.03x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Cuculus_canorus/bCucCan1/genomic_data/bionano/<br>
-data_pacbio_bases: 89.92 Gbp
-data_pacbio_bytes: 155.723 GB
-data_pacbio_coverage: 64.23x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Cuculus_canorus/bCucCan1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5378
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 580.8 MiB
+data_bionano-1_coverage: 204.62x
+data_bionano-1_links: s3://genomeark/species/Cuculus_canorus/bCucCan1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cuculus_canorus/bCucCan1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cuculus_canorus/bCucCan1/genomic_data/bionano/
+data_bionano-1_scale: 470.4114
+data_bionano_bases: N/A
+data_bionano_bytes: 580.8 MiB
+data_bionano_coverage: 204.62x
+data_pacbio-1_bases: 89.89 Gbp
+data_pacbio-1_bytes: 155.7 GiB
+data_pacbio-1_coverage: 64.21x
+data_pacbio-1_links: s3://genomeark/species/Cuculus_canorus/bCucCan1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cuculus_canorus/bCucCan1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cuculus_canorus/bCucCan1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5378
+data_pacbio_bases: 89.89 Gbp
+data_pacbio_bytes: 155.7 GiB
+data_pacbio_coverage: 64.21x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bCucCan1:GCA_017976305.1
 genbank_pri: bCucCan1:GCA_017976375.1
 genome_size: 1400000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1594746258
 last_updated: 1617106903
 mito1date: 2019-12-16
-mito1filesize: 5 KiB
+mito1filesize: 5.3 KiB
 mito1length: 19698
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Cuculus canorus
 name_: Cuculus_canorus
 pri1date: 2021-03-30
-pri1filesize: 342 MiB
+pri1filesize: 342.0 MiB
 pri1length: 1180136575
 pri1n50ctg: 15626348
 pri1n50scf: 69231175

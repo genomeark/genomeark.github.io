@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-03-17
-alt1filesize: 123 MiB
+alt1filesize: 123.1 MiB
 alt1length: 428136527
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: electric eel
+data_10x-1_bases: 71.10 Gbp
+data_10x-1_bytes: 33.0 GiB
+data_10x-1_coverage: 73.35x
+data_10x-1_links: s3://genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Electrophorus_electricus/fEleEle1/genomic_data/10x/
+data_10x-1_scale: 2.0071
 data_10x_bases: 71.10 Gbp
-data_10x_bytes: 32.991 GB
+data_10x_bytes: 33.0 GiB
 data_10x_coverage: 73.35x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/10x/<br>
-data_10x_scale: 2.0071
+data_arima-1_bases: 164.41 Gbp
+data_arima-1_bytes: 86.0 GiB
+data_arima-1_coverage: 169.63x
+data_arima-1_links: s3://genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Electrophorus_electricus/fEleEle1/genomic_data/arima/
+data_arima-1_scale: 1.7813
 data_arima_bases: 164.41 Gbp
-data_arima_bytes: 85.961 GB
+data_arima_bytes: 86.0 GiB
 data_arima_coverage: 169.63x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/arima/<br>
-data_arima_scale: 1.7813
-data_bionano_bases: 0.93 Gbp
-data_bionano_bytes: 0.205 GB
-data_bionano_coverage: 0.96x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/bionano/<br>
-data_pacbio_bases: 51.40 Gbp
-data_pacbio_bytes: 87.236 GB
-data_pacbio_coverage: 53.03x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5487
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 207.2 MiB
+data_bionano-1_coverage: 198.15x
+data_bionano-1_links: s3://genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Electrophorus_electricus/fEleEle1/genomic_data/bionano/
+data_bionano-1_scale: 884.1152
+data_bionano_bases: N/A
+data_bionano_bytes: 207.2 MiB
+data_bionano_coverage: 198.15x
+data_pacbio-1_bases: 51.38 Gbp
+data_pacbio-1_bytes: 87.2 GiB
+data_pacbio-1_coverage: 53.01x
+data_pacbio-1_links: s3://genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Electrophorus_electricus/fEleEle1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Electrophorus_electricus/fEleEle1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5487
+data_pacbio_bases: 51.38 Gbp
+data_pacbio_bytes: 87.2 GiB
+data_pacbio_coverage: 53.01x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fEleEle1:GCA_013347915.1
 genbank_pri: fEleEle1:GCA_013358815.1
 genome_size: 969258935
@@ -62,7 +79,7 @@ genome_size_method: meryl
 last_raw_data: 1572556742
 last_updated: 1584459546
 mito1date: 2019-10-02
-mito1filesize: 5 KiB
+mito1filesize: 5.3 KiB
 mito1length: 17309
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Electrophorus electricus
 name_: Electrophorus_electricus
 pri1date: 2020-03-17
-pri1filesize: 162 MiB
+pri1filesize: 162.4 MiB
 pri1length: 589358956
 pri1n50ctg: 1970762
 pri1n50scf: 16409991

@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-09-02
-alt1filesize: 172 KiB
+alt1filesize: 171.8 KiB
 alt1length: 698035
 alt1n50ctg: 0
 alt1n50scf: 0
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: European pond turtle
+data_arima-1_bases: 277.82 Gbp
+data_arima-1_bytes: 132.4 GiB
+data_arima-1_coverage: 109.25x
+data_arima-1_links: s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Emys_orbicularis/rEmyOrb1/genomic_data/arima/
+data_arima-1_scale: 1.9542
 data_arima_bases: 277.82 Gbp
-data_arima_bytes: 132.403 GB
+data_arima_bytes: 132.4 GiB
 data_arima_coverage: 109.25x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/arima/<br>
-data_arima_scale: 1.9542
-data_bionano_bases: 2.42 Gbp
-data_bionano_bytes: 0.918 GB
-data_bionano_coverage: 0.95x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/bionano/<br>
-data_pacbiohifi_bam_bases: 229.55 Gbp
-data_pacbiohifi_bam_bytes: 183.952 GB
-data_pacbiohifi_bam_coverage: 90.27x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1622
-data_pacbiohifi_clr_bases: 922.09 Gbp
-data_pacbiohifi_clr_bytes: 1736.634 GB
-data_pacbiohifi_clr_coverage: 362.60x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.4945
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 0.9 GiB
+data_bionano-1_coverage: 229.33x
+data_bionano-1_links: s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Emys_orbicularis/rEmyOrb1/genomic_data/bionano/
+data_bionano-1_scale: 612.4697
+data_bionano_bases: N/A
+data_bionano_bytes: 0.9 GiB
+data_bionano_coverage: 229.33x
+data_pacbiohifi_bam-1_bases: 76.30 Gbp
+data_pacbiohifi_bam-1_bytes: 184.0 GiB
+data_pacbiohifi_bam-1_coverage: 30.00x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.3863
+data_pacbiohifi_bam_bases: 76.30 Gbp
+data_pacbiohifi_bam_bytes: 184.0 GiB
+data_pacbiohifi_bam_coverage: 30.00x
+data_pacbiohifi_clr-1_bases: 921.79 Gbp
+data_pacbiohifi_clr-1_bytes: 1.7 TiB
+data_pacbiohifi_clr-1_coverage: 362.48x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.4945
+data_pacbiohifi_clr_bases: 921.79 Gbp
+data_pacbiohifi_clr_bytes: 1.7 TiB
+data_pacbiohifi_clr_coverage: 362.48x
+data_pacbiohifi_fqgz-1_bases: 76.59 Gbp
+data_pacbiohifi_fqgz-1_bytes: 60.5 GiB
+data_pacbiohifi_fqgz-1_coverage: 30.12x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.1782
 data_pacbiohifi_fqgz_bases: 76.59 Gbp
-data_pacbiohifi_fqgz_bytes: 60.539 GB
+data_pacbiohifi_fqgz_bytes: 60.5 GiB
 data_pacbiohifi_fqgz_coverage: 30.12x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.1782
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 2543000000
 genome_size_display: 2.54 Gbp
 genome_size_method: GoAT
@@ -68,7 +89,7 @@ last_updated: 1662125160
 name: Emys orbicularis
 name_: Emys_orbicularis
 pri1date: 2022-09-02
-pri1filesize: 672 MiB
+pri1filesize: 672.2 MiB
 pri1length: 2309740635
 pri1n50ctg: 81997332
 pri1n50scf: 137743343

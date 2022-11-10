@@ -1,6 +1,6 @@
 ---
 alt3date: 2021-04-01
-alt3filesize: 306 MiB
+alt3filesize: 306.5 MiB
 alt3length: 1051868380
 alt3n50ctg: 624054
 alt3n50scf: 624054
@@ -30,30 +30,47 @@ alt3sizes: |
 alt3version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Eurasian nightjar
+data_10x-3_bases: 129.67 Gbp
+data_10x-3_bytes: 80.0 GiB
+data_10x-3_coverage: 109.61x
+data_10x-3_links: s3://genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/10x/<br>
+data_10x-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/10x/
+data_10x-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Caprimulgus_europaeus/bCapEur3/genomic_data/10x/
+data_10x-3_scale: 1.5102
 data_10x_bases: 129.67 Gbp
-data_10x_bytes: 79.967 GB
+data_10x_bytes: 80.0 GiB
 data_10x_coverage: 109.61x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/10x/<br>
-data_10x_scale: 1.5102
+data_arima-3_bases: 70.60 Gbp
+data_arima-3_bytes: 41.8 GiB
+data_arima-3_coverage: 59.67x
+data_arima-3_links: s3://genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/arima/<br>
+data_arima-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/arima/
+data_arima-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Caprimulgus_europaeus/bCapEur3/genomic_data/arima/
+data_arima-3_scale: 1.5730
 data_arima_bases: 70.60 Gbp
-data_arima_bytes: 41.798 GB
+data_arima_bytes: 41.8 GiB
 data_arima_coverage: 59.67x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/arima/<br>
-data_arima_scale: 1.5730
-data_bionano_bases: 1.21 Gbp
-data_bionano_bytes: 2.629 GB
-data_bionano_coverage: 1.02x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/bionano/<br>
-data_pacbio_bases: 159.31 Gbp
-data_pacbio_bytes: 284.450 GB
-data_pacbio_coverage: 134.66x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5216
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-3_bases: N/A
+data_bionano-3_bytes: 2.6 GiB
+data_bionano-3_coverage: 1276.94x
+data_bionano-3_links: s3://genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/bionano/<br>
+data_bionano-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/bionano/
+data_bionano-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Caprimulgus_europaeus/bCapEur3/genomic_data/bionano/
+data_bionano-3_scale: 536.0332
+data_bionano_bases: N/A
+data_bionano_bytes: 2.6 GiB
+data_bionano_coverage: 1276.94x
+data_pacbio-3_bases: 159.26 Gbp
+data_pacbio-3_bytes: 284.4 GiB
+data_pacbio-3_coverage: 134.62x
+data_pacbio-3_links: s3://genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/pacbio/<br>
+data_pacbio-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Caprimulgus_europaeus/bCapEur3/genomic_data/pacbio/
+data_pacbio-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Caprimulgus_europaeus/bCapEur3/genomic_data/pacbio/
+data_pacbio-3_scale: 0.5216
+data_pacbio_bases: 159.26 Gbp
+data_pacbio_bytes: 284.4 GiB
+data_pacbio_coverage: 134.62x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bCapEur3:GCA_907165095.1
 genbank_pri: bCapEur3:GCA_907165065.1
 genome_size: 1183056838
@@ -64,7 +81,7 @@ last_updated: 1639861605
 name: Caprimulgus europaeus
 name_: Caprimulgus_europaeus
 pri3date: 2021-04-01
-pri3filesize: 342 MiB
+pri3filesize: 342.4 MiB
 pri3length: 1177791212
 pri3n50ctg: 30622946
 pri3n50scf: 82614289

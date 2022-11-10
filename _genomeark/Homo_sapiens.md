@@ -1,42 +1,130 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: human
-data_10x_bases: 957.67 Gbp
-data_10x_bytes: 448.708 GB
-data_10x_coverage: 299.27x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/10x/<br>s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/10x/<br>s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/10x/<br>
-data_10x_scale: 1.9877
-data_arima_bases: 635.26 Gbp
-data_arima_bytes: 346.997 GB
-data_arima_coverage: 198.52x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/arima/<br>s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/arima/<br>s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/arima/<br>
-data_arima_scale: 1.7050
-data_bionano_bases: 9.64 Gbp
-data_bionano_bytes: 2.783 GB
-data_bionano_coverage: 3.01x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/bionano/<br>s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/bionano/<br>s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/bionano/<br>
-data_illumina_bases: 436.60 Gbp
-data_illumina_bytes: 216.331 GB
-data_illumina_coverage: 136.44x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/illumina/<br>s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/illumina/<br>
-data_illumina_scale: 1.8796
-data_pacbio_bases: 234.77 Gbp
-data_pacbio_bytes: 402.733 GB
-data_pacbio_coverage: 73.36x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5429
-data_pacbiohifi_bam_bases: 195.90 Gbp
-data_pacbiohifi_bam_bytes: 148.849 GB
-data_pacbiohifi_bam_coverage: 61.22x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/pacbio_hifi/<br>s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/pacbio_hifi/<br>s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.2257
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_10x-1_bases: 252.34 Gbp
+data_10x-1_bytes: 123.4 GiB
+data_10x-1_coverage: 78.86x
+data_10x-1_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap1/genomic_data/10x/
+data_10x-1_scale: 1.9040
+data_10x-2_bases: 364.72 Gbp
+data_10x-2_bytes: 169.7 GiB
+data_10x-2_coverage: 113.97x
+data_10x-2_links: s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/10x/<br>
+data_10x-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap2/genomic_data/10x/
+data_10x-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap2/genomic_data/10x/
+data_10x-2_scale: 2.0017
+data_10x-3_bases: 320.38 Gbp
+data_10x-3_bytes: 155.6 GiB
+data_10x-3_coverage: 100.12x
+data_10x-3_links: s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/10x/<br>
+data_10x-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap3/genomic_data/10x/
+data_10x-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap3/genomic_data/10x/
+data_10x-3_scale: 1.9177
+data_10x_bases: 937.43 Gbp
+data_10x_bytes: 448.7 GiB
+data_10x_coverage: 292.95x
+data_arima-1_bases: 179.36 Gbp
+data_arima-1_bytes: 99.7 GiB
+data_arima-1_coverage: 56.05x
+data_arima-1_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap1/genomic_data/arima/
+data_arima-1_scale: 1.6758
+data_arima-2_bases: 189.99 Gbp
+data_arima-2_bytes: 104.4 GiB
+data_arima-2_coverage: 59.37x
+data_arima-2_links: s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap2/genomic_data/arima/
+data_arima-2_scale: 1.6952
+data_arima-3_bases: 246.06 Gbp
+data_arima-3_bytes: 142.9 GiB
+data_arima-3_coverage: 76.89x
+data_arima-3_links: s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/arima/<br>
+data_arima-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap3/genomic_data/arima/
+data_arima-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap3/genomic_data/arima/
+data_arima-3_scale: 1.6032
+data_arima_bases: 615.41 Gbp
+data_arima_bytes: 347.0 GiB
+data_arima_coverage: 192.32x
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 0.9 GiB
+data_bionano-1_coverage: 177.21x
+data_bionano-1_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap1/genomic_data/bionano/
+data_bionano-1_scale: 573.5967
+data_bionano-2_bases: N/A
+data_bionano-2_bytes: 888.0 MiB
+data_bionano-2_coverage: 170.46x
+data_bionano-2_links: s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/bionano/<br>
+data_bionano-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap2/genomic_data/bionano/
+data_bionano-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap2/genomic_data/bionano/
+data_bionano-2_scale: 585.8256
+data_bionano-3_bases: N/A
+data_bionano-3_bytes: 873.8 MiB
+data_bionano-3_coverage: 168.63x
+data_bionano-3_links: s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/bionano/<br>
+data_bionano-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap3/genomic_data/bionano/
+data_bionano-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap3/genomic_data/bionano/
+data_bionano-3_scale: 588.9302
+data_bionano_bases: N/A
+data_bionano_bytes: 2.6 GiB
+data_bionano_coverage: 516.30x
+data_illumina-1_bases: 207.90 Gbp
+data_illumina-1_bytes: 102.2 GiB
+data_illumina-1_coverage: 64.97x
+data_illumina-1_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap1/genomic_data/illumina/
+data_illumina-1_scale: 1.8953
+data_illumina-2_bases: 232.13 Gbp
+data_illumina-2_bytes: 114.2 GiB
+data_illumina-2_coverage: 72.54x
+data_illumina-2_links: s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap2/genomic_data/illumina/
+data_illumina-2_scale: 1.8935
+data_illumina_bases: 440.03 Gbp
+data_illumina_bytes: 216.3 GiB
+data_illumina_coverage: 137.51x
+data_pacbio-3_bases: 234.68 Gbp
+data_pacbio-3_bytes: 402.6 GiB
+data_pacbio-3_coverage: 73.34x
+data_pacbio-3_links: s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbio/<br>
+data_pacbio-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbio/
+data_pacbio-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap3/genomic_data/pacbio/
+data_pacbio-3_scale: 0.5429
+data_pacbio_bases: 234.68 Gbp
+data_pacbio_bytes: 402.6 GiB
+data_pacbio_coverage: 73.34x
+data_pacbiohifi_bam-1_bases: 73.38 Gbp
+data_pacbiohifi_bam-1_bytes: 53.1 GiB
+data_pacbiohifi_bam-1_coverage: 22.93x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Homo_sapiens/mHomSap1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.2870
+data_pacbiohifi_bam-2_bases: 67.66 Gbp
+data_pacbiohifi_bam-2_bytes: 48.6 GiB
+data_pacbiohifi_bam-2_coverage: 21.14x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Homo_sapiens/mHomSap2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 1.2966
+data_pacbiohifi_bam-3_bases: 61.47 Gbp
+data_pacbiohifi_bam-3_bytes: 47.0 GiB
+data_pacbiohifi_bam-3_coverage: 19.21x
+data_pacbiohifi_bam-3_links: s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_scale: 1.2190
+data_pacbiohifi_bam_bases: 202.51 Gbp
+data_pacbiohifi_bam_bytes: 148.7 GiB
+data_pacbiohifi_bam_coverage: 63.29x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: mHomSap3:GCA_016695395.2
 genbank_pat: mHomSap3:GCA_016700455.2
 genome_size: 3200000000
@@ -45,7 +133,7 @@ genome_size_method: null
 last_raw_data: 1651684795
 last_updated: 1651684795
 mat3date: 2020-07-16
-mat3filesize: 827 MiB
+mat3filesize: 826.5 MiB
 mat3length: 2902197670
 mat3n50ctg: 10206166
 mat3n50scf: 142343034
@@ -74,7 +162,7 @@ mat3sizes: |
   </table>
 mat3version: assembly_curated
 mito3date: 2019-08-16
-mito3filesize: 5 KiB
+mito3filesize: 4.9 KiB
 mito3length: 16566
 mito3n50ctg: 0
 mito3n50scf: 0
@@ -105,7 +193,7 @@ mito3version: assembly_MT_rockefeller
 name: Homo sapiens
 name_: Homo_sapiens
 pat3date: 2020-07-16
-pat3filesize: 786 MiB
+pat3filesize: 786.0 MiB
 pat3length: 2744463177
 pat3n50ctg: 11174026
 pat3n50scf: 131330361

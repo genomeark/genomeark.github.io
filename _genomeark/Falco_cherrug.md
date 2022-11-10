@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-12-14
-alt1filesize: 338 MiB
+alt1filesize: 337.8 MiB
 alt1length: 1210282093
 alt1n50ctg: 807131
 alt1n50scf: 807131
@@ -30,30 +30,37 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Saker falcon
+data_arima-1_bases: 92.92 Gbp
+data_arima-1_bytes: 59.1 GiB
+data_arima-1_coverage: 65.44x
+data_arima-1_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_cherrug/bFalChe1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_cherrug/bFalChe1/genomic_data/arima/
+data_arima-1_scale: 1.4654
 data_arima_bases: 92.92 Gbp
-data_arima_bytes: 59.056 GB
+data_arima_bytes: 59.1 GiB
 data_arima_coverage: 65.44x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/arima/<br>
-data_arima_scale: 1.4654
-data_bionano_bases: 1.31 Gbp
-data_bionano_bytes: 0.021 GB
-data_bionano_coverage: 0.92x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/bionano/<br>
+data_pacbiohifi_bam-1_bases: 34.88 Gbp
+data_pacbiohifi_bam-1_bytes: 27.4 GiB
+data_pacbiohifi_bam-1_coverage: 24.56x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_cherrug/bFalChe1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_cherrug/bFalChe1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.1836
 data_pacbiohifi_bam_bases: 34.88 Gbp
-data_pacbiohifi_bam_bytes: 27.447 GB
+data_pacbiohifi_bam_bytes: 27.4 GiB
 data_pacbiohifi_bam_coverage: 24.56x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1836
-data_pacbiohifi_clr_bases: 597.65 Gbp
-data_pacbiohifi_clr_bytes: 1077.435 GB
-data_pacbiohifi_clr_coverage: 420.88x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5166
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_clr-1_bases: 597.40 Gbp
+data_pacbiohifi_clr-1_bytes: 1.1 TiB
+data_pacbiohifi_clr-1_coverage: 420.70x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Falco_cherrug/bFalChe1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_cherrug/bFalChe1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_cherrug/bFalChe1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5166
+data_pacbiohifi_clr_bases: 597.40 Gbp
+data_pacbiohifi_clr_bytes: 1.1 TiB
+data_pacbiohifi_clr_coverage: 420.70x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bFalChe1:GCA_023634115.1
 genbank_pri: bFalChe1:GCA_023634085.1
 genome_size: 1420000000
@@ -64,7 +71,7 @@ last_updated: 1651598553
 name: Falco cherrug
 name_: Falco_cherrug
 pri1date: 2021-12-14
-pri1filesize: 360 MiB
+pri1filesize: 360.4 MiB
 pri1length: 1309366964
 pri1n50ctg: 18200453
 pri1n50scf: 86073278

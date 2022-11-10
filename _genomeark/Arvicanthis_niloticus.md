@@ -1,36 +1,64 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: African grass rat
+data_10x-1_bases: 261.68 Gbp
+data_10x-1_bytes: 124.2 GiB
+data_10x-1_coverage: 76.96x
+data_10x-1_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicanthis_niloticus/mArvNil1/genomic_data/10x/
+data_10x-1_scale: 1.9622
 data_10x_bases: 261.68 Gbp
-data_10x_bytes: 124.201 GB
+data_10x_bytes: 124.2 GiB
 data_10x_coverage: 76.96x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/10x/<br>
-data_10x_scale: 1.9622
+data_arima-1_bases: 223.51 Gbp
+data_arima-1_bytes: 136.2 GiB
+data_arima-1_coverage: 65.74x
+data_arima-1_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicanthis_niloticus/mArvNil1/genomic_data/arima/
+data_arima-1_scale: 1.5284
 data_arima_bases: 223.51 Gbp
-data_arima_bytes: 136.192 GB
+data_arima_bytes: 136.2 GiB
 data_arima_coverage: 65.74x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/arima/<br>
-data_arima_scale: 1.5284
-data_bionano_bases: 2.65 Gbp
-data_bionano_bytes: 0.862 GB
-data_bionano_coverage: 0.78x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/bionano/<br>
-data_illumina_bases: 499.05 Gbp
-data_illumina_bytes: 247.062 GB
-data_illumina_coverage: 146.78x
-data_illumina_files: 666
-data_illumina_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil2/genomic_data/illumina/<br>s3://genomeark/species/Arvicanthis_niloticus/mArvNil3/genomic_data/illumina/<br>
-data_illumina_scale: 1.8812
-data_pacbio_bases: 207.35 Gbp
-data_pacbio_bytes: 357.288 GB
-data_pacbio_coverage: 60.99x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5405
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 838.7 MiB
+data_bionano-1_coverage: 121.92x
+data_bionano-1_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicanthis_niloticus/mArvNil1/genomic_data/bionano/
+data_bionano-1_scale: 471.3759
+data_bionano_bases: N/A
+data_bionano_bytes: 838.7 MiB
+data_bionano_coverage: 121.92x
+data_illumina-2_bases: 241.49 Gbp
+data_illumina-2_bytes: 118.7 GiB
+data_illumina-2_coverage: 71.03x
+data_illumina-2_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Arvicanthis_niloticus/mArvNil2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicanthis_niloticus/mArvNil2/genomic_data/illumina/
+data_illumina-2_scale: 1.8953
+data_illumina-3_bases: 263.31 Gbp
+data_illumina-3_bytes: 128.4 GiB
+data_illumina-3_coverage: 77.44x
+data_illumina-3_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Arvicanthis_niloticus/mArvNil3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicanthis_niloticus/mArvNil3/genomic_data/illumina/
+data_illumina-3_scale: 1.9099
+data_illumina_bases: 504.80 Gbp
+data_illumina_bytes: 247.1 GiB
+data_illumina_coverage: 148.47x
+data_pacbio-1_bases: 207.27 Gbp
+data_pacbio-1_bytes: 357.1 GiB
+data_pacbio-1_coverage: 60.96x
+data_pacbio-1_links: s3://genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Arvicanthis_niloticus/mArvNil1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicanthis_niloticus/mArvNil1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5405
+data_pacbio_bases: 207.27 Gbp
+data_pacbio_bytes: 357.1 GiB
+data_pacbio_coverage: 60.96x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: mArvNil1:GCA_011750645.1
 genbank_pat: mArvNil1:GCA_011762545.1
 genome_size: 3400000000
@@ -39,7 +67,7 @@ genome_size_method: null
 last_raw_data: 1564249044
 last_updated: 1583924346
 mat1date: 2019-09-03
-mat1filesize: 711 MiB
+mat1filesize: 710.9 MiB
 mat1length: 2486141644
 mat1n50ctg: 5000289
 mat1n50scf: 63826408
@@ -68,7 +96,7 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mgd1date: 2020-01-16
-mgd1filesize: 713 MiB
+mgd1filesize: 713.3 MiB
 mgd1length: 2496761438
 mgd1n50ctg: 5952844
 mgd1n50scf: 73423486
@@ -97,7 +125,7 @@ mgd1sizes: |
   </table>
 mgd1version: assembly_curated
 mito1date: 2019-08-20
-mito1filesize: 5 KiB
+mito1filesize: 4.8 KiB
 mito1length: 16269
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -128,7 +156,7 @@ mito1version: assembly_MT_rockefeller
 name: Arvicanthis niloticus
 name_: Arvicanthis_niloticus
 pat1date: 2019-09-03
-pat1filesize: 711 MiB
+pat1filesize: 711.2 MiB
 pat1length: 2517706780
 pat1n50ctg: 5584045
 pat1n50scf: 64041812

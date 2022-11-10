@@ -1,6 +1,6 @@
 ---
 alt2date: 2019-09-20
-alt2filesize: 298 MiB
+alt2filesize: 298.1 MiB
 alt2length: 1013629683
 alt2n50ctg: 3647845
 alt2n50scf: 3647845
@@ -30,30 +30,47 @@ alt2sizes: |
 alt2version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: tufted duck
+data_10x-2_bases: 132.96 Gbp
+data_10x-2_bytes: 58.2 GiB
+data_10x-2_coverage: 110.80x
+data_10x-2_links: s3://genomeark/species/Aythya_fuligula/bAytFul2/genomic_data/10x/<br>
+data_10x-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aythya_fuligula/bAytFul2/genomic_data/10x/
+data_10x-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aythya_fuligula/bAytFul2/genomic_data/10x/
+data_10x-2_scale: 2.1285
 data_10x_bases: 132.96 Gbp
-data_10x_bytes: 58.177 GB
+data_10x_bytes: 58.2 GiB
 data_10x_coverage: 110.80x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Aythya_fuligula/bAytFul2/genomic_data/10x/<br>
-data_10x_scale: 2.1285
+data_arima-2_bases: 109.64 Gbp
+data_arima-2_bytes: 55.7 GiB
+data_arima-2_coverage: 91.37x
+data_arima-2_links: s3://genomeark/species/Aythya_fuligula/bAytFul2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aythya_fuligula/bAytFul2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aythya_fuligula/bAytFul2/genomic_data/arima/
+data_arima-2_scale: 1.8347
 data_arima_bases: 109.64 Gbp
-data_arima_bytes: 55.657 GB
+data_arima_bytes: 55.7 GiB
 data_arima_coverage: 91.37x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Aythya_fuligula/bAytFul2/genomic_data/arima/<br>
-data_arima_scale: 1.8347
-data_bionano_bases: 1.42 Gbp
-data_bionano_bytes: 0.918 GB
-data_bionano_coverage: 1.18x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Aythya_fuligula/bAytFul2/genomic_data/bionano/<br>
-data_pacbio_bases: 76.91 Gbp
-data_pacbio_bytes: 130.258 GB
-data_pacbio_coverage: 64.09x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Aythya_fuligula/bAytFul2/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5499
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-2_bases: N/A
+data_bionano-2_bytes: 0.9 GiB
+data_bionano-2_coverage: 371.51x
+data_bionano-2_links: s3://genomeark/species/Aythya_fuligula/bAytFul2/genomic_data/bionano/<br>
+data_bionano-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aythya_fuligula/bAytFul2/genomic_data/bionano/
+data_bionano-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aythya_fuligula/bAytFul2/genomic_data/bionano/
+data_bionano-2_scale: 462.4721
+data_bionano_bases: N/A
+data_bionano_bytes: 0.9 GiB
+data_bionano_coverage: 371.51x
+data_pacbio-2_bases: 76.89 Gbp
+data_pacbio-2_bytes: 130.2 GiB
+data_pacbio-2_coverage: 64.07x
+data_pacbio-2_links: s3://genomeark/species/Aythya_fuligula/bAytFul2/genomic_data/pacbio/<br>
+data_pacbio-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aythya_fuligula/bAytFul2/genomic_data/pacbio/
+data_pacbio-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aythya_fuligula/bAytFul2/genomic_data/pacbio/
+data_pacbio-2_scale: 0.5499
+data_pacbio_bases: 76.89 Gbp
+data_pacbio_bytes: 130.2 GiB
+data_pacbio_coverage: 64.07x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bAytFul2:GCA_009819845.1
 genbank_pri: bAytFul2:GCA_009819795.1
 genome_size: 1200000000
@@ -64,7 +81,7 @@ last_updated: 1568989010
 name: Aythya fuligula
 name_: Aythya_fuligula
 pri2date: 2019-09-20
-pri2filesize: 326 MiB
+pri2filesize: 326.2 MiB
 pri2length: 1126988109
 pri2n50ctg: 16295753
 pri2n50scf: 76878203

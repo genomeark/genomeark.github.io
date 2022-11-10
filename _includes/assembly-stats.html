@@ -5,116 +5,85 @@
 {% assign mseqsize = include.mseq | size %}
 {% if lseqsize > 0 or rseqsize > 0 or tseqsize > 0 or mseqsize > 0 %}
 
-<div class="assembly-list">
+{% comment %}  MERGED TRIO and DIPLOID ASSEMBLIES  {% endcomment %}
 
-  {% comment %}  MERGED TRIO and DIPLOID ASSEMBLIES  {% endcomment %}
-
-  {% if include.tseq %}
-  <div class="assembly-block-l">
-    <div class="sequence-file">
-      <b>Individual {{ include.individual }} {{ include.tlabel }} Assembly</b><br>
-      {% if include.tseq %}
-        Version <em>{{ include.tversion }}</em> from {{ include.tdate | date: "%-d %B %Y" }}<br>
-        <a href="{{ include.tseq }}">{{ include.tseq | split: "/" | last }}</a> ({{ include.tfilesize }})<br>
-      {% else %}
-        No merged assembly available.
-      {% endif %}
-    </div>
-    <br>
-    <div class="sequence-sizes-table">
-      {% if include.tsizes %}
-        {{ include.tsizes }}
-        <div class="genome-size">
-          {% if include.genome_size_display %}
-            NG based on genome size {{ page.genome_size_display }}.
-          {% else %}
-            NG based on each assembly size.<br>
-            (No genome size estimate available.)
-          {% endif %}
-        </div>
-      {% endif %}
-    </div>
-  </div>
-
-  <div class="assembly-block-r">
-  </div>
-
-  <div class="genome-size">
-  <br>
-  </div>
-  {% endif %}
-
-  {% comment %}  PHASED PRI/ALT MAT/PAT ASSEMBLIES  {% endcomment %}
-
-  {% if include.rseq or include.lseq %}
-  <div class="assembly-block-l">
-    <div class="sequence-file">
-      <b>Individual {{ include.individual }} {{ include.llabel }} Assembly</b><br>
-      {% if include.lseq %}
-        Version <em>{{ include.lversion }}</em> from {{ include.ldate | date: "%-d %B %Y" }}<br>
-        <a href="{{ include.lseq }}">{{ include.lseq | split: "/" | last }}</a> ({{ include.lfilesize }})<br>
-      {% else %}
-        No primary assembly available.
-      {% endif %}
-    </div>
-    <br>
-    <div class="sequence-sizes-table">
-      {% if include.lsizes %}
-        {{ include.lsizes }}
-        <div class="genome-size">
-          {% if include.genome_size_display %}
-            NG based on genome size {{ page.genome_size_display }}.
-          {% else %}
-            NG based on each assembly size.<br>(No genome size estimate available.)
-          {% endif %}
-        </div>
-      {% endif %}
-    </div>
-  </div>
-
-  <div class="assembly-block-r">
-    <div class="sequence-file">
-      <b>Individual {{ include.individual }} {{ include.rlabel }} Assembly</b><br>
-      {% if include.rseq %}
-        Version <em>{{ include.rversion }}</em> from {{ include.rdate | date: "%-d %B %Y" }}<br>
-        <a href="{{ include.rseq }}">{{ include.rseq | split: "/" | last }}</a> ({{ include.rfilesize }})
-      {% else %}
-        No alternate assembly available.
-      {% endif %}
-    </div>
-    <br>
-    <div class="sequence-sizes-table">
-      {% if include.rsizes %}
-        {{ include.rsizes }}
-        <div class="genome-size">
-          {% if include.genome_size_display %}
-            NG based on genome size {{ page.genome_size_display }}.
-          {% else %}
-            NG based on each assembly size.<br>(No genome size estimate available.)
-          {% endif %}
-        </div>
+{% if include.tseq %}
+<div class="assembly-block-l">
+  <div class="sequence-file">
+    <b>Individual {{ include.individual }} {{ include.tlabel }} Assembly</b><br>
+    {% if include.tseq %}
+      Version <em>{{ include.tversion }}</em> from {{ include.tdate | date: "%-d %B %Y" }}<br>
+      <a href="{{ include.tseq }}">{{ include.tseq | split: "/" | last }}</a> ({{ include.tfilesize }})<br>
+    {% else %}
+      No merged assembly available.
     {% endif %}
-    </div>
   </div>
-
-  <div class="genome-size">
   <br>
+  <div class="sequence-sizes-table">
+    {% if include.tsizes %}
+      {{ include.tsizes }}
+      {% include assembly-stats-size.html %}
+    {% endif %}
   </div>
-  {% endif %}
-
-
-  {% comment %}  MITO ASSEMBLY  {% endcomment %}
-
-  {% if include.mseq %}
-  <div class="mito-sequence">
-    <div class="sequence-file">
-      <b>Individual {{ include.individual }} Mitochondrial Assembly</b><br>
-      Version <em>{{ include.mversion }}</em> from {{ include.mdate | date: "%-d %B %Y" }}<br>
-      <a href="{{ include.mseq }}">{{ include.mseq | split: "/" | last }}</a> ({{ include.mfilesize }})
-    </div>
-  </div>
-  {% endif %}
-
 </div>
+
+<div class="assembly-block-r">
+</div>
+{% endif %}
+
+{% comment %}  PHASED PRI/ALT MAT/PAT ASSEMBLIES  {% endcomment %}
+
+{% if include.rseq or include.lseq %}
+<div class="assembly-block-l">
+  <div class="sequence-file">
+    <b>Individual {{ include.individual }} {{ include.llabel }} Assembly</b><br>
+    {% if include.lseq %}
+      Version <em>{{ include.lversion }}</em> from {{ include.ldate | date: "%-d %B %Y" }}<br>
+      <a href="{{ include.lseq }}">{{ include.lseq | split: "/" | last }}</a> ({{ include.lfilesize }})<br>
+    {% else %}
+      No primary assembly available.
+    {% endif %}
+  </div>
+  <br>
+  <div class="sequence-sizes-table">
+    {% if include.lsizes %}
+      {{ include.lsizes }}
+      {% include assembly-stats-size.html %}
+    {% endif %}
+  </div>
+</div>
+
+<div class="assembly-block-r">
+  <div class="sequence-file">
+    <b>Individual {{ include.individual }} {{ include.rlabel }} Assembly</b><br>
+    {% if include.rseq %}
+      Version <em>{{ include.rversion }}</em> from {{ include.rdate | date: "%-d %B %Y" }}<br>
+      <a href="{{ include.rseq }}">{{ include.rseq | split: "/" | last }}</a> ({{ include.rfilesize }})
+    {% else %}
+      No alternate assembly available.
+    {% endif %}
+  </div>
+  <br>
+  <div class="sequence-sizes-table">
+    {% if include.rsizes %}
+      {{ include.rsizes }}
+      {% include assembly-stats-size.html %}
+    {% endif %}
+  </div>
+</div>
+{% endif %}
+
+{% comment %}  MITO ASSEMBLY  {% endcomment %}
+
+{% if include.mseq %}
+<div class="mito-block">
+  <div class="sequence-file">
+    <b>Individual {{ include.individual }} Mitochondrial Assembly</b><br>
+    Version <em>{{ include.mversion }}</em> from {{ include.mdate | date: "%-d %B %Y" }}<br>
+    <a href="{{ include.mseq }}">{{ include.mseq | split: "/" | last }}</a> ({{ include.mfilesize }})
+  </div>
+</div>
+{% endif %}
+
 
 {% endif %}

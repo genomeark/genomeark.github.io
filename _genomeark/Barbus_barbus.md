@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-03-28
-alt1filesize: 381 MiB
+alt1filesize: 380.6 MiB
 alt1length: 1319370800
 alt1n50ctg: 375494
 alt1n50scf: 376243
@@ -30,12 +30,16 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: barbel
-data_pacbiohifi_bam_bases: 76.02 Gbp
-data_pacbiohifi_bam_bytes: 143.344 GB
-data_pacbiohifi_bam_coverage: 47.96x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Barbus_barbus/fBarBab1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 0.4939
+data_pacbiohifi_bam-1_bases: 75.98 Gbp
+data_pacbiohifi_bam-1_bytes: 143.3 GiB
+data_pacbiohifi_bam-1_coverage: 47.94x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Barbus_barbus/fBarBab1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Barbus_barbus/fBarBab1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Barbus_barbus/fBarBab1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.4939
+data_pacbiohifi_bam_bases: 75.98 Gbp
+data_pacbiohifi_bam_bytes: 143.3 GiB
+data_pacbiohifi_bam_coverage: 47.94x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
 genbank_alt: fBarBab1:GCA_936446605.1
 genbank_pri: fBarBab1:GCA_936440315.1
@@ -46,7 +50,7 @@ last_updated: 1651604585
 name: Barbus barbus
 name_: Barbus_barbus
 pri1date: 2022-03-28
-pri1filesize: 455 MiB
+pri1filesize: 455.1 MiB
 pri1length: 1584929904
 pri1n50ctg: 22843665
 pri1n50scf: 31505967

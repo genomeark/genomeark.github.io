@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-08-22
-alt1filesize: 315 MiB
+alt1filesize: 314.7 MiB
 alt1length: 1081484062
 alt1n50ctg: 174900
 alt1n50scf: 174900
@@ -30,24 +30,36 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: European otter
+data_10x-1_bases: 260.97 Gbp
+data_10x-1_bytes: 165.4 GiB
+data_10x-1_coverage: 107.03x
+data_10x-1_links: s3://genomeark/species/Lutra_lutra/mLutLut1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lutra_lutra/mLutLut1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lutra_lutra/mLutLut1/genomic_data/10x/
+data_10x-1_scale: 1.4697
 data_10x_bases: 260.97 Gbp
-data_10x_bytes: 165.375 GB
+data_10x_bytes: 165.4 GiB
 data_10x_coverage: 107.03x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Lutra_lutra/mLutLut1/genomic_data/10x/<br>
-data_10x_scale: 1.4697
+data_arima-1_bases: 86.60 Gbp
+data_arima-1_bytes: 49.2 GiB
+data_arima-1_coverage: 35.51x
+data_arima-1_links: s3://genomeark/species/Lutra_lutra/mLutLut1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lutra_lutra/mLutLut1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lutra_lutra/mLutLut1/genomic_data/arima/
+data_arima-1_scale: 1.6385
 data_arima_bases: 86.60 Gbp
-data_arima_bytes: 49.222 GB
+data_arima_bytes: 49.2 GiB
 data_arima_coverage: 35.51x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Lutra_lutra/mLutLut1/genomic_data/arima/<br>
-data_arima_scale: 1.6385
-data_pacbio_bases: 157.91 Gbp
-data_pacbio_bytes: 273.251 GB
-data_pacbio_coverage: 64.76x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Lutra_lutra/mLutLut1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5382
+data_pacbio-1_bases: 157.85 Gbp
+data_pacbio-1_bytes: 273.1 GiB
+data_pacbio-1_coverage: 64.73x
+data_pacbio-1_links: s3://genomeark/species/Lutra_lutra/mLutLut1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lutra_lutra/mLutLut1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lutra_lutra/mLutLut1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5382
+data_pacbio_bases: 157.85 Gbp
+data_pacbio_bytes: 273.1 GiB
+data_pacbio_coverage: 64.73x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: mLutLut1:GCA_902653095.1
 genbank_pri: mLutLut1:GCA_902655055.2
@@ -56,7 +68,7 @@ genome_size_display: 2.44 Gbp
 last_raw_data: 1591286244
 last_updated: 1632339071
 mito1date: 2019-10-03
-mito1filesize: 5 KiB
+mito1filesize: 4.9 KiB
 mito1length: 16536
 mito1n50ctg: 16536
 mito1n50scf: 16536
@@ -87,7 +99,7 @@ mito1version: assembly_MT_rockefeller
 name: Lutra lutra
 name_: Lutra_lutra
 pri1date: 2019-08-22
-pri1filesize: 709 MiB
+pri1filesize: 709.2 MiB
 pri1length: 2438442342
 pri1n50ctg: 30403456
 pri1n50scf: 149004807

@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-08-15
-alt1filesize: 332 MiB
+alt1filesize: 331.6 MiB
 alt1length: 1122486764
 alt1n50ctg: 1576013
 alt1n50scf: 1576013
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: carmine bee-eater
+data_10x-1_bases: 130.10 Gbp
+data_10x-1_bytes: 66.3 GiB
+data_10x-1_coverage: 100.07x
+data_10x-1_links: s3://genomeark/species/Merops_nubicus/bMerNub1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Merops_nubicus/bMerNub1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Merops_nubicus/bMerNub1/genomic_data/10x/
+data_10x-1_scale: 1.8265
 data_10x_bases: 130.10 Gbp
-data_10x_bytes: 66.335 GB
+data_10x_bytes: 66.3 GiB
 data_10x_coverage: 100.07x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Merops_nubicus/bMerNub1/genomic_data/10x/<br>
-data_10x_scale: 1.8265
+data_arima-1_bases: 142.86 Gbp
+data_arima-1_bytes: 76.0 GiB
+data_arima-1_coverage: 109.89x
+data_arima-1_links: s3://genomeark/species/Merops_nubicus/bMerNub1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Merops_nubicus/bMerNub1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Merops_nubicus/bMerNub1/genomic_data/arima/
+data_arima-1_scale: 1.7506
 data_arima_bases: 142.86 Gbp
-data_arima_bytes: 76.002 GB
+data_arima_bytes: 76.0 GiB
 data_arima_coverage: 109.89x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Merops_nubicus/bMerNub1/genomic_data/arima/<br>
-data_arima_scale: 1.7506
-data_bionano_bases: 1.43 Gbp
-data_bionano_bytes: 0.737 GB
-data_bionano_coverage: 1.10x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Merops_nubicus/bMerNub1/genomic_data/bionano/<br>
-data_pacbio_bases: 78.23 Gbp
-data_pacbio_bytes: 134.080 GB
-data_pacbio_coverage: 60.18x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Merops_nubicus/bMerNub1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5434
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 734.2 MiB
+data_bionano-1_coverage: 337.94x
+data_bionano-1_links: s3://genomeark/species/Merops_nubicus/bMerNub1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Merops_nubicus/bMerNub1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Merops_nubicus/bMerNub1/genomic_data/bionano/
+data_bionano-1_scale: 570.6591
+data_bionano_bases: N/A
+data_bionano_bytes: 734.2 MiB
+data_bionano_coverage: 337.94x
+data_pacbio-1_bases: 78.21 Gbp
+data_pacbio-1_bytes: 134.0 GiB
+data_pacbio-1_coverage: 60.16x
+data_pacbio-1_links: s3://genomeark/species/Merops_nubicus/bMerNub1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Merops_nubicus/bMerNub1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Merops_nubicus/bMerNub1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5434
+data_pacbio_bases: 78.21 Gbp
+data_pacbio_bytes: 134.0 GiB
+data_pacbio_coverage: 60.16x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bMerNub1:GCA_009819585.1
 genbank_pri: bMerNub1:GCA_009819595.1
 genome_size: 1300000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1568491387
 last_updated: 1569703895
 mito1date: 2019-09-18
-mito1filesize: 5 KiB
+mito1filesize: 5.2 KiB
 mito1length: 18687
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller
 name: Merops nubicus
 name_: Merops_nubicus
 pri1date: 2019-08-15
-pri1filesize: 334 MiB
+pri1filesize: 333.7 MiB
 pri1length: 1149337515
 pri1n50ctg: 11283056
 pri1n50scf: 47935011

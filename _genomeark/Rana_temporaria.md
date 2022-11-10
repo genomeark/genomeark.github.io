@@ -1,6 +1,6 @@
 ---
 alt1date: 2020-04-24
-alt1filesize: 1 GiB
+alt1filesize: 1.0 GiB
 alt1length: 3686294574
 alt1n50ctg: 547939
 alt1n50scf: 548370
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common frog
+data_10x-1_bases: 404.57 Gbp
+data_10x-1_bytes: 251.0 GiB
+data_10x-1_coverage: 98.40x
+data_10x-1_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rana_temporaria/aRanTem1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rana_temporaria/aRanTem1/genomic_data/10x/
+data_10x-1_scale: 1.5012
 data_10x_bases: 404.57 Gbp
-data_10x_bytes: 250.988 GB
+data_10x_bytes: 251.0 GiB
 data_10x_coverage: 98.40x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/10x/<br>
-data_10x_scale: 1.5012
-data_bionano_bases: 8.33 Gbp
-data_bionano_bytes: 2.186 GB
-data_bionano_coverage: 2.03x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.2 GiB
+data_bionano-1_coverage: 380.78x
+data_bionano-1_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rana_temporaria/aRanTem1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rana_temporaria/aRanTem1/genomic_data/bionano/
+data_bionano-1_scale: 673.6625
+data_bionano_bases: N/A
+data_bionano_bytes: 2.2 GiB
+data_bionano_coverage: 380.78x
+data_dovetail-1_bases: 338.15 Gbp
+data_dovetail-1_bytes: 222.7 GiB
+data_dovetail-1_coverage: 82.25x
+data_dovetail-1_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rana_temporaria/aRanTem1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rana_temporaria/aRanTem1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.4144
 data_dovetail_bases: 338.15 Gbp
-data_dovetail_bytes: 222.656 GB
+data_dovetail_bytes: 222.7 GiB
 data_dovetail_coverage: 82.25x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.4144
-data_pacbio_bases: 320.10 Gbp
-data_pacbio_bytes: 579.652 GB
-data_pacbio_coverage: 77.86x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5143
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_pacbio-1_bases: 319.99 Gbp
+data_pacbio-1_bytes: 579.5 GiB
+data_pacbio-1_coverage: 77.83x
+data_pacbio-1_links: s3://genomeark/species/Rana_temporaria/aRanTem1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rana_temporaria/aRanTem1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rana_temporaria/aRanTem1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5143
+data_pacbio_bases: 319.99 Gbp
+data_pacbio_bytes: 579.5 GiB
+data_pacbio_coverage: 77.83x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: aRanTem1:GCA_905171725.1
 genbank_pri: aRanTem1:GCA_905171775.1
 genome_size: 4111422596
@@ -61,7 +78,7 @@ genome_size_display: 4.11 Gbp
 last_raw_data: 1578516698
 last_updated: 1605869359
 mito1date: 2019-10-03
-mito1filesize: 6 KiB
+mito1filesize: 5.9 KiB
 mito1length: 22664
 mito1n50ctg: 22664
 mito1n50scf: 22664
@@ -92,7 +109,7 @@ mito1version: assembly_MT_rockefeller
 name: Rana temporaria
 name_: Rana_temporaria
 pri1date: 2020-04-24
-pri1filesize: 1 GiB
+pri1filesize: 1.1 GiB
 pri1length: 4111422596
 pri1n50ctg: 6262427
 pri1n50scf: 481763206

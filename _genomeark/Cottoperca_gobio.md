@@ -1,6 +1,6 @@
 ---
 alt3date: 2018-10-26
-alt3filesize: 194 MiB
+alt3filesize: 193.7 MiB
 alt3length: 671265480
 alt3n50ctg: 100169
 alt3n50scf: 100256
@@ -30,30 +30,47 @@ alt3sizes: |
 alt3version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: channel bull blenny
+data_10x-3_bases: 98.10 Gbp
+data_10x-3_bytes: 65.7 GiB
+data_10x-3_coverage: 140.15x
+data_10x-3_links: s3://genomeark/species/Cottoperca_gobio/fCotGob3/genomic_data/10x/<br>
+data_10x-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cottoperca_gobio/fCotGob3/genomic_data/10x/
+data_10x-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cottoperca_gobio/fCotGob3/genomic_data/10x/
+data_10x-3_scale: 1.3916
 data_10x_bases: 98.10 Gbp
-data_10x_bytes: 65.656 GB
+data_10x_bytes: 65.7 GiB
 data_10x_coverage: 140.15x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Cottoperca_gobio/fCotGob3/genomic_data/10x/<br>
-data_10x_scale: 1.3916
+data_arima-2_bases: 89.97 Gbp
+data_arima-2_bytes: 43.7 GiB
+data_arima-2_coverage: 128.52x
+data_arima-2_links: s3://genomeark/species/Cottoperca_gobio/fCotGob2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cottoperca_gobio/fCotGob2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cottoperca_gobio/fCotGob2/genomic_data/arima/
+data_arima-2_scale: 1.9177
 data_arima_bases: 89.97 Gbp
-data_arima_bytes: 43.692 GB
+data_arima_bytes: 43.7 GiB
 data_arima_coverage: 128.52x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Cottoperca_gobio/fCotGob2/genomic_data/arima/<br>
-data_arima_scale: 1.9177
-data_bionano_bases: 3.05 Gbp
-data_bionano_bytes: 3.399 GB
-data_bionano_coverage: 4.35x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Cottoperca_gobio/fCotGob3/genomic_data/bionano/<br>
-data_pacbio_bases: 48.64 Gbp
-data_pacbio_bytes: 86.794 GB
-data_pacbio_coverage: 69.48x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Cottoperca_gobio/fCotGob3/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5219
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-3_bases: N/A
+data_bionano-3_bytes: 3.4 GiB
+data_bionano-3_coverage: 3785.21x
+data_bionano-3_links: s3://genomeark/species/Cottoperca_gobio/fCotGob3/genomic_data/bionano/<br>
+data_bionano-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cottoperca_gobio/fCotGob3/genomic_data/bionano/
+data_bionano-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cottoperca_gobio/fCotGob3/genomic_data/bionano/
+data_bionano-3_scale: 727.4977
+data_bionano_bases: N/A
+data_bionano_bytes: 3.4 GiB
+data_bionano_coverage: 3785.21x
+data_pacbio-3_bases: 48.60 Gbp
+data_pacbio-3_bytes: 86.7 GiB
+data_pacbio-3_coverage: 69.44x
+data_pacbio-3_links: s3://genomeark/species/Cottoperca_gobio/fCotGob3/genomic_data/pacbio/<br>
+data_pacbio-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cottoperca_gobio/fCotGob3/genomic_data/pacbio/
+data_pacbio-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cottoperca_gobio/fCotGob3/genomic_data/pacbio/
+data_pacbio-3_scale: 0.5219
+data_pacbio_bases: 48.60 Gbp
+data_pacbio_bytes: 86.7 GiB
+data_pacbio_coverage: 69.44x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fCotGob3:GCA_900634435.1
 genbank_pri: fCotGob3:GCA_900634415.1
 genome_size: 700000000
@@ -63,7 +80,7 @@ last_updated: 1547563550
 name: Cottoperca gobio
 name_: Cottoperca_gobio
 pri3date: 2018-10-26
-pri3filesize: 160 MiB
+pri3filesize: 160.1 MiB
 pri3length: 609391784
 pri3n50ctg: 5027187
 pri3n50scf: 24104793

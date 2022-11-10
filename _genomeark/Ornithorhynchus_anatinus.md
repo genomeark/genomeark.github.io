@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-12-06
-alt1filesize: 458 MiB
+alt1filesize: 457.7 MiB
 alt1length: 1575252831
 alt1n50ctg: 556712
 alt1n50scf: 556712
@@ -30,36 +30,57 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: platypus
+data_10x-1_bases: 359.56 Gbp
+data_10x-1_bytes: 166.6 GiB
+data_10x-1_coverage: 168.95x
+data_10x-1_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/10x/
+data_10x-1_scale: 2.0103
 data_10x_bases: 359.56 Gbp
-data_10x_bytes: 166.575 GB
+data_10x_bytes: 166.6 GiB
 data_10x_coverage: 168.95x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/10x/<br>
-data_10x_scale: 2.0103
-data_bionano_bases: 2.25 Gbp
-data_bionano_bytes: 1.882 GB
-data_bionano_coverage: 1.06x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.9 GiB
+data_bionano-1_coverage: 672.40x
+data_bionano-1_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/bionano/
+data_bionano-1_scale: 710.3549
+data_bionano_bases: N/A
+data_bionano_bytes: 1.9 GiB
+data_bionano_coverage: 672.40x
+data_dovetail-2_bases: 44.44 Gbp
+data_dovetail-2_bytes: 26.7 GiB
+data_dovetail-2_coverage: 20.88x
+data_dovetail-2_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna2/genomic_data/dovetail/<br>
+data_dovetail-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ornithorhynchus_anatinus/mOrnAna2/genomic_data/dovetail/
+data_dovetail-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ornithorhynchus_anatinus/mOrnAna2/genomic_data/dovetail/
+data_dovetail-2_scale: 1.5489
 data_dovetail_bases: 44.44 Gbp
-data_dovetail_bytes: 26.721 GB
+data_dovetail_bytes: 26.7 GiB
 data_dovetail_coverage: 20.88x
-data_dovetail_files: 666
-data_dovetail_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna2/genomic_data/dovetail/<br>
-data_dovetail_scale: 1.5489
-data_pacbio_bases: 138.22 Gbp
-data_pacbio_bytes: 499.736 GB
-data_pacbio_coverage: 64.95x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.2576
+data_pacbio-1_bases: 138.19 Gbp
+data_pacbio-1_bytes: 499.6 GiB
+data_pacbio-1_coverage: 64.93x
+data_pacbio-1_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.2576
+data_pacbio_bases: 138.19 Gbp
+data_pacbio_bytes: 499.6 GiB
+data_pacbio_coverage: 64.93x
+data_phase-1_bases: 103.06 Gbp
+data_phase-1_bytes: 61.2 GiB
+data_phase-1_coverage: 48.43x
+data_phase-1_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/phase/<br>
+data_phase-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/phase/
+data_phase-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/phase/
+data_phase-1_scale: 1.5696
 data_phase_bases: 103.06 Gbp
-data_phase_bytes: 61.153 GB
+data_phase_bytes: 61.2 GiB
 data_phase_coverage: 48.43x
-data_phase_files: 666
-data_phase_links: s3://genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/phase/<br>
-data_phase_scale: 1.5696
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Phase</em>'
 genbank_alt: mOrnAna1:GCA_004115175.2
 genbank_pri: mOrnAna1:GCA_004115215.4
 genome_size: 2128226567
@@ -67,7 +88,7 @@ genome_size_display: 2.13 Gbp
 last_raw_data: 1536347587
 last_updated: 1582640034
 mito1date: 2018-11-16
-mito1filesize: 5 KiB
+mito1filesize: 5.3 KiB
 mito1length: 16374
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -98,7 +119,7 @@ mito1version: assembly_curated
 name: Ornithorhynchus anatinus
 name_: Ornithorhynchus_anatinus
 pri1date: 2019-12-06
-pri1filesize: 530 MiB
+pri1filesize: 530.0 MiB
 pri1length: 1859264908
 pri1n50ctg: 12418282
 pri1n50scf: 70139320

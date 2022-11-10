@@ -1,6 +1,6 @@
 ---
 alt1date: 2019-09-24
-alt1filesize: 427 MiB
+alt1filesize: 427.0 MiB
 alt1length: 1429379209
 alt1n50ctg: 115113
 alt1n50scf: 115113
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: sand lizard
+data_10x-1_bases: 149.80 Gbp
+data_10x-1_bytes: 76.3 GiB
+data_10x-1_coverage: 74.90x
+data_10x-1_links: s3://genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lacerta_agilis/rLacAgi1/genomic_data/10x/
+data_10x-1_scale: 1.8278
 data_10x_bases: 149.80 Gbp
-data_10x_bytes: 76.328 GB
+data_10x_bytes: 76.3 GiB
 data_10x_coverage: 74.90x
-data_10x_files: 666
-data_10x_links: s3://genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/10x/<br>
-data_10x_scale: 1.8278
+data_arima-1_bases: 179.51 Gbp
+data_arima-1_bytes: 89.6 GiB
+data_arima-1_coverage: 89.76x
+data_arima-1_links: s3://genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lacerta_agilis/rLacAgi1/genomic_data/arima/
+data_arima-1_scale: 1.8656
 data_arima_bases: 179.51 Gbp
-data_arima_bytes: 89.615 GB
+data_arima_bytes: 89.6 GiB
 data_arima_coverage: 89.76x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/arima/<br>
-data_arima_scale: 1.8656
-data_bionano_bases: 2.88 Gbp
-data_bionano_bytes: 1.730 GB
-data_bionano_coverage: 1.44x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/bionano/<br>
-data_pacbio_bases: 126.88 Gbp
-data_pacbio_bytes: 221.246 GB
-data_pacbio_coverage: 63.44x
-data_pacbio_files: 666
-data_pacbio_links: s3://genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/pacbio/<br>
-data_pacbio_scale: 0.5341
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.7 GiB
+data_bionano-1_coverage: 496.89x
+data_bionano-1_links: s3://genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lacerta_agilis/rLacAgi1/genomic_data/bionano/
+data_bionano-1_scale: 548.1109
+data_bionano_bases: N/A
+data_bionano_bytes: 1.7 GiB
+data_bionano_coverage: 496.89x
+data_pacbio-1_bases: 126.83 Gbp
+data_pacbio-1_bytes: 221.2 GiB
+data_pacbio-1_coverage: 63.42x
+data_pacbio-1_links: s3://genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/pacbio/<br>
+data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lacerta_agilis/rLacAgi1/genomic_data/pacbio/
+data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lacerta_agilis/rLacAgi1/genomic_data/pacbio/
+data_pacbio-1_scale: 0.5341
+data_pacbio_bases: 126.83 Gbp
+data_pacbio_bytes: 221.2 GiB
+data_pacbio_coverage: 63.42x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: rLacAgi1:GCA_009819545.1
 genbank_pri: rLacAgi1:GCA_009819535.1
 genome_size: 2000000000
@@ -62,7 +79,7 @@ genome_size_method: null
 last_raw_data: 1568606077
 last_updated: 1587741067
 mito1date: 2020-04-23
-mito1filesize: 5 KiB
+mito1filesize: 5.1 KiB
 mito1length: 19099
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -93,7 +110,7 @@ mito1version: assembly_MT_rockefeller_nanopore
 name: Lacerta agilis
 name_: Lacerta_agilis
 pri1date: 2019-09-24
-pri1filesize: 406 MiB
+pri1filesize: 406.2 MiB
 pri1length: 1391387079
 pri1n50ctg: 3374645
 pri1n50scf: 61599656

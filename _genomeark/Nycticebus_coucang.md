@@ -1,6 +1,6 @@
 ---
 alt1date: 2022-04-01
-alt1filesize: 782 MiB
+alt1filesize: 782.3 MiB
 alt1length: 2692941978
 alt1n50ctg: 809381
 alt1n50scf: 809381
@@ -30,45 +30,95 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: slow loris
+data_arima-1_bases: 289.27 Gbp
+data_arima-1_bytes: 146.4 GiB
+data_arima-1_coverage: 82.62x
+data_arima-1_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nycticebus_coucang/mNycCou1/genomic_data/arima/
+data_arima-1_scale: 1.8396
 data_arima_bases: 289.27 Gbp
-data_arima_bytes: 146.446 GB
+data_arima_bytes: 146.4 GiB
 data_arima_coverage: 82.62x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/arima/<br>
-data_arima_scale: 1.8396
-data_bionano_bases: 3.35 Gbp
-data_bionano_bytes: 2.973 GB
-data_bionano_coverage: 0.96x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/bionano/<br>
-data_pacbiohifi_bam_bases: 497.15 Gbp
-data_pacbiohifi_bam_bytes: 377.595 GB
-data_pacbiohifi_bam_coverage: 142.00x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.2262
-data_pacbiohifi_clr_bases: 388.60 Gbp
-data_pacbiohifi_clr_bytes: 927.025 GB
-data_pacbiohifi_clr_coverage: 111.00x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.3904
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.9 GiB
+data_bionano-1_coverage: 387.42x
+data_bionano-1_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nycticebus_coucang/mNycCou1/genomic_data/bionano/
+data_bionano-1_scale: 433.5831
+data_bionano_bases: N/A
+data_bionano_bytes: 2.9 GiB
+data_bionano_coverage: 387.42x
+data_pacbiohifi_bam-1_bases: 110.77 Gbp
+data_pacbiohifi_bam-1_bytes: 377.6 GiB
+data_pacbiohifi_bam-1_coverage: 31.64x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2732
+data_pacbiohifi_bam_bases: 110.77 Gbp
+data_pacbiohifi_bam_bytes: 377.6 GiB
+data_pacbiohifi_bam_coverage: 31.64x
+data_pacbiohifi_clr-1_bases: 388.50 Gbp
+data_pacbiohifi_clr-1_bytes: 0.9 TiB
+data_pacbiohifi_clr-1_coverage: 110.97x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.3904
+data_pacbiohifi_clr_bases: 388.50 Gbp
+data_pacbiohifi_clr_bytes: 0.9 TiB
+data_pacbiohifi_clr_coverage: 110.97x
+data_pacbiohifi_fqgz-1_bases: 110.73 Gbp
+data_pacbiohifi_fqgz-1_bytes: 84.1 GiB
+data_pacbiohifi_fqgz-1_coverage: 31.63x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2258
 data_pacbiohifi_fqgz_bases: 110.73 Gbp
-data_pacbiohifi_fqgz_bytes: 84.127 GB
+data_pacbiohifi_fqgz_bytes: 84.1 GiB
 data_pacbiohifi_fqgz_coverage: 31.63x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 1.2258
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 3501000000
 genome_size_display: 3.50 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651605637
-last_updated: 1655314105
+last_updated: 1667318869
+mito1date: 2022-06-15
+mito1filesize: 5.0 KiB
+mito1length: 16752
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Nycticebus_coucang/mNycCou1/assembly_MT_rockefeller/mNycCou1.MT.20220615.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.75 Kbp </th><th> 1 </th><th> 16.75 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Nycticebus coucang
 name_: Nycticebus_coucang
 pri1date: 2022-04-01
-pri1filesize: 845 MiB
+pri1filesize: 845.5 MiB
 pri1length: 2917154053
 pri1n50ctg: 31786907
 pri1n50scf: 128238841

@@ -1,36 +1,57 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: corroboree frog
+data_arima-3_bases: 381.02 Gbp
+data_arima-3_bytes: 188.4 GiB
+data_arima-3_coverage: 44.53x
+data_arima-3_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/arima/<br>
+data_arima-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/arima/
+data_arima-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudophryne_corroboree/aPseCor3/genomic_data/arima/
+data_arima-3_scale: 1.8836
 data_arima_bases: 381.02 Gbp
-data_arima_bytes: 188.389 GB
+data_arima_bytes: 188.4 GiB
 data_arima_coverage: 44.53x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/arima/<br>
-data_arima_scale: 1.8836
-data_bionano_bases: 10.12 Gbp
-data_bionano_bytes: 17.445 GB
-data_bionano_coverage: 1.18x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/bionano/<br>
-data_pacbiohifi_bam_bases: 6214.11 Gbp
-data_pacbiohifi_bam_bytes: 788.391 GB
-data_pacbiohifi_bam_coverage: 726.20x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 7.3407
-data_pacbiohifi_clr_bases: 820.44 Gbp
-data_pacbiohifi_clr_bytes: 1999.711 GB
-data_pacbiohifi_clr_coverage: 95.88x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.3821
-data_pacbiohifi_fqgz_bases: 1372.57 Gbp
-data_pacbiohifi_fqgz_bytes: 174.965 GB
-data_pacbiohifi_fqgz_coverage: 160.40x
-data_pacbiohifi_fqgz_files: 666
-data_pacbiohifi_fqgz_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz_scale: 7.3061
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_bionano-3_bases: N/A
+data_bionano-3_bytes: 17.4 GiB
+data_bionano-3_coverage: 1241.01x
+data_bionano-3_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/bionano/<br>
+data_bionano-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/bionano/
+data_bionano-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudophryne_corroboree/aPseCor3/genomic_data/bionano/
+data_bionano-3_scale: 570.0040
+data_bionano_bases: N/A
+data_bionano_bytes: 17.4 GiB
+data_bionano_coverage: 1241.01x
+data_pacbiohifi_bam-3_bases: 229.32 Gbp
+data_pacbiohifi_bam-3_bytes: 788.4 GiB
+data_pacbiohifi_bam-3_coverage: 26.80x
+data_pacbiohifi_bam-3_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_scale: 0.2709
+data_pacbiohifi_bam_bases: 229.32 Gbp
+data_pacbiohifi_bam_bytes: 788.4 GiB
+data_pacbiohifi_bam_coverage: 26.80x
+data_pacbiohifi_clr-3_bases: 820.24 Gbp
+data_pacbiohifi_clr-3_bytes: 2.0 TiB
+data_pacbiohifi_clr-3_coverage: 95.86x
+data_pacbiohifi_clr-3_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-3_scale: 0.3821
+data_pacbiohifi_clr_bases: 820.24 Gbp
+data_pacbiohifi_clr_bytes: 2.0 TiB
+data_pacbiohifi_clr_coverage: 95.86x
+data_pacbiohifi_fqgz-3_bases: 230.31 Gbp
+data_pacbiohifi_fqgz-3_bytes: 175.0 GiB
+data_pacbiohifi_fqgz-3_coverage: 26.91x
+data_pacbiohifi_fqgz-3_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-3_scale: 1.2259
+data_pacbiohifi_fqgz_bases: 230.31 Gbp
+data_pacbiohifi_fqgz_bytes: 175.0 GiB
+data_pacbiohifi_fqgz_coverage: 26.91x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 8557000000
 genome_size_display: 8.56 Gbp
 genome_size_method: GoAT

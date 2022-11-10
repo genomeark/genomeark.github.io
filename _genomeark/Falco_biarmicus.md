@@ -1,6 +1,6 @@
 ---
 alt1date: 2021-12-14
-alt1filesize: 341 MiB
+alt1filesize: 340.6 MiB
 alt1length: 1202443375
 alt1n50ctg: 1479948
 alt1n50scf: 1479948
@@ -30,30 +30,47 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: lanner falcon
+data_arima-1_bases: 85.46 Gbp
+data_arima-1_bytes: 56.0 GiB
+data_arima-1_coverage: 61.04x
+data_arima-1_links: s3://genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_biarmicus/bFalBia1/genomic_data/arima/
+data_arima-1_scale: 1.4211
 data_arima_bases: 85.46 Gbp
-data_arima_bytes: 56.004 GB
+data_arima_bytes: 56.0 GiB
 data_arima_coverage: 61.04x
-data_arima_files: 666
-data_arima_links: s3://genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/arima/<br>
-data_arima_scale: 1.4211
-data_bionano_bases: 1.31 Gbp
-data_bionano_bytes: 2.277 GB
-data_bionano_coverage: 0.94x
-data_bionano_files: 666
-data_bionano_links: s3://genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/bionano/<br>
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 2.3 GiB
+data_bionano-1_coverage: 704.32x
+data_bionano-1_links: s3://genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_biarmicus/bFalBia1/genomic_data/bionano/
+data_bionano-1_scale: 406.9825
+data_bionano_bases: N/A
+data_bionano_bytes: 2.3 GiB
+data_bionano_coverage: 704.32x
+data_pacbiohifi_bam-1_bases: 38.88 Gbp
+data_pacbiohifi_bam-1_bytes: 32.1 GiB
+data_pacbiohifi_bam-1_coverage: 27.77x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_biarmicus/bFalBia1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.1290
 data_pacbiohifi_bam_bases: 38.88 Gbp
-data_pacbiohifi_bam_bytes: 32.069 GB
+data_pacbiohifi_bam_bytes: 32.1 GiB
 data_pacbiohifi_bam_coverage: 27.77x
-data_pacbiohifi_bam_files: 666
-data_pacbiohifi_bam_links: s3://genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam_scale: 1.1290
-data_pacbiohifi_clr_bases: 724.33 Gbp
-data_pacbiohifi_clr_bytes: 1305.557 GB
-data_pacbiohifi_clr_coverage: 517.38x
-data_pacbiohifi_clr_files: 666
-data_pacbiohifi_clr_links: s3://genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr_scale: 0.5167
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Bionano</em> ::: <em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_clr-1_bases: 724.03 Gbp
+data_pacbiohifi_clr-1_bytes: 1.3 TiB
+data_pacbiohifi_clr-1_coverage: 517.17x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_biarmicus/bFalBia1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5167
+data_pacbiohifi_clr_bases: 724.03 Gbp
+data_pacbiohifi_clr_bytes: 1.3 TiB
+data_pacbiohifi_clr_coverage: 517.17x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bFalBia1:GCA_023634305.1
 genbank_pri: bFalBia1:GCA_023638135.1
 genome_size: 1400000000
@@ -64,7 +81,7 @@ last_updated: 1651597563
 name: Falco biarmicus
 name_: Falco_biarmicus
 pri1date: 2021-12-14
-pri1filesize: 359 MiB
+pri1filesize: 359.3 MiB
 pri1length: 1285492283
 pri1n50ctg: 21441669
 pri1n50scf: 82548771
