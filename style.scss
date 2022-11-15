@@ -8,11 +8,19 @@
 @import "reset";
 
 // Mobile breakpoints
-@mixin mobile {
-  @media screen and (max-width: 640px) {
+@mixin narrow {
+  @media only screen and (max-width: 1024px) {
     @content;
   }
 }
+
+@mixin wide {
+  @media only screen and (min-width: 1025px) {
+    @content;
+  }
+}
+
+
 
 /**************/
 /* BASE RULES */
@@ -31,17 +39,17 @@ body {
 }
 
 .container {
-  margin: 0 auto;
-  max-width: 80%;
+  @include narrow { max-width:99%; }
+  @include wide   { max-width:80%; }
+  margin:  0 auto;
   padding: 0 10px;
-  width: 100%;
+  width:   100%;
 }
 
 .icons {
-  margin: 0 auto;
-  max-width: 80%;
-  padding: 0px;
-  width: 100%;
+  margin:    0 auto;
+  padding:   0px;
+  width:     100%;
 }
 
 .center {
@@ -50,42 +58,6 @@ body {
   margin-right: auto;
   display: block;
 }
-
-//h1, h2, h3, h4, h5, h6 {
-//  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-//  color: #222222;
-//
-//  margin: 1em 0 1em 0;
-//  padding: 0;
-//
-///*  @include mobile {
-//    line-height: 1.4;
-//  }*/
-//}
-//
-//h1 {
-//  font-size: 200%;
-//  margin:    0;
-//  color:     #000000;
-//}
-//
-//h2 {
-//  font-size: 150%;
-//  line-height: 1;
-//  margin: 1em 0px 1em 0px;
-//  letter-spacing: 1px;
-//}
-//
-//h3 {
-//  font-size: 20px;
-//}
-//
-//h4 {
-//  font-size: 16px;
-//  color: #666666;
-//}
-
-
 
 a {
   color: #1111ee;
@@ -148,29 +120,6 @@ p {
   margin-bottom: 36px;
 }
 
-.sectionTitle {
-  text-align: center;
-  color: #666666;
-  line-height: 1;
-  font-size: 30px;
-    vertical-align: middle;
-    letter-spacing: 1px;
-}
-
-.subheading {
-    color: #666666;
-  margin: 0px 0px 15px 0px;
-  border-bottom: 1px solid lightGray;
-}
-
-.mainHeading {
-  margin-bottom: 0;
-}
-
-
-
-
-
 
 
 
@@ -198,19 +147,14 @@ p {
 .masthead {
   padding-top:      20px;
   padding-bottom:   20px;
-
   vertical-align:   middle;
-
-  @include mobile {
-    text-align: center;
-  }
 }
 
 .site-info {
   color:  #eeeeee;
   float:  left;
 
-  @include mobile {
+  @include narrow {
     float:    none;
     display:  block;
     margin:   0 auto;
@@ -231,10 +175,6 @@ p {
 
 .site-description {  //  Genome Data from ....
   font-size:      100%;
-
-  @include mobile {
-    margin: 3px 0;
-  }
 }
 
 
@@ -272,18 +212,6 @@ footer {
 //
 //  Images in species-lists are defined in species-list-image.
 //
-.species-image-tiny {
-  border-radius:       12px;
-  width:               128px;
-  height:              128px;
-  background-size:     cover;
-  background-position: center;
-  box-shadow:          0 2px 5px 0px #666666;
-  display:             block;
-  margin:              auto;
-
-  @include mobile { clear: right; }
-}
 
 .species-image-full {
   border-radius:       12px;
@@ -295,7 +223,7 @@ footer {
   display:             block;
   margin:              auto;
 
-  @include mobile { clear: right; }
+  @include narrow { clear: right; }
 }
 
 .species-image-lic {
@@ -385,7 +313,8 @@ footer {
 //    random-species-cell - a cell in the grid of random species
 //
 div.welcome {
-  width:        75%;
+@include narrow { width: 100%; }
+@include wide   { width:  80%; }
   text-align:   justify;
   margin-left:  auto;
   margin-right: auto;
@@ -393,7 +322,8 @@ div.welcome {
 }
 
 div.project-table {
-  width: 75%;
+@include narrow { width: 100%; }
+@include wide   { width:  80%; }
   margin: 1px auto 1px auto;
 }
 
@@ -446,16 +376,32 @@ table.project-table tfoot {
 }
 
 div.random-species {
-  width:    75%;
+  @include narrow { width: 100%; }
+  @include wide   { width:  80%; }
   margin:   1px auto 1px auto;
   overflow: auto;
   align:    center;
 }
 div.random-species-cell {
-  height:   161px;
+  @include narrow { height: 100px; }
+  @include wide   { height: 161px; }
   width:    24%;
   overflow: auto;
   float:    right;
+}
+
+.species-image-tiny {
+  @include narrow { width: 95%;  height:95px; }
+  @include wide   { width:128px; height:128px; }
+  aspect-ration: 1/1;
+  background-size:     cover;
+  background-position: center;
+  border-radius:       12px;
+  box-shadow:          0 2px 5px 0px #666666;
+  display:             block;
+  margin:              auto;
+
+  @include narrow { clear: right; }
 }
 
 
@@ -614,6 +560,10 @@ tr.raw-data-toprow {                         //  toprow is set in utilities/make
   border-top: 1px solid #111111;             //  to draw a line between types/individuals; the
 }                                            //  line at the bottom is in the footer.
 
+table.raw-data-table tr:last-child {
+  border-bottom:       2px solid #111111;
+}
+
 table.raw-data-table thead th {
   text-align:       right;
   border-top:       1px solid #111111;
@@ -637,13 +587,18 @@ table.raw-data-table tbody td {
   padding-right:    8px;
 }
 
+table.raw-data-table tfoot {
+  //font-size:  75%;
+  //clear:      left;
+  //text-align: right;
+}
 table.raw-data-table tfoot tr {
   border-top:       2px solid #111111;
 }
 table.raw-data-table tfoot td {
   text-align:       right;
-  font-size:        75%;
-  border:           0px ;
+  font-size:        65%;
+  border:           0px;
   padding:          2px;
   padding-left:     8px;
   padding-right:    8px;
@@ -673,7 +628,7 @@ div.assembly-list-item {
 }
 
 //  For small screens...
-@media only screen and (max-width: 768px) {
+@include narrow {
   div.assembly-block-l {
     width:    100%;
     overflow: scroll;
@@ -689,7 +644,7 @@ div.assembly-list-item {
 }
 
 //  For big screens...
-@media only screen and (min-width: 769px) {
+@include wide {
   div.assembly-block-l {
     padding-top:    12px;
     padding-bottom: 12px;
@@ -721,36 +676,37 @@ div.assembly-list-item {
 
 
 table.sequence-sizes-table thead {
-    text-align:       right;
-    border:           1px solid #dddddd;
-    border-top:       1px solid #111111;
-    border-bottom:    2px solid #111111;
+  text-align:       right;
+  border:           1px solid #dddddd;
+  border-top:       1px solid #111111;
+  border-bottom:    2px solid #111111;
 }
 
 table.sequence-sizes-table th {
-    text-align:       right;
-    border:           1px solid #111111;
-    padding:          2px;
-    padding-left:     8px;
-    padding-right:    8px;
-    background-color: #cccccc;
+  text-align:       right;
+  border:           1px solid #111111;
+  padding:          2px;
+  padding-left:     8px;
+  padding-right:    8px;
+  background-color: #cccccc;
 }
 
 table.sequence-sizes-table td {
-    text-align:       right;
-    border:           1px solid #dddddd;
-    padding:          2px;
-    padding-left:     8px;
-    padding-right:    8px;
+  text-align:       right;
+  border:           1px solid #dddddd;
+  padding:          2px;
+  padding-left:     8px;
+  padding-right:    8px;
 }
 
 table.sequence-sizes-table tfoot {
-    text-align:       right;
-    border-top:       2px solid #111111;
-    border-bottom:    1px solid #111111;
+  text-align:       right;
+  border-top:       2px solid #111111;
+  border-bottom:    1px solid #111111;
 }
 
 .genome-size {         //  "NG based on genome size ..."
+  color:  #ff000f;
   font-size:  75%;
   clear:      left;
   text-align: right;
@@ -762,7 +718,8 @@ table.sequence-sizes-table tfoot {
 //  It's also abused for showing "No raw data" and "No assemblies".
 //
 div.data-use {
-  width:        75%;
+@include narrow { width: 100%; }
+@include wide   { width:  80%; }
   text-align:   justify;
   margin-left:  auto;
   margin-right: auto;

@@ -1582,7 +1582,16 @@
 {% endif %}
 
 </tbody>
-{% include data-table-footer.html %}
 </table>
+
+<div class="genome-size">
+Bases and Coverage are approximate.<br>
+{% if page.genome_size_display %}
+Coverage based on genome size {{ page.genome_size_display }}.<br>
+{% else %}
+No genome size estimate available.<br>
+{% endif %}
+Last upload on {{ page.last_raw_data | date: "%-d %B %Y" }}.
+</div>
 
 {% comment %}IMPORT FROM MAKE-INDIVIDUAL-TABLE ENDS{% endcomment %}
