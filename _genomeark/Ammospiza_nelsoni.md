@@ -1,10 +1,10 @@
 ---
-alt1date: 2022-04-29
-alt1filesize: 283.5 MiB
-alt1length: 1033298757
+alt1date: 2022-12-22
+alt1filesize: 259.0 MiB
+alt1length: 1033298713
 alt1n50ctg: 576475
 alt1n50scf: 576475
-alt1seq: https://s3.amazonaws.com/genomeark/species/Ammospiza_nelsoni/bAmmNel1/assembly_curated/bAmmNel1.alt.cur.20220429.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Ammospiza_nelsoni/bAmmNel1/assembly_curated/bAmmNel1.alt.cur.20221222.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -85,7 +85,7 @@ genome_size: 1300000000
 genome_size_display: 1.30 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651597538
-last_updated: 1651597538
+last_updated: 1671738299
 name: Ammospiza nelsoni
 name_: Ammospiza_nelsoni
 pri1date: 2022-04-29

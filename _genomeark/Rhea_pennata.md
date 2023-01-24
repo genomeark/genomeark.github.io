@@ -85,7 +85,7 @@ genome_size: 1645000000
 genome_size_display: 1.65 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651617038
-last_updated: 1655457086
+last_updated: 1672722848
 name: Rhea pennata
 name_: Rhea_pennata
 pri1date: 2022-06-17

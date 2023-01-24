@@ -1,10 +1,10 @@
 ---
-alt1date: 2022-03-11
-alt1filesize: 622.0 MiB
-alt1length: 2195086527
+alt1date: 2022-12-23
+alt1filesize: 568.3 MiB
+alt1length: 2195086485
 alt1n50ctg: 698418
 alt1n50scf: 698418
-alt1seq: https://s3.amazonaws.com/genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_curated/fNeoGra1.alt.cur.20220311.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_curated/fNeoGra1.alt.cur.20221223.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -85,7 +85,7 @@ genome_size: 2416000000
 genome_size_display: 2.42 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651598084
-last_updated: 1651598084
+last_updated: 1671824777
 name: Neoarius graeffei
 name_: Neoarius_graeffei
 pri1date: 2022-03-11

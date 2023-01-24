@@ -1,5 +1,34 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+alt1date: 2023-01-05
+alt1filesize: 11.1 MiB
+alt1length: 39451561
+alt1n50ctg: 0
+alt1n50scf: 0
+alt1seq: https://s3.amazonaws.com/genomeark/species/Erythrolamprus_reginae/rEryReg1/assembly_curated/rEryReg1.alt.cur.20230105.fasta.gz
+alt1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 0.020x </th><th> 80 </th><th> 39.45 Mbp </th><th> 76 </th><th> 39.45 Mbp </th></tr>
+  </tfoot>
+  </table>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: royal ground snake
 data_arima-1_bases: 200.15 Gbp
 data_arima-1_bytes: 98.7 GiB
@@ -56,9 +85,38 @@ genome_size: 1966000000
 genome_size_display: 1.97 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651627264
-last_updated: 1666110909
+last_updated: 1672877074
 name: Erythrolamprus reginae
 name_: Erythrolamprus_reginae
+pri1date: 2023-01-05
+pri1filesize: 548.3 MiB
+pri1length: 1924602480
+pri1n50ctg: 3011513
+pri1n50scf: 259117534
+pri1seq: https://s3.amazonaws.com/genomeark/species/Erythrolamprus_reginae/rEryReg1/assembly_curated/rEryReg1.pri.cur.20230105.fasta.gz
+pri1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 15 </td><td> 10.44 Mbp </td><td> 0 </td><td> 426.56 Mbp </td></tr>  <tr><td> 20 </td><td> 38 </td><td> 7.41 Mbp </td><td> 0 </td><td> 426.56 Mbp </td></tr>  <tr><td> 30 </td><td> 70 </td><td> 5.13 Mbp </td><td> 1 </td><td> 355.37 Mbp </td></tr>  <tr><td> 40 </td><td> 115 </td><td> 3.89 Mbp </td><td> 2 </td><td> 259.12 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 172 </td><td style="background-color:#88ff88;"> 3.01 Mbp </td><td> 2 </td><td style="background-color:#88ff88;"> 259.12 Mbp </td></tr>  <tr><td> 60 </td><td> 247 </td><td> 2.28 Mbp </td><td> 3 </td><td> 152.91 Mbp </td></tr>  <tr><td> 70 </td><td> 346 </td><td> 1.68 Mbp </td><td> 5 </td><td> 119.10 Mbp </td></tr>  <tr><td> 80 </td><td> 498 </td><td> 1.02 Mbp </td><td> 7 </td><td> 87.32 Mbp </td></tr>  <tr><td> 90 </td><td> 774 </td><td> 486.12 Kbp </td><td> 10 </td><td> 50.30 Mbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 0.979x </th><th> 1712 </th><th> 1.92 Gbp </th><th> 325 </th><th> 1.92 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri1version: assembly_curated
 short_name: rEryReg
 taxon_id: 121349
 ---

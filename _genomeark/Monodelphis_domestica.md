@@ -85,7 +85,7 @@ genome_size: 4592000000
 genome_size_display: 4.59 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651622311
-last_updated: 1667318769
+last_updated: 1672769874
 mito1date: 2022-06-17
 mito1filesize: 5.0 KiB
 mito1length: 17106
@@ -117,12 +117,12 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Monodelphis domestica
 name_: Monodelphis_domestica
-pri1date: 2022-05-05
+pri1date: 2023-01-03
 pri1filesize: 1.0 GiB
 pri1length: 3586166573
 pri1n50ctg: 2416543
 pri1n50scf: 454668073
-pri1seq: https://s3.amazonaws.com/genomeark/species/Monodelphis_domestica/mMonDom1/assembly_curated/mMonDom1.pri.cur.20220505.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Monodelphis_domestica/mMonDom1/assembly_curated/mMonDom1.pri.cur.20230103.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>

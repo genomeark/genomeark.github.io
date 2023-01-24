@@ -1,5 +1,34 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+alt3date: 2022-12-17
+alt3filesize: 158.3 KiB
+alt3length: 543247
+alt3n50ctg: 0
+alt3n50scf: 0
+alt3seq: https://s3.amazonaws.com/genomeark/species/Pseudophryne_corroboree/aPseCor3/assembly_curated/aPseCor3.alt.cur.20221217.fasta.gz
+alt3sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 0.54 Mbp </th><th> 1 </th><th> 0.54 Mbp </th></tr>
+  </tfoot>
+  </table>
+alt3version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: corroboree frog
 data_arima-3_bases: 381.02 Gbp
 data_arima-3_bytes: 188.4 GiB
@@ -55,8 +84,37 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 8557000000
 genome_size_display: 8.56 Gbp
 genome_size_method: GoAT
+hpb3date: 2022-12-17
+hpb3filesize: 2.3 GiB
+hpb3length: 8872758793
+hpb3n50ctg: 7097000
+hpb3n50scf: 846894890
+hpb3seq: https://s3.amazonaws.com/genomeark/species/Pseudophryne_corroboree/aPseCor3/assembly_curated/aPseCor3.hap2.cur.20221217.fasta.gz
+hpb3sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 28 </td><td> 22.40 Mbp </td><td> 0 </td><td> 1.25 Gbp </td></tr>  <tr><td> 20 </td><td> 75 </td><td> 15.29 Mbp </td><td> 1 </td><td> 1.06 Gbp </td></tr>  <tr><td> 30 </td><td> 141 </td><td> 11.59 Mbp </td><td> 2 </td><td> 0.95 Gbp </td></tr>  <tr><td> 40 </td><td> 224 </td><td> 9.09 Mbp </td><td> 3 </td><td> 0.85 Gbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 330 </td><td style="background-color:#88ff88;"> 7.10 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 0.85 Gbp </td></tr>  <tr><td> 60 </td><td> 469 </td><td> 5.22 Mbp </td><td> 5 </td><td> 0.81 Gbp </td></tr>  <tr><td> 70 </td><td> 670 </td><td> 3.60 Mbp </td><td> 6 </td><td> 0.52 Gbp </td></tr>  <tr><td> 80 </td><td> 964 </td><td> 2.31 Mbp </td><td> 8 </td><td> 483.89 Mbp </td></tr>  <tr><td> 90 </td><td> 1474 </td><td> 1.18 Mbp </td><td> 10 </td><td> 366.57 Mbp </td></tr>  <tr><td> 100 </td><td> 2906 </td><td> 268.00 Kbp </td><td> 408 </td><td> 412.31 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.034x </th><th> 5826 </th><th> 8.85 Gbp </th><th> 3127 </th><th> 8.87 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb3version: assembly_curated
 last_raw_data: 1659461120
-last_updated: 1660757411
+last_updated: 1673265068
 name: Pseudophryne corroboree
 name_: Pseudophryne_corroboree
 short_name: aPseCor

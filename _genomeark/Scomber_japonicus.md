@@ -40,6 +40,16 @@ data_arima-1_scale: 1.4092
 data_arima_bases: 80.68 Gbp
 data_arima_bytes: 53.3 GiB
 data_arima_coverage: 89.64x
+data_illumina-1_bases: 38.95 Gbp
+data_illumina-1_bytes: 18.6 GiB
+data_illumina-1_coverage: 43.27x
+data_illumina-1_links: s3://genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scomber_japonicus/fScoJap1/genomic_data/illumina/
+data_illumina-1_scale: 1.9506
+data_illumina_bases: 38.95 Gbp
+data_illumina_bytes: 18.6 GiB
+data_illumina_coverage: 43.27x
 data_pacbiohifi_bam-1_bases: 17.10 Gbp
 data_pacbiohifi_bam-1_bytes: 57.5 GiB
 data_pacbiohifi_bam-1_coverage: 19.00x
@@ -70,11 +80,11 @@ data_pacbiohifi_fqgz-1_scale: 1.3609
 data_pacbiohifi_fqgz_bases: 44.27 Gbp
 data_pacbiohifi_fqgz_bytes: 30.3 GiB
 data_pacbiohifi_fqgz_coverage: 49.19x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 900000000
 genome_size_display: 0.90 Gbp
-last_raw_data: 1651625427
-last_updated: 1667318616
+last_raw_data: 1673804297
+last_updated: 1673804297
 mito1date: 2022-06-17
 mito1filesize: 5.0 KiB
 mito1length: 16568

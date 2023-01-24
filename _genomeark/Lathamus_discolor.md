@@ -15,8 +15,8 @@ data_status: '<em style="color:forestgreen">Arima</em>'
 genome_size: 1385000000
 genome_size_display: 1.39 Gbp
 genome_size_method: GoAT
-last_raw_data: 1644263192
-last_updated: 1644264578
+last_raw_data: 1671051102
+last_updated: 1671051102
 name: Lathamus discolor
 name_: Lathamus_discolor
 short_name: bLatDis

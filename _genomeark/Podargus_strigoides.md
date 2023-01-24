@@ -50,6 +50,16 @@ data_bionano-1_scale: 517.3724
 data_bionano_bases: N/A
 data_bionano_bytes: 1.1 GiB
 data_bionano_coverage: 442.86x
+data_illumina-1_bases: 65.07 Gbp
+data_illumina-1_bytes: 31.1 GiB
+data_illumina-1_coverage: 47.60x
+data_illumina-1_links: s3://genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Podargus_strigoides/bPodStr1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podargus_strigoides/bPodStr1/genomic_data/illumina/
+data_illumina-1_scale: 1.9476
+data_illumina_bases: 65.07 Gbp
+data_illumina_bytes: 31.1 GiB
+data_illumina_coverage: 47.60x
 data_pacbiohifi_bam-1_bases: 37.80 Gbp
 data_pacbiohifi_bam-1_bytes: 128.7 GiB
 data_pacbiohifi_bam-1_coverage: 27.65x
@@ -80,12 +90,12 @@ data_pacbiohifi_fqgz-1_scale: 1.2495
 data_pacbiohifi_fqgz_bases: 37.87 Gbp
 data_pacbiohifi_fqgz_bytes: 28.2 GiB
 data_pacbiohifi_fqgz_coverage: 27.70x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 1367000000
 genome_size_display: 1.37 Gbp
 genome_size_method: GoAT
-last_raw_data: 1651598422
-last_updated: 1651598422
+last_raw_data: 1673804529
+last_updated: 1673804529
 name: Podargus strigoides
 name_: Podargus_strigoides
 pri1date: 2022-03-18

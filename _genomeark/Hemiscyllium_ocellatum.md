@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: epaulette shark
 data_10x-1_bases: 357.24 Gbp
 data_10x-1_bytes: 182.9 GiB

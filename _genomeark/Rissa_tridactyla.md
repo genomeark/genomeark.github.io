@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Black-legged kittiwake
 data_arima-1_bases: 155.06 Gbp
 data_arima-1_bytes: 74.7 GiB
@@ -54,9 +54,67 @@ data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
 last_raw_data: 1651621620
-last_updated: 1659020324
+last_updated: 1669823008
+mat1date: 2022-11-30
+mat1filesize: 350.8 MiB
+mat1length: 1268441171
+mat1n50ctg: 18169445
+mat1n50scf: 82691832
+mat1seq: https://s3.amazonaws.com/genomeark/species/Rissa_tridactyla/bRisTri1/assembly_curated/bRisTri1.mat.cur.20221130.fasta.gz
+mat1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 40.03 Mbp </td><td> 0 </td><td> 218.21 Mbp </td></tr>  <tr><td> 20 </td><td> 5 </td><td> 33.77 Mbp </td><td> 1 </td><td> 169.94 Mbp </td></tr>  <tr><td> 30 </td><td> 9 </td><td> 31.38 Mbp </td><td> 1 </td><td> 169.94 Mbp </td></tr>  <tr><td> 40 </td><td> 14 </td><td> 22.57 Mbp </td><td> 2 </td><td> 127.36 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 21 </td><td style="background-color:#88ff88;"> 18.17 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 82.69 Mbp </td></tr>  <tr><td> 60 </td><td> 29 </td><td> 12.01 Mbp </td><td> 5 </td><td> 73.85 Mbp </td></tr>  <tr><td> 70 </td><td> 42 </td><td> 6.96 Mbp </td><td> 8 </td><td> 49.13 Mbp </td></tr>  <tr><td> 80 </td><td> 65 </td><td> 4.39 Mbp </td><td> 12 </td><td> 19.37 Mbp </td></tr>  <tr><td> 90 </td><td> 134 </td><td> 0.87 Mbp </td><td> 24 </td><td> 3.16 Mbp </td></tr>  <tr><td> 100 </td><td> 955 </td><td> 14.26 Kbp </td><td> 732 </td><td> 15.14 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 956 </th><th> 1.27 Gbp </th><th> 733 </th><th> 1.27 Gbp </th></tr>
+  </tfoot>
+  </table>
+mat1version: assembly_curated
 name: Rissa tridactyla
 name_: Rissa_tridactyla
+pat1date: 2022-11-30
+pat1filesize: 366.9 MiB
+pat1length: 1321650709
+pat1n50ctg: 16308823
+pat1n50scf: 88208671
+pat1seq: https://s3.amazonaws.com/genomeark/species/Rissa_tridactyla/bRisTri1/assembly_curated/bRisTri1.pat.cur.20221130.fasta.gz
+pat1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 43.86 Mbp </td><td> 0 </td><td> 219.60 Mbp </td></tr>  <tr><td> 20 </td><td> 5 </td><td> 35.57 Mbp </td><td> 1 </td><td> 168.50 Mbp </td></tr>  <tr><td> 30 </td><td> 9 </td><td> 26.52 Mbp </td><td> 2 </td><td> 127.73 Mbp </td></tr>  <tr><td> 40 </td><td> 15 </td><td> 18.49 Mbp </td><td> 3 </td><td> 94.79 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 22 </td><td style="background-color:#88ff88;"> 16.31 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 88.21 Mbp </td></tr>  <tr><td> 60 </td><td> 31 </td><td> 12.79 Mbp </td><td> 6 </td><td> 74.01 Mbp </td></tr>  <tr><td> 70 </td><td> 45 </td><td> 8.15 Mbp </td><td> 8 </td><td> 56.07 Mbp </td></tr>  <tr><td> 80 </td><td> 65 </td><td> 4.68 Mbp </td><td> 11 </td><td> 23.75 Mbp </td></tr>  <tr><td> 90 </td><td> 128 </td><td> 0.90 Mbp </td><td> 21 </td><td> 7.62 Mbp </td></tr>  <tr><td> 100 </td><td> 974 </td><td> 13.70 Kbp </td><td> 713 </td><td> 13.70 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 975 </th><th> 1.32 Gbp </th><th> 714 </th><th> 1.32 Gbp </th></tr>
+  </tfoot>
+  </table>
+pat1version: assembly_curated
 short_name: bRisTri
 taxon_id: 75485
 ---

@@ -74,7 +74,36 @@ data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color
 genome_size: 10019663791
 genome_size_display: 10.02 Gbp
 last_raw_data: 1620809015
-last_updated: 1649439095
+last_updated: 1669291418
+mito1date: 2022-11-24
+mito1filesize: 5.1 KiB
+mito1length: 17451
+mito1n50ctg: 17451
+mito1n50scf: 17451
+mito1seq: https://s3.amazonaws.com/genomeark/species/Bombina_bombina/aBomBom1/assembly_MT_rockefeller/aBomBom1.MT.20221124.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td> 17.45 Kbp </td><td> 0 </td><td> 17.45 Kbp </td></tr>  <tr><td> 20 </td><td> 0 </td><td> 17.45 Kbp </td><td> 0 </td><td> 17.45 Kbp </td></tr>  <tr><td> 30 </td><td> 0 </td><td> 17.45 Kbp </td><td> 0 </td><td> 17.45 Kbp </td></tr>  <tr><td> 40 </td><td> 0 </td><td> 17.45 Kbp </td><td> 0 </td><td> 17.45 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;"> 17.45 Kbp </td><td> 0 </td><td style="background-color:#ff8888;"> 17.45 Kbp </td></tr>  <tr><td> 60 </td><td> 0 </td><td> 17.45 Kbp </td><td> 0 </td><td> 17.45 Kbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td> 17.45 Kbp </td><td> 0 </td><td> 17.45 Kbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td> 17.45 Kbp </td><td> 0 </td><td> 17.45 Kbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td> 17.45 Kbp </td><td> 0 </td><td> 17.45 Kbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td> 17.45 Kbp </td><td> 0 </td><td> 17.45 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 17.45 Kbp </th><th> 1 </th><th> 17.45 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Bombina bombina
 name_: Bombina_bombina
 pri1date: 2022-04-08

@@ -11,6 +11,16 @@ data_bionano-1_scale: 465.3108
 data_bionano_bases: N/A
 data_bionano_bytes: 1.7 GiB
 data_bionano_coverage: 270.84x
+data_dovetail-1_bases: 321.42 Gbp
+data_dovetail-1_bytes: 165.4 GiB
+data_dovetail-1_coverage: 104.32x
+data_dovetail-1_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudorca_crassidens/mPseCra1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.8101
+data_dovetail_bases: 321.42 Gbp
+data_dovetail_bytes: 165.4 GiB
+data_dovetail_coverage: 104.32x
 data_pacbiohifi_bam-1_bases: 116.99 Gbp
 data_pacbiohifi_bam-1_bytes: 403.2 GiB
 data_pacbiohifi_bam-1_coverage: 37.97x
@@ -41,12 +51,12 @@ data_pacbiohifi_fqgz-1_scale: 1.1564
 data_pacbiohifi_fqgz_bases: 116.44 Gbp
 data_pacbiohifi_fqgz_bytes: 93.8 GiB
 data_pacbiohifi_fqgz_coverage: 37.79x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genome_size: 3081000000
 genome_size_display: 3.08 Gbp
 genome_size_method: GoAT
-last_raw_data: 1651615588
-last_updated: 1651615588
+last_raw_data: 1674509833
+last_updated: 1674509833
 name: Pseudorca crassidens
 name_: Pseudorca_crassidens
 short_name: mPseCra

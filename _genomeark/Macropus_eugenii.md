@@ -84,7 +84,7 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 3000000000
 genome_size_display: 3.00 Gbp
 last_raw_data: 1651605348
-last_updated: 1667318671
+last_updated: 1672770616
 mito1date: 2022-06-17
 mito1filesize: 5.0 KiB
 mito1length: 16894
@@ -116,12 +116,12 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Macropus eugenii
 name_: Macropus_eugenii
-pri1date: 2022-04-29
-pri1filesize: 1.0 GiB
-pri1length: 3448893699
+pri1date: 2023-01-03
+pri1filesize: 0.9 GiB
+pri1length: 3448891385
 pri1n50ctg: 17931835
 pri1n50scf: 489668034
-pri1seq: https://s3.amazonaws.com/genomeark/species/Macropus_eugenii/mMacEug1/assembly_curated/mMacEug1.pri.cur.20220429.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Macropus_eugenii/mMacEug1/assembly_curated/mMacEug1.pri.cur.20230103.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -141,7 +141,7 @@ pri1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 5 </td><td> 51.02 Mbp </td><td> 0 </td><td> 0.76 Gbp </td></tr>  <tr><td> 20 </td><td> 11 </td><td> 42.35 Mbp </td><td> 0 </td><td> 0.76 Gbp </td></tr>  <tr><td> 30 </td><td> 20 </td><td> 30.09 Mbp </td><td> 1 </td><td> 0.54 Gbp </td></tr>  <tr><td> 40 </td><td> 31 </td><td> 23.17 Mbp </td><td> 1 </td><td> 0.54 Gbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 46 </td><td style="background-color:#88ff88;"> 17.93 Mbp </td><td> 2 </td><td style="background-color:#88ff88;"> 489.67 Mbp </td></tr>  <tr><td> 60 </td><td> 64 </td><td> 14.55 Mbp </td><td> 3 </td><td> 478.17 Mbp </td></tr>  <tr><td> 70 </td><td> 87 </td><td> 12.09 Mbp </td><td> 3 </td><td> 478.17 Mbp </td></tr>  <tr><td> 80 </td><td> 116 </td><td> 8.89 Mbp </td><td> 4 </td><td> 461.86 Mbp </td></tr>  <tr><td> 90 </td><td> 156 </td><td> 6.47 Mbp </td><td> 4 </td><td> 461.86 Mbp </td></tr>  <tr><td> 100 </td><td> 211 </td><td> 4.48 Mbp </td><td> 5 </td><td> 389.61 Mbp </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 1.147x </th><th> 828 </th><th> 3.44 Gbp </th><th> 313 </th><th> 3.45 Gbp </th></tr>
+  <tr><th> 1.147x </th><th> 829 </th><th> 3.44 Gbp </th><th> 314 </th><th> 3.45 Gbp </th></tr>
   </tfoot>
   </table>
 pri1version: assembly_curated

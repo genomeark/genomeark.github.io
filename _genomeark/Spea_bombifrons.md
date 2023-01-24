@@ -1,10 +1,10 @@
 ---
-alt1date: 2022-04-01
-alt1filesize: 278.9 MiB
-alt1length: 1011372379
-alt1n50ctg: 17570343
-alt1n50scf: 50326596
-alt1seq: https://s3.amazonaws.com/genomeark/species/Spea_bombifrons/aSpeBom1/assembly_curated/aSpeBom1.alt.cur.20220401.fasta.gz
+alt1date: 2022-02-05
+alt1filesize: 202.9 MiB
+alt1length: 785612653
+alt1n50ctg: 1011519
+alt1n50scf: 1011519
+alt1seq: https://s3.amazonaws.com/genomeark/species/Spea_bombifrons/aSpeBom1/assembly_curated/aSpeBom1.alt.cur.20220205.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,9 +22,9 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 79.90 Mbp </td><td> 0 </td><td> 165.48 Mbp </td></tr>  <tr><td> 20 </td><td> 3 </td><td> 53.27 Mbp </td><td> 1 </td><td> 132.52 Mbp </td></tr>  <tr><td> 30 </td><td> 5 </td><td> 45.05 Mbp </td><td> 2 </td><td> 112.72 Mbp </td></tr>  <tr><td> 40 </td><td> 9 </td><td> 21.17 Mbp </td><td> 3 </td><td> 109.39 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 15 </td><td> 17.57 Mbp </td><td> 5 </td><td> 50.33 Mbp </td></tr>  <tr><td> 60 </td><td> 24 </td><td> 9.88 Mbp </td><td> 7 </td><td> 39.45 Mbp </td></tr>  <tr><td> 70 </td><td> 39 </td><td> 5.63 Mbp </td><td> 11 </td><td> 25.66 Mbp </td></tr>  <tr><td> 80 </td><td> 74 </td><td> 1.74 Mbp </td><td> 20 </td><td> 6.53 Mbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 20 </td><td> 4.52 Mbp </td><td> 20 </td><td> 4.52 Mbp </td></tr>  <tr><td> 20 </td><td> 52 </td><td> 2.98 Mbp </td><td> 52 </td><td> 2.98 Mbp </td></tr>  <tr><td> 30 </td><td> 100 </td><td> 2.19 Mbp </td><td> 100 </td><td> 2.19 Mbp </td></tr>  <tr><td> 40 </td><td> 165 </td><td> 1.60 Mbp </td><td> 165 </td><td> 1.60 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 259 </td><td> 1.01 Mbp </td><td> 259 </td><td> 1.01 Mbp </td></tr>  <tr><td> 60 </td><td> 450 </td><td> 331.96 Kbp </td><td> 450 </td><td> 331.96 Kbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 0.832x </th><th> 180 </th><th> 1.01 Gbp </th><th> 98 </th><th> 1.01 Gbp </th></tr>
+  <tr><th> 0.650x </th><th> 1517 </th><th> 0.79 Gbp </th><th> 1517 </th><th> 0.79 Gbp </th></tr>
   </tfoot>
   </table>
 alt1version: assembly_curated
@@ -85,7 +85,7 @@ genome_size: 1208000000
 genome_size_display: 1.21 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651594550
-last_updated: 1651594550
+last_updated: 1671631700
 name: Spea bombifrons
 name_: Spea_bombifrons
 pri1date: 2022-04-01

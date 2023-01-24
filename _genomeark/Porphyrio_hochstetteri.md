@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: South Island takahe
 data_arima-1_bases: 123.89 Gbp
 data_arima-1_bytes: 84.2 GiB

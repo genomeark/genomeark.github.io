@@ -17,8 +17,8 @@ genbank_pri: bMelMel1:GCA_022749695.1
 genome_size: 1399000000
 genome_size_display: 1.40 Gbp
 genome_size_method: GoAT
-last_raw_data: 1633554406
-last_updated: 1633555058
+last_raw_data: 1671055727
+last_updated: 1671055727
 name: Melospiza melodia
 name_: Melospiza_melodia
 short_name: bMelMel

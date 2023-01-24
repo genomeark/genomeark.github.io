@@ -1,10 +1,10 @@
 ---
-alt1date: 2021-11-19
+alt1date: 2023-01-20
 alt1filesize: 568.2 MiB
 alt1length: 1948666914
 alt1n50ctg: 321357
 alt1n50scf: 321461
-alt1seq: https://s3.amazonaws.com/genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_curated/mEreDor1.alt.cur.20211119.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_curated/mEreDor1.alt.cur.20230120.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -75,7 +75,7 @@ genome_size: 2900000000
 genome_size_display: 2.90 Gbp
 genome_size_method: null
 last_raw_data: 1627391464
-last_updated: 1637318124
+last_updated: 1674233374
 mito1date: 2021-07-27
 mito1filesize: 5.0 KiB
 mito1length: 16828
@@ -107,12 +107,12 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Erethizon dorsatum
 name_: Erethizon_dorsatum
-pri1date: 2021-11-19
+pri1date: 2023-01-20
 pri1filesize: 708.3 MiB
-pri1length: 2432147792
+pri1length: 2432130964
 pri1n50ctg: 14914602
 pri1n50scf: 127610041
-pri1seq: https://s3.amazonaws.com/genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_curated/mEreDor1.pri.cur.20211119.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_curated/mEreDor1.pri.cur.20230120.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -132,7 +132,7 @@ pri1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 4 </td><td> 57.92 Mbp </td><td> 1 </td><td> 164.61 Mbp </td></tr>  <tr><td> 20 </td><td> 10 </td><td> 40.36 Mbp </td><td> 3 </td><td> 151.49 Mbp </td></tr>  <tr><td> 30 </td><td> 19 </td><td> 27.91 Mbp </td><td> 5 </td><td> 140.56 Mbp </td></tr>  <tr><td> 40 </td><td> 31 </td><td> 19.68 Mbp </td><td> 7 </td><td> 132.85 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 48 </td><td style="background-color:#88ff88;"> 14.91 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 127.61 Mbp </td></tr>  <tr><td> 60 </td><td> 70 </td><td> 11.06 Mbp </td><td> 12 </td><td> 117.54 Mbp </td></tr>  <tr><td> 70 </td><td> 105 </td><td> 6.85 Mbp </td><td> 14 </td><td> 109.04 Mbp </td></tr>  <tr><td> 80 </td><td> 167 </td><td> 2.96 Mbp </td><td> 18 </td><td> 52.51 Mbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 0.839x </th><th> 393 </th><th> 2.43 Gbp </th><th> 116 </th><th> 2.43 Gbp </th></tr>
+  <tr><th> 0.839x </th><th> 392 </th><th> 2.43 Gbp </th><th> 115 </th><th> 2.43 Gbp </th></tr>
   </tfoot>
   </table>
 pri1version: assembly_curated

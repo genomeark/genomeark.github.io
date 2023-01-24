@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: black rhinoceros
 data_arima-1_bases: 218.61 Gbp
 data_arima-1_bytes: 148.4 GiB

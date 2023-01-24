@@ -202,6 +202,64 @@ genbank_pat: bTaeGut2:GCA_008822125.1
 genbank_pri: bTaeGut1:GCA_003957565.4 bTaeGut2:GCA_009859065.2
 genome_size: 1035611271
 genome_size_display: 1.04 Gbp
+hpa2date: 2022-09-05
+hpa2filesize: 319.8 MiB
+hpa2length: 1131677210
+hpa2n50ctg: 8218280
+hpa2n50scf: 72811203
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_curated/bTaeGut2.hap1.cur.20220905.fasta.gz
+hpa2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 5 </td><td> 17.84 Mbp </td><td> 0 </td><td> 152.62 Mbp </td></tr>  <tr><td> 20 </td><td> 11 </td><td> 14.12 Mbp </td><td> 1 </td><td> 115.84 Mbp </td></tr>  <tr><td> 30 </td><td> 19 </td><td> 11.96 Mbp </td><td> 2 </td><td> 115.09 Mbp </td></tr>  <tr><td> 40 </td><td> 29 </td><td> 9.69 Mbp </td><td> 3 </td><td> 88.56 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 40 </td><td style="background-color:#88ff88;"> 8.22 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 72.81 Mbp </td></tr>  <tr><td> 60 </td><td> 56 </td><td> 5.44 Mbp </td><td> 6 </td><td> 61.99 Mbp </td></tr>  <tr><td> 70 </td><td> 78 </td><td> 4.07 Mbp </td><td> 8 </td><td> 37.49 Mbp </td></tr>  <tr><td> 80 </td><td> 108 </td><td> 2.90 Mbp </td><td> 11 </td><td> 21.60 Mbp </td></tr>  <tr><td> 90 </td><td> 153 </td><td> 1.75 Mbp </td><td> 17 </td><td> 15.57 Mbp </td></tr>  <tr><td> 100 </td><td> 236 </td><td> 0.82 Mbp </td><td> 27 </td><td> 6.36 Mbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.089x </th><th> 1060 </th><th> 1.13 Gbp </th><th> 560 </th><th> 1.13 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa2version: assembly_curated
+hpb2date: 2022-09-05
+hpb2filesize: 293.7 MiB
+hpb2length: 1040745873
+hpb2n50ctg: 8004728
+hpb2n50scf: 72223254
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_curated/bTaeGut2.hap2.cur.20220905.fasta.gz
+hpb2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 21.11 Mbp </td><td> 0 </td><td> 152.47 Mbp </td></tr>  <tr><td> 20 </td><td> 9 </td><td> 16.12 Mbp </td><td> 1 </td><td> 115.75 Mbp </td></tr>  <tr><td> 30 </td><td> 17 </td><td> 12.54 Mbp </td><td> 2 </td><td> 114.02 Mbp </td></tr>  <tr><td> 40 </td><td> 26 </td><td> 9.52 Mbp </td><td> 3 </td><td> 73.67 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 38 </td><td style="background-color:#88ff88;"> 8.00 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 72.22 Mbp </td></tr>  <tr><td> 60 </td><td> 52 </td><td> 6.50 Mbp </td><td> 6 </td><td> 39.35 Mbp </td></tr>  <tr><td> 70 </td><td> 73 </td><td> 3.95 Mbp </td><td> 9 </td><td> 26.88 Mbp </td></tr>  <tr><td> 80 </td><td> 105 </td><td> 2.57 Mbp </td><td> 14 </td><td> 19.63 Mbp </td></tr>  <tr><td> 90 </td><td> 157 </td><td> 1.46 Mbp </td><td> 21 </td><td> 11.12 Mbp </td></tr>  <tr><td> 100 </td><td> 487 </td><td> 33.46 Kbp </td><td> 111 </td><td> 71.45 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.002x </th><th> 578 </th><th> 1.04 Gbp </th><th> 255 </th><th> 1.04 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb2version: assembly_curated
 last_raw_data: 1651592061
 last_updated: 1662416643
 mat2date: 2022-05-27

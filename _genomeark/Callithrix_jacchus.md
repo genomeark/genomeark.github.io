@@ -95,12 +95,12 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
-mgd1date: 2020-02-12
-mgd1filesize: 844.4 MiB
-mgd1length: 2829727687
+mgd1date: 2021-04-25
+mgd1filesize: 855.4 MiB
+mgd1length: 2874881015
 mgd1n50ctg: 9933029
 mgd1n50scf: 128529401
-mgd1seq: https://s3.amazonaws.com/genomeark/species/Callithrix_jacchus/mCalJac1/assembly_curated/mCalJac1.pat.X.cur.20200212.fasta.gz
+mgd1seq: https://s3.amazonaws.com/genomeark/species/Callithrix_jacchus/mCalJac1/assembly_curated/mCalJac1.pat.X.cur.20210425.fasta.gz
 mgd1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -118,9 +118,9 @@ mgd1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 6 </td><td> 35.26 Mbp </td><td> 1 </td><td> 202.81 Mbp </td></tr>  <tr><td> 20 </td><td> 18 </td><td> 24.65 Mbp </td><td> 3 </td><td> 173.41 Mbp </td></tr>  <tr><td> 30 </td><td> 34 </td><td> 18.02 Mbp </td><td> 5 </td><td> 159.67 Mbp </td></tr>  <tr><td> 40 </td><td> 55 </td><td> 14.60 Mbp </td><td> 7 </td><td> 146.90 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 85 </td><td style="background-color:#88ff88;"> 9.93 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 128.53 Mbp </td></tr>  <tr><td> 60 </td><td> 130 </td><td> 5.87 Mbp </td><td> 13 </td><td> 117.64 Mbp </td></tr>  <tr><td> 70 </td><td> 211 </td><td> 3.05 Mbp </td><td> 16 </td><td> 98.11 Mbp </td></tr>  <tr><td> 80 </td><td> 483 </td><td> 392.50 Kbp </td><td> 21 </td><td> 47.06 Mbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 6 </td><td> 35.26 Mbp </td><td> 1 </td><td> 202.81 Mbp </td></tr>  <tr><td> 20 </td><td> 18 </td><td> 24.65 Mbp </td><td> 3 </td><td> 173.41 Mbp </td></tr>  <tr><td> 30 </td><td> 34 </td><td> 18.02 Mbp </td><td> 5 </td><td> 159.67 Mbp </td></tr>  <tr><td> 40 </td><td> 55 </td><td> 14.60 Mbp </td><td> 7 </td><td> 146.90 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 85 </td><td style="background-color:#88ff88;"> 9.93 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 128.53 Mbp </td></tr>  <tr><td> 60 </td><td> 130 </td><td> 5.87 Mbp </td><td> 13 </td><td> 117.64 Mbp </td></tr>  <tr><td> 70 </td><td> 211 </td><td> 3.05 Mbp </td><td> 16 </td><td> 98.11 Mbp </td></tr>  <tr><td> 80 </td><td> 485 </td><td> 361.32 Kbp </td><td> 21 </td><td> 47.06 Mbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 0.821x </th><th> 1312 </th><th> 2.82 Gbp </th><th> 353 </th><th> 2.83 Gbp </th></tr>
+  <tr><th> 0.834x </th><th> 2399 </th><th> 2.86 Gbp </th><th> 1234 </th><th> 2.87 Gbp </th></tr>
   </tfoot>
   </table>
 mgd1version: assembly_curated

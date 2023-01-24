@@ -26,7 +26,7 @@ genome_size: 724000000
 genome_size_display: 0.72 Gbp
 genome_size_method: GoAT
 last_raw_data: 1633539302
-last_updated: 1633539740
+last_updated: 1671470261
 name: Hypomesus transpacificus
 name_: Hypomesus_transpacificus
 short_name: fHypTra

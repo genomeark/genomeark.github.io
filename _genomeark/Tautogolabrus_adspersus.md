@@ -4,7 +4,7 @@ alt1filesize: 201.0 MiB
 alt1length: 695716069
 alt1n50ctg: 534826
 alt1n50scf: 538004
-alt1seq: https://s3.amazonaws.com/genomeark/species/Tautogolabrus_adspersus/fTauAds1/assembly_curated/fTauAds1.alt.cur.nopipe.20211018.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Tautogolabrus_adspersus/fTauAds1/assembly_curated/fTauAds1.alt.cur.20211018.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>

@@ -26,7 +26,7 @@ genome_size: 6000000000
 genome_size_display: 6.00 Gbp
 genome_size_method: GoAT
 last_raw_data: 1643302608
-last_updated: 1643302608
+last_updated: 1671030935
 name: Rana sylvatica
 name_: Rana_sylvatica
 short_name: aRanSyl

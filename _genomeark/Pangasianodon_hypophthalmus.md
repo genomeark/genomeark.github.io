@@ -74,7 +74,36 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 764974446
 genome_size_display: 0.76 Gbp
 last_raw_data: 1651608637
-last_updated: 1651608637
+last_updated: 1671140480
+mito1date: 2022-12-13
+mito1filesize: 5.0 KiB
+mito1length: 16523
+mito1n50ctg: 16523
+mito1n50scf: 16523
+mito1seq: https://s3.amazonaws.com/genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/assembly_MT_rockefeller/fPanHyp1.MT.20221213.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td> 16.52 Kbp </td><td> 0 </td><td> 16.52 Kbp </td></tr>  <tr><td> 20 </td><td> 0 </td><td> 16.52 Kbp </td><td> 0 </td><td> 16.52 Kbp </td></tr>  <tr><td> 30 </td><td> 0 </td><td> 16.52 Kbp </td><td> 0 </td><td> 16.52 Kbp </td></tr>  <tr><td> 40 </td><td> 0 </td><td> 16.52 Kbp </td><td> 0 </td><td> 16.52 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;"> 16.52 Kbp </td><td> 0 </td><td style="background-color:#ff8888;"> 16.52 Kbp </td></tr>  <tr><td> 60 </td><td> 0 </td><td> 16.52 Kbp </td><td> 0 </td><td> 16.52 Kbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td> 16.52 Kbp </td><td> 0 </td><td> 16.52 Kbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td> 16.52 Kbp </td><td> 0 </td><td> 16.52 Kbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td> 16.52 Kbp </td><td> 0 </td><td> 16.52 Kbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td> 16.52 Kbp </td><td> 0 </td><td> 16.52 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.52 Kbp </th><th> 1 </th><th> 16.52 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Pangasianodon hypophthalmus
 name_: Pangasianodon_hypophthalmus
 pri1date: 2021-12-09

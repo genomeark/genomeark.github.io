@@ -54,17 +54,13 @@ data_status: '<em style="color:forestgreen">Arima</em>'
 genome_size: 2533000000
 genome_size_display: 2.53 Gbp
 genome_size_method: GoAT
-last_raw_data: 1641846307
-last_updated: 1665529451
-name: Euleptes europaea
-name_: Euleptes_europaea
-pri1date: 2022-10-12
-pri1filesize: 513.9 MiB
-pri1length: 1772761307
-pri1n50ctg: 16416473
-pri1n50scf: 71032696
-pri1seq: https://s3.amazonaws.com/genomeark/species/Euleptes_europaea/rEulEur1/assembly_curated/rEulEur1.pri.cur.20221012.fasta.gz
-pri1sizes: |
+hpb1date: 2022-10-12
+hpb1filesize: 513.9 MiB
+hpb1length: 1772761307
+hpb1n50ctg: 16416473
+hpb1n50scf: 71032696
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Euleptes_europaea/rEulEur1/assembly_curated/rEulEur1.hap2.cur.20221012.fasta.gz
+hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
   <tr>
@@ -86,7 +82,40 @@ pri1sizes: |
   <tr><th> 0.698x </th><th> 736 </th><th> 1.77 Gbp </th><th> 583 </th><th> 1.77 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_curated
+hpb1version: assembly_curated
+last_raw_data: 1641846307
+last_updated: 1673264991
+mito1date: 2022-11-21
+mito1filesize: 5.0 KiB
+mito1length: 17541
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Euleptes_europaea/rEulEur1/assembly_MT_rockefeller/rEulEur1.MT.20221121.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 17.54 Kbp </th><th> 1 </th><th> 17.54 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
+name: Euleptes europaea
+name_: Euleptes_europaea
 short_name: rEulEur
 taxon_id: 460621
 ---

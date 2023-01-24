@@ -26,7 +26,7 @@ genome_size: 1252000000
 genome_size_display: 1.25 Gbp
 genome_size_method: GoAT
 last_raw_data: 1665002652
-last_updated: 1665002652
+last_updated: 1672858746
 name: Hoplias malabaricus
 name_: Hoplias_malabaricus
 short_name: fHopMal

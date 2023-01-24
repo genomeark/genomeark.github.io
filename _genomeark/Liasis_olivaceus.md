@@ -21,6 +21,16 @@ data_bionano-1_scale: 513.5261
 data_bionano_bases: N/A
 data_bionano_bytes: 2.1 GiB
 data_bionano_coverage: 685.08x
+data_ont-1_bases: 40.22 Gbp
+data_ont-1_bytes: 33.3 GiB
+data_ont-1_coverage: 24.01x
+data_ont-1_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/ont/<br>
+data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/ont/
+data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Liasis_olivaceus/rLiaOli1/genomic_data/ont/
+data_ont-1_scale: 1.1257
+data_ont_bases: 40.22 Gbp
+data_ont_bytes: 33.3 GiB
+data_ont_coverage: 24.01x
 data_pacbiohifi_fqgz-1_bases: 56.08 Gbp
 data_pacbiohifi_fqgz-1_bytes: 44.7 GiB
 data_pacbiohifi_fqgz-1_coverage: 33.48x
@@ -31,12 +41,12 @@ data_pacbiohifi_fqgz-1_scale: 1.1692
 data_pacbiohifi_fqgz_bases: 56.08 Gbp
 data_pacbiohifi_fqgz_bytes: 44.7 GiB
 data_pacbiohifi_fqgz_coverage: 33.48x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1675000000
 genome_size_display: 1.68 Gbp
 genome_size_method: GoAT
-last_raw_data: 1655312129
-last_updated: 1655312604
+last_raw_data: 1669231997
+last_updated: 1671315621
 name: Liasis olivaceus
 name_: Liasis_olivaceus
 short_name: rLiaOli

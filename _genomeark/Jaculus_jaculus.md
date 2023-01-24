@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: lesser Egyptian jerboa
 data_10x-1_bases: 264.76 Gbp
 data_10x-1_bytes: 127.3 GiB
