@@ -127,12 +127,12 @@ layout: default
   to show an entirely different block.
 {% endcomment %}
 
-{% if page.pri1seq or page.alt1seq or page.mat1seq or page.pat1seq or page.mgd1seq or page.dip1seq or page.mito1seq %} {% assign d1 = true %} {% else %} {% assign d1 = false %} {% endif %}
-{% if page.pri2seq or page.alt2seq or page.mat2seq or page.pat2seq or page.mgd2seq or page.dip2seq or page.mito2seq %} {% assign d2 = true %} {% else %} {% assign d2 = false %} {% endif %}
-{% if page.pri3seq or page.alt3seq or page.mat3seq or page.pat3seq or page.mgd3seq or page.dip3seq or page.mito3seq %} {% assign d3 = true %} {% else %} {% assign d3 = false %} {% endif %}
-{% if page.pri4seq or page.alt4seq or page.mat4seq or page.pat4seq or page.mgd4seq or page.dip4seq or page.mito4seq %} {% assign d4 = true %} {% else %} {% assign d4 = false %} {% endif %}
-{% if page.pri5seq or page.alt5seq or page.mat5seq or page.pat5seq or page.mgd5seq or page.dip5seq or page.mito5seq %} {% assign d5 = true %} {% else %} {% assign d5 = false %} {% endif %}
-{% if page.pri6seq or page.alt6seq or page.mat6seq or page.pat6seq or page.mgd6seq or page.dip6seq or page.mito6seq %} {% assign d6 = true %} {% else %} {% assign d6 = false %} {% endif %}
+{% if page.pri1seq or page.alt1seq or page.mat1seq or page.pat1seq or page.hpa1seq or page.hpb1seq or page.mgd1seq or page.dip1seq or page.mito1seq %} {% assign d1 = true %} {% else %} {% assign d1 = false %} {% endif %}
+{% if page.pri2seq or page.alt2seq or page.mat2seq or page.pat2seq or page.hpa1seq or page.hpb1seq or page.mgd2seq or page.dip2seq or page.mito2seq %} {% assign d2 = true %} {% else %} {% assign d2 = false %} {% endif %}
+{% if page.pri3seq or page.alt3seq or page.mat3seq or page.pat3seq or page.hpa1seq or page.hpb1seq or page.mgd3seq or page.dip3seq or page.mito3seq %} {% assign d3 = true %} {% else %} {% assign d3 = false %} {% endif %}
+{% if page.pri4seq or page.alt4seq or page.mat4seq or page.pat4seq or page.hpa1seq or page.hpb1seq or page.mgd4seq or page.dip4seq or page.mito4seq %} {% assign d4 = true %} {% else %} {% assign d4 = false %} {% endif %}
+{% if page.pri5seq or page.alt5seq or page.mat5seq or page.pat5seq or page.hpa1seq or page.hpb1seq or page.mgd5seq or page.dip5seq or page.mito5seq %} {% assign d5 = true %} {% else %} {% assign d5 = false %} {% endif %}
+{% if page.pri6seq or page.alt6seq or page.mat6seq or page.pat6seq or page.hpa1seq or page.hpb1seq or page.mgd6seq or page.dip6seq or page.mito6seq %} {% assign d6 = true %} {% else %} {% assign d6 = false %} {% endif %}
 
 {% if d1 %}                         {% assign div12a = true %} {% else %} {% assign div12a = false %} {% endif %}
 {% if d1 or d2 %}                   {% assign div23a = true %} {% else %} {% assign div23a = false %} {% endif %}
@@ -169,6 +169,8 @@ layout: default
 {% include assembly-stats.html individual=1 tlabel="Merged Trio" tseq=page.mgd1seq  tversion=page.mgd1version  tdate=page.mgd1date  tfilesize=page.mgd1filesize  tsizes=page.mgd1sizes %}
 {% include assembly-stats.html individual=1 llabel="Maternal"    lseq=page.mat1seq  lversion=page.mat1version  ldate=page.mat1date  lfilesize=page.mat1filesize  lsizes=page.mat1sizes
                                             rlabel="Paternal"    rseq=page.pat1seq  rversion=page.pat1version  rdate=page.pat1date  rfilesize=page.pat1filesize  rsizes=page.pat1sizes %}
+{% include assembly-stats.html individual=1 llabel="Haplotype 1" lseq=page.hpa1seq  lversion=page.hpa1version  ldate=page.hpa1date  lfilesize=page.hpa1filesize  lsizes=page.hpa1sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb1seq  rversion=page.hpb1version  rdate=page.hpb1date  rfilesize=page.hpb1filesize  rsizes=page.hpb1sizes %}
 {% include assembly-stats.html individual=1                      mseq=page.mito1seq mversion=page.mito1version mdate=page.mito1date mfilesize=page.mito1filesize %}
 
 {% if d1 %} {% assign shown = false %} {% endif %}
@@ -185,6 +187,8 @@ layout: default
 {% include assembly-stats.html individual=2 tlabel="Merged Trio" tseq=page.mgd2seq  tversion=page.mgd2version  tdate=page.mgd2date  tfilesize=page.mgd2filesize  tsizes=page.mgd2sizes %}
 {% include assembly-stats.html individual=2 llabel="Maternal"    lseq=page.mat2seq  lversion=page.mat2version  ldate=page.mat2date  lfilesize=page.mat2filesize  lsizes=page.mat2sizes
                                             rlabel="Paternal"    rseq=page.pat2seq  rversion=page.pat2version  rdate=page.pat2date  rfilesize=page.pat2filesize  rsizes=page.pat2sizes %}
+{% include assembly-stats.html individual=2 llabel="Haplotype 1" lseq=page.hpa2seq  lversion=page.hpa2version  ldate=page.hpa2date  lfilesize=page.hpa2filesize  lsizes=page.hpa2sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb2seq  rversion=page.hpb2version  rdate=page.hpb2date  rfilesize=page.hpb2filesize  rsizes=page.hpb2sizes %}
 {% include assembly-stats.html individual=2                      mseq=page.mito2seq mversion=page.mito2version mdate=page.mito2date mfilesize=page.mito2filesize %}
 
 {% if d2 %} {% assign shown = false %} {% endif %}
@@ -201,6 +205,8 @@ layout: default
 {% include assembly-stats.html individual=3 tlabel="Merged Trio" tseq=page.mgd3seq  tversion=page.mgd3version  tdate=page.mgd3date  tfilesize=page.mgd3filesize  tsizes=page.mgd3sizes %}
 {% include assembly-stats.html individual=3 llabel="Maternal"    lseq=page.mat3seq  lversion=page.mat3version  ldate=page.mat3date  lfilesize=page.mat3filesize  lsizes=page.mat3sizes
                                             rlabel="Paternal"    rseq=page.pat3seq  rversion=page.pat3version  rdate=page.pat3date  rfilesize=page.pat3filesize  rsizes=page.pat3sizes %}
+{% include assembly-stats.html individual=3 llabel="Haplotype 1" lseq=page.hpa3seq  lversion=page.hpa3version  ldate=page.hpa3date  lfilesize=page.hpa3filesize  lsizes=page.hpa3sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb3seq  rversion=page.hpb3version  rdate=page.hpb3date  rfilesize=page.hpb3filesize  rsizes=page.hpb3sizes %}
 {% include assembly-stats.html individual=3                      mseq=page.mito3seq mversion=page.mito3version mdate=page.mito3date mfilesize=page.mito3filesize %}
 
 {% if d3 %} {% assign shown = false %} {% endif %}
@@ -217,6 +223,8 @@ layout: default
 {% include assembly-stats.html individual=4 tlabel="Merged Trio" tseq=page.mgd4seq  tversion=page.mgd4version  tdate=page.mgd4date  tfilesize=page.mgd4filesize  tsizes=page.mgd4sizes %}
 {% include assembly-stats.html individual=4 llabel="Maternal"    lseq=page.mat4seq  lversion=page.mat4version  ldate=page.mat4date  lfilesize=page.mat4filesize  lsizes=page.mat4sizes
                                             rlabel="Paternal"    rseq=page.pat4seq  rversion=page.pat4version  rdate=page.pat4date  rfilesize=page.pat4filesize  rsizes=page.pat4sizes %}
+{% include assembly-stats.html individual=4 llabel="Haplotype 1" lseq=page.hpa4seq  lversion=page.hpa4version  ldate=page.hpa4date  lfilesize=page.hpa4filesize  lsizes=page.hpa4sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb4seq  rversion=page.hpb4version  rdate=page.hpb4date  rfilesize=page.hpb4filesize  rsizes=page.hpb4sizes %}
 {% include assembly-stats.html individual=4                      mseq=page.mito4seq mversion=page.mito4version mdate=page.mito4date mfilesize=page.mito4filesize %}
 
 {% if d4 %} {% assign shown = false %} {% endif %}
@@ -233,6 +241,8 @@ layout: default
 {% include assembly-stats.html individual=5 tlabel="Merged Trio" tseq=page.mgd5seq  tversion=page.mgd5version  tdate=page.mgd5date  tfilesize=page.mgd5filesize  tsizes=page.mgd5sizes %}
 {% include assembly-stats.html individual=5 llabel="Maternal"    lseq=page.mat5seq  lversion=page.mat5version  ldate=page.mat5date  lfilesize=page.mat5filesize  lsizes=page.mat5sizes
                                             rlabel="Paternal"    rseq=page.pat5seq  rversion=page.pat5version  rdate=page.pat5date  rfilesize=page.pat5filesize  rsizes=page.pat5sizes %}
+{% include assembly-stats.html individual=5 llabel="Haplotype 1" lseq=page.hpa5seq  lversion=page.hpa5version  ldate=page.hpa5date  lfilesize=page.hpa5filesize  lsizes=page.hpa5sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb5seq  rversion=page.hpb5version  rdate=page.hpb5date  rfilesize=page.hpb5filesize  rsizes=page.hpb5sizes %}
 {% include assembly-stats.html individual=5                      mseq=page.mito5seq mversion=page.mito5version mdate=page.mito5date mfilesize=page.mito5filesize %}
 
 {% if d5 %} {% assign shown = false %} {% endif %}
@@ -249,6 +259,8 @@ layout: default
 {% include assembly-stats.html individual=6 tlabel="Merged Trio" tseq=page.mgd6seq  tversion=page.mgd6version  tdate=page.mgd6date  tfilesize=page.mgd6filesize  tsizes=page.mgd6sizes %}
 {% include assembly-stats.html individual=6 llabel="Maternal"    lseq=page.mat6seq  lversion=page.mat6version  ldate=page.mat6date  lfilesize=page.mat6filesize  lsizes=page.mat6sizes
                                             rlabel="Paternal"    rseq=page.pat6seq  rversion=page.pat6version  rdate=page.pat6date  rfilesize=page.pat6filesize  rsizes=page.pat6sizes %}
+{% include assembly-stats.html individual=6 llabel="Haplotype 1" lseq=page.hpa6seq  lversion=page.hpa6version  ldate=page.hpa6date  lfilesize=page.hpa6filesize  lsizes=page.hpa6sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb6seq  rversion=page.hpb6version  rdate=page.hpb6date  rfilesize=page.hpb6filesize  rsizes=page.hpb6sizes %}
 {% include assembly-stats.html individual=6                      mseq=page.mito6seq mversion=page.mito6version mdate=page.mito6date mfilesize=page.mito6filesize %}
 
 </div>
