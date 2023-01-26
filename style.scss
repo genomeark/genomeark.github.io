@@ -712,6 +712,43 @@ table.sequence-sizes-table tfoot {
 }
 
 
+//  Same as above, but ghosted out.
+table.sequence-sizes-table-empty {
+  color:            #aaaaaa;
+}
+table.sequence-sizes-table-empty thead {
+  text-align:       right;
+  border:           1px solid #eeeeee;
+  border-top:       1px solid #bbbbbb;
+  border-bottom:    2px solid #bbbbbb;
+}
+
+table.sequence-sizes-table-empty th {
+  text-align:       right;
+  border:           1px solid #bbbbbb;
+  padding:          2px;
+  padding-left:     8px;
+  padding-right:    8px;
+  background-color: #e8e8e8;
+}
+
+table.sequence-sizes-table-empty td {
+  text-align:       right;
+  border:           1px solid #eeeeee;
+  padding:          2px;
+  padding-left:     8px;
+  padding-right:    8px;
+}
+
+table.sequence-sizes-table-empty tfoot {
+  text-align:       right;
+  border-top:       2px solid #bbbbbb;
+  border-bottom:    1px solid #bbbbbb;
+}
+
+
+
+
 //
 //  Data use text at the bottom of the page.
 //  It's also abused for showing "No raw data" and "No assemblies".
