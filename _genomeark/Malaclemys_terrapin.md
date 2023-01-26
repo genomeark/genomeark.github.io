@@ -1,33 +1,4 @@
 ---
-alt1date: 2022-07-08
-alt1filesize: 0.1 KiB
-alt1length: 0
-alt1n50ctg: 0
-alt1n50scf: 0
-alt1seq: https://s3.amazonaws.com/genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_curated/rMalTer1.alt.cur.20220708.fasta.gz
-alt1sizes: |
-  <table class="sequence-sizes-table">
-  <thead>
-  <tr>
-  <th></th>
-  <th colspan=2 align=center>Contigs</th>
-  <th colspan=2 align=center>Scaffolds</th>
-  </tr>
-  <tr>
-  <th>NG</th>
-  <th>LG</th>
-  <th>Len</th>
-  <th>LG</th>
-  <th>Len</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  </tbody>
-  <tfoot>
-  <tr><th>  </th><th>  </th><th>  </th><th>  </th><th>  </th></tr>
-  </tfoot>
-  </table>
-alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: diamondback terrapin
 data_arima-1_bases: 184.19 Gbp

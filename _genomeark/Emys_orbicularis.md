@@ -84,6 +84,64 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 2543000000
 genome_size_display: 2.54 Gbp
 genome_size_method: GoAT
+hpa1date: 2022-05-01
+hpa1filesize: 662.9 MiB
+hpa1length: 2324111602
+hpa1n50ctg: 81997332
+hpa1n50scf: 131897773
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/rEmyOrb1.HiC.hap1.20220501.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 155.99 Mbp </td><td> 1 </td><td> 373.28 Mbp </td></tr>  <tr><td> 20 </td><td> 4 </td><td> 138.76 Mbp </td><td> 2 </td><td> 300.50 Mbp </td></tr>  <tr><td> 30 </td><td> 6 </td><td> 115.74 Mbp </td><td> 3 </td><td> 217.68 Mbp </td></tr>  <tr><td> 40 </td><td> 8 </td><td> 106.76 Mbp </td><td> 4 </td><td> 158.16 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 82.00 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 131.90 Mbp </td></tr>  <tr><td> 60 </td><td> 15 </td><td> 48.41 Mbp </td><td> 8 </td><td> 113.37 Mbp </td></tr>  <tr><td> 70 </td><td> 22 </td><td> 26.07 Mbp </td><td> 11 </td><td> 81.37 Mbp </td></tr>  <tr><td> 80 </td><td> 37 </td><td> 11.60 Mbp </td><td> 16 </td><td> 34.22 Mbp </td></tr>  <tr><td> 90 </td><td> 120 </td><td> 447.85 Kbp </td><td> 32 </td><td> 2.75 Mbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 0.907x </th><th> 273 </th><th> 2.31 Gbp </th><th> 159 </th><th> 2.32 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2022-05-01
+hpb1filesize: 667.1 MiB
+hpb1length: 2327178905
+hpb1n50ctg: 49260195
+hpb1n50scf: 130989954
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/rEmyOrb1.HiC.hap2.20220501.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 126.75 Mbp </td><td> 1 </td><td> 373.37 Mbp </td></tr>  <tr><td> 20 </td><td> 4 </td><td> 91.34 Mbp </td><td> 2 </td><td> 283.82 Mbp </td></tr>  <tr><td> 30 </td><td> 7 </td><td> 68.82 Mbp </td><td> 3 </td><td> 241.59 Mbp </td></tr>  <tr><td> 40 </td><td> 11 </td><td> 62.24 Mbp </td><td> 4 </td><td> 210.33 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 49.26 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 130.99 Mbp </td></tr>  <tr><td> 60 </td><td> 21 </td><td> 37.54 Mbp </td><td> 8 </td><td> 107.85 Mbp </td></tr>  <tr><td> 70 </td><td> 29 </td><td> 25.86 Mbp </td><td> 11 </td><td> 81.17 Mbp </td></tr>  <tr><td> 80 </td><td> 43 </td><td> 11.54 Mbp </td><td> 15 </td><td> 37.56 Mbp </td></tr>  <tr><td> 90 </td><td> 114 </td><td> 0.84 Mbp </td><td> 32 </td><td> 2.38 Mbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 0.913x </th><th> 267 </th><th> 2.32 Gbp </th><th> 137 </th><th> 2.33 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1651623575
 last_updated: 1662125160
 name: Emys orbicularis

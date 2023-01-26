@@ -104,7 +104,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1651668699
-last_updated: 1674162867
+last_updated: 1674053840
 name: Eubalaena glacialis
 name_: Eubalaena_glacialis
 short_name: mEubGla

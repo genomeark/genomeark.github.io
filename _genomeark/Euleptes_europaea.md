@@ -54,6 +54,35 @@ data_status: '<em style="color:forestgreen">Arima</em>'
 genome_size: 2533000000
 genome_size_display: 2.53 Gbp
 genome_size_method: GoAT
+hpa1date: 2022-07-31
+hpa1filesize: 516.8 MiB
+hpa1length: 1782735006
+hpa1n50ctg: 16416473
+hpa1n50scf: 71032696
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Euleptes_europaea/rEulEur1/assembly_vgp_HiC_2.0/rEulEur1.HiC.hap1.20220731.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 50.59 Mbp </td><td> 2 </td><td> 141.84 Mbp </td></tr>  <tr><td> 20 </td><td> 9 </td><td> 41.92 Mbp </td><td> 4 </td><td> 123.84 Mbp </td></tr>  <tr><td> 30 </td><td> 16 </td><td> 33.05 Mbp </td><td> 6 </td><td> 109.33 Mbp </td></tr>  <tr><td> 40 </td><td> 25 </td><td> 23.27 Mbp </td><td> 9 </td><td> 93.21 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 38 </td><td style="background-color:#88ff88;"> 16.42 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 71.03 Mbp </td></tr>  <tr><td> 60 </td><td> 60 </td><td> 6.84 Mbp </td><td> 16 </td><td> 57.21 Mbp </td></tr>  <tr><td> 70 </td><td> 470 </td><td> 28.08 Kbp </td><td> 204 </td><td> 42.12 Kbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 0.702x </th><th> 762 </th><th> 1.78 Gbp </th><th> 611 </th><th> 1.78 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
 hpb1date: 2022-10-12
 hpb1filesize: 513.9 MiB
 hpb1length: 1772761307

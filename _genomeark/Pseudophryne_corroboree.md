@@ -84,6 +84,35 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 8557000000
 genome_size_display: 8.56 Gbp
 genome_size_method: GoAT
+hpa3date: 2022-08-06
+hpa3filesize: 2.3 GiB
+hpa3length: 8945066269
+hpa3n50ctg: 7191000
+hpa3n50scf: 679934666
+hpa3seq: https://s3.amazonaws.com/genomeark/species/Pseudophryne_corroboree/aPseCor3/assembly_vgp_HiC_2.0/aPseCor3.HiC.hap1.20220806.fasta.gz
+hpa3sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 31 </td><td> 22.87 Mbp </td><td> 1 </td><td> 1.22 Gbp </td></tr>  <tr><td> 20 </td><td> 77 </td><td> 15.59 Mbp </td><td> 2 </td><td> 1.04 Gbp </td></tr>  <tr><td> 30 </td><td> 141 </td><td> 11.71 Mbp </td><td> 3 </td><td> 0.93 Gbp </td></tr>  <tr><td> 40 </td><td> 224 </td><td> 9.09 Mbp </td><td> 4 </td><td> 0.82 Gbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 330 </td><td style="background-color:#88ff88;"> 7.19 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 0.68 Gbp </td></tr>  <tr><td> 60 </td><td> 467 </td><td> 5.40 Mbp </td><td> 6 </td><td> 0.66 Gbp </td></tr>  <tr><td> 70 </td><td> 655 </td><td> 3.87 Mbp </td><td> 8 </td><td> 466.06 Mbp </td></tr>  <tr><td> 80 </td><td> 927 </td><td> 2.52 Mbp </td><td> 11 </td><td> 206.57 Mbp </td></tr>  <tr><td> 90 </td><td> 1386 </td><td> 1.36 Mbp </td><td> 16 </td><td> 76.73 Mbp </td></tr>  <tr><td> 100 </td><td> 2557 </td><td> 361.00 Kbp </td><td> 424 </td><td> 0.59 Mbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.043x </th><th> 5957 </th><th> 8.93 Gbp </th><th> 3526 </th><th> 8.95 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa3version: assembly_vgp_HiC_2.0
 hpb3date: 2022-12-17
 hpb3filesize: 2.3 GiB
 hpb3length: 8872758793

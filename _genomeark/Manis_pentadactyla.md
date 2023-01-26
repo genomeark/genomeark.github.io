@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: Chinese pangolin
 data_bionano-7_bases: N/A
 data_bionano-7_bytes: 1.4 GiB
@@ -55,6 +55,64 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 2800000000
 genome_size_display: 2.80 Gbp
 genome_size_method: GoaT ancestral inferred
+hpa7date: 2022-12-22
+hpa7filesize: 734.4 MiB
+hpa7length: 2684541180
+hpa7n50ctg: 25547713
+hpa7n50scf: 132345885
+hpa7seq: https://s3.amazonaws.com/genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/mManPen7.HiC.hap1.20221222.fasta.gz
+hpa7sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 104.11 Mbp </td><td> 2 </td><td> 226.21 Mbp </td></tr>  <tr><td> 20 </td><td> 6 </td><td> 68.14 Mbp </td><td> 3 </td><td> 219.92 Mbp </td></tr>  <tr><td> 30 </td><td> 11 </td><td> 50.91 Mbp </td><td> 4 </td><td> 192.01 Mbp </td></tr>  <tr><td> 40 </td><td> 17 </td><td> 37.29 Mbp </td><td> 6 </td><td> 144.84 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 26 </td><td style="background-color:#88ff88;"> 25.55 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 132.35 Mbp </td></tr>  <tr><td> 60 </td><td> 37 </td><td> 22.07 Mbp </td><td> 10 </td><td> 122.66 Mbp </td></tr>  <tr><td> 70 </td><td> 52 </td><td> 15.04 Mbp </td><td> 13 </td><td> 102.93 Mbp </td></tr>  <tr><td> 80 </td><td> 77 </td><td> 7.49 Mbp </td><td> 16 </td><td> 61.44 Mbp </td></tr>  <tr><td> 90 </td><td> 203 </td><td> 0.77 Mbp </td><td> 60 </td><td> 1.50 Mbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 0.948x </th><th> 1004 </th><th> 2.65 Gbp </th><th> 822 </th><th> 2.68 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa7version: assembly_vgp_HiC_2.0
+hpb7date: 2022-12-22
+hpb7filesize: 783.9 MiB
+hpb7length: 2869320694
+hpb7n50ctg: 31352529
+hpb7n50scf: 139388172
+hpb7seq: https://s3.amazonaws.com/genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/mManPen7.HiC.hap2.20221222.fasta.gz
+hpb7sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 152.66 Mbp </td><td> 2 </td><td> 223.42 Mbp </td></tr>  <tr><td> 20 </td><td> 5 </td><td> 68.30 Mbp </td><td> 3 </td><td> 219.24 Mbp </td></tr>  <tr><td> 30 </td><td> 9 </td><td> 57.26 Mbp </td><td> 4 </td><td> 186.78 Mbp </td></tr>  <tr><td> 40 </td><td> 15 </td><td> 40.23 Mbp </td><td> 6 </td><td> 153.65 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 23 </td><td style="background-color:#88ff88;"> 31.35 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 139.39 Mbp </td></tr>  <tr><td> 60 </td><td> 32 </td><td> 25.31 Mbp </td><td> 10 </td><td> 123.59 Mbp </td></tr>  <tr><td> 70 </td><td> 45 </td><td> 19.37 Mbp </td><td> 13 </td><td> 102.57 Mbp </td></tr>  <tr><td> 80 </td><td> 63 </td><td> 11.94 Mbp </td><td> 16 </td><td> 76.89 Mbp </td></tr>  <tr><td> 90 </td><td> 105 </td><td> 3.22 Mbp </td><td> 20 </td><td> 31.49 Mbp </td></tr>  <tr><td> 100 </td><td> 383 </td><td> 309.02 Kbp </td><td> 189 </td><td> 477.06 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.019x </th><th> 891 </th><th> 2.85 Gbp </th><th> 701 </th><th> 2.87 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb7version: assembly_vgp_HiC_2.0
 last_raw_data: 1669233016
 last_updated: 1672863047
 name: Manis pentadactyla

@@ -84,6 +84,35 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 1966000000
 genome_size_display: 1.97 Gbp
 genome_size_method: GoAT
+hpb1date: 2022-09-29
+hpb1filesize: 559.5 MiB
+hpb1length: 1964224387
+hpb1n50ctg: 3064756
+hpb1n50scf: 255449344
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Erythrolamprus_reginae/rEryReg1/assembly_vgp_HiC_2.0/rEryReg1.HiC.hap2.20220929.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 16 </td><td> 10.48 Mbp </td><td> 1 </td><td> 426.06 Mbp </td></tr>  <tr><td> 20 </td><td> 39 </td><td> 7.41 Mbp </td><td> 1 </td><td> 426.06 Mbp </td></tr>  <tr><td> 30 </td><td> 71 </td><td> 5.13 Mbp </td><td> 2 </td><td> 347.46 Mbp </td></tr>  <tr><td> 40 </td><td> 116 </td><td> 3.89 Mbp </td><td> 3 </td><td> 255.45 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 172 </td><td style="background-color:#88ff88;"> 3.06 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 255.45 Mbp </td></tr>  <tr><td> 60 </td><td> 247 </td><td> 2.29 Mbp </td><td> 4 </td><td> 152.91 Mbp </td></tr>  <tr><td> 70 </td><td> 346 </td><td> 1.71 Mbp </td><td> 6 </td><td> 118.94 Mbp </td></tr>  <tr><td> 80 </td><td> 493 </td><td> 1.05 Mbp </td><td> 8 </td><td> 86.43 Mbp </td></tr>  <tr><td> 90 </td><td> 748 </td><td> 0.55 Mbp </td><td> 11 </td><td> 49.25 Mbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 0.999x </th><th> 1791 </th><th> 1.96 Gbp </th><th> 451 </th><th> 1.96 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1651627264
 last_updated: 1672877074
 name: Erythrolamprus reginae

@@ -75,7 +75,7 @@ genome_size: 1434000000
 genome_size_display: 1.43 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651609477
-last_updated: 1671463752
+last_updated: 1651609477
 name: Gypaetus barbatus
 name_: Gypaetus_barbatus
 pri2date: 2021-12-17
