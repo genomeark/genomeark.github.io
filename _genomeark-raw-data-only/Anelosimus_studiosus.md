@@ -1,0 +1,1 @@
+../_genomeark/Anelosimus_studiosus.md

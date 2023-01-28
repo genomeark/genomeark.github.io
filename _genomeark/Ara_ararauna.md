@@ -94,7 +94,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1651611545
-last_updated: 1674057407
+last_updated: 1674673262
 name: Ara ararauna
 name_: Ara_ararauna
 short_name: bAraAra

@@ -1,0 +1,1 @@
+../_genomeark/Chlamydotis_macqueenii.md

@@ -1,0 +1,1 @@
+../_genomeark/Dendrobates_auratus.md

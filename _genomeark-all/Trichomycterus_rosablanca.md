@@ -1,0 +1,1 @@
+../_genomeark/Trichomycterus_rosablanca.md

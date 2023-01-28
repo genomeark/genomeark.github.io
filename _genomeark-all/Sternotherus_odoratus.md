@@ -1,0 +1,1 @@
+../_genomeark/Sternotherus_odoratus.md

@@ -1,0 +1,1 @@
+../_genomeark/Ochotona_princeps.md

@@ -162,6 +162,16 @@ data_illumina-3_scale: 1.8649
 data_illumina_bases: 219.36 Gbp
 data_illumina_bytes: 109.7 GiB
 data_illumina_coverage: 181.29x
+data_ont-1_bases: 60.42 Gbp
+data_ont-1_bytes: 54.0 GiB
+data_ont-1_coverage: 49.93x
+data_ont-1_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/ont/<br>
+data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal1/genomic_data/ont/
+data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal1/genomic_data/ont/
+data_ont-1_scale: 1.0417
+data_ont_bases: 60.42 Gbp
+data_ont_bytes: 54.0 GiB
+data_ont_coverage: 49.93x
 data_pacbio-1_bases: 123.49 Gbp
 data_pacbio-1_bytes: 213.3 GiB
 data_pacbio-1_coverage: 102.06x
@@ -199,6 +209,13 @@ data_pacbiohifi_clr-5_scale: 0.5227
 data_pacbiohifi_clr_bases: 1537.77 Gbp
 data_pacbiohifi_clr_bytes: 2.7 TiB
 data_pacbiohifi_clr_coverage: 1270.89x
+data_pacbiohifi_fqgz-1_bases: 92.89 Gbp
+data_pacbiohifi_fqgz-1_bytes: 79.4 GiB
+data_pacbiohifi_fqgz-1_coverage: 76.77x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.0900
 data_pacbiohifi_fqgz-5_bases: 45.73 Gbp
 data_pacbiohifi_fqgz-5_bytes: 33.8 GiB
 data_pacbiohifi_fqgz-5_coverage: 37.79x
@@ -206,17 +223,17 @@ data_pacbiohifi_fqgz-5_links: s3://genomeark/species/Gallus_gallus/bGalGal5/geno
 data_pacbiohifi_fqgz-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-5_scale: 1.2606
-data_pacbiohifi_fqgz_bases: 45.73 Gbp
-data_pacbiohifi_fqgz_bytes: 33.8 GiB
-data_pacbiohifi_fqgz_coverage: 37.79x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_pacbiohifi_fqgz_bases: 138.62 Gbp
+data_pacbiohifi_fqgz_bytes: 113.2 GiB
+data_pacbiohifi_fqgz_coverage: 114.56x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_mat: bGalGal1:GCA_016699485.1
 genbank_pat: bGalGal1:GCA_016700215.2
 genome_size: 1210000000
 genome_size_display: 1.21 Gbp
 genome_size_method: null
-last_raw_data: 1653513293
-last_updated: 1671142208
+last_raw_data: 1674604151
+last_updated: 1674604151
 mat1date: 2019-10-17
 mat1filesize: 285.8 MiB
 mat1length: 1050497396

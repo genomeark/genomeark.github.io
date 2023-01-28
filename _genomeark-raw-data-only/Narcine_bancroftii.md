@@ -1,0 +1,1 @@
+../_genomeark/Narcine_bancroftii.md

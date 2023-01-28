@@ -1,0 +1,1 @@
+../_genomeark/Lycodopsis_pacificus.md

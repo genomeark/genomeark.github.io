@@ -1,0 +1,1 @@
+../_genomeark/Lagopus_muta.md

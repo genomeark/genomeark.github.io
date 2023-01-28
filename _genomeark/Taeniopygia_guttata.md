@@ -138,9 +138,23 @@ data_illumina-4_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut4/genom
 data_illumina-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut4/genomic_data/illumina/
 data_illumina-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut4/genomic_data/illumina/
 data_illumina-4_scale: 1.7409
-data_illumina_bases: 134.30 Gbp
-data_illumina_bytes: 71.7 GiB
-data_illumina_coverage: 129.68x
+data_illumina-8_bases: 50.87 Gbp
+data_illumina-8_bytes: 24.2 GiB
+data_illumina-8_coverage: 49.12x
+data_illumina-8_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut8/genomic_data/illumina/<br>
+data_illumina-8_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut8/genomic_data/illumina/
+data_illumina-8_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut8/genomic_data/illumina/
+data_illumina-8_scale: 1.9593
+data_illumina-9_bases: 76.25 Gbp
+data_illumina-9_bytes: 36.6 GiB
+data_illumina-9_coverage: 73.63x
+data_illumina-9_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut9/genomic_data/illumina/<br>
+data_illumina-9_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut9/genomic_data/illumina/
+data_illumina-9_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut9/genomic_data/illumina/
+data_illumina-9_scale: 1.9395
+data_illumina_bases: 261.42 Gbp
+data_illumina_bytes: 132.5 GiB
+data_illumina_coverage: 252.43x
 data_pacbio-1_bases: 109.72 Gbp
 data_pacbio-1_bytes: 392.7 GiB
 data_pacbio-1_coverage: 105.95x
@@ -260,8 +274,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_curated
-last_raw_data: 1651592061
-last_updated: 1662416643
+last_raw_data: 1674520893
+last_updated: 1674520893
 mat2date: 2022-05-27
 mat2filesize: 289.3 MiB
 mat2length: 1021085914
