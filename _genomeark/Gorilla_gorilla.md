@@ -28,46 +28,46 @@ data_illumina-3_scale: 1.9452
 data_illumina_bases: 463.59 Gbp
 data_illumina_bytes: 222.1 GiB
 data_illumina_coverage: 132.78x
-data_ont-1_bases: 420.92 Gbp
-data_ont-1_bytes: 369.5 GiB
-data_ont-1_coverage: 120.56x
+data_ont-1_bases: 570.58 Gbp
+data_ont-1_bytes: 486.1 GiB
+data_ont-1_coverage: 163.42x
 data_ont-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/ont/<br>
 data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/ont/
 data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/ont/
-data_ont-1_scale: 1.0608
-data_ont_bases: 420.92 Gbp
-data_ont_bytes: 369.5 GiB
-data_ont_coverage: 120.56x
-data_pacbiohifi_bam-1_bases: 491.97 Gbp
-data_pacbiohifi_bam-1_bytes: 714.0 GiB
-data_pacbiohifi_bam-1_coverage: 140.91x
+data_ont-1_scale: 1.0931
+data_ont_bases: 570.58 Gbp
+data_ont_bytes: 486.1 GiB
+data_ont_coverage: 163.42x
+data_pacbiohifi_bam-1_bases: 747.70 Gbp
+data_pacbiohifi_bam-1_bytes: 1.1 TiB
+data_pacbiohifi_bam-1_coverage: 214.15x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.6417
-data_pacbiohifi_bam_bases: 491.97 Gbp
-data_pacbiohifi_bam_bytes: 714.0 GiB
-data_pacbiohifi_bam_coverage: 140.91x
-data_pacbiohifi_clr-1_bases: 4503.32 Gbp
-data_pacbiohifi_clr-1_bytes: 8.2 TiB
-data_pacbiohifi_clr-1_coverage: 1289.81x
+data_pacbiohifi_bam-1_scale: 0.6381
+data_pacbiohifi_bam_bases: 747.70 Gbp
+data_pacbiohifi_bam_bytes: 1.1 TiB
+data_pacbiohifi_bam_coverage: 214.15x
+data_pacbiohifi_clr-1_bases: 6591.34 Gbp
+data_pacbiohifi_clr-1_bytes: 12.0 TiB
+data_pacbiohifi_clr-1_coverage: 1887.85x
 data_pacbiohifi_clr-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
 data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
-data_pacbiohifi_clr-1_scale: 0.4998
-data_pacbiohifi_clr_bases: 4503.32 Gbp
-data_pacbiohifi_clr_bytes: 8.2 TiB
-data_pacbiohifi_clr_coverage: 1289.81x
-data_pacbiohifi_fqgz-1_bases: 301.39 Gbp
-data_pacbiohifi_fqgz-1_bytes: 220.7 GiB
-data_pacbiohifi_fqgz-1_coverage: 86.32x
+data_pacbiohifi_clr-1_scale: 0.4988
+data_pacbiohifi_clr_bases: 6591.34 Gbp
+data_pacbiohifi_clr_bytes: 12.0 TiB
+data_pacbiohifi_clr_coverage: 1887.85x
+data_pacbiohifi_fqgz-1_bases: 395.07 Gbp
+data_pacbiohifi_fqgz-1_bytes: 297.9 GiB
+data_pacbiohifi_fqgz-1_coverage: 113.15x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 1.2721
-data_pacbiohifi_fqgz_bases: 301.39 Gbp
-data_pacbiohifi_fqgz_bytes: 220.7 GiB
-data_pacbiohifi_fqgz_coverage: 86.32x
+data_pacbiohifi_fqgz-1_scale: 1.2351
+data_pacbiohifi_fqgz_bases: 395.07 Gbp
+data_pacbiohifi_fqgz_bytes: 297.9 GiB
+data_pacbiohifi_fqgz_coverage: 113.15x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 dip1date: 2022-11-11
 dip1filesize: 1.6 GiB
@@ -101,8 +101,8 @@ dip1version: assembly_verkko_1.1-0.2-freeze
 genome_size: 3491460000
 genome_size_display: 3.49 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-last_raw_data: 1673974488
-last_updated: 1673974488
+last_raw_data: 1675118523
+last_updated: 1675195592
 mat1date: 2022-11-11
 mat1filesize: 826.5 MiB
 mat1length: 3535292761

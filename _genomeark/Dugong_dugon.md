@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 data_dovetail-1_bases: 137.26 Gbp
 data_dovetail-1_bytes: 81.3 GiB
 data_dovetail-1_coverage: N/A
@@ -12,12 +12,12 @@ data_dovetail_bytes: 81.3 GiB
 data_dovetail_coverage: N/A
 data_status: '<em style="color:forestgreen">Dovetail</em>'
 genome_size: 0
-hpa1date: 2022-12-14
+hpa1date: 2023-02-04
 hpa1filesize: 0.9 GiB
-hpa1length: 3159195046
+hpa1length: 3158488110
 hpa1n50ctg: 57632671
-hpa1n50scf: 177379183
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Dugong_dugon/mDugDug1/assembly_vgp_HiC_2.0/mDugDug1.HiC.hap1.20221214.fasta.gz
+hpa1n50scf: 140670990
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Dugong_dugon/mDugDug1/assembly_curated/mDugDug1.hap1.cur.20230204.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -35,12 +35,12 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 160.48 Mbp </td><td> 1 </td><td> 230.92 Mbp </td></tr>  <tr><td> 20 </td><td> 4 </td><td> 104.60 Mbp </td><td> 2 </td><td> 211.02 Mbp </td></tr>  <tr><td> 30 </td><td> 7 </td><td> 90.16 Mbp </td><td> 4 </td><td> 197.78 Mbp </td></tr>  <tr><td> 40 </td><td> 11 </td><td> 78.20 Mbp </td><td> 5 </td><td> 196.39 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 57.63 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 177.38 Mbp </td></tr>  <tr><td> 60 </td><td> 21 </td><td> 51.93 Mbp </td><td> 9 </td><td> 138.38 Mbp </td></tr>  <tr><td> 70 </td><td> 29 </td><td> 36.37 Mbp </td><td> 11 </td><td> 129.23 Mbp </td></tr>  <tr><td> 80 </td><td> 39 </td><td> 29.41 Mbp </td><td> 14 </td><td> 114.02 Mbp </td></tr>  <tr><td> 90 </td><td> 52 </td><td> 18.67 Mbp </td><td> 18 </td><td> 79.54 Mbp </td></tr>  <tr><td> 100 </td><td> 299 </td><td> 6.77 Kbp </td><td> 220 </td><td> 6.77 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 160.48 Mbp </td><td> 1 </td><td> 211.02 Mbp </td></tr>  <tr><td> 20 </td><td> 4 </td><td> 104.60 Mbp </td><td> 2 </td><td> 198.60 Mbp </td></tr>  <tr><td> 30 </td><td> 7 </td><td> 90.16 Mbp </td><td> 4 </td><td> 196.39 Mbp </td></tr>  <tr><td> 40 </td><td> 11 </td><td> 78.20 Mbp </td><td> 6 </td><td> 177.38 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 57.63 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 140.67 Mbp </td></tr>  <tr><td> 60 </td><td> 21 </td><td> 51.93 Mbp </td><td> 10 </td><td> 130.05 Mbp </td></tr>  <tr><td> 70 </td><td> 29 </td><td> 36.37 Mbp </td><td> 13 </td><td> 115.46 Mbp </td></tr>  <tr><td> 80 </td><td> 38 </td><td> 29.72 Mbp </td><td> 15 </td><td> 102.87 Mbp </td></tr>  <tr><td> 90 </td><td> 52 </td><td> 18.67 Mbp </td><td> 19 </td><td> 79.54 Mbp </td></tr>  <tr><td> 100 </td><td> 293 </td><td> 6.77 Kbp </td><td> 197 </td><td> 6.77 Kbp </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 300 </th><th> 3.16 Gbp </th><th> 221 </th><th> 3.16 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 294 </th><th> 3.16 Gbp </th><th> 198 </th><th> 3.16 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
+hpa1version: assembly_curated
 hpb1date: 2022-12-14
 hpb1filesize: 0.9 GiB
 hpb1length: 3154879230
@@ -71,7 +71,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1671552996
-last_updated: 1671552996
+last_updated: 1675472786
 name: Dugong dugon
 name_: Dugong_dugon
 short_name: mDugDug

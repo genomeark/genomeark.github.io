@@ -11,16 +11,16 @@ data_dovetail-1_scale: 1.8832
 data_dovetail_bases: 258.65 Gbp
 data_dovetail_bytes: 127.9 GiB
 data_dovetail_coverage: 78.48x
-data_illumina-1_bases: 230.30 Gbp
-data_illumina-1_bytes: 112.5 GiB
-data_illumina-1_coverage: 69.88x
+data_illumina-1_bases: 423.48 Gbp
+data_illumina-1_bytes: 207.5 GiB
+data_illumina-1_coverage: 128.49x
 data_illumina-1_links: s3://genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/illumina/<br>
 data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/illumina/
 data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Symphalangus_syndactylus/mSymSyn1/genomic_data/illumina/
-data_illumina-1_scale: 1.9064
-data_illumina_bases: 230.30 Gbp
-data_illumina_bytes: 112.5 GiB
-data_illumina_coverage: 69.88x
+data_illumina-1_scale: 1.9006
+data_illumina_bases: 423.48 Gbp
+data_illumina_bytes: 207.5 GiB
+data_illumina_coverage: 128.49x
 data_ont-1_bases: 338.17 Gbp
 data_ont-1_bytes: 298.1 GiB
 data_ont-1_coverage: 102.61x
@@ -152,8 +152,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_verkko_1.1-hic-freeze
-last_raw_data: 1671520234
-last_updated: 1671520234
+last_raw_data: 1675366964
+last_updated: 1675366964
 name: Symphalangus syndactylus
 name_: Symphalangus_syndactylus
 short_name: mSymSyn
