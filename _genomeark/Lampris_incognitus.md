@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 data_arima-1_bases: 101.01 Gbp
 data_arima-1_bytes: 49.7 GiB
 data_arima-1_coverage: N/A
@@ -22,8 +22,66 @@ data_pacbiohifi_fqgz_bytes: 35.5 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
+hpa1date: 2023-02-06
+hpa1filesize: 351.2 MiB
+hpa1length: 0
+hpa1n50ctg: 0
+hpa1n50scf: 0
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Lampris_incognitus/fLamInc1/assembly_vgp_HiC_2.0/fLamInc1.HiC.hap1.20230206.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td>  </td><td>  </td><td style="background-color:#ff8888;">  </td><td>  </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th>  </th><th>  </th><th>  </th><th>  </th><th>  </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2023-02-06
+hpb1filesize: 349.3 MiB
+hpb1length: 0
+hpb1n50ctg: 0
+hpb1n50scf: 0
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Lampris_incognitus/fLamInc1/assembly_vgp_HiC_2.0/fLamInc1.HiC.hap2.20230206.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td>  </td><td>  </td><td style="background-color:#ff8888;">  </td><td>  </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th>  </th><th>  </th><th>  </th><th>  </th><th>  </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1665081066
-last_updated: 1665081066
+last_updated: 1675748333
 name: Lampris incognitus
 name_: Lampris_incognitus
 short_name: fLamInc

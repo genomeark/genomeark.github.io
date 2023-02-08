@@ -1,0 +1,1 @@
+../_genomeark/Barbatula_barbatula.md

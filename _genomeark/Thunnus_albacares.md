@@ -50,23 +50,23 @@ data_arima-1_scale: 1.9031
 data_arima_bases: 75.53 Gbp
 data_arima_bytes: 37.0 GiB
 data_arima_coverage: 95.36x
-data_pacbiohifi_bam-1_bases: 44.22 Gbp
-data_pacbiohifi_bam-1_bytes: 156.7 GiB
-data_pacbiohifi_bam-1_coverage: 55.83x
+data_pacbiohifi_bam-1_bases: 46.58 Gbp
+data_pacbiohifi_bam-1_bytes: 165.0 GiB
+data_pacbiohifi_bam-1_coverage: 58.81x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thunnus_albacares/fThuAlb1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 0.2629
-data_pacbiohifi_bam_bases: 44.22 Gbp
-data_pacbiohifi_bam_bytes: 156.7 GiB
-data_pacbiohifi_bam_coverage: 55.83x
+data_pacbiohifi_bam_bases: 46.58 Gbp
+data_pacbiohifi_bam_bytes: 165.0 GiB
+data_pacbiohifi_bam_coverage: 58.81x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fThuAlb1:GCA_914744365.1
 genbank_pri: fThuAlb1:GCA_914725855.1
 genome_size: 792117861
 genome_size_display: 0.79 Gbp
-last_raw_data: 1651599613
-last_updated: 1651599613
+last_raw_data: 1675853448
+last_updated: 1675853448
 name: Thunnus albacares
 name_: Thunnus_albacares
 pri1date: 2021-08-27

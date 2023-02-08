@@ -1,0 +1,1 @@
+../_genomeark/Silurus_aristotelis.md

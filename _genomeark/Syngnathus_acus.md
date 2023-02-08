@@ -60,13 +60,23 @@ data_pacbio-1_scale: 0.5358
 data_pacbio_bases: 29.02 Gbp
 data_pacbio_bytes: 50.4 GiB
 data_pacbio_coverage: 89.49x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_pacbiohifi_bam-2_bases: 28.94 Gbp
+data_pacbiohifi_bam-2_bytes: 101.5 GiB
+data_pacbiohifi_bam-2_coverage: 89.24x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Syngnathus_acus/fSynAcu2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Syngnathus_acus/fSynAcu2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Syngnathus_acus/fSynAcu2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 0.2656
+data_pacbiohifi_bam_bases: 28.94 Gbp
+data_pacbiohifi_bam_bytes: 101.5 GiB
+data_pacbiohifi_bam_coverage: 89.24x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: fSynAcu1:GCA_901709685.1
 genbank_pri: fSynAcu1:GCA_901709675.2
 genome_size: 324331233
 genome_size_display: 324.33 Mbp
-last_raw_data: 1554452546
-last_updated: 1570719807
+last_raw_data: 1675812567
+last_updated: 1675812567
 mito1date: 2019-10-03
 mito1filesize: 5.0 KiB
 mito1length: 16454

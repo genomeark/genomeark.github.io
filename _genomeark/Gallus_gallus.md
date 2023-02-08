@@ -162,16 +162,16 @@ data_illumina-3_scale: 1.8649
 data_illumina_bases: 219.36 Gbp
 data_illumina_bytes: 109.7 GiB
 data_illumina_coverage: 181.29x
-data_ont-1_bases: 60.42 Gbp
-data_ont-1_bytes: 54.0 GiB
-data_ont-1_coverage: 49.93x
+data_ont-1_bases: 120.02 Gbp
+data_ont-1_bytes: 109.6 GiB
+data_ont-1_coverage: 99.19x
 data_ont-1_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/ont/<br>
 data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal1/genomic_data/ont/
 data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal1/genomic_data/ont/
-data_ont-1_scale: 1.0417
-data_ont_bases: 60.42 Gbp
-data_ont_bytes: 54.0 GiB
-data_ont_coverage: 49.93x
+data_ont-1_scale: 1.0200
+data_ont_bases: 120.02 Gbp
+data_ont_bytes: 109.6 GiB
+data_ont_coverage: 99.19x
 data_pacbio-1_bases: 123.49 Gbp
 data_pacbio-1_bytes: 213.3 GiB
 data_pacbio-1_coverage: 102.06x
@@ -232,8 +232,8 @@ genbank_pat: bGalGal1:GCA_016700215.2
 genome_size: 1210000000
 genome_size_display: 1.21 Gbp
 genome_size_method: null
-last_raw_data: 1674604151
-last_updated: 1674604151
+last_raw_data: 1675798285
+last_updated: 1675798287
 mat1date: 2019-10-17
 mat1filesize: 285.8 MiB
 mat1length: 1050497396

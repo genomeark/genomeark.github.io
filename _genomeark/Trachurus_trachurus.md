@@ -66,7 +66,7 @@ genbank_pri: fTraTra1:GCA_905171665.2
 genome_size: 820163303
 genome_size_display: 0.82 Gbp
 last_raw_data: 1576663199
-last_updated: 1608197281
+last_updated: 1675851577
 mito1date: 2019-10-03
 mito1filesize: 5.3 KiB
 mito1length: 16561

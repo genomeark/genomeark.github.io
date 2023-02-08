@@ -91,12 +91,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2023-01-25
+hpb1date: 2023-02-06
 hpb1filesize: 1.1 GiB
 hpb1length: 4075267908
 hpb1n50ctg: 3998122
 hpb1n50scf: 380637514
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/aHylSar1.HiC.hap2.20230125.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/aHylSar1.HiC.hap2.20230206.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -114,14 +114,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 23 </td><td> 13.95 Mbp </td><td> 0 </td><td> 0.61 Gbp </td></tr>  <tr><td> 20 </td><td> 58 </td><td> 9.63 Mbp </td><td> 1 </td><td> 492.44 Mbp </td></tr>  <tr><td> 30 </td><td> 106 </td><td> 7.38 Mbp </td><td> 2 </td><td> 446.74 Mbp </td></tr>  <tr><td> 40 </td><td> 170 </td><td> 5.51 Mbp </td><td> 3 </td><td> 419.94 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 257 </td><td style="background-color:#88ff88;"> 4.00 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 380.64 Mbp </td></tr>  <tr><td> 60 </td><td> 376 </td><td> 2.92 Mbp </td><td> 5 </td><td> 305.48 Mbp </td></tr>  <tr><td> 70 </td><td> 548 </td><td> 1.93 Mbp </td><td> 6 </td><td> 234.46 Mbp </td></tr>  <tr><td> 80 </td><td> 820 </td><td> 1.10 Mbp </td><td> 8 </td><td> 185.86 Mbp </td></tr>  <tr><td> 90 </td><td> 1419 </td><td> 400.80 Kbp </td><td> 13 </td><td> 4.36 Mbp </td></tr>  <tr><td> 100 </td><td> 4890 </td><td> 1.00 Kbp </td><td> 2795 </td><td> 1.00 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 23 </td><td> 13.95 Mbp </td><td> 0 </td><td> 0.61 Gbp </td></tr>  <tr><td> 20 </td><td> 58 </td><td> 9.63 Mbp </td><td> 1 </td><td> 492.44 Mbp </td></tr>  <tr><td> 30 </td><td> 106 </td><td> 7.38 Mbp </td><td> 2 </td><td> 446.74 Mbp </td></tr>  <tr><td> 40 </td><td> 170 </td><td> 5.51 Mbp </td><td> 3 </td><td> 419.94 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 257 </td><td style="background-color:#88ff88;"> 4.00 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 380.64 Mbp </td></tr>  <tr><td> 60 </td><td> 376 </td><td> 2.92 Mbp </td><td> 5 </td><td> 305.48 Mbp </td></tr>  <tr><td> 70 </td><td> 548 </td><td> 1.93 Mbp </td><td> 6 </td><td> 234.46 Mbp </td></tr>  <tr><td> 80 </td><td> 820 </td><td> 1.10 Mbp </td><td> 8 </td><td> 185.86 Mbp </td></tr>  <tr><td> 90 </td><td> 1419 </td><td> 400.80 Kbp </td><td> 13 </td><td> 4.36 Mbp </td></tr>  <tr><td> 100 </td><td> 4891 </td><td> 360  bp </td><td> 2795 </td><td> 1.00 Kbp </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 4891 </th><th> 4.07 Gbp </th><th> 2796 </th><th> 4.08 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 4892 </th><th> 4.07 Gbp </th><th> 2796 </th><th> 4.08 Gbp </th></tr>
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1667395217
-last_updated: 1674664087
+last_updated: 1675746956
 name: Hyla sarda
 name_: Hyla_sarda
 pri1date: 2022-12-08

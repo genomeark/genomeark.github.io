@@ -28,13 +28,20 @@ data_pacbiohifi_bam-3_links: s3://genomeark/species/Phaethon_aethereus/bPhaAeh3/
 data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phaethon_aethereus/bPhaAeh3/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phaethon_aethereus/bPhaAeh3/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-3_scale: 1.6617
-data_pacbiohifi_bam_bases: 36.09 Mbp
-data_pacbiohifi_bam_bytes: 20.7 MiB
+data_pacbiohifi_bam-6_bases: 2.53 Mbp
+data_pacbiohifi_bam-6_bytes: 1.7 MiB
+data_pacbiohifi_bam-6_coverage: N/A
+data_pacbiohifi_bam-6_links: s3://genomeark/species/Phaethon_aethereus/bPhaAeh6/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-6_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phaethon_aethereus/bPhaAeh6/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-6_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phaethon_aethereus/bPhaAeh6/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-6_scale: 1.3845
+data_pacbiohifi_bam_bases: 38.62 Mbp
+data_pacbiohifi_bam_bytes: 22.5 MiB
 data_pacbiohifi_bam_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
-last_raw_data: 1651611969
-last_updated: 1651611969
+last_raw_data: 1675823326
+last_updated: 1675823326
 name: Phaethon aethereus
 name_: Phaethon_aethereus
 short_name: bPhaAeh

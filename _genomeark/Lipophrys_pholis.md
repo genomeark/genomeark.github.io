@@ -34,7 +34,7 @@ data_pacbiohifi_bam_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
 last_raw_data: 1651599569
-last_updated: 1651599569
+last_updated: 1675845395
 name: Lipophrys pholis
 name_: Lipophrys_pholis
 short_name: fLipPho

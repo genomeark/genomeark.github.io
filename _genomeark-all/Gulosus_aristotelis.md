@@ -1,0 +1,1 @@
+../_genomeark/Gulosus_aristotelis.md
