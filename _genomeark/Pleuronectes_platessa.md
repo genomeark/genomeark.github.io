@@ -16,7 +16,7 @@ genome_size: 381420000
 genome_size_display: 381.42 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675807355
-last_updated: 1675807355
+last_updated: 1675921506
 name: Pleuronectes platessa
 name_: Pleuronectes_platessa
 short_name: fPlePla

@@ -16,7 +16,7 @@ genome_size: 645480000
 genome_size_display: 0.65 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675829415
-last_updated: 1675829415
+last_updated: 1675896237
 name: Ciliata mustela
 name_: Ciliata_mustela
 short_name: fCilMus

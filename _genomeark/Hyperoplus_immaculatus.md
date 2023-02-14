@@ -14,7 +14,7 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
 genome_size: 0
 genome_size_method: GoaT
 last_raw_data: 1675816484
-last_updated: 1675816484
+last_updated: 1675886734
 name: Hyperoplus immaculatus
 name_: Hyperoplus_immaculatus
 short_name: fHypImm

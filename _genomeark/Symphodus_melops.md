@@ -16,7 +16,7 @@ genome_size: 968220000
 genome_size_display: 0.97 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675836325
-last_updated: 1675836325
+last_updated: 1675897133
 name: Symphodus melops
 name_: Symphodus_melops
 short_name: fSymMel

@@ -23,7 +23,7 @@ data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
 hpa1date: 2023-02-06
-hpa1filesize: 351.2 MiB
+hpa1filesize: 391.1 MiB
 hpa1length: 0
 hpa1n50ctg: 0
 hpa1n50scf: 0
@@ -52,7 +52,7 @@ hpa1sizes: |
   </table>
 hpa1version: assembly_vgp_HiC_2.0
 hpb1date: 2023-02-06
-hpb1filesize: 349.3 MiB
+hpb1filesize: 389.7 MiB
 hpb1length: 0
 hpb1n50ctg: 0
 hpb1n50scf: 0
@@ -81,7 +81,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1665081066
-last_updated: 1675748333
+last_updated: 1675879004
 name: Lampris incognitus
 name_: Lampris_incognitus
 short_name: fLamInc

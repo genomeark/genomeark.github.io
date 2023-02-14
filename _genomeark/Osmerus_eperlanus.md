@@ -16,7 +16,7 @@ genome_size: 606360000
 genome_size_display: 0.61 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675843131
-last_updated: 1675843131
+last_updated: 1675914792
 name: Osmerus eperlanus
 name_: Osmerus_eperlanus
 short_name: fOsmEpe

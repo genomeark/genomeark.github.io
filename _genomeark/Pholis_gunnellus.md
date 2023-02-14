@@ -66,7 +66,7 @@ genbank_pri: fPhoGun1:GCA_910591455.2
 genome_size: 588696950
 genome_size_display: 0.59 Gbp
 last_raw_data: 1651612017
-last_updated: 1651612017
+last_updated: 1675882609
 name: Pholis gunnellus
 name_: Pholis_gunnellus
 pri1date: 2021-10-20

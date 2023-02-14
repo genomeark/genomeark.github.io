@@ -16,7 +16,7 @@ genome_size: 25760520000
 genome_size_display: 25.76 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675817529
-last_updated: 1675817529
+last_updated: 1675925801
 name: Lissotriton helveticus
 name_: Lissotriton_helveticus
 short_name: aLisHel

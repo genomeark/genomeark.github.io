@@ -16,7 +16,7 @@ genome_size: 1907100000
 genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675850762
-last_updated: 1675850762
+last_updated: 1675880615
 name: Electrona subaspera
 name_: Electrona_subaspera
 short_name: fEleSub

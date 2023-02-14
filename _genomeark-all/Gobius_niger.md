@@ -1,0 +1,1 @@
+../_genomeark/Gobius_niger.md

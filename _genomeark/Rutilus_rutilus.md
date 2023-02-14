@@ -16,7 +16,7 @@ genome_size: 1085580000
 genome_size_display: 1.09 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675855475
-last_updated: 1675855475
+last_updated: 1675871674
 name: Rutilus rutilus
 name_: Rutilus_rutilus
 short_name: fRutRut

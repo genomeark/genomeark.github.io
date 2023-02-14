@@ -16,7 +16,7 @@ genome_size: 24650490000
 genome_size_display: 24.65 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675833282
-last_updated: 1675833282
+last_updated: 1675895869
 name: Lissotriton vulgaris
 name_: Lissotriton_vulgaris
 short_name: aLisVul

@@ -16,7 +16,7 @@ genome_size: 2383875000
 genome_size_display: 2.38 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675831944
-last_updated: 1675831944
+last_updated: 1675918951
 name: Eptesicus nilssonii
 name_: Eptesicus_nilssonii
 short_name: mEptNil

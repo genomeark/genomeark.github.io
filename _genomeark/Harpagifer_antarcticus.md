@@ -16,7 +16,7 @@ genome_size: 1633260000
 genome_size_display: 1.63 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675850092
-last_updated: 1675850092
+last_updated: 1675893759
 name: Harpagifer antarcticus
 name_: Harpagifer_antarcticus
 short_name: fHarAnt

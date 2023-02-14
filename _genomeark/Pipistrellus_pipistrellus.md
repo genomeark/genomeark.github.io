@@ -60,13 +60,23 @@ data_pacbio-1_scale: 0.5359
 data_pacbio_bases: 125.41 Gbp
 data_pacbio_bytes: 218.0 GiB
 data_pacbio_coverage: 71.12x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_bam-2_bases: 8.62 Gbp
+data_pacbiohifi_bam-2_bytes: 29.7 GiB
+data_pacbiohifi_bam-2_coverage: 4.89x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Pipistrellus_pipistrellus/mPipPip2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pipistrellus_pipistrellus/mPipPip2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_pipistrellus/mPipPip2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 0.2702
+data_pacbiohifi_bam_bases: 8.62 Gbp
+data_pacbiohifi_bam_bytes: 29.7 GiB
+data_pacbiohifi_bam_coverage: 4.89x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: mPipPip1:GCA_903992515.1
 genbank_pri: mPipPip1:GCA_903992545.1
 genome_size: 1763439233
 genome_size_display: 1.76 Gbp
-last_raw_data: 1586515943
-last_updated: 1605869756
+last_raw_data: 1675961289
+last_updated: 1675961289
 mito1date: 2019-10-03
 mito1filesize: 4.9 KiB
 mito1length: 16925

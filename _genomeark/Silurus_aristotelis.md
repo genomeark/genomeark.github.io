@@ -16,7 +16,7 @@ genome_size: 1251840000
 genome_size_display: 1.25 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675852350
-last_updated: 1675852350
+last_updated: 1675912664
 name: Silurus aristotelis
 name_: Silurus_aristotelis
 short_name: fSilAri

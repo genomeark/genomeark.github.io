@@ -16,7 +16,7 @@ genome_size: 2039130000
 genome_size_display: 2.04 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675834278
-last_updated: 1675834278
+last_updated: 1675900596
 name: Vipera ursinii
 name_: Vipera_ursinii
 short_name: rVipUrs

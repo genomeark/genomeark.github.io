@@ -16,7 +16,7 @@ genome_size: 723720000
 genome_size_display: 0.72 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675857877
-last_updated: 1675857877
+last_updated: 1675925820
 name: Styela clava
 name_: Styela_clava
 short_name: kaStyClav

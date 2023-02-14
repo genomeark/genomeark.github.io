@@ -1,33 +1,4 @@
 ---
-alt1date: 2022-10-12
-alt1filesize: 2.7 MiB
-alt1length: 9154800
-alt1n50ctg: 0
-alt1n50scf: 0
-alt1seq: https://s3.amazonaws.com/genomeark/species/Euleptes_europaea/rEulEur1/assembly_curated/rEulEur1.alt.cur.20221012.fasta.gz
-alt1sizes: |
-  <table class="sequence-sizes-table">
-  <thead>
-  <tr>
-  <th></th>
-  <th colspan=2 align=center>Contigs</th>
-  <th colspan=2 align=center>Scaffolds</th>
-  </tr>
-  <tr>
-  <th>NG</th>
-  <th>LG</th>
-  <th>Len</th>
-  <th>LG</th>
-  <th>Len</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
-  <tfoot>
-  <tr><th> 0.004x </th><th> 8 </th><th> 9.15 Mbp </th><th> 8 </th><th> 9.15 Mbp </th></tr>
-  </tfoot>
-  </table>
-alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: tarantolino
 data_arima-1_bases: 251.93 Gbp
@@ -54,42 +25,13 @@ data_status: '<em style="color:forestgreen">Arima</em>'
 genome_size: 2533000000
 genome_size_display: 2.53 Gbp
 genome_size_method: GoAT
-hpa1date: 2022-07-31
-hpa1filesize: 516.8 MiB
-hpa1length: 1782735006
+hpa1date: 2022-10-12
+hpa1filesize: 513.9 MiB
+hpa1length: 1772761307
 hpa1n50ctg: 16416473
 hpa1n50scf: 71032696
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Euleptes_europaea/rEulEur1/assembly_vgp_HiC_2.0/rEulEur1.HiC.hap1.20220731.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Euleptes_europaea/rEulEur1/assembly_curated/rEulEur1.hap1.cur.20221012.fasta.gz
 hpa1sizes: |
-  <table class="sequence-sizes-table">
-  <thead>
-  <tr>
-  <th></th>
-  <th colspan=2 align=center>Contigs</th>
-  <th colspan=2 align=center>Scaffolds</th>
-  </tr>
-  <tr>
-  <th>NG</th>
-  <th>LG</th>
-  <th>Len</th>
-  <th>LG</th>
-  <th>Len</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr><td> 10 </td><td> 4 </td><td> 50.59 Mbp </td><td> 2 </td><td> 141.84 Mbp </td></tr>  <tr><td> 20 </td><td> 9 </td><td> 41.92 Mbp </td><td> 4 </td><td> 123.84 Mbp </td></tr>  <tr><td> 30 </td><td> 16 </td><td> 33.05 Mbp </td><td> 6 </td><td> 109.33 Mbp </td></tr>  <tr><td> 40 </td><td> 25 </td><td> 23.27 Mbp </td><td> 9 </td><td> 93.21 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 38 </td><td style="background-color:#88ff88;"> 16.42 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 71.03 Mbp </td></tr>  <tr><td> 60 </td><td> 60 </td><td> 6.84 Mbp </td><td> 16 </td><td> 57.21 Mbp </td></tr>  <tr><td> 70 </td><td> 470 </td><td> 28.08 Kbp </td><td> 204 </td><td> 42.12 Kbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
-  <tfoot>
-  <tr><th> 0.702x </th><th> 762 </th><th> 1.78 Gbp </th><th> 611 </th><th> 1.78 Gbp </th></tr>
-  </tfoot>
-  </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2022-10-12
-hpb1filesize: 513.9 MiB
-hpb1length: 1772761307
-hpb1n50ctg: 16416473
-hpb1n50scf: 71032696
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Euleptes_europaea/rEulEur1/assembly_curated/rEulEur1.hap2.cur.20221012.fasta.gz
-hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
   <tr>
@@ -111,9 +53,38 @@ hpb1sizes: |
   <tr><th> 0.698x </th><th> 736 </th><th> 1.77 Gbp </th><th> 583 </th><th> 1.77 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_curated
+hpa1version: assembly_curated
+hpb1date: 2022-07-31
+hpb1filesize: 515.9 MiB
+hpb1length: 1776124469
+hpb1n50ctg: 14765507
+hpb1n50scf: 70961560
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Euleptes_europaea/rEulEur1/assembly_vgp_HiC_2.0/rEulEur1.HiC.hap2.20220731.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 57.60 Mbp </td><td> 1 </td><td> 141.76 Mbp </td></tr>  <tr><td> 20 </td><td> 8 </td><td> 47.36 Mbp </td><td> 3 </td><td> 124.77 Mbp </td></tr>  <tr><td> 30 </td><td> 14 </td><td> 33.97 Mbp </td><td> 5 </td><td> 109.23 Mbp </td></tr>  <tr><td> 40 </td><td> 22 </td><td> 27.02 Mbp </td><td> 8 </td><td> 92.03 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 35 </td><td style="background-color:#88ff88;"> 14.77 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 70.96 Mbp </td></tr>  <tr><td> 60 </td><td> 62 </td><td> 5.93 Mbp </td><td> 15 </td><td> 56.62 Mbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 203 </td><td> 18.02 Kbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 0.699x </th><th> 558 </th><th> 1.77 Gbp </th><th> 381 </th><th> 1.78 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1641846307
-last_updated: 1673264991
+last_updated: 1675974730
 mito1date: 2022-11-21
 mito1filesize: 5.0 KiB
 mito1length: 17541

@@ -76,7 +76,7 @@ genbank_pri: fSynAcu1:GCA_901709675.2
 genome_size: 324331233
 genome_size_display: 324.33 Mbp
 last_raw_data: 1675812567
-last_updated: 1675812567
+last_updated: 1675913670
 mito1date: 2019-10-03
 mito1filesize: 5.0 KiB
 mito1length: 16454

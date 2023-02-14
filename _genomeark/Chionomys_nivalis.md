@@ -16,7 +16,7 @@ genome_size: 2845980000
 genome_size_display: 2.85 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675835311
-last_updated: 1675835311
+last_updated: 1675905297
 name: Chionomys nivalis
 name_: Chionomys_nivalis
 short_name: mChiNiv

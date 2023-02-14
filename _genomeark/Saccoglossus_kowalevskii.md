@@ -14,7 +14,7 @@ data_arima_coverage: N/A
 data_status: '<em style="color:forestgreen">Arima</em>'
 genome_size: 0
 last_raw_data: 1639864605
-last_updated: 1639866094
+last_updated: 1675927012
 name: Saccoglossus kowalevskii
 name_: Saccoglossus_kowalevskii
 short_name: keSacKowa

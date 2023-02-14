@@ -81,7 +81,36 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1673021442
-last_updated: 1675363165
+last_updated: 1676063752
+mito1date: 2023-02-10
+mito1filesize: 5.3 KiB
+mito1length: 17561
+mito1n50ctg: 17561
+mito1n50scf: 17561
+mito1seq: https://s3.amazonaws.com/genomeark/species/Candoia_aspera/rCanAsp1/assembly_MT_rockefeller/rCanAsp1.MT.20230210.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td> 17.56 Kbp </td><td> 0 </td><td> 17.56 Kbp </td></tr>  <tr><td> 20 </td><td> 0 </td><td> 17.56 Kbp </td><td> 0 </td><td> 17.56 Kbp </td></tr>  <tr><td> 30 </td><td> 0 </td><td> 17.56 Kbp </td><td> 0 </td><td> 17.56 Kbp </td></tr>  <tr><td> 40 </td><td> 0 </td><td> 17.56 Kbp </td><td> 0 </td><td> 17.56 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;"> 17.56 Kbp </td><td> 0 </td><td style="background-color:#ff8888;"> 17.56 Kbp </td></tr>  <tr><td> 60 </td><td> 0 </td><td> 17.56 Kbp </td><td> 0 </td><td> 17.56 Kbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td> 17.56 Kbp </td><td> 0 </td><td> 17.56 Kbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td> 17.56 Kbp </td><td> 0 </td><td> 17.56 Kbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td> 17.56 Kbp </td><td> 0 </td><td> 17.56 Kbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td> 17.56 Kbp </td><td> 0 </td><td> 17.56 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 17.56 Kbp </th><th> 1 </th><th> 17.56 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Candoia aspera
 name_: Candoia_aspera
 short_name: rCanAsp

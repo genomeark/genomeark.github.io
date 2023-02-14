@@ -16,7 +16,7 @@ genome_size: 2180940000
 genome_size_display: 2.18 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675810751
-last_updated: 1675810751
+last_updated: 1675909082
 name: Plecotus auritus
 name_: Plecotus_auritus
 short_name: mPleAur

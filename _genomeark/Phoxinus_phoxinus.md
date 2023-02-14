@@ -16,7 +16,7 @@ genome_size: 1124700000
 genome_size_display: 1.12 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675824872
-last_updated: 1675824872
+last_updated: 1675871170
 name: Phoxinus phoxinus
 name_: Phoxinus_phoxinus
 short_name: fPhoPho

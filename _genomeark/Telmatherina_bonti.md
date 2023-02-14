@@ -45,7 +45,7 @@ genbank_pri: fTelBon1:GCA_933228915.1
 genome_size: 986039709
 genome_size_display: 0.99 Gbp
 last_raw_data: 1651599485
-last_updated: 1651599485
+last_updated: 1675907100
 name: Telmatherina bonti
 name_: Telmatherina_bonti
 pri1date: 2022-03-07

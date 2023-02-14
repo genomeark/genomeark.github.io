@@ -16,7 +16,7 @@ genome_size: 625920000
 genome_size_display: 0.63 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675850963
-last_updated: 1675850963
+last_updated: 1675917580
 name: Pungitius pungitius
 name_: Pungitius_pungitius
 short_name: fPunPun

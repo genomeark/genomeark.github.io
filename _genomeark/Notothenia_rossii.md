@@ -16,7 +16,7 @@ genome_size: 1234725000
 genome_size_display: 1.23 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675823318
-last_updated: 1675823318
+last_updated: 1675874102
 name: Notothenia rossii
 name_: Notothenia_rossii
 short_name: fNotRos

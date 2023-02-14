@@ -16,7 +16,7 @@ genome_size: 1398540000
 genome_size_display: 1.40 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675845382
-last_updated: 1675845382
+last_updated: 1675919163
 name: Gulosus aristotelis
 name_: Gulosus_aristotelis
 short_name: bGulAri

@@ -60,23 +60,23 @@ data_bionano-1_scale: 589.7892
 data_bionano_bases: N/A
 data_bionano_bytes: 1.9 GiB
 data_bionano_coverage: 309.43x
-data_pacbio-1_bases: 196.40 Gbp
-data_pacbio-1_bytes: 353.5 GiB
-data_pacbio-1_coverage: 51.54x
+data_pacbio-1_bases: 373.84 Gbp
+data_pacbio-1_bytes: 673.2 GiB
+data_pacbio-1_coverage: 98.10x
 data_pacbio-1_links: s3://genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/pacbio/<br>
 data_pacbio-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/pacbio/
 data_pacbio-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/pacbio/
-data_pacbio-1_scale: 0.5175
-data_pacbio_bases: 196.40 Gbp
-data_pacbio_bytes: 353.5 GiB
-data_pacbio_coverage: 51.54x
+data_pacbio-1_scale: 0.5172
+data_pacbio_bases: 373.84 Gbp
+data_pacbio_bytes: 673.2 GiB
+data_pacbio_coverage: 98.10x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fErpCal1:GCA_900700845.3
 genbank_pri: fErpCal1:GCA_900747795.4
 genome_size: 3811022027
 genome_size_display: 3.81 Gbp
-last_raw_data: 1536592476
-last_updated: 1570719802
+last_raw_data: 1675874607
+last_updated: 1675874607
 mito1date: 2019-10-02
 mito1filesize: 5.0 KiB
 mito1length: 16619

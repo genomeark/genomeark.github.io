@@ -16,7 +16,7 @@ genome_size: 107580000
 genome_size_display: 107.58 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675856481
-last_updated: 1675856481
+last_updated: 1675927469
 name: Ascidia mentula
 name_: Ascidia_mentula
 short_name: kaAscMent

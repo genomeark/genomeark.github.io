@@ -16,7 +16,7 @@ genome_size: 1613700000
 genome_size_display: 1.61 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675851516
-last_updated: 1675851516
+last_updated: 1675871885
 name: Gobio gobio
 name_: Gobio_gobio
 short_name: fGobGob

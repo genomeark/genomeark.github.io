@@ -16,7 +16,7 @@ genome_size: 645480000
 genome_size_display: 0.65 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675844430
-last_updated: 1675844430
+last_updated: 1675920422
 name: Platichthys flesus
 name_: Platichthys_flesus
 short_name: fPlaFle

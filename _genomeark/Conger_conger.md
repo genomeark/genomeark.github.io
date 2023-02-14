@@ -16,7 +16,7 @@ genome_size: 1623480000
 genome_size_display: 1.62 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675827736
-last_updated: 1675827736
+last_updated: 1675875181
 name: Conger conger
 name_: Conger_conger
 short_name: fConCon

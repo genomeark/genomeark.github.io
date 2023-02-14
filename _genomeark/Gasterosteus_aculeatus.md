@@ -16,7 +16,7 @@ genome_size: 625920000
 genome_size_display: 0.63 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675818620
-last_updated: 1675818620
+last_updated: 1675897488
 name: Gasterosteus aculeatus
 name_: Gasterosteus_aculeatus
 short_name: fGasAcu

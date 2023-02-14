@@ -13,7 +13,7 @@ data_arima_coverage: N/A
 data_status: '<em style="color:forestgreen">Arima</em>'
 genome_size: 0
 last_raw_data: 1674659251
-last_updated: 1675439159
+last_updated: 1675881649
 name: Phaethornis superciliosus
 name_: Phaethornis_superciliosus
 short_name: bPhaSup

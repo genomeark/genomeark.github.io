@@ -16,7 +16,7 @@ genome_size: 3041580000
 genome_size_display: 3.04 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675818278
-last_updated: 1675818278
+last_updated: 1675889635
 name: Coregonus lavaretus
 name_: Coregonus_lavaretus
 short_name: fCorLav

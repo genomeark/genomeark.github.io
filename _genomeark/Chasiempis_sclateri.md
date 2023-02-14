@@ -45,8 +45,8 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
 genome_size: 1235000000
 genome_size_display: 1.24 Gbp
 genome_size_method: GoAT
-last_raw_data: 1651595286
-last_updated: 1651595286
+last_raw_data: 1676044226
+last_updated: 1676044226
 name: Chasiempis sclateri
 name_: Chasiempis_sclateri
 short_name: bChaScl

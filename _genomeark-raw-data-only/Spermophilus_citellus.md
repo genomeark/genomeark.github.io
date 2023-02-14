@@ -1,0 +1,1 @@
+../_genomeark/Spermophilus_citellus.md

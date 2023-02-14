@@ -16,7 +16,7 @@ genome_size: 1833750000
 genome_size_display: 1.83 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675816342
-last_updated: 1675816342
+last_updated: 1675885779
 name: Nerophis lumbriciformis
 name_: Nerophis_lumbriciformis
 short_name: fNerLum

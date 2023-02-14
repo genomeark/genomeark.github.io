@@ -16,7 +16,7 @@ genome_size: 2210280000
 genome_size_display: 2.21 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675847143
-last_updated: 1675847143
+last_updated: 1675915597
 name: Myotis daubentonii
 name_: Myotis_daubentonii
 short_name: mMyoDau

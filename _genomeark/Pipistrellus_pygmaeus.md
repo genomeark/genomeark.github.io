@@ -16,7 +16,7 @@ genome_size: 2122260000
 genome_size_display: 2.12 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675845290
-last_updated: 1675845290
+last_updated: 1675890852
 name: Pipistrellus pygmaeus
 name_: Pipistrellus_pygmaeus
 short_name: mPipPyg

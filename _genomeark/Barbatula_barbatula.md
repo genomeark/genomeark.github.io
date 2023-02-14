@@ -16,7 +16,7 @@ genome_size: 528120000
 genome_size_display: 0.53 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675799904
-last_updated: 1675799904
+last_updated: 1675914042
 name: Barbatula barbatula
 name_: Barbatula_barbatula
 short_name: fBarBar

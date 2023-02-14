@@ -16,7 +16,7 @@ genome_size: 1932772500
 genome_size_display: 1.93 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675829754
-last_updated: 1675829754
+last_updated: 1675919891
 name: Podarcis cretensis
 name_: Podarcis_cretensis
 short_name: rPodCre

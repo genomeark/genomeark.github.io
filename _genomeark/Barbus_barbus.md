@@ -46,7 +46,7 @@ genbank_pri: fBarBab1:GCA_936440315.1
 genome_size: 1584929904
 genome_size_display: 1.58 Gbp
 last_raw_data: 1651604585
-last_updated: 1651604585
+last_updated: 1675880656
 name: Barbus barbus
 name_: Barbus_barbus
 pri1date: 2022-03-28

@@ -1,0 +1,1 @@
+../_genomeark/Pagrus_pagrus.md

@@ -16,7 +16,7 @@ genome_size: 1965780000
 genome_size_display: 1.97 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675835950
-last_updated: 1675835950
+last_updated: 1675888355
 name: Carassius carassius
 name_: Carassius_carassius
 short_name: fCarCar

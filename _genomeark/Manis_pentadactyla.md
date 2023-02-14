@@ -114,7 +114,36 @@ hpb7sizes: |
   </table>
 hpb7version: assembly_vgp_HiC_2.0
 last_raw_data: 1669233016
-last_updated: 1672863047
+last_updated: 1676063327
+mito7date: 2023-02-10
+mito7filesize: 5.3 KiB
+mito7length: 16571
+mito7n50ctg: 0
+mito7n50scf: 0
+mito7seq: https://s3.amazonaws.com/genomeark/species/Manis_pentadactyla/mManPen7/assembly_MT_rockefeller/mManPen7.MT.20230210.fasta.gz
+mito7sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.57 Kbp </th><th> 1 </th><th> 16.57 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito7version: assembly_MT_rockefeller
 name: Manis pentadactyla
 name_: Manis_pentadactyla
 short_name: mManPen
