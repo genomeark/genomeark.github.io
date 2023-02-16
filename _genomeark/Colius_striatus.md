@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: speckled mousebird
 data_arima-4_bases: 82.71 Gbp
 data_arima-4_bytes: 42.0 GiB
@@ -35,12 +35,12 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 1438000000
 genome_size_display: 1.44 Gbp
 genome_size_method: GoAT
-hpa4date: 2022-06-01
-hpa4filesize: 315.3 MiB
-hpa4length: 1159734284
+hpa4date: 2023-02-16
+hpa4filesize: 320.8 MiB
+hpa4length: 1123441015
 hpa4n50ctg: 15948869
-hpa4n50scf: 33324325
-hpa4seq: https://s3.amazonaws.com/genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/bColStr4.HiC.hap1.20220601.fasta.gz
+hpa4n50scf: 42315177
+hpa4seq: https://s3.amazonaws.com/genomeark/species/Colius_striatus/bColStr4/assembly_curated/bColStr4.hap1.cur.20230216.fasta.gz
 hpa4sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -58,18 +58,18 @@ hpa4sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 67.04 Mbp </td><td> 1 </td><td> 235.96 Mbp </td></tr>  <tr><td> 20 </td><td> 5 </td><td> 39.24 Mbp </td><td> 2 </td><td> 122.46 Mbp </td></tr>  <tr><td> 30 </td><td> 9 </td><td> 30.49 Mbp </td><td> 3 </td><td> 99.87 Mbp </td></tr>  <tr><td> 40 </td><td> 15 </td><td> 22.07 Mbp </td><td> 5 </td><td> 58.80 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 22 </td><td style="background-color:#88ff88;"> 15.95 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 33.32 Mbp </td></tr>  <tr><td> 60 </td><td> 33 </td><td> 9.91 Mbp </td><td> 13 </td><td> 22.73 Mbp </td></tr>  <tr><td> 70 </td><td> 61 </td><td> 2.60 Mbp </td><td> 22 </td><td> 12.77 Mbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 73 </td><td> 365.62 Kbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 67.04 Mbp </td><td> 0 </td><td> 206.59 Mbp </td></tr>  <tr><td> 20 </td><td> 4 </td><td> 39.24 Mbp </td><td> 1 </td><td> 122.59 Mbp </td></tr>  <tr><td> 30 </td><td> 8 </td><td> 30.49 Mbp </td><td> 3 </td><td> 97.55 Mbp </td></tr>  <tr><td> 40 </td><td> 14 </td><td> 22.07 Mbp </td><td> 4 </td><td> 59.13 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 21 </td><td style="background-color:#88ff88;"> 15.95 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 42.32 Mbp </td></tr>  <tr><td> 60 </td><td> 32 </td><td> 9.67 Mbp </td><td> 12 </td><td> 28.60 Mbp </td></tr>  <tr><td> 70 </td><td> 61 </td><td> 2.60 Mbp </td><td> 19 </td><td> 12.93 Mbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 0.774x </th><th> 328 </th><th> 1.11 Gbp </th><th> 227 </th><th> 1.16 Gbp </th></tr>
+  <tr><th> 0.777x </th><th> 332 </th><th> 1.12 Gbp </th><th> 189 </th><th> 1.12 Gbp </th></tr>
   </tfoot>
   </table>
-hpa4version: assembly_vgp_HiC_2.0
-hpb4date: 2022-06-01
-hpb4filesize: 342.1 MiB
-hpb4length: 1246586293
+hpa4version: assembly_curated
+hpb4date: 2023-02-16
+hpb4filesize: 346.2 MiB
+hpb4length: 1242527572
 hpb4n50ctg: 14885414
-hpb4n50scf: 42260157
-hpb4seq: https://s3.amazonaws.com/genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/bColStr4.HiC.hap2.20220601.fasta.gz
+hpb4n50scf: 47682664
+hpb4seq: https://s3.amazonaws.com/genomeark/species/Colius_striatus/bColStr4/assembly_curated/bColStr4.hap2.cur.20230216.fasta.gz
 hpb4sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -87,14 +87,14 @@ hpb4sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 49.04 Mbp </td><td> 1 </td><td> 207.39 Mbp </td></tr>  <tr><td> 20 </td><td> 7 </td><td> 32.24 Mbp </td><td> 2 </td><td> 120.85 Mbp </td></tr>  <tr><td> 30 </td><td> 12 </td><td> 26.13 Mbp </td><td> 4 </td><td> 98.27 Mbp </td></tr>  <tr><td> 40 </td><td> 18 </td><td> 21.72 Mbp </td><td> 5 </td><td> 85.90 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 26 </td><td style="background-color:#88ff88;"> 14.89 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 42.26 Mbp </td></tr>  <tr><td> 60 </td><td> 38 </td><td> 10.65 Mbp </td><td> 12 </td><td> 26.32 Mbp </td></tr>  <tr><td> 70 </td><td> 56 </td><td> 5.89 Mbp </td><td> 18 </td><td> 14.98 Mbp </td></tr>  <tr><td> 80 </td><td> 101 </td><td> 1.88 Mbp </td><td> 36 </td><td> 3.45 Mbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 49.04 Mbp </td><td> 0 </td><td> 209.83 Mbp </td></tr>  <tr><td> 20 </td><td> 6 </td><td> 32.24 Mbp </td><td> 1 </td><td> 122.58 Mbp </td></tr>  <tr><td> 30 </td><td> 11 </td><td> 26.13 Mbp </td><td> 2 </td><td> 101.19 Mbp </td></tr>  <tr><td> 40 </td><td> 17 </td><td> 21.72 Mbp </td><td> 4 </td><td> 89.02 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 25 </td><td style="background-color:#88ff88;"> 14.89 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 47.68 Mbp </td></tr>  <tr><td> 60 </td><td> 37 </td><td> 10.65 Mbp </td><td> 10 </td><td> 34.39 Mbp </td></tr>  <tr><td> 70 </td><td> 55 </td><td> 5.89 Mbp </td><td> 15 </td><td> 23.51 Mbp </td></tr>  <tr><td> 80 </td><td> 101 </td><td> 1.84 Mbp </td><td> 28 </td><td> 5.88 Mbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 0.863x </th><th> 397 </th><th> 1.24 Gbp </th><th> 265 </th><th> 1.25 Gbp </th></tr>
+  <tr><th> 0.860x </th><th> 394 </th><th> 1.24 Gbp </th><th> 243 </th><th> 1.24 Gbp </th></tr>
   </tfoot>
   </table>
-hpb4version: assembly_vgp_HiC_2.0
+hpb4version: assembly_curated
 last_raw_data: 1651005170
-last_updated: 1654548549
+last_updated: 1676585844
 name: Colius striatus
 name_: Colius_striatus
 short_name: bColStr
