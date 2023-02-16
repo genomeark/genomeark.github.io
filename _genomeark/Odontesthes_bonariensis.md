@@ -22,9 +22,9 @@ alt6sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
   <tfoot>
-  <tr><th>  </th><th>  </th><th>  </th><th>  </th><th>  </th></tr>
+  <tr><th> 0.000x </th><th> 0 </th><th>  </th><th> 0 </th><th>  </th></tr>
   </tfoot>
   </table>
 alt6version: assembly_curated

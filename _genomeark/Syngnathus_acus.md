@@ -40,6 +40,16 @@ data_10x-1_scale: 1.6267
 data_10x_bases: 143.29 Gbp
 data_10x_bytes: 82.0 GiB
 data_10x_coverage: 441.81x
+data_arima-2_bases: 123.31 Gbp
+data_arima-2_bytes: 37.0 GiB
+data_arima-2_coverage: 380.19x
+data_arima-2_links: s3://genomeark/species/Syngnathus_acus/fSynAcu2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Syngnathus_acus/fSynAcu2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Syngnathus_acus/fSynAcu2/genomic_data/arima/
+data_arima-2_scale: 3.1001
+data_arima_bases: 123.31 Gbp
+data_arima_bytes: 37.0 GiB
+data_arima_coverage: 380.19x
 data_dovetail-1_bases: 107.67 Gbp
 data_dovetail-1_bytes: 72.4 GiB
 data_dovetail-1_coverage: 331.98x
@@ -70,12 +80,12 @@ data_pacbiohifi_bam-2_scale: 0.2656
 data_pacbiohifi_bam_bases: 28.94 Gbp
 data_pacbiohifi_bam_bytes: 101.5 GiB
 data_pacbiohifi_bam_coverage: 89.24x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genbank_alt: fSynAcu1:GCA_901709685.1
 genbank_pri: fSynAcu1:GCA_901709675.2
 genome_size: 324331233
 genome_size_display: 324.33 Mbp
-last_raw_data: 1675812567
+last_raw_data: 1675913668
 last_updated: 1675913670
 mito1date: 2019-10-03
 mito1filesize: 5.0 KiB

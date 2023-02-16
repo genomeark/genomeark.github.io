@@ -30,6 +30,16 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: barbel
+data_arima-2_bases: 165.26 Gbp
+data_arima-2_bytes: 48.4 GiB
+data_arima-2_coverage: 104.27x
+data_arima-2_links: s3://genomeark/species/Barbus_barbus/fBarBab2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Barbus_barbus/fBarBab2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Barbus_barbus/fBarBab2/genomic_data/arima/
+data_arima-2_scale: 3.1831
+data_arima_bases: 165.26 Gbp
+data_arima_bytes: 48.4 GiB
+data_arima_coverage: 104.27x
 data_pacbiohifi_bam-1_bases: 75.98 Gbp
 data_pacbiohifi_bam-1_bytes: 143.3 GiB
 data_pacbiohifi_bam-1_coverage: 47.94x
@@ -40,12 +50,12 @@ data_pacbiohifi_bam-1_scale: 0.4939
 data_pacbiohifi_bam_bases: 75.98 Gbp
 data_pacbiohifi_bam_bytes: 143.3 GiB
 data_pacbiohifi_bam_coverage: 47.94x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fBarBab1:GCA_936446605.1
 genbank_pri: fBarBab1:GCA_936440315.1
 genome_size: 1584929904
 genome_size_display: 1.58 Gbp
-last_raw_data: 1651604585
+last_raw_data: 1675880654
 last_updated: 1675880656
 name: Barbus barbus
 name_: Barbus_barbus

@@ -29,6 +29,16 @@ alt1sizes: |
   </table>
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
+data_arima-1_bases: 102.01 Gbp
+data_arima-1_bytes: 32.8 GiB
+data_arima-1_coverage: 103.46x
+data_arima-1_links: s3://genomeark/species/Telmatherina_bonti/fTelBon1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Telmatherina_bonti/fTelBon1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Telmatherina_bonti/fTelBon1/genomic_data/arima/
+data_arima-1_scale: 2.8983
+data_arima_bases: 102.01 Gbp
+data_arima_bytes: 32.8 GiB
+data_arima_coverage: 103.46x
 data_pacbiohifi_bam-1_bases: 33.79 Gbp
 data_pacbiohifi_bam-1_bytes: 22.8 GiB
 data_pacbiohifi_bam-1_coverage: 34.27x
@@ -39,12 +49,12 @@ data_pacbiohifi_bam-1_scale: 1.3830
 data_pacbiohifi_bam_bases: 33.79 Gbp
 data_pacbiohifi_bam_bytes: 22.8 GiB
 data_pacbiohifi_bam_coverage: 34.27x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fTelBon1:GCA_933228925.1
 genbank_pri: fTelBon1:GCA_933228915.1
 genome_size: 986039709
 genome_size_display: 0.99 Gbp
-last_raw_data: 1651599485
+last_raw_data: 1675907098
 last_updated: 1675907100
 name: Telmatherina bonti
 name_: Telmatherina_bonti

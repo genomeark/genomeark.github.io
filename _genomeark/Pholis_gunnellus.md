@@ -40,16 +40,16 @@ data_10x-1_scale: 1.5878
 data_10x_bases: 64.42 Gbp
 data_10x_bytes: 37.8 GiB
 data_10x_coverage: 109.43x
-data_arima-1_bases: 128.76 Gbp
-data_arima-1_bytes: 75.8 GiB
-data_arima-1_coverage: 218.72x
+data_arima-1_bases: 218.70 Gbp
+data_arima-1_bytes: 102.1 GiB
+data_arima-1_coverage: 371.49x
 data_arima-1_links: s3://genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pholis_gunnellus/fPhoGun1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pholis_gunnellus/fPhoGun1/genomic_data/arima/
-data_arima-1_scale: 1.5823
-data_arima_bases: 128.76 Gbp
-data_arima_bytes: 75.8 GiB
-data_arima_coverage: 218.72x
+data_arima-1_scale: 1.9946
+data_arima_bases: 218.70 Gbp
+data_arima_bytes: 102.1 GiB
+data_arima_coverage: 371.49x
 data_pacbiohifi_bam-1_bases: 40.98 Gbp
 data_pacbiohifi_bam-1_bytes: 33.6 GiB
 data_pacbiohifi_bam-1_coverage: 69.61x
@@ -65,7 +65,7 @@ genbank_alt: fPhoGun1:GCA_910591705.2
 genbank_pri: fPhoGun1:GCA_910591455.2
 genome_size: 588696950
 genome_size_display: 0.59 Gbp
-last_raw_data: 1651612017
+last_raw_data: 1675882608
 last_updated: 1675882609
 name: Pholis gunnellus
 name_: Pholis_gunnellus

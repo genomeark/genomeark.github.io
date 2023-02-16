@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 data_arima-1_bases: 221.50 Gbp
 data_arima-1_bytes: 114.4 GiB
 data_arima-1_coverage: N/A
@@ -22,8 +22,37 @@ data_pacbiohifi_fqgz_bytes: 135.2 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
+hpb1date: 2022-12-09
+hpb1filesize: 1.0 GiB
+hpb1length: 3540909983
+hpb1n50ctg: 82653632
+hpb1n50scf: 119600562
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Loxodonta_africana/mLoxAfr1/assembly_curated/mLoxAfr1.hap2.cur.20221209.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 176.55 Mbp </td><td> 1 </td><td> 233.67 Mbp </td></tr>  <tr><td> 20 </td><td> 4 </td><td> 131.74 Mbp </td><td> 3 </td><td> 193.76 Mbp </td></tr>  <tr><td> 30 </td><td> 6 </td><td> 114.14 Mbp </td><td> 4 </td><td> 178.71 Mbp </td></tr>  <tr><td> 40 </td><td> 10 </td><td> 88.80 Mbp </td><td> 7 </td><td> 136.92 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 14 </td><td style="background-color:#88ff88;"> 82.65 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 119.60 Mbp </td></tr>  <tr><td> 60 </td><td> 20 </td><td> 50.50 Mbp </td><td> 13 </td><td> 96.74 Mbp </td></tr>  <tr><td> 70 </td><td> 28 </td><td> 39.02 Mbp </td><td> 17 </td><td> 84.11 Mbp </td></tr>  <tr><td> 80 </td><td> 39 </td><td> 24.99 Mbp </td><td> 21 </td><td> 80.49 Mbp </td></tr>  <tr><td> 90 </td><td> 72 </td><td> 4.90 Mbp </td><td> 26 </td><td> 50.54 Mbp </td></tr>  <tr><td> 100 </td><td> 1109 </td><td> 12.35 Kbp </td><td> 879 </td><td> 12.35 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1110 </th><th> 3.54 Gbp </th><th> 880 </th><th> 3.54 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_curated
 last_raw_data: 1668446221
-last_updated: 1676310470
+last_updated: 1676404823
 mito1date: 2023-02-10
 mito1filesize: 5.3 KiB
 mito1length: 16847

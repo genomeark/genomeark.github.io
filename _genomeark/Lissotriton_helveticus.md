@@ -1,6 +1,16 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: palmate newt
+data_arima-1_bases: 960.52 Gbp
+data_arima-1_bytes: 288.9 GiB
+data_arima-1_coverage: 37.29x
+data_arima-1_links: s3://genomeark/species/Lissotriton_helveticus/aLisHel1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lissotriton_helveticus/aLisHel1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lissotriton_helveticus/aLisHel1/genomic_data/arima/
+data_arima-1_scale: 3.0959
+data_arima_bases: 960.52 Gbp
+data_arima_bytes: 288.9 GiB
+data_arima_coverage: 37.29x
 data_pacbiohifi_bam-1_bases: 27.83 Gbp
 data_pacbiohifi_bam-1_bytes: 95.6 GiB
 data_pacbiohifi_bam-1_coverage: 1.08x
@@ -11,11 +21,11 @@ data_pacbiohifi_bam-1_scale: 0.2711
 data_pacbiohifi_bam_bases: 27.83 Gbp
 data_pacbiohifi_bam_bytes: 95.6 GiB
 data_pacbiohifi_bam_coverage: 1.08x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 25760520000
 genome_size_display: 25.76 Gbp
 genome_size_method: GoaT
-last_raw_data: 1675817529
+last_raw_data: 1675925798
 last_updated: 1675925801
 name: Lissotriton helveticus
 name_: Lissotriton_helveticus

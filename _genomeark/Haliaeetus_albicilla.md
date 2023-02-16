@@ -30,6 +30,16 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: white-tailed eagle
+data_arima-1_bases: 89.34 Gbp
+data_arima-1_bytes: 28.1 GiB
+data_arima-1_coverage: 63.88x
+data_arima-1_links: s3://genomeark/species/Haliaeetus_albicilla/bHalAlb1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Haliaeetus_albicilla/bHalAlb1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Haliaeetus_albicilla/bHalAlb1/genomic_data/arima/
+data_arima-1_scale: 2.9574
+data_arima_bases: 89.34 Gbp
+data_arima_bytes: 28.1 GiB
+data_arima_coverage: 63.88x
 data_pacbiohifi_bam-1_bases: 62.84 Gbp
 data_pacbiohifi_bam-1_bytes: 40.8 GiB
 data_pacbiohifi_bam-1_coverage: 44.93x
@@ -40,11 +50,11 @@ data_pacbiohifi_bam-1_scale: 1.4337
 data_pacbiohifi_bam_bases: 62.84 Gbp
 data_pacbiohifi_bam_bytes: 40.8 GiB
 data_pacbiohifi_bam_coverage: 44.93x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 1398540000
 genome_size_display: 1.40 Gbp
 genome_size_method: GoaT
-last_raw_data: 1675852874
+last_raw_data: 1675878155
 last_updated: 1676381754
 name: Haliaeetus albicilla
 name_: Haliaeetus_albicilla
