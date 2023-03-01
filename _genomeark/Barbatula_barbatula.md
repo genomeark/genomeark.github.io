@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-02-23
+alt1date: 2023-02-28
 alt1filesize: 158.6 MiB
 alt1length: 571749702
 alt1n50ctg: 662482
 alt1n50scf: 662482
-alt1seq: https://s3.amazonaws.com/genomeark/species/Barbatula_barbatula/fBarBar1/assembly_curated/fBarBar1.alt.cur.20230223.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Barbatula_barbatula/fBarBar1/assembly_curated/fBarBar1.alt.cur.20230228.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -55,15 +55,15 @@ genome_size: 528120000
 genome_size_display: 0.53 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675914041
-last_updated: 1677171603
+last_updated: 1677588888
 name: Barbatula barbatula
 name_: Barbatula_barbatula
-pri1date: 2023-02-23
+pri1date: 2023-02-28
 pri1filesize: 168.6 MiB
 pri1length: 617663352
 pri1n50ctg: 3204535
 pri1n50scf: 24505794
-pri1seq: https://s3.amazonaws.com/genomeark/species/Barbatula_barbatula/fBarBar1/assembly_curated/fBarBar1.pri.cur.20230223.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Barbatula_barbatula/fBarBar1/assembly_curated/fBarBar1.pri.cur.20230228.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
