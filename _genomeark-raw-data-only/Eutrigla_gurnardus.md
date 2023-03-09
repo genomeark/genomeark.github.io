@@ -1,0 +1,1 @@
+../_genomeark/Eutrigla_gurnardus.md
