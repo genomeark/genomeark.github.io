@@ -84,6 +84,35 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 1966000000
 genome_size_display: 1.97 Gbp
 genome_size_method: GoAT
+hpa1date: 2023-03-08
+hpa1filesize: 533.7 MiB
+hpa1length: 2038638195
+hpa1n50ctg: 4456410
+hpa1n50scf: 4456410
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Erythrolamprus_reginae/rEryReg1/assembly_vgp_HiC_2.0/rEryReg1.HiC.hap1.20230308.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 14 </td><td> 11.32 Mbp </td><td> 14 </td><td> 11.32 Mbp </td></tr>  <tr><td> 20 </td><td> 34 </td><td> 8.66 Mbp </td><td> 34 </td><td> 8.66 Mbp </td></tr>  <tr><td> 30 </td><td> 59 </td><td> 6.97 Mbp </td><td> 59 </td><td> 6.97 Mbp </td></tr>  <tr><td> 40 </td><td> 90 </td><td> 5.58 Mbp </td><td> 90 </td><td> 5.58 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 130 </td><td style="background-color:#88ff88;"> 4.46 Mbp </td><td> 130 </td><td style="background-color:#ff8888;"> 4.46 Mbp </td></tr>  <tr><td> 60 </td><td> 179 </td><td> 3.59 Mbp </td><td> 179 </td><td> 3.59 Mbp </td></tr>  <tr><td> 70 </td><td> 241 </td><td> 2.81 Mbp </td><td> 241 </td><td> 2.81 Mbp </td></tr>  <tr><td> 80 </td><td> 328 </td><td> 1.80 Mbp </td><td> 328 </td><td> 1.80 Mbp </td></tr>  <tr><td> 90 </td><td> 469 </td><td> 1.07 Mbp </td><td> 469 </td><td> 1.07 Mbp </td></tr>  <tr><td> 100 </td><td> 754 </td><td> 398.44 Kbp </td><td> 754 </td><td> 398.44 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.037x </th><th> 1136 </th><th> 2.04 Gbp </th><th> 1136 </th><th> 2.04 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
 hpb1date: 2022-09-29
 hpb1filesize: 559.5 MiB
 hpb1length: 1964224387
@@ -114,7 +143,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1651627264
-last_updated: 1672877074
+last_updated: 1678306729
 name: Erythrolamprus reginae
 name_: Erythrolamprus_reginae
 pri1date: 2023-01-05

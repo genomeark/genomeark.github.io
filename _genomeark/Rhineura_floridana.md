@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: Florida worm lizard
 data_arima-1_bases: 209.96 Gbp
 data_arima-1_bytes: 97.6 GiB
@@ -42,8 +42,95 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 1623000000
 genome_size_display: 1.62 Gbp
 genome_size_method: GoAT
+hpa1date: 2023-03-05
+hpa1filesize: 673.9 MiB
+hpa1length: 2321828830
+hpa1n50ctg: 23720695
+hpa1n50scf: 212296042
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/rRhiFlo1.HiC.hap1.20230305.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 65.19 Mbp </td><td> 0 </td><td> 323.94 Mbp </td></tr>  <tr><td> 20 </td><td> 5 </td><td> 38.31 Mbp </td><td> 1 </td><td> 239.81 Mbp </td></tr>  <tr><td> 30 </td><td> 10 </td><td> 28.38 Mbp </td><td> 1 </td><td> 239.81 Mbp </td></tr>  <tr><td> 40 </td><td> 16 </td><td> 25.31 Mbp </td><td> 2 </td><td> 232.59 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 23 </td><td style="background-color:#88ff88;"> 23.72 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 212.30 Mbp </td></tr>  <tr><td> 60 </td><td> 30 </td><td> 19.21 Mbp </td><td> 3 </td><td> 212.30 Mbp </td></tr>  <tr><td> 70 </td><td> 39 </td><td> 16.77 Mbp </td><td> 4 </td><td> 194.48 Mbp </td></tr>  <tr><td> 80 </td><td> 50 </td><td> 14.82 Mbp </td><td> 5 </td><td> 188.58 Mbp </td></tr>  <tr><td> 90 </td><td> 61 </td><td> 12.98 Mbp </td><td> 6 </td><td> 158.20 Mbp </td></tr>  <tr><td> 100 </td><td> 74 </td><td> 11.65 Mbp </td><td> 7 </td><td> 155.10 Mbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.428x </th><th> 837 </th><th> 2.32 Gbp </th><th> 624 </th><th> 2.32 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2023-03-05
+hpb1filesize: 668.6 MiB
+hpb1length: 2325145323
+hpb1n50ctg: 24198975
+hpb1n50scf: 232427479
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/rRhiFlo1.HiC.hap2.20230305.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 59.66 Mbp </td><td> 0 </td><td> 465.77 Mbp </td></tr>  <tr><td> 20 </td><td> 5 </td><td> 40.35 Mbp </td><td> 0 </td><td> 465.77 Mbp </td></tr>  <tr><td> 30 </td><td> 9 </td><td> 36.08 Mbp </td><td> 1 </td><td> 323.58 Mbp </td></tr>  <tr><td> 40 </td><td> 14 </td><td> 30.06 Mbp </td><td> 1 </td><td> 323.58 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 21 </td><td style="background-color:#88ff88;"> 24.20 Mbp </td><td> 2 </td><td style="background-color:#88ff88;"> 232.43 Mbp </td></tr>  <tr><td> 60 </td><td> 28 </td><td> 21.77 Mbp </td><td> 2 </td><td> 232.43 Mbp </td></tr>  <tr><td> 70 </td><td> 36 </td><td> 18.40 Mbp </td><td> 3 </td><td> 188.68 Mbp </td></tr>  <tr><td> 80 </td><td> 45 </td><td> 15.52 Mbp </td><td> 4 </td><td> 158.44 Mbp </td></tr>  <tr><td> 90 </td><td> 56 </td><td> 13.98 Mbp </td><td> 5 </td><td> 155.51 Mbp </td></tr>  <tr><td> 100 </td><td> 69 </td><td> 10.48 Mbp </td><td> 6 </td><td> 154.85 Mbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.418x </th><th> 319 </th><th> 2.30 Gbp </th><th> 71 </th><th> 2.33 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1677258152
-last_updated: 1677258152
+last_updated: 1678137240
+mito1date: 2023-03-06
+mito1filesize: 5.4 KiB
+mito1length: 16992
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_MT_rockefeller/rRhiFlo1.MT.20230306.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.99 Kbp </th><th> 1 </th><th> 16.99 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Rhineura floridana
 name_: Rhineura_floridana
 short_name: rRhiFlo

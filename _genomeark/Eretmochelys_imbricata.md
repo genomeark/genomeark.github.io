@@ -32,8 +32,8 @@ data_pacbiohifi_fqgz_bytes: 84.9 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genome_size: 0
-last_raw_data: 1677697718
-last_updated: 1677697718
+last_raw_data: 1677808359
+last_updated: 1677808359
 name: Eretmochelys imbricata
 name_: Eretmochelys_imbricata
 short_name: rEreImb

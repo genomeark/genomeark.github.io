@@ -20,7 +20,7 @@ data_illumina_coverage: N/A
 data_status: '<em style="color:forestgreen">Illumina</em>'
 genome_size: 0
 last_raw_data: 1673393663
-last_updated: 1674528335
+last_updated: 1678154788
 name: Dendrobates auratus
 name_: Dendrobates_auratus
 short_name: aDenAur
