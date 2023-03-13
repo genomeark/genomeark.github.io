@@ -28,7 +28,7 @@ genome_size: 437655000
 genome_size_display: 437.66 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675927483
-last_updated: 1675927485
+last_updated: 1678383196
 name: Aplidium turbinatum
 name_: Aplidium_turbinatum
 short_name: kaAplTurb
