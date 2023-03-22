@@ -8,9 +8,16 @@ data_arima-1_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_dat
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Liasis_olivaceus/rLiaOli1/genomic_data/arima/
 data_arima-1_scale: 1.9173
-data_arima_bases: 170.49 Gbp
-data_arima_bytes: 82.8 GiB
-data_arima_coverage: 101.78x
+data_arima-2_bases: 53.10 Gbp
+data_arima-2_bytes: 25.3 GiB
+data_arima-2_coverage: 31.70x
+data_arima-2_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Liasis_olivaceus/rLiaOli2/genomic_data/arima/
+data_arima-2_scale: 1.9567
+data_arima_bases: 223.58 Gbp
+data_arima_bytes: 108.1 GiB
+data_arima_coverage: 133.48x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 2.1 GiB
 data_bionano-1_coverage: 685.08x
@@ -103,8 +110,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
-last_raw_data: 1669231997
-last_updated: 1671315621
+last_raw_data: 1678817227
+last_updated: 1678817227
 name: Liasis olivaceus
 name_: Liasis_olivaceus
 short_name: rLiaOli

@@ -11,20 +11,20 @@ data_arima-3_scale: 2.0250
 data_arima_bases: 132.02 Gbp
 data_arima_bytes: 60.7 GiB
 data_arima_coverage: N/A
-data_pacbiohifi_bam-3_bases: 24.64 Gbp
-data_pacbiohifi_bam-3_bytes: 86.6 GiB
+data_pacbiohifi_bam-3_bases: 37.41 Gbp
+data_pacbiohifi_bam-3_bytes: 100.1 GiB
 data_pacbiohifi_bam-3_coverage: N/A
 data_pacbiohifi_bam-3_links: s3://genomeark/species/Poromitra_crassiceps/fPorCra3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Poromitra_crassiceps/fPorCra3/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Poromitra_crassiceps/fPorCra3/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-3_scale: 0.2651
-data_pacbiohifi_bam_bases: 24.64 Gbp
-data_pacbiohifi_bam_bytes: 86.6 GiB
+data_pacbiohifi_bam-3_scale: 0.3479
+data_pacbiohifi_bam_bases: 37.41 Gbp
+data_pacbiohifi_bam_bytes: 100.1 GiB
 data_pacbiohifi_bam_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
-last_raw_data: 1677588647
-last_updated: 1677588647
+last_raw_data: 1678982320
+last_updated: 1678982320
 name: Poromitra crassiceps
 name_: Poromitra_crassiceps
 short_name: fPorCra

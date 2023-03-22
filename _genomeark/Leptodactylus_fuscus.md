@@ -11,12 +11,22 @@ data_arima-1_scale: 1.9104
 data_arima_bases: 237.77 Gbp
 data_arima_bytes: 115.9 GiB
 data_arima_coverage: 91.73x
-data_status: '<em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_fqgz-1_bases: 85.82 Gbp
+data_pacbiohifi_fqgz-1_bytes: 62.9 GiB
+data_pacbiohifi_fqgz-1_coverage: 33.11x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Leptodactylus_fuscus/aLepFus1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2713
+data_pacbiohifi_fqgz_bases: 85.82 Gbp
+data_pacbiohifi_fqgz_bytes: 62.9 GiB
+data_pacbiohifi_fqgz_coverage: 33.11x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 2592000000
 genome_size_display: 2.59 Gbp
 genome_size_method: GoAT
-last_raw_data: 1641846724
-last_updated: 1641847956
+last_raw_data: 1678820127
+last_updated: 1678820127
 name: Leptodactylus fuscus
 name_: Leptodactylus_fuscus
 short_name: aLepFus

@@ -50,6 +50,23 @@ data_bionano-3_scale: 570.0040
 data_bionano_bases: N/A
 data_bionano_bytes: 17.4 GiB
 data_bionano_coverage: 1241.01x
+data_illumina-1_bases: 387.72 Gbp
+data_illumina-1_bytes: 184.5 GiB
+data_illumina-1_coverage: 45.31x
+data_illumina-1_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pseudophryne_corroboree/aPseCor1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudophryne_corroboree/aPseCor1/genomic_data/illumina/
+data_illumina-1_scale: 1.9568
+data_illumina-2_bases: 366.86 Gbp
+data_illumina-2_bytes: 174.0 GiB
+data_illumina-2_coverage: 42.87x
+data_illumina-2_links: s3://genomeark/species/Pseudophryne_corroboree/aPseCor2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pseudophryne_corroboree/aPseCor2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudophryne_corroboree/aPseCor2/genomic_data/illumina/
+data_illumina-2_scale: 1.9635
+data_illumina_bases: 754.58 Gbp
+data_illumina_bytes: 358.5 GiB
+data_illumina_coverage: 88.18x
 data_pacbiohifi_bam-3_bases: 229.32 Gbp
 data_pacbiohifi_bam-3_bytes: 788.4 GiB
 data_pacbiohifi_bam-3_coverage: 26.80x
@@ -80,7 +97,7 @@ data_pacbiohifi_fqgz-3_scale: 1.2259
 data_pacbiohifi_fqgz_bases: 230.31 Gbp
 data_pacbiohifi_fqgz_bytes: 175.0 GiB
 data_pacbiohifi_fqgz_coverage: 26.91x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 8557000000
 genome_size_display: 8.56 Gbp
 genome_size_method: GoAT
@@ -142,8 +159,8 @@ hpb3sizes: |
   </tfoot>
   </table>
 hpb3version: assembly_curated
-last_raw_data: 1659461120
-last_updated: 1673265068
+last_raw_data: 1678825205
+last_updated: 1678825205
 name: Pseudophryne corroboree
 name_: Pseudophryne_corroboree
 short_name: aPseCor
