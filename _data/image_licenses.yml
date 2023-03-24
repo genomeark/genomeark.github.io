@@ -1,3 +1,6 @@
+Abramis_brama:
+  license: CC BY 3.0 PierreSelim (Wikimedia)
+
 Acanthisitta_chloris:
   license: CC BY-SA 2.0 digitaltrails (flickr)
 
@@ -12,6 +15,9 @@ Acipenser_ruthenus:
 
 Acridotheres_tristis:
   license: CC BY-SA 3.0 Afsarnayakkan (Wikimedia)
+
+Agelaius_phoeniceus:
+  license: CC BY-SA 3.0 Walter Siegmund (Wikimedia)
 
 Alca_torda:
   license: CC BY 2.0 Paul Wordingham (flickr)
@@ -31,6 +37,9 @@ Ammodramus_caudacutus:
 Ammodramus_maritimus:
   license: CC BY-SA 4.0 DMSDMS215 (Wikimedia)
 
+Ammodytes_marinus:
+  license: CC BY-SA 2.0 Walter Baxter (Wikimedia)
+
 Ammospiza_nelsoni:
   license: CC0 Chrissy McClarren and Andy Reago (Wikimedia)
 
@@ -46,8 +55,17 @@ Anabas_testudineus:
 Anableps anableps:
   license: unknown
 
+Anadara_tuberculosa:
+  license: CC0 1.0 Hans Muller (Naturalis Biodiversity Center/Wikimedia)
+
+Anelosimus_studiosus:
+  license: CC BY 2.0 Jarek Tuszyński (Naturalis Biodiversity Center/Wikimedia)
+
 Anguilla_anguilla:
   license: CC BY-SA 2.0 Bernard DUPONT (flickr)
+
+Anolis_sagrei:
+  license: CC BY 2.0 gailhampshire (flickr)
 
 Antennarius_maculatus:
   license: CC BY-SA 2.0 Bernard DUPONT (wikimedia)
@@ -67,6 +85,9 @@ Ara_ararauna:
 Archocentrus_centrarchus:
   license: public domain
 
+Argentina_silus:
+  license: CC BY 2.0 SEFSC Pascagoula Laboratory; Collection of Brandi Noble, NOAA/NMFS/SEFSC (flickr)
+
 Arvicanthis_niloticus:
   license: Copyright Huishi Toh, used with permission
 
@@ -76,20 +97,38 @@ Arvicola_amphibius:
 Ascaphus_truei:
   license: CC BY-NC 2.0 Ken-ichi Ueda (flickr)
 
+Ascidia_mentula:
+  license: CC BY-SA 3.0 Matthieu Sontag (Wikimedia)
+
+Ascidiella_aspersa:
+  license: CC BY-SA 4.0 Frédéric André (Wikimedia)
+
 Astatotilapia_calliptera:
   license: CC BY-SA 2.0 Alexandra Tyers (flickr)
 
 Asterias_rubens:
   license: CC BY-SA 4.0, Hans Hillewaert (wikimedia)
 
+Asterocarpa_humilis:
+  license: CC BY 4.0 Bernard Picton (Wikimedia)
+
 Aythya_fuligula:
   license: CC BY-SA 3.0 Charles J Sharp (wikimedia)
+
+Balaenoptera_acutorostrata:
+  license: CC BY 3.0 Kris Mikael Krister (Wikimedia)
 
 Balaenoptera_musculus:
   license: Copyright © Shutterstock, used with permission
 
+Balaenoptera_ricei:
+  license: CC BY-SA 4.0 Maria Beatriz Soares (Wikimedia)
+
 Balearica_regulorum:
   license: (pixabay)
+
+Barbatula_barbatula:
+  license: CC BY 3.0 Michal Maňas (Wikimedia)
 
 Barbus_barbus:
   license: CC BY-SA 3.0 Linie29 (wikimedia)
@@ -100,6 +139,9 @@ Borostomias_antarcticus:
 Bos_taurus:
   license: public domain
 
+Branchiostoma_lanceolatum:
+  license: CC BY-SA 3.0 Parent Géry (Wikimedia)
+
 Branta_leucopsis:
   license: CC BY 2.0 Bengt Nyman (flickr)
 
@@ -108,6 +150,12 @@ Bucorvus_abyssinicus:
 
 Bufo_bufo:
   license: CC BY-SA 2.0 Rolf Dietrich Brecher (flickr)
+
+Buglossidium_luteum:
+  license: CC BY-SA 4.0 Romaine (Wikimedia)
+
+Callionymus_lyra:
+  license: CC BY-SA 4.0 Hans Hillewaert (Wikimedia)
 
 Callithrix_jacchus:
   license: CC BY-SA 2.0 Luciano Marra (flickr)
@@ -118,14 +166,32 @@ Calonectris_borealis:
 Calypte_anna:
   license: public domain
 
+Camelus_dromedarius:
+  license: CC BY-SA 3.0 Agadez (Wikimedia)
+
+Candoia_aspera:
+  license: CC BY 4.0 coenobita (iNaturalist)
+
 Canis_lupus_orion:
   license: public domain
 
 Caprimulgus_europaeus:
   license: CC BY-SA 3.0 Dûrzan Cîrano (wikipedia)
 
+Carassius_carassius:
+  license: CC BY-SA 3.0 Piet Spaans (Wikimedia)
+
+Carcharias_taurus:
+  license: CC BY-NC-SA 2.0 John Turnbull (flickr)
+
 Carcharodon_carcharias:
   license: CC BY-SA 3.0 Terry Goss (wikimedia)
+
+Carcinoscorpius_rotundicauda:
+  license: CC BY 3.0 Amada44 (Wikimedia)
+
+Caretta_caretta:
+  license: CC BY-SA 4.0 Eco cruising (Wikimedia)
 
 Cariama_cristata:
   license: CC BY-SA 3.0 Olaf Oliviero Riemer (wikimedia)
@@ -145,8 +211,14 @@ Chanos_chanos:
 Chasiempis_sclateri:
   license: CC BY 2.0 John Game (flickr)
 
+Chelidonichthys_cuculus:
+  license: CC BY-SA 2.0 Barney Livingston (flickr)
+
 Chelmon_rostratus:
   license: CC BY-SA 2.0 Ruben Undheim (flickr)
+
+Chelon_labrosus:
+  license: CC BY 2.0 Conall McCaughey (flickr)
 
 Chelonia_mydas:
   license: CC BY-SA 3.0 Christoph Schuetzenhofer (wikimedia)
@@ -154,8 +226,14 @@ Chelonia_mydas:
 Chionoecetes_opilio:
   license: CC BY-SA 4.0 Totti (Wikimedia)
 
+Chionomys_nivalis:
+  license: CC BY-NC-SA 2.0 Alexandre Roux (flickr)
+
 Chiroxiphia_lanceolata:
   license: Copyright Emily DuVal, used with permission
+
+Chlamydotis_macqueenii:
+  license: CC BY-SA 4.0 Habib M’henni (Wikimedia)
 
 Choloepus_didactylus:
   license: CC BY-SA 3.0 Hans Hillewaert (wikimedia)
@@ -163,11 +241,23 @@ Choloepus_didactylus:
 Ciconia_maguari:
   license: CC BY-NC-SA 2.0 Lip Kee (flickr)
 
+Ciliata_mustela:
+  license: CC BY 2.0 Massimiliano Marcelli (Wikimedia)
+
 Cinclus_cinclus:
   license: CC BY 2.0, Dirk-Jan van Roest (wikimedia)
 
+Ciona_intestinalis:
+  license: CC BY-SA 3.0 Clément Lamy (Wikimedia)
+
+Clavelina_lepadiformis:
+  license: CC BY 4.0 Bernard Picton (iNaturalist)
+
 Colius_striatus:
   license: CC BY-SA 2.0 Dominic Sherony (Wikimedia)
+
+Conger_conger:
+  license: CC BY-NC 2.0 Christophe Quintin (Wikimedia)
 
 Copsychus_sechellarum:
   license: CC BY-SA 2.0 Adrian Scottow (Wikimedia)

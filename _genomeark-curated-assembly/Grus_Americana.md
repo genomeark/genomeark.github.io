@@ -1,1 +1,0 @@
-../_genomeark/Grus_Americana.md
