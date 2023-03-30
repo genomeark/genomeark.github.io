@@ -25,8 +25,8 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 2592000000
 genome_size_display: 2.59 Gbp
 genome_size_method: GoAT
-last_raw_data: 1678820127
-last_updated: 1678820127
+last_raw_data: 1680105268
+last_updated: 1680105268
 name: Leptodactylus fuscus
 name_: Leptodactylus_fuscus
 short_name: aLepFus

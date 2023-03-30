@@ -17,10 +17,20 @@ data_illumina-3_scale: 2.0193
 data_illumina_bases: 343.63 Gbp
 data_illumina_bytes: 159.2 GiB
 data_illumina_coverage: N/A
-data_status: '<em style="color:forestgreen">Illumina</em>'
+data_pacbiohifi_fqgz-1_bases: 104.71 Gbp
+data_pacbiohifi_fqgz-1_bytes: 79.3 GiB
+data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Xenopus_petersii/aXenPet1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Xenopus_petersii/aXenPet1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Xenopus_petersii/aXenPet1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2303
+data_pacbiohifi_fqgz_bases: 104.71 Gbp
+data_pacbiohifi_fqgz_bytes: 79.3 GiB
+data_pacbiohifi_fqgz_coverage: N/A
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 0
-last_raw_data: 1679716343
-last_updated: 1679716343
+last_raw_data: 1680052977
+last_updated: 1680052977
 name: Xenopus petersii
 name_: Xenopus_petersii
 short_name: aXenPet
