@@ -153,7 +153,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_verkko_1.1-hic-freeze
 last_raw_data: 1675366964
-last_updated: 1675366964
+last_updated: 1680014654
 name: Symphalangus syndactylus
 name_: Symphalangus_syndactylus
 short_name: mSymSyn

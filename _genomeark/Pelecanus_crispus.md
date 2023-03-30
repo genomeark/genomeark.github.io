@@ -44,7 +44,7 @@ data_pacbiohifi_clr_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
 last_raw_data: 1674511034
-last_updated: 1675714678
+last_updated: 1679959588
 name: Pelecanus crispus
 name_: Pelecanus_crispus
 short_name: bPelCri

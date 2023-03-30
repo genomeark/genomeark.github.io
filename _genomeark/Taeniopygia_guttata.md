@@ -104,9 +104,16 @@ data_arima-2_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_
 data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
 data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/arima/
 data_arima-2_scale: 1.9376
-data_arima_bases: 251.59 Gbp
-data_arima_bytes: 126.6 GiB
-data_arima_coverage: 242.94x
+data_arima-7_bases: 62.73 Gbp
+data_arima-7_bytes: 29.8 GiB
+data_arima-7_coverage: 60.57x
+data_arima-7_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut7/genomic_data/arima/<br>
+data_arima-7_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut7/genomic_data/arima/
+data_arima-7_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut7/genomic_data/arima/
+data_arima-7_scale: 1.9637
+data_arima_bases: 314.32 Gbp
+data_arima_bytes: 156.3 GiB
+data_arima_coverage: 303.52x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 246.7 MiB
 data_bionano-1_coverage: 287.16x
@@ -138,6 +145,13 @@ data_illumina-4_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut4/genom
 data_illumina-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut4/genomic_data/illumina/
 data_illumina-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut4/genomic_data/illumina/
 data_illumina-4_scale: 1.7409
+data_illumina-7_bases: 114.02 Gbp
+data_illumina-7_bytes: 52.2 GiB
+data_illumina-7_coverage: 110.10x
+data_illumina-7_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut7/genomic_data/illumina/<br>
+data_illumina-7_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut7/genomic_data/illumina/
+data_illumina-7_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut7/genomic_data/illumina/
+data_illumina-7_scale: 2.0343
 data_illumina-8_bases: 50.87 Gbp
 data_illumina-8_bytes: 24.2 GiB
 data_illumina-8_coverage: 49.12x
@@ -152,9 +166,9 @@ data_illumina-9_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut9/genom
 data_illumina-9_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut9/genomic_data/illumina/
 data_illumina-9_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut9/genomic_data/illumina/
 data_illumina-9_scale: 1.9395
-data_illumina_bases: 261.42 Gbp
-data_illumina_bytes: 132.5 GiB
-data_illumina_coverage: 252.43x
+data_illumina_bases: 375.43 Gbp
+data_illumina_bytes: 184.7 GiB
+data_illumina_coverage: 362.52x
 data_pacbio-1_bases: 109.72 Gbp
 data_pacbio-1_bytes: 392.7 GiB
 data_pacbio-1_coverage: 105.95x
@@ -206,9 +220,16 @@ data_pacbiohifi_fqgz-2_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut
 data_pacbiohifi_fqgz-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-2_scale: 1.2070
-data_pacbiohifi_fqgz_bases: 39.52 Gbp
-data_pacbiohifi_fqgz_bytes: 30.5 GiB
-data_pacbiohifi_fqgz_coverage: 38.16x
+data_pacbiohifi_fqgz-7_bases: 135.08 Gbp
+data_pacbiohifi_fqgz-7_bytes: 102.6 GiB
+data_pacbiohifi_fqgz-7_coverage: 130.43x
+data_pacbiohifi_fqgz-7_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut7/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-7_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut7/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-7_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut7/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-7_scale: 1.2264
+data_pacbiohifi_fqgz_bases: 174.60 Gbp
+data_pacbiohifi_fqgz_bytes: 133.1 GiB
+data_pacbiohifi_fqgz_coverage: 168.59x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genbank_alt: bTaeGut1:GCA_003957525.2 bTaeGut2:GCA_009859025.1
 genbank_mat: bTaeGut2:GCA_008822115.3
@@ -274,8 +295,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_curated
-last_raw_data: 1674520893
-last_updated: 1674520893
+last_raw_data: 1680023158
+last_updated: 1680023158
 mat2date: 2022-05-27
 mat2filesize: 289.3 MiB
 mat2length: 1021085914

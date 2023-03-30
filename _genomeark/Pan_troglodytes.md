@@ -173,7 +173,7 @@ hpb3sizes: |
   </table>
 hpb3version: assembly_verkko_1.1-hic-freeze
 last_raw_data: 1671518926
-last_updated: 1671518926
+last_updated: 1680014696
 mito1date: 2020-06-25
 mito1filesize: 4.9 KiB
 mito1length: 16556

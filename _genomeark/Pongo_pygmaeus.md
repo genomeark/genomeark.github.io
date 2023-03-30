@@ -143,7 +143,7 @@ hpb2sizes: |
   </table>
 hpb2version: assembly_verkko_1.1-hic-freeze
 last_raw_data: 1671518523
-last_updated: 1671518523
+last_updated: 1680014744
 name: Pongo pygmaeus
 name_: Pongo_pygmaeus
 short_name: mPonPyg

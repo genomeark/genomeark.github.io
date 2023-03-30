@@ -10,6 +10,16 @@ data_arima-1_scale: 1.7893
 data_arima_bases: 208.38 Gbp
 data_arima_bytes: 108.5 GiB
 data_arima_coverage: N/A
+data_illumina-1_bases: 97.06 Gbp
+data_illumina-1_bytes: 45.1 GiB
+data_illumina-1_coverage: N/A
+data_illumina-1_links: s3://genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ochotona_princeps/mOchPri1/genomic_data/illumina/
+data_illumina-1_scale: 2.0039
+data_illumina_bases: 97.06 Gbp
+data_illumina_bytes: 45.1 GiB
+data_illumina_coverage: N/A
 data_pacbiohifi_bam-1_bases: 56.09 Gbp
 data_pacbiohifi_bam-1_bytes: 193.3 GiB
 data_pacbiohifi_bam-1_coverage: N/A
@@ -40,10 +50,10 @@ data_pacbiohifi_fqgz-1_scale: 1.2480
 data_pacbiohifi_fqgz_bases: 83.91 Gbp
 data_pacbiohifi_fqgz_bytes: 62.6 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 0
-last_raw_data: 1671075453
-last_updated: 1676308887
+last_raw_data: 1679716874
+last_updated: 1679716874
 mito1date: 2023-02-13
 mito1filesize: 5.4 KiB
 mito1length: 17227
