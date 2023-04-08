@@ -5,6 +5,13 @@ permalink: structure.html
 published: false
 ---
 
+<!--
+NOTE: For testing, set `published:` to `true`. Leave it set to `false` when
+      committing changes until we're ready to launch this page.
+-->
+
+This is a *DRAFT*. Please send comments to `#data-coord` on Slack.
+
 AWS S3 is "object storage" and does not contain hierarchical directories or
 folders like traditional file systems. However, the structure will be discussed
 as if the data will be organized in directories for convenience.
