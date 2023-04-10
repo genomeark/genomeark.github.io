@@ -75,7 +75,6 @@ genbank_alt: bSylBor1:GCA_014839765.1
 genbank_pri: bSylBor1:GCA_014839755.1
 genome_size: 1200000000
 genome_size_display: 1.20 Gbp
-genome_size_method: null
 last_raw_data: 1579617542
 last_updated: 1589470386
 name: Sylvia borin

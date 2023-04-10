@@ -81,6 +81,8 @@ data_pacbiohifi_fqgz_bases: 44.85 Gbp
 data_pacbiohifi_fqgz_bytes: 35.2 GiB
 data_pacbiohifi_fqgz_coverage: 28.14x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+genbank_alt: bSphHub1:GCA_027474345.1
+genbank_pri: bSphHub1:GCA_027474245.1
 genome_size: 1594000000
 genome_size_display: 1.59 Gbp
 genome_size_method: GoAT
@@ -118,5 +120,5 @@ pri1sizes: |
   </table>
 pri1version: assembly_curated
 short_name: bSphHub
-taxon_id: '9240'
+taxon_id: 9240
 ---

@@ -75,7 +75,6 @@ genbank_alt: bPogPus1:GCA_015220175.1
 genbank_pri: bPogPus1:GCA_015220805.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
-genome_size_method: null
 last_raw_data: 1579788702
 last_updated: 1589472340
 mito1date: 2020-01-24

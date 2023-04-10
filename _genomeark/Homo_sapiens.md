@@ -129,7 +129,6 @@ genbank_mat: mHomSap3:GCA_016695395.2
 genbank_pat: mHomSap3:GCA_016700455.2
 genome_size: 3200000000
 genome_size_display: 3.20 Gbp
-genome_size_method: null
 last_raw_data: 1651684795
 last_updated: 1651684795
 mat3date: 2020-07-16

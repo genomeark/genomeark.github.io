@@ -216,22 +216,25 @@ data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Gallus_gallus/bGalGal1/geno
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 1.0900
-data_pacbiohifi_fqgz-5_bases: 45.73 Gbp
-data_pacbiohifi_fqgz-5_bytes: 33.8 GiB
-data_pacbiohifi_fqgz-5_coverage: 37.79x
-data_pacbiohifi_fqgz-5_links: s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal5/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-5_bases: 45728759432
 data_pacbiohifi_fqgz-5_scale: 1.2606
-data_pacbiohifi_fqgz_bases: 138.62 Gbp
-data_pacbiohifi_fqgz_bytes: 113.2 GiB
-data_pacbiohifi_fqgz_coverage: 114.56x
+data_pacbiohifi_fqgz_bases: 92.89 Gbp
+data_pacbiohifi_fqgz_bytes: 79.4 GiB
+data_pacbiohifi_fqgz_coverage: 76.77x
+data_pacbiohifi_q2fqgz-5_bytes: 33.8 GiB
+data_pacbiohifi_q2fqgz-5_coverage: 0.00x
+data_pacbiohifi_q2fqgz-5_links: s3://genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbiohifi_q2fqgz/<br>
+data_pacbiohifi_q2fqgz-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal5/genomic_data/pacbiohifi_q2fqgz/
+data_pacbiohifi_q2fqgz-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal5/genomic_data/pacbiohifi_q2fqgz/
+data_pacbiohifi_q2fqgz_bytes: 33.8 GiB
+data_pacbiohifi_q2fqgz_coverage: 0.00x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+genbank_alt: bGalGal4:GCA_027408255.1 bGalGal5:GCA_027408205.1
 genbank_mat: bGalGal1:GCA_016699485.1
 genbank_pat: bGalGal1:GCA_016700215.2
+genbank_pri: bGalGal4:GCA_027557775.1 bGalGal5:GCA_027408225.1
 genome_size: 1210000000
 genome_size_display: 1.21 Gbp
-genome_size_method: null
 last_raw_data: 1675798285
 last_updated: 1675798285
 mat1date: 2019-10-17

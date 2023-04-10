@@ -75,7 +75,6 @@ genbank_alt: bPhoRub2:GCA_009819805.1
 genbank_pri: bPhoRub2:GCA_009819775.1
 genome_size: 1250000000
 genome_size_display: 1.25 Gbp
-genome_size_method: null
 last_raw_data: 1547232348
 last_updated: 1565898027
 name: Phoenicopterus ruber

@@ -75,7 +75,6 @@ genbank_alt: mZalCal1:GCA_009762295.2
 genbank_pri: mZalCal1:GCA_009762305.2
 genome_size: 3150000000
 genome_size_display: 3.15 Gbp
-genome_size_method: null
 last_raw_data: 1567714756
 last_updated: 1584962094
 mito1date: 2019-10-04

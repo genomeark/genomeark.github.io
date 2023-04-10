@@ -81,6 +81,7 @@ data_pacbiohifi_fqgz_bases: 76.59 Gbp
 data_pacbiohifi_fqgz_bytes: 60.5 GiB
 data_pacbiohifi_fqgz_coverage: 30.12x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+genbank_pri: rEmyOrb1:GCA_028017835.1 rEmyOrb1:GCA_028017845.1
 genome_size: 2543000000
 genome_size_display: 2.54 Gbp
 genome_size_method: GoAT

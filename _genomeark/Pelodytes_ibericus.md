@@ -10,7 +10,27 @@ data_arima-1_scale: 2.0123
 data_arima_bases: 106.00 Gbp
 data_arima_bytes: 49.1 GiB
 data_arima_coverage: N/A
-data_status: '<em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_bam-1_bases: 70.56 Gbp
+data_pacbiohifi_bam-1_bytes: 222.6 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Pelodytes_ibericus/aPelIbe1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pelodytes_ibericus/aPelIbe1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pelodytes_ibericus/aPelIbe1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2952
+data_pacbiohifi_bam_bases: 70.56 Gbp
+data_pacbiohifi_bam_bytes: 222.6 GiB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_dcfqgz-1_bases: 81.16 Gbp
+data_pacbiohifi_dcfqgz-1_bytes: 40.7 GiB
+data_pacbiohifi_dcfqgz-1_coverage: N/A
+data_pacbiohifi_dcfqgz-1_links: s3://genomeark/species/Pelodytes_ibericus/aPelIbe1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_dcfqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pelodytes_ibericus/aPelIbe1/genomic_data/pacbio_hifi/
+data_pacbiohifi_dcfqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pelodytes_ibericus/aPelIbe1/genomic_data/pacbio_hifi/
+data_pacbiohifi_dcfqgz-1_scale: 1.8585
+data_pacbiohifi_dcfqgz_bases: 81.16 Gbp
+data_pacbiohifi_dcfqgz_bytes: 40.7 GiB
+data_pacbiohifi_dcfqgz_coverage: N/A
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
 hpa1date: 2023-03-08
 hpa1filesize: 540.2 MiB
@@ -72,6 +92,35 @@ hpb1sizes: |
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1678099299
 last_updated: 1678294797
+mito1date: 2023-03-08
+mito1filesize: 5.6 KiB
+mito1length: 18155
+mito1n50ctg: 18155
+mito1n50scf: 18155
+mito1seq: https://s3.amazonaws.com/genomeark/species/Pelodytes_ibericus/aPelIbe1/assembly_vgp_HiC_2.0/aPelIbe1.mito.20230308.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 18.16 Kbp </td><td> 1 </td><td> 18.16 Kbp </td></tr>  <tr><td> 20 </td><td> 1 </td><td> 18.16 Kbp </td><td> 1 </td><td> 18.16 Kbp </td></tr>  <tr><td> 30 </td><td> 1 </td><td> 18.16 Kbp </td><td> 1 </td><td> 18.16 Kbp </td></tr>  <tr><td> 40 </td><td> 1 </td><td> 18.16 Kbp </td><td> 1 </td><td> 18.16 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 18.16 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 18.16 Kbp </td></tr>  <tr><td> 60 </td><td> 1 </td><td> 18.16 Kbp </td><td> 1 </td><td> 18.16 Kbp </td></tr>  <tr><td> 70 </td><td> 1 </td><td> 18.16 Kbp </td><td> 1 </td><td> 18.16 Kbp </td></tr>  <tr><td> 80 </td><td> 1 </td><td> 18.16 Kbp </td><td> 1 </td><td> 18.16 Kbp </td></tr>  <tr><td> 90 </td><td> 1 </td><td> 18.16 Kbp </td><td> 1 </td><td> 18.16 Kbp </td></tr>  <tr><td> 100 </td><td> 1 </td><td> 18.16 Kbp </td><td> 1 </td><td> 18.16 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 18.16 Kbp </th><th> 1 </th><th> 18.16 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_vgp_HiC_2.0
 name: Pelodytes ibericus
 name_: Pelodytes_ibericus
 short_name: aPelIbe

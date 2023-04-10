@@ -59,6 +59,8 @@ data_pacbio_bases: 128.48 Gbp
 data_pacbio_bytes: 451.5 GiB
 data_pacbio_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
+genbank_alt: fDanRer4:GCA_944039255.1
+genbank_pri: fDanRer4:GCA_944039275.1
 genome_size: 0
 last_raw_data: 1566749074
 last_updated: 1591266209

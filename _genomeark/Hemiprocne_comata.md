@@ -75,7 +75,6 @@ genbank_alt: bHemCom1:GCA_020745695.1
 genbank_pri: bHemCom1:GCA_020745705.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
-genome_size_method: null
 last_raw_data: 1594744121
 last_updated: 1632508751
 mito1date: 2019-12-04

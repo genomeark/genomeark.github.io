@@ -75,7 +75,6 @@ genbank_alt: mTriVul1:GCA_011100645.1
 genbank_pri: mTriVul1:GCA_011100635.1
 genome_size: 3000000000
 genome_size_display: 3.00 Gbp
-genome_size_method: null
 last_raw_data: 1558101664
 last_updated: 1581069403
 mito1date: 2019-10-04

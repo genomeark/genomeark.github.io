@@ -75,7 +75,6 @@ genbank_alt: mTacAcu1:GCA_015852515.1
 genbank_pri: mTacAcu1:GCA_015852505.1
 genome_size: 2890000000
 genome_size_display: 2.89 Gbp
-genome_size_method: null
 last_raw_data: 1584648955
 last_updated: 1600456374
 mito1date: 2019-10-03

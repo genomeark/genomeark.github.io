@@ -20,15 +20,15 @@ data_illumina-1_scale: 2.0039
 data_illumina_bases: 97.06 Gbp
 data_illumina_bytes: 45.1 GiB
 data_illumina_coverage: N/A
-data_pacbiohifi_bam-1_bases: 56.09 Gbp
-data_pacbiohifi_bam-1_bytes: 193.3 GiB
+data_pacbiohifi_bam-1_bases: 70.13 Gbp
+data_pacbiohifi_bam-1_bytes: 240.0 GiB
 data_pacbiohifi_bam-1_coverage: N/A
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2703
-data_pacbiohifi_bam_bases: 56.09 Gbp
-data_pacbiohifi_bam_bytes: 193.3 GiB
+data_pacbiohifi_bam-1_scale: 0.2721
+data_pacbiohifi_bam_bases: 70.13 Gbp
+data_pacbiohifi_bam_bytes: 240.0 GiB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_clr-1_bases: 278.59 Gbp
 data_pacbiohifi_clr-1_bytes: 615.3 GiB

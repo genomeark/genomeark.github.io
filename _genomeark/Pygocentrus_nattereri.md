@@ -75,7 +75,6 @@ genbank_alt: fPygNat1:GCA_015220065.1
 genbank_pri: fPygNat1:GCA_015220715.1
 genome_size: 1200000000
 genome_size_display: 1.20 Gbp
-genome_size_method: null
 last_raw_data: 1570708223
 last_updated: 1584960723
 mito1date: 2019-10-07

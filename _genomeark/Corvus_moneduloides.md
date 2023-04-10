@@ -75,7 +75,6 @@ genbank_alt: bCorMon1:GCA_009651025.1
 genbank_pri: bCorMon1:GCA_009650955.1
 genome_size: 1250000000
 genome_size_display: 1.25 Gbp
-genome_size_method: null
 last_raw_data: 1564251926
 last_updated: 1569703784
 mito1date: 2019-09-18

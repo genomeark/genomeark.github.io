@@ -75,7 +75,6 @@ genbank_alt: bCygOlo1:GCA_009769485.2
 genbank_pri: bCygOlo1:GCA_009769625.2
 genome_size: 1480000000
 genome_size_display: 1.48 Gbp
-genome_size_method: null
 last_raw_data: 1564200622
 last_updated: 1606748870
 mito1date: 2019-09-28

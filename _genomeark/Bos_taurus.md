@@ -54,7 +54,6 @@ data_phase_coverage: 11.98x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Phase</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 2700000000
 genome_size_display: 2.70 Gbp
-genome_size_method: null
 last_raw_data: 1577216959
 last_updated: 1582287605
 mat1date: 2020-02-13

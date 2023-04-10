@@ -65,7 +65,6 @@ genbank_alt: bHirRus1:GCA_015227815.3
 genbank_pri: bHirRus1:GCA_015227805.3
 genome_size: 1310000000
 genome_size_display: 1.31 Gbp
-genome_size_method: null
 last_raw_data: 1582385679
 last_updated: 1670603457
 name: Hirundo rustica

@@ -60,17 +60,16 @@ data_pacbiohifi_clr-1_scale: 0.5203
 data_pacbiohifi_clr_bases: 574.08 Gbp
 data_pacbiohifi_clr_bytes: 1.0 TiB
 data_pacbiohifi_clr_coverage: 404.28x
-data_pacbiohifi_fqgz-1_bases: 34.35 Gbp
-data_pacbiohifi_fqgz-1_bytes: 28.6 GiB
-data_pacbiohifi_fqgz-1_coverage: 24.19x
-data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_peregrinus/bFalPer1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_bases: 34354557903
 data_pacbiohifi_fqgz-1_scale: 1.1175
-data_pacbiohifi_fqgz_bases: 34.35 Gbp
-data_pacbiohifi_fqgz_bytes: 28.6 GiB
-data_pacbiohifi_fqgz_coverage: 24.19x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_q2fqgz-1_bytes: 28.6 GiB
+data_pacbiohifi_q2fqgz-1_coverage: 0.00x
+data_pacbiohifi_q2fqgz-1_links: s3://genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/pacbiohifi_q2fqgz/<br>
+data_pacbiohifi_q2fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/pacbiohifi_q2fqgz/
+data_pacbiohifi_q2fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_peregrinus/bFalPer1/genomic_data/pacbiohifi_q2fqgz/
+data_pacbiohifi_q2fqgz_bytes: 28.6 GiB
+data_pacbiohifi_q2fqgz_coverage: 0.00x
+data_status: '<em style="color:forestgreen">Arima</em>'
 genbank_alt: bFalPer1:GCA_023634185.1
 genbank_pri: bFalPer1:GCA_023634155.1
 genome_size: 1420000000

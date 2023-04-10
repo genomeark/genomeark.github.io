@@ -81,6 +81,8 @@ data_pacbiohifi_fqgz_bases: 79.92 Gbp
 data_pacbiohifi_fqgz_bytes: 66.2 GiB
 data_pacbiohifi_fqgz_coverage: 33.08x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+genbank_alt: fNeoGra1:GCA_027579805.1
+genbank_pri: fNeoGra1:GCA_027579695.1
 genome_size: 2416000000
 genome_size_display: 2.42 Gbp
 genome_size_method: GoAT
@@ -118,5 +120,5 @@ pri1sizes: |
   </table>
 pri1version: assembly_curated
 short_name: fNeoGra
-taxon_id: '443677'
+taxon_id: 443677
 ---

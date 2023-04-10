@@ -38,16 +38,16 @@ data_ont-1_scale: 1.0931
 data_ont_bases: 570.58 Gbp
 data_ont_bytes: 486.1 GiB
 data_ont_coverage: 163.42x
-data_pacbiohifi_bam-1_bases: 747.70 Gbp
-data_pacbiohifi_bam-1_bytes: 1.1 TiB
-data_pacbiohifi_bam-1_coverage: 214.15x
+data_pacbiohifi_bam-1_bases: 1176.91 Gbp
+data_pacbiohifi_bam-1_bytes: 1.2 TiB
+data_pacbiohifi_bam-1_coverage: 337.08x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.6381
-data_pacbiohifi_bam_bases: 747.70 Gbp
-data_pacbiohifi_bam_bytes: 1.1 TiB
-data_pacbiohifi_bam_coverage: 214.15x
+data_pacbiohifi_bam-1_scale: 0.9170
+data_pacbiohifi_bam_bases: 1176.91 Gbp
+data_pacbiohifi_bam_bytes: 1.2 TiB
+data_pacbiohifi_bam_coverage: 337.08x
 data_pacbiohifi_clr-1_bases: 6591.34 Gbp
 data_pacbiohifi_clr-1_bytes: 12.0 TiB
 data_pacbiohifi_clr-1_coverage: 1887.85x
@@ -58,16 +58,26 @@ data_pacbiohifi_clr-1_scale: 0.4988
 data_pacbiohifi_clr_bases: 6591.34 Gbp
 data_pacbiohifi_clr_bytes: 12.0 TiB
 data_pacbiohifi_clr_coverage: 1887.85x
-data_pacbiohifi_fqgz-1_bases: 395.07 Gbp
-data_pacbiohifi_fqgz-1_bytes: 297.9 GiB
-data_pacbiohifi_fqgz-1_coverage: 113.15x
+data_pacbiohifi_fqgz-1_bases: 178.48 Gbp
+data_pacbiohifi_fqgz-1_bytes: 182.8 GiB
+data_pacbiohifi_fqgz-1_coverage: 51.12x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 1.2351
-data_pacbiohifi_fqgz_bases: 395.07 Gbp
-data_pacbiohifi_fqgz_bytes: 297.9 GiB
-data_pacbiohifi_fqgz_coverage: 113.15x
+data_pacbiohifi_fqgz-1_scale: 0.9094
+data_pacbiohifi_fqgz_bases: 178.48 Gbp
+data_pacbiohifi_fqgz_bytes: 182.8 GiB
+data_pacbiohifi_fqgz_coverage: 51.12x
+data_pacbiohifi_q2fqgz-1_bases: 153.88 Gbp
+data_pacbiohifi_q2fqgz-1_bytes: 115.1 GiB
+data_pacbiohifi_q2fqgz-1_coverage: 44.07x
+data_pacbiohifi_q2fqgz-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbiohifi_q2fqgz/<br>
+data_pacbiohifi_q2fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbiohifi_q2fqgz/
+data_pacbiohifi_q2fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/pacbiohifi_q2fqgz/
+data_pacbiohifi_q2fqgz-1_scale: 1.2449
+data_pacbiohifi_q2fqgz_bases: 153.88 Gbp
+data_pacbiohifi_q2fqgz_bytes: 115.1 GiB
+data_pacbiohifi_q2fqgz_coverage: 44.07x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 dip1date: 2022-11-11
 dip1filesize: 1.6 GiB

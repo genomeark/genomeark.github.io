@@ -75,7 +75,6 @@ genbank_alt: bFalRus1:GCA_015220155.1
 genbank_pri: bFalRus1:GCA_015220075.1
 genome_size: 1400000000
 genome_size_display: 1.40 Gbp
-genome_size_method: null
 last_raw_data: 1578071543
 last_updated: 1629346092
 mito1date: 2019-12-16

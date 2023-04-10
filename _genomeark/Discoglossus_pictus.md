@@ -70,10 +70,22 @@ data_pacbio-1_scale: 0.5229
 data_pacbio_bases: 494.26 Gbp
 data_pacbio_bytes: 880.3 GiB
 data_pacbio_coverage: 127.63x
+data_pacbio_fagz-1_bases: 492.67 Gbp
+data_pacbio_fagz-1_bytes: 156.7 GiB
+data_pacbio_fagz-1_coverage: 127.22x
+data_pacbio_fagz-1_links: s3://genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/pacbio_fagz/<br>
+data_pacbio_fagz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Discoglossus_pictus/aDisPic1/genomic_data/pacbio_fagz/
+data_pacbio_fagz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Discoglossus_pictus/aDisPic1/genomic_data/pacbio_fagz/
+data_pacbio_fagz-1_scale: 2.9272
+data_pacbio_fagz_bases: 492.67 Gbp
+data_pacbio_fagz_bytes: 156.7 GiB
+data_pacbio_fagz_coverage: 127.22x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+genbank_alt: aDisPic1:GCA_027410455.1
+genbank_pri: aDisPic1:GCA_027410445.1
 genome_size: 3872581802
 genome_size_display: 3.87 Gbp
-last_raw_data: 1625148580
+last_raw_data: 1628250249
 last_updated: 1671740337
 mito1date: 2022-12-22
 mito1filesize: 5.2 KiB

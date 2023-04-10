@@ -42,6 +42,7 @@ data_pacbiohifi_fqgz_bases: 134.71 Gbp
 data_pacbiohifi_fqgz_bytes: 101.8 GiB
 data_pacbiohifi_fqgz_coverage: 29.62x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+genbank_pri: aGasCar1:GCA_027917415.1 aGasCar1:GCA_027917425.1
 genome_size: 4548000000
 genome_size_display: 4.55 Gbp
 genome_size_method: GoAT

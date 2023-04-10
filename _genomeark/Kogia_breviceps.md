@@ -41,6 +41,7 @@ data_pacbiohifi_fqgz_bases: 119.84 Gbp
 data_pacbiohifi_fqgz_bytes: 93.9 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
+genbank_pri: mKogBre1:GCA_026419965.1 mKogBre1:GCA_026419985.1
 genome_size: 0
 hpa1date: 2022-11-03
 hpa1filesize: 706.6 MiB

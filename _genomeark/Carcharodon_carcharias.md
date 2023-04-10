@@ -85,7 +85,6 @@ genbank_alt: sCarCar2:GCA_017639455.1
 genbank_pri: sCarCar2:GCA_017639515.1
 genome_size: 4500000000
 genome_size_display: 4.50 Gbp
-genome_size_method: null
 last_raw_data: 1594664727
 last_updated: 1612557299
 mito2date: 2019-10-04

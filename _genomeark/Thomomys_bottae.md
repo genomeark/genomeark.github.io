@@ -21,6 +21,8 @@ data_pacbiohifi_fqgz_bases: 137.75 Gbp
 data_pacbiohifi_fqgz_bytes: 102.0 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+genbank_alt: mThoBot1:GCA_024803775.1
+genbank_pri: mThoBot1:GCA_024803745.1
 genome_size: 0
 last_raw_data: 1678817159
 last_updated: 1678817159

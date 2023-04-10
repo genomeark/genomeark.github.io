@@ -62,7 +62,6 @@ data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color
 genbank_mat: sHemOce1:GCA_020745765.1
 genome_size: 5500000000
 genome_size_display: 5.50 Gbp
-genome_size_method: null
 last_raw_data: 1594752182
 last_updated: 1622230107
 mat1date: 2021-05-28

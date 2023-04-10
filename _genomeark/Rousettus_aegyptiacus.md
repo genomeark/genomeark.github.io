@@ -45,7 +45,6 @@ data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color
 genbank_pri: mRouAeg1:GCA_014176215.1
 genome_size: 2109999999
 genome_size_display: 2.11 Gbp
-genome_size_method: null
 last_raw_data: 1582490290
 last_updated: 1582492214
 name: Rousettus aegyptiacus

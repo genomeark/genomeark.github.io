@@ -75,7 +75,6 @@ genbank_alt: bCicMag1:GCA_017639665.1
 genbank_pri: bCicMag1:GCA_017639555.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
-genome_size_method: null
 last_raw_data: 1583245111
 last_updated: 1594836847
 mito1date: 2020-02-26

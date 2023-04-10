@@ -75,7 +75,6 @@ genbank_alt: bAytFul2:GCA_009819845.1
 genbank_pri: bAytFul2:GCA_009819795.1
 genome_size: 1200000000
 genome_size_display: 1.20 Gbp
-genome_size_method: null
 last_raw_data: 1565190400
 last_updated: 1568989010
 name: Aythya fuligula

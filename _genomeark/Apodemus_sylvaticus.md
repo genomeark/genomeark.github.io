@@ -50,20 +50,22 @@ data_arima-2_scale: 1.9978
 data_arima_bases: 455.95 Gbp
 data_arima_bytes: 212.6 GiB
 data_arima_coverage: 157.78x
-data_pacbiohifi_bam-1_bases: 54.35 Gbp
-data_pacbiohifi_bam-1_bytes: 197.9 GiB
-data_pacbiohifi_bam-1_coverage: 18.81x
+data_pacbiohifi_bam-1_bases: 57.93 Gbp
+data_pacbiohifi_bam-1_bytes: 210.9 GiB
+data_pacbiohifi_bam-1_coverage: 20.05x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Apodemus_sylvaticus/mApoSyl1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Apodemus_sylvaticus/mApoSyl1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Apodemus_sylvaticus/mApoSyl1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 0.2558
-data_pacbiohifi_bam_bases: 54.35 Gbp
-data_pacbiohifi_bam_bytes: 197.9 GiB
-data_pacbiohifi_bam_coverage: 18.81x
+data_pacbiohifi_bam_bases: 57.93 Gbp
+data_pacbiohifi_bam_bytes: 210.9 GiB
+data_pacbiohifi_bam_coverage: 20.05x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+genbank_alt: mApoSyl1:GCA_947179525.1
+genbank_pri: mApoSyl1:GCA_947179515.1
 genome_size: 2889801511
 genome_size_display: 2.89 Gbp
-last_raw_data: 1651598199
+last_raw_data: 1675853664
 last_updated: 1678366862
 name: Apodemus sylvaticus
 name_: Apodemus_sylvaticus

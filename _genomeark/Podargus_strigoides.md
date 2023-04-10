@@ -91,6 +91,8 @@ data_pacbiohifi_fqgz_bases: 37.87 Gbp
 data_pacbiohifi_fqgz_bytes: 28.2 GiB
 data_pacbiohifi_fqgz_coverage: 27.70x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+genbank_alt: bPodStr1:GCA_028020675.1
+genbank_pri: bPodStr1:GCA_028020825.1
 genome_size: 1367000000
 genome_size_display: 1.37 Gbp
 genome_size_method: GoAT

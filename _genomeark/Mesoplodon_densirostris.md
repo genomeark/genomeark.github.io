@@ -71,6 +71,8 @@ data_pacbiohifi_fqgz_bases: 113.63 Gbp
 data_pacbiohifi_fqgz_bytes: 87.8 GiB
 data_pacbiohifi_fqgz_coverage: 33.65x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
+genbank_alt: mMesDen1:GCA_025094165.1
+genbank_pri: mMesDen1:GCA_025265405.1
 genome_size: 3377000000
 genome_size_display: 3.38 Gbp
 genome_size_method: GoAT

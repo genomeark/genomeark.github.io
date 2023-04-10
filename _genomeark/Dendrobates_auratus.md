@@ -37,6 +37,26 @@ data_pacbiohifi_clr-1_scale: 0.5315
 data_pacbiohifi_clr_bases: 5075.25 Gbp
 data_pacbiohifi_clr_bytes: 8.7 TiB
 data_pacbiohifi_clr_coverage: N/A
+data_pacbiohifi_dcfqgz-1_bases: 263.01 Gbp
+data_pacbiohifi_dcfqgz-1_bytes: 86.8 GiB
+data_pacbiohifi_dcfqgz-1_coverage: N/A
+data_pacbiohifi_dcfqgz-1_links: s3://genomeark/species/Dendrobates_auratus/aDenAur1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_dcfqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dendrobates_auratus/aDenAur1/genomic_data/pacbio_hifi/
+data_pacbiohifi_dcfqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendrobates_auratus/aDenAur1/genomic_data/pacbio_hifi/
+data_pacbiohifi_dcfqgz-1_scale: 2.8227
+data_pacbiohifi_dcfqgz_bases: 263.01 Gbp
+data_pacbiohifi_dcfqgz_bytes: 86.8 GiB
+data_pacbiohifi_dcfqgz_coverage: N/A
+data_pacbiohifi_fagz-1_bases: 27.23 Gbp
+data_pacbiohifi_fagz-1_bytes: 8.5 GiB
+data_pacbiohifi_fagz-1_coverage: N/A
+data_pacbiohifi_fagz-1_links: s3://genomeark/species/Dendrobates_auratus/aDenAur1/genomic_data/pacbiohifi_fagz/<br>
+data_pacbiohifi_fagz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dendrobates_auratus/aDenAur1/genomic_data/pacbiohifi_fagz/
+data_pacbiohifi_fagz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendrobates_auratus/aDenAur1/genomic_data/pacbiohifi_fagz/
+data_pacbiohifi_fagz-1_scale: 2.9741
+data_pacbiohifi_fagz_bases: 27.23 Gbp
+data_pacbiohifi_fagz_bytes: 8.5 GiB
+data_pacbiohifi_fagz_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 217.73 Gbp
 data_pacbiohifi_fqgz-1_bytes: 144.0 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A

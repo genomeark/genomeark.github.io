@@ -110,8 +110,8 @@ data_pacbiohifi_bam_bases: 28.94 Gbp
 data_pacbiohifi_bam_bytes: 101.5 GiB
 data_pacbiohifi_bam_coverage: 89.24x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Dovetail</em>'
-genbank_alt: fSynAcu1:GCA_901709685.1
-genbank_pri: fSynAcu1:GCA_901709675.2
+genbank_alt: fSynAcu1:GCA_901709685.1 fSynAcu2:GCA_948146095.1
+genbank_pri: fSynAcu1:GCA_901709675.2 fSynAcu2:GCA_948146105.1
 genome_size: 324331233
 genome_size_display: 324.33 Mbp
 last_raw_data: 1675913668

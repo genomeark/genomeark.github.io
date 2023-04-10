@@ -81,6 +81,8 @@ data_pacbiohifi_fqgz_bases: 87.23 Gbp
 data_pacbiohifi_fqgz_bytes: 68.3 GiB
 data_pacbiohifi_fqgz_coverage: 32.20x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+genbank_alt: mNeoNeb1:GCA_028018655.1
+genbank_pri: mNeoNeb1:GCA_028018385.1
 genome_size: 2709000000
 genome_size_display: 2.71 Gbp
 genome_size_method: GoAT
@@ -147,5 +149,5 @@ pri1sizes: |
   </table>
 pri1version: assembly_curated
 short_name: mNeoNeb
-taxon_id: '61452'
+taxon_id: 61452
 ---

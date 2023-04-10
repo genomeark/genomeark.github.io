@@ -72,10 +72,9 @@ data_pacbio_bytes: 121.1 GiB
 data_pacbio_coverage: 69.64x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fPerMag1:GCA_009829135.1
-genbank_pri: fPerMag1:GCA_009829125.1
+genbank_pri: fPerMag1:GCA_009829125.3
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
-genome_size_method: null
 last_raw_data: 1565835138
 last_updated: 1670429176
 mito1date: 2019-10-02

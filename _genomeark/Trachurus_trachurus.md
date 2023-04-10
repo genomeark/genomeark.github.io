@@ -60,12 +60,22 @@ data_pacbio-1_scale: 0.5202
 data_pacbio_bases: 138.52 Gbp
 data_pacbio_bytes: 248.0 GiB
 data_pacbio_coverage: 168.89x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_bam-1_bases: 41.31 Gbp
+data_pacbiohifi_bam-1_bytes: 25.6 GiB
+data_pacbiohifi_bam-1_coverage: 50.37x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Trachurus_trachurus/fTraTra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trachurus_trachurus/fTraTra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.5032
+data_pacbiohifi_bam_bases: 41.31 Gbp
+data_pacbiohifi_bam_bytes: 25.6 GiB
+data_pacbiohifi_bam_coverage: 50.37x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: fTraTra1:GCA_905171655.2
 genbank_pri: fTraTra1:GCA_905171665.2
 genome_size: 820163303
 genome_size_display: 0.82 Gbp
-last_raw_data: 1576663199
+last_raw_data: 1675851577
 last_updated: 1675851577
 mito1date: 2019-10-03
 mito1filesize: 5.3 KiB

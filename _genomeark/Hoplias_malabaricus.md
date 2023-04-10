@@ -11,6 +11,16 @@ data_arima-1_scale: 1.8088
 data_arima_bases: 57.37 Gbp
 data_arima_bytes: 29.5 GiB
 data_arima_coverage: 45.82x
+data_pacbiohifi_bam-1_bases: 15.49 Gbp
+data_pacbiohifi_bam-1_bytes: 53.8 GiB
+data_pacbiohifi_bam-1_coverage: 12.37x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2682
+data_pacbiohifi_bam_bases: 15.49 Gbp
+data_pacbiohifi_bam_bytes: 53.8 GiB
+data_pacbiohifi_bam_coverage: 12.37x
 data_pacbiohifi_fqgz-1_bases: 33.64 Gbp
 data_pacbiohifi_fqgz-1_bytes: 24.2 GiB
 data_pacbiohifi_fqgz-1_coverage: 26.87x

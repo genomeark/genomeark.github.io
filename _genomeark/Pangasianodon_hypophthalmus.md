@@ -71,6 +71,8 @@ data_pacbiohifi_clr_bases: 315.56 Gbp
 data_pacbiohifi_clr_bytes: 565.7 GiB
 data_pacbiohifi_clr_coverage: 412.51x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+genbank_alt: fPanHyp1:GCA_027382375.1
+genbank_pri: fPanHyp1:GCA_027358585.1
 genome_size: 764974446
 genome_size_display: 0.76 Gbp
 last_raw_data: 1651608637

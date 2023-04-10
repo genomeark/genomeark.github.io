@@ -75,7 +75,6 @@ genbank_alt: bAlcTor1:GCA_008658355.1
 genbank_pri: bAlcTor1:GCA_008658365.1
 genome_size: 1200000000
 genome_size_display: 1.20 Gbp
-genome_size_method: null
 last_raw_data: 1545245416
 last_updated: 1566590342
 mito1date: 2019-08-20

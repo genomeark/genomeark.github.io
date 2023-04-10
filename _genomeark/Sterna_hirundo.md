@@ -75,7 +75,6 @@ genbank_alt: bSteHir1:GCA_009819645.1
 genbank_pri: bSteHir1:GCA_009819605.1
 genome_size: 1400000000
 genome_size_display: 1.40 Gbp
-genome_size_method: null
 last_raw_data: 1559739259
 last_updated: 1569703950
 mito1date: 2019-09-18

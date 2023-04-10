@@ -63,7 +63,6 @@ genbank_mat: mTurTru1:GCA_011762535.1
 genbank_pat: mTurTru1:GCA_011762515.1
 genome_size: 3200000000
 genome_size_display: 3.20 Gbp
-genome_size_method: null
 last_raw_data: 1567096890
 last_updated: 1581070857
 mat1date: 2019-08-30

@@ -75,7 +75,6 @@ genbank_alt: rLacAgi1:GCA_009819545.1
 genbank_pri: rLacAgi1:GCA_009819535.1
 genome_size: 2000000000
 genome_size_display: 2.00 Gbp
-genome_size_method: null
 last_raw_data: 1568606077
 last_updated: 1587741067
 mito1date: 2020-04-23

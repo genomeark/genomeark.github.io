@@ -75,7 +75,6 @@ genbank_alt: bNycGra1:GCA_013368595.1
 genbank_pri: bNycGra1:GCA_013368605.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
-genome_size_method: null
 last_raw_data: 1572448610
 last_updated: 1589468600
 mito1date: 2019-10-02

@@ -71,6 +71,8 @@ data_pacbio_bases: 267.93 Gbp
 data_pacbio_bytes: 472.4 GiB
 data_pacbio_coverage: 66.65x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+genbank_alt: mTamTet1:GCA_023853755.1
+genbank_pri: mTamTet1:GCA_023851605.1
 genome_size: 4020000000
 genome_size_display: 4.02 Gbp
 genome_size_method: GoAT

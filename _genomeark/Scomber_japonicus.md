@@ -70,17 +70,29 @@ data_pacbiohifi_clr-1_scale: 0.5132
 data_pacbiohifi_clr_bases: 706.19 Gbp
 data_pacbiohifi_clr_bytes: 1.3 TiB
 data_pacbiohifi_clr_coverage: 784.66x
-data_pacbiohifi_fqgz-1_bases: 44.27 Gbp
-data_pacbiohifi_fqgz-1_bytes: 30.3 GiB
-data_pacbiohifi_fqgz-1_coverage: 49.19x
+data_pacbiohifi_fqgz-1_bases: 17.13 Gbp
+data_pacbiohifi_fqgz-1_bytes: 12.1 GiB
+data_pacbiohifi_fqgz-1_coverage: 19.03x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scomber_japonicus/fScoJap1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 1.3609
-data_pacbiohifi_fqgz_bases: 44.27 Gbp
-data_pacbiohifi_fqgz_bytes: 30.3 GiB
-data_pacbiohifi_fqgz_coverage: 49.19x
+data_pacbiohifi_fqgz-1_scale: 1.3188
+data_pacbiohifi_fqgz_bases: 17.13 Gbp
+data_pacbiohifi_fqgz_bytes: 12.1 GiB
+data_pacbiohifi_fqgz_coverage: 19.03x
+data_pacbiohifi_q2fqgz-1_bases: 27.22 Gbp
+data_pacbiohifi_q2fqgz-1_bytes: 18.2 GiB
+data_pacbiohifi_q2fqgz-1_coverage: 30.24x
+data_pacbiohifi_q2fqgz-1_links: s3://genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/pacbiohifi_q2fqgz/<br>
+data_pacbiohifi_q2fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/pacbiohifi_q2fqgz/
+data_pacbiohifi_q2fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scomber_japonicus/fScoJap1/genomic_data/pacbiohifi_q2fqgz/
+data_pacbiohifi_q2fqgz-1_scale: 1.3929
+data_pacbiohifi_q2fqgz_bases: 27.22 Gbp
+data_pacbiohifi_q2fqgz_bytes: 18.2 GiB
+data_pacbiohifi_q2fqgz_coverage: 30.24x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+genbank_alt: fScoJap1:GCA_027409835.1
+genbank_pri: fScoJap1:GCA_027409825.1
 genome_size: 900000000
 genome_size_display: 0.90 Gbp
 last_raw_data: 1673804297

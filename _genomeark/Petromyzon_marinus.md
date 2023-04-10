@@ -75,7 +75,6 @@ genbank_alt: kPetMar1:GCA_010993595.1
 genbank_pri: kPetMar1:GCA_010993605.1
 genome_size: 1500000000
 genome_size_display: 1.50 Gbp
-genome_size_method: null
 last_raw_data: 1587223430
 last_updated: 1587342950
 mito1date: 2020-04-19

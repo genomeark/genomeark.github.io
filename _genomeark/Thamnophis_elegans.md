@@ -75,7 +75,6 @@ genbank_alt: rThaEle1:GCA_009769695.1
 genbank_pri: rThaEle1:GCA_009769535.1
 genome_size: 1900000000
 genome_size_display: 1.90 Gbp
-genome_size_method: null
 last_raw_data: 1557292636
 last_updated: 1566486524
 name: Thamnophis elegans

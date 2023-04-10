@@ -1,1 +1,0 @@
-../_genomeark/Canis_lupus.md

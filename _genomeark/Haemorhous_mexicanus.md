@@ -71,6 +71,8 @@ data_pacbiohifi_fqgz_bases: 50.45 Gbp
 data_pacbiohifi_fqgz_bytes: 37.4 GiB
 data_pacbiohifi_fqgz_coverage: 36.85x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+genbank_alt: bHaeMex1:GCA_027406555.1
+genbank_pri: bHaeMex1:GCA_027477595.1
 genome_size: 1369000000
 genome_size_display: 1.37 Gbp
 genome_size_method: GoAT
@@ -108,5 +110,5 @@ pri1sizes: |
   </table>
 pri1version: assembly_curated
 short_name: bHaeMex
-taxon_id: '30427'
+taxon_id: 30427
 ---

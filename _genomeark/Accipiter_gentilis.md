@@ -62,7 +62,7 @@ data_pacbiohifi_bam_bytes: 78.3 GiB
 data_pacbiohifi_bam_coverage: 36.01x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_alt: bAccGen1:GCA_929447715.1
-genbank_pri: bAccGen1:GCA_929443795.1
+genbank_pri: bAccGen1:GCA_929443795.2
 genome_size: 1398027955
 genome_size_display: 1.40 Gbp
 last_raw_data: 1651593249

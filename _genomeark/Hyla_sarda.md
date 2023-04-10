@@ -60,6 +60,7 @@ data_pacbiohifi_fqgz_bases: 128.55 Gbp
 data_pacbiohifi_fqgz_bytes: 89.3 GiB
 data_pacbiohifi_fqgz_coverage: 31.04x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+genbank_pri: aHylSar1:GCA_029493135.1
 genome_size: 4142159359
 genome_size_display: 4.14 Gbp
 hpa1date: 2022-08-06

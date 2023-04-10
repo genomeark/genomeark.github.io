@@ -75,7 +75,6 @@ genbank_alt: bDryPub1:GCA_014839825.1
 genbank_pri: bDryPub1:GCA_014839835.1
 genome_size: 1400000000
 genome_size_display: 1.40 Gbp
-genome_size_method: null
 last_raw_data: 1571155873
 last_updated: 1594895381
 mito1date: 2019-10-05

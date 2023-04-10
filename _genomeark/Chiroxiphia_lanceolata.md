@@ -75,7 +75,6 @@ genbank_alt: bChiLan1:GCA_009829205.1
 genbank_pri: bChiLan1:GCA_009829145.1
 genome_size: 1230000000
 genome_size_display: 1.23 Gbp
-genome_size_method: null
 last_raw_data: 1564251086
 last_updated: 1570556404
 name: Chiroxiphia lanceolata

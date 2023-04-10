@@ -75,7 +75,6 @@ genbank_alt: bPteGut1:GCA_009769505.1
 genbank_pri: bPteGut1:GCA_009769525.1
 genome_size: 1070000000
 genome_size_display: 1.07 Gbp
-genome_size_method: null
 last_raw_data: 1565837200
 last_updated: 1571322263
 mito1date: 2019-08-21

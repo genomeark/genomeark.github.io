@@ -1,1 +1,0 @@
-../_genomeark/Amphilophus_citrinellus.md

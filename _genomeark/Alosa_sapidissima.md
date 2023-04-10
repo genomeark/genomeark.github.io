@@ -60,17 +60,16 @@ data_pacbiohifi_clr-1_scale: 0.5136
 data_pacbiohifi_clr_bases: 664.38 Gbp
 data_pacbiohifi_clr_bytes: 1.2 TiB
 data_pacbiohifi_clr_coverage: 738.19x
-data_pacbiohifi_fqgz-1_bases: 33.01 Gbp
-data_pacbiohifi_fqgz-1_bytes: 23.0 GiB
-data_pacbiohifi_fqgz-1_coverage: 36.68x
-data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Alosa_sapidissima/fAloSap1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Alosa_sapidissima/fAloSap1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alosa_sapidissima/fAloSap1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_bases: 33012942998
 data_pacbiohifi_fqgz-1_scale: 1.3359
-data_pacbiohifi_fqgz_bases: 33.01 Gbp
-data_pacbiohifi_fqgz_bytes: 23.0 GiB
-data_pacbiohifi_fqgz_coverage: 36.68x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_q2fqgz-1_bytes: 23.0 GiB
+data_pacbiohifi_q2fqgz-1_coverage: 0.00x
+data_pacbiohifi_q2fqgz-1_links: s3://genomeark/species/Alosa_sapidissima/fAloSap1/genomic_data/pacbiohifi_q2fqgz/<br>
+data_pacbiohifi_q2fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Alosa_sapidissima/fAloSap1/genomic_data/pacbiohifi_q2fqgz/
+data_pacbiohifi_q2fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alosa_sapidissima/fAloSap1/genomic_data/pacbiohifi_q2fqgz/
+data_pacbiohifi_q2fqgz_bytes: 23.0 GiB
+data_pacbiohifi_q2fqgz_coverage: 0.00x
+data_status: '<em style="color:forestgreen">Arima</em>'
 genbank_alt: fAloSap1:GCA_018492705.1
 genbank_pri: fAloSap1:GCA_018492685.1
 genome_size: 900000000

@@ -75,7 +75,6 @@ genbank_alt: fTauAds1:GCA_020745675.1
 genbank_pri: fTauAds1:GCA_020745685.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
-genome_size_method: null
 last_raw_data: 1622235347
 last_updated: 1635455353
 mito1date: 2021-05-28

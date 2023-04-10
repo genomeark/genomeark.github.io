@@ -75,7 +75,6 @@ genbank_alt: bTauEry1:GCA_009764505.1
 genbank_pri: bTauEry1:GCA_009769465.1
 genome_size: 1170000000
 genome_size_display: 1.17 Gbp
-genome_size_method: null
 last_raw_data: 1588867679
 last_updated: 1588867679
 name: Tauraco erythrolophus

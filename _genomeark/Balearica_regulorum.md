@@ -75,7 +75,6 @@ genbank_alt: bBalReg1:GCA_011004865.1
 genbank_pri: bBalReg1:GCA_011004875.1
 genome_size: 1450000000
 genome_size_display: 1.45 Gbp
-genome_size_method: null
 last_raw_data: 1571157581
 last_updated: 1576514397
 mito1date: 2019-12-16

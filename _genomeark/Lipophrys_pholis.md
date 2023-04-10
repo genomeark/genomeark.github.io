@@ -27,13 +27,13 @@ data_pacbiohifi_bam-2_coverage: N/A
 data_pacbiohifi_bam-2_links: s3://genomeark/species/Lipophrys_pholis/fLipPho2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lipophrys_pholis/fLipPho2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lipophrys_pholis/fLipPho2/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-2_scale: 1.3713
+data_pacbiohifi_bam-2_scale: 1.3711
 data_pacbiohifi_bam_bases: 8.47 Gbp
 data_pacbiohifi_bam_bytes: 5.8 GiB
 data_pacbiohifi_bam_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
-last_raw_data: 1651599569
+last_raw_data: 1675845395
 last_updated: 1675845395
 name: Lipophrys pholis
 name_: Lipophrys_pholis

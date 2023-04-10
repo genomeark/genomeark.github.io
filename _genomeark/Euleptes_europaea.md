@@ -21,7 +21,27 @@ data_bionano-1_scale: 520.0868
 data_bionano_bases: N/A
 data_bionano_bytes: 880.0 MiB
 data_bionano_coverage: 189.47x
-data_status: '<em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_bam-1_bases: 48.38 Gbp
+data_pacbiohifi_bam-1_bytes: 169.6 GiB
+data_pacbiohifi_bam-1_coverage: 19.10x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Euleptes_europaea/rEulEur1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2656
+data_pacbiohifi_bam_bases: 48.38 Gbp
+data_pacbiohifi_bam_bytes: 169.6 GiB
+data_pacbiohifi_bam_coverage: 19.10x
+data_pacbiohifi_fagz-1_bases: 20.60 Gbp
+data_pacbiohifi_fagz-1_bytes: 21.7 GiB
+data_pacbiohifi_fagz-1_coverage: 8.13x
+data_pacbiohifi_fagz-1_links: s3://genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/pacbiohifi_fagz/<br>
+data_pacbiohifi_fagz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/pacbiohifi_fagz/
+data_pacbiohifi_fagz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Euleptes_europaea/rEulEur1/genomic_data/pacbiohifi_fagz/
+data_pacbiohifi_fagz-1_scale: 0.8860
+data_pacbiohifi_fagz_bases: 20.60 Gbp
+data_pacbiohifi_fagz_bytes: 21.7 GiB
+data_pacbiohifi_fagz_coverage: 8.13x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 2533000000
 genome_size_display: 2.53 Gbp
 genome_size_method: GoAT
@@ -83,7 +103,7 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
-last_raw_data: 1641846307
+last_raw_data: 1658863208
 last_updated: 1675974730
 mito1date: 2022-11-21
 mito1filesize: 5.0 KiB

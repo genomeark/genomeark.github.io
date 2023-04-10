@@ -75,7 +75,6 @@ genbank_alt: bSylAtr1:GCA_009819715.1
 genbank_pri: bSylAtr1:GCA_009819655.1
 genome_size: 1090000000
 genome_size_display: 1.09 Gbp
-genome_size_method: null
 last_raw_data: 1562675508
 last_updated: 1568927405
 name: Sylvia atricapilla

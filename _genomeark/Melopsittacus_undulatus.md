@@ -63,7 +63,6 @@ genbank_mat: bMelUnd1:GCA_012275265.1
 genbank_pat: bMelUnd1:GCA_012275275.1
 genome_size: 1230000000
 genome_size_display: 1.23 Gbp
-genome_size_method: null
 last_raw_data: 1567193616
 last_updated: 1582729616
 mat1date: 2019-08-30

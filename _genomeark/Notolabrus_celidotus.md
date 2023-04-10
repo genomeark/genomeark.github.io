@@ -75,7 +75,6 @@ genbank_alt: fNotCel1:GCA_009762545.1
 genbank_pri: fNotCel1:GCA_009762535.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
-genome_size_method: null
 last_raw_data: 1570122122
 last_updated: 1587251203
 mito1date: 2019-12-14

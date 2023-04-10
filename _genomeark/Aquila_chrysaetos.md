@@ -106,7 +106,7 @@ mito1sizes: |
   </tfoot>
   </table>
 mito1version: assembly_MT_rockefeller
-name: Aquila chrysaetos chrysaetos
+name: Aquila chrysaetos
 name_: Aquila_chrysaetos
 pri1date: 2019-07-02
 pri1filesize: 352.1 MiB

@@ -75,7 +75,6 @@ genbank_alt: bMerNub1:GCA_009819585.1
 genbank_pri: bMerNub1:GCA_009819595.1
 genome_size: 1300000000
 genome_size_display: 1.30 Gbp
-genome_size_method: null
 last_raw_data: 1568491387
 last_updated: 1569703895
 mito1date: 2019-09-18

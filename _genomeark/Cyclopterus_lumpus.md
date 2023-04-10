@@ -75,7 +75,6 @@ genbank_alt: fCycLum1:GCA_009769515.1
 genbank_pri: fCycLum1:GCA_009769545.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
-genome_size_method: null
 last_raw_data: 1565031189
 last_updated: 1570816797
 mito1date: 2019-10-02

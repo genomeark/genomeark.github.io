@@ -77,5 +77,5 @@ mito2version: assembly_MT_rockefeller
 name: Passerculus sandwichensis
 name_: Passerculus_sandwichensis
 short_name: bPasSan
-taxon_id: '161624'
+taxon_id: 161624
 ---

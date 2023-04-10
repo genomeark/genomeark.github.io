@@ -66,9 +66,10 @@ data_pacbio_bases: 176.38 Gbp
 data_pacbio_bytes: 304.8 GiB
 data_pacbio_coverage: 69.99x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+genbank_mat: aDenEbr1:GCA_027789725.1
+genbank_pat: aDenEbr1:GCA_027789765.1
 genome_size: 2520000000
 genome_size_display: 2.52 Gbp
-genome_size_method: null
 last_raw_data: 1594747600
 last_updated: 1639763707
 mat1date: 2021-12-17

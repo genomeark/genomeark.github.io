@@ -71,6 +71,8 @@ data_pacbio_bases: 929.36 Gbp
 data_pacbio_bytes: 1.6 TiB
 data_pacbio_coverage: 92.75x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+genbank_alt: aBomBom1:GCA_027579415.1
+genbank_pri: aBomBom1:GCA_027579735.1
 genome_size: 10019663791
 genome_size_display: 10.02 Gbp
 last_raw_data: 1620809015

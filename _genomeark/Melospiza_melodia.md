@@ -65,5 +65,5 @@ mito2version: assembly_MT_rockefeller
 name: Melospiza melodia
 name_: Melospiza_melodia
 short_name: bMelMel
-taxon_id: '44397'
+taxon_id: 44397
 ---

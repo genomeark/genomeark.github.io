@@ -10,7 +10,27 @@ data_arima-1_scale: 1.9951
 data_arima_bases: 172.58 Gbp
 data_arima_bytes: 80.6 GiB
 data_arima_coverage: N/A
-data_status: '<em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_bam-1_bases: 91.66 Gbp
+data_pacbiohifi_bam-1_bytes: 292.7 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Pelobates_fuscus/aPelFus1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pelobates_fuscus/aPelFus1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pelobates_fuscus/aPelFus1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2916
+data_pacbiohifi_bam_bases: 91.66 Gbp
+data_pacbiohifi_bam_bytes: 292.7 GiB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_dcfqgz-1_bases: 105.69 Gbp
+data_pacbiohifi_dcfqgz-1_bytes: 56.0 GiB
+data_pacbiohifi_dcfqgz-1_coverage: N/A
+data_pacbiohifi_dcfqgz-1_links: s3://genomeark/species/Pelobates_fuscus/aPelFus1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_dcfqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pelobates_fuscus/aPelFus1/genomic_data/pacbio_hifi/
+data_pacbiohifi_dcfqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pelobates_fuscus/aPelFus1/genomic_data/pacbio_hifi/
+data_pacbiohifi_dcfqgz-1_scale: 1.7586
+data_pacbiohifi_dcfqgz_bases: 105.69 Gbp
+data_pacbiohifi_dcfqgz_bytes: 56.0 GiB
+data_pacbiohifi_dcfqgz_coverage: N/A
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
 hpa1date: 2023-03-08
 hpa1filesize: 1.0 GiB
@@ -72,6 +92,35 @@ hpb1sizes: |
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1678196162
 last_updated: 1678294530
+mito1date: 2023-03-08
+mito1filesize: 5.4 KiB
+mito1length: 17638
+mito1n50ctg: 17638
+mito1n50scf: 17638
+mito1seq: https://s3.amazonaws.com/genomeark/species/Pelobates_fuscus/aPelFus1/assembly_vgp_HiC_2.0/aPelFus1.mito.20230308.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 17.64 Kbp </td><td> 1 </td><td> 17.64 Kbp </td></tr>  <tr><td> 20 </td><td> 1 </td><td> 17.64 Kbp </td><td> 1 </td><td> 17.64 Kbp </td></tr>  <tr><td> 30 </td><td> 1 </td><td> 17.64 Kbp </td><td> 1 </td><td> 17.64 Kbp </td></tr>  <tr><td> 40 </td><td> 1 </td><td> 17.64 Kbp </td><td> 1 </td><td> 17.64 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 17.64 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 17.64 Kbp </td></tr>  <tr><td> 60 </td><td> 1 </td><td> 17.64 Kbp </td><td> 1 </td><td> 17.64 Kbp </td></tr>  <tr><td> 70 </td><td> 1 </td><td> 17.64 Kbp </td><td> 1 </td><td> 17.64 Kbp </td></tr>  <tr><td> 80 </td><td> 1 </td><td> 17.64 Kbp </td><td> 1 </td><td> 17.64 Kbp </td></tr>  <tr><td> 90 </td><td> 1 </td><td> 17.64 Kbp </td><td> 1 </td><td> 17.64 Kbp </td></tr>  <tr><td> 100 </td><td> 1 </td><td> 17.64 Kbp </td><td> 1 </td><td> 17.64 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 17.64 Kbp </th><th> 1 </th><th> 17.64 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_vgp_HiC_2.0
 name: Pelobates fuscus
 name_: Pelobates_fuscus
 short_name: aPelFus

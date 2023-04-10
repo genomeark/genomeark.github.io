@@ -71,9 +71,10 @@ data_pacbio_bases: 334.12 Gbp
 data_pacbio_bytes: 591.9 GiB
 data_pacbio_coverage: 115.21x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+genbank_alt: mEreDor1:GCA_028500835.1
+genbank_pri: mEreDor1:GCA_028451465.1
 genome_size: 2900000000
 genome_size_display: 2.90 Gbp
-genome_size_method: null
 last_raw_data: 1627391464
 last_updated: 1674233374
 mito1date: 2021-07-27

@@ -14,7 +14,6 @@ data_bionano_coverage: 1652.13x
 data_status: '<em style="color:maroon">No data</em>'
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
-genome_size_method: null
 last_raw_data: 1538676017
 last_updated: 1538676017
 name: Amphilophus labiatus

@@ -75,7 +75,6 @@ genbank_alt: sPriPec2:GCA_009764485.1
 genbank_pri: sPriPec2:GCA_009764475.2
 genome_size: 2800000000
 genome_size_display: 2.80 Gbp
-genome_size_method: null
 last_raw_data: 1566356326
 last_updated: 1608058951
 mito2date: 2019-08-21

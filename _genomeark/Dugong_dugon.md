@@ -10,7 +10,17 @@ data_dovetail-1_scale: 1.5731
 data_dovetail_bases: 137.26 Gbp
 data_dovetail_bytes: 81.3 GiB
 data_dovetail_coverage: N/A
-data_status: '<em style="color:forestgreen">Dovetail</em>'
+data_pacbiohifi_fqgz-1_bases: 103.45 Gbp
+data_pacbiohifi_fqgz-1_bytes: 74.1 GiB
+data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Dugong_dugon/mDugDug1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dugong_dugon/mDugDug1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dugong_dugon/mDugDug1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.3002
+data_pacbiohifi_fqgz_bases: 103.45 Gbp
+data_pacbiohifi_fqgz_bytes: 74.1 GiB
+data_pacbiohifi_fqgz_coverage: N/A
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genome_size: 0
 hpa1date: 2023-02-04
 hpa1filesize: 0.9 GiB

@@ -75,7 +75,6 @@ genbank_alt: bPluApr1:GCA_017639475.1
 genbank_pri: bPluApr1:GCA_017639485.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
-genome_size_method: null
 last_raw_data: 1583337100
 last_updated: 1595946718
 mito1date: 2019-12-05

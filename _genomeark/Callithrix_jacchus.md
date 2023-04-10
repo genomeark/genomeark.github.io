@@ -63,7 +63,6 @@ genbank_mat: mCalJac1:GCA_011078405.1
 genbank_pat: mCalJac1:GCA_011100535.2
 genome_size: 3430000000
 genome_size_display: 3.43 Gbp
-genome_size_method: null
 last_raw_data: 1561760568
 last_updated: 1634138099
 mat1date: 2020-02-12

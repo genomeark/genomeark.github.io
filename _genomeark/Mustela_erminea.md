@@ -75,7 +75,6 @@ genbank_alt: mMusErm1:GCA_009829165.1
 genbank_pri: mMusErm1:GCA_009829155.1
 genome_size: 3080000000
 genome_size_display: 3.08 Gbp
-genome_size_method: null
 last_raw_data: 1565693768
 last_updated: 1571322017
 mito1date: 2019-10-03

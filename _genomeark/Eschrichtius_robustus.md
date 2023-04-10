@@ -51,6 +51,8 @@ data_pacbiohifi_fqgz_bases: 84.99 Gbp
 data_pacbiohifi_fqgz_bytes: 64.4 GiB
 data_pacbiohifi_fqgz_coverage: 29.61x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
+genbank_alt: mEscRob2:GCA_028021475.1
+genbank_pri: mEscRob2:GCA_028021215.1
 genome_size: 2870000000
 genome_size_display: 2.87 Gbp
 genome_size_method: GoaT ancestral inferred
