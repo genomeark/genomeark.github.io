@@ -10,12 +10,10 @@ permalink: /
   //  Generate a list of species images we know about, and randomize.
   function initRandomImages() {
       {% for file in site.static_files %}
-        {% if file.path contains 'assets/images' %}
-        {% if file.extname == '.jpg' %}
+        {% if file.path contains 'assets/images' and file.extname == '.jpg' and file.basename != 'no-image' %}
           {% assign components = file.path | split: "/" %}
           {% assign species    = components | last | replace: file.extname,"" %}
           images.push("{{ species }}");
-        {% endif %}
         {% endif %}
       {% endfor %}
 
