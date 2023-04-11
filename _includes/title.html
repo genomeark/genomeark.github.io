@@ -1,0 +1,2 @@
+    {% comment %} Used for shared title tag nested in head tags in layouts {% endcomment %}
+    <title>{{ site.name }}{%if page.subtitle %} - {{ page.subtitle }}{% endif %}{%if page.use_name_for_title %} - {{ page.name }}{% elsif page.title %} - {{ page.title }}{% endif %}</title>

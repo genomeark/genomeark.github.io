@@ -1,0 +1,12 @@
+    {% comment %} Used for the default footer in layouts {% endcomment %}
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include svg-icons.html %}
+          {% if page.last_updated %}
+          <br>
+          Page last updated {{ page.last_updated | date: "%-d %B %Y" }}
+          {% endif %}
+        </footer>
+      </div>
+    </div>
