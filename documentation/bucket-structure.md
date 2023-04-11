@@ -314,11 +314,13 @@ Older projects can also include the following legacy data.
                   ├── {genome_id}.pri.cur.YYYYMMDD.agp            Chromosome assignments for {genome_id}.pri.cur.YYYYMMDD.fasta.gz
                   └── {genome_id}.pri.cur.YYYYMMDD.MT.fasta.gz    Mitochondrial genome assembly (optional)
   ```
-It is accecptable to name the directory `assembly_curated{suffix}`, where the
+It is acceptable to name the directory `assembly_curated{suffix}`, where the
 suffix is an underscore followed by some informative string. This can be useful
 when more than 1 assemblies were curated so that they can be easily
-easily differentiated from eachother. Examples of informative strings are the
+easily differentiated from each other. Examples of informative strings are the
 location or institution that generated the assembly, a version, or a date.
+
+The following specifications for assembly folders apply to the VGP pipeline version 2.0 assemblies. For more information about version 1.0 assemblies, please see the previous documentation.
 
 ### Uncurated Assemblies
   ```
@@ -326,7 +328,7 @@ location or institution that generated the assembly, a version, or a date.
   └── species/
       └── {Genus_species}/
           └── {ToLID}/
-              └── assembly_{pipeline}_{ver}/     (pipeline: vgp_standard, cambridge, ...)
+              └── assembly_{pipeline}_{ver}/     (pipeline: vgp_standard, vgp_HiC, vgp_trio, cambridge, ...)
                   ├── intermediates/
                   │   ├── falcon_unzip/                            FALCON unzip intermediate files
                   │   ├── purge_haplotigs/                         purge_haplotigs intermediate files
@@ -351,7 +353,87 @@ location or institution that generated the assembly, a version, or a date.
                   └── {genome_id}.alt.asm.YYYYMMDD.fasta.gz        Final assembly (alternate haplotigs)
   ```
 
-#### Detailed intermediate assembly names and rules for v1
+vgp_standard_2.0 (primary/alternate)
+
+  ```
+  └── species
+    └── {Genus_species}
+        └── {ToLID}
+            └── assembly_{pipeline}_{ver}
+                ├── evaluation
+                │   ├── busco
+                │   │   ├── c
+                │   │   │   ├── {genome_id}_busco_full_table.tab
+                │   │   │   ├── {genome_id}_busco_image.png
+                │   │   │   ├── {genome_id}_busco_missing_buscos.tab
+                │   │   │   └── {genome_id}_busco_short_summary.txt
+                │   │   └── s1
+                │   │       ├── {genome_id}_busco_full_table.tab
+                │   │       ├── {genome_id}_busco_image.png
+                │   │       ├── {genome_id}_busco_missing_buscos.tab
+                │   │       └── {genome_id}_busco_short_summary.txt
+                │   ├── genomescope
+                │   │   ├── {genome_id}_genomescope__Linear_Plot.png
+                │   │   ├── {genome_id}_genomescope__Log_Plot.png
+                │   │   ├── {genome_id}_genomescope__Model.txt
+                │   │   ├── {genome_id}_genomescope__Model_parameters.tsv
+                │   │   ├── {genome_id}_genomescope__Summary.txt
+                │   │   ├── {genome_id}_genomescope__Transformed_Linear_Plot.png
+                │   │   └── {genome_id}_genomescope__Transformed_Log_Plot.png
+                │   ├── gfastats
+                │   │   ├── c
+                │   │   │   ├── {genome_id}_alt.tab
+                │   │   │   └── {genome_id}_prim.tab
+                │   │   ├── s1
+                │   │   │   └── {genome_id}_.tab
+                │   │   └── s2
+                │   │       └── {genome_id}.tab
+                │   ├── merqury
+                │   │   ├── {genome_id}_png
+                │   │   │   ├── output_merqury.assembly_[01,02].spectra-cn.[fl,ln,st].png
+                │   │   │   ├── output_merqury.spectra-asm.[fl,ln,st].png
+                │   │   │   └── output_merqury.spectra-cn.[fl,ln,st].png
+                │   │   ├── {genome_id}_qv
+                │   │   │   ├── otput_merqury.assembly_[01,02].tabular
+                │   │   │   └── otput_merqury.tabular
+                │   │   └── {genome_id}_stats
+                │   │       └── output_merqury.completeness.tabular
+                │   └── pretext
+                │       ├── {genome_id}__s1.bed
+                │       ├── {genome_id}__s1.heatmap.png
+                │       ├── {genome_id}__s1.heatmap.pretext
+                │       ├── {genome_id}__s2.bed
+                │       ├── {genome_id}__s2.heatmap.png
+                │       └── {genome_id}__s2.heatmap.pretext
+                ├── intermediates
+                │   ├── bionano
+                │   │   ├── {genome_id}_NGS_contigs_not_scaffolded_NCBI_trimmed.fasta.gz
+                │   │   ├── {genome_id}_NGS_contigs_scaffold_NCBI_trimmed.fasta.gz
+                │   │   ├── {genome_id}_conflicts.txt
+                │   │   ├── {genome_id}_hybrid_scaffold_report.txt
+                │   │   └── {genome_id}_s1_AGP.agp
+                │   ├── hifiasm
+                │   │   ├── {genome_id}_alternate_assembly_contig_graph.gfa.gz
+                │   │   ├── {genome_id}_haplotype_resolved_processed_unitig_graph.gfa.gz
+                │   │   ├── {genome_id}_haplotype_resolved_raw_unitig_graph.gfa.gz
+                │   │   └── {genome_id}_primary_assembly_contig_graph.gfa.gz
+                │   ├── {genome_id}_c1.fasta.gz
+                │   ├── {genome_id}_c2.fasta.gz
+                │   ├── {genome_id}_p1.fasta.gz
+                │   ├── {genome_id}_q2.fasta.gz
+                │   ├── {genome_id}_s1.fasta.gz
+                │   ├── meryl
+                │   │   └── {genome_id}_.meryldb.tar.gz
+                │   └── yahs
+                │       ├── {genome_id}_{genome_id}_s2.agp
+                │       └── {genome_id}_{genome_id}_s2.log
+                ├── {genome_id}.standard.alt.YYYYMMDD.fasta.gz
+                ├── {genome_id}.standard.pri.YYYYMMDD.fasta.gz
+                └── {genome_id}.yml
+  ```
+
+
+#### Detailed intermediate assembly names and rules for v2
 
 | intermediate_name	| full_verbal | description |
 |:------------- | :---------- | :-----------|
@@ -381,5 +463,5 @@ location or institution that generated the assembly, a version, or a date.
 It is accecptable to name the directory `assembly_MT{suffix}`, where the suffix
 is an underscore followed by some informative string. This can be useful when
 more than 1 mitochondrial assemblies were generated so that they can be easily
-differentiated from eachother. Examples of informative strings are the location
+differentiated from each other. Examples of informative strings are the location
 or institution that generated the assembly, a version, or a date.
