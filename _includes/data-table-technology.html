@@ -228,6 +228,1302 @@
 
 {% assign rs = 0 %}
 
+{% if page.data_pacbio_fqgz-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fqgz-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fqgz-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fqgz-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fqgz-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fqgz-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fqgz-7_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fqgz-8_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fqgz-9_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+
+{% if rs > 0 %}
+  {% assign first = true %}
+
+  {% if page.data_pacbio_fqgz-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fq)</td>
+          <td class="label">{{ page.short_name }}1</td>
+          <td>{{ page.data_pacbio_fqgz-1_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-1_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}1</td>
+          <td>{{ page.data_pacbio_fqgz-1_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-1_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fqgz-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fq)</td>
+          <td class="label">{{ page.short_name }}2</td>
+          <td>{{ page.data_pacbio_fqgz-2_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-2_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}2</td>
+          <td>{{ page.data_pacbio_fqgz-2_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-2_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fqgz-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fq)</td>
+          <td class="label">{{ page.short_name }}3</td>
+          <td>{{ page.data_pacbio_fqgz-3_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-3_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}3</td>
+          <td>{{ page.data_pacbio_fqgz-3_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-3_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fqgz-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fq)</td>
+          <td class="label">{{ page.short_name }}4</td>
+          <td>{{ page.data_pacbio_fqgz-4_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-4_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}4</td>
+          <td>{{ page.data_pacbio_fqgz-4_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-4_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fqgz-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fq)</td>
+          <td class="label">{{ page.short_name }}5</td>
+          <td>{{ page.data_pacbio_fqgz-5_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-5_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}5</td>
+          <td>{{ page.data_pacbio_fqgz-5_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-5_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fqgz-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fq)</td>
+          <td class="label">{{ page.short_name }}6</td>
+          <td>{{ page.data_pacbio_fqgz-6_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-6_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}6</td>
+          <td>{{ page.data_pacbio_fqgz-6_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-6_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fqgz-7_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fq)</td>
+          <td class="label">{{ page.short_name }}7</td>
+          <td>{{ page.data_pacbio_fqgz-7_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-7_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-7_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-7_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-7_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}7</td>
+          <td>{{ page.data_pacbio_fqgz-7_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-7_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-7_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-7_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-7_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fqgz-8_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fq)</td>
+          <td class="label">{{ page.short_name }}8</td>
+          <td>{{ page.data_pacbio_fqgz-8_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-8_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-8_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-8_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-8_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}8</td>
+          <td>{{ page.data_pacbio_fqgz-8_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-8_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-8_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-8_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-8_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fqgz-9_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fq)</td>
+          <td class="label">{{ page.short_name }}9</td>
+          <td>{{ page.data_pacbio_fqgz-9_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-9_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-9_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-9_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-9_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}9</td>
+          <td>{{ page.data_pacbio_fqgz-9_bases   }}</td>
+          <td>{{ page.data_pacbio_fqgz-9_coverage}}</td>
+          <td>{{ page.data_pacbio_fqgz-9_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fqgz-9_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fqgz-9_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+{% endif %}
+
+
+{% assign rs = 0 %}
+
+{% if page.data_pacbio_fagz-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fagz-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fagz-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fagz-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fagz-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fagz-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fagz-7_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fagz-8_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbio_fagz-9_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+
+{% if rs > 0 %}
+  {% assign first = true %}
+
+  {% if page.data_pacbio_fagz-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fa)</td>
+          <td class="label">{{ page.short_name }}1</td>
+          <td>{{ page.data_pacbio_fagz-1_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-1_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}1</td>
+          <td>{{ page.data_pacbio_fagz-1_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-1_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fagz-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fa)</td>
+          <td class="label">{{ page.short_name }}2</td>
+          <td>{{ page.data_pacbio_fagz-2_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-2_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}2</td>
+          <td>{{ page.data_pacbio_fagz-2_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-2_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fagz-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fa)</td>
+          <td class="label">{{ page.short_name }}3</td>
+          <td>{{ page.data_pacbio_fagz-3_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-3_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}3</td>
+          <td>{{ page.data_pacbio_fagz-3_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-3_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fagz-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fa)</td>
+          <td class="label">{{ page.short_name }}4</td>
+          <td>{{ page.data_pacbio_fagz-4_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-4_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}4</td>
+          <td>{{ page.data_pacbio_fagz-4_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-4_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fagz-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fa)</td>
+          <td class="label">{{ page.short_name }}5</td>
+          <td>{{ page.data_pacbio_fagz-5_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-5_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}5</td>
+          <td>{{ page.data_pacbio_fagz-5_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-5_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fagz-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fa)</td>
+          <td class="label">{{ page.short_name }}6</td>
+          <td>{{ page.data_pacbio_fagz-6_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-6_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}6</td>
+          <td>{{ page.data_pacbio_fagz-6_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-6_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fagz-7_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fa)</td>
+          <td class="label">{{ page.short_name }}7</td>
+          <td>{{ page.data_pacbio_fagz-7_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-7_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-7_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-7_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-7_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}7</td>
+          <td>{{ page.data_pacbio_fagz-7_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-7_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-7_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-7_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-7_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fagz-8_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fa)</td>
+          <td class="label">{{ page.short_name }}8</td>
+          <td>{{ page.data_pacbio_fagz-8_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-8_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-8_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-8_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-8_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}8</td>
+          <td>{{ page.data_pacbio_fagz-8_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-8_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-8_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-8_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-8_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbio_fagz-9_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio CLR (.fa)</td>
+          <td class="label">{{ page.short_name }}9</td>
+          <td>{{ page.data_pacbio_fagz-9_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-9_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-9_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-9_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-9_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}9</td>
+          <td>{{ page.data_pacbio_fagz-9_bases   }}</td>
+          <td>{{ page.data_pacbio_fagz-9_coverage}}</td>
+          <td>{{ page.data_pacbio_fagz-9_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbio_fagz-9_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbio_fagz-9_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+{% endif %}
+
+
+{% assign rs = 0 %}
+
+{% if page.data_pacbiohifi_clr-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_clr-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_clr-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_clr-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_clr-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_clr-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_clr-7_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_clr-8_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_clr-9_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+
+{% if rs > 0 %}
+  {% assign first = true %}
+
+  {% if page.data_pacbiohifi_clr-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (subreads)</td>
+          <td class="label">{{ page.short_name }}1</td>
+          <td>{{ page.data_pacbiohifi_clr-1_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-1_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}1</td>
+          <td>{{ page.data_pacbiohifi_clr-1_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-1_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_clr-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (subreads)</td>
+          <td class="label">{{ page.short_name }}2</td>
+          <td>{{ page.data_pacbiohifi_clr-2_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-2_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}2</td>
+          <td>{{ page.data_pacbiohifi_clr-2_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-2_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_clr-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (subreads)</td>
+          <td class="label">{{ page.short_name }}3</td>
+          <td>{{ page.data_pacbiohifi_clr-3_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-3_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}3</td>
+          <td>{{ page.data_pacbiohifi_clr-3_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-3_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_clr-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (subreads)</td>
+          <td class="label">{{ page.short_name }}4</td>
+          <td>{{ page.data_pacbiohifi_clr-4_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-4_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}4</td>
+          <td>{{ page.data_pacbiohifi_clr-4_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-4_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_clr-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (subreads)</td>
+          <td class="label">{{ page.short_name }}5</td>
+          <td>{{ page.data_pacbiohifi_clr-5_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-5_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}5</td>
+          <td>{{ page.data_pacbiohifi_clr-5_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-5_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_clr-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (subreads)</td>
+          <td class="label">{{ page.short_name }}6</td>
+          <td>{{ page.data_pacbiohifi_clr-6_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-6_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}6</td>
+          <td>{{ page.data_pacbiohifi_clr-6_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-6_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_clr-7_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (subreads)</td>
+          <td class="label">{{ page.short_name }}7</td>
+          <td>{{ page.data_pacbiohifi_clr-7_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-7_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-7_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-7_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-7_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}7</td>
+          <td>{{ page.data_pacbiohifi_clr-7_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-7_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-7_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-7_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-7_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_clr-8_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (subreads)</td>
+          <td class="label">{{ page.short_name }}8</td>
+          <td>{{ page.data_pacbiohifi_clr-8_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-8_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-8_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-8_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-8_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}8</td>
+          <td>{{ page.data_pacbiohifi_clr-8_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-8_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-8_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-8_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-8_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_clr-9_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (subreads)</td>
+          <td class="label">{{ page.short_name }}9</td>
+          <td>{{ page.data_pacbiohifi_clr-9_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-9_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-9_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-9_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-9_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}9</td>
+          <td>{{ page.data_pacbiohifi_clr-9_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_clr-9_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_clr-9_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_clr-9_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_clr-9_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+{% endif %}
+
+
+{% assign rs = 0 %}
+
+{% if page.data_pacbiohifi_dcgqfz-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_dcgqfz-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_dcgqfz-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_dcgqfz-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_dcgqfz-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_dcgqfz-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_dcgqfz-7_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_dcgqfz-8_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_dcgqfz-9_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+
+{% if rs > 0 %}
+  {% assign first = true %}
+
+  {% if page.data_pacbiohifi_dcgqfz-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label"></td>
+          <td class="label">{{ page.short_name }}1</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-1_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-1_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}1</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-1_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-1_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_dcgqfz-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label"></td>
+          <td class="label">{{ page.short_name }}2</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-2_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-2_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}2</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-2_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-2_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_dcgqfz-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label"></td>
+          <td class="label">{{ page.short_name }}3</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-3_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-3_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}3</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-3_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-3_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_dcgqfz-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label"></td>
+          <td class="label">{{ page.short_name }}4</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-4_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-4_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}4</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-4_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-4_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_dcgqfz-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label"></td>
+          <td class="label">{{ page.short_name }}5</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-5_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-5_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}5</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-5_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-5_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_dcgqfz-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label"></td>
+          <td class="label">{{ page.short_name }}6</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-6_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-6_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}6</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-6_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-6_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_dcgqfz-7_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label"></td>
+          <td class="label">{{ page.short_name }}7</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-7_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-7_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-7_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-7_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-7_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}7</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-7_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-7_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-7_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-7_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-7_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_dcgqfz-8_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label"></td>
+          <td class="label">{{ page.short_name }}8</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-8_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-8_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-8_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-8_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-8_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}8</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-8_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-8_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-8_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-8_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-8_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_dcgqfz-9_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label"></td>
+          <td class="label">{{ page.short_name }}9</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-9_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-9_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-9_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-9_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-9_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}9</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-9_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-9_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_dcgqfz-9_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_dcgqfz-9_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_dcgqfz-9_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+{% endif %}
+
+
+{% assign rs = 0 %}
+
+{% if page.data_pacbiohifi_q2fqgz-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_q2fqgz-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_q2fqgz-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_q2fqgz-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_q2fqgz-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_q2fqgz-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_q2fqgz-7_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_q2fqgz-8_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_q2fqgz-9_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+
+{% if rs > 0 %}
+  {% assign first = true %}
+
+  {% if page.data_pacbiohifi_q2fqgz-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td class="label">{{ page.short_name }}1</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-1_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-1_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}1</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-1_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-1_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_q2fqgz-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td class="label">{{ page.short_name }}2</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-2_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-2_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}2</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-2_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-2_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_q2fqgz-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td class="label">{{ page.short_name }}3</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-3_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-3_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}3</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-3_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-3_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_q2fqgz-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td class="label">{{ page.short_name }}4</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-4_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-4_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}4</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-4_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-4_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_q2fqgz-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td class="label">{{ page.short_name }}5</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-5_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-5_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}5</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-5_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-5_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_q2fqgz-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td class="label">{{ page.short_name }}6</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-6_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-6_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}6</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-6_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-6_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_q2fqgz-7_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td class="label">{{ page.short_name }}7</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-7_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-7_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-7_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-7_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-7_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}7</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-7_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-7_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-7_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-7_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-7_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_q2fqgz-8_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td class="label">{{ page.short_name }}8</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-8_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-8_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-8_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-8_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-8_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}8</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-8_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-8_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-8_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-8_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-8_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_q2fqgz-9_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td class="label">{{ page.short_name }}9</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-9_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-9_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-9_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-9_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-9_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}9</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-9_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-9_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_q2fqgz-9_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_q2fqgz-9_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_q2fqgz-9_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+{% endif %}
+
+
+{% assign rs = 0 %}
+
+{% if page.data_pacbiohifi_fagz-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_fagz-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_fagz-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_fagz-4_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_fagz-5_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_fagz-6_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_fagz-7_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_fagz-8_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+{% if page.data_pacbiohifi_fagz-9_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
+
+{% if rs > 0 %}
+  {% assign first = true %}
+
+  {% if page.data_pacbiohifi_fagz-1_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fa)</td>
+          <td class="label">{{ page.short_name }}1</td>
+          <td>{{ page.data_pacbiohifi_fagz-1_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-1_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}1</td>
+          <td>{{ page.data_pacbiohifi_fagz-1_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-1_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-1_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-1_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-1_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_fagz-2_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fa)</td>
+          <td class="label">{{ page.short_name }}2</td>
+          <td>{{ page.data_pacbiohifi_fagz-2_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-2_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}2</td>
+          <td>{{ page.data_pacbiohifi_fagz-2_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-2_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-2_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-2_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-2_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_fagz-3_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fa)</td>
+          <td class="label">{{ page.short_name }}3</td>
+          <td>{{ page.data_pacbiohifi_fagz-3_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-3_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}3</td>
+          <td>{{ page.data_pacbiohifi_fagz-3_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-3_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-3_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-3_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-3_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_fagz-4_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fa)</td>
+          <td class="label">{{ page.short_name }}4</td>
+          <td>{{ page.data_pacbiohifi_fagz-4_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-4_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}4</td>
+          <td>{{ page.data_pacbiohifi_fagz-4_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-4_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-4_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-4_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-4_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_fagz-5_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fa)</td>
+          <td class="label">{{ page.short_name }}5</td>
+          <td>{{ page.data_pacbiohifi_fagz-5_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-5_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}5</td>
+          <td>{{ page.data_pacbiohifi_fagz-5_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-5_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-5_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-5_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-5_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_fagz-6_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fa)</td>
+          <td class="label">{{ page.short_name }}6</td>
+          <td>{{ page.data_pacbiohifi_fagz-6_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-6_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}6</td>
+          <td>{{ page.data_pacbiohifi_fagz-6_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-6_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-6_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-6_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-6_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_fagz-7_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fa)</td>
+          <td class="label">{{ page.short_name }}7</td>
+          <td>{{ page.data_pacbiohifi_fagz-7_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-7_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-7_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-7_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-7_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}7</td>
+          <td>{{ page.data_pacbiohifi_fagz-7_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-7_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-7_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-7_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-7_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_fagz-8_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fa)</td>
+          <td class="label">{{ page.short_name }}8</td>
+          <td>{{ page.data_pacbiohifi_fagz-8_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-8_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-8_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-8_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-8_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}8</td>
+          <td>{{ page.data_pacbiohifi_fagz-8_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-8_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-8_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-8_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-8_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+  {% if page.data_pacbiohifi_fagz-9_bytes %}
+    {% if first %}
+      {% assign first = false %}
+      <tr class="raw-data-toprow">
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fa)</td>
+          <td class="label">{{ page.short_name }}9</td>
+          <td>{{ page.data_pacbiohifi_fagz-9_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-9_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-9_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-9_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-9_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% else %}
+      <tr>
+          <td class="label">{{ page.short_name }}9</td>
+          <td>{{ page.data_pacbiohifi_fagz-9_bases   }}</td>
+          <td>{{ page.data_pacbiohifi_fagz-9_coverage}}</td>
+          <td>{{ page.data_pacbiohifi_fagz-9_bytes   }}</td>
+          <td><a title="Select files to download from S3." href="{{ page.data_pacbiohifi_fagz-9_s3url }}"><i class="svg-icon2 download"></i></a>
+              <a title="Preview files using 42basepairs.com." href="{{ page.data_pacbiohifi_fagz-9_s3gui }}"><i class="svg-icon2 view"></i></a></td></tr>
+    {% endif %}
+  {% endif %}
+
+{% endif %}
+
+
+{% assign rs = 0 %}
+
 {% if page.data_pacbiohifi_fqgz-1_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
 {% if page.data_pacbiohifi_fqgz-2_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
 {% if page.data_pacbiohifi_fqgz-3_bytes %}{% assign rs = rs | plus: 1 %}{% endif %}
@@ -245,7 +1541,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq)</td>
           <td class="label">{{ page.short_name }}1</td>
           <td>{{ page.data_pacbiohifi_fqgz-1_bases   }}</td>
           <td>{{ page.data_pacbiohifi_fqgz-1_coverage}}</td>
@@ -267,7 +1563,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq)</td>
           <td class="label">{{ page.short_name }}2</td>
           <td>{{ page.data_pacbiohifi_fqgz-2_bases   }}</td>
           <td>{{ page.data_pacbiohifi_fqgz-2_coverage}}</td>
@@ -289,7 +1585,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq)</td>
           <td class="label">{{ page.short_name }}3</td>
           <td>{{ page.data_pacbiohifi_fqgz-3_bases   }}</td>
           <td>{{ page.data_pacbiohifi_fqgz-3_coverage}}</td>
@@ -311,7 +1607,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq)</td>
           <td class="label">{{ page.short_name }}4</td>
           <td>{{ page.data_pacbiohifi_fqgz-4_bases   }}</td>
           <td>{{ page.data_pacbiohifi_fqgz-4_coverage}}</td>
@@ -333,7 +1629,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq)</td>
           <td class="label">{{ page.short_name }}5</td>
           <td>{{ page.data_pacbiohifi_fqgz-5_bases   }}</td>
           <td>{{ page.data_pacbiohifi_fqgz-5_coverage}}</td>
@@ -355,7 +1651,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq)</td>
           <td class="label">{{ page.short_name }}6</td>
           <td>{{ page.data_pacbiohifi_fqgz-6_bases   }}</td>
           <td>{{ page.data_pacbiohifi_fqgz-6_coverage}}</td>
@@ -377,7 +1673,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq)</td>
           <td class="label">{{ page.short_name }}7</td>
           <td>{{ page.data_pacbiohifi_fqgz-7_bases   }}</td>
           <td>{{ page.data_pacbiohifi_fqgz-7_coverage}}</td>
@@ -399,7 +1695,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq)</td>
           <td class="label">{{ page.short_name }}8</td>
           <td>{{ page.data_pacbiohifi_fqgz-8_bases   }}</td>
           <td>{{ page.data_pacbiohifi_fqgz-8_coverage}}</td>
@@ -421,7 +1717,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq, Q&ge;20)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.fq)</td>
           <td class="label">{{ page.short_name }}9</td>
           <td>{{ page.data_pacbiohifi_fqgz-9_bases   }}</td>
           <td>{{ page.data_pacbiohifi_fqgz-9_coverage}}</td>
@@ -461,7 +1757,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam)</td>
           <td class="label">{{ page.short_name }}1</td>
           <td>{{ page.data_pacbiohifi_bam-1_bases   }}</td>
           <td>{{ page.data_pacbiohifi_bam-1_coverage}}</td>
@@ -483,7 +1779,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam)</td>
           <td class="label">{{ page.short_name }}2</td>
           <td>{{ page.data_pacbiohifi_bam-2_bases   }}</td>
           <td>{{ page.data_pacbiohifi_bam-2_coverage}}</td>
@@ -505,7 +1801,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam)</td>
           <td class="label">{{ page.short_name }}3</td>
           <td>{{ page.data_pacbiohifi_bam-3_bases   }}</td>
           <td>{{ page.data_pacbiohifi_bam-3_coverage}}</td>
@@ -527,7 +1823,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam)</td>
           <td class="label">{{ page.short_name }}4</td>
           <td>{{ page.data_pacbiohifi_bam-4_bases   }}</td>
           <td>{{ page.data_pacbiohifi_bam-4_coverage}}</td>
@@ -549,7 +1845,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam)</td>
           <td class="label">{{ page.short_name }}5</td>
           <td>{{ page.data_pacbiohifi_bam-5_bases   }}</td>
           <td>{{ page.data_pacbiohifi_bam-5_coverage}}</td>
@@ -571,7 +1867,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam)</td>
           <td class="label">{{ page.short_name }}6</td>
           <td>{{ page.data_pacbiohifi_bam-6_bases   }}</td>
           <td>{{ page.data_pacbiohifi_bam-6_coverage}}</td>
@@ -593,7 +1889,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam)</td>
           <td class="label">{{ page.short_name }}7</td>
           <td>{{ page.data_pacbiohifi_bam-7_bases   }}</td>
           <td>{{ page.data_pacbiohifi_bam-7_coverage}}</td>
@@ -615,7 +1911,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam)</td>
           <td class="label">{{ page.short_name }}8</td>
           <td>{{ page.data_pacbiohifi_bam-8_bases   }}</td>
           <td>{{ page.data_pacbiohifi_bam-8_coverage}}</td>
@@ -637,7 +1933,7 @@
     {% if first %}
       {% assign first = false %}
       <tr class="raw-data-toprow">
-          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam, Q&ge;0)</td>
+          <td rowspan="{{ rs }}" class="label">PacBio HiFi (.bam)</td>
           <td class="label">{{ page.short_name }}9</td>
           <td>{{ page.data_pacbiohifi_bam-9_bases   }}</td>
           <td>{{ page.data_pacbiohifi_bam-9_coverage}}</td>
