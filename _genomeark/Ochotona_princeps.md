@@ -52,8 +52,8 @@ data_pacbiohifi_fqgz_bytes: 62.6 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 0
-last_raw_data: 1679716874
-last_updated: 1679716874
+last_raw_data: 1680895682
+last_updated: 1680895682
 mito1date: 2023-02-13
 mito1filesize: 5.4 KiB
 mito1length: 17227

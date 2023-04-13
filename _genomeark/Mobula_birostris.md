@@ -1,6 +1,36 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
-data_status: '<em style="color:maroon">No data</em>'
+data_arima-1_bases: 584.33 Gbp
+data_arima-1_bytes: 269.0 GiB
+data_arima-1_coverage: N/A
+data_arima-1_links: s3://genomeark/species/Mobula_birostris/sMobBir1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mobula_birostris/sMobBir1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mobula_birostris/sMobBir1/genomic_data/arima/
+data_arima-1_scale: 2.0230
+data_arima_bases: 584.33 Gbp
+data_arima_bytes: 269.0 GiB
+data_arima_coverage: N/A
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.6 GiB
+data_bionano-1_coverage: N/A
+data_bionano-1_links: s3://genomeark/species/Mobula_birostris/sMobBir1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mobula_birostris/sMobBir1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mobula_birostris/sMobBir1/genomic_data/bionano/
+data_bionano-1_scale: 643.5532
+data_bionano_bases: N/A
+data_bionano_bytes: 1.6 GiB
+data_bionano_coverage: N/A
+data_pacbiohifi_fqgz-1_bases: 112.85 Gbp
+data_pacbiohifi_fqgz-1_bytes: 85.0 GiB
+data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Mobula_birostris/sMobBir1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mobula_birostris/sMobBir1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mobula_birostris/sMobBir1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2359
+data_pacbiohifi_fqgz_bases: 112.85 Gbp
+data_pacbiohifi_fqgz_bytes: 85.0 GiB
+data_pacbiohifi_fqgz_coverage: N/A
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
 hpa1date: 2023-04-04
 hpa1filesize: 1.1 GiB
@@ -31,12 +61,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2023-04-04
+hpb1date: 2023-04-05
 hpb1filesize: 1.0 GiB
-hpb1length: 3638756682
+hpb1length: 3634101053
 hpb1n50ctg: 8612779
-hpb1n50scf: 65921733
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Mobula_birostris/sMobBir1/assembly_curated/sMobBir1.hap2.decon.20230404.fasta.gz
+hpb1n50scf: 152352395
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Mobula_birostris/sMobBir1/assembly_curated/sMobBir1.hap2.cur.20230405.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -54,13 +84,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 8 </td><td> 36.05 Mbp </td><td> 1 </td><td> 219.02 Mbp </td></tr>  <tr><td> 20 </td><td> 21 </td><td> 22.99 Mbp </td><td> 3 </td><td> 169.00 Mbp </td></tr>  <tr><td> 30 </td><td> 40 </td><td> 17.34 Mbp </td><td> 6 </td><td> 100.49 Mbp </td></tr>  <tr><td> 40 </td><td> 65 </td><td> 12.00 Mbp </td><td> 10 </td><td> 86.87 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 99 </td><td style="background-color:#88ff88;"> 8.61 Mbp </td><td> 15 </td><td style="background-color:#88ff88;"> 65.92 Mbp </td></tr>  <tr><td> 60 </td><td> 152 </td><td> 5.30 Mbp </td><td> 21 </td><td> 58.94 Mbp </td></tr>  <tr><td> 70 </td><td> 239 </td><td> 3.22 Mbp </td><td> 28 </td><td> 46.42 Mbp </td></tr>  <tr><td> 80 </td><td> 399 </td><td> 1.57 Mbp </td><td> 42 </td><td> 11.43 Mbp </td></tr>  <tr><td> 90 </td><td> 770 </td><td> 0.60 Mbp </td><td> 119 </td><td> 2.43 Mbp </td></tr>  <tr><td> 100 </td><td> 3302 </td><td> 1.30 Kbp </td><td> 1892 </td><td> 11.73 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 9 </td><td> 36.05 Mbp </td><td> 2 </td><td> 241.39 Mbp </td></tr>  <tr><td> 20 </td><td> 22 </td><td> 22.99 Mbp </td><td> 3 </td><td> 231.26 Mbp </td></tr>  <tr><td> 30 </td><td> 41 </td><td> 17.34 Mbp </td><td> 5 </td><td> 201.65 Mbp </td></tr>  <tr><td> 40 </td><td> 66 </td><td> 12.00 Mbp </td><td> 7 </td><td> 187.82 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 100 </td><td style="background-color:#88ff88;"> 8.61 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 152.35 Mbp </td></tr>  <tr><td> 60 </td><td> 153 </td><td> 5.30 Mbp </td><td> 12 </td><td> 113.28 Mbp </td></tr>  <tr><td> 70 </td><td> 239 </td><td> 3.22 Mbp </td><td> 16 </td><td> 76.22 Mbp </td></tr>  <tr><td> 80 </td><td> 399 </td><td> 1.57 Mbp </td><td> 22 </td><td> 63.89 Mbp </td></tr>  <tr><td> 90 </td><td> 768 </td><td> 0.61 Mbp </td><td> 28 </td><td> 46.42 Mbp </td></tr>  <tr><td> 100 </td><td> 3300 </td><td> 1.30 Kbp </td><td> 1558 </td><td> 11.73 Kbp </td></tr>  </tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 3303 </th><th> 3.58 Gbp </th><th> 1893 </th><th> 3.64 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 3300 </th><th> 3.58 Gbp </th><th> 1558 </th><th> 3.63 Gbp </th></tr>
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_updated: 1680566850
+last_raw_data: 1680815709
+last_updated: 1680815709
 name: Mobula birostris
 name_: Mobula_birostris
 short_name: sMobBir

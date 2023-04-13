@@ -23,7 +23,36 @@ data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 0
 last_raw_data: 1677017682
-last_updated: 1677017682
+last_updated: 1681226068
+mito2date: 2023-04-11
+mito2filesize: 4.9 KiB
+mito2length: 16690
+mito2n50ctg: 16690
+mito2n50scf: 16690
+mito2seq: https://s3.amazonaws.com/genomeark/species/Morus_bassanus/bMorBas2/assembly_MT_rockefeller/bMorBas2.MT.20230411.fasta.gz
+mito2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr>  <tr><td> 20 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr>  <tr><td> 30 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr>  <tr><td> 40 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.69 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.69 Kbp </td></tr>  <tr><td> 60 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr>  <tr><td> 70 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr>  <tr><td> 80 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr>  <tr><td> 90 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr>  <tr><td> 100 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr>  </tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.69 Kbp </th><th> 1 </th><th> 16.69 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito2version: assembly_MT_rockefeller
 name: Morus bassanus
 name_: Morus_bassanus
 short_name: bMorBas

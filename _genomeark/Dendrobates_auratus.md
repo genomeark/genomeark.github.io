@@ -69,8 +69,8 @@ data_pacbiohifi_fqgz_bytes: 144.0 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 0
-last_raw_data: 1679005164
-last_updated: 1679005164
+last_raw_data: 1680688097
+last_updated: 1680688097
 name: Dendrobates auratus
 name_: Dendrobates_auratus
 short_name: aDenAur

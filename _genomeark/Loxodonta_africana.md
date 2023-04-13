@@ -52,7 +52,7 @@ hpa1sizes: |
   </table>
 hpa1version: assembly_vgp_HiC_2.0
 hpb1date: 2022-12-09
-hpb1filesize: 1.0 GiB
+hpb1filesize: 0.9 GiB
 hpb1length: 3540909983
 hpb1n50ctg: 82653632
 hpb1n50scf: 119600562
@@ -81,7 +81,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1668446221
-last_updated: 1680184916
+last_updated: 1680720354
 mito1date: 2023-02-10
 mito1filesize: 5.3 KiB
 mito1length: 16847
