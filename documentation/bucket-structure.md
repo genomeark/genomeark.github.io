@@ -363,23 +363,13 @@ vgp_standard_2.0 (primary/alternate)
                 ├── evaluation
                 │   ├── busco
                 │   │   ├── c
-                │   │   │   ├── {genome_id}_busco_full_table.tab
-                │   │   │   ├── {genome_id}_busco_image.png
-                │   │   │   ├── {genome_id}_busco_missing_buscos.tab
-                │   │   │   └── {genome_id}_busco_short_summary.txt
+                │   │   │   └── {genome_id}_busco_[full_table.tab,missing_buscos.tab,busco_image.png,short_summary.txt]
                 │   │   └── s1
-                │   │       ├── {genome_id}_busco_full_table.tab
-                │   │       ├── {genome_id}_busco_image.png
-                │   │       ├── {genome_id}_busco_missing_buscos.tab
-                │   │       └── {genome_id}_busco_short_summary.txt
+                │   │       └── {genome_id}_busco_[full_table.tab,missing_buscos.tab,busco_image.png,short_summary.txt]
                 │   ├── genomescope
-                │   │   ├── {genome_id}_genomescope__Linear_Plot.png
-                │   │   ├── {genome_id}_genomescope__Log_Plot.png
-                │   │   ├── {genome_id}_genomescope__Model.txt
-                │   │   ├── {genome_id}_genomescope__Model_parameters.tsv
-                │   │   ├── {genome_id}_genomescope__Summary.txt
-                │   │   ├── {genome_id}_genomescope__Transformed_Linear_Plot.png
-                │   │   └── {genome_id}_genomescope__Transformed_Log_Plot.png
+                │   │   ├── {genome_id}_genomescope__[Linear,Log,Transformed_Linear,Transformed_Log]_Plot.png
+                │   │   ├── {genome_id}_genomescope__[Model,Summary].txt
+                │   │   └── {genome_id}_genomescope__Model_parameters.tsv
                 │   ├── gfastats
                 │   │   ├── c
                 │   │   │   ├── {genome_id}_alt.tab
@@ -400,11 +390,9 @@ vgp_standard_2.0 (primary/alternate)
                 │   │       └── output_merqury.completeness.tabular
                 │   └── pretext
                 │       ├── {genome_id}__s1.bed
-                │       ├── {genome_id}__s1.heatmap.png
-                │       ├── {genome_id}__s1.heatmap.pretext
+                │       ├── {genome_id}__s1.heatmap.[png,pretext]
                 │       ├── {genome_id}__s2.bed
-                │       ├── {genome_id}__s2.heatmap.png
-                │       └── {genome_id}__s2.heatmap.pretext
+                │       └── {genome_id}__s2.heatmap.[png,pretext]
                 ├── intermediates
                 │   ├── bionano
                 │   │   ├── {genome_id}_NGS_contigs_not_scaffolded_NCBI_trimmed.fasta.gz
@@ -426,10 +414,89 @@ vgp_standard_2.0 (primary/alternate)
                 │   │   └── {genome_id}_.meryldb.tar.gz
                 │   └── yahs
                 │       ├── {genome_id}_{genome_id}_s2.agp
-                │       └── {genome_id}_{genome_id}_s2.log
+                │       └── {genome_id}_{genome_id}_s2.l og
                 ├── {genome_id}.standard.alt.YYYYMMDD.fasta.gz
                 ├── {genome_id}.standard.pri.YYYYMMDD.fasta.gz
                 └── {genome_id}.yml
+  ```
+
+vgp_HiC_2.0 (hap1/hap2)
+
+  ```
+  └── species
+    └── {Genus_species}
+        └── {ToLID}
+            └── assembly_vgp_HiC_2.0
+                ├── evaluation
+                │   ├── busco
+                │   │   └── c
+                │   │       └── {genome_id}_HiC__busco_[hap1/hap2]_[full_table.tab,missing_buscos.tab,busco_image.png,short_summary.txt]
+                │   ├── genomescope                                                     Folder has same content as described in the primary/alternate guide
+                │   ├── gfastats
+                │   │   └── c
+                │   │       ├── {genome_id}__hap1.tab
+                │   │       └── {genome_id}__hap2.tab
+                │   ├── hap1
+                │   │   ├── busco
+                │   │   │   └── s1
+                │   │   │       └── {genome_id}__[full_table.tab,missing_buscos.tab,busco_image.png,short_summary.txt]
+                │   │   ├── gfastats
+                │   │   │   ├── s1
+                │   │   │   │   └── {genome_id}.tab
+                │   │   │   └── s2
+                │   │   │       └── {genome_id}.tab
+                │   │   └── pretext
+                │   │       ├── {genome_id}_hap1__[s1,s2].bed
+                            └── {genome_id}_hap1__[s1,s2]_heatmap.[png,pretext]
+                │   ├── hap2
+                │   │   ├── busco
+                │   │   │   └── s1
+                │   │   │       └── {genome_id}__[full_table.tab,missing_buscos.tab,busco_image.png,short_summary.txt]
+                │   │   ├── gfastats
+                │   │   │   ├── s1
+                │   │   │   │   └── {genome_id}.tab
+                │   │   │   └── s2
+                │   │   │       └── {genome_id}.tab
+                │   │   └── pretext
+                │   │       ├── {genome_id}_hap2__[s1,s2].bed
+                            └── {genome_id}_hap2__[s1,s2]_heatmap.[png,pretext]
+                │   ├── merqury
+                │   │   ├── {genome_id}_png                                             Folder has same content as described in the primary/alternate guide
+                │   │   ├── {genome_id}_qv                                              Folder has same content as described in the primary/alternate guide
+                │   │   └── {genome_id}_stats                                           Folder has same content as described in the primary/alternate guide
+                │   ├── {genome_id}.HiC.hap1.YYYYMMDD.fasta.gz                          Scaffolded draft assembly of hap1 that goes to curation
+                │   ├── {genome_id}.HiC.hap2.YYYYMMDD.fasta.gz                          Scaffolded draft assembly of hap2 that goes to curation
+                │   └── {genome_id}.yml                                                 Assembly metadata file that is used for curation submission to Sanger
+                └── intermediates
+                    ├── hap1
+                    │   ├── bionano
+                    │   │   ├── {genome_id}_NGS_contigs_scaffold_NCBI_trimmed.fasta.gz
+                    │   │   ├── {genome_id}_NGS_contigs_not_scaffolded_NCBI_trimmed.fasta.gz
+                    │   │   ├── {genome_id}_conflicts.txt
+                    │   │   ├── {genome_id}_hybrid_scaffold_report.txt
+                    │   │   └── {genome_id}_s1_AGP.agp
+                    │   ├── salsa
+                    │   │   └── {genome_id}_{genome_id}_s2.agp
+                    │   └── {genome_id}_s1.fasta.gz                                     Hap1 bionano scaffolds and unscaffolded contigs
+                    ├── hap2
+                    │   ├── bionano
+                    │   │   ├── {genome_id}_NGS_contigs_scaffold_NCBI_trimmed.fasta.gz
+                    │   │   ├── {genome_id}_NGS_contigs_not_scaffolded_NCBI_trimmed.fasta.gz
+                    │   │   ├── {genome_id}_conflicts.txt
+                    │   │   ├── {genome_id}_hybrid_scaffold_report.txt
+                    │   │   └── {genome_id}_s1_AGP.agp
+                    │   ├── salsa
+                    │   │   └── {genome_id}_{genome_id}_s2.agp
+                    │   └── {genome_id}_s1.fasta.gz                                     Hap2 bionano scaffolds and unscaffolded contigs
+                    ├── hifiasm
+                    │   ├── {genome_id}__hifiasm.log
+                    │   ├── {genome_id}__raw_unitig.gfa.gz
+                    │   ├── {genome_id}_hap1_contig_graph.gfa.gz
+                    │   └── {genome_id}_hap2_contig_graph.gfa.gz
+                    ├── meryl
+                    │   └── {genome_id}_.meryldb.tar.gz
+                    ├── {genome_id}_hap1_c.fasta.gz                                     Hap1 contigs
+                    └── {genome_id}_hap2_c.fasta.gz                                     Hap2 contigs
   ```
 
 
