@@ -323,37 +323,8 @@ location or institution that generated the assembly, a version, or a date.
 The following specifications for assembly folders apply to the VGP pipeline version 2.0 assemblies. For more information about version 1.0 assemblies, please see the previous documentation.
 
 ### Uncurated Assemblies
-  ```
-  /
-  └── species/
-      └── {Genus_species}/
-          └── {ToLID}/
-              └── assembly_{pipeline}_{ver}/     (pipeline: vgp_standard, vgp_HiC, vgp_trio, cambridge, ...)
-                  ├── intermediates/
-                  │   ├── falcon_unzip/                            FALCON unzip intermediate files
-                  │   ├── purge_haplotigs/                         purge_haplotigs intermediate files
-                  │   ├── scaff10x/                                Scaff10X intermediate files
-                  │   ├── bionano/                                 Bionano TGH intermediate files
-                  │   ├── salsa/                                   Salsa intermediate files
-                  │   ├── arrow/                                   Arrow polishing intermediate files
-                  │   ├── longer_freebayes_round1/                 Longranger freebayes polishing intermediate files (round1)
-                  │   ├── longer_freebayes_round2/                 Longranger freebayes polishing intermediate files (round2)
-                  │   ├── {genome_id}_c1.fasta.gz                  Pacbio FALCON-Unzip assembly primary contigs (haplotype 1)
-                  │   ├── {genome_id}_c2.fasta.gz                  Pacbio FALCON-Unzip assembly associated haplotigs (haplotype 2)
-                  │   ├── {genome_id}_p1.fasta.gz                  purge_haplotigs curated primary assembly (taking c1 as input)
-                  │   ├── {genome_id}_p2.fasta.gz                  purge_haplotigs curated haplotigs (purged out from c1)
-                  │   ├── {genome_id}_q2.fasta.gz                  c2 + q2 for future polishing
-                  │   ├── {genome_id}_s1.fasta.gz                  2-rounds of scaff10x; scaffolding p1.fasta
-                  │   ├── {genome_id}_s2.fasta.gz                  Bionano TGH; hybrid scaffold of 2 enzymes over s1.fasta
-                  │   ├── {genome_id}_s3.fasta.gz                  Salsa scaffolding with Arima hiC libraries over s2.fasta
-                  │   ├── {genome_id}_t1.fasta.gz                  Arrow polishing over s3 + q2
-                  │   ├── {genome_id}_t2.fasta.gz                  1 round of longranger_freebayes polishing over t1.fasta
-                  │   └── {genome_id}_t3.fasta.gz                  2nd round of longranger_freebayes polishing over t2.fasta
-                  ├── {genome_id}.pri.asm.YYYYMMDD.fasta.gz        Final assembly (primary)
-                  └── {genome_id}.alt.asm.YYYYMMDD.fasta.gz        Final assembly (alternate haplotigs)
-  ```
 
-vgp_standard_2.0 (primary/alternate)
+#### vgp_standard_2.0 (primary/alternate)
 
   ```
   └── species
@@ -420,7 +391,7 @@ vgp_standard_2.0 (primary/alternate)
                 └── {genome_id}.yml
   ```
 
-vgp_HiC_2.0 (hap1/hap2)
+#### vgp_HiC_2.0 (hap1/hap2)
 
   ```
   └── species
@@ -497,6 +468,38 @@ vgp_HiC_2.0 (hap1/hap2)
                     │   └── {genome_id}_.meryldb.tar.gz
                     ├── {genome_id}_hap1_c.fasta.gz                                     Hap1 contigs
                     └── {genome_id}_hap2_c.fasta.gz                                     Hap2 contigs
+  ```
+
+#### assembly_vgp_standard_1.0
+
+  ```
+  /
+  └── species/
+      └── {Genus_species}/
+          └── {ToLID}/
+              └── assembly_{pipeline}_{ver}/     (pipeline: vgp_standard, vgp_HiC, vgp_trio, cambridge, ...)
+                  ├── intermediates/
+                  │   ├── falcon_unzip/                            FALCON unzip intermediate files
+                  │   ├── purge_haplotigs/                         purge_haplotigs intermediate files
+                  │   ├── scaff10x/                                Scaff10X intermediate files
+                  │   ├── bionano/                                 Bionano TGH intermediate files
+                  │   ├── salsa/                                   Salsa intermediate files
+                  │   ├── arrow/                                   Arrow polishing intermediate files
+                  │   ├── longer_freebayes_round1/                 Longranger freebayes polishing intermediate files (round1)
+                  │   ├── longer_freebayes_round2/                 Longranger freebayes polishing intermediate files (round2)
+                  │   ├── {genome_id}_c1.fasta.gz                  Pacbio FALCON-Unzip assembly primary contigs (haplotype 1)
+                  │   ├── {genome_id}_c2.fasta.gz                  Pacbio FALCON-Unzip assembly associated haplotigs (haplotype 2)
+                  │   ├── {genome_id}_p1.fasta.gz                  purge_haplotigs curated primary assembly (taking c1 as input)
+                  │   ├── {genome_id}_p2.fasta.gz                  purge_haplotigs curated haplotigs (purged out from c1)
+                  │   ├── {genome_id}_q2.fasta.gz                  c2 + q2 for future polishing
+                  │   ├── {genome_id}_s1.fasta.gz                  2-rounds of scaff10x; scaffolding p1.fasta
+                  │   ├── {genome_id}_s2.fasta.gz                  Bionano TGH; hybrid scaffold of 2 enzymes over s1.fasta
+                  │   ├── {genome_id}_s3.fasta.gz                  Salsa scaffolding with Arima hiC libraries over s2.fasta
+                  │   ├── {genome_id}_t1.fasta.gz                  Arrow polishing over s3 + q2
+                  │   ├── {genome_id}_t2.fasta.gz                  1 round of longranger_freebayes polishing over t1.fasta
+                  │   └── {genome_id}_t3.fasta.gz                  2nd round of longranger_freebayes polishing over t2.fasta
+                  ├── {genome_id}.pri.asm.YYYYMMDD.fasta.gz        Final assembly (primary)
+                  └── {genome_id}.alt.asm.YYYYMMDD.fasta.gz        Final assembly (alternate haplotigs)
   ```
 
 
