@@ -507,18 +507,15 @@ The following specifications for assembly folders apply to the VGP pipeline vers
 
 | intermediate_name	| full_verbal | description |
 |:------------- | :---------- | :-----------|
-|c1	| pac_fcnz_hap1	| pac_fcnz_hap1: Pacbio FALCON-Unzip assembly primary contigs |
-|c2	| pac_fcnz_hap2	| pac_fcnz_hap2: Pacbio FALCON-Unzip assembly alternate haplotigs |
-|p1	| pac_fcnz_hap1_purg_prim	| prim: purge_haplotigs curated primary |
-|p2	| pac_fcnz_hap1_purg_alt	| purg: purged haplotigs |
-|q2	| pac_fcnz_hap2_pac_fcnz_hap1_purg_alt	| concatinate c2 and q2, with '\|' replaced to '_' |
-|s1	| pac_fcnz_hap1_10x_scaff10x	|scaff10x: 2-rounds of scaff10x |
-|s2	| pac_fcnz_hap1_10x_scaff10x_bio_tgh	|tgh: bionano TGH; hybrid scaffold of 2 enzymes. *Make sure to include the NOT_SCAFFOLDED leftovers.*|
-|s3	| pac_fcnz_hap1_10x_scaff10x_bio_tgh_arim_salsa | arim_salsa: maximum 5-round of Salsa scaffolding from Arima hiC libraries |
-|s4	| s3_q2 | intermediate file generated with s3 + q2 |
-|t1	| pac_fcnz_hap1_10x_scaff10x_bio_tgh_arim_salsa_arrow	| arrow: arrow polishing with gap filling on s4 |
-|t2 |	pac_fcnz_hap1_10x_scaff10x_bio_tgh_arim_salsa_arrow_frb1 |	longranger + freebayes polishing round 1 |
-|t3 |	pac_fcnz_hap1_10x_scaff10x_bio_tgh_arim_salsa_arrow_frb2 |	longranger + freebayes polishing round 2 |
+|c1	| primary	| hifiasm primary contigs |
+|c2	| alternate	| hifiasm alternate contigs |
+|hap1	| haplotype 1 | hifiasm haplotype 1 contigs, generated from hifiasm with HiC-phasing |
+|hap2	| haplotype 2 | hifiasm haplotype 2 contigs, generated from hifiasm with HiC-phasing |
+|p1	| purged primary contigs	| purged primary contigs |
+|p2	| purged haplotigs	| haplotigs removed from primary contigs during purging |
+|q2	| purged alternate contigs	| p2 concatenated to c2, and then undergone purging |
+|s1	| bionano scaffolds	| hybrid scaffolds and un-scaffolded contigs from bionano |
+|s2	| Hi-C scaffolds	| Hi-C scaffolds, which can be generated from contigs or from bionano scaffolds |
 
 
 ### Mitochondrial Assemblies
