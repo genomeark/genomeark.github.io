@@ -265,9 +265,10 @@ species:
 ## Write access to the AWS S3 Bucket
 
 In order to get your data onto the AWS S3 bucket, you&rsquo;ll need write
-access. Please reach out to get access. Generally speaking, we will grant write
-access to a supplementary bucket (genomeark-upload). Once you&rsquo;ve uploaded
-your data there, notify us so we can move it to the primary bucket (genomeark).
+access. Please see our [AWS Credentials Guide](aws-credentials.html) and then
+reach out to get access. Generally speaking, we will grant write access to a
+supplementary bucket (genomeark-upload). Once you&rsquo;ve uploaded your data
+there, notify us so we can move it to the primary bucket (genomeark).
 
 You will be required to upload the data in a specific structure. If a mistake is
 made, you can remove the offending file(s) using `aws s3 rm`; however, we urge
