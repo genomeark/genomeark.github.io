@@ -1,7 +1,6 @@
 ---
 layout: documentation
 title: GenomeArk AWS S3 bucket layout and file names
-permalink: structure.html
 published: false
 ---
 
@@ -117,8 +116,8 @@ expected to have:
                       ├── README
                       └── files.md5
   ```
-  Please see [these notes]({{ site.url }}/documentation/hifi-reads.html) about
-  kinetics and methylation tags in the `hifi_reads.bam` file.
+  Please see [these notes](hifi-reads-bam-tags.html)
+  about kinetics and methylation tags in the `hifi_reads.bam` file.
 
   Many often provide fastq (gzipped) in addition to the BAMs, despite how
   wasteful that is on space, for convenience &mdash; especially during the

@@ -11,7 +11,7 @@ NOTE: For testing, set `published:` to `true`. Leave it set to `false` when
 
 This is a **DRAFT**. Please send comments to `#data-coord` on Slack.
 
-### HiFi Reads BAM tags
+# HiFi Reads BAM tags
 
 We _strongly_ encourage you to include kinetics tags in your `hifi_reads.bam`
 file. This can be done automatically with the correct switch being toggled when
@@ -98,3 +98,4 @@ Instead, you could do the following:
 # 4. Record what tags are available in each file in the README
 > vim README
 ```
+
