@@ -314,19 +314,170 @@ Older projects can also include the following legacy data.
                   ├── {genome_id}.pri.cur.YYYYMMDD.agp            Chromosome assignments for {genome_id}.pri.cur.YYYYMMDD.fasta.gz
                   └── {genome_id}.pri.cur.YYYYMMDD.MT.fasta.gz    Mitochondrial genome assembly (optional)
   ```
-It is accecptable to name the directory `assembly_curated{suffix}`, where the
+It is acceptable to name the directory `assembly_curated{suffix}`, where the
 suffix is an underscore followed by some informative string. This can be useful
 when more than 1 assemblies were curated so that they can be easily
-easily differentiated from eachother. Examples of informative strings are the
+easily differentiated from each other. Examples of informative strings are the
 location or institution that generated the assembly, a version, or a date.
 
+The following specifications for assembly folders apply to the VGP pipeline version 2.0 assemblies. For more information about version 1.0 assemblies, please see the previous documentation.
+
 ### Uncurated Assemblies
+
+#### vgp_standard_2.0 (primary/alternate)
+
+  ```
+  └── species
+    └── {Genus_species}
+        └── {ToLID}
+            └── assembly_{pipeline}_{ver}
+                ├── evaluation
+                │   ├── busco
+                │   │   ├── c
+                │   │   │   └── {genome_id}_busco_[full_table.tab,missing_buscos.tab,busco_image.png,short_summary.txt]
+                │   │   └── s1
+                │   │       └── {genome_id}_busco_[full_table.tab,missing_buscos.tab,busco_image.png,short_summary.txt]
+                │   ├── genomescope
+                │   │   ├── {genome_id}_genomescope__[Linear,Log,Transformed_Linear,Transformed_Log]_Plot.png
+                │   │   ├── {genome_id}_genomescope__[Model,Summary].txt
+                │   │   └── {genome_id}_genomescope__Model_parameters.tsv
+                │   ├── gfastats
+                │   │   ├── c
+                │   │   │   ├── {genome_id}_alt.tab
+                │   │   │   └── {genome_id}_prim.tab
+                │   │   ├── s1
+                │   │   │   └── {genome_id}_.tab
+                │   │   └── s2
+                │   │       └── {genome_id}.tab
+                │   ├── merqury
+                │   │   ├── {genome_id}_png
+                │   │   │   ├── output_merqury.assembly_[01,02].spectra-cn.[fl,ln,st].png
+                │   │   │   ├── output_merqury.spectra-asm.[fl,ln,st].png
+                │   │   │   └── output_merqury.spectra-cn.[fl,ln,st].png
+                │   │   ├── {genome_id}_qv
+                │   │   │   ├── otput_merqury.assembly_[01,02].tabular
+                │   │   │   └── otput_merqury.tabular
+                │   │   └── {genome_id}_stats
+                │   │       └── output_merqury.completeness.tabular
+                │   └── pretext
+                │       ├── {genome_id}__s1.bed
+                │       ├── {genome_id}__s1.heatmap.[png,pretext]
+                │       ├── {genome_id}__s2.bed
+                │       └── {genome_id}__s2.heatmap.[png,pretext]
+                ├── intermediates
+                │   ├── bionano
+                │   │   ├── {genome_id}_NGS_contigs_not_scaffolded_NCBI_trimmed.fasta.gz
+                │   │   ├── {genome_id}_NGS_contigs_scaffold_NCBI_trimmed.fasta.gz
+                │   │   ├── {genome_id}_conflicts.txt
+                │   │   ├── {genome_id}_hybrid_scaffold_report.txt
+                │   │   └── {genome_id}_s1_AGP.agp
+                │   ├── hifiasm
+                │   │   ├── {genome_id}_alternate_assembly_contig_graph.gfa.gz
+                │   │   ├── {genome_id}_haplotype_resolved_processed_unitig_graph.gfa.gz
+                │   │   ├── {genome_id}_haplotype_resolved_raw_unitig_graph.gfa.gz
+                │   │   └── {genome_id}_primary_assembly_contig_graph.gfa.gz
+                │   ├── {genome_id}_c1.fasta.gz
+                │   ├── {genome_id}_c2.fasta.gz
+                │   ├── {genome_id}_p1.fasta.gz
+                │   ├── {genome_id}_q2.fasta.gz
+                │   ├── {genome_id}_s1.fasta.gz
+                │   ├── meryl
+                │   │   └── {genome_id}_.meryldb.tar.gz
+                │   └── yahs
+                │       ├── {genome_id}_{genome_id}_s2.agp
+                │       └── {genome_id}_{genome_id}_s2.l og
+                ├── {genome_id}.standard.alt.YYYYMMDD.fasta.gz
+                ├── {genome_id}.standard.pri.YYYYMMDD.fasta.gz
+                └── {genome_id}.yml
+  ```
+
+#### vgp_HiC_2.0 (hap1/hap2)
+
+  ```
+  └── species
+    └── {Genus_species}
+        └── {ToLID}
+            └── assembly_vgp_HiC_2.0
+                ├── evaluation
+                │   ├── busco
+                │   │   └── c
+                │   │       └── {genome_id}_HiC__busco_[hap1/hap2]_[full_table.tab,missing_buscos.tab,busco_image.png,short_summary.txt]
+                │   ├── genomescope                                                     Folder has same content as described in the primary/alternate guide
+                │   ├── gfastats
+                │   │   └── c
+                │   │       ├── {genome_id}__hap1.tab
+                │   │       └── {genome_id}__hap2.tab
+                │   ├── hap1
+                │   │   ├── busco
+                │   │   │   └── s1
+                │   │   │       └── {genome_id}__[full_table.tab,missing_buscos.tab,busco_image.png,short_summary.txt]
+                │   │   ├── gfastats
+                │   │   │   ├── s1
+                │   │   │   │   └── {genome_id}.tab
+                │   │   │   └── s2
+                │   │   │       └── {genome_id}.tab
+                │   │   └── pretext
+                │   │       ├── {genome_id}_hap1__[s1,s2].bed
+                            └── {genome_id}_hap1__[s1,s2]_heatmap.[png,pretext]
+                │   ├── hap2
+                │   │   ├── busco
+                │   │   │   └── s1
+                │   │   │       └── {genome_id}__[full_table.tab,missing_buscos.tab,busco_image.png,short_summary.txt]
+                │   │   ├── gfastats
+                │   │   │   ├── s1
+                │   │   │   │   └── {genome_id}.tab
+                │   │   │   └── s2
+                │   │   │       └── {genome_id}.tab
+                │   │   └── pretext
+                │   │       ├── {genome_id}_hap2__[s1,s2].bed
+                            └── {genome_id}_hap2__[s1,s2]_heatmap.[png,pretext]
+                │   ├── merqury
+                │   │   ├── {genome_id}_png                                             Folder has same content as described in the primary/alternate guide
+                │   │   ├── {genome_id}_qv                                              Folder has same content as described in the primary/alternate guide
+                │   │   └── {genome_id}_stats                                           Folder has same content as described in the primary/alternate guide
+                │   ├── {genome_id}.HiC.hap1.YYYYMMDD.fasta.gz                          Scaffolded draft assembly of hap1 that goes to curation
+                │   ├── {genome_id}.HiC.hap2.YYYYMMDD.fasta.gz                          Scaffolded draft assembly of hap2 that goes to curation
+                │   └── {genome_id}.yml                                                 Assembly metadata file that is used for curation submission to Sanger
+                └── intermediates
+                    ├── hap1
+                    │   ├── bionano
+                    │   │   ├── {genome_id}_NGS_contigs_scaffold_NCBI_trimmed.fasta.gz
+                    │   │   ├── {genome_id}_NGS_contigs_not_scaffolded_NCBI_trimmed.fasta.gz
+                    │   │   ├── {genome_id}_conflicts.txt
+                    │   │   ├── {genome_id}_hybrid_scaffold_report.txt
+                    │   │   └── {genome_id}_s1_AGP.agp
+                    │   ├── salsa
+                    │   │   └── {genome_id}_{genome_id}_s2.agp
+                    │   └── {genome_id}_s1.fasta.gz                                     Hap1 bionano scaffolds and unscaffolded contigs
+                    ├── hap2
+                    │   ├── bionano
+                    │   │   ├── {genome_id}_NGS_contigs_scaffold_NCBI_trimmed.fasta.gz
+                    │   │   ├── {genome_id}_NGS_contigs_not_scaffolded_NCBI_trimmed.fasta.gz
+                    │   │   ├── {genome_id}_conflicts.txt
+                    │   │   ├── {genome_id}_hybrid_scaffold_report.txt
+                    │   │   └── {genome_id}_s1_AGP.agp
+                    │   ├── salsa
+                    │   │   └── {genome_id}_{genome_id}_s2.agp
+                    │   └── {genome_id}_s1.fasta.gz                                     Hap2 bionano scaffolds and unscaffolded contigs
+                    ├── hifiasm
+                    │   ├── {genome_id}__hifiasm.log
+                    │   ├── {genome_id}__raw_unitig.gfa.gz
+                    │   ├── {genome_id}_hap1_contig_graph.gfa.gz
+                    │   └── {genome_id}_hap2_contig_graph.gfa.gz
+                    ├── meryl
+                    │   └── {genome_id}_.meryldb.tar.gz
+                    ├── {genome_id}_hap1_c.fasta.gz                                     Hap1 contigs
+                    └── {genome_id}_hap2_c.fasta.gz                                     Hap2 contigs
+  ```
+
+#### assembly_vgp_standard_1.0
+
   ```
   /
   └── species/
       └── {Genus_species}/
           └── {ToLID}/
-              └── assembly_{pipeline}_{ver}/     (pipeline: vgp_standard, cambridge, ...)
+              └── assembly_{pipeline}_{ver}/     (pipeline: vgp_standard, vgp_HiC, vgp_trio, cambridge, ...)
                   ├── intermediates/
                   │   ├── falcon_unzip/                            FALCON unzip intermediate files
                   │   ├── purge_haplotigs/                         purge_haplotigs intermediate files
@@ -351,22 +502,20 @@ location or institution that generated the assembly, a version, or a date.
                   └── {genome_id}.alt.asm.YYYYMMDD.fasta.gz        Final assembly (alternate haplotigs)
   ```
 
-#### Detailed intermediate assembly names and rules for v1
+
+#### Detailed intermediate assembly names and rules for v2
 
 | intermediate_name	| full_verbal | description |
 |:------------- | :---------- | :-----------|
-|c1	| pac_fcnz_hap1	| pac_fcnz_hap1: Pacbio FALCON-Unzip assembly primary contigs |
-|c2	| pac_fcnz_hap2	| pac_fcnz_hap2: Pacbio FALCON-Unzip assembly alternate haplotigs |
-|p1	| pac_fcnz_hap1_purg_prim	| prim: purge_haplotigs curated primary |
-|p2	| pac_fcnz_hap1_purg_alt	| purg: purged haplotigs |
-|q2	| pac_fcnz_hap2_pac_fcnz_hap1_purg_alt	| concatinate c2 and q2, with '\|' replaced to '_' |
-|s1	| pac_fcnz_hap1_10x_scaff10x	|scaff10x: 2-rounds of scaff10x |
-|s2	| pac_fcnz_hap1_10x_scaff10x_bio_tgh	|tgh: bionano TGH; hybrid scaffold of 2 enzymes. *Make sure to include the NOT_SCAFFOLDED leftovers.*|
-|s3	| pac_fcnz_hap1_10x_scaff10x_bio_tgh_arim_salsa | arim_salsa: maximum 5-round of Salsa scaffolding from Arima hiC libraries |
-|s4	| s3_q2 | intermediate file generated with s3 + q2 |
-|t1	| pac_fcnz_hap1_10x_scaff10x_bio_tgh_arim_salsa_arrow	| arrow: arrow polishing with gap filling on s4 |
-|t2 |	pac_fcnz_hap1_10x_scaff10x_bio_tgh_arim_salsa_arrow_frb1 |	longranger + freebayes polishing round 1 |
-|t3 |	pac_fcnz_hap1_10x_scaff10x_bio_tgh_arim_salsa_arrow_frb2 |	longranger + freebayes polishing round 2 |
+|c1	| primary	| hifiasm primary contigs |
+|c2	| alternate	| hifiasm alternate contigs |
+|hap1	| haplotype 1 | hifiasm haplotype 1 contigs, generated from hifiasm with HiC-phasing |
+|hap2	| haplotype 2 | hifiasm haplotype 2 contigs, generated from hifiasm with HiC-phasing |
+|p1	| purged primary contigs	| purged primary contigs |
+|p2	| purged haplotigs	| haplotigs removed from primary contigs during purging |
+|q2	| purged alternate contigs	| p2 concatenated to c2, and then undergone purging |
+|s1	| bionano scaffolds	| hybrid scaffolds and un-scaffolded contigs from bionano |
+|s2	| Hi-C scaffolds	| Hi-C scaffolds, which can be generated from contigs or from bionano scaffolds |
 
 
 ### Mitochondrial Assemblies
@@ -381,5 +530,5 @@ location or institution that generated the assembly, a version, or a date.
 It is accecptable to name the directory `assembly_MT{suffix}`, where the suffix
 is an underscore followed by some informative string. This can be useful when
 more than 1 mitochondrial assemblies were generated so that they can be easily
-differentiated from eachother. Examples of informative strings are the location
+differentiated from each other. Examples of informative strings are the location
 or institution that generated the assembly, a version, or a date.
