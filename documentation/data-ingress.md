@@ -1,7 +1,7 @@
 ---
 layout: documentation
 title: Genomeark Data Preparation
-published: false
+published: true
 ---
 
 <!--

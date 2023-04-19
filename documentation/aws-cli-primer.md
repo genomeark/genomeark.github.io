@@ -1,7 +1,7 @@
 ---
 layout: documentation
 title: Genomeark AWS CLI Primer
-published: false
+published: true
 ---
 
 <!--

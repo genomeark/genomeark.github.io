@@ -1,7 +1,7 @@
 ---
 layout: documentation
 title: Genomeark AWS Credentials
-published: false
+published: true
 ---
 
 <!--

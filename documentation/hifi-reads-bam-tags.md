@@ -1,7 +1,7 @@
 ---
 layout: documentation
 title: HiFi Reads BAM tags
-published: false
+published: true
 ---
 
 <!--

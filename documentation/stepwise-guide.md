@@ -1,7 +1,7 @@
 ---
 layout: documentation
 title: Genomeark Data Upload &ndash; Step-by-Step Guide
-published: false
+published: true
 ---
 
 <!--

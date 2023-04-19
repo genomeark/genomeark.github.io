@@ -1,7 +1,7 @@
 ---
 layout: documentation
 title: GenomeArk AWS S3 bucket layout and file names
-published: false
+published: true
 ---
 
 <!--

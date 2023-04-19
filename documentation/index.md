@@ -1,7 +1,7 @@
 ---
 layout: documentation
 title: Genomeark Documentation Landing Page
-published: false
+published: true
 ---
 
 <!--
