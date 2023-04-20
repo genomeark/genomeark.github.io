@@ -326,6 +326,25 @@ mat2sizes: |
   </tfoot>
   </table>
 mat2version: assembly_curated
+metadata: |
+  species:
+    short_name: bTaeGut
+    name: Taeniopygia guttata
+    taxon_id: 59729
+    common_name: zebra finch
+    order:
+      name: Passeriformes
+    family:
+      name: Estrildidae
+    individuals:
+      - short_name: bTaeGut1
+      - short_name: bTaeGut2
+      - short_name: bTaeGut3
+      - short_name: bTaeGut4
+      - short_name: bTaeGut5
+    genome_size: 1035611271
+    genome_size_method:
+    project: [ vgp ]
 mgd2date: 2022-09-05
 mgd2filesize: 327.9 MiB
 mgd2length: 1166567356

@@ -77,6 +77,21 @@ genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 last_raw_data: 1611681977
 last_updated: 1623161411
+metadata: |
+  species:
+    short_name: bTheCae
+    name: Theristicus caerulescens
+    taxon_id: 1118847
+    common_name: plumbeous ibis
+    order:
+      name: Pelicaniformes
+    family:
+      name: Threskiornithidae
+    individuals:
+      - short_name: bTheCae1
+    genome_size: 1000000000
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2021-01-20
 mito1filesize: 5.2 KiB
 mito1length: 19114

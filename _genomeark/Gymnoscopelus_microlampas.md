@@ -27,6 +27,23 @@ genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1679174110
 last_updated: 1679174110
+metadata: |
+  species:
+    short_name: fGymMic
+    name: Gymnoscopelus microlampas
+    taxon_id: 1090481
+    common_name: minispotted lanternfish
+    order:
+      name: Myctophiformes
+    family:
+      name: Myctophidae
+    individuals:
+      - short_name: fGymMic1
+        biosample_id: SAMEA12815435
+        sex:
+    genome_size: 1907100000
+    genome_size_method: GoaT
+    project: [ ]
 name: Gymnoscopelus microlampas
 name_: Gymnoscopelus_microlampas
 short_name: fGymMic

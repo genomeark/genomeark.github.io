@@ -27,6 +27,23 @@ genome_size_display: 0.63 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675917579
 last_updated: 1675917580
+metadata: |
+  species:
+    short_name: fPunPun
+    name: Pungitius pungitius
+    taxon_id: 134920
+    common_name: ninespine stickleback
+    order:
+      name: Gasterosteiformes
+    family:
+      name: Gasterosteidae
+    individuals:
+      - short_name: fPunPun2
+        biosample_id: SAMEA11296545
+        sex: male
+    genome_size: 625920000
+    genome_size_method: GoaT
+    project: [ ]
 name: Pungitius pungitius
 name_: Pungitius_pungitius
 short_name: fPunPun

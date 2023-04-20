@@ -58,6 +58,23 @@ genome_size_display: 0.53 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675914041
 last_updated: 1677588888
+metadata: |
+  species:
+    short_name: fBarBar
+    name: Barbatula barbatula
+    taxon_id: 135647
+    common_name: stone loach
+    order:
+      name: Cypriniformes
+    family:
+      name: Nemacheilidae
+    individuals:
+      - short_name: fBarBar1
+        biosample_id: SAMEA11296540
+        sex: female
+    genome_size: 528120000
+    genome_size_method: GoaT
+    project: [ ]
 name: Barbatula barbatula
 name_: Barbatula_barbatula
 pri1date: 2023-02-28

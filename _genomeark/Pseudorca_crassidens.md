@@ -57,6 +57,21 @@ genome_size_display: 3.08 Gbp
 genome_size_method: GoAT
 last_raw_data: 1674509833
 last_updated: 1674509833
+metadata: |
+  species:
+    name: Pseudorca crassidens
+    individuals:
+    - short_name: mPseCra1
+    short_name: mPseCra
+    taxon_id: 82174
+    common_name: false killer whale
+    genome_size: 3081000000
+    genome_size_method: GoAT
+    order:
+      name: Artiodactyla
+    family:
+      name: Delphinidae
+    project: [ vgp ]
 name: Pseudorca crassidens
 name_: Pseudorca_crassidens
 short_name: mPseCra

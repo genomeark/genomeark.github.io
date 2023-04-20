@@ -34,6 +34,26 @@ genome_size_display: 1.93 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675919890
 last_updated: 1675919891
+metadata: |
+  species:
+    short_name: rPodCre
+    name: Podarcis cretensis
+    taxon_id: 1330250
+    common_name: cretan wall lizard
+    order:
+      name: Squamata
+    family:
+      name: Lacertidae
+    individuals:
+      - short_name: rPodCre1
+        biosample_id: SAMEA12110018
+        sex: male
+      - short_name: rPodCre2
+        biosample_id: SAMEA12110019
+        sex: male
+    genome_size: 1932772500
+    genome_size_method: GoaT
+    project: [ ]
 name: Podarcis cretensis
 name_: Podarcis_cretensis
 short_name: rPodCre

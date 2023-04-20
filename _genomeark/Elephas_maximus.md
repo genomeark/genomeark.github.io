@@ -88,6 +88,21 @@ genome_size_display: 3.94 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651618147
 last_updated: 1655389936
+metadata: |
+  species:
+    name: Elephas maximus
+    individuals:
+    - short_name: mEleMax1
+    short_name: mEleMax
+    taxon_id: 9783
+    common_name: Asiatic elephant
+    genome_size: 3941000000
+    genome_size_method: GoAT
+    order:
+      name: Proboscidea
+    family:
+      name: Elephantidae
+    project: [ vgp ]
 name: Elephas maximus
 name_: Elephas_maximus
 pri1date: 2022-06-16

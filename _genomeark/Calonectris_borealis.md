@@ -25,6 +25,23 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 0
 last_raw_data: 1651605195
 last_updated: 1651605195
+metadata: |
+  species:
+    short_name: bCalBor
+    name: Calonectris borealis
+    taxon_id: 1323832
+    common_name: Cory's Shearwater
+    order:
+      name: Procellariiformes
+    family:
+      name: Procellariidae
+    individuals:
+      - short_name: bCalBor6
+        biosample_id: SAMEA8228670
+        sex: female
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Calonectris borealis
 name_: Calonectris_borealis
 short_name: bCalBor

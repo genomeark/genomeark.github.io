@@ -17,6 +17,23 @@ genome_size_display: 0.86 Gbp
 genome_size_method: GoaT
 last_raw_data: 1676137279
 last_updated: 1676137280
+metadata: |
+  species:
+    short_name: fMicPou
+    name: Micromesistius poutassou
+    taxon_id: 81636
+    common_name: blue whiting
+    order:
+      name: Gadiformes
+    family:
+      name: Gadidae
+    individuals:
+      - short_name: fMicPou1
+        biosample_id: SAMEA111457552
+        sex: female
+    genome_size: 860640000
+    genome_size_method: GoaT
+    project: [ ]
 name: Micromesistius poutassou
 name_: Micromesistius_poutassou
 short_name: fMicPou

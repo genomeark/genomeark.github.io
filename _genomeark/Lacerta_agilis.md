@@ -77,6 +77,21 @@ genome_size: 2000000000
 genome_size_display: 2.00 Gbp
 last_raw_data: 1568606077
 last_updated: 1587741067
+metadata: |
+  species:
+    common_name: sand lizard
+    family:
+      name: Lacertidae
+    genome_size: 2000000000
+    genome_size_method: null
+    individuals:
+    - short_name: rLacAgi1
+    name: Lacerta agilis
+    order:
+      name: Squamata
+    short_name: rLacAgi
+    taxon_id: 80427
+    project: [ vgp ]
 mito1date: 2020-04-23
 mito1filesize: 5.1 KiB
 mito1length: 19099

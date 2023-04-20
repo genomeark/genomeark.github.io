@@ -145,6 +145,21 @@ hpb1sizes: |
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1651623575
 last_updated: 1662125160
+metadata: |
+  species:
+    name: Emys orbicularis
+    individuals:
+    - short_name: rEmyOrb1
+    short_name: rEmyOrb
+    taxon_id: 82168
+    common_name: European pond turtle
+    genome_size: 2543000000
+    genome_size_method: GoAT
+    order:
+      name: Testudines
+    family:
+      name: Emydidae
+    project: [ vgp ]
 name: Emys orbicularis
 name_: Emys_orbicularis
 pri1date: 2022-09-02

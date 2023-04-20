@@ -27,6 +27,23 @@ genome_size_display: 0.63 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675897486
 last_updated: 1675897488
+metadata: |
+  species:
+    short_name: fGasAcu
+    name: Gasterosteus aculeatus
+    taxon_id: 69293
+    common_name: three-spined stickleback
+    order:
+      name: Gasterosteiformes
+    family:
+      name: Gasterosteidae
+    individuals:
+      - short_name: fGasAcu3
+        biosample_id: SAMEA11296546
+        sex: male
+    genome_size: 625920000
+    genome_size_method: GoaT
+    project: [ ]
 name: Gasterosteus aculeatus
 name_: Gasterosteus_aculeatus
 short_name: fGasAcu

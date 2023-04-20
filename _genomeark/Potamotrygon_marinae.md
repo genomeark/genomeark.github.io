@@ -36,6 +36,23 @@ genome_size: 4500000000
 genome_size_display: 4.50 Gbp
 last_raw_data: 1618858204
 last_updated: 1618858883
+metadata: |
+  species:
+    short_name: sPotMar
+    name: Potamotrygon marinae
+    taxon_id: null
+    common_name: gold dust stingray
+    order:
+      name: Myliobatiformes
+    family:
+      name: Potamotrygonidae
+    individuals:
+      - short_name: sPotMar1
+        sex: male
+        provider: Yann Guiguen, Julien Bobe, Gavin Naylor
+    genome_size: 4500000000
+    genome_size_method:
+    project: [ vgp ]
 name: Potamotrygon marinae
 name_: Potamotrygon_marinae
 short_name: sPotMar

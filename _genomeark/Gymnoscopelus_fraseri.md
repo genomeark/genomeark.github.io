@@ -27,6 +27,23 @@ genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678402663
 last_updated: 1678402663
+metadata: |
+  species:
+    short_name: fGymFra
+    name: Gymnoscopelus fraseri
+    taxon_id: 1091419
+    common_name: Fraser's lanternfish
+    order:
+      name: Myctophiformes
+    family:
+      name: Myctophidae
+    individuals:
+      - short_name: fGymFra1
+        biosample_id: SAMEA12815430
+        sex:
+    genome_size: 1907100000
+    genome_size_method: GoaT
+    project: [ ]
 name: Gymnoscopelus fraseri
 name_: Gymnoscopelus_fraseri
 short_name: fGymFra

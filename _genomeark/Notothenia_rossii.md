@@ -56,6 +56,23 @@ genome_size_display: 1.23 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675874101
 last_updated: 1678297332
+metadata: |
+  species:
+    short_name: fNotRos
+    name: Notothenia rossii
+    taxon_id: 101497
+    common_name: marbled rockcod
+    order:
+      name: Perciformes
+    family:
+      name: Nototheniidae
+    individuals:
+      - short_name: fNotRos5
+        biosample_id: 
+        sex:
+    genome_size: 1234725000
+    genome_size_method: GoaT
+    project: [ ]
 name: Notothenia rossii
 name_: Notothenia_rossii
 pri5date: 2023-03-08

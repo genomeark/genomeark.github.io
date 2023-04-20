@@ -37,6 +37,21 @@ genome_size_display: 2.52 Gbp
 genome_size_method: GoAT
 last_raw_data: 1675458944
 last_updated: 1675458944
+metadata: |
+  species:
+    name: Alligator mississippiensis
+    individuals:
+    - short_name: rAllMis1
+    short_name: rAllMis
+    taxon_id: 8496
+    common_name: American alligator
+    genome_size: 2518000000
+    genome_size_method: GoAT
+    order:
+      name: Crocodylia
+    family:
+      name: Alligatoridae
+    project: [ vgp ]
 name: Alligator mississippiensis
 name_: Alligator_mississippiensis
 short_name: rAllMis

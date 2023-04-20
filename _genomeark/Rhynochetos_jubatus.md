@@ -88,6 +88,21 @@ genome_size_display: 1.42 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651620235
 last_updated: 1655384912
+metadata: |
+  species:
+    name: Rhynochetos jubatus
+    individuals:
+    - short_name: bRhyJub1
+    short_name: bRhyJub
+    taxon_id: 54386
+    common_name: kagu
+    genome_size: 1424000000
+    genome_size_method: GoAT
+    order:
+      name: Gruiformes
+    family:
+      name: Rhynochetidae
+    project: [ vgp ]
 name: Rhynochetos jubatus
 name_: Rhynochetos_jubatus
 pri1date: 2022-06-16

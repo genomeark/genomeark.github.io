@@ -27,6 +27,23 @@ genome_size_display: 3.08 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678364995
 last_updated: 1678364995
+metadata: |
+  species:
+    short_name: mGloMel
+    name: Globicephala melas
+    taxon_id: 9731
+    common_name: long-finned pilot whale
+    order:
+      name: Cetacea
+    family:
+      name: Delphinidae
+    individuals:
+      - short_name: mGloMel1
+        biosample_id: SAMEA111380538
+        sex: male
+    genome_size: 3080700000
+    genome_size_method: GoaT
+    project: [ ]
 name: Globicephala melas
 name_: Globicephala_melas
 short_name: mGloMel

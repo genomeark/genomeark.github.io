@@ -27,6 +27,23 @@ genome_size_display: 2.88 Gbp
 genome_size_method: GoaT
 last_raw_data: 1679558515
 last_updated: 1679558515
+metadata: |
+  species:
+    short_name: mMarMar
+    name: Martes martes
+    taxon_id: 29065
+    common_name: European pine marten
+    order:
+      name: Carnivora
+    family:
+      name: Mustelidae
+    individuals:
+      - short_name: mMarMar1
+        biosample_id: SAMEA14268932
+        sex: male
+    genome_size: 2880210000
+    genome_size_method: GoaT
+    project: [ ]
 name: Martes martes
 name_: Martes_martes
 short_name: mMarMar

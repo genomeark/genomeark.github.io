@@ -96,6 +96,21 @@ hpb4sizes: |
 hpb4version: assembly_curated
 last_raw_data: 1651005170
 last_updated: 1676585844
+metadata: |
+  species:
+    name: Colius striatus
+    individuals:
+    - short_name: bColStr4
+    short_name: bColStr
+    taxon_id: 57412
+    common_name: speckled mousebird
+    genome_size: 1438000000
+    genome_size_method: GoAT
+    order:
+      name: Coliiformes
+    family:
+      name: Coliidae
+    project: [ vgp ]
 name: Colius striatus
 name_: Colius_striatus
 short_name: bColStr

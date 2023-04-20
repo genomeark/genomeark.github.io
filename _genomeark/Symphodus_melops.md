@@ -58,6 +58,23 @@ genome_size_display: 0.97 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675897131
 last_updated: 1678289833
+metadata: |
+  species:
+    short_name: fSymMel
+    name: Symphodus melops
+    taxon_id: 171736
+    common_name: corkwing wrasse
+    order:
+      name: Perciformes
+    family:
+      name: Labridae
+    individuals:
+      - short_name: fSymMel2
+        biosample_id: SAMEA12219485
+        sex:
+    genome_size: 968220000
+    genome_size_method: GoaT
+    project: [ ]
 name: Symphodus melops
 name_: Symphodus_melops
 pri2date: 2023-03-08

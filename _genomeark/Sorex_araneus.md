@@ -88,6 +88,21 @@ genome_size_display: 2.85 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651667882
 last_updated: 1667318915
+metadata: |
+  species:
+    name: Sorex araneus
+    individuals:
+    - short_name: mSorAra1
+    short_name: mSorAra
+    taxon_id: 42254
+    common_name: European shrew
+    genome_size: 2846000000
+    genome_size_method: GoAT
+    order:
+      name: Eulipotyphla
+    family:
+      name: Soricidae
+    project: [ vgp ]
 mito1date: 2022-06-17
 mito1filesize: 5.0 KiB
 mito1length: 17325

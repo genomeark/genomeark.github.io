@@ -85,6 +85,21 @@ hpb1sizes: |
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1653684112
 last_updated: 1663709567
+metadata: |
+  species:
+    name: Hypanus sabinus
+    individuals:
+    - short_name: sHypSab1
+    short_name: sHypSab
+    taxon_id: 79690
+    common_name: Atlantic stingray
+    genome_size: 4108000000
+    genome_size_method: GoAT
+    order:
+      name: Myliobatiformes
+    family:
+      name: Dasyatidae
+    project: [ vgp ]
 name: Hypanus sabinus
 name_: Hypanus_sabinus
 short_name: sHypSab

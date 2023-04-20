@@ -116,6 +116,26 @@ genome_size: 324331233
 genome_size_display: 324.33 Mbp
 last_raw_data: 1675913668
 last_updated: 1678289846
+metadata: |
+  species:
+    short_name: fSynAcu
+    name: Syngnathus acus
+    taxon_id: 161584
+    common_name: greater pipefish
+    order:
+      name: Syngnathiformes
+    family:
+      name: Syngnathidae
+    individuals:
+      - short_name: fSynAcu1
+        biosample_id:
+        sex:
+      - short_name: fSynAcu2
+        biosample_id: SAMEA13854528
+        sex:
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2019-10-03
 mito1filesize: 5.0 KiB
 mito1length: 16454

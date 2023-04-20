@@ -25,6 +25,26 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 0
 last_raw_data: 1678368091
 last_updated: 1678368091
+metadata: |
+  species:
+    short_name: fEleAnt
+    name: Electrona antarctica
+    taxon_id: 206093
+    common_name: Antarctic lanternfish
+    order:
+      name: Myctophiformes
+    family:
+      name: Myctophidae
+    individuals:
+      - short_name: fEleAnt2
+        biosample_id: SAMEA8748807
+        sex: female
+      - short_name: fEleAnt3
+        biosample_id: SAMEA8748808
+        sex:
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Electrona antarctica
 name_: Electrona_antarctica
 short_name: fEleAnt

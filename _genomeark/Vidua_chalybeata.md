@@ -66,6 +66,21 @@ genome_size: 1160000000
 genome_size_display: 1.16 Gbp
 last_raw_data: 1610479235
 last_updated: 1642416676
+metadata: |
+  species:
+    common_name: village indigobird
+    family:
+      name: Viduidae
+    genome_size: 1160000000
+    genome_size_method: null
+    individuals:
+    - short_name: bVidCha1
+    name: Vidua chalybeata
+    order:
+      name: Passeriformes
+    short_name: bVidCha
+    taxon_id: 81927
+    project: [ vgp ]
 mito1date: 2021-04-02
 mito1filesize: 5.1 KiB
 mito1length: 16892

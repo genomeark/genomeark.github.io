@@ -27,6 +27,23 @@ genome_size_display: 25.76 Gbp
 genome_size_method: GoaT
 last_raw_data: 1676650772
 last_updated: 1676650772
+metadata: |
+  species:
+    short_name: aLisHel
+    name: Lissotriton helveticus
+    taxon_id: 256425
+    common_name: palmate newt
+    order:
+      name: Caudata
+    family:
+      name: Salamandridae
+    individuals:
+      - short_name: aLisHel1
+        biosample_id: SAMEA110240860
+        sex: male
+    genome_size: 25760520000
+    genome_size_method: GoaT
+    project: [ ]
 name: Lissotriton helveticus
 name_: Lissotriton_helveticus
 short_name: aLisHel

@@ -77,6 +77,19 @@ genome_size: 1100361224
 genome_size_display: 1.10 Gbp
 last_raw_data: 1623939532
 last_updated: 1634554847
+metadata: |
+  species:
+    short_name: bApuApu
+    name: Apus apus
+    taxon_id: 8895
+    common_name: Common swift
+    order:
+      name: Apodiformes
+    family:
+      name: Apodidae
+    individuals:
+      - short_name: bApuApu2
+    project: [ vgp ]
 name: Apus apus
 name_: Apus_apus
 pri2date: 2021-10-18

@@ -27,6 +27,23 @@ genome_size_display: 1.35 Gbp
 genome_size_method: GoaT
 last_raw_data: 1676138377
 last_updated: 1676138377
+metadata: |
+  species:
+    short_name: rZooViv
+    name: Zootoca vivipara
+    taxon_id: 8524
+    common_name: common lizard
+    order:
+      name: Squamata
+    family:
+      name: Lacertidae
+    individuals:
+      - short_name: rZooViv1
+        biosample_id: SAMEA111528662
+        sex: female
+    genome_size: 1349640000
+    genome_size_method: GoaT
+    project: [ ]
 name: Zootoca vivipara
 name_: Zootoca_vivipara
 short_name: rZooViv

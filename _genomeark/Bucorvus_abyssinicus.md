@@ -77,6 +77,21 @@ genome_size: 1132597561
 genome_size_display: 1.13 Gbp
 last_raw_data: 1562595330
 last_updated: 1565897614
+metadata: |
+  species:
+    short_name: bBucAby
+    name: Bucorvus abyssinicus
+    taxon_id: 153643
+    common_name: Abyssinian ground-hornbill
+    order:
+      name: Bucerotiformes
+    family:
+      name: Bucorvidae
+    individuals:
+      - short_name: bBucAby1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Bucorvus abyssinicus
 name_: Bucorvus_abyssinicus
 pri1date: 2019-08-12

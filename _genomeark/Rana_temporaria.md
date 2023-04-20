@@ -77,6 +77,21 @@ genome_size: 4111422596
 genome_size_display: 4.11 Gbp
 last_raw_data: 1578516698
 last_updated: 1605869359
+metadata: |
+  species:
+    short_name: aRanTem
+    name: Rana temporaria
+    taxon_id: 8407
+    common_name: common frog
+    order:
+      name: Anura
+    family:
+      name: Ranidae
+    individuals:
+      - short_name: aRanTem1
+    genome_size: 
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2019-10-03
 mito1filesize: 5.9 KiB
 mito1length: 22664

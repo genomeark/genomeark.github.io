@@ -17,6 +17,23 @@ genome_size_display: 1.96 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675912025
 last_updated: 1675912027
+metadata: |
+  species:
+    short_name: fNanAch
+    name: Nannobrachium achirus
+    taxon_id: 473322
+    common_name: lantern fish
+    order:
+      name: Myctophiformes
+    family:
+      name: Myctophidae
+    individuals:
+      - short_name: fNanAch1
+        biosample_id: SAMEA12815432
+        sex:
+    genome_size: 1956000000
+    genome_size_method: GoaT
+    project: [ ]
 name: Nannobrachium achirus
 name_: Nannobrachium_achirus
 short_name: fNanAch

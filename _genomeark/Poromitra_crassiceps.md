@@ -25,6 +25,22 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 0
 last_raw_data: 1678982320
 last_updated: 1678982320
+metadata: |
+  species:
+    short_name: fPorCra
+    name: Poromitra crassiceps
+    taxon_id: 88708
+    common_name: crested bigscale
+    order:
+      name: Stephanoberyciformes
+    family:
+      name: Melamphaidae
+    individuals:
+      - short_name: fPorCra3
+        biosample_id: SAMEA8748835
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Poromitra crassiceps
 name_: Poromitra_crassiceps
 short_name: fPorCra

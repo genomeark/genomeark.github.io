@@ -77,6 +77,23 @@ genome_size: 3000000000
 genome_size_display: 3.00 Gbp
 last_raw_data: 1622136717
 last_updated: 1637843882
+metadata: |
+  species:
+    short_name: mSunEtr
+    name: Suncus etruscus
+    taxon_id: 109475
+    common_name: white-toothed pygmy shrew
+    order:
+      name: Eulipotyphla
+    family:
+      name: Soricidae
+    individuals:
+      - short_name: mSunEtr1
+        sex: male
+        provider: Susanne Meyer, Jessica Antosiewicz-Bourget, Yury Bukhman
+    genome_size: 3000000000
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2021-05-27
 mito1filesize: 5.0 KiB
 mito1length: 16982

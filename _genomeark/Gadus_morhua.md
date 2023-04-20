@@ -77,6 +77,21 @@ genome_size: 669949713
 genome_size_display: 0.67 Gbp
 last_raw_data: 1556739326
 last_updated: 1562780932
+metadata: |
+  species:
+    short_name: fGadMor
+    name: Gadus morhua
+    taxon_id: 8049
+    common_name: Atlantic cod
+    order:
+      name: Gadiformes
+    family:
+      name: Gadidae
+    individuals:
+      - short_name: fGadMor1
+    genome_size: 
+    genome_size_method:
+    project: [ vgp ]
 name: Gadus morhua
 name_: Gadus_morhua
 pri1date: 2019-07-10

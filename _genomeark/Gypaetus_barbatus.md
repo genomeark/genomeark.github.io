@@ -78,6 +78,21 @@ genome_size_display: 1.43 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651609477
 last_updated: 1651609477
+metadata: |
+  species:
+    name: Gypaetus barbatus
+    individuals:
+    - short_name: bGypBar2
+    short_name: bGypBar
+    taxon_id: '33610'
+    common_name: lammergeier
+    genome_size: 1434000000
+    genome_size_method: GoAT
+    order:
+      name: Falconiformes
+    family:
+      name: Accipitridae
+    project: [ vgp ]
 name: Gypaetus barbatus
 name_: Gypaetus_barbatus
 pri2date: 2021-12-17

@@ -95,6 +95,21 @@ hpb1sizes: |
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1651006024
 last_updated: 1669148183
+metadata: |
+  species:
+    name: Dasypus novemcinctus
+    individuals:
+    - short_name: mDasNov1
+    short_name: mDasNov
+    taxon_id: 9361
+    common_name: nine-banded armadillo
+    genome_size: 5291000000
+    genome_size_method: GoAT
+    order:
+      name: Cingulata
+    family:
+      name: Dasypodidae
+    project: [ vgp ]
 mito1date: 2022-11-22
 mito1filesize: 5.0 KiB
 mito1length: 17231

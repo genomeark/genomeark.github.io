@@ -85,6 +85,21 @@ hpb1sizes: |
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1633539302
 last_updated: 1671470261
+metadata: |
+  species:
+    name: Hypomesus transpacificus
+    individuals:
+    - short_name: fHypTra1
+    short_name: fHypTra
+    taxon_id: 137520
+    common_name: delta smelt
+    genome_size: 724000000
+    genome_size_method: GoAT
+    order:
+      name: Osmeriformes
+    family:
+      name: Osmeridae
+    project: [ vgp ]
 name: Hypomesus transpacificus
 name_: Hypomesus_transpacificus
 short_name: fHypTra

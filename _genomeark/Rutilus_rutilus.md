@@ -27,6 +27,23 @@ genome_size_display: 1.09 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675871672
 last_updated: 1675871674
+metadata: |
+  species:
+    short_name: fRutRut
+    name: Rutilus rutilus
+    taxon_id: 48668
+    common_name: roach minnow
+    order:
+      name: Cypriniformes
+    family:
+      name: Cyprinidae
+    individuals:
+      - short_name: fRutRut2
+        biosample_id: SAMEA11296543
+        sex: female
+    genome_size: 1085580000
+    genome_size_method: GoaT
+    project: [ ]
 name: Rutilus rutilus
 name_: Rutilus_rutilus
 short_name: fRutRut

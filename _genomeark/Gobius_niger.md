@@ -17,6 +17,23 @@ genome_size_display: 0.99 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675882502
 last_updated: 1675882504
+metadata: |
+  species:
+    short_name: fGobNig
+    name: Gobius niger
+    taxon_id: 85417
+    common_name: black goby
+    order:
+      name: Perciformes
+    family:
+      name: Gobiidae
+    individuals:
+      - short_name: fGobNig1
+        biosample_id: SAMEA13854149
+        sex:
+    genome_size: 987780000
+    genome_size_method: GoaT
+    project: [ ]
 name: Gobius niger
 name_: Gobius_niger
 short_name: fGobNig

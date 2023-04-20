@@ -78,6 +78,23 @@ genome_size_display: 1.40 Gbp
 genome_size_method: GoaT ancestral inferred
 last_raw_data: 1651596187
 last_updated: 1651597563
+metadata: |
+  species:
+    short_name: bFalBia
+    name: Falco biarmicus
+    taxon_id: 345155
+    common_name: lanner falcon
+    order:
+      name: Falconiformes
+    family:
+      name: Falconidae
+    individuals:
+      - short_name: bFalBia1
+        provider: Farooq Al-Ajli
+        sex: female
+    genome_size: 1400000000
+    genome_size_method: GoaT ancestral inferred
+    project: [ vgp ]
 name: Falco biarmicus
 name_: Falco_biarmicus
 pri1date: 2021-12-14

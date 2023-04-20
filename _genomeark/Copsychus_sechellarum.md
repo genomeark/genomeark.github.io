@@ -44,6 +44,21 @@ genome_size_display: 1.26 Gbp
 genome_size_method: GoAT
 last_raw_data: 1681935619
 last_updated: 1681935619
+metadata: |
+  species:
+    name: Copsychus sechellarum
+    individuals:
+    - short_name: bCopSec1
+    short_name: bCopSec
+    taxon_id: 797021
+    common_name: Seychelles magpie-robin
+    genome_size: 1261000000
+    genome_size_method: GoAT
+    order:
+      name: Passeriformes
+    family:
+      name: Muscicapidae
+    project: [ vgp ]
 name: Copsychus sechellarum
 name_: Copsychus_sechellarum
 short_name: bCopSec

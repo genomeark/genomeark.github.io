@@ -93,6 +93,21 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
+metadata: |
+  species:
+    common_name: epaulette shark
+    family:
+      name: Hemiscylliidae
+    genome_size: 5500000000
+    genome_size_method: null
+    individuals:
+    - short_name: sHemOce1
+    name: Hemiscyllium ocellatum
+    order:
+      name: Orectolobiformes
+    short_name: sHemOce
+    taxon_id: 170820
+    project: [ vgp ]
 mgd1date: 2021-05-28
 mgd1filesize: 1.1 GiB
 mgd1length: 3983466396

@@ -25,6 +25,21 @@ data_status: '<em style="color:forestgreen">PacBio CLR</em>'
 genome_size: 0
 last_raw_data: 1523481808
 last_updated: 1523481808
+metadata: |
+  species:
+    short_name: bTurMer
+    name: Turdus merula
+    taxon_id: 9187
+    common_name: blackbird
+    order:
+      name: Passeriformes
+    family:
+      name: Turdidae
+    individuals:
+      - short_name: bTurMer1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Turdus merula
 name_: Turdus_merula
 short_name: bTurMer

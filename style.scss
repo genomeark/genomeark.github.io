@@ -489,6 +489,7 @@ div.species-detail {      //  A div around the whole page.
 //    sd-cname          - common-name text at the top
 //    sd-info           - wrapper around the info block
 //    sd-image          - 
+//    sd-links          - links to external pages
 //
 .sd-sname {
   font-size:      200%;
@@ -546,6 +547,22 @@ div.sd-image {
   overflow:       auto;
   float:          right;
 }
+
+ul.sd-links {
+  list-style: inside square;
+  margin: 2px 0px 2px 20px;
+}
+li.sd-links {
+  margin: 2px 0px 2px 0px;
+}
+
+.metadata-display {
+  display: none;
+}
+.metadata-display.visible {
+  display: block;
+}
+
 
 //
 //  The raw data tables

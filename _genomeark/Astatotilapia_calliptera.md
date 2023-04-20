@@ -66,6 +66,21 @@ genome_size: 972478608
 genome_size_display: 0.97 Gbp
 last_raw_data: 1520006832
 last_updated: 1570719801
+metadata: |
+  species:
+    short_name: fAstCal
+    name: Astatotilapia calliptera
+    taxon_id: 8154
+    common_name: Eastern happy
+    order:
+      name: Cichliformes
+    family:
+      name: Cichlidae
+    individuals:
+      - short_name: fAstCal1
+    genome_size: 972478608
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2019-10-02
 mito1filesize: 5.0 KiB
 mito1length: 16582

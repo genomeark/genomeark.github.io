@@ -25,6 +25,23 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 0
 last_raw_data: 1675843982
 last_updated: 1675843982
+metadata: |
+  species:
+    short_name: bFriCoe
+    name: Fringilla coelebs
+    taxon_id: 37598
+    common_name: chaffinch
+    order:
+      name: Passeriformes
+    family:
+      name: Fringillidae
+    individuals:
+      - short_name: bFriCoe1
+        biosample_id: SAMEA9359753
+        sex: male
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Fringilla coelebs
 name_: Fringilla_coelebs
 short_name: bFriCoe

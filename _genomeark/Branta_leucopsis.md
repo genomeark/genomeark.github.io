@@ -25,6 +25,21 @@ data_status: '<em style="color:forestgreen">PacBio CLR</em>'
 genome_size: 0
 last_raw_data: 1536592916
 last_updated: 1536592916
+metadata: |
+  species:
+    short_name: bBraLeu
+    name: Branta leucopsis
+    taxon_id: 184711
+    common_name: barnacle goose
+    order:
+      name: Anseriformes
+    family:
+      name: Anatidae
+    individuals:
+      - short_name: bBraLeu1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Branta leucopsis
 name_: Branta_leucopsis
 short_name: bBraLeu

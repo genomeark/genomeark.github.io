@@ -17,6 +17,23 @@ genome_size_display: 1.41 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678361775
 last_updated: 1678361775
+metadata: |
+  species:
+    short_name: fLabMix
+    name: Labrus mixtus
+    taxon_id: 508554
+    common_name: cuckoo wrasse
+    order:
+      name: Perciformes
+    family:
+      name: Labridae
+    individuals:
+      - short_name: fLabMix1
+        biosample_id: SAMEA111562155
+        sex: male
+    genome_size: 1408320000
+    genome_size_method: GoaT
+    project: [ ]
 name: Labrus mixtus
 name_: Labrus_mixtus
 short_name: fLabMix

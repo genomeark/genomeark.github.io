@@ -87,6 +87,23 @@ genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 last_raw_data: 1651598796
 last_updated: 1651598796
+metadata: |
+  species:
+    short_name: bCorHaw
+    name: Corvus hawaiiensis
+    taxon_id: 134902
+    common_name: hawaiian crow
+    order:
+      name: Passeriformes
+    family:
+      name: Corvidae
+    individuals:
+      - short_name: bCorHaw1
+        sex: female
+        provider: Jolene Sutton, Stefanie Großer
+    genome_size: 1200000000
+    genome_size_method:
+    project: [ vgp ]
 name: Corvus hawaiiensis
 name_: Corvus_hawaiiensis
 pri1date: 2021-09-20

@@ -27,6 +27,38 @@ genome_size_display: 3.23 Gbp
 genome_size_method: GoaT ancestral inferred
 last_raw_data: 1676586870
 last_updated: 1676586870
+metadata: |
+  species:
+    short_name: mHooLeu
+    name: Hoolock leuconedys
+    common_name: eastern hoolock gibbon
+    taxon_id: 593543
+    order:
+      name: Primates
+    family:
+      name: Hominidae
+    individuals:
+    -
+        short_name: mHooLeu1
+        name: Arthur
+        biosample_id: SAMN33424221
+        strain: null
+        alt_ids:
+        - Arthur_HLE
+        sex: male
+        description: null
+        provider: Lucia Carbone (Oregon Health & Science University)
+        mother: null
+        father: null
+        samples:
+        -
+           sample_id: mHooLeu1.LCL1
+           tissue: lymphoblastoid cell line
+           dev_stage: adult
+           sample_biosample_id: null
+    genome_size: 3230000000
+    genome_size_method: GoaT ancestral inferred
+    project: [ ]
 name: Hoolock leuconedys
 name_: Hoolock_leuconedys
 short_name: mHooLeu

@@ -27,6 +27,23 @@ genome_size_display: 1.27 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678365020
 last_updated: 1678365020
+metadata: |
+  species:
+    short_name: fBenEln
+    name: Benthalbella elongata
+    taxon_id: 1090477
+    common_name: perl eyes
+    order:
+      name: Aulopiformes
+    family:
+      name: Scopelarchidae
+    individuals:
+      - short_name: fBenEln1
+        biosample_id: SAMEA12815437
+        sex:
+    genome_size: 1274456250
+    genome_size_method: GoaT
+    project: [ ]
 name: Benthalbella elongata
 name_: Benthalbella_elongata
 short_name: fBenEln

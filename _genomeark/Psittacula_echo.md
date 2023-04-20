@@ -17,6 +17,23 @@ genome_size_display: 1.25 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675810758
 last_updated: 1675810758
+metadata: |
+  species:
+    short_name: bPsiEch
+    name: Psittacula echo
+    taxon_id: 232653
+    common_name: Mauritius parakeet
+    order:
+      name: Psittaciformes
+    family:
+      name: Psittacidae
+    individuals:
+      - short_name: bPsiEch3
+        biosample_id: SAMEA12361725
+        sex:
+    genome_size: 1251840000
+    genome_size_method: GoaT
+    project: [ ]
 name: Psittacula echo
 name_: Psittacula_echo
 short_name: bPsiEch

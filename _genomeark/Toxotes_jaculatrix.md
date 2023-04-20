@@ -77,6 +77,19 @@ genome_size: 621503431
 genome_size_display: 0.62 Gbp
 last_raw_data: 1651601087
 last_updated: 1651601087
+metadata: |
+  species:
+    short_name: fToxJac
+    name: Toxotes jaculatrix
+    taxon_id: 941984
+    common_name: banded archerfish
+    order:
+      name: Perciformes
+    family:
+      name: Toxotidae
+    individuals:
+      - short_name: fToxJac2
+    project: [ vgp ]
 name: Toxotes jaculatrix
 name_: Toxotes_jaculatrix
 pri2date: 2021-03-05

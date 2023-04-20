@@ -144,6 +144,58 @@ hpb2sizes: |
 hpb2version: assembly_verkko_1.1-hic-freeze
 last_raw_data: 1671518523
 last_updated: 1680014744
+metadata: |
+  species:
+    short_name: mPonPyg
+    name: Pongo pygmaeus
+    common_name: Bornean orangutan
+    taxon_id: 9600
+    order:
+      name: Primates
+    family:
+      name: Hominidae
+    individuals:
+    -
+        short_name: mPonPyg2
+        name: null
+        biosample_id: SAMN10521809
+        strain: null
+        subspecies: null
+        alt_ids:
+        - AG05252
+        - AG05252_PPY
+        sex: male
+        description: null
+        provider: Coriell
+        father: null
+        mother: null
+    -
+        short_name: mPonPyg3
+        subspecies:
+          name: Pongo pygmaeus pygmaeus
+          common_name: Northwest Bornean orangutan
+          taxon_id: 9602
+        name: null
+        biosample_id: null
+        strain: null
+        alt_ids:
+        - PPY_3405
+        - Ppypy 3405
+        - 3405
+        sex: male
+        description: null
+        provider: Oliver Ryder (San Diego Zoo Wildlife Alliance)
+        mother: null
+        father: null
+        samples:
+        -
+           sample_id: mPonPyg3.testis1
+           tissue: testis
+           dev_stage: adult
+           sample_biosample_id: SAMN13178639
+    genome_size: 3579480000
+    genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
+    project: [ t2t ]
 name: Pongo pygmaeus
 name_: Pongo_pygmaeus
 short_name: mPonPyg

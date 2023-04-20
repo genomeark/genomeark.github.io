@@ -47,6 +47,21 @@ genome_size_display: 1.24 Gbp
 genome_size_method: GoAT
 last_raw_data: 1676044226
 last_updated: 1676044226
+metadata: |
+  species:
+    name: Chasiempis sclateri
+    individuals:
+    - short_name: bChaScl1
+    short_name: bChaScl
+    taxon_id: 1576535
+    common_name: Kauai elepaio
+    genome_size: 1235000000
+    genome_size_method: GoAT
+    order:
+      name: Passeriformes
+    family:
+      name: Monarchidae
+    project: [ vgp ]
 name: Chasiempis sclateri
 name_: Chasiempis_sclateri
 short_name: bChaScl

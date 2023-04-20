@@ -27,6 +27,23 @@ genome_size_display: 24.65 Gbp
 genome_size_method: GoaT
 last_raw_data: 1679946194
 last_updated: 1679946194
+metadata: |
+  species:
+    short_name: aLisVul
+    name: Lissotriton vulgaris
+    taxon_id: 8324
+    common_name: common newt
+    order:
+      name: Caudata
+    family:
+      name: Salamandridae
+    individuals:
+      - short_name: aLisVul1
+        biosample_id: SAMEA110240861
+        sex: female
+    genome_size: 24650490000
+    genome_size_method: GoaT
+    project: [ ]
 name: Lissotriton vulgaris
 name_: Lissotriton_vulgaris
 short_name: aLisVul

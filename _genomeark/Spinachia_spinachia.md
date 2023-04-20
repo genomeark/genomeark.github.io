@@ -17,6 +17,23 @@ genome_size_display: 0.63 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675814236
 last_updated: 1675814236
+metadata: |
+  species:
+    short_name: fSpiSpi
+    name: Spinachia spinachia
+    taxon_id: 206126
+    common_name: sea stickleback
+    order:
+      name: Gasterosteiformes
+    family:
+      name: Gasterosteidae
+    individuals:
+      - short_name: fSpiSpi2
+        biosample_id: SAMEA12231783
+        sex:
+    genome_size: 625920000
+    genome_size_method: GoaT
+    project: [ ]
 name: Spinachia spinachia
 name_: Spinachia_spinachia
 short_name: fSpiSpi

@@ -16,6 +16,21 @@ genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 last_raw_data: 1538676017
 last_updated: 1538676017
+metadata: |
+  species:
+    common_name: red devil cichlid
+    family:
+      name: Cichlidae
+    genome_size: 1000000000
+    genome_size_method: null
+    individuals:
+    - short_name: fAmpLab1
+    name: Amphilophus labiatus
+    order:
+      name: Cichliformes
+    short_name: fAmpLab
+    taxon_id: 61820
+    project: [ vgp ]
 name: Amphilophus labiatus
 name_: Amphilophus_labiatus
 short_name: fAmpLab

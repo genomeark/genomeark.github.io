@@ -27,6 +27,23 @@ genome_size_display: 0.84 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678519237
 last_updated: 1678519238
+metadata: |
+  species:
+    short_name: fEutGur
+    name: Eutrigla gurnardus
+    taxon_id: 426098
+    common_name: grey gurnard
+    order:
+      name: Scorpaeniformes
+    family:
+      name: Triglidae
+    individuals:
+      - short_name: fEutGur1
+        biosample_id: SAMEA111562159
+        sex:
+    genome_size: 836190000
+    genome_size_method: GoaT
+    project: [ ]
 name: Eutrigla gurnardus
 name_: Eutrigla_gurnardus
 short_name: fEutGur

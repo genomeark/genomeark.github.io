@@ -77,6 +77,21 @@ genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 last_raw_data: 1618859438
 last_updated: 1623161222
+metadata: |
+  species:
+    short_name: bTroSur
+    name: Trogon surrucura
+    taxon_id: 297711
+    common_name: Suruca trogon
+    order:
+      name: Trogoniformes
+    family:
+      name: Trogonidae
+    individuals:
+      - short_name: bTroSur1
+    genome_size: 1000000000
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2021-01-21
 mito1filesize: 5.2 KiB
 mito1length: 22126

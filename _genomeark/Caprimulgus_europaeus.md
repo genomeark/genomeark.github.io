@@ -78,6 +78,21 @@ genome_size_display: 1.18 Gbp
 genome_size_method: genomescope (k=31)
 last_raw_data: 1639861605
 last_updated: 1639861605
+metadata: |
+  species:
+    common_name: Eurasian nightjar
+    family:
+      name: Caprimulgidae
+    genome_size: 1183056838
+    genome_size_method: genomescope (k=31)
+    individuals:
+    - short_name: bCapEur3
+    name: Caprimulgus europaeus
+    order:
+      name: Caprimulgiformes
+    short_name: bCapEur
+    taxon_id: 111811
+    project: [ vgp ]
 name: Caprimulgus europaeus
 name_: Caprimulgus_europaeus
 pri3date: 2021-04-01

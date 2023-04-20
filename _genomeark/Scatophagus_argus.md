@@ -78,6 +78,21 @@ genome_size_display: 0.65 Gbp
 genome_size_method: genomescope
 last_raw_data: 1585955244
 last_updated: 1628608234
+metadata: |
+  species:
+    common_name: spotted scat
+    family:
+      name: Scatophagidae
+    genome_size: 647966298
+    genome_size_method: genomescope
+    individuals:
+    - short_name: fScaArg1
+    name: Scatophagus argus
+    order:
+      name: Perciformes
+    short_name: fScaArg
+    taxon_id: 75038
+    project: [ vgp ]
 mito1date: 2020-03-31
 mito1filesize: 5.0 KiB
 mito1length: 16771

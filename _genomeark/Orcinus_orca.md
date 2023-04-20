@@ -47,6 +47,22 @@ genome_size: 2647351467
 genome_size_display: 2.65 Gbp
 last_raw_data: 1651606806
 last_updated: 1651606806
+metadata: |
+  species:
+    short_name: mOrcOrc
+    name: Orcinus orca
+    taxon_id: 9733
+    common_name: killer whale
+    order:
+      name: Artiodactyla
+    family:
+      name: Delphinidae
+    individuals:
+      - short_name: mOrcOrc1
+        sex: female
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Orcinus orca
 name_: Orcinus_orca
 pri1date: 2022-03-25

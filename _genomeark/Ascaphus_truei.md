@@ -47,6 +47,21 @@ genome_size_display: 4.04 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651603593
 last_updated: 1651603593
+metadata: |
+  species:
+    name: Ascaphus truei
+    individuals:
+    - short_name: aAscTru4
+    short_name: aAscTru
+    taxon_id: 8439
+    common_name: tailed frog
+    genome_size: 4042000000
+    genome_size_method: GoAT
+    order:
+      name: Anura
+    family:
+      name: Ascaphidae
+    project: [ vgp ]
 name: Ascaphus truei
 name_: Ascaphus_truei
 short_name: aAscTru

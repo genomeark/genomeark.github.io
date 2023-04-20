@@ -77,6 +77,21 @@ genome_size: 1400000000
 genome_size_display: 1.40 Gbp
 last_raw_data: 1594746258
 last_updated: 1617106903
+metadata: |
+  species:
+    common_name: common cuckoo
+    family:
+      name: Cuculidae
+    genome_size: 1400000000
+    genome_size_method: null
+    individuals:
+    - short_name: bCucCan1
+    name: Cuculus canorus
+    order:
+      name: Cuculiformes
+    short_name: bCucCan
+    taxon_id: 55661
+    project: [ vgp ]
 mito1date: 2019-12-16
 mito1filesize: 5.3 KiB
 mito1length: 19698

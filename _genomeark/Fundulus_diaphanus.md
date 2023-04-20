@@ -27,6 +27,21 @@ genome_size_display: 1.52 Gbp
 genome_size_method: GoAT
 last_raw_data: 1628121731
 last_updated: 1628121731
+metadata: |
+  species:
+    name: Fundulus diaphanus
+    individuals:
+    - short_name: fFunDia1
+    short_name: fFunDia
+    taxon_id: 54267
+    common_name: banded killifish
+    genome_size: 1515000000
+    genome_size_method: GoAT
+    order:
+      name: Cyprinodontiformes
+    family:
+      name: Fundulidae
+    project: [ vgp ]
 name: Fundulus diaphanus
 name_: Fundulus_diaphanus
 short_name: fFunDia

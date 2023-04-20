@@ -27,6 +27,23 @@ genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1677589486
 last_updated: 1677589486
+metadata: |
+  species:
+    short_name: fEleSub
+    name: Electrona subaspera
+    taxon_id: 948024
+    common_name: rough lanternfish
+    order:
+      name: Myctophiformes
+    family:
+      name: Myctophidae
+    individuals:
+      - short_name: fEleSub1
+        biosample_id: SAMEA12815436
+        sex: female
+    genome_size: 1907100000
+    genome_size_method: GoaT
+    project: [ ]
 name: Electrona subaspera
 name_: Electrona_subaspera
 short_name: fEleSub

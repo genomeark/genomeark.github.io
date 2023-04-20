@@ -94,6 +94,21 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
+metadata: |
+  species:
+    common_name: bottlenose dolphin
+    family:
+      name: Delphinidae
+    genome_size: 3200000000
+    genome_size_method: null
+    individuals:
+    - short_name: mTurTru1
+    name: Tursiops truncatus
+    order:
+      name: Artiodactyla
+    short_name: mTurTru
+    taxon_id: 9739
+    project: [ vgp ]
 mgd1date: 2020-01-15
 mgd1filesize: 688.7 MiB
 mgd1length: 2378505825

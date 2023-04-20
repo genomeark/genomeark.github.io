@@ -35,6 +35,26 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 0
 last_raw_data: 1651593803
 last_updated: 1651593803
+metadata: |
+  species:
+    short_name: mMyoGla
+    name: Myodes glareolus
+    taxon_id: 447135
+    common_name: bank vole
+    order:
+      name: Rodentia
+    family:
+      name: Cricetidae
+    individuals:
+      - short_name: mMyoGla1
+        biosample_id: SAMEA7702027
+        sex: female
+      - short_name: mMyoGla2
+        biosample_id: SAMEA7702028
+        sex: male
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Myodes glareolus
 name_: Myodes_glareolus
 short_name: mMyoGla

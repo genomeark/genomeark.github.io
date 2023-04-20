@@ -67,6 +67,21 @@ genome_size_display: 0.68 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651608069
 last_updated: 1651608069
+metadata: |
+  species:
+    name: Osmerus mordax
+    individuals:
+    - short_name: fOsmMor3
+    short_name: fOsmMor
+    taxon_id: 8014
+    common_name: rainbow smelt
+    genome_size: 675000000
+    genome_size_method: GoAT
+    order:
+      name: Osmeriformes
+    family:
+      name: Osmeridae
+    project: [ vgp ]
 name: Osmerus mordax
 name_: Osmerus_mordax
 short_name: fOsmMor

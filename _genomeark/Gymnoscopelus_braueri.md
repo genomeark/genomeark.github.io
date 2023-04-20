@@ -27,6 +27,23 @@ genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675878507
 last_updated: 1675878509
+metadata: |
+  species:
+    short_name: fGymBra
+    name: Gymnoscopelus braueri
+    taxon_id: 948025
+    common_name: Brauer's lanternfish
+    order:
+      name: Myctophiformes
+    family:
+      name: Myctophidae
+    individuals:
+      - short_name: fGymBra2
+        biosample_id: SAMEA12815494
+        sex:
+    genome_size: 1907100000
+    genome_size_method: GoaT
+    project: [ ]
 name: Gymnoscopelus braueri
 name_: Gymnoscopelus_braueri
 short_name: fGymBra

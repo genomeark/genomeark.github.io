@@ -77,6 +77,19 @@ genome_size: 764974446
 genome_size_display: 0.76 Gbp
 last_raw_data: 1651608637
 last_updated: 1671140480
+metadata: |
+  species:
+    short_name: fPanHyp
+    name: Pangasianodon hypophthalmus 
+    taxon_id: 310915
+    common_name: Iridescent shark
+    order:
+      name: Siluriformes
+    family:
+      name: Pangasiidae
+    individuals:
+      - short_name: fPanHyp1
+    project: [ vgp ]
 mito1date: 2022-12-13
 mito1filesize: 5.0 KiB
 mito1length: 16523

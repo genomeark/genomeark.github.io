@@ -25,6 +25,22 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 0
 last_raw_data: 1678374556
 last_updated: 1678374556
+metadata: |
+  species:
+    short_name: fNotCoa
+    name: Notolepis coatsi
+    taxon_id: 948063
+    common_name: Antarctic jonasfish
+    order:
+      name: Aulopiformes
+    family:
+      name: Paralepididae
+    individuals:
+      - short_name: fNotCoa1
+        biosample_id: SAMEA8748820
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Notolepis coatsi
 name_: Notolepis_coatsi
 short_name: fNotCoa

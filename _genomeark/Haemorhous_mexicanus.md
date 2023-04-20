@@ -78,6 +78,21 @@ genome_size_display: 1.37 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651611249
 last_updated: 1651611249
+metadata: |
+  species:
+    name: Haemorhous mexicanus
+    individuals:
+    - short_name: bHaeMex1
+    short_name: bHaeMex
+    taxon_id: '30427'
+    common_name: house finch
+    genome_size: 1369000000
+    genome_size_method: GoAT
+    order:
+      name: Passeriformes
+    family:
+      name: Fringillidae
+    project: [ vgp ]
 name: Haemorhous mexicanus
 name_: Haemorhous_mexicanus
 pri1date: 2022-02-03

@@ -87,6 +87,19 @@ genome_size: 3872581802
 genome_size_display: 3.87 Gbp
 last_raw_data: 1628250249
 last_updated: 1671740337
+metadata: |
+  species:
+    short_name: aDisPic
+    name: Discoglossus pictus
+    taxon_id: 8351
+    common_name: painted frog
+    order:
+      name: Anura
+    family:
+      name: Alytidae
+    individuals:
+      - short_name: aDisPic1
+    project: [ vgp ]
 mito1date: 2022-12-22
 mito1filesize: 5.2 KiB
 mito1length: 20250

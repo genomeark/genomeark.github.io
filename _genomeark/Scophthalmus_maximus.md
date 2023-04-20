@@ -17,6 +17,23 @@ genome_size_display: 0.84 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675897877
 last_updated: 1675897879
+metadata: |
+  species:
+    short_name: fScoMax
+    name: Scophthalmus maximus
+    taxon_id: 52904
+    common_name: turbot
+    order:
+      name: Pleuronectiformes
+    family:
+      name: Scophthalmidae
+    individuals:
+      - short_name: fScoMax1
+        biosample_id: SAMEA110450106
+        sex:
+    genome_size: 841080000
+    genome_size_method: GoaT
+    project: [ ]
 name: Scophthalmus maximus
 name_: Scophthalmus_maximus
 short_name: fScoMax

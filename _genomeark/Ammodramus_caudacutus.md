@@ -88,6 +88,21 @@ genome_size_display: 1.31 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651595293
 last_updated: 1651595293
+metadata: |
+  species:
+    name: Ammodramus caudacutus
+    individuals:
+    - short_name: bAmmCau1
+    short_name: bAmmCau
+    taxon_id: 69262
+    common_name: saltmarsh sparrow
+    genome_size: 1306000000
+    genome_size_method: GoAT
+    order:
+      name: Passeriformes
+    family:
+      name: Passerellidae
+    project: [ vgp ]
 name: Ammodramus caudacutus
 name_: Ammodramus_caudacutus
 pri1date: 2022-04-22

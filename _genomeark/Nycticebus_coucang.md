@@ -88,6 +88,21 @@ genome_size_display: 3.50 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651605637
 last_updated: 1667318869
+metadata: |
+  species:
+    name: Nycticebus coucang
+    individuals:
+    - short_name: mNycCou1
+    short_name: mNycCou
+    taxon_id: 9470
+    common_name: slow loris
+    genome_size: 3501000000
+    genome_size_method: GoAT
+    order:
+      name: Primates
+    family:
+      name: Lorisidae
+    project: [ vgp ]
 mito1date: 2022-06-15
 mito1filesize: 5.0 KiB
 mito1length: 16752

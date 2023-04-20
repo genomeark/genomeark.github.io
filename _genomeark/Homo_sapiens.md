@@ -160,6 +160,23 @@ mat3sizes: |
   </tfoot>
   </table>
 mat3version: assembly_curated
+metadata: |
+  species:
+    common_name: human
+    family:
+      name: Hominidae
+    genome_size: 3200000000
+    genome_size_method: null
+    individuals:
+    - short_name: mHomSap3
+    - short_name: mHomSap1
+    - short_name: mHomSap2
+    name: Homo sapiens
+    order:
+      name: Primates
+    short_name: mHomSap
+    taxon_id: 9606
+    project: [ vgp ]
 mito3date: 2019-08-16
 mito3filesize: 4.9 KiB
 mito3length: 16566

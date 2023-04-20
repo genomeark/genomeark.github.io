@@ -25,6 +25,22 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 0
 last_raw_data: 1679174049
 last_updated: 1679174049
+metadata: |
+  species:
+    short_name: fStoBoa
+    name: Stomias boa
+    taxon_id: 472766
+    common_name: boa dragonfish
+    order:
+      name: Stomiiformes
+    family:
+      name: Stomiidae
+    individuals:
+      - short_name: fStoBoa2
+        biosample_id: SAMEA8748840
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Stomias boa
 name_: Stomias_boa
 short_name: fStoBoa

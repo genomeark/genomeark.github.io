@@ -106,6 +106,21 @@ hpb1sizes: |
 hpb1version: assembly_curated
 last_raw_data: 1651668699
 last_updated: 1674053840
+metadata: |
+  species:
+    name: Eubalaena glacialis
+    individuals:
+    - short_name: mEubGla1
+    short_name: mEubGla
+    taxon_id: 27606
+    common_name: North Atlantic right whale
+    genome_size: 2866000000
+    genome_size_method: GoAT
+    order:
+      name: Artiodactyla
+    family:
+      name: Balaenidae
+    project: [ vgp ]
 name: Eubalaena glacialis
 name_: Eubalaena_glacialis
 short_name: mEubGla

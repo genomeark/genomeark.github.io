@@ -27,6 +27,23 @@ genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1676996604
 last_updated: 1676996604
+metadata: |
+  species:
+    short_name: fProBol
+    name: Protomyctophum bolini
+    taxon_id: 443714
+    common_name: Bolin's lanternfish
+    order:
+      name: Myctophiformes
+    family:
+      name: Myctophidae
+    individuals:
+      - short_name: fProBol1
+        biosample_id: SAMEA12815434
+        sex: male
+    genome_size: 1907100000
+    genome_size_method: GoaT
+    project: [ ]
 name: Protomyctophum bolini
 name_: Protomyctophum_bolini
 short_name: fProBol

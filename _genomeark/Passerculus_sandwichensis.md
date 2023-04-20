@@ -45,6 +45,21 @@ genome_size_display: 1.18 Gbp
 genome_size_method: GoAT
 last_raw_data: 1678303917
 last_updated: 1678314126
+metadata: |
+  species:
+    name: Passerculus sandwichensis
+    individuals:
+    - short_name: bPasSan1
+    short_name: bPasSan
+    taxon_id: '161624'
+    common_name: Savannah sparrow
+    genome_size: 1178000000
+    genome_size_method: GoAT
+    order:
+      name: Passeriformes
+    family:
+      name: Passerellidae
+    project: [ vgp ]
 mito2date: 2023-03-07
 mito2filesize: 5.4 KiB
 mito2length: 16778

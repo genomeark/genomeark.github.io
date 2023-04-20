@@ -77,6 +77,21 @@ genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 last_raw_data: 1570708223
 last_updated: 1584960723
+metadata: |
+  species:
+    common_name: red-bellied piranha
+    family:
+      name: Serrasalmidae
+    genome_size: 1200000000
+    genome_size_method: null
+    individuals:
+    - short_name: fPygNat1
+    name: Pygocentrus nattereri
+    order:
+      name: Characiformes
+    short_name: fPygNat
+    taxon_id: 42514
+    project: [ vgp ]
 mito1date: 2019-10-07
 mito1filesize: 5.0 KiB
 mito1length: 16708

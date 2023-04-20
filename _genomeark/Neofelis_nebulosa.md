@@ -88,6 +88,21 @@ genome_size_display: 2.71 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651601208
 last_updated: 1667318819
+metadata: |
+  species:
+    name: Neofelis nebulosa
+    individuals:
+    - short_name: mNeoNeb1
+    short_name: mNeoNeb
+    taxon_id: '61452'
+    common_name: Clouded leopard
+    genome_size: 2709000000
+    genome_size_method: GoAT
+    order:
+      name: Carnivora
+    family:
+      name: Felidae
+    project: [ vgp ]
 mito1date: 2022-06-15
 mito1filesize: 5.0 KiB
 mito1length: 16839

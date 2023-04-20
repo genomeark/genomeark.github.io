@@ -77,6 +77,21 @@ genome_size: 835254674
 genome_size_display: 0.84 Gbp
 last_raw_data: 1556731081
 last_updated: 1561653213
+metadata: |
+  species:
+    short_name: fMyrMur
+    name: Myripristis murdjan
+    taxon_id: 586833
+    common_name: pinecone soldierfish
+    order:
+      name: Holocentriformes
+    family:
+      name: Holocentridae
+    individuals:
+      - short_name: fMyrMur1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Myripristis murdjan
 name_: Myripristis_murdjan
 pri1date: 2019-06-21

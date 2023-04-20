@@ -35,6 +35,22 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 0
 last_raw_data: 1675845395
 last_updated: 1675845395
+metadata: |
+  species:
+    short_name: fLipPho
+    name: Lipophrys pholis
+    taxon_id: 56720
+    common_name: shanny
+    order:
+      name: Blenniiformes
+    family:
+      name: Blenniidae
+    individuals:
+      - short_name: fLipPho2
+        biosample_id: SAMEA7522844
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Lipophrys pholis
 name_: Lipophrys_pholis
 short_name: fLipPho

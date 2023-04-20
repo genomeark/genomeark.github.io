@@ -77,6 +77,21 @@ genome_size: 567401054
 genome_size_display: 0.57 Gbp
 last_raw_data: 1535895622
 last_updated: 1570719802
+metadata: |
+  species:
+    short_name: fDenClu
+    name: Denticeps clupeoides
+    taxon_id: 299321
+    common_name: denticle herring
+    order:
+      name: Clupeiformes
+    family:
+      name: Denticipitidae
+    individuals:
+      - short_name: fDenClu1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2019-10-02
 mito1filesize: 5.1 KiB
 mito1length: 16916

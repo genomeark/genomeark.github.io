@@ -77,6 +77,19 @@ genome_size: 865575964
 genome_size_display: 0.87 Gbp
 last_raw_data: 1603704613
 last_updated: 1615806305
+metadata: |
+  species:
+    short_name: fMelBoe
+    name: Melanotaenia boesemani
+    taxon_id: 1250792
+    common_name: Boeseman's rainbowfish
+    order:
+      name: Atheriniformes
+    family:
+      name: Melanotaeniidae
+    individuals:
+      - short_name: fMelBoe1
+    project: [ vgp ]
 mito1date: 2019-10-02
 mito1filesize: 5.2 KiB
 mito1length: 16541

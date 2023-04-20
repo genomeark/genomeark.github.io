@@ -27,6 +27,23 @@ genome_size_display: 1.97 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675888353
 last_updated: 1675888355
+metadata: |
+  species:
+    short_name: fCarCar
+    name: Carassius carassius
+    taxon_id: 217509
+    common_name: crucian carp
+    order:
+      name: Cypriniformes
+    family:
+      name: Cyprinidae
+    individuals:
+      - short_name: fCarCar2
+        biosample_id: SAMEA11296534
+        sex: female
+    genome_size: 1965780000
+    genome_size_method: GoaT
+    project: [ ]
 name: Carassius carassius
 name_: Carassius_carassius
 short_name: fCarCar

@@ -67,6 +67,23 @@ genome_size: 1398027955
 genome_size_display: 1.40 Gbp
 last_raw_data: 1651593249
 last_updated: 1651593249
+metadata: |
+  species:
+    short_name: bAccGen
+    name: Accipiter gentilis
+    taxon_id: 8957
+    common_name: northern goshawk
+    order:
+      name: Accipitriformes
+    family:
+      name: Accipitridae
+    individuals:
+      - short_name: bAccGen1
+        biosample_id: SAMEA8235650
+        sex: female
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Accipiter gentilis
 name_: Accipiter_gentilis
 pri1date: 2022-02-04

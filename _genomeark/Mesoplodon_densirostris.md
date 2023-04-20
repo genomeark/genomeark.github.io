@@ -78,6 +78,21 @@ genome_size_display: 3.38 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651616843
 last_updated: 1667318720
+metadata: |
+  species:
+    name: Mesoplodon densirostris
+    individuals:
+    - short_name: mMesDen1
+    short_name: mMesDen
+    taxon_id: 48708
+    common_name: Blainville's beaked whale
+    genome_size: 3377000000
+    genome_size_method: GoAT
+    order:
+      name: Artiodactyla
+    family:
+      name: Ziphiidae
+    project: [ vgp ]
 mito1date: 2022-06-17
 mito1filesize: 4.9 KiB
 mito1length: 16347

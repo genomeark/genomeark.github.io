@@ -77,6 +77,21 @@ genome_size: 1193409022
 genome_size_display: 1.19 Gbp
 last_raw_data: 1568581172
 last_updated: 1580938436
+metadata: |
+  species:
+    short_name: bStrHab
+    name: Strigops habroptilus
+    taxon_id: 57251
+    common_name: kakapo
+    order:
+      name: Psittaciformes
+    family:
+      name: Psittacidae
+    individuals:
+      - short_name: bStrHab1
+    genome_size: 1193409022
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2018-12-11
 mito1filesize: 5.5 KiB
 mito1length: 17830

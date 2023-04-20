@@ -47,6 +47,19 @@ genome_size: 2003238046
 genome_size_display: 2.00 Gbp
 last_raw_data: 1574722019
 last_updated: 1582303772
+metadata: |
+  species:
+    common_name: Greater mouse-eared bat
+    family:
+      name: Vespertilionidae
+    individuals:
+    - short_name: mMyoMyo1
+    name: Myotis myotis
+    order:
+      name: Chiroptera
+    short_name: mMyoMyo
+    taxon_id: 51298
+    project: [ vgp ]
 mito1date: 2019-12-05
 mito1filesize: 5.0 KiB
 mito1length: 17308

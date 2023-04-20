@@ -162,6 +162,21 @@ hpb3sizes: |
 hpb3version: assembly_curated
 last_raw_data: 1678825205
 last_updated: 1678825205
+metadata: |
+  species:
+    name: Pseudophryne corroboree
+    individuals:
+    - short_name: aPseCor3
+    short_name: aPseCor
+    taxon_id: 495146
+    common_name: corroboree frog
+    genome_size: 8557000000
+    genome_size_method: GoAT
+    order:
+      name: Anura
+    family:
+      name: Myobatrachidae
+    project: [ vgp ]
 name: Pseudophryne corroboree
 name_: Pseudophryne_corroboree
 short_name: aPseCor

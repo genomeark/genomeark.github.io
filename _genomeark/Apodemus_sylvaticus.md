@@ -67,6 +67,26 @@ genome_size: 2889801511
 genome_size_display: 2.89 Gbp
 last_raw_data: 1651598199
 last_updated: 1678366862
+metadata: |
+  species:
+    short_name: mApoSyl
+    name: Apodemus sylvaticus
+    taxon_id: 10129
+    common_name: wood mouse
+    order:
+      name: Rodentia
+    family:
+      name: Muridae
+    individuals:
+      - short_name: mApoSyl1
+        biosample_id: SAMEA7702024
+        sex: male
+      - short_name: mApoSyl2
+        biosample_id: SAMEA7702026
+        sex: female
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Apodemus sylvaticus
 name_: Apodemus_sylvaticus
 pri1date: 2023-03-09

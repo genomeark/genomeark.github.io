@@ -17,6 +17,23 @@ genome_size_display: 2.92 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675913303
 last_updated: 1675913305
+metadata: |
+  species:
+    short_name: mMunRee
+    name: Muntiacus reevesi
+    taxon_id: 9886
+    common_name: Reeves' muntjac
+    order:
+      name: Artiodactyla
+    family:
+      name: Cervidae
+    individuals:
+      - short_name: mMunRee2
+        biosample_id: SAMEA110690973
+        sex: male
+    genome_size: 2924220000
+    genome_size_method: GoaT
+    project: [ ]
 name: Muntiacus reevesi
 name_: Muntiacus_reevesi
 short_name: mMunRee

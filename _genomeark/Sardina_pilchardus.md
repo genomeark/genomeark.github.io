@@ -27,6 +27,23 @@ genome_size_display: 1.00 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678519530
 last_updated: 1678519532
+metadata: |
+  species:
+    short_name: fSarPil
+    name: Sardina pilchardus
+    taxon_id: 27697
+    common_name: sardine
+    order:
+      name: Clupeiformes
+    family:
+      name: Clupeidae
+    individuals:
+      - short_name: fSarPil1
+        biosample_id: SAMEA111562172
+        sex:
+    genome_size: 997560000
+    genome_size_method: GoaT
+    project: [ ]
 name: Sardina pilchardus
 name_: Sardina_pilchardus
 short_name: fSarPil

@@ -77,6 +77,21 @@ genome_size: 797490645
 genome_size_display: 0.80 Gbp
 last_raw_data: 1554447472
 last_updated: 1561653349
+metadata: |
+  species:
+    short_name: fSalaFa
+    name: Salarias fasciatus
+    taxon_id: 181472
+    common_name: jewelled blenny
+    order:
+      name: Blenniiformes
+    family:
+      name: Blenniidae
+    individuals:
+      - short_name: fSalaFa1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Salarias fasciatus
 name_: Salarias_fasciatus
 pri1date: 2019-06-24

@@ -77,6 +77,23 @@ genome_size: 820163303
 genome_size_display: 0.82 Gbp
 last_raw_data: 1675851577
 last_updated: 1675851577
+metadata: |
+  species:
+    short_name: fTraTra
+    name: Trachurus trachurus
+    taxon_id: 36212
+    common_name: Atlantic horse mackerel
+    order:
+      name: Carangiformes
+    family:
+      name: Carangidae
+    individuals:
+      - short_name: fTraTra1
+        biosample_id: SAMEA7524396
+        sex:
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2019-10-03
 mito1filesize: 5.3 KiB
 mito1length: 16561

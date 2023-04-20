@@ -27,6 +27,21 @@ genome_size_display: 1.31 Gbp
 genome_size_method: GoAT
 last_raw_data: 1633554374
 last_updated: 1633555001
+metadata: |
+  species:
+    name: Ammodramus maritimus
+    individuals:
+    - short_name: bAmmMai1
+    short_name: bAmmMai
+    taxon_id: 371905
+    common_name: seaside sparrow
+    genome_size: 1306000000
+    genome_size_method: GoAT
+    order:
+      name: Passeriformes
+    family:
+      name: Passerellidae
+    project: [ vgp ]
 name: Ammodramus maritimus
 name_: Ammodramus_maritimus
 short_name: bAmmMai

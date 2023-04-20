@@ -77,6 +77,21 @@ genome_size: 4220389930
 genome_size_display: 4.22 Gbp
 last_raw_data: 1608203939
 last_updated: 1608203939
+metadata: |
+  species:
+    short_name: sScyCan
+    name: Scyliorhinus canicula
+    taxon_id: 7830
+    common_name: lesser-spotted catshark
+    order:
+      name: Carcharhiniformes
+    family:
+      name: Scyliorhinidae
+    individuals:
+      - short_name: sScyCan1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Scyliorhinus canicula
 name_: Scyliorhinus_canicula
 pri1date: 2019-12-16

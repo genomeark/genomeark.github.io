@@ -27,6 +27,26 @@ genome_size_display: 3.58 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678549878
 last_updated: 1678549878
+metadata: |
+  species:
+    short_name: mEriEur
+    name: Erinaceus europaeus
+    taxon_id: 9365
+    common_name: western European hedgehog
+    order:
+      name: Erinaceomorpha
+    family:
+      name: Erinaceidae
+    individuals:
+      - short_name: mEriEur1
+        biosample_id: SAMEA13207413
+        sex: male
+      - short_name: mEriEur2
+        biosample_id: SAMEA13207416
+        sex: female
+    genome_size: 3579480000
+    genome_size_method: GoaT
+    project: [ ]
 name: Erinaceus europaeus
 name_: Erinaceus_europaeus
 short_name: mEriEur

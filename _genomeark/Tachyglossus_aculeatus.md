@@ -77,6 +77,21 @@ genome_size: 2890000000
 genome_size_display: 2.89 Gbp
 last_raw_data: 1584648955
 last_updated: 1600456374
+metadata: |
+  species:
+    common_name: short-beaked echidna
+    family:
+      name: Tachyglossidae
+    genome_size: 2890000000
+    genome_size_method: null
+    individuals:
+    - short_name: mTacAcu1
+    name: Tachyglossus aculeatus
+    order:
+      name: Monotremata
+    short_name: mTacAcu
+    taxon_id: 9261
+    project: [ vgp ]
 mito1date: 2019-10-03
 mito1filesize: 4.9 KiB
 mito1length: 16381

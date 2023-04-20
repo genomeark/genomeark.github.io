@@ -48,6 +48,21 @@ genome_size_display: 1.78 Gbp
 genome_size_method: DAmar assembly
 last_raw_data: 1574852977
 last_updated: 1582303601
+metadata: |
+  species:
+    short_name: mPipKuh
+    name: Pipistrellus kuhlii
+    taxon_id: 59472
+    common_name: Kuhl's pipistrelle
+    order:
+      name: Chiroptera
+    family:
+      name: Vespertilionidae
+    individuals:
+      - short_name: mPipKuh1
+    genome_size: 1775719727
+    genome_size_method: DAmar assembly 
+    project: [ vgp ]
 mito1date: 2019-12-04
 mito1filesize: 4.9 KiB
 mito1length: 17207

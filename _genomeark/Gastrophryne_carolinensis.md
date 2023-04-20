@@ -106,6 +106,21 @@ hpb1sizes: |
 hpb1version: assembly_curated
 last_raw_data: 1651607852
 last_updated: 1657711231
+metadata: |
+  species:
+    name: Gastrophryne carolinensis
+    individuals:
+    - short_name: aGasCar1
+    short_name: aGasCar
+    taxon_id: 8429
+    common_name: eastern narrow-mouthed toad
+    genome_size: 4548000000
+    genome_size_method: GoAT
+    order:
+      name: Anura
+    family:
+      name: Microhylidae
+    project: [ vgp ]
 name: Gastrophryne carolinensis
 name_: Gastrophryne_carolinensis
 short_name: aGasCar

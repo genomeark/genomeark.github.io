@@ -27,6 +27,23 @@ genome_size_display: 2.85 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675905294
 last_updated: 1675905297
+metadata: |
+  species:
+    short_name: mChiNiv
+    name: Chionomys nivalis
+    taxon_id: 269649
+    common_name: European snow vole
+    order:
+      name: Rodentia
+    family:
+      name: Cricetidae
+    individuals:
+      - short_name: mChiNiv1
+        biosample_id: SAMEA13217622
+        sex: male
+    genome_size: 2845980000
+    genome_size_method: GoaT
+    project: [ ]
 name: Chionomys nivalis
 name_: Chionomys_nivalis
 short_name: mChiNiv

@@ -67,6 +67,21 @@ genome_size: 1310000000
 genome_size_display: 1.31 Gbp
 last_raw_data: 1582385679
 last_updated: 1670603457
+metadata: |
+  species:
+    common_name: barn swallow
+    family:
+      name: Hirundinidae
+    genome_size: 1310000000
+    genome_size_method: null
+    individuals:
+    - short_name: bHirRus1
+    name: Hirundo rustica
+    order:
+      name: Passeriformes
+    short_name: bHirRus
+    taxon_id: 43150
+    project: [ vgp ]
 name: Hirundo rustica
 name_: Hirundo_rustica
 pri1date: 2021-08-20

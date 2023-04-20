@@ -77,6 +77,21 @@ genome_size: 2684436481
 genome_size_display: 2.68 Gbp
 last_raw_data: 1529613892
 last_updated: 1570720002
+metadata: |
+  species:
+    short_name: rGopEvg
+    name: Gopherus evgoodei
+    taxon_id: 1825980
+    common_name: Goode's thornscrub tortoise
+    order:
+      name: Testudines
+    family:
+      name: Testudinidae
+    individuals:
+      - short_name: rGopEvg1
+    genome_size: 2684436481
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2019-10-02
 mito1filesize: 5.0 KiB
 mito1length: 16845

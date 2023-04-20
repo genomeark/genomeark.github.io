@@ -144,6 +144,21 @@ hpb1sizes: |
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1651627264
 last_updated: 1678306729
+metadata: |
+  species:
+    name: Erythrolamprus reginae
+    individuals:
+    - short_name: rEryReg1
+    short_name: rEryReg
+    taxon_id: 121349
+    common_name: royal ground snake
+    genome_size: 1966000000
+    genome_size_method: GoAT
+    order:
+      name: Squamata
+    family:
+      name: Dipsadidae
+    project: [ vgp ]
 name: Erythrolamprus reginae
 name_: Erythrolamprus_reginae
 pri1date: 2023-01-05

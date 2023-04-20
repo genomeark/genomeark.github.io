@@ -27,6 +27,23 @@ genome_size_display: 151.59 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675923172
 last_updated: 1675923174
+metadata: |
+  species:
+    short_name: kaCorEumy
+    name: Corella eumyota
+    taxon_id: 431183
+    common_name: Orange-tipped sea squirt
+    order:
+      name: Enterogona
+    family:
+      name: Corellidae
+    individuals:
+      - short_name: kaCorEumy4
+        biosample_id: SAMEA7536466
+        sex:
+    genome_size: 151590000
+    genome_size_method: GoaT
+    project: [ ]
 name: Corella eumyota
 name_: Corella_eumyota
 short_name: kaCorEumy

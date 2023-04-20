@@ -77,6 +77,19 @@ genome_size: 10019663791
 genome_size_display: 10.02 Gbp
 last_raw_data: 1620809015
 last_updated: 1669291418
+metadata: |
+  species:
+    short_name: aBomBom
+    name: Bombina bombina
+    taxon_id: 8345
+    common_name: European fire-bellied toad
+    order:
+      name: Anura
+    family:
+      name: Bombinatoridae
+    individuals:
+      - short_name: aBomBom1
+    project: [ vgp ]
 mito1date: 2022-11-24
 mito1filesize: 5.1 KiB
 mito1length: 17451

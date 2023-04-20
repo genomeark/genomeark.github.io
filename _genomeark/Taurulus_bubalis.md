@@ -67,6 +67,21 @@ genome_size: 615153901
 genome_size_display: 0.62 Gbp
 last_raw_data: 1651599331
 last_updated: 1651599331
+metadata: |
+  species:
+    short_name: fTauBub
+    name: Taurulus bubalis
+    taxon_id: 61643
+    common_name: long-spined sea scorpion
+    order:
+      name: Perciformes
+    family:
+      name: Cottidae
+    individuals:
+      - short_name: fTauBub2
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Taurulus bubalis
 name_: Taurulus_bubalis
 pri2date: 2021-05-24

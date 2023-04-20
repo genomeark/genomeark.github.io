@@ -58,6 +58,23 @@ genome_size_display: 2.87 Gbp
 genome_size_method: GoaT ancestral inferred
 last_raw_data: 1656686407
 last_updated: 1669853600
+metadata: |
+  species:
+    short_name: mEscRob
+    name: Eschrichtius robustus
+    taxon_id: 9764
+    common_name: grey whale
+    order:
+      name: Artiodactyla
+    family:
+      name: Eschrichtiidae
+    individuals:
+      - short_name: mEscRob1
+        provider: Marlys Houck, Phillip Morin
+        sex: male
+    genome_size: 2870000000
+    genome_size_method: GoaT ancestral inferred
+    project: [ vgp ]
 mito2date: 2022-11-21
 mito2filesize: 4.9 KiB
 mito2length: 16413

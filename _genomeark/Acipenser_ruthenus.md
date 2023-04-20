@@ -103,6 +103,30 @@ mat3sizes: |
   </tfoot>
   </table>
 mat3version: assembly_curated
+metadata: |
+  species:
+    short_name: fAciRut
+    name: Acipenser ruthenus
+    taxon_id: 7906
+    common_name: sterlet
+    order:
+      name: Acipenseriformes
+    family:
+      name: Acipenseridae
+    individuals:
+      - short_name: fAciRut1
+        biosample_id: SAMEA5572860
+        sex: female
+      - short_name: fAciRut2
+        biosample_id: SAMEA5572861
+        sex: male
+      - short_name: fAciRut3
+        biosample_id: SAMEA5572864
+        mother: fAciRut1
+        father: fAciRut2
+    genome_size: 
+    genome_size_method:
+    project: [ vgp ]
 mito3date: 2019-10-02
 mito3filesize: 5.0 KiB
 mito3length: 16706

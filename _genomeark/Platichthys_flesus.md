@@ -27,6 +27,23 @@ genome_size_display: 0.65 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675920421
 last_updated: 1675920422
+metadata: |
+  species:
+    short_name: fPlaFle
+    name: Platichthys flesus
+    taxon_id: 8260
+    common_name: European flounder
+    order:
+      name: Pleuronectiformes
+    family:
+      name: Pleuronectidae
+    individuals:
+      - short_name: fPlaFle2
+        biosample_id: SAMEA110026475
+        sex:
+    genome_size: 645480000
+    genome_size_method: GoaT
+    project: [ ]
 name: Platichthys flesus
 name_: Platichthys_flesus
 short_name: fPlaFle

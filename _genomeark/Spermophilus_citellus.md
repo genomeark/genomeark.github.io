@@ -17,6 +17,23 @@ genome_size_display: 3.88 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675880391
 last_updated: 1675880393
+metadata: |
+  species:
+    short_name: mSpeCit
+    name: Spermophilus citellus
+    taxon_id: 9997
+    common_name: European suslik
+    order:
+      name: Rodentia
+    family:
+      name: Sciuridae
+    individuals:
+      - short_name: mSpeCit2
+        biosample_id: SAMEA10332751
+        sex: female
+    genome_size: 3882659999.5
+    genome_size_method: GoaT
+    project: [ ]
 name: Spermophilus citellus
 name_: Spermophilus_citellus
 short_name: mSpeCit

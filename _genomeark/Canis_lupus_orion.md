@@ -67,6 +67,21 @@ genome_size: 2447463909
 genome_size_display: 2.45 Gbp
 last_raw_data: 1651605565
 last_updated: 1651605565
+metadata: |
+  species:
+    short_name: mCanLor
+    name: Canis lupus orion
+    taxon_id: 2605939
+    common_name: Greenland wolf
+    order:
+      name: Carnivora
+    family:
+      name: Canidae
+    individuals:
+      - short_name: mCanLor1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Canis lupus orion
 name_: Canis_lupus_orion
 pri1date: 2021-03-15

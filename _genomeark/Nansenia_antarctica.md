@@ -24,6 +24,21 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 0
 last_raw_data: 1678358304
 last_updated: 1678358304
+metadata: |
+  species:
+    short_name: fNanAnt
+    name: Nansenia antarctica
+    taxon_id: 443705
+    order:
+      name: Argentiniformes
+    family:
+      name: Microstomatidae
+    individuals:
+      - short_name: fNanAnt1
+        biosample_id: SAMEA8748816
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Nansenia antarctica
 name_: Nansenia_antarctica
 short_name: fNanAnt

@@ -94,6 +94,43 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
+metadata: |
+  species:
+    short_name: mDicBic
+    name: Diceros bicornis
+    taxon_id: 9805
+    common_name: black rhinoceros
+    order:
+      name: Perissodactyla
+    family:
+      name: Rhinocerotidae
+    individuals:
+      - short_name: mDicBic1
+        provider: Budhan Pukazhenthi, Klaus Koepfli
+        sex: female
+        mother: mDicBic2
+        father: mDicBic3
+        subspecies:
+          name: Diceros bicornis bicornis
+          common_name: southern black rhinoceros
+          taxon_id: 1081385
+      - short_name: mDicBic2
+        provider: Budhan Pukazhenthi, Klaus Koepfli
+        sex: female
+        subspecies:
+          name: Diceros bicornis bicornis
+          common_name: southern black rhinoceros
+          taxon_id: 1081385
+      - short_name: mDicBic3
+        provider: Budhan Pukazhenthi, Klaus Koepfli
+        sex: male
+        subspecies:
+          name: Diceros bicornis bicornis
+          common_name: southern black rhinoceros
+          taxon_id: 1081385
+    genome_size: 3000000000
+    genome_size_method:
+    project: [ vgp ]
 name: Diceros bicornis
 name_: Diceros_bicornis
 pat1date: 2021-07-16

@@ -132,6 +132,82 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_verkko_1.1-0.1-freeze
+metadata: |
+  species:
+    short_name: mPanPan
+    name: Pan paniscus
+    common_name: bonobo
+    taxon_id: 9597
+    order:
+      name: Primates
+    family:
+      name: Hominidae
+    individuals:
+    -
+        short_name: mPanPan1
+        name: null
+        biosample_id: SAMN13935689
+        strain: null
+        subspecies: null
+        alt_ids:
+        - PR00251
+        - KB8711
+        - PR00251_PPA
+        sex: male
+        description: null
+        provider: Oliver Ryder (San Diego Zoo Wildlife Alliance, University of California San Diego)
+        mother: mPanPan2
+        father: mPanPan3
+    -
+        short_name: mPanPan2
+        name: null
+        biosample_id: null
+        strain: null
+        subspecies: null
+        alt_ids:
+        - ISIS174013
+        sex: female
+        description: null
+        provider: Oliver Ryder (San Diego Zoo Wildlife Alliance, University of California San Diego)
+        mother: null
+        father: null
+    -
+        short_name: mPanPan3
+        name: null
+        biosample_id: null
+        strain: null
+        subspecies: null
+        alt_ids:
+        - ISIS180343
+        sex: male
+        description: null
+        provider: Oliver Ryder (San Diego Zoo Wildlife Alliance, University of California San Diego)
+        mother: null
+        father: null
+    -
+        short_name: mPanPan4
+        name: null
+        biosample_id: null
+        strain: null
+        subspecies: null
+        alt_ids:
+        - PPA_5013
+        - Ppa 5013
+        - 5013
+        sex: male
+        description: null
+        provider: Oliver Ryder (San Diego Zoo Wildlife Alliance, University of California San Diego)
+        mother: null
+        father: null
+        samples:
+        -
+           sample_id: mPanPan4.testis1
+           tissue: testis
+           dev_stage: adult
+           sample_biosample_id: SAMN13178638
+    genome_size: 3613710000
+    genome_size_method: GoaT ancestral inferred
+    project: [ t2t ]
 name: Pan paniscus
 name_: Pan_paniscus
 pat1date: 2022-11-11

@@ -15,6 +15,23 @@ data_status: '<em style="color:forestgreen">Arima</em>'
 genome_size: 0
 last_raw_data: 1639864056
 last_updated: 1639870138
+metadata: |
+  species:
+    short_name: mCasFib
+    name: Castor fiber
+    taxon_id: 10185
+    common_name: Eurasian beaver
+    order:
+      name: Rodentia
+    family:
+      name: Castoridae
+    individuals:
+      - short_name: mCasFib2
+        biosample_id: SAMEA9654422
+        sex: male
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Castor fiber
 name_: Castor_fiber
 short_name: mCasFib

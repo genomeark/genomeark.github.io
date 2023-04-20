@@ -27,6 +27,23 @@ genome_size_display: 3.04 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675889633
 last_updated: 1675889635
+metadata: |
+  species:
+    short_name: fCorLav
+    name: Coregonus lavaretus
+    taxon_id: 59291
+    common_name: common whitefish
+    order:
+      name: Salmoniformes
+    family:
+      name: Salmonidae
+    individuals:
+      - short_name: fCorLav1
+        biosample_id: SAMEA111528661
+        sex: male
+    genome_size: 3041580000
+    genome_size_method: GoaT
+    project: [ ]
 name: Coregonus lavaretus
 name_: Coregonus_lavaretus
 short_name: fCorLav

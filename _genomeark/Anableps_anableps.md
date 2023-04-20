@@ -78,6 +78,21 @@ genome_size_display: 0.94 Gbp
 genome_size_method: 10X Genomics Supernova assembly
 last_raw_data: 1563553434
 last_updated: 1589472768
+metadata: |
+  species:
+    short_name: fAnaAna
+    name: Anableps anableps
+    taxon_id: 195821
+    common_name: largescale foureyes
+    order:
+      name: Cyprinodontiformes
+    family:
+      name: Anablepidae
+    individuals:
+      - short_name: fAnaAna1
+    genome_size: 939460000
+    genome_size_method: 10X Genomics Supernova assembly 
+    project: [ vgp ]
 mito1date: 2019-10-01
 mito1filesize: 5.0 KiB
 mito1length: 16511

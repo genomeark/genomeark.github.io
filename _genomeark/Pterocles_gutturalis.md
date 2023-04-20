@@ -77,6 +77,21 @@ genome_size: 1070000000
 genome_size_display: 1.07 Gbp
 last_raw_data: 1565837200
 last_updated: 1571322263
+metadata: |
+  species:
+    common_name: yellow-throated sandgrouse
+    family:
+      name: Pteroclidae
+    genome_size: 1070000000
+    genome_size_method: null
+    individuals:
+    - short_name: bPteGut1
+    name: Pterocles gutturalis
+    order:
+      name: Pterocliformes
+    short_name: bPteGut
+    taxon_id: 240206
+    project: [ vgp ]
 mito1date: 2019-08-21
 mito1filesize: 5.7 KiB
 mito1length: 24468

@@ -17,6 +17,23 @@ genome_size_display: 3.22 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675909741
 last_updated: 1675909743
+metadata: |
+  species:
+    short_name: mPhoPho
+    name: Phocoena phocoena
+    taxon_id: 9742
+    common_name: harbor porpoise
+    order:
+      name: Cetacea
+    family:
+      name: Phocoenidae
+    individuals:
+      - short_name: mPhoPho1
+        biosample_id: SAMEA111380536
+        sex: female
+    genome_size: 3217620000
+    genome_size_method: GoaT
+    project: [ ]
 name: Phocoena phocoena
 name_: Phocoena_phocoena
 short_name: mPhoPho

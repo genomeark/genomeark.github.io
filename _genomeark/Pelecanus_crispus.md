@@ -55,6 +55,19 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 0
 last_raw_data: 1675714678
 last_updated: 1680900608
+metadata: |
+  species:
+    short_name: bPelCri
+    name: Pelecanus crispus
+    taxon_id: 36300
+    common_name: Dalmatian pelican
+    order:
+      name: Pelecaniformes
+    family:
+      name: Pelecanidae
+    individuals:
+      - short_name: bPelCri1
+    project: [ vgp ]
 mito1date: 2023-04-07
 mito1filesize: 5.7 KiB
 mito1length: 19483

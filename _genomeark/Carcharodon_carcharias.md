@@ -87,6 +87,21 @@ genome_size: 4500000000
 genome_size_display: 4.50 Gbp
 last_raw_data: 1594664727
 last_updated: 1612557299
+metadata: |
+  species:
+    common_name: great white shark
+    family:
+      name: Lamnidae
+    genome_size: 4500000000
+    genome_size_method: null
+    individuals:
+    - short_name: sCarCar2
+    name: Carcharodon carcharias
+    order:
+      name: Lamniformes
+    short_name: sCarCar
+    taxon_id: 13397
+    project: [ vgp ]
 mito2date: 2019-10-04
 mito2filesize: 5.0 KiB
 mito2length: 16745

@@ -85,6 +85,21 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
+metadata: |
+  species:
+    common_name: cattle
+    family:
+      name: Bovidae
+    genome_size: 2700000000
+    genome_size_method: null
+    individuals:
+    - short_name: mBosTau1
+    name: Bos taurus
+    order:
+      name: Cetartiodactyla
+    short_name: mBosTau
+    taxon_id: 9913
+    project: [ vgp ]
 mito1date: 2019-10-07
 mito1filesize: 5.2 KiB
 mito1length: 16339

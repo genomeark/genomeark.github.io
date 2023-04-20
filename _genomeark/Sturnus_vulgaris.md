@@ -17,6 +17,21 @@ genome_size_display: 1.28 Gbp
 genome_size_method: GoAT
 last_raw_data: 1644261616
 last_updated: 1644262577
+metadata: |
+  species:
+    name: Sturnus vulgaris
+    individuals:
+    - short_name: bStuVul1
+    short_name: bStuVul
+    taxon_id: 9172
+    common_name: Common starling
+    genome_size: 1281000000
+    genome_size_method: GoAT
+    order:
+      name: Passeriformes
+    family:
+      name: Sturnidae
+    project: [ vgp ]
 name: Sturnus vulgaris
 name_: Sturnus_vulgaris
 short_name: bStuVul

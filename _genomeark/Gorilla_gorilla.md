@@ -142,6 +142,88 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_verkko_1.1-0.2-freeze
+metadata: |
+  species:
+    short_name: mGorGor
+    name: Gorilla gorilla
+    common_name: gorilla
+    taxon_id: 9593
+    order:
+      name: Primates
+    family:
+      name: Hominidae
+    individuals:
+    -
+        short_name: mGorGor1
+        name: Jim
+        biosample_id: SAMN04003007
+        strain: null
+        subspecies:
+          name: Gorilla gorilla gorilla
+          common_name: western lowland gorilla
+          taxon_id: 9595
+        alt_ids:
+        - KB3781
+        - Jim_GGO
+        sex: male
+        description: null
+        provider: Kateryna Makova (The Pennsylvania State University), Oliver Ryder (San Diego Zoo Wildlife Alliance, University of California San Diego)
+        mother: mGorGor2
+        father: mGorGor3
+    -
+        short_name: mGorGor2
+        name: null
+        biosample_id: null
+        strain: null
+        subspecies:
+          name: Gorilla gorilla gorilla
+          common_name: western lowland gorilla
+          taxon_id: 9595
+        alt_ids:
+        - ISIS24489
+        sex: female
+        description: null
+        provider: Cynthia Steiner (San Diego Zoo Wildlife Alliance)
+        mother: null
+        father: null
+    -
+        short_name: mGorGor3
+        name: null
+        biosample_id: null
+        strain: null
+        subspecies:
+          name: Gorilla gorilla gorilla
+          common_name: western lowland gorilla
+          taxon_id: 9595
+        alt_ids:
+        - ISIS24485
+        sex: male
+        description: null
+        provider: Cynthia Steiner (San Diego Zoo Wildlife Alliance)
+        mother: null
+        father: null
+    -
+        short_name: mGorGor4
+        name: null
+        biosample_id: null
+        strain: null
+        alt_ids:
+        - OR6737
+        - GGO_OR6737
+        sex: male
+        description: null
+        provider: Oliver Ryder (San Diego Zoo Wildlife Alliance)
+        mother: null
+        father: null
+        samples:
+        -
+           sample_id: mGorGor4.testis1
+           tissue: testis
+           dev_stage: adult
+           sample_biosample_id: SAMN31928435
+    genome_size: 3491460000
+    genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
+    project: [ t2t ]
 name: Gorilla gorilla
 name_: Gorilla_gorilla
 pat1date: 2022-11-11

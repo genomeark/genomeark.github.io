@@ -77,6 +77,21 @@ genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 last_raw_data: 1622235347
 last_updated: 1635455353
+metadata: |
+  species:
+    common_name: cunner
+    family:
+      name: Labridae
+    genome_size: 1000000000
+    genome_size_method: null
+    individuals:
+    - short_name: fTauAds1
+    name: Tautogolabrus adspersus
+    order:
+      name: Perciformes
+    short_name: fTauAds
+    taxon_id: 34787
+    project: [ vgp ]
 mito1date: 2021-05-28
 mito1filesize: 5.0 KiB
 mito1length: 16494

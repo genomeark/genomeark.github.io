@@ -124,6 +124,23 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
+metadata: |
+  species:
+    common_name: lesser kestrel
+    family:
+      name: Falconidae
+    genome_size: 1350000000
+    genome_size_method: kmers
+    individuals:
+    - short_name: bFalNau1
+    - short_name: bFalNau2
+    - short_name: bFalNau3
+    name: Falco naumanni
+    order:
+      name: Falconiformes
+    short_name: bFalNau
+    taxon_id: 148594
+    project: [ vgp ]
 mgd1date: 2020-07-14
 mgd1filesize: 354.2 MiB
 mgd1length: 1215702009

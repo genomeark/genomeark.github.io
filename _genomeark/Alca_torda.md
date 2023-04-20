@@ -77,6 +77,21 @@ genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 last_raw_data: 1545245416
 last_updated: 1566590342
+metadata: |
+  species:
+    common_name: razorbill
+    family:
+      name: Alcidae
+    genome_size: 1200000000
+    genome_size_method: null
+    individuals:
+    - short_name: bAlcTor1
+    name: Alca torda
+    order:
+      name: Charadriiformes
+    short_name: bAlcTor
+    taxon_id: 28689
+    project: [ vgp ]
 mito1date: 2019-08-20
 mito1filesize: 5.1 KiB
 mito1length: 19110

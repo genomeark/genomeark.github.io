@@ -27,6 +27,23 @@ genome_size_display: 2.38 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675918949
 last_updated: 1675918951
+metadata: |
+  species:
+    short_name: mEptNil
+    name: Eptesicus nilssonii
+    taxon_id: 59451
+    common_name: northern bat
+    order:
+      name: Chiroptera
+    family:
+      name: Vespertilionidae
+    individuals:
+      - short_name: mEptNil1
+        biosample_id: SAMEA14098186
+        sex: female
+    genome_size: 2383875000
+    genome_size_method: GoaT
+    project: [ ]
 name: Eptesicus nilssonii
 name_: Eptesicus_nilssonii
 short_name: mEptNil

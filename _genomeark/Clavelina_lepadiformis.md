@@ -58,6 +58,26 @@ genome_size_display: 437.66 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675925819
 last_updated: 1678385369
+metadata: |
+  species:
+    short_name: kaClaLepa
+    name: Clavelina lepadiformis
+    taxon_id: 159417
+    common_name: light-bulb sea squirt
+    order:
+      name: Aplousobranchia
+    family:
+      name: Clavelinidae
+    individuals:
+      - short_name: kaClaLepa1
+        biosample_id: SAMEA7536527
+        sex:
+      - short_name: kaClaLepa3
+        biosample_id: SAMEA7536558
+        sex:
+    genome_size: 437655000
+    genome_size_method: GoaT
+    project: [ ]
 name: Clavelina lepadiformis
 name_: Clavelina_lepadiformis
 pri1date: 2023-03-09

@@ -95,6 +95,21 @@ hpb1sizes: |
 hpb1version: assembly_curated
 last_raw_data: 1665002652
 last_updated: 1680272567
+metadata: |
+  species:
+    name: Hoplias malabaricus
+    individuals:
+    - short_name: fHopMal1
+    short_name: fHopMal
+    taxon_id: 27720
+    common_name: trahira
+    genome_size: 1252000000
+    genome_size_method: GoAT
+    order:
+      name: Characiformes
+    family:
+      name: Erythrinidae
+    project: [ vgp ]
 name: Hoplias malabaricus
 name_: Hoplias_malabaricus
 short_name: fHopMal

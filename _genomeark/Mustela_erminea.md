@@ -77,6 +77,21 @@ genome_size: 3080000000
 genome_size_display: 3.08 Gbp
 last_raw_data: 1565693768
 last_updated: 1571322017
+metadata: |
+  species:
+    common_name: stoat
+    family:
+      name: Mustelidae
+    genome_size: 3080000000
+    genome_size_method: null
+    individuals:
+    - short_name: mMusErm1
+    name: Mustela erminea
+    order:
+      name: Carnivora
+    short_name: mMusErm
+    taxon_id: 36723
+    project: [ vgp ]
 mito1date: 2019-10-03
 mito1filesize: 4.9 KiB
 mito1length: 16482

@@ -77,6 +77,27 @@ genome_size_display: 1.42 Gbp
 genome_size_method: GoaT ancestral inferred
 last_raw_data: 1653509926
 last_updated: 1653509926
+metadata: |
+  species:
+    short_name: bFalPer
+    name: Falco peregrinus
+    taxon_id: 8954
+    common_name: peregrine falcon
+    order:
+      name: Falconiformes
+    family:
+      name: Falconidae
+    individuals:
+      - short_name: bFalPer1
+        provider: Farooq Al-Ajli
+        sex: female
+        subspecies:
+          name: Falco peregrinus calidus
+          common_name: Siberian peregrine falcon
+          taxon_id: 495983
+    genome_size: 1420000000
+    genome_size_method: GoaT ancestral inferred
+    project: [ vgp ]
 name: Falco peregrinus
 name_: Falco_peregrinus
 pri1date: 2021-12-14

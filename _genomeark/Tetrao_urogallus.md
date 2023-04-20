@@ -27,6 +27,23 @@ genome_size_display: 1.29 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675915718
 last_updated: 1675915720
+metadata: |
+  species:
+    short_name: bTetUro
+    name: Tetrao urogallus
+    taxon_id: 100830
+    common_name: western capercaillie
+    order:
+      name: Galliformes
+    family:
+      name: Phasianidae
+    individuals:
+      - short_name: bTetUro1
+        biosample_id: SAMEA9654429
+        sex: male
+    genome_size: 1290960000
+    genome_size_method: GoaT
+    project: [ ]
 name: Tetrao urogallus
 name_: Tetrao_urogallus
 short_name: bTetUro

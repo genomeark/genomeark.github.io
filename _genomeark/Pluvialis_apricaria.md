@@ -77,6 +77,21 @@ genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 last_raw_data: 1583337100
 last_updated: 1595946718
+metadata: |
+  species:
+    common_name: European golden plover
+    family:
+      name: Charadriidae
+    genome_size: 1000000000
+    genome_size_method: null
+    individuals:
+    - short_name: bPluApr1
+    name: Pluvialis apricaria
+    order:
+      name: Charadriiformes
+    short_name: bPluApr
+    taxon_id: 670352
+    project: [ vgp ]
 mito1date: 2019-12-05
 mito1filesize: 5.2 KiB
 mito1length: 20624

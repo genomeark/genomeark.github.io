@@ -115,6 +115,23 @@ hpb7sizes: |
 hpb7version: assembly_curated
 last_raw_data: 1669233016
 last_updated: 1680800650
+metadata: |
+  species:
+    short_name: mManPen
+    name: Manis pentadactyla
+    taxon_id: 143292
+    common_name: Chinese pangolin
+    order:
+      name: Pholidota
+    family:
+      name: Manidae
+    individuals:
+      - short_name: mManPen7
+        provider: Shujin Luo, Bill Murphy
+        sex: male
+    genome_size: 2800000000
+    genome_size_method: GoaT ancestral inferred
+    project: [ vgp ]
 mito7date: 2023-02-10
 mito7filesize: 5.3 KiB
 mito7length: 16571

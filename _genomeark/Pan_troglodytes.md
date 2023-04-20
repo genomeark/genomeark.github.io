@@ -174,6 +174,73 @@ hpb3sizes: |
 hpb3version: assembly_verkko_1.1-hic-freeze
 last_raw_data: 1671518926
 last_updated: 1680014696
+metadata: |
+  species:
+    short_name: mPanTro
+    name: Pan troglodytes
+    common_name: chimpanzee
+    taxon_id: 9598
+    order:
+      name: Primates
+    family:
+      name: Hominidae
+    individuals:
+    -
+        short_name: mPanTro1
+        name: Clint
+        biosample_id: null
+        strain: null
+        subspecies: null
+        alt_ids:
+        - Clint_PTR
+        - Clint_PTR_HFSS
+        - S006007
+        sex: male
+        description: >
+          The 'reference' genome chimp;
+          Yerkes chimp pedigree #C0471 (Clint);
+        provider: Evan Eichler (University of Washington), Coriell
+        father: null
+        mother: null
+    -
+        short_name: mPanTro3
+        name: null
+        biosample_id: SAMN30216104
+        strain: null
+        subspecies: null
+        alt_ids:
+        - AG18354
+        - AG18354_PTR
+        - non-Clint
+        sex: male
+        description: null
+        provider: Laura Carrel (The Pennsylvania State University), originally acquired from Coriell
+        father: null
+        mother: null
+    -
+        short_name: mPanTro4
+        name: null
+        biosample_id: null
+        strain: null
+        subspecies: null
+        alt_ids:
+        - PTR_8720-2
+        - Ptr 8720-2
+        - 8720
+        sex: male
+        description: null
+        provider: University of Texas, MD Anderson Cancer Center, Michael E. Keeling Center for Comparative Medicine and Research
+        father: null
+        mother: null
+        samples:
+        -
+           sample_id: mPanTro4.testis1
+           tissue: testis
+           dev_stage: adult
+           sample_biosample_id: SAMN31975257
+    genome_size: 3613710000
+    genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
+    project: [ vgp, t2t ]
 mito1date: 2020-06-25
 mito1filesize: 4.9 KiB
 mito1length: 16556

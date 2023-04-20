@@ -58,6 +58,23 @@ genome_size_display: 437.66 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675927483
 last_updated: 1678383196
+metadata: |
+  species:
+    short_name: kaAplTurb
+    name: Aplidium turbinatum
+    taxon_id: 2771288
+    common_name: A colonial sea squirt
+    order:
+      name: Aplousobranchia
+    family:
+      name: Polyclinidae
+    individuals:
+      - short_name: kaAplTurb1
+        biosample_id: SAMEA7536566
+        sex:
+    genome_size: 437655000
+    genome_size_method: GoaT
+    project: [ ]
 name: Aplidium turbinatum
 name_: Aplidium_turbinatum
 pri1date: 2023-03-09

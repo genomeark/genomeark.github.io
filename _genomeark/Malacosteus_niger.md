@@ -35,6 +35,21 @@ data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color
 genome_size: 0
 last_raw_data: 1580033667
 last_updated: 1580033667
+metadata: |
+  species:
+    short_name: fMalNig
+    name: Malacosteus niger
+    taxon_id: 76143
+    common_name: stoplight loosejaw
+    order:
+      name: Stomiiformes
+    family:
+      name: Stomiidae
+    individuals:
+      - short_name: fMalNig1
+    genome_size: 
+    genome_size_method:
+    project: [ vgp ]
 name: Malacosteus niger
 name_: Malacosteus_niger
 short_name: fMalNig

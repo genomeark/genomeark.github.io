@@ -78,6 +78,21 @@ genome_size_display: 3.55 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651601926
 last_updated: 1662580135
+metadata: |
+  species:
+    name: Cynocephalus volans
+    individuals:
+    - short_name: mCynVol1
+    short_name: mCynVol
+    taxon_id: 110931
+    common_name: Philippine flying lemur
+    genome_size: 3554000000
+    genome_size_method: GoAT
+    order:
+      name: Dermoptera
+    family:
+      name: Cynocephalidae
+    project: [ vgp ]
 name: Cynocephalus volans
 name_: Cynocephalus_volans
 pri1date: 2022-05-20

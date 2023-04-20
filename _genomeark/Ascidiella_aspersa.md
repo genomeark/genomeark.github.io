@@ -17,6 +17,23 @@ genome_size_display: 107.58 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675921419
 last_updated: 1675921421
+metadata: |
+  species:
+    short_name: kaAscAspe
+    name: Ascidiella aspersa
+    taxon_id: 201961
+    common_name: A solitary sea squirt
+    order:
+      name: Phlebobranchia
+    family:
+      name: Ascidiidae
+    individuals:
+      - short_name: kaAscAspe2
+        biosample_id: SAMEA7536462
+        sex:
+    genome_size: 107580000
+    genome_size_method: GoaT
+    project: [ ]
 name: Ascidiella aspersa
 name_: Ascidiella_aspersa
 short_name: kaAscAspe

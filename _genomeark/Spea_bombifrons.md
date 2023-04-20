@@ -88,6 +88,21 @@ genome_size_display: 1.21 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651594550
 last_updated: 1671631700
+metadata: |
+  species:
+    name: Spea bombifrons
+    individuals:
+    - short_name: aSpeBom1
+    short_name: aSpeBom
+    taxon_id: 233779
+    common_name: plains spadefoot toad
+    genome_size: 1208000000
+    genome_size_method: GoAT
+    order:
+      name: Anura
+    family:
+      name: Pelobatidae
+    project: [ vgp ]
 name: Spea bombifrons
 name_: Spea_bombifrons
 pri1date: 2022-04-01

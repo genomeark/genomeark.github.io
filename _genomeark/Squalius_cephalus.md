@@ -27,6 +27,23 @@ genome_size_display: 1.30 Gbp
 genome_size_method: GoaT
 last_raw_data: 1676136421
 last_updated: 1676136421
+metadata: |
+  species:
+    short_name: fSquCep
+    name: Squalius cephalus
+    taxon_id: 8284
+    common_name: European chub
+    order:
+      name: Cypriniformes
+    family:
+      name: Cyprinidae
+    individuals:
+      - short_name: fSquCep2
+        biosample_id: SAMEA11296547
+        sex:
+    genome_size: 1300740000
+    genome_size_method: GoaT
+    project: [ ]
 name: Squalius cephalus
 name_: Squalius_cephalus
 short_name: fSquCep

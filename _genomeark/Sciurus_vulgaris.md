@@ -77,6 +77,21 @@ genome_size: 2878591032
 genome_size_display: 2.88 Gbp
 last_raw_data: 1591286461
 last_updated: 1591286461
+metadata: |
+  species:
+    short_name: mSciVul
+    name: Sciurus vulgaris
+    taxon_id: 55149
+    common_name: Eurasian red squirrel
+    order:
+      name: Rodentia
+    family:
+      name: Sciuridae
+    individuals:
+      - short_name: mSciVul1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2019-10-03
 mito1filesize: 4.9 KiB
 mito1length: 16511

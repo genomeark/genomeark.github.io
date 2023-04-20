@@ -94,6 +94,21 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
+metadata: |
+  species:
+    short_name: bGruAme
+    name: Grus americana
+    taxon_id: 9117
+    common_name: Whooping crane
+    order:
+      name: Gruiformes
+    family:
+      name: Gruidae
+    individuals:
+      - short_name: bGruAme1
+    genome_size: 1000000000
+    genome_size_method:
+    project: [ vgp ]
 name: Grus americana
 name_: Grus_americana
 pat1date: 2023-02-16

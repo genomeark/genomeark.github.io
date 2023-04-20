@@ -17,6 +17,23 @@ genome_size_display: 1.34 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678364536
 last_updated: 1678364536
+metadata: |
+  species:
+    short_name: kcLamFluv
+    name: Lampetra fluviatilis
+    taxon_id: 7748
+    common_name: European river lamprey
+    order:
+      name: Petromyzontiformes
+    family:
+      name: Petromyzontidae
+    individuals:
+      - short_name: kcLamFluv1
+        biosample_id: SAMEA111528664
+        sex: female
+    genome_size: 1339860000
+    genome_size_method: GoaT
+    project: [ ]
 name: Lampetra fluviatilis
 name_: Lampetra_fluviatilis
 short_name: kcLamFluv

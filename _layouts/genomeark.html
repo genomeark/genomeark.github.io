@@ -5,16 +5,35 @@ layout: default
 {% comment %} This sets the 'image' and 'license' variables used below {% endcomment %}
 {% include species-image.html species_name=page.name_ %}
 
+<script>
+var tog = function (event) {
+  if (event.target.id == "viewMetadata") {
+    event.preventDefault();
+
+    document.querySelector(event.target.hash).classList.toggle('visible');
+
+    if (document.getElementById('viewMetadata').text == "hide") {
+      document.getElementById('viewMetadata').text = "view";
+    } else {
+      document.getElementById('viewMetadata').text = "hide";
+    }
+  }
+}
+document.addEventListener('click', tog, false);
+</script>
+
 <div class="section">
 <div class="sd-info">
   <p class="sd-sname">{{ page.name }}</p>
   <p class="sd-cname">{{ page.common_name }}</p>
 
+  <p>
+  - <a href="https://genomeark.s3.amazonaws.com/index.html?prefix=species/{{ page.name_ }}">S3 File Index</a> --
+  <a href="https://42basepairs.com/browse/s3/genomeark/species/{{ page.name_ }}">S3 Interactive Viewer</a></li>
   {% if page.taxon_id %}
-  <p><a href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id={{ page.taxon_id }}">NCBI Taxonomy</a></p>
-  <p><a href="https://genomeark.s3.amazonaws.com/index.html?prefix=species/{{ page.name_ }}">S3 HTML Index</a></p>
-  <p><a href="https://42basepairs.com/browse/s3/genomeark/species/{{ page.name_ }}">S3 GUI Browser</a></p>
+  -- <a href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id={{ page.taxon_id }}">NCBI Taxonomy Browser</a> -
   {% endif %}
+  </p>
 
   <br>
 
@@ -58,6 +77,25 @@ layout: default
                <td> {% include resource-links.html data=page.genbank_mat link="https://genome.ucsc.edu/h/YOURACCHERE" %} </td>
                <td> {% include resource-links.html data=page.genbank_pat link="https://genome.ucsc.edu/h/YOURACCHERE" %} </td>
            </tr></tbody>
+    </table>
+    <br>
+  {% endif %}
+
+  {% if page.metadata %}
+    <table class="sd-info-tab">
+    <thead><tr><th class="label" width="100%">metadata.yaml (<a id="viewMetadata" href="#metadata">view</a>) (<a href="https://github.com/genomeark/genomeark-metadata/blob/main/species/{{ page.name_ }}.yaml">edit on github</a>)</th>
+           </tr></thead>
+    <tbody>
+      <tr>
+      <td style="text-align: left;">
+        <div class="metadata-display" id="metadata">
+        <pre>
+{{ page.metadata }}
+        </pre>
+        </div>
+      </td>
+      </tr>
+    </tbody>
     </table>
   {% endif %}
 </div class="sd-info">

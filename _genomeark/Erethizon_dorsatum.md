@@ -77,6 +77,21 @@ genome_size: 2900000000
 genome_size_display: 2.90 Gbp
 last_raw_data: 1627391464
 last_updated: 1674233374
+metadata: |
+  species:
+    common_name: North American porcupine
+    family:
+      name: Erethizontidae
+    genome_size: 2900000000
+    genome_size_method: null
+    individuals:
+    - short_name: mEreDor1
+    name: Erethizon dorsatum
+    order:
+      name: Rodentia
+    short_name: mEreDor
+    taxon_id: 34844
+    project: [ vgp ]
 mito1date: 2021-07-27
 mito1filesize: 5.0 KiB
 mito1length: 16828

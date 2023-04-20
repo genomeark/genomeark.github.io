@@ -17,6 +17,21 @@ genome_size_display: 1.19 Gbp
 genome_size_method: GoAT
 last_raw_data: 1644267951
 last_updated: 1644268147
+metadata: |
+  species:
+    name: Sitta carolinensis
+    individuals:
+    - short_name: bSitCar2
+    short_name: bSitCar
+    taxon_id: 50250
+    common_name: white-breasted nuthatches
+    genome_size: 1193000000
+    genome_size_method: GoAT
+    order:
+      name: Passeriformes
+    family:
+      name: Sittidae
+    project: [ vgp ]
 name: Sitta carolinensis
 name_: Sitta_carolinensis
 short_name: bSitCar

@@ -88,6 +88,21 @@ genome_size_display: 4.59 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651622311
 last_updated: 1672769874
+metadata: |
+  species:
+    name: Monodelphis domestica
+    individuals:
+    - short_name: mMonDom1
+    short_name: mMonDom
+    taxon_id: 13616
+    common_name: gray short-tailed opossum
+    genome_size: 4592000000
+    genome_size_method: GoAT
+    order:
+      name: Didelphimorphia
+    family:
+      name: Didelphidae
+    project: [ vgp ]
 mito1date: 2022-06-17
 mito1filesize: 5.0 KiB
 mito1length: 17106

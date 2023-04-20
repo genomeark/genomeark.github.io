@@ -96,6 +96,21 @@ hpb1sizes: |
 hpb1version: assembly_curated
 last_raw_data: 1651611545
 last_updated: 1674673262
+metadata: |
+  species:
+    name: Ara ararauna
+    individuals:
+    - short_name: bAraAra1
+    short_name: bAraAra
+    taxon_id: 9226
+    common_name: blue-and-yellow macaw
+    genome_size: 1412000000
+    genome_size_method: GoAT
+    order:
+      name: Psittaciformes
+    family:
+      name: Psittacidae
+    project: [ vgp ]
 name: Ara ararauna
 name_: Ara_ararauna
 short_name: bAraAra

@@ -88,6 +88,21 @@ genome_size_display: 3.09 Gbp
 genome_size_method: genomescope (k=31)
 last_raw_data: 1584557134
 last_updated: 1628606187
+metadata: |
+  species:
+    short_name: mBalMus
+    name: Balaenoptera musculus
+    taxon_id: 9771
+    common_name: blue whale
+    order:
+      name: Cetacea
+    family:
+      name: Balaenopteridae
+    individuals:
+      - short_name: mBalMus1
+    genome_size: 3093707188
+    genome_size_method: genomescope (k=31)
+    project: [ vgp ]
 mito1date: 2019-10-02
 mito1filesize: 4.9 KiB
 mito1length: 16403

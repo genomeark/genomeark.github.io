@@ -86,6 +86,23 @@ genome_size_display: 1.28 Gbp
 genome_size_method: GoaT ancestral inferred
 last_raw_data: 1651606598
 last_updated: 1655490293
+metadata: |
+  species:
+    short_name: bAcrTrip
+    name: Acridotheres tristis
+    taxon_id: 279927
+    common_name: common_myna
+    order:
+      name: Passeriformes
+    family:
+      name: Sturnidae
+    individuals:
+      - short_name: bAcrTri1
+        provider: Tali Magory Cohen
+        sex: female
+    genome_size: 1280000000
+    genome_size_method: GoaT ancestral inferred
+    project: [ vgp ]
 name: Acridotheres tristis
 name_: Acridotheres_tristis
 pri1date: 2022-03-18

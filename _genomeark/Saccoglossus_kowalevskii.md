@@ -22,6 +22,26 @@ data_status: '<em style="color:forestgreen">Arima</em>'
 genome_size: 0
 last_raw_data: 1675927010
 last_updated: 1675927012
+metadata: |
+  species:
+    short_name: keSacKowa
+    name: Saccoglossus kowalevskii
+    taxon_id: 10224
+    common_name: acorn worm
+    order:
+      name: Enteropneusta
+    family:
+      name: Harrimaniidae
+    individuals:
+      - short_name: keSacKowa1
+        biosample_id: SAMEA8748971
+        sex:
+      - short_name: keSacKowa2
+        biosample_id: SAMEA8748972
+        sex:
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Saccoglossus kowalevskii
 name_: Saccoglossus_kowalevskii
 short_name: keSacKowa

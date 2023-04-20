@@ -96,6 +96,21 @@ hpb1sizes: |
 hpb1version: assembly_curated
 last_raw_data: 1651607585
 last_updated: 1657297450
+metadata: |
+  species:
+    name: Malaclemys terrapin
+    individuals:
+    - short_name: rMalTer1
+    short_name: rMalTer
+    taxon_id: 8485
+    common_name: diamondback terrapin
+    genome_size: 2670000000
+    genome_size_method: GoAT
+    order:
+      name: Testudines
+    family:
+      name: Emydidae
+    project: [ vgp ]
 name: Malaclemys terrapin
 name_: Malaclemys_terrapin
 short_name: rMalTer

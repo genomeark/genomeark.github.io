@@ -266,6 +266,47 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_rockefeller_trio_1.6
+metadata: |
+  species:
+    common_name: chicken
+    family:
+      name: Phasianidae
+    genome_size: 1210000000
+    genome_size_method: null
+    name: Gallus gallus
+    order:
+      name: Galliformes
+    short_name: bGalGal
+    taxon_id: 9031
+    individuals:
+    - short_name: bGalGal1
+      mother: bGalGal2
+      father: bGalGal3
+      sex: female
+      provider: Nick Anthony, Wesley Warren
+      description: >
+          Broiler x Leghorn cross;
+    - short_name: bGalGal2
+      sex: female
+      description: >
+          Broiler breed;
+      provider: Nick Anthony, Wesley Warren
+    - short_name: bGalGal3
+      sex: male
+      description: >
+          Leghorn breed;
+      provider: Nick Anthony, Wesley Warren
+    - short_name: bGalGal4
+      sex: female
+      provider: Joan Tarradas, Antton Alberdi
+      description: >
+          Broiler Ross breed;
+    - short_name: bGalGal5
+      provider: Joan Tarradas, Antton Alberdi
+      sex: female
+      description: >
+          Broiler Cobb breed;
+    project: [ vgp ]
 mito1date: 2019-10-02
 mito1filesize: 5.2 KiB
 mito1length: 16784

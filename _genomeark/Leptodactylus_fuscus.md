@@ -27,6 +27,21 @@ genome_size_display: 2.59 Gbp
 genome_size_method: GoAT
 last_raw_data: 1680105268
 last_updated: 1681072316
+metadata: |
+  species:
+    name: Leptodactylus fuscus
+    individuals:
+    - short_name: aLepFus1
+    short_name: aLepFus
+    taxon_id: 238119
+    common_name: rufous frog
+    genome_size: 2592000000
+    genome_size_method: GoAT
+    order:
+      name: Anura
+    family:
+      name: Leptodactylidae
+    project: [ vgp ]
 mito1date: 2023-04-09
 mito1filesize: 5.6 KiB
 mito1length: 17473

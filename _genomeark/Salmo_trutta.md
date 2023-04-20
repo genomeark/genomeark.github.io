@@ -86,6 +86,21 @@ genome_size: 2371863509
 genome_size_display: 2.37 Gbp
 last_raw_data: 1651685405
 last_updated: 1651685405
+metadata: |
+  species:
+    short_name: fSalTru
+    name: Salmo trutta
+    taxon_id: 8032
+    common_name: brown trout
+    order:
+      name: Salmoniformes
+    family:
+      name: Salmonidae
+    individuals:
+      - short_name: fSalTru1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2019-10-03
 mito1filesize: 5.1 KiB
 mito1length: 16677

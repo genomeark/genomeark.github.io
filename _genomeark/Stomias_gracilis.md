@@ -27,6 +27,23 @@ genome_size_display: 1.27 Gbp
 genome_size_method: GoaT
 last_raw_data: 1677167888
 last_updated: 1677167888
+metadata: |
+  species:
+    short_name: fStoGra
+    name: Stomias gracilis
+    taxon_id: 1091428
+    common_name: na
+    order:
+      name: Stomiiformes
+    family:
+      name: Stomiidae
+    individuals:
+      - short_name: fStoGra1
+        biosample_id: SAMEA12815439
+        sex:
+    genome_size: 1271400000
+    genome_size_method: GoaT
+    project: [ ]
 name: Stomias gracilis
 name_: Stomias_gracilis
 short_name: fStoGra

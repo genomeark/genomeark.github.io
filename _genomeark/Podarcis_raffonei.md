@@ -78,6 +78,21 @@ genome_size_display: 1.95 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651594802
 last_updated: 1651594802
+metadata: |
+  species:
+    name: Podarcis raffonei
+    individuals:
+    - short_name: rPodRaf1
+    short_name: rPodRaf
+    taxon_id: 65483
+    common_name: Aeolian wall lizard
+    genome_size: 1949000000
+    genome_size_method: GoAT
+    order:
+      name: Squamata
+    family:
+      name: Lacertidae
+    project: [ vgp ]
 name: Podarcis raffonei
 name_: Podarcis_raffonei
 pri1date: 2022-01-26

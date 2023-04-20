@@ -65,6 +65,23 @@ genome_size: 2900000000
 genome_size_display: 2.90 Gbp
 last_raw_data: 1622744604
 last_updated: 1632134120
+metadata: |
+  species:
+    short_name: mRhiSin
+    name: Rhinolophus sinicus
+    taxon_id: 89399
+    common_name: Chinese rufous horseshoe bat
+    order:
+      name: Chiroptera
+    family:
+      name: Rhinolophidae
+    individuals:
+      - short_name: mRhiSin1
+        provider: Jianguo Lu
+        sex: male
+    genome_size: 2900000000
+    genome_size_method:
+    project: [ vgp ]
 name: Rhinolophus sinicus
 name_: Rhinolophus_sinicus
 pri1date: 2021-09-20

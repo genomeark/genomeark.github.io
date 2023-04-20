@@ -97,6 +97,21 @@ hpb1sizes: |
 hpb1version: assembly_curated
 last_raw_data: 1677258152
 last_updated: 1680739492
+metadata: |
+  species:
+    name: Rhineura floridana
+    individuals:
+    - short_name: rRhiFlo1
+    short_name: rRhiFlo
+    taxon_id: 261503
+    common_name: Florida worm lizard
+    genome_size: 1623000000
+    genome_size_method: GoAT
+    order:
+      name: Squamata
+    family:
+      name: Rhineuridae
+    project: [ vgp ]
 mito1date: 2023-03-06
 mito1filesize: 5.4 KiB
 mito1length: 16992

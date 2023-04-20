@@ -17,6 +17,23 @@ genome_size_display: 1.27 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675873565
 last_updated: 1675873567
+metadata: |
+  species:
+    short_name: fAbrBra
+    name: Abramis brama
+    taxon_id: 38527
+    common_name: common bream
+    order:
+      name: Cypriniformes
+    family:
+      name: Cyprinidae
+    individuals:
+      - short_name: fAbrBra2
+        biosample_id: SAMEA11296536
+        sex:
+    genome_size: 1271400000
+    genome_size_method: GoaT
+    project: [ ]
 name: Abramis brama
 name_: Abramis_brama
 short_name: fAbrBra

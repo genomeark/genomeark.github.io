@@ -93,6 +93,30 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
+metadata: |
+  species:
+    short_name: bPorHoc
+    name: Porphyrio hochstetteri
+    taxon_id: 439704
+    common_name: South Island takahe
+    order:
+      name: Gruiformes
+    family:
+      name: Rallidae
+    individuals:
+      - short_name: bPorHoc1
+        provider: Glen Greaves, Lara Urban
+        mother: bPorHoc2
+        father: bPorHoc3
+      - short_name: bPorHoc2
+        sex: female
+        provider: Glen Greaves, Lara Urban
+      - short_name: bPorHoc3
+        sex: male
+        provider: Glen Greaves, Lara Urban
+    genome_size: 1200000000
+    genome_size_method:
+    project: [ vgp ]
 mgd1date: 2021-07-20
 mgd1filesize: 358.2 MiB
 mgd1length: 1270322674

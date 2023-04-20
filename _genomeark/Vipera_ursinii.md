@@ -58,6 +58,23 @@ genome_size_display: 2.04 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675900594
 last_updated: 1678367212
+metadata: |
+  species:
+    short_name: rVipUrs
+    name: Vipera ursinii
+    taxon_id: 103942
+    common_name: Hungarian meadow viper
+    order:
+      name: Squamata
+    family:
+      name: Viperidae
+    individuals:
+      - short_name: rVipUrs1
+        biosample_id: SAMEA12832258
+        sex: female
+    genome_size: 2039130000
+    genome_size_method: GoaT
+    project: [ ]
 name: Vipera ursinii
 name_: Vipera_ursinii
 pri1date: 2023-03-09

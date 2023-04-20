@@ -88,6 +88,21 @@ genome_size_display: 1.59 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651597110
 last_updated: 1651597110
+metadata: |
+  species:
+    name: Spheniscus humboldti
+    individuals:
+    - short_name: bSphHub1
+    short_name: bSphHub
+    taxon_id: '9240'
+    common_name: Humboldt's penguin
+    genome_size: 1594000000
+    genome_size_method: GoAT
+    order:
+      name: Sphenisciformes
+    family:
+      name: Spheniscidae
+    project: [ vgp ]
 name: Spheniscus humboldti
 name_: Spheniscus_humboldti
 pri1date: 2022-03-22

@@ -56,6 +56,23 @@ genome_size_display: 0.90 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675871265
 last_updated: 1679360489
+metadata: |
+  species:
+    short_name: fMelGel
+    name: Melanostigma gelatinosum
+    taxon_id: 1091424
+    common_name: limp eelpout
+    order:
+      name: Perciformes
+    family:
+      name: Zoarcidae
+    individuals:
+      - short_name: fMelGel1
+        biosample_id: SAMEA12815492
+        sex:
+    genome_size: 899760000
+    genome_size_method: GoaT
+    project: [ ]
 name: Melanostigma gelatinosum
 name_: Melanostigma_gelatinosum
 pri1date: 2023-03-21

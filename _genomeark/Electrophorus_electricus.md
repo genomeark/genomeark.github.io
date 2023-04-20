@@ -78,6 +78,21 @@ genome_size_display: 0.97 Gbp
 genome_size_method: meryl
 last_raw_data: 1572556742
 last_updated: 1584459546
+metadata: |
+  species:
+    common_name: electric eel 
+    family:
+      name: Gymnotidae
+    genome_size: 969258935
+    genome_size_method: meryl
+    individuals:
+    - short_name: fEleEle1
+    name: Electrophorus electricus
+    order:
+      name: Gymnotiformes
+    short_name: fEleEle
+    taxon_id: 8005
+    project: [ vgp ]
 mito1date: 2019-10-02
 mito1filesize: 5.3 KiB
 mito1length: 17309

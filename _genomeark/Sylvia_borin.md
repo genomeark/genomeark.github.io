@@ -77,6 +77,21 @@ genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 last_raw_data: 1579617542
 last_updated: 1589470386
+metadata: |
+  species:
+    common_name: garden warbler
+    family:
+      name: Sylviidae
+    genome_size: 1200000000
+    genome_size_method: null
+    individuals:
+    - short_name: bSylBor1
+    name: Sylvia borin
+    order:
+      name: Passeriformes
+    short_name: bSylBor
+    taxon_id: 1471886
+    project: [ vgp ]
 name: Sylvia borin
 name_: Sylvia_borin
 pri1date: 2020-04-24

@@ -45,6 +45,21 @@ data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color
 genome_size: 0
 last_raw_data: 1638999143
 last_updated: 1638999143
+metadata: |
+  species:
+    short_name: bNomDom
+    name: Nomonyx dominicus
+    taxon_id: 555276
+    common_name: masked duck
+    order:
+      name: Anseriformes
+    family:
+      name: Anatidae
+    individuals:
+      - short_name: bNomDom1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Nomonyx dominicus
 name_: Nomonyx_dominicus
 short_name: bNomDom

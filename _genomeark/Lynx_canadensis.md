@@ -77,6 +77,21 @@ genome_size: 2471525315
 genome_size_display: 2.47 Gbp
 last_raw_data: 1534379101
 last_updated: 1591639160
+metadata: |
+  species:
+    short_name: mLynCan
+    name: Lynx canadensis
+    taxon_id: 61383
+    common_name: Canada lynx
+    order:
+      name: Carnivora
+    family:
+      name: Felidae
+    individuals:
+      - short_name: mLynCan4
+    genome_size: 2471525315
+    genome_size_method:
+    project: [ vgp ]
 mito4date: 2019-10-03
 mito4filesize: 5.0 KiB
 mito4length: 17044

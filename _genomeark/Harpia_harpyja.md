@@ -77,6 +77,22 @@ genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 last_raw_data: 1651615037
 last_updated: 1651615037
+metadata: |
+  species:
+    short_name: bHarHar
+    name: Harpia harpyja
+    taxon_id: 202280
+    common_name: Harpy eagle
+    order:
+      name: Falconiformes
+    family:
+      name: Accipitridae
+    individuals:
+      - short_name: bHarHar1
+        provider: Tomas Hrbek, Guilherme Oliveira
+    genome_size: 1200000000
+    genome_size_method:
+    project: [ vgp ]
 name: Harpia harpyja
 name_: Harpia_harpyja
 pri1date: 2022-02-03

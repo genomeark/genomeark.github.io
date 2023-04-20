@@ -87,6 +87,22 @@ genome_size: 2500000000
 genome_size_display: 2.50 Gbp
 last_raw_data: 1651607858
 last_updated: 1659344659
+metadata: |
+  species:
+    short_name: rVipLat
+    name: Vipera latastei
+    taxon_id: 246179
+    common_name: snub-nosed viper
+    order:
+      name: Squamata
+    family:
+      name: Viperidae
+    individuals:
+      - short_name: rVipLat1
+        provider: Tomàs Marqués
+    genome_size: 2500000000
+    genome_size_method:
+    project: [ vgp ]
 name: Vipera latastei
 name_: Vipera_latastei
 pri1date: 2021-12-08

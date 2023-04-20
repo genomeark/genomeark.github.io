@@ -88,6 +88,21 @@ genome_size_display: 2.42 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651598084
 last_updated: 1671824777
+metadata: |
+  species:
+    name: Neoarius graeffei
+    individuals:
+    - short_name: fNeoGra1
+    short_name: fNeoGra
+    taxon_id: '443677'
+    common_name: lesser salmon catfish
+    genome_size: 2416000000
+    genome_size_method: GoAT
+    order:
+      name: Siluriformes
+    family:
+      name: Ariidae
+    project: [ vgp ]
 name: Neoarius graeffei
 name_: Neoarius_graeffei
 pri1date: 2022-03-11

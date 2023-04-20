@@ -25,6 +25,21 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 0
 last_raw_data: 1676996482
 last_updated: 1676996482
+metadata: |
+  species:
+    short_name: fBorAnt
+    name: Borostomias antarcticus
+    taxon_id: 473354
+    common_name: large-eye snaggletooth
+    order:
+      name: Stomiiformes
+    family:
+      name: Stomiidae
+    individuals:
+      - short_name: fBorAnt1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Borostomias antarcticus
 name_: Borostomias_antarcticus
 short_name: fBorAnt

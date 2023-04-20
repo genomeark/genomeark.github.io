@@ -17,6 +17,23 @@ genome_size_display: 0.95 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675906512
 last_updated: 1675906513
+metadata: |
+  species:
+    short_name: fScoSco
+    name: Scomber scombrus
+    taxon_id: 13677
+    common_name: Atlantic mackerel
+    order:
+      name: Perciformes
+    family:
+      name: Scombridae
+    individuals:
+      - short_name: fScoSco1
+        biosample_id: SAMEA110450232
+        sex:
+    genome_size: 948660000
+    genome_size_method: GoaT
+    project: [ ]
 name: Scomber scombrus
 name_: Scomber_scombrus
 short_name: fScoSco

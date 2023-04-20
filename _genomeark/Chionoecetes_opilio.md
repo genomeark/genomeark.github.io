@@ -37,6 +37,23 @@ genome_size_display: 3.00 Gbp
 genome_size_method: https://goat.genomehubs.org
 last_raw_data: 1679715050
 last_updated: 1679715050
+metadata: |
+  species:
+    short_name: qmChiOpil
+    name: Chionoecetes opilio
+    taxon_id: 41210
+    common_name: snow crab
+    order:
+      name: Brachyura
+    family:
+      name: Majidae
+    individuals:
+      - short_name: qmChiOpil2
+        provider: Amber Messmer, Ian Bradbury, Corey Morris
+        sex: male
+    genome_size: 3000000000
+    genome_size_method: https://goat.genomehubs.org
+    project: [ vgp ]
 name: Chionoecetes opilio
 name_: Chionoecetes_opilio
 short_name: qmChiOpil

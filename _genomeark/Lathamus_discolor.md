@@ -27,6 +27,21 @@ genome_size_display: 1.39 Gbp
 genome_size_method: GoAT
 last_raw_data: 1681236827
 last_updated: 1681236827
+metadata: |
+  species:
+    name: Lathamus discolor
+    individuals:
+    - short_name: bLatDis1
+    short_name: bLatDis
+    taxon_id: 678569
+    common_name: Swift parrot
+    genome_size: 1385000000
+    genome_size_method: GoAT
+    order:
+      name: Psittaciformes
+    family:
+      name: Psittacidae
+    project: [ vgp ]
 name: Lathamus discolor
 name_: Lathamus_discolor
 short_name: bLatDis

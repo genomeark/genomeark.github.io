@@ -25,6 +25,26 @@ data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="colo
 genome_size: 0
 last_raw_data: 1675820801
 last_updated: 1675820801
+metadata: |
+  species:
+    short_name: bCinCin
+    name: Cinclus cinclus
+    taxon_id: 127875
+    common_name: white-throated dipper
+    order:
+      name: Passeriformes
+    family:
+      name: Cinclidae
+    individuals:
+      - short_name: bCinCin1
+        biosample_id: SAMEA9679959
+        sex:
+      - short_name: bCinCin2
+        biosample_id: SAMEA9679961
+        sex: male
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Cinclus cinclus
 name_: Cinclus_cinclus
 short_name: bCinCin

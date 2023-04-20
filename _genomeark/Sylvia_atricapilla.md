@@ -77,6 +77,21 @@ genome_size: 1090000000
 genome_size_display: 1.09 Gbp
 last_raw_data: 1562675508
 last_updated: 1568927405
+metadata: |
+  species:
+    common_name: Eurasian blackcap
+    family:
+      name: Sylviidae
+    genome_size: 1090000000
+    genome_size_method: null
+    individuals:
+    - short_name: bSylAtr1
+    name: Sylvia atricapilla
+    order:
+      name: Passeriformes
+    short_name: bSylAtr
+    taxon_id: 48155
+    project: [ vgp ]
 name: Sylvia atricapilla
 name_: Sylvia_atricapilla
 pri1date: 2019-09-16

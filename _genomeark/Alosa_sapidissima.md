@@ -76,6 +76,26 @@ genome_size: 900000000
 genome_size_display: 0.90 Gbp
 last_raw_data: 1653517348
 last_updated: 1653517348
+metadata: |
+  species:
+    short_name: fAloSap
+    name: Alosa sapidissima
+    taxon_id: 34773
+    common_name: American shad
+    order:
+      name: Clupeiformes
+    family:
+      name: Clupeidae
+    individuals:
+      - short_name: fAloSap1
+        sex: male
+        provider: Reid Hyle, Nina Overgaard Therkildsen
+      - short_name: fAloSap2
+        sex: male
+        provider: Reid Hyle, Nina Overgaard Therkildsen
+    genome_size: 900000000
+    genome_size_method:
+    project: [ vgp ]
 name: Alosa sapidissima
 name_: Alosa_sapidissima
 pri1date: 2021-04-21

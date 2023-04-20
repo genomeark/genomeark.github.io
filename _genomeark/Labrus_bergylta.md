@@ -17,6 +17,23 @@ genome_size_display: 1.41 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678913435
 last_updated: 1678913436
+metadata: |
+  species:
+    short_name: fLabBer
+    name: Labrus bergylta
+    taxon_id: 56723
+    common_name: ballan wrasse
+    order:
+      name: Perciformes
+    family:
+      name: Labridae
+    individuals:
+      - short_name: fLabBer1
+        biosample_id: SAMEA111562158
+        sex: female
+    genome_size: 1408320000
+    genome_size_method: GoaT
+    project: [ ]
 name: Labrus bergylta
 name_: Labrus_bergylta
 short_name: fLabBer

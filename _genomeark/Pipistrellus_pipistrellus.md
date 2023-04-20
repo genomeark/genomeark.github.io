@@ -77,6 +77,26 @@ genome_size: 1763439233
 genome_size_display: 1.76 Gbp
 last_raw_data: 1675961289
 last_updated: 1675961289
+metadata: |
+  species:
+    short_name: mPipPip
+    name: Pipistrellus pipistrellus
+    taxon_id: 59474
+    common_name: common pipistrelle
+    order:
+      name: Chiroptera
+    family:
+      name: Vespertilionidae
+    individuals:
+      - short_name: mPipPip1
+        biosample_id: SAMEA994724
+        sex: male
+      - short_name: mPipPip2
+        biosample_id: SAMEA9921453
+        sex: female
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2019-10-03
 mito1filesize: 4.9 KiB
 mito1length: 16925

@@ -88,6 +88,21 @@ genome_size_display: 1.30 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651597538
 last_updated: 1671738299
+metadata: |
+  species:
+    name: Ammospiza nelsoni
+    individuals:
+    - short_name: bAmmNel1
+    short_name: bAmmNel
+    taxon_id: 2857394
+    common_name: Nelson's sparrow
+    genome_size: 1300000000
+    genome_size_method: GoAT
+    order:
+      name: Passeriformes
+    family:
+      name: Passerellidae
+    project: [ vgp ]
 name: Ammospiza nelsoni
 name_: Ammospiza_nelsoni
 pri1date: 2022-04-29

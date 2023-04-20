@@ -27,6 +27,23 @@ genome_size_display: 4.20 Gbp
 genome_size_method: GoaT
 last_raw_data: 1676135007
 last_updated: 1676135007
+metadata: |
+  species:
+    short_name: kmMyxGlut
+    name: Myxine glutinosa
+    taxon_id: 7769
+    common_name: Atlantic hagfish
+    order:
+      name: Myxiniformes
+    family:
+      name: Myxinidae
+    individuals:
+      - short_name: kmMyxGlut1
+        biosample_id: SAMEA12790223
+        sex:
+    genome_size: 4195620000
+    genome_size_method: GoaT
+    project: [ ]
 name: Myxine glutinosa
 name_: Myxine_glutinosa
 short_name: kmMyxGlut

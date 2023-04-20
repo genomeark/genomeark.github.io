@@ -17,6 +17,23 @@ genome_size_display: 1.00 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678367921
 last_updated: 1678367921
+metadata: |
+  species:
+    short_name: fSprSpr
+    name: Sprattus sprattus
+    taxon_id: 196075
+    common_name: European sprat
+    order:
+      name: Clupeiformes
+    family:
+      name: Clupeidae
+    individuals:
+      - short_name: fSprSpr1
+        biosample_id: SAMEA111562173
+        sex:
+    genome_size: 997560000
+    genome_size_method: GoaT
+    project: [ ]
 name: Sprattus sprattus
 name_: Sprattus_sprattus
 short_name: fSprSpr

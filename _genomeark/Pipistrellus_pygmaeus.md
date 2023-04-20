@@ -27,6 +27,23 @@ genome_size_display: 2.12 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678362287
 last_updated: 1678362287
+metadata: |
+  species:
+    short_name: mPipPyg
+    name: Pipistrellus pygmaeus
+    taxon_id: 246814
+    common_name: soprano pipistrelle
+    order:
+      name: Chiroptera
+    family:
+      name: Vespertilionidae
+    individuals:
+      - short_name: mPipPyg2
+        biosample_id: SAMEA9921456
+        sex: male
+    genome_size: 2122260000
+    genome_size_method: GoaT
+    project: [ ]
 name: Pipistrellus pygmaeus
 name_: Pipistrellus_pygmaeus
 short_name: mPipPyg

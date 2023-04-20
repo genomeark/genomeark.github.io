@@ -57,6 +57,26 @@ genome_size: 1584929904
 genome_size_display: 1.58 Gbp
 last_raw_data: 1675880654
 last_updated: 1675880656
+metadata: |
+  species:
+    short_name: fBarBab
+    name: Barbus barbus
+    taxon_id: 40830
+    common_name: barbel
+    order:
+      name: Cypriniformes
+    family:
+      name: Cyprinidae
+    individuals:
+      - short_name: fBarBab1
+        biosample_id: SAMEA13335783
+        sex: male
+      - short_name: fBarBab2
+        biosample_id: SAMEA11296535
+        sex: male
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Barbus barbus
 name_: Barbus_barbus
 pri1date: 2022-03-28

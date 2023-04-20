@@ -27,6 +27,23 @@ genome_size_display: 3.08 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678520581
 last_updated: 1678520581
+metadata: |
+  species:
+    short_name: mDelDel
+    name: Delphinus delphis
+    taxon_id: 9728
+    common_name: saddleback dolphin
+    order:
+      name: Cetacea
+    family:
+      name: Delphinidae
+    individuals:
+      - short_name: mDelDel1
+        biosample_id: SAMEA111380534
+        sex: male
+    genome_size: 3080700000
+    genome_size_method: GoaT
+    project: [ ]
 name: Delphinus delphis
 name_: Delphinus_delphis
 short_name: mDelDel

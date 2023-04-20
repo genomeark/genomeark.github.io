@@ -17,6 +17,23 @@ genome_size_display: 151.59 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675927308
 last_updated: 1675927310
+metadata: |
+  species:
+    short_name: kaPerJapo
+    name: Perophora japonica
+    taxon_id: 111868
+    common_name: A colonial sea squirt
+    order:
+      name: Enterogona
+    family:
+      name: Perophoridae
+    individuals:
+      - short_name: kaPerJapo1
+        biosample_id: SAMEA7536565
+        sex:
+    genome_size: 151590000
+    genome_size_method: GoaT
+    project: [ ]
 name: Perophora japonica
 name_: Perophora_japonica
 short_name: kaPerJapo

@@ -17,6 +17,23 @@ genome_size_display: 3.42 Gbp
 genome_size_method: GoaT
 last_raw_data: 1676136002
 last_updated: 1676136002
+metadata: |
+  species:
+    short_name: sRajMic
+    name: Raja microocellata
+    taxon_id: 223863
+    common_name: small-eyed ray
+    order:
+      name: Rajiformes
+    family:
+      name: Rajidae
+    individuals:
+      - short_name: sRajMic1
+        biosample_id: SAMEA110450104
+        sex: female
+    genome_size: 3423000000
+    genome_size_method: GoaT
+    project: [ ]
 name: Raja microocellata
 name_: Raja_microocellata
 short_name: sRajMic

@@ -94,6 +94,21 @@ mat2sizes: |
   </tfoot>
   </table>
 mat2version: assembly_curated
+metadata: |
+  species:
+    common_name: Mexican gopher tortoise
+    family:
+      name: Testudinidae
+    genome_size: 2500000000
+    genome_size_method: null
+    individuals:
+    - short_name: rGopFla2
+    name: Gopherus flavomarginatus
+    order:
+      name: Testudines
+    short_name: rGopFla
+    taxon_id: 286002
+    project: [ vgp ]
 mgd2date: 2021-11-02
 mgd2filesize: 688.9 MiB
 mgd2length: 2460558587

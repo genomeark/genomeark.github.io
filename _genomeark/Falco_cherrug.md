@@ -68,6 +68,23 @@ genome_size_display: 1.42 Gbp
 genome_size_method: GoaT ancestral inferred
 last_raw_data: 1651598553
 last_updated: 1651598553
+metadata: |
+  species:
+    short_name: bFalChe
+    name: Falco cherrug
+    taxon_id: 345164
+    common_name: Saker falcon
+    order:
+      name: Falconiformes
+    family:
+      name: Falconidae
+    individuals:
+      - short_name: bFalChe1
+        provider: Farooq Al-Ajli
+        sex: female
+    genome_size: 1420000000
+    genome_size_method: GoaT ancestral inferred
+    project: [ vgp ]
 name: Falco cherrug
 name_: Falco_cherrug
 pri1date: 2021-12-14

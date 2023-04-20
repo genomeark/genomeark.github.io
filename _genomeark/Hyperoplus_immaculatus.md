@@ -55,6 +55,23 @@ genome_size_display: 0.80 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675886732
 last_updated: 1677589412
+metadata: |
+  species:
+    short_name: fHypImm
+    name: Hyperoplus immaculatus
+    taxon_id: 
+    common_name: 
+    order:
+      name: 
+    family:
+      name: 
+    individuals:
+      - short_name: fHypImm3
+        biosample_id: 
+        sex:
+    genome_size:
+    genome_size_method: GoaT
+    project: [ ]
 name: Hyperoplus immaculatus
 name_: Hyperoplus_immaculatus
 pri3date: 2023-02-28

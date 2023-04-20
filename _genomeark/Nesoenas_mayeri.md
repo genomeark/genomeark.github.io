@@ -17,6 +17,23 @@ genome_size_display: 1.44 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678549885
 last_updated: 1678549885
+metadata: |
+  species:
+    short_name: bNesMay
+    name: Nesoenas mayeri
+    taxon_id: 187126
+    common_name: pink pigeon
+    order:
+      name: Columbiformes
+    family:
+      name: Columbidae
+    individuals:
+      - short_name: bNesMay2
+        biosample_id: SAMEA12922160
+        sex: female
+    genome_size: 1440105000
+    genome_size_method: GoaT
+    project: [ ]
 name: Nesoenas mayeri
 name_: Nesoenas_mayeri
 short_name: bNesMay

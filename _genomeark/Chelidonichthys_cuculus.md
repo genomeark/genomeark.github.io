@@ -27,6 +27,23 @@ genome_size_display: 0.84 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678519841
 last_updated: 1678519843
+metadata: |
+  species:
+    short_name: fCheCuc
+    name: Chelidonichthys cuculus
+    taxon_id: 426094
+    common_name: red gurnard
+    order:
+      name: Scorpaeniformes
+    family:
+      name: Triglidae
+    individuals:
+      - short_name: fCheCuc1
+        biosample_id: SAMEA111562157
+        sex:
+    genome_size: 836190000
+    genome_size_method: GoaT
+    project: [ ]
 name: Chelidonichthys cuculus
 name_: Chelidonichthys_cuculus
 short_name: fCheCuc

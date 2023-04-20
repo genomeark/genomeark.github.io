@@ -88,6 +88,21 @@ genome_size_display: 1.65 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651617038
 last_updated: 1672722848
+metadata: |
+  species:
+    name: Rhea pennata
+    individuals:
+    - short_name: bPtePen1
+    short_name: bPtePen
+    taxon_id: 8795
+    common_name: lesser rhea
+    genome_size: 1645000000
+    genome_size_method: GoAT
+    order:
+      name: Rheiformes
+    family:
+      name: Rheidae
+    project: [ vgp ]
 name: Rhea pennata
 name_: Rhea_pennata
 pri1date: 2022-06-17

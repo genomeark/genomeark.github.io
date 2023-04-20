@@ -77,6 +77,21 @@ genome_size: 1500000000
 genome_size_display: 1.50 Gbp
 last_raw_data: 1587223430
 last_updated: 1587342950
+metadata: |
+  species:
+    common_name: sea lamprey
+    family:
+      name: Petromyzontidae
+    genome_size: 1500000000
+    genome_size_method: null
+    individuals:
+    - short_name: kPetMar1
+    name: Petromyzon marinus
+    order:
+      name: Petromyzontiformes
+    short_name: kPetMar
+    taxon_id: 7757
+    project: [ vgp ]
 mito1date: 2020-04-19
 mito1filesize: 4.8 KiB
 mito1length: 16230

@@ -77,6 +77,21 @@ genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 last_raw_data: 1594744121
 last_updated: 1632508751
+metadata: |
+  species:
+    common_name: whiskered treeswift
+    family:
+      name: Apodidae
+    genome_size: 1000000000
+    genome_size_method: null
+    individuals:
+    - short_name: bHemCom1
+    name: Hemiprocne comata
+    order:
+      name: Apodiformes
+    short_name: bHemCom
+    taxon_id: 243314
+    project: [ vgp ]
 mito1date: 2019-12-04
 mito1filesize: 5.1 KiB
 mito1length: 19122

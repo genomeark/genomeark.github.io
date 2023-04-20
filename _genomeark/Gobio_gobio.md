@@ -56,6 +56,23 @@ genome_size_display: 1.61 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675871884
 last_updated: 1677589428
+metadata: |
+  species:
+    short_name: fGobGob
+    name: Gobio gobio
+    taxon_id: 27704
+    common_name: gudgeon
+    order:
+      name: Cypriniformes
+    family:
+      name: Cyprinidae
+    individuals:
+      - short_name: fGobGob1
+        biosample_id: SAMEA11296538
+        sex:
+    genome_size: 1613700000
+    genome_size_method: GoaT
+    project: [ ]
 name: Gobio gobio
 name_: Gobio_gobio
 pri1date: 2023-02-28

@@ -27,6 +27,23 @@ genome_size_display: 1.62 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675875179
 last_updated: 1675875181
+metadata: |
+  species:
+    short_name: fConCon
+    name: Conger conger
+    taxon_id: 82655
+    common_name: European conger
+    order:
+      name: Anguilliformes
+    family:
+      name: Congridae
+    individuals:
+      - short_name: fConCon1
+        biosample_id: SAMEA12219431
+        sex:
+    genome_size: 1623480000
+    genome_size_method: GoaT
+    project: [ ]
 name: Conger conger
 name_: Conger_conger
 short_name: fConCon

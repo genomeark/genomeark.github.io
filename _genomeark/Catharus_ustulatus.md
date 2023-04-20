@@ -77,6 +77,21 @@ genome_size: 1490000000
 genome_size_display: 1.49 Gbp
 last_raw_data: 1568075266
 last_updated: 1596732014
+metadata: |
+  species:
+    common_name: Swainson's thrush
+    family:
+      name: Turdidae
+    genome_size: 1490000000
+    genome_size_method: null
+    individuals:
+    - short_name: bCatUst1
+    name: Catharus ustulatus
+    order:
+      name: Passeriformes
+    short_name: bCatUst
+    taxon_id: 91951
+    project: [ vgp ]
 mito1date: 2019-09-18
 mito1filesize: 5.1 KiB
 mito1length: 18726

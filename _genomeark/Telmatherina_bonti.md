@@ -56,6 +56,22 @@ genome_size: 986039709
 genome_size_display: 0.99 Gbp
 last_raw_data: 1675907098
 last_updated: 1675907100
+metadata: |
+  species:
+    short_name: fTelBon
+    name: Telmatherina bonti
+    taxon_id: 446457
+    order:
+      name: Atheriniformes
+    family:
+      name: Telmatherinidae
+    individuals:
+      - short_name: fTelBon1
+        biosample_id: SAMEA8592627
+        sex: male
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Telmatherina bonti
 name_: Telmatherina_bonti
 pri1date: 2022-03-07

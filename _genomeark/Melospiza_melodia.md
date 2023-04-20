@@ -33,6 +33,21 @@ genome_size_display: 1.40 Gbp
 genome_size_method: GoAT
 last_raw_data: 1678302432
 last_updated: 1678314041
+metadata: |
+  species:
+    name: Melospiza melodia
+    individuals:
+    - short_name: bMelMel1
+    short_name: bMelMel
+    taxon_id: '44397'
+    common_name: song sparrow
+    genome_size: 1399000000
+    genome_size_method: GoAT
+    order:
+      name: Passeriformes
+    family:
+      name: Passerellidae
+    project: [ vgp ]
 mito2date: 2023-03-07
 mito2filesize: 5.4 KiB
 mito2length: 16779

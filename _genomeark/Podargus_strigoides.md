@@ -98,6 +98,21 @@ genome_size_display: 1.37 Gbp
 genome_size_method: GoAT
 last_raw_data: 1673804529
 last_updated: 1673804529
+metadata: |
+  species:
+    name: Podargus strigoides
+    individuals:
+    - short_name: bPodStr1
+    short_name: bPodStr
+    taxon_id: 8905
+    common_name: tawny frogmouth
+    genome_size: 1367000000
+    genome_size_method: GoAT
+    order:
+      name: Caprimulgiformes
+    family:
+      name: Podargidae
+    project: [ vgp ]
 name: Podargus strigoides
 name_: Podargus_strigoides
 pri1date: 2022-03-18

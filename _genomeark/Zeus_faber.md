@@ -35,6 +35,25 @@ data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color
 genome_size: 0
 last_raw_data: 1678518703
 last_updated: 1678518703
+metadata: |
+  species:
+    short_name: fZeuFab
+    name: Zeus faber
+    taxon_id: 64108
+    common_name: John Dory
+    order:
+      name: Zeiformes
+    family:
+      name: Zeidae
+    individuals:
+      - short_name: fZeuFab1
+        biosample_id: SAMEA104384836
+      - short_name: fZeuFab8
+        biosample_id: SAMEA111562156
+        sex:
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2019-10-03
 mito1filesize: 5.1 KiB
 mito1length: 16722

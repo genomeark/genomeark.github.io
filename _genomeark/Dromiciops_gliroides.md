@@ -77,6 +77,19 @@ genome_size: 3303199800
 genome_size_display: 3.30 Gbp
 last_raw_data: 1601308154
 last_updated: 1621893307
+metadata: |
+  species:
+    short_name: mDroGli
+    name: Dromiciops gliroides
+    taxon_id: 33562
+    common_name: monito del monte 
+    order:
+      name: Microbiotheria
+    family:
+      name: Microbiotheriidae
+    individuals:
+      - short_name: mDroGli1
+    project: [ vgp ]
 mito1date: 2021-05-24
 mito1filesize: 5.0 KiB
 mito1length: 17310

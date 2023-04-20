@@ -77,6 +77,19 @@ genome_size: 3488059404
 genome_size_display: 3.49 Gbp
 last_raw_data: 1651620730
 last_updated: 1659976604
+metadata: |
+  species:
+    short_name: mHetBru
+    name: Heterohyrax brucei
+    taxon_id: 77598
+    common_name: Yellow-spotted hyrax
+    order:
+      name: Hyracoidea
+    family:
+      name: Procaviidae
+    individuals:
+      - short_name: mHetBru1
+    project: [ vgp ]
 name: Heterohyrax brucei
 name_: Heterohyrax_brucei
 pri1date: 2022-08-08

@@ -17,6 +17,23 @@ genome_size_display: 0.78 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675911631
 last_updated: 1675911632
+metadata: |
+  species:
+    short_name: fPagPag
+    name: Pagrus pagrus
+    taxon_id: 8173
+    common_name: common seabream
+    order:
+      name: Perciformes
+    family:
+      name: Sparidae
+    individuals:
+      - short_name: fPagPag1
+        biosample_id: SAMEA110450108
+        sex:
+    genome_size: 782400000
+    genome_size_method: GoaT
+    project: [ ]
 name: Pagrus pagrus
 name_: Pagrus_pagrus
 short_name: fPagPag

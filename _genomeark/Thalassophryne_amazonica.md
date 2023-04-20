@@ -87,6 +87,21 @@ genome_size: 2446592878
 genome_size_display: 2.45 Gbp
 last_raw_data: 1559331534
 last_updated: 1575989671
+metadata: |
+  species:
+    short_name: fThaAma
+    name: Thalassophryne amazonica
+    taxon_id: 390379
+    common_name: prehistoric monster fish
+    order:
+      name: Batrachoidiformes
+    family:
+      name: Batrachoididae
+    individuals:
+      - short_name: fThaAma1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Thalassophryne amazonica
 name_: Thalassophryne_amazonica
 pri1date: 2019-09-26

@@ -154,6 +154,33 @@ hpb1sizes: |
 hpb1version: assembly_verkko_1.1-hic-freeze
 last_raw_data: 1675366964
 last_updated: 1680014654
+metadata: |
+  species:
+    short_name: mSymSyn
+    name: Symphalangus syndactylus
+    common_name: siamang gibbon
+    taxon_id: 9590
+    order:
+      name: Primates
+    family:
+      name: Hylobatidae
+    individuals:
+    -
+        short_name: mSymSyn1
+        name: Jambi
+        biosample_id: SAMN30216103
+        strain: null
+        subspecies: null
+        alt_ids:
+        - Jambi_SSY
+        sex: male
+        description: null
+        provider: Lucia Carbone (Oregon Health & Science University)
+        father: null
+        mother: null
+    genome_size: 3295860000
+    genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
+    project: [ t2t ]
 name: Symphalangus syndactylus
 name_: Symphalangus_syndactylus
 short_name: mSymSyn

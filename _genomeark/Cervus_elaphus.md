@@ -67,6 +67,21 @@ genome_size: 2886619877
 genome_size_display: 2.89 Gbp
 last_raw_data: 1651593289
 last_updated: 1651593289
+metadata: |
+  species:
+    short_name: mCerEla
+    name: Cervus elaphus
+    taxon_id: 9860
+    common_name: red deer
+    order:
+      name: Artiodactyla
+    family:
+      name: Cervidae
+    individuals:
+      - short_name: mCerEla1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Cervus elaphus
 name_: Cervus_elaphus
 pri1date: 2021-06-15

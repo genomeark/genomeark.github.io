@@ -87,6 +87,23 @@ genome_size: 3000000000
 genome_size_display: 3.00 Gbp
 last_raw_data: 1651605348
 last_updated: 1672770616
+metadata: |
+  species:
+    short_name: mMacEug
+    name: Macropus eugenii
+    taxon_id: 9315
+    common_name: tammar wallaby
+    order:
+      name: Diprotodontia
+    family:
+      name: Macropodidae
+    individuals:
+      - short_name: mMacEug1
+        sex: male
+        provider: Andrew Veale
+    genome_size: 3000000000
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2022-06-17
 mito1filesize: 5.0 KiB
 mito1length: 16894

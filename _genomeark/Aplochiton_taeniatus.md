@@ -77,6 +77,19 @@ genome_size: 461946147
 genome_size_display: 461.95 Mbp
 last_raw_data: 1572015575
 last_updated: 1615825427
+metadata: |
+  species:
+    short_name: fAplTae
+    name: Aplochiton taeniatus
+    taxon_id: 946358
+    common_name: Peladilla
+    order:
+      name: Galaxiiformes
+    family:
+      name: Galaxiidae
+    individuals:
+      - short_name: fAplTae1
+    project: [ vgp ]
 name: Aplochiton taeniatus
 name_: Aplochiton_taeniatus
 pri1date: 2021-03-04

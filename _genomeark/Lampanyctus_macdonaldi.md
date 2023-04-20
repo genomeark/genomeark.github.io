@@ -17,6 +17,23 @@ genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675882307
 last_updated: 1675882309
+metadata: |
+  species:
+    short_name: fLamMac
+    name: Lampanyctus macdonaldi
+    taxon_id: 521416
+    common_name: rakery beaconlamp
+    order:
+      name: Myctophiformes
+    family:
+      name: Myctophidae
+    individuals:
+      - short_name: fLamMac1
+        biosample_id: SAMEA12815438
+        sex:
+    genome_size: 1907100000
+    genome_size_method: GoaT
+    project: [ ]
 name: Lampanyctus macdonaldi
 name_: Lampanyctus_macdonaldi
 short_name: fLamMac

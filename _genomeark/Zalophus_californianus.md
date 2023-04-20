@@ -77,6 +77,21 @@ genome_size: 3150000000
 genome_size_display: 3.15 Gbp
 last_raw_data: 1567714756
 last_updated: 1584962094
+metadata: |
+  species:
+    common_name: California sea lion
+    family:
+      name: Otariidae
+    genome_size: 3150000000
+    genome_size_method: null
+    individuals:
+    - short_name: mZalCal1
+    name: Zalophus californianus
+    order:
+      name: Carnivora
+    short_name: mZalCal
+    taxon_id: 9704
+    project: [ vgp ]
 mito1date: 2019-10-04
 mito1filesize: 4.9 KiB
 mito1length: 16715

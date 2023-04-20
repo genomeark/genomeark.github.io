@@ -77,6 +77,21 @@ genome_size: 1203454851
 genome_size_display: 1.20 Gbp
 last_raw_data: 1554458077
 last_updated: 1570719699
+metadata: |
+  species:
+    short_name: bAquChr
+    name: Aquila chrysaetos
+    taxon_id: 223781
+    common_name: European golden eagle
+    order:
+      name: Falconiformes
+    family:
+      name: Accipitridae
+    individuals:
+      - short_name: bAquChr1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2019-10-01
 mito1filesize: 5.2 KiB
 mito1length: 18265

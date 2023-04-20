@@ -105,6 +105,21 @@ hpb1sizes: |
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1658863208
 last_updated: 1675974730
+metadata: |
+  species:
+    name: Euleptes europaea
+    individuals:
+    - short_name: rEulEur1
+    short_name: rEulEur
+    taxon_id: 460621
+    common_name: tarantolino
+    genome_size: 2533000000
+    genome_size_method: GoAT
+    order:
+      name: Squamata
+    family:
+      name: Sphaerodactylidae
+    project: [ vgp ]
 mito1date: 2022-11-21
 mito1filesize: 5.0 KiB
 mito1length: 17541

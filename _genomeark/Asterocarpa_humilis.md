@@ -17,6 +17,23 @@ genome_size_display: 0.72 Gbp
 genome_size_method: GoaT
 last_raw_data: 1676887294
 last_updated: 1676887296
+metadata: |
+  species:
+    short_name: kaAstHumi
+    name: Asterocarpa humilis
+    taxon_id: 1273101
+    common_name: (An Acsidian)
+    order:
+      name: Stolidobranchia
+    family:
+      name: Styelidae
+    individuals:
+      - short_name: kaAstHumi1
+        biosample_id: SAMEA110449874
+        sex:
+    genome_size: 723720000
+    genome_size_method: GoaT
+    project: [ ]
 name: Asterocarpa humilis
 name_: Asterocarpa_humilis
 short_name: kaAstHumi

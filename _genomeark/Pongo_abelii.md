@@ -144,6 +144,56 @@ hpb1sizes: |
 hpb1version: assembly_verkko_1.1-hic-freeze
 last_raw_data: 1671520273
 last_updated: 1671520273
+metadata: |
+  species:
+    short_name: mPonAbe
+    name: Pongo abelii
+    common_name: Sumatran orangutan
+    taxon_id: 9601
+    order:
+      name: Primates
+    family:
+      name: Hominidae
+    individuals:
+    -
+        short_name: mPonAbe1
+        name: null
+        biosample_id: SAMN10521808
+        strain: null
+        subspecies: null
+        alt_ids:
+        - GM06213
+        - AG06213
+        - AG06123_PAB
+        sex: male
+        description: null
+        provider: Laura Carrel (The Pennsylvania State University), originally acquired from Coriell
+        father: null
+        mother: null
+    -
+        short_name: mPonAbe2
+        name: null
+        biosample_id: null
+        strain: null
+        alt_ids:
+        - PAB_1991-51
+        - Ppyab 1991-51
+        - 1991-51
+        sex: male
+        description: null
+        provider: Andrew Cartoceti (Smithsonian Institution)
+        mother: null
+        father: null
+        samples:
+        -
+           sample_id: mPonAbe2.testis1
+           tissue: testis
+           dev_stage: adult
+           age: 31
+           sample_biosample_id: SAMN13178754
+    genome_size: 3579480000
+    genome_size_method: GoaT ancestral inferred
+    project: [ t2t ]
 name: Pongo abelii
 name_: Pongo_abelii
 short_name: mPonAbe

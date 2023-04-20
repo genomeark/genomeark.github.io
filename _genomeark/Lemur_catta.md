@@ -97,6 +97,21 @@ genome_size: 3300000000
 genome_size_display: 3.30 Gbp
 last_raw_data: 1651600802
 last_updated: 1651600802
+metadata: |
+  species:
+    common_name: ring-tailed lemur
+    family:
+      name: Lemuridae
+    genome_size: 3300000000
+    genome_size_method: null
+    individuals:
+    - short_name: mLemCat1
+    name: Lemur catta
+    order:
+      name: Lemuriformes
+    short_name: mLemCat
+    taxon_id: 9447
+    project: [ vgp ]
 mito1date: 2019-08-20
 mito1filesize: 5.0 KiB
 mito1length: 17086

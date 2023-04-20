@@ -97,6 +97,22 @@ genome_size: 900000000
 genome_size_display: 0.90 Gbp
 last_raw_data: 1673804297
 last_updated: 1673804297
+metadata: |
+  species:
+    short_name: fScoJap
+    name: Scomber japonicus
+    taxon_id: 13676
+    common_name: chub mackerel
+    order:
+      name: Scombriformes
+    family:
+      name: Scombridae
+    individuals:
+      - short_name: fScoJap1
+        provider: Chul Lee
+    genome_size: 900000000
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2022-06-17
 mito1filesize: 5.0 KiB
 mito1length: 16568

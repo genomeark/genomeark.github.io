@@ -76,6 +76,21 @@ genome_size: 2369916842
 genome_size_display: 2.37 Gbp
 last_raw_data: 1522747239
 last_updated: 1582304335
+metadata: |
+  species:
+    short_name: mRhiFer
+    name: Rhinolophus ferrumequinum
+    taxon_id: 59479
+    common_name: greater horseshoe bat
+    order:
+      name: Chiroptera
+    family:
+      name: Rhinolophidae
+    individuals:
+      - short_name: mRhiFer1
+    genome_size: 2369916842
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2019-10-03
 mito1filesize: 5.0 KiB
 mito1length: 16848

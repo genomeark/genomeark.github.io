@@ -77,6 +77,21 @@ genome_size: 1342662642
 genome_size_display: 1.34 Gbp
 last_raw_data: 1553010021
 last_updated: 1561653480
+metadata: |
+  species:
+    short_name: fSphaOr
+    name: Sphaeramia orbicularis
+    taxon_id: 375764
+    common_name: orbiculate cardinalfish
+    order:
+      name: Kurtiformes
+    family:
+      name: Apogonidae
+    individuals:
+      - short_name: fSphaOr1
+    genome_size:
+    genome_size_method:
+    project: [ vgp ]
 name: Sphaeramia orbicularis
 name_: Sphaeramia_orbicularis
 pri1date: 2019-06-19

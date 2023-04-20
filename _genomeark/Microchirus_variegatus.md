@@ -27,6 +27,23 @@ genome_size_display: 0.71 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675908480
 last_updated: 1675908481
+metadata: |
+  species:
+    short_name: fMicVar
+    name: Microchirus variegatus
+    taxon_id: 90074
+    common_name: thickback sole
+    order:
+      name: Pleuronectiformes
+    family:
+      name: Soleidae
+    individuals:
+      - short_name: fMicVar1
+        biosample_id: SAMEA12219470
+        sex: female
+    genome_size: 713940000
+    genome_size_method: GoaT
+    project: [ ]
 name: Microchirus variegatus
 name_: Microchirus_variegatus
 short_name: fMicVar

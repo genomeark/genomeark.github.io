@@ -77,6 +77,21 @@ genome_size: 662696525
 genome_size_display: 0.66 Gbp
 last_raw_data: 1520584604
 last_updated: 1570719699
+metadata: |
+  species:
+    short_name: fAnaTes
+    name: Anabas testudineus
+    taxon_id: 64144
+    common_name: climbing perch
+    order:
+      name: Anabantiformes
+    family:
+      name: Anabantidae
+    individuals:
+      - short_name: fAnaTes1
+    genome_size: 662696525
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2019-10-01
 mito1filesize: 5.0 KiB
 mito1length: 17111

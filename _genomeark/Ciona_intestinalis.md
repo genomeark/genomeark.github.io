@@ -17,6 +17,23 @@ genome_size_display: 195.60 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675922581
 last_updated: 1675922583
+metadata: |
+  species:
+    short_name: kaCioInte
+    name: Ciona intestinalis
+    taxon_id: 7719
+    common_name: vase tunicate
+    order:
+      name: Phlebobranchia
+    family:
+      name: Cionidae
+    individuals:
+      - short_name: kaCioInte2
+        biosample_id: SAMEA110019306
+        sex:
+    genome_size: 195600000
+    genome_size_method: GoaT
+    project: [ ]
 name: Ciona intestinalis
 name_: Ciona_intestinalis
 short_name: kaCioInte

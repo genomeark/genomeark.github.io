@@ -88,6 +88,21 @@ genome_size_display: 1.46 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651611675
 last_updated: 1653077080
+metadata: |
+  species:
+    name: Melospiza georgiana
+    individuals:
+    - short_name: bMelGeo1
+    short_name: bMelGeo
+    taxon_id: 44398
+    common_name: Swamp sparrow
+    genome_size: 1457000000
+    genome_size_method: GoAT
+    order:
+      name: Passeriformes
+    family:
+      name: Passerellidae
+    project: [ vgp ]
 name: Melospiza georgiana
 name_: Melospiza_georgiana
 pri1date: 2022-05-20

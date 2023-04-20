@@ -77,6 +77,21 @@ genome_size: 2213798723
 genome_size_display: 2.21 Gbp
 last_raw_data: 1527496005
 last_updated: 1588615948
+metadata: |
+  species:
+    short_name: mPhyDis
+    name: Phyllostomus discolor
+    taxon_id: 89673
+    common_name: pale spear-nosed bat
+    order:
+      name: Chiroptera
+    family:
+      name: Phyllostomidae
+    individuals:
+      - short_name: mPhyDis1
+    genome_size: 2213798723
+    genome_size_method:
+    project: [ vgp ]
 mito1date: 2019-10-03
 mito1filesize: 5.0 KiB
 mito1length: 16692

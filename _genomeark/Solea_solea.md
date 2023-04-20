@@ -17,6 +17,29 @@ genome_size_display: 0.71 Gbp
 genome_size_method: GoaT
 last_raw_data: 1676042752
 last_updated: 1676042752
+metadata: |
+  species:
+    short_name: fSolSol
+    name: Solea solea
+    taxon_id: 90069
+    common_name: common sole
+    order:
+      name: Pleuronectiformes
+    family:
+      name: Soleidae
+    individuals:
+      - short_name: fSolSol10
+        biosample_id: SAMEA10984647
+        sex: female
+      - short_name: fSolSol3
+        biosample_id: SAMEA10984640
+        sex: female
+      - short_name: fSolSol7
+        biosample_id: SAMEA10984644
+        sex: male
+    genome_size: 713940000
+    genome_size_method: GoaT
+    project: [ ]
 name: Solea solea
 name_: Solea_solea
 short_name: fSolSol

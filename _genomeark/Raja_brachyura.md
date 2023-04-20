@@ -27,6 +27,23 @@ genome_size_display: 3.42 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675961907
 last_updated: 1675961907
+metadata: |
+  species:
+    short_name: sRajBra
+    name: Raja brachyura
+    taxon_id: 223862
+    common_name: blonde ray
+    order:
+      name: Rajiformes
+    family:
+      name: Rajidae
+    individuals:
+      - short_name: sRajBra1
+        biosample_id: SAMEA110450105
+        sex: female
+    genome_size: 3423000000
+    genome_size_method: GoaT
+    project: [ ]
 name: Raja brachyura
 name_: Raja_brachyura
 short_name: sRajBra

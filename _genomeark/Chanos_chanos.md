@@ -87,6 +87,21 @@ genome_size: 656912816
 genome_size_display: 0.66 Gbp
 last_raw_data: 1651685227
 last_updated: 1651685227
+metadata: |
+  species:
+    short_name: fChaCha
+    name: Chanos chanos
+    taxon_id: 29144
+    common_name: milkfish
+    order:
+      name: Gonorynchiformes
+    family:
+      name: Chanidae
+    individuals:
+      - short_name: fChaCha1
+    genome_size: 
+    genome_size_method:
+    project: [ vgp ]
 name: Chanos chanos
 name_: Chanos_chanos
 pri1date: 2019-08-05

@@ -27,6 +27,23 @@ genome_size_display: 0.83 Gbp
 genome_size_method: GoaT
 last_raw_data: 1676036210
 last_updated: 1676036210
+metadata: |
+  species:
+    short_name: fArgSil
+    name: Argentina silus
+    taxon_id: 446415
+    common_name: greater argentine
+    order:
+      name: Osmeriformes
+    family:
+      name: Argentinidae
+    individuals:
+      - short_name: fArgSil1
+        biosample_id: SAMEA110137623
+        sex: male
+    genome_size: 831300000
+    genome_size_method: GoaT
+    project: [ ]
 name: Argentina silus
 name_: Argentina_silus
 short_name: fArgSil
