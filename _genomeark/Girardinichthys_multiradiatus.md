@@ -29,6 +29,7 @@ alt3sizes: |
   </table>
 alt3version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
+common_name: dark-edged splitfin
 data_10x-3_bases: 58.69 Gbp
 data_10x-3_bytes: 27.4 GiB
 data_10x-3_coverage: 51.04x
@@ -51,14 +52,14 @@ data_arima_bytes: 48.8 GiB
 data_arima_coverage: 92.42x
 data_bionano-4_bases: N/A
 data_bionano-4_bytes: 3.6 GiB
-data_bionano-4_coverage: 1911.06x
+data_bionano-4_coverage: 1911.07x
 data_bionano-4_links: s3://genomeark/species/Girardinichthys_multiradiatus/fGirMul4/genomic_data/bionano/<br>
 data_bionano-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Girardinichthys_multiradiatus/fGirMul4/genomic_data/bionano/
 data_bionano-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Girardinichthys_multiradiatus/fGirMul4/genomic_data/bionano/
 data_bionano-4_scale: 574.7484
 data_bionano_bases: N/A
 data_bionano_bytes: 3.6 GiB
-data_bionano_coverage: 1911.06x
+data_bionano_coverage: 1911.07x
 data_pacbio-3_bases: 78.92 Gbp
 data_pacbio-3_bytes: 135.3 GiB
 data_pacbio-3_coverage: 68.62x
@@ -70,8 +71,9 @@ data_pacbio_bases: 78.92 Gbp
 data_pacbio_bytes: 135.3 GiB
 data_pacbio_coverage: 68.62x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
-genome_size: 1150004004
+genome_size: 1150000000
 genome_size_display: 1.15 Gbp
+genome_size_method: GOAT
 last_raw_data: 1667944576
 last_updated: 1667981918
 name: Girardinichthys multiradiatus
@@ -106,4 +108,5 @@ pri3sizes: |
   </table>
 pri3version: assembly_curated
 short_name: fGirMul
+taxon_id: 208333
 ---

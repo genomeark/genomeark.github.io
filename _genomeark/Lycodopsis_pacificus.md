@@ -29,39 +29,40 @@ alt1sizes: |
   </table>
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
+common_name: blackbelly eelpout
 data_arima-1_bases: 414.64 Gbp
 data_arima-1_bytes: 200.7 GiB
-data_arima-1_coverage: 641.49x
+data_arima-1_coverage: 638.19x
 data_arima-1_links: s3://genomeark/species/Lycodopsis_pacificus/fLycPai1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lycodopsis_pacificus/fLycPai1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lycodopsis_pacificus/fLycPai1/genomic_data/arima/
 data_arima-1_scale: 1.9245
 data_arima_bases: 414.64 Gbp
 data_arima_bytes: 200.7 GiB
-data_arima_coverage: 641.49x
+data_arima_coverage: 638.19x
 data_pacbiohifi_fagz-1_bases: 17.14 Gbp
 data_pacbiohifi_fagz-1_bytes: 5.5 GiB
-data_pacbiohifi_fagz-1_coverage: 26.52x
+data_pacbiohifi_fagz-1_coverage: 26.39x
 data_pacbiohifi_fagz-1_links: s3://genomeark/species/Lycodopsis_pacificus/fLycPai1/genomic_data/pacbiohifi_fagz/<br>
 data_pacbiohifi_fagz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lycodopsis_pacificus/fLycPai1/genomic_data/pacbiohifi_fagz/
 data_pacbiohifi_fagz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lycodopsis_pacificus/fLycPai1/genomic_data/pacbiohifi_fagz/
 data_pacbiohifi_fagz-1_scale: 2.9295
 data_pacbiohifi_fagz_bases: 17.14 Gbp
 data_pacbiohifi_fagz_bytes: 5.5 GiB
-data_pacbiohifi_fagz_coverage: 26.52x
+data_pacbiohifi_fagz_coverage: 26.39x
 data_pacbiohifi_fqgz-1_bases: 25.96 Gbp
 data_pacbiohifi_fqgz-1_bytes: 21.4 GiB
-data_pacbiohifi_fqgz-1_coverage: 40.16x
+data_pacbiohifi_fqgz-1_coverage: 39.95x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Lycodopsis_pacificus/fLycPai1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lycodopsis_pacificus/fLycPai1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lycodopsis_pacificus/fLycPai1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 1.1313
 data_pacbiohifi_fqgz_bases: 25.96 Gbp
 data_pacbiohifi_fqgz_bytes: 21.4 GiB
-data_pacbiohifi_fqgz_coverage: 40.16x
+data_pacbiohifi_fqgz_coverage: 39.95x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genbank_pri: fLycPai1:GCA_028021495.1 fLycPai1:GCA_028022725.1
-genome_size: 646369862
+genome_size: 649712992
 genome_size_display: 0.65 Gbp
 hpa1date: 2022-10-08
 hpa1filesize: 182.9 MiB
@@ -155,4 +156,5 @@ pri1sizes: |
   </table>
 pri1version: assembly_curated
 short_name: fLycPai
+taxon_id: 1772091
 ---
