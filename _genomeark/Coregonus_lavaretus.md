@@ -43,7 +43,7 @@ metadata: |
         sex: male
     genome_size: 3041580000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Coregonus lavaretus
 name_: Coregonus_lavaretus
 short_name: fCorLav

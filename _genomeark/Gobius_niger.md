@@ -33,7 +33,7 @@ metadata: |
         sex:
     genome_size: 987780000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Gobius niger
 name_: Gobius_niger
 short_name: fGobNig

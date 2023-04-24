@@ -11,22 +11,22 @@ data_arima-1_scale: 2.9792
 data_arima_bases: 631.03 Gbp
 data_arima_bytes: 197.3 GiB
 data_arima_coverage: 184.35x
-data_pacbiohifi_bam-1_bases: 65.34 Gbp
-data_pacbiohifi_bam-1_bytes: 231.6 GiB
-data_pacbiohifi_bam-1_coverage: 19.09x
+data_pacbiohifi_bam-1_bases: 69.86 Gbp
+data_pacbiohifi_bam-1_bytes: 247.6 GiB
+data_pacbiohifi_bam-1_coverage: 20.41x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Raja_brachyura/sRajBra1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Raja_brachyura/sRajBra1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Raja_brachyura/sRajBra1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 0.2628
-data_pacbiohifi_bam_bases: 65.34 Gbp
-data_pacbiohifi_bam_bytes: 231.6 GiB
-data_pacbiohifi_bam_coverage: 19.09x
+data_pacbiohifi_bam_bases: 69.86 Gbp
+data_pacbiohifi_bam_bytes: 247.6 GiB
+data_pacbiohifi_bam_coverage: 20.41x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 3423000000
 genome_size_display: 3.42 Gbp
 genome_size_method: GoaT
-last_raw_data: 1675961907
-last_updated: 1675961907
+last_raw_data: 1682198252
+last_updated: 1682198252
 metadata: |
   species:
     short_name: sRajBra
@@ -43,7 +43,7 @@ metadata: |
         sex: female
     genome_size: 3423000000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Raja brachyura
 name_: Raja_brachyura
 short_name: sRajBra

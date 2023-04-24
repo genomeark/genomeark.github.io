@@ -43,7 +43,7 @@ metadata: |
         sex: male
     genome_size: 831300000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Argentina silus
 name_: Argentina_silus
 short_name: fArgSil

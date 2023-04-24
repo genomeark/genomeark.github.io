@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 836190000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Chelidonichthys cuculus
 name_: Chelidonichthys_cuculus
 short_name: fCheCuc

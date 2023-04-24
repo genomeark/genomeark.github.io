@@ -72,7 +72,7 @@ metadata: |
         sex: female
     genome_size: 1124700000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Phoxinus phoxinus
 name_: Phoxinus_phoxinus
 pri1date: 2023-03-08

@@ -74,7 +74,7 @@ metadata: |
         sex:
     genome_size: 381420000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Pleuronectes platessa
 name_: Pleuronectes_platessa
 pri1date: 2023-03-08

@@ -48,6 +48,7 @@ metadata: |
     individuals:
       - short_name: fLipPho2
         biosample_id: SAMEA7522844
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

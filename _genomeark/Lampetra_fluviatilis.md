@@ -33,7 +33,7 @@ metadata: |
         sex: female
     genome_size: 1339860000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Lampetra fluviatilis
 name_: Lampetra_fluviatilis
 short_name: kcLamFluv

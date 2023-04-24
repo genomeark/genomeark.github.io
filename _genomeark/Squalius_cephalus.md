@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 1300740000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Squalius cephalus
 name_: Squalius_cephalus
 short_name: fSquCep

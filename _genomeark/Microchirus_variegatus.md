@@ -43,7 +43,7 @@ metadata: |
         sex: female
     genome_size: 713940000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Microchirus variegatus
 name_: Microchirus_variegatus
 short_name: fMicVar

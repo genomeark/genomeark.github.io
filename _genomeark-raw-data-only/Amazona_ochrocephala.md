@@ -1,0 +1,1 @@
+../_genomeark/Amazona_ochrocephala.md

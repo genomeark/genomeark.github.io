@@ -89,6 +89,8 @@ metadata: |
       name: Osteoglossidae
     individuals:
       - short_name: fSclFor1
+        biosample_id: SAMEA4872123
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

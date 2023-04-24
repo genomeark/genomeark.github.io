@@ -1,0 +1,1 @@
+../_genomeark/Lampanyctus_macdonaldi.md

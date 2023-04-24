@@ -72,7 +72,7 @@ metadata: |
         sex: female
     genome_size: 1398540000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Gulosus aristotelis
 name_: Gulosus_aristotelis
 pri2date: 2023-03-10

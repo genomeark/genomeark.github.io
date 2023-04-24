@@ -47,7 +47,9 @@ metadata: |
       name: Stomiidae
     individuals:
       - short_name: fMalNig1
-    genome_size: 
+        biosample_id: SAMEA7524395
+        sex:
+    genome_size:
     genome_size_method:
     project: [ vgp ]
 name: Malacosteus niger

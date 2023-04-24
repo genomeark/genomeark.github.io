@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 645480000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Platichthys flesus
 name_: Platichthys_flesus
 short_name: fPlaFle

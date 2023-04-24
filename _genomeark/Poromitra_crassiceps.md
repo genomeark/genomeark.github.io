@@ -37,7 +37,8 @@ metadata: |
       name: Melamphaidae
     individuals:
       - short_name: fPorCra3
-        biosample_id: SAMEA8748835
+        biosample_id: SAMEA8748810
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

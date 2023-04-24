@@ -33,7 +33,7 @@ metadata: |
         sex:
     genome_size: 713940000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Buglossidium luteum
 name_: Buglossidium_luteum
 short_name: fBugLut

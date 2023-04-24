@@ -43,7 +43,7 @@ metadata: |
         sex: female
     genome_size: 2383875000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Eptesicus nilssonii
 name_: Eptesicus_nilssonii
 short_name: mEptNil

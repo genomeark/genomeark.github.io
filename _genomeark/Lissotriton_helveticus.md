@@ -43,7 +43,7 @@ metadata: |
         sex: male
     genome_size: 25760520000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Lissotriton helveticus
 name_: Lissotriton_helveticus
 short_name: aLisHel

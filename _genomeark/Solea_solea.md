@@ -1,6 +1,16 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: common sole
+data_arima:fSolSol10_bases: 131.45 Gbp
+data_arima:fSolSol10_bytes: 39.1 GiB
+data_arima:fSolSol10_coverage: 184.11x
+data_arima:fSolSol10_links: s3://genomeark/species/Solea_solea/fSolSol10/genomic_data/arima/<br>
+data_arima:fSolSol10_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Solea_solea/fSolSol10/genomic_data/arima/
+data_arima:fSolSol10_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Solea_solea/fSolSol10/genomic_data/arima/
+data_arima:fSolSol10_scale: 3.1311
+data_arima_bases: 131.45 Gbp
+data_arima_bytes: 39.1 GiB
+data_arima_coverage: 184.11x
 data_pacbiohifi_bam:fSolSol10_bases: 21.00 Gbp
 data_pacbiohifi_bam:fSolSol10_bytes: 11.9 GiB
 data_pacbiohifi_bam:fSolSol10_coverage: 29.42x
@@ -11,12 +21,12 @@ data_pacbiohifi_bam:fSolSol10_scale: 1.6375
 data_pacbiohifi_bam_bases: 21.00 Gbp
 data_pacbiohifi_bam_bytes: 11.9 GiB
 data_pacbiohifi_bam_coverage: 29.42x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 genome_size: 713940000
 genome_size_display: 0.71 Gbp
 genome_size_method: GoaT
-last_raw_data: 1676042752
-last_updated: 1676042752
+last_raw_data: 1682200506
+last_updated: 1682200508
 metadata: |
   species:
     short_name: fSolSol
@@ -31,15 +41,9 @@ metadata: |
       - short_name: fSolSol10
         biosample_id: SAMEA10984647
         sex: female
-      - short_name: fSolSol3
-        biosample_id: SAMEA10984640
-        sex: female
-      - short_name: fSolSol7
-        biosample_id: SAMEA10984644
-        sex: male
     genome_size: 713940000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Solea solea
 name_: Solea_solea
 short_name: fSolSol

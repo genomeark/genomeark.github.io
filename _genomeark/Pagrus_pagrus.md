@@ -33,7 +33,7 @@ metadata: |
         sex:
     genome_size: 782400000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Pagrus pagrus
 name_: Pagrus_pagrus
 short_name: fPagPag

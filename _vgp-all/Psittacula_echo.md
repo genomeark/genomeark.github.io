@@ -1,0 +1,1 @@
+../_genomeark/Psittacula_echo.md

@@ -74,7 +74,7 @@ metadata: |
         sex: female
     genome_size: 528120000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Barbatula barbatula
 name_: Barbatula_barbatula
 pri1date: 2023-02-28

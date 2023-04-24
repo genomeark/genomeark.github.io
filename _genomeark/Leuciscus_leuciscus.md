@@ -33,7 +33,7 @@ metadata: |
         sex:
     genome_size: 1207830000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Leuciscus leuciscus
 name_: Leuciscus_leuciscus
 short_name: fLeuLeu

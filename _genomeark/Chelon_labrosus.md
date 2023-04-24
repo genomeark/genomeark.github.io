@@ -33,7 +33,7 @@ metadata: |
         sex:
     genome_size: 772620000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Chelon labrosus
 name_: Chelon_labrosus
 short_name: fCheLab

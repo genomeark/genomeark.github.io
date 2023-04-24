@@ -43,7 +43,7 @@ metadata: |
         sex: male
     genome_size: 625920000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Gasterosteus aculeatus
 name_: Gasterosteus_aculeatus
 short_name: fGasAcu

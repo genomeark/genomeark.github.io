@@ -1,0 +1,1 @@
+../_genomeark/Muscardinus_avellanarius.md

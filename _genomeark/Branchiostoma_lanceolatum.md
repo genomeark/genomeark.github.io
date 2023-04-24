@@ -1,5 +1,15 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
+data_arima-1_bases: 48.45 Gbp
+data_arima-1_bytes: 26.4 GiB
+data_arima-1_coverage: N/A
+data_arima-1_links: s3://genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/arima/
+data_arima-1_scale: 1.7099
+data_arima_bases: 48.45 Gbp
+data_arima_bytes: 26.4 GiB
+data_arima_coverage: N/A
 data_dovetail-1_bases: 82.38 Gbp
 data_dovetail-1_bytes: 41.2 GiB
 data_dovetail-1_coverage: N/A
@@ -20,7 +30,7 @@ data_pacbiohifi_fqgz-1_scale: 1.0682
 data_pacbiohifi_fqgz_bases: 50.34 Gbp
 data_pacbiohifi_fqgz_bytes: 43.9 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Dovetail</em>'
 genome_size: 0
 hpa1date: 2022-12-14
 hpa1filesize: 135.6 MiB
@@ -80,8 +90,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
-last_raw_data: 1671000847
-last_updated: 1671466783
+last_raw_data: 1682013221
+last_updated: 1682013221
 name: Branchiostoma lanceolatum
 name_: Branchiostoma_lanceolatum
 short_name: iBraLan

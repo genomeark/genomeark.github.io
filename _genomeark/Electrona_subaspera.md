@@ -43,7 +43,7 @@ metadata: |
         sex: female
     genome_size: 1907100000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Electrona subaspera
 name_: Electrona_subaspera
 short_name: fEleSub

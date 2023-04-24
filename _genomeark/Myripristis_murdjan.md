@@ -89,6 +89,8 @@ metadata: |
       name: Holocentridae
     individuals:
       - short_name: fMyrMur1
+        biosample_id: SAMEA4872133
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

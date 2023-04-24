@@ -79,6 +79,7 @@ metadata: |
       name: Scombridae
     individuals:
       - short_name: fThuMac1
+        biosample_id: SAMEA8654747
         sex: male
     genome_size:
     genome_size_method:

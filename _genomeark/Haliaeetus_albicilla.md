@@ -74,7 +74,7 @@ metadata: |
         sex: female
     genome_size: 1398540000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Haliaeetus albicilla
 name_: Haliaeetus_albicilla
 pri1date: 2023-02-14

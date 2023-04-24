@@ -1,0 +1,1 @@
+../_genomeark/Placopecten_magellanicus.md

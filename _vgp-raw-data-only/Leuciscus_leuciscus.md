@@ -1,0 +1,1 @@
+../_genomeark/Leuciscus_leuciscus.md

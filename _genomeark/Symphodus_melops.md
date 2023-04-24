@@ -74,7 +74,7 @@ metadata: |
         sex:
     genome_size: 968220000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Symphodus melops
 name_: Symphodus_melops
 pri2date: 2023-03-08

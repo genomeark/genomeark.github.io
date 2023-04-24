@@ -43,7 +43,7 @@ metadata: |
         sex: male
     genome_size: 2122260000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Pipistrellus pygmaeus
 name_: Pipistrellus_pygmaeus
 short_name: mPipPyg

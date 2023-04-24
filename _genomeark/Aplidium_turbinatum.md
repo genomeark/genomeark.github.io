@@ -74,7 +74,7 @@ metadata: |
         sex:
     genome_size: 437655000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Aplidium turbinatum
 name_: Aplidium_turbinatum
 pri1date: 2023-03-09

@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 151590000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Corella eumyota
 name_: Corella_eumyota
 short_name: kaCorEumy

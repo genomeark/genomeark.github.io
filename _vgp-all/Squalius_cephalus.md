@@ -1,0 +1,1 @@
+../_genomeark/Squalius_cephalus.md

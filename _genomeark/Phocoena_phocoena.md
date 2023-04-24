@@ -33,7 +33,7 @@ metadata: |
         sex: female
     genome_size: 3217620000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Phocoena phocoena
 name_: Phocoena_phocoena
 short_name: mPhoPho

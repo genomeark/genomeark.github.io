@@ -1,0 +1,1 @@
+../_genomeark/Electrona_subaspera.md

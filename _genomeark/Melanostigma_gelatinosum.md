@@ -72,7 +72,7 @@ metadata: |
         sex:
     genome_size: 899760000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Melanostigma gelatinosum
 name_: Melanostigma_gelatinosum
 pri1date: 2023-03-21

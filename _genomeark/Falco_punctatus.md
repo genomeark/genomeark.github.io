@@ -46,7 +46,7 @@ metadata: |
         sex: female
     genome_size: 1403430000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Falco punctatus
 name_: Falco_punctatus
 short_name: bFalPun

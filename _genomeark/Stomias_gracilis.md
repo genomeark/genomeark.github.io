@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 1271400000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Stomias gracilis
 name_: Stomias_gracilis
 short_name: fStoGra

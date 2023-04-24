@@ -33,7 +33,7 @@ metadata: |
         sex: female
     genome_size: 860640000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Micromesistius poutassou
 name_: Micromesistius_poutassou
 short_name: fMicPou

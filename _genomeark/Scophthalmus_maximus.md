@@ -33,7 +33,7 @@ metadata: |
         sex:
     genome_size: 841080000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Scophthalmus maximus
 name_: Scophthalmus_maximus
 short_name: fScoMax

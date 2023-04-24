@@ -72,7 +72,7 @@ metadata: |
         sex:
     genome_size: 1613700000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Gobio gobio
 name_: Gobio_gobio
 pri1date: 2023-02-28

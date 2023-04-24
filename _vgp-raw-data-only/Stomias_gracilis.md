@@ -1,0 +1,1 @@
+../_genomeark/Stomias_gracilis.md

@@ -128,7 +128,7 @@ metadata: |
       name: Syngnathidae
     individuals:
       - short_name: fSynAcu1
-        biosample_id:
+        biosample_id: SAMEA104381750
         sex:
       - short_name: fSynAcu2
         biosample_id: SAMEA13854528

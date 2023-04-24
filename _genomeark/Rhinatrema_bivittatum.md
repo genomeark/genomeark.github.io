@@ -90,6 +90,8 @@ metadata: |
       name: Rhinatrematidae
     individuals:
       - short_name: aRhiBiv1
+        biosample_id: SAMEA104387956
+        sex:
     genome_size: 5067838282
     genome_size_method: genomescope k=31
     project: [ vgp ]

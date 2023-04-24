@@ -43,7 +43,7 @@ metadata: |
         sex: male
     genome_size: 3080700000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Globicephala melas
 name_: Globicephala_melas
 short_name: mGloMel

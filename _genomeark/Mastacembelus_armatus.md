@@ -89,6 +89,8 @@ metadata: |
       name: Mastacembelidae
     individuals:
       - short_name: fMasArm1
+        biosample_id: SAMEA104026378
+        sex:
     genome_size: 756753344
     genome_size_method:
     project: [ vgp ]

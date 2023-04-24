@@ -89,8 +89,9 @@ metadata: |
       name: Bufonidae
     individuals:
       - short_name: aBufBuf1
-        biosample_id: SAMEA5574015
-    genome_size: 
+        biosample_id: SAMEA7521636
+        sex: male
+    genome_size:
     genome_size_method:
     project: [ vgp ]
 mito1date: 2019-10-05

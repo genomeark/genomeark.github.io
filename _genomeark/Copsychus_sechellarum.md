@@ -28,22 +28,22 @@ data_illumina-3_scale: 1.9916
 data_illumina_bases: 181.72 Gbp
 data_illumina_bytes: 84.5 GiB
 data_illumina_coverage: 144.10x
-data_pacbiohifi_fqgz-1_bases: 44.75 Gbp
-data_pacbiohifi_fqgz-1_bytes: 34.0 GiB
-data_pacbiohifi_fqgz-1_coverage: 35.49x
+data_pacbiohifi_fqgz-1_bases: 49.71 Gbp
+data_pacbiohifi_fqgz-1_bytes: 37.5 GiB
+data_pacbiohifi_fqgz-1_coverage: 39.42x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Copsychus_sechellarum/bCopSec1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Copsychus_sechellarum/bCopSec1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Copsychus_sechellarum/bCopSec1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 1.2244
-data_pacbiohifi_fqgz_bases: 44.75 Gbp
-data_pacbiohifi_fqgz_bytes: 34.0 GiB
-data_pacbiohifi_fqgz_coverage: 35.49x
+data_pacbiohifi_fqgz-1_scale: 1.2342
+data_pacbiohifi_fqgz_bases: 49.71 Gbp
+data_pacbiohifi_fqgz_bytes: 37.5 GiB
+data_pacbiohifi_fqgz_coverage: 39.42x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 genome_size: 1261000000
 genome_size_display: 1.26 Gbp
 genome_size_method: GoAT
-last_raw_data: 1681935619
-last_updated: 1681935619
+last_raw_data: 1682102769
+last_updated: 1682102769
 metadata: |
   species:
     name: Copsychus sechellarum

@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 1907100000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Protomyctophum parallelum
 name_: Protomyctophum_parallelum
 short_name: fProPar

@@ -74,7 +74,7 @@ metadata: |
         sex: male
     genome_size: 1251840000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Silurus aristotelis
 name_: Silurus_aristotelis
 pri3date: 2023-03-08

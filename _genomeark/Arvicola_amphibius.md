@@ -89,6 +89,8 @@ metadata: |
       name: Cricetidae
     individuals:
       - short_name: mArvAmp1
+        biosample_id: SAMEA994740
+        sex: male
     genome_size:
     genome_size_method:
     project: [ vgp ]

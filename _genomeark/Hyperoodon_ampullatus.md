@@ -75,7 +75,7 @@ metadata: |
         sex: female
     genome_size: 3217620000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Hyperoodon ampullatus
 name_: Hyperoodon_ampullatus
 pri2date: 2023-03-23

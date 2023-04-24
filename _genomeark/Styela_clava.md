@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 723720000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Styela clava
 name_: Styela_clava
 short_name: kaStyClav

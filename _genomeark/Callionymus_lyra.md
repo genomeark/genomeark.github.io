@@ -33,7 +33,7 @@ metadata: |
         sex: female
     genome_size: 689490000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Callionymus lyra
 name_: Callionymus_lyra
 short_name: fCalLyr

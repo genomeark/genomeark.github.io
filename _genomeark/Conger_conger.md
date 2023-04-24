@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 1623480000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Conger conger
 name_: Conger_conger
 short_name: fConCon

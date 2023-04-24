@@ -1,0 +1,1 @@
+../_genomeark/Gymnoscopelus_microlampas.md

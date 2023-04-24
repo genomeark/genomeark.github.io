@@ -68,11 +68,11 @@ metadata: |
       name: Nototheniidae
     individuals:
       - short_name: fNotRos5
-        biosample_id: 
+        biosample_id: SAMEA12815441
         sex:
     genome_size: 1234725000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Notothenia rossii
 name_: Notothenia_rossii
 pri5date: 2023-03-08

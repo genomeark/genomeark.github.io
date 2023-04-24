@@ -43,7 +43,7 @@ metadata: |
         sex: male
     genome_size: 2880210000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Martes martes
 name_: Martes_martes
 short_name: mMarMar

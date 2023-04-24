@@ -43,7 +43,7 @@ metadata: |
         sex: male
     genome_size: 2210280000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Myotis daubentonii
 name_: Myotis_daubentonii
 short_name: mMyoDau

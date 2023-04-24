@@ -1,0 +1,1 @@
+../_genomeark/Sardina_pilchardus.md

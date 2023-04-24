@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 997560000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Sardina pilchardus
 name_: Sardina_pilchardus
 short_name: fSarPil

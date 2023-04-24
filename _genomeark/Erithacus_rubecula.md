@@ -79,6 +79,8 @@ metadata: |
       name: Muscicapidae
     individuals:
       - short_name: bEriRub2
+        biosample_id: SAMEA4760689
+        sex: female
     genome_size:
     genome_size_method:
     project: [ vgp ]

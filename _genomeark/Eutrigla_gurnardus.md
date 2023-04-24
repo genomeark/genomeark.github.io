@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 836190000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Eutrigla gurnardus
 name_: Eutrigla_gurnardus
 short_name: fEutGur

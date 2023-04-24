@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 645480000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Ciliata mustela
 name_: Ciliata_mustela
 short_name: fCilMus

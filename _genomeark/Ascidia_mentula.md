@@ -74,7 +74,7 @@ metadata: |
         sex:
     genome_size: 107580000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Ascidia mentula
 name_: Ascidia_mentula
 pri1date: 2023-03-09

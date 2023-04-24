@@ -79,6 +79,8 @@ metadata: |
       name: Cottidae
     individuals:
       - short_name: fTauBub2
+        biosample_id: SAMEA7522994
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

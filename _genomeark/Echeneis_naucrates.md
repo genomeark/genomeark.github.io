@@ -89,6 +89,8 @@ metadata: |
       name: Echeneidae
     individuals:
       - short_name: fEcheNa1
+        biosample_id: SAMEA4966390
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

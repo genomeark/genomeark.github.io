@@ -74,7 +74,7 @@ metadata: |
         sex: female
     genome_size: 2039130000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Vipera ursinii
 name_: Vipera_ursinii
 pri1date: 2023-03-09

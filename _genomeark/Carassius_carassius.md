@@ -43,7 +43,7 @@ metadata: |
         sex: female
     genome_size: 1965780000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Carassius carassius
 name_: Carassius_carassius
 short_name: fCarCar

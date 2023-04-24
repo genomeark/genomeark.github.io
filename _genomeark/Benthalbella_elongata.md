@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 1274456250
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Benthalbella elongata
 name_: Benthalbella_elongata
 short_name: fBenEln

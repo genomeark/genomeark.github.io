@@ -79,6 +79,8 @@ metadata: |
       name: Pholidae
     individuals:
       - short_name: fPhoGun1
+        biosample_id: SAMEA7522838
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

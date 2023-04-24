@@ -33,7 +33,7 @@ metadata: |
         sex: female
     genome_size: 1907100000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Krefftichthys anderssoni
 name_: Krefftichthys_anderssoni
 short_name: fKreAnd

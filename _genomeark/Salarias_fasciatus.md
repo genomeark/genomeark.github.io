@@ -89,6 +89,8 @@ metadata: |
       name: Blenniidae
     individuals:
       - short_name: fSalaFa1
+        biosample_id: SAMEA4966329
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

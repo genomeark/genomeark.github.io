@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 606360000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Osmerus eperlanus
 name_: Osmerus_eperlanus
 short_name: fOsmEpe

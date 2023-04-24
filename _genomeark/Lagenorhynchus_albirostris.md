@@ -72,7 +72,7 @@ metadata: |
         sex: female
     genome_size: 3080700000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Lagenorhynchus albirostris
 name_: Lagenorhynchus_albirostris
 pri1date: 2023-03-28

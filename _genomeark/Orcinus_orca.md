@@ -59,6 +59,7 @@ metadata: |
       name: Delphinidae
     individuals:
       - short_name: mOrcOrc1
+        biosample_id: SAMEA8798143
         sex: female
     genome_size:
     genome_size_method:

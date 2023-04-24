@@ -61,6 +61,7 @@ metadata: |
     short_name: fTelBon
     name: Telmatherina bonti
     taxon_id: 446457
+    common_name:
     order:
       name: Atheriniformes
     family:

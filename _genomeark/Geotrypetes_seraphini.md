@@ -89,6 +89,8 @@ metadata: |
       name: Dermophiidae
     individuals:
       - short_name: aGeoSer1
+        biosample_id: SAMEA104387963
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

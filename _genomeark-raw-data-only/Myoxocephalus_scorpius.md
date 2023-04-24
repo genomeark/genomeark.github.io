@@ -1,0 +1,1 @@
+../_genomeark/Myoxocephalus_scorpius.md

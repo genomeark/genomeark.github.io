@@ -99,7 +99,9 @@ metadata: |
       name: Chanidae
     individuals:
       - short_name: fChaCha1
-    genome_size: 
+        biosample_id: SAMEA5159473
+        sex:
+    genome_size:
     genome_size_method:
     project: [ vgp ]
 name: Chanos chanos

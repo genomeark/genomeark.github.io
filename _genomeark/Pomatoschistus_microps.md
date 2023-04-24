@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 933990000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Pomatoschistus microps
 name_: Pomatoschistus_microps
 short_name: fPomMic

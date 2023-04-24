@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 1833750000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Nerophis lumbriciformis
 name_: Nerophis_lumbriciformis
 short_name: fNerLum

@@ -33,7 +33,7 @@ metadata: |
         sex: female
     genome_size: 3882659999.5
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Spermophilus citellus
 name_: Spermophilus_citellus
 short_name: mSpeCit

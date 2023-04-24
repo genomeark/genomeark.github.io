@@ -43,7 +43,7 @@ metadata: |
         sex: male
     genome_size: 1290960000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Tetrao urogallus
 name_: Tetrao_urogallus
 short_name: bTetUro

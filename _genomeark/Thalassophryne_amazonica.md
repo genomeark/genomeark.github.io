@@ -99,6 +99,8 @@ metadata: |
       name: Batrachoididae
     individuals:
       - short_name: fThaAma1
+        biosample_id: SAMEA104129913
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

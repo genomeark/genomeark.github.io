@@ -33,7 +33,7 @@ metadata: |
         sex: male
     genome_size: 1907100000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Protomyctophum andriashevi
 name_: Protomyctophum_andriashevi
 short_name: fProAnd

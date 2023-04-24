@@ -99,6 +99,8 @@ metadata: |
       name: Siphonopidae
     individuals:
       - short_name: aMicUni1
+        biosample_id: SAMEA104387962
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

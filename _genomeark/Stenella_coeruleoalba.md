@@ -43,7 +43,7 @@ metadata: |
         sex: male
     genome_size: 3080700000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Stenella coeruleoalba
 name_: Stenella_coeruleoalba
 short_name: mSteCoe

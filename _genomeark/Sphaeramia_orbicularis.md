@@ -89,6 +89,8 @@ metadata: |
       name: Apogonidae
     individuals:
       - short_name: fSphaOr1
+        biosample_id: SAMEA4966328
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

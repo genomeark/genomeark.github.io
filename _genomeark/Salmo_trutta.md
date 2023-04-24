@@ -98,6 +98,8 @@ metadata: |
       name: Salmonidae
     individuals:
       - short_name: fSalTru1
+        biosample_id: SAMEA11296537
+        sex: female
     genome_size:
     genome_size_method:
     project: [ vgp ]

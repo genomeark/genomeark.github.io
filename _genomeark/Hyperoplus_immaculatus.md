@@ -29,6 +29,7 @@ alt3sizes: |
   </table>
 alt3version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
+common_name: greater sand-eel
 data_arima-3_bases: 151.99 Gbp
 data_arima-3_bytes: 44.5 GiB
 data_arima-3_coverage: 190.52x
@@ -59,19 +60,19 @@ metadata: |
   species:
     short_name: fHypImm
     name: Hyperoplus immaculatus
-    taxon_id: 
-    common_name: 
+    taxon_id: 1484357
+    common_name: greater sand-eel
     order:
-      name: 
+      name: Uranoscopiformes
     family:
-      name: 
+      name: Ammodytidae
     individuals:
       - short_name: fHypImm3
-        biosample_id: 
+        biosample_id: SAMEA13854416
         sex:
     genome_size:
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Hyperoplus immaculatus
 name_: Hyperoplus_immaculatus
 pri3date: 2023-02-28
@@ -104,4 +105,5 @@ pri3sizes: |
   </table>
 pri3version: assembly_curated
 short_name: fHypImm
+taxon_id: 1484357
 ---

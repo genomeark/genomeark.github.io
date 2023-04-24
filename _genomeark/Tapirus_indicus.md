@@ -1,0 +1,30 @@
+---
+assembly_status: <em style="color:maroon">No assembly</em>
+data_dovetail-1_bases: 143.32 Gbp
+data_dovetail-1_bytes: 79.9 GiB
+data_dovetail-1_coverage: N/A
+data_dovetail-1_links: s3://genomeark/species/Tapirus_indicus/mTapInd1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tapirus_indicus/mTapInd1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tapirus_indicus/mTapInd1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.6707
+data_dovetail_bases: 143.32 Gbp
+data_dovetail_bytes: 79.9 GiB
+data_dovetail_coverage: N/A
+data_pacbiohifi_fqgz-1_bases: 93.39 Gbp
+data_pacbiohifi_fqgz-1_bytes: 69.2 GiB
+data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Tapirus_indicus/mTapInd1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tapirus_indicus/mTapInd1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tapirus_indicus/mTapInd1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2564
+data_pacbiohifi_fqgz_bases: 93.39 Gbp
+data_pacbiohifi_fqgz_bytes: 69.2 GiB
+data_pacbiohifi_fqgz_coverage: N/A
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'
+genome_size: 0
+last_raw_data: 1682107304
+last_updated: 1682107304
+name: Tapirus indicus
+name_: Tapirus_indicus
+short_name: mTapInd
+---

@@ -89,7 +89,9 @@ metadata: |
       name: Ranidae
     individuals:
       - short_name: aRanTem1
-    genome_size: 
+        biosample_id: SAMEA7521635
+        sex: female
+    genome_size:
     genome_size_method:
     project: [ vgp ]
 mito1date: 2019-10-03

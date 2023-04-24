@@ -79,6 +79,8 @@ metadata: |
       name: Cervidae
     individuals:
       - short_name: mCerEla1
+        biosample_id: SAMEA7523520
+        sex: female
     genome_size:
     genome_size_method:
     project: [ vgp ]

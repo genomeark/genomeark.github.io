@@ -43,7 +43,7 @@ metadata: |
         sex: female
     genome_size: 1349640000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Zootoca vivipara
 name_: Zootoca_vivipara
 short_name: rZooViv

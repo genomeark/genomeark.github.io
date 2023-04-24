@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 1633260000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Harpagifer antarcticus
 name_: Harpagifer_antarcticus
 short_name: fHarAnt

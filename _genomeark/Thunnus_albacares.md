@@ -80,6 +80,7 @@ metadata: |
     individuals:
       - short_name: fThuAlb1
         biosample_id: SAMEA8654749
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

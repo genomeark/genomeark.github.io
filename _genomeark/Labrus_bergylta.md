@@ -33,7 +33,7 @@ metadata: |
         sex: female
     genome_size: 1408320000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Labrus bergylta
 name_: Labrus_bergylta
 short_name: fLabBer

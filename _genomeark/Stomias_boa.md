@@ -37,7 +37,8 @@ metadata: |
       name: Stomiidae
     individuals:
       - short_name: fStoBoa2
-        biosample_id: SAMEA8748840
+        biosample_id: SAMEA8748811
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

@@ -89,7 +89,9 @@ metadata: |
       name: Gadidae
     individuals:
       - short_name: fGadMor1
-    genome_size: 
+        biosample_id: SAMEA5574046
+        sex:
+    genome_size:
     genome_size_method:
     project: [ vgp ]
 name: Gadus morhua

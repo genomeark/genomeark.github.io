@@ -87,6 +87,8 @@ metadata: |
       name: Muridae
     individuals:
       - short_name: mRatNor1
+        biosample_id: SAMEA7524397
+        sex: male
     genome_size:
     genome_size_method:
     project: [ vgp ]

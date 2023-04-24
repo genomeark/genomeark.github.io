@@ -46,7 +46,7 @@ metadata: |
         sex: female
     genome_size: 3579480000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Erinaceus europaeus
 name_: Erinaceus_europaeus
 short_name: mEriEur

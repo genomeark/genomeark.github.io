@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 4195620000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Myxine glutinosa
 name_: Myxine_glutinosa
 short_name: kmMyxGlut

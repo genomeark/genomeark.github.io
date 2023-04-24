@@ -43,7 +43,7 @@ metadata: |
         sex:
     genome_size: 1907100000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Gymnoscopelus braueri
 name_: Gymnoscopelus_braueri
 short_name: fGymBra

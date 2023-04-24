@@ -79,6 +79,8 @@ metadata: |
       name: Sciuridae
     individuals:
       - short_name: mSciCar1
+        biosample_id: SAMEA994726
+        sex: male
     genome_size:
     genome_size_method:
     project: [ vgp ]

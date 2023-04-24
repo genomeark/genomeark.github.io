@@ -33,7 +33,7 @@ metadata: |
         sex:
     genome_size: 625920000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Spinachia spinachia
 name_: Spinachia_spinachia
 short_name: fSpiSpi

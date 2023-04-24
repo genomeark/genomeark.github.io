@@ -33,7 +33,7 @@ metadata: |
         sex:
     genome_size: 1271400000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Abramis brama
 name_: Abramis_brama
 short_name: fAbrBra

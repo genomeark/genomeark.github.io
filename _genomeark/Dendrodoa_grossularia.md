@@ -33,7 +33,7 @@ metadata: |
         sex:
     genome_size: 723720000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Dendrodoa grossularia
 name_: Dendrodoa_grossularia
 short_name: kaDenGros

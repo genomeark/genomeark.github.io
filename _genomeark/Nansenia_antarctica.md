@@ -29,13 +29,15 @@ metadata: |
     short_name: fNanAnt
     name: Nansenia antarctica
     taxon_id: 443705
+    common_name:
     order:
       name: Argentiniformes
     family:
       name: Microstomatidae
     individuals:
       - short_name: fNanAnt1
-        biosample_id: SAMEA8748816
+        biosample_id: SAMEA8748805
+        sex:
     genome_size:
     genome_size_method:
     project: [ vgp ]

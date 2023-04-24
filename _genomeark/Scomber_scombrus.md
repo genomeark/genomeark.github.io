@@ -33,7 +33,7 @@ metadata: |
         sex:
     genome_size: 948660000
     genome_size_method: GoaT
-    project: [ ]
+    project: [ vgp ]
 name: Scomber scombrus
 name_: Scomber_scombrus
 short_name: fScoSco
