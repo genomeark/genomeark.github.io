@@ -7,15 +7,15 @@ layout: default
 
 <script>
 var tog = function (event) {
-  if (event.target.id == "viewMetadata") {
+  if (event.target.id == "togMD") {
     event.preventDefault();
 
     document.querySelector(event.target.hash).classList.toggle('visible');
 
-    if (document.getElementById('viewMetadata').text == "hide") {
-      document.getElementById('viewMetadata').text = "view";
+    if (event.target.text == "hide") {
+      event.target.text = "view";
     } else {
-      document.getElementById('viewMetadata').text = "hide";
+      event.target.text = "hide";
     }
   }
 }
@@ -83,7 +83,7 @@ document.addEventListener('click', tog, false);
 
   {% if page.metadata %}
     <table class="sd-info-tab">
-    <thead><tr><th class="label" width="100%">metadata.yaml (<a id="viewMetadata" href="#metadata">view</a>) (<a href="https://github.com/genomeark/genomeark-metadata/blob/main/species/{{ page.name_ }}.yaml">edit on github</a>)</th>
+    <thead><tr><th class="label" width="100%">metadata.yaml (<a id="togMD" href="#metadata">view</a>) (<a href="https://github.com/genomeark/genomeark-metadata/blob/main/species/{{ page.name_ }}.yaml">edit on github</a>)</th>
            </tr></thead>
     <tbody>
       <tr>
@@ -363,6 +363,37 @@ document.addEventListener('click', tog, false);
 
 </div>
 {% endunless %}
+
+
+
+<!-- ASSEMBLY METADATA --->
+
+{% if page.mds %}
+{% include section-divider.html title="Assembly Metadata" %}
+
+<div class="section">
+  {% for md in page.mds %}
+  <div class="sd-meta">
+  <table class="sd-info-tab">
+    <thead><tr><th class="label" width="100%">{{ md.title }} (<a id="togMD" href="#{{ md.ident }}">view</a>)</th>
+           </tr></thead>
+    <tbody>
+      <tr>
+      <td style="text-align: left;">
+        <div class="metadata-display" id={{ md.ident }}>
+        <pre>
+{{ md.data }}
+        </pre>
+        </div>
+      </td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
 
 
 <!-- DATA USE POLICY --->
