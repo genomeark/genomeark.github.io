@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_arima-1_bases: 642.00 Gbp
 data_arima-1_bytes: 301.2 GiB
 data_arima-1_coverage: N/A
@@ -20,11 +21,14 @@ data_pacbiohifi_fqgz-1_scale: 1.2539
 data_pacbiohifi_fqgz_bases: 215.55 Gbp
 data_pacbiohifi_fqgz_bytes: 160.1 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1677532285
 last_updated: 1677532285
 name: Heterodontus francisci
 name_: Heterodontus_francisci
 short_name: sHetFra
+taxon_id: ''
 ---

@@ -1,9 +1,9 @@
 ---
 alt1date: 2020-07-24
 alt1filesize: 514.8 MiB
-alt1length: 1764008884
-alt1n50ctg: 147871
-alt1n50scf: 147918
+alt1length: '1764008884'
+alt1n50ctg: '147871'
+alt1n50scf: '147918'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Arvicola_amphibius/mArvAmp1/assembly_curated/mArvAmp1.alt.cur.20200724.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 406 </td><td> 337.61 Kbp </td><td> 405 </td><td> 338.30 Kbp </td></tr>  <tr><td> 20 </td><td> 1004 </td><td> 261.72 Kbp </td><td> 1003 </td><td> 261.72 Kbp </td></tr>  <tr><td> 30 </td><td> 1755 </td><td> 213.02 Kbp </td><td> 1754 </td><td> 213.02 Kbp </td></tr>  <tr><td> 40 </td><td> 2662 </td><td> 177.97 Kbp </td><td> 2661 </td><td> 177.97 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 3751 </td><td> 147.87 Kbp </td><td> 3750 </td><td> 147.92 Kbp </td></tr>  <tr><td> 60 </td><td> 5057 </td><td> 123.51 Kbp </td><td> 5055 </td><td> 123.57 Kbp </td></tr>  <tr><td> 70 </td><td> 6641 </td><td> 100.20 Kbp </td><td> 6638 </td><td> 100.32 Kbp </td></tr>  <tr><td> 80 </td><td> 8617 </td><td> 78.79 Kbp </td><td> 8612 </td><td> 78.87 Kbp </td></tr>  <tr><td> 90 </td><td> 11241 </td><td> 55.89 Kbp </td><td> 11230 </td><td> 56.08 Kbp </td></tr>  <tr><td> 100 </td><td> 16472 </td><td> 217  bp </td><td> 16367 </td><td> 217  bp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 406 </td><td> 337.61 Kbp </td><td> 405 </td><td> 338.30 Kbp </td></tr><tr><td> 20 </td><td> 1004 </td><td> 261.72 Kbp </td><td> 1003 </td><td> 261.72 Kbp </td></tr><tr><td> 30 </td><td> 1755 </td><td> 213.02 Kbp </td><td> 1754 </td><td> 213.02 Kbp </td></tr><tr><td> 40 </td><td> 2662 </td><td> 177.97 Kbp </td><td> 2661 </td><td> 177.97 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 3751 </td><td> 147.87 Kbp </td><td> 3750 </td><td> 147.92 Kbp </td></tr><tr><td> 60 </td><td> 5057 </td><td> 123.51 Kbp </td><td> 5055 </td><td> 123.57 Kbp </td></tr><tr><td> 70 </td><td> 6641 </td><td> 100.20 Kbp </td><td> 6638 </td><td> 100.32 Kbp </td></tr><tr><td> 80 </td><td> 8617 </td><td> 78.79 Kbp </td><td> 8612 </td><td> 78.87 Kbp </td></tr><tr><td> 90 </td><td> 11241 </td><td> 55.89 Kbp </td><td> 11230 </td><td> 56.08 Kbp </td></tr><tr><td> 100 </td><td> 16472 </td><td> 217  bp </td><td> 16367 </td><td> 217  bp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 16473 </th><th> 1.76 Gbp </th><th> 16368 </th><th> 1.76 Gbp </th></tr>
   </tfoot>
@@ -70,11 +70,13 @@ data_pacbio-1_scale: 0.5266
 data_pacbio_bases: 152.43 Gbp
 data_pacbio_bytes: 269.6 GiB
 data_pacbio_coverage: 66.34x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Dovetail</em>'''
 genbank_alt: mArvAmp1:GCA_903992525.1
 genbank_pri: mArvAmp1:GCA_903992535.2
 genome_size: 2297765997
 genome_size_display: 2.30 Gbp
+genome_size_method: ''
 last_raw_data: 1580658763
 last_updated: 1597303643
 metadata: |
@@ -98,7 +100,7 @@ name: Arvicola amphibius
 name_: Arvicola_amphibius
 pri1date: 2020-07-24
 pri1filesize: 667.2 MiB
-pri1length: 2297765997
+pri1length: '2297765997'
 pri1n50ctg: 5308170
 pri1n50scf: 138658583
 pri1seq: https://s3.amazonaws.com/genomeark/species/Arvicola_amphibius/mArvAmp1/assembly_curated/mArvAmp1.pri.cur.20200724.fasta.gz
@@ -119,7 +121,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 12 </td><td> 13.99 Mbp </td><td> 1 </td><td> 193.96 Mbp </td></tr>  <tr><td> 20 </td><td> 31 </td><td> 10.52 Mbp </td><td> 2 </td><td> 189.60 Mbp </td></tr>  <tr><td> 30 </td><td> 56 </td><td> 8.18 Mbp </td><td> 3 </td><td> 161.33 Mbp </td></tr>  <tr><td> 40 </td><td> 88 </td><td> 6.37 Mbp </td><td> 5 </td><td> 158.92 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 126 </td><td style="background-color:#88ff88;"> 5.31 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 138.66 Mbp </td></tr>  <tr><td> 60 </td><td> 174 </td><td> 4.31 Mbp </td><td> 8 </td><td> 131.41 Mbp </td></tr>  <tr><td> 70 </td><td> 235 </td><td> 3.28 Mbp </td><td> 10 </td><td> 125.09 Mbp </td></tr>  <tr><td> 80 </td><td> 317 </td><td> 2.35 Mbp </td><td> 11 </td><td> 123.99 Mbp </td></tr>  <tr><td> 90 </td><td> 443 </td><td> 1.39 Mbp </td><td> 14 </td><td> 63.16 Mbp </td></tr>  <tr><td> 100 </td><td> 1087 </td><td> 819  bp </td><td> 215 </td><td> 4.31 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 12 </td><td> 13.99 Mbp </td><td> 1 </td><td> 193.96 Mbp </td></tr><tr><td> 20 </td><td> 31 </td><td> 10.52 Mbp </td><td> 2 </td><td> 189.60 Mbp </td></tr><tr><td> 30 </td><td> 56 </td><td> 8.18 Mbp </td><td> 3 </td><td> 161.33 Mbp </td></tr><tr><td> 40 </td><td> 88 </td><td> 6.37 Mbp </td><td> 5 </td><td> 158.92 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 126 </td><td style="background-color:#88ff88;"> 5.31 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 138.66 Mbp </td></tr><tr><td> 60 </td><td> 174 </td><td> 4.31 Mbp </td><td> 8 </td><td> 131.41 Mbp </td></tr><tr><td> 70 </td><td> 235 </td><td> 3.28 Mbp </td><td> 10 </td><td> 125.09 Mbp </td></tr><tr><td> 80 </td><td> 317 </td><td> 2.35 Mbp </td><td> 11 </td><td> 123.99 Mbp </td></tr><tr><td> 90 </td><td> 443 </td><td> 1.39 Mbp </td><td> 14 </td><td> 63.16 Mbp </td></tr><tr><td> 100 </td><td> 1087 </td><td> 819  bp </td><td> 215 </td><td> 4.31 Kbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 1088 </th><th> 2.29 Gbp </th><th> 216 </th><th> 2.30 Gbp </th></tr>
   </tfoot>

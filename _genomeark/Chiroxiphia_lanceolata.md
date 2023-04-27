@@ -1,9 +1,9 @@
 ---
 alt1date: 2019-10-08
 alt1filesize: 311.5 MiB
-alt1length: 1054616617
-alt1n50ctg: 848834
-alt1n50scf: 848834
+alt1length: '1054616617'
+alt1n50ctg: '848834'
+alt1n50scf: '848834'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Chiroxiphia_lanceolata/bChiLan1/assembly_curated/bChiLan1.alt.cur.20191008.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 27 </td><td> 3.21 Mbp </td><td> 27 </td><td> 3.21 Mbp </td></tr>  <tr><td> 20 </td><td> 75 </td><td> 2.13 Mbp </td><td> 75 </td><td> 2.13 Mbp </td></tr>  <tr><td> 30 </td><td> 145 </td><td> 1.52 Mbp </td><td> 145 </td><td> 1.52 Mbp </td></tr>  <tr><td> 40 </td><td> 238 </td><td> 1.18 Mbp </td><td> 238 </td><td> 1.18 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 361 </td><td> 0.85 Mbp </td><td> 361 </td><td> 0.85 Mbp </td></tr>  <tr><td> 60 </td><td> 537 </td><td> 0.55 Mbp </td><td> 537 </td><td> 0.55 Mbp </td></tr>  <tr><td> 70 </td><td> 861 </td><td> 236.23 Kbp </td><td> 861 </td><td> 236.23 Kbp </td></tr>  <tr><td> 80 </td><td> 2183 </td><td> 52.83 Kbp </td><td> 2183 </td><td> 52.83 Kbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 27 </td><td> 3.21 Mbp </td><td> 27 </td><td> 3.21 Mbp </td></tr><tr><td> 20 </td><td> 75 </td><td> 2.13 Mbp </td><td> 75 </td><td> 2.13 Mbp </td></tr><tr><td> 30 </td><td> 145 </td><td> 1.52 Mbp </td><td> 145 </td><td> 1.52 Mbp </td></tr><tr><td> 40 </td><td> 238 </td><td> 1.18 Mbp </td><td> 238 </td><td> 1.18 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 361 </td><td> 0.85 Mbp </td><td> 361 </td><td> 0.85 Mbp </td></tr><tr><td> 60 </td><td> 537 </td><td> 0.55 Mbp </td><td> 537 </td><td> 0.55 Mbp </td></tr><tr><td> 70 </td><td> 861 </td><td> 236.23 Kbp </td><td> 861 </td><td> 236.23 Kbp </td></tr><tr><td> 80 </td><td> 2183 </td><td> 52.83 Kbp </td><td> 2183 </td><td> 52.83 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.857x </th><th> 4269 </th><th> 1.05 Gbp </th><th> 4269 </th><th> 1.05 Gbp </th></tr>
   </tfoot>
@@ -70,11 +70,13 @@ data_pacbio-1_scale: 0.5414
 data_pacbio_bases: 83.49 Gbp
 data_pacbio_bytes: 143.6 GiB
 data_pacbio_coverage: 67.88x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Arima</em>'''
 genbank_alt: bChiLan1:GCA_009829205.1
 genbank_pri: bChiLan1:GCA_009829145.1
 genome_size: 1230000000
 genome_size_display: 1.23 Gbp
+genome_size_method: ''
 last_raw_data: 1564251086
 last_updated: 1570556404
 metadata: |
@@ -96,7 +98,7 @@ name: Chiroxiphia lanceolata
 name_: Chiroxiphia_lanceolata
 pri1date: 2019-10-08
 pri1filesize: 316.6 MiB
-pri1length: 1089631598
+pri1length: '1089631598'
 pri1n50ctg: 15430584
 pri1n50scf: 75361692
 pri1seq: https://s3.amazonaws.com/genomeark/species/Chiroxiphia_lanceolata/bChiLan1/assembly_curated/bChiLan1.pri.cur.20191008.fasta.gz
@@ -117,7 +119,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 63.52 Mbp </td><td> 0 </td><td> 156.34 Mbp </td></tr>  <tr><td> 20 </td><td> 4 </td><td> 33.55 Mbp </td><td> 1 </td><td> 120.40 Mbp </td></tr>  <tr><td> 30 </td><td> 8 </td><td> 27.94 Mbp </td><td> 2 </td><td> 117.28 Mbp </td></tr>  <tr><td> 40 </td><td> 13 </td><td> 21.53 Mbp </td><td> 4 </td><td> 75.61 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 15.43 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 75.36 Mbp </td></tr>  <tr><td> 60 </td><td> 29 </td><td> 11.78 Mbp </td><td> 8 </td><td> 37.67 Mbp </td></tr>  <tr><td> 70 </td><td> 41 </td><td> 7.73 Mbp </td><td> 12 </td><td> 21.53 Mbp </td></tr>  <tr><td> 80 </td><td> 63 </td><td> 3.34 Mbp </td><td> 19 </td><td> 15.08 Mbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 63.52 Mbp </td><td> 0 </td><td> 156.34 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 33.55 Mbp </td><td> 1 </td><td> 120.40 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 27.94 Mbp </td><td> 2 </td><td> 117.28 Mbp </td></tr><tr><td> 40 </td><td> 13 </td><td> 21.53 Mbp </td><td> 4 </td><td> 75.61 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 15.43 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 75.36 Mbp </td></tr><tr><td> 60 </td><td> 29 </td><td> 11.78 Mbp </td><td> 8 </td><td> 37.67 Mbp </td></tr><tr><td> 70 </td><td> 41 </td><td> 7.73 Mbp </td><td> 12 </td><td> 21.53 Mbp </td></tr><tr><td> 80 </td><td> 63 </td><td> 3.34 Mbp </td><td> 19 </td><td> 15.08 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.883x </th><th> 299 </th><th> 1.09 Gbp </th><th> 93 </th><th> 1.09 Gbp </th></tr>
   </tfoot>

@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_arima-1_bases: 210.05 Gbp
 data_arima-1_bytes: 113.3 GiB
 data_arima-1_coverage: N/A
@@ -37,11 +38,15 @@ data_pacbiohifi_fqgz-1_scale: 1.2303
 data_pacbiohifi_fqgz_bases: 104.71 Gbp
 data_pacbiohifi_fqgz_bytes: 79.3 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>
+  ::: <em style="color:forestgreen">Illumina</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1682106454
 last_updated: 1682106454
 name: Xenopus petersii
 name_: Xenopus_petersii
 short_name: aXenPet
+taxon_id: ''
 ---

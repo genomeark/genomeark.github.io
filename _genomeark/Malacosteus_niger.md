@@ -31,8 +31,11 @@ data_pacbio-1_scale: 0.5194
 data_pacbio_bases: 199.19 Gbp
 data_pacbio_bytes: 357.2 GiB
 data_pacbio_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Arima</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1580033667
 last_updated: 1580033667
 metadata: |

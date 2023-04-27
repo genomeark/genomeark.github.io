@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_arima-1_bases: 334.98 Gbp
 data_arima-1_bytes: 160.4 GiB
 data_arima-1_coverage: N/A
@@ -20,11 +21,14 @@ data_pacbiohifi_fqgz-1_scale: 1.1564
 data_pacbiohifi_fqgz_bases: 199.77 Gbp
 data_pacbiohifi_fqgz_bytes: 160.9 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1680055950
 last_updated: 1680055950
 name: Carcharias taurus
 name_: Carcharias_taurus
 short_name: sCarTau
+taxon_id: ''
 ---

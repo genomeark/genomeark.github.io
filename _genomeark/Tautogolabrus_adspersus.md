@@ -1,9 +1,9 @@
 ---
 alt1date: 2021-10-18
 alt1filesize: 201.0 MiB
-alt1length: 695716069
-alt1n50ctg: 534826
-alt1n50scf: 538004
+alt1length: '695716069'
+alt1n50ctg: '534826'
+alt1n50scf: '538004'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Tautogolabrus_adspersus/fTauAds1/assembly_curated/fTauAds1.alt.cur.20211018.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 29 </td><td> 2.32 Mbp </td><td> 29 </td><td> 2.32 Mbp </td></tr>  <tr><td> 20 </td><td> 85 </td><td> 1.49 Mbp </td><td> 85 </td><td> 1.49 Mbp </td></tr>  <tr><td> 30 </td><td> 162 </td><td> 1.14 Mbp </td><td> 162 </td><td> 1.14 Mbp </td></tr>  <tr><td> 40 </td><td> 264 </td><td> 0.83 Mbp </td><td> 264 </td><td> 0.83 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 413 </td><td> 0.53 Mbp </td><td> 413 </td><td> 0.54 Mbp </td></tr>  <tr><td> 60 </td><td> 668 </td><td> 269.57 Kbp </td><td> 667 </td><td> 274.92 Kbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 29 </td><td> 2.32 Mbp </td><td> 29 </td><td> 2.32 Mbp </td></tr><tr><td> 20 </td><td> 85 </td><td> 1.49 Mbp </td><td> 85 </td><td> 1.49 Mbp </td></tr><tr><td> 30 </td><td> 162 </td><td> 1.14 Mbp </td><td> 162 </td><td> 1.14 Mbp </td></tr><tr><td> 40 </td><td> 264 </td><td> 0.83 Mbp </td><td> 264 </td><td> 0.83 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 413 </td><td> 0.53 Mbp </td><td> 413 </td><td> 0.54 Mbp </td></tr><tr><td> 60 </td><td> 668 </td><td> 269.57 Kbp </td><td> 667 </td><td> 274.92 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.696x </th><th> 1507 </th><th> 0.70 Gbp </th><th> 1476 </th><th> 0.70 Gbp </th></tr>
   </tfoot>
@@ -70,13 +70,62 @@ data_pacbio-1_scale: 0.5180
 data_pacbio_bases: 103.91 Gbp
 data_pacbio_bytes: 186.8 GiB
 data_pacbio_coverage: 103.91x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Arima</em>'''
 genbank_alt: fTauAds1:GCA_020745675.1
 genbank_pri: fTauAds1:GCA_020745685.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
+genome_size_method: ''
 last_raw_data: 1622235347
 last_updated: 1635455353
+mds:
+- data: |
+    samples:
+    - biomaterial_provider: Dalhousie University
+      bioproject_accession: PRJNA516733
+      birth_date: ''
+      birth_location: ''
+      breed: ''
+      collected_by: Tony Einfeldt
+      collection_date: 08/12/2019
+      common_name: cunner
+      description: ''
+      dev_stage: adult
+      geo_loc_name: Canada - Alderney Landing, Halifax
+      isolate: fTauAds1
+      lat_lon: 44.66 N, 63.57 W
+      organism: Tautogolabrus adspersus
+      sex: male
+      specimen_voucher: ''
+      store_cond: -80C
+      taxon_Id: '34787'
+      tissue: Muscle
+      treatment: ''
+      tube_id: fTauAds1.MS1
+    - biomaterial_provider: Dalhousie University
+      bioproject_accession: PRJNA516733
+      birth_date: ''
+      birth_location: ''
+      breed: ''
+      collected_by: Tony Einfeldt
+      collection_date: 08/12/2019
+      common_name: cunner
+      description: ''
+      dev_stage: adult
+      geo_loc_name: Canada - Alderney Landing, Halifax
+      isolate: fTauAds1
+      lat_lon: 44.66 N, 63.57 W
+      organism: Tautogolabrus adspersus
+      sex: male
+      specimen_voucher: ''
+      store_cond: -80C
+      taxon_Id: '34787'
+      tissue: Gill
+      treatment: ''
+      tube_id: fTauAds1.MC1
+  ident: md6
+  title: fTauAds1_metadata.yml
 metadata: |
   species:
     common_name: cunner
@@ -94,7 +143,7 @@ metadata: |
     project: [ vgp ]
 mito1date: 2021-05-28
 mito1filesize: 5.0 KiB
-mito1length: 16494
+mito1length: '16494'
 mito1n50ctg: 0
 mito1n50scf: 0
 mito1seq: https://s3.amazonaws.com/genomeark/species/Tautogolabrus_adspersus/fTauAds1/assembly_MT_rockefeller/fTauAds1.MT.20210528.fasta.gz
@@ -115,7 +164,7 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.000x </th><th> 1 </th><th> 16.49 Kbp </th><th> 1 </th><th> 16.49 Kbp </th></tr>
   </tfoot>
@@ -125,7 +174,7 @@ name: Tautogolabrus adspersus
 name_: Tautogolabrus_adspersus
 pri1date: 2021-10-18
 pri1filesize: 207.2 MiB
-pri1length: 723565691
+pri1length: '723565691'
 pri1n50ctg: 4992765
 pri1n50scf: 29539442
 pri1seq: https://s3.amazonaws.com/genomeark/species/Tautogolabrus_adspersus/fTauAds1/assembly_curated/fTauAds1.pri.cur.20211018.fasta.gz
@@ -146,7 +195,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 4 </td><td> 17.50 Mbp </td><td> 2 </td><td> 35.76 Mbp </td></tr>  <tr><td> 20 </td><td> 11 </td><td> 12.35 Mbp </td><td> 5 </td><td> 34.03 Mbp </td></tr>  <tr><td> 30 </td><td> 20 </td><td> 10.06 Mbp </td><td> 8 </td><td> 32.54 Mbp </td></tr>  <tr><td> 40 </td><td> 32 </td><td> 7.37 Mbp </td><td> 11 </td><td> 31.65 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 48 </td><td style="background-color:#88ff88;"> 4.99 Mbp </td><td> 15 </td><td style="background-color:#88ff88;"> 29.54 Mbp </td></tr>  <tr><td> 60 </td><td> 74 </td><td> 2.69 Mbp </td><td> 18 </td><td> 27.11 Mbp </td></tr>  <tr><td> 70 </td><td> 149 </td><td> 357.65 Kbp </td><td> 22 </td><td> 21.30 Mbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 17.50 Mbp </td><td> 2 </td><td> 35.76 Mbp </td></tr><tr><td> 20 </td><td> 11 </td><td> 12.35 Mbp </td><td> 5 </td><td> 34.03 Mbp </td></tr><tr><td> 30 </td><td> 20 </td><td> 10.06 Mbp </td><td> 8 </td><td> 32.54 Mbp </td></tr><tr><td> 40 </td><td> 32 </td><td> 7.37 Mbp </td><td> 11 </td><td> 31.65 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 48 </td><td style="background-color:#88ff88;"> 4.99 Mbp </td><td> 15 </td><td style="background-color:#88ff88;"> 29.54 Mbp </td></tr><tr><td> 60 </td><td> 74 </td><td> 2.69 Mbp </td><td> 18 </td><td> 27.11 Mbp </td></tr><tr><td> 70 </td><td> 149 </td><td> 357.65 Kbp </td><td> 22 </td><td> 21.30 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.719x </th><th> 346 </th><th> 0.72 Gbp </th><th> 63 </th><th> 0.72 Gbp </th></tr>
   </tfoot>

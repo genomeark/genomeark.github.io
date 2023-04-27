@@ -28,7 +28,7 @@ data_pacbiohifi_bam-2_scale: 1.4691
 data_pacbiohifi_bam_bases: 43.47 Gbp
 data_pacbiohifi_bam_bytes: 27.6 GiB
 data_pacbiohifi_bam_coverage: 22.49x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genome_size: 1932772500
 genome_size_display: 1.93 Gbp
 genome_size_method: GoaT

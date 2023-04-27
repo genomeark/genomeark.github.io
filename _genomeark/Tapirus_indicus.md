@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_dovetail-1_bases: 143.32 Gbp
 data_dovetail-1_bytes: 79.9 GiB
 data_dovetail-1_coverage: N/A
@@ -20,11 +21,14 @@ data_pacbiohifi_fqgz-1_scale: 1.2564
 data_pacbiohifi_fqgz_bases: 93.39 Gbp
 data_pacbiohifi_fqgz_bytes: 69.2 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1682107304
 last_updated: 1682107304
 name: Tapirus indicus
 name_: Tapirus_indicus
 short_name: mTapInd
+taxon_id: ''
 ---

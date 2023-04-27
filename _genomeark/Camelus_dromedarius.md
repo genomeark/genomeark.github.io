@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_dovetail-1_bases: 142.98 Gbp
 data_dovetail-1_bytes: 74.1 GiB
 data_dovetail-1_coverage: N/A
@@ -47,11 +48,15 @@ data_pacbiohifi_fqgz-1_scale: 1.1916
 data_pacbiohifi_fqgz_bases: 78.80 Gbp
 data_pacbiohifi_fqgz_bytes: 61.6 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>
+  ::: <em style="color:forestgreen">Illumina</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1679420820
 last_updated: 1679420820
 name: Camelus dromedarius
 name_: Camelus_dromedarius
 short_name: mCamDro
+taxon_id: ''
 ---

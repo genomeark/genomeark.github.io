@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_pacbiohifi_fqgz-1_bases: 73.41 Gbp
 data_pacbiohifi_fqgz-1_bytes: 55.5 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -10,11 +11,14 @@ data_pacbiohifi_fqgz-1_scale: 1.2315
 data_pacbiohifi_fqgz_bases: 73.41 Gbp
 data_pacbiohifi_fqgz_bytes: 55.5 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1671052806
 last_updated: 1671052806
 name: Mixophyes fleayi
 name_: Mixophyes_fleayi
 short_name: aMixFle
+taxon_id: ''
 ---

@@ -1,9 +1,9 @@
 ---
 alt1date: 2022-05-20
 alt1filesize: 706.2 MiB
-alt1length: 2453279509
-alt1n50ctg: 2450335
-alt1n50scf: 2450335
+alt1length: '2453279509'
+alt1n50ctg: '2450335'
+alt1n50scf: '2450335'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Cynocephalus_volans/mCynVol1/assembly_curated/mCynVol1.alt.cur.20220520.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 28 </td><td> 9.51 Mbp </td><td> 28 </td><td> 9.51 Mbp </td></tr>  <tr><td> 20 </td><td> 74 </td><td> 6.93 Mbp </td><td> 74 </td><td> 6.93 Mbp </td></tr>  <tr><td> 30 </td><td> 133 </td><td> 5.06 Mbp </td><td> 133 </td><td> 5.06 Mbp </td></tr>  <tr><td> 40 </td><td> 217 </td><td> 3.53 Mbp </td><td> 217 </td><td> 3.53 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 338 </td><td> 2.45 Mbp </td><td> 338 </td><td> 2.45 Mbp </td></tr>  <tr><td> 60 </td><td> 529 </td><td> 1.40 Mbp </td><td> 529 </td><td> 1.40 Mbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 28 </td><td> 9.51 Mbp </td><td> 28 </td><td> 9.51 Mbp </td></tr><tr><td> 20 </td><td> 74 </td><td> 6.93 Mbp </td><td> 74 </td><td> 6.93 Mbp </td></tr><tr><td> 30 </td><td> 133 </td><td> 5.06 Mbp </td><td> 133 </td><td> 5.06 Mbp </td></tr><tr><td> 40 </td><td> 217 </td><td> 3.53 Mbp </td><td> 217 </td><td> 3.53 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 338 </td><td> 2.45 Mbp </td><td> 338 </td><td> 2.45 Mbp </td></tr><tr><td> 60 </td><td> 529 </td><td> 1.40 Mbp </td><td> 529 </td><td> 1.40 Mbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.690x </th><th> 1750 </th><th> 2.45 Gbp </th><th> 1750 </th><th> 2.45 Gbp </th></tr>
   </tfoot>
@@ -70,7 +70,7 @@ data_pacbiohifi_fqgz-1_scale: 1.2177
 data_pacbiohifi_fqgz_bases: 113.11 Gbp
 data_pacbiohifi_fqgz_bytes: 86.5 GiB
 data_pacbiohifi_fqgz_coverage: 31.83x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genbank_alt: mCynVol1:GCA_027409165.1
 genbank_pri: mCynVol1:GCA_027409185.1
 genome_size: 3554000000
@@ -78,6 +78,23 @@ genome_size_display: 3.55 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651601926
 last_updated: 1662580135
+mds:
+- data: |-
+    species: Cynocephalus volans
+    specimen: mCynVol1
+    projects:
+      - vgp
+    primary: s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/mCynVol1.pri.asm.20220324.fasta.gz
+    haplotigs: s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/mCynVol1.alt.asm.20220324.fasta.gz
+    hic_bam: s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mCynVol1_s2.bam
+    pretext: s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mCynVol1_heatmap.pretext
+    kmer_spectra_img: s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/evaluation/merqury/p/mCynVol1_png/
+    pipeline:
+      - hifiasm (0.16.1+galaxy2)
+      - purge_dups (1.2.5+galaxy4)
+      - salsa (2.3+galaxy2)
+  ident: md6
+  title: assembly_vgp_standard_2.0/mCynVol1.yaml
 metadata: |
   species:
     name: Cynocephalus volans
@@ -97,7 +114,7 @@ name: Cynocephalus volans
 name_: Cynocephalus_volans
 pri1date: 2022-05-20
 pri1filesize: 796.3 MiB
-pri1length: 2814418120
+pri1length: '2814418120'
 pri1n50ctg: 51993623
 pri1n50scf: 152846236
 pri1seq: https://s3.amazonaws.com/genomeark/species/Cynocephalus_volans/mCynVol1/assembly_curated/mCynVol1.pri.cur.20220520.fasta.gz
@@ -118,7 +135,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 156.92 Mbp </td><td> 1 </td><td> 234.98 Mbp </td></tr>  <tr><td> 20 </td><td> 4 </td><td> 126.66 Mbp </td><td> 2 </td><td> 187.14 Mbp </td></tr>  <tr><td> 30 </td><td> 7 </td><td> 91.85 Mbp </td><td> 4 </td><td> 169.06 Mbp </td></tr>  <tr><td> 40 </td><td> 11 </td><td> 69.20 Mbp </td><td> 7 </td><td> 165.29 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 17 </td><td style="background-color:#88ff88;"> 51.99 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 152.85 Mbp </td></tr>  <tr><td> 60 </td><td> 27 </td><td> 31.32 Mbp </td><td> 11 </td><td> 132.77 Mbp </td></tr>  <tr><td> 70 </td><td> 46 </td><td> 9.23 Mbp </td><td> 15 </td><td> 98.15 Mbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 156.92 Mbp </td><td> 1 </td><td> 234.98 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 126.66 Mbp </td><td> 2 </td><td> 187.14 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 91.85 Mbp </td><td> 4 </td><td> 169.06 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 69.20 Mbp </td><td> 7 </td><td> 165.29 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 17 </td><td style="background-color:#88ff88;"> 51.99 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 152.85 Mbp </td></tr><tr><td> 60 </td><td> 27 </td><td> 31.32 Mbp </td><td> 11 </td><td> 132.77 Mbp </td></tr><tr><td> 70 </td><td> 46 </td><td> 9.23 Mbp </td><td> 15 </td><td> 98.15 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.792x </th><th> 246 </th><th> 2.81 Gbp </th><th> 130 </th><th> 2.81 Gbp </th></tr>
   </tfoot>

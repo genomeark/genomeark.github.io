@@ -1,9 +1,9 @@
 ---
 alt1date: 2019-04-09
 alt1filesize: 1.3 GiB
-alt1length: 4615304139
-alt1n50ctg: 231019
-alt1n50scf: 231019
+alt1length: '4615304139'
+alt1n50ctg: '231019'
+alt1n50scf: '231019'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/assembly_curated/aRhiBiv1.alt.cur.20190409.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 545 </td><td> 0.72 Mbp </td><td> 545 </td><td> 0.72 Mbp </td></tr>  <tr><td> 20 </td><td> 1391 </td><td> 0.51 Mbp </td><td> 1391 </td><td> 0.51 Mbp </td></tr>  <tr><td> 30 </td><td> 2523 </td><td> 392.37 Kbp </td><td> 2523 </td><td> 392.37 Kbp </td></tr>  <tr><td> 40 </td><td> 4006 </td><td> 299.18 Kbp </td><td> 4006 </td><td> 299.18 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 5940 </td><td> 231.02 Kbp </td><td> 5940 </td><td> 231.02 Kbp </td></tr>  <tr><td> 60 </td><td> 8452 </td><td> 176.28 Kbp </td><td> 8452 </td><td> 176.28 Kbp </td></tr>  <tr><td> 70 </td><td> 11779 </td><td> 131.49 Kbp </td><td> 11779 </td><td> 131.49 Kbp </td></tr>  <tr><td> 80 </td><td> 16417 </td><td> 89.74 Kbp </td><td> 16417 </td><td> 89.74 Kbp </td></tr>  <tr><td> 90 </td><td> 24732 </td><td> 32.97 Kbp </td><td> 24732 </td><td> 32.97 Kbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 545 </td><td> 0.72 Mbp </td><td> 545 </td><td> 0.72 Mbp </td></tr><tr><td> 20 </td><td> 1391 </td><td> 0.51 Mbp </td><td> 1391 </td><td> 0.51 Mbp </td></tr><tr><td> 30 </td><td> 2523 </td><td> 392.37 Kbp </td><td> 2523 </td><td> 392.37 Kbp </td></tr><tr><td> 40 </td><td> 4006 </td><td> 299.18 Kbp </td><td> 4006 </td><td> 299.18 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 5940 </td><td> 231.02 Kbp </td><td> 5940 </td><td> 231.02 Kbp </td></tr><tr><td> 60 </td><td> 8452 </td><td> 176.28 Kbp </td><td> 8452 </td><td> 176.28 Kbp </td></tr><tr><td> 70 </td><td> 11779 </td><td> 131.49 Kbp </td><td> 11779 </td><td> 131.49 Kbp </td></tr><tr><td> 80 </td><td> 16417 </td><td> 89.74 Kbp </td><td> 16417 </td><td> 89.74 Kbp </td></tr><tr><td> 90 </td><td> 24732 </td><td> 32.97 Kbp </td><td> 24732 </td><td> 32.97 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.911x </th><th> 27233 </th><th> 4.62 Gbp </th><th> 27231 </th><th> 4.62 Gbp </th></tr>
   </tfoot>
@@ -70,7 +70,8 @@ data_pacbio-1_scale: 0.5199
 data_pacbio_bases: 232.06 Gbp
 data_pacbio_bytes: 415.7 GiB
 data_pacbio_coverage: 45.79x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Arima</em>'''
 genbank_alt: aRhiBiv1:GCA_901001175.1
 genbank_pri: aRhiBiv1:GCA_901001135.2
 genome_size: 5067838282
@@ -97,7 +98,7 @@ metadata: |
     project: [ vgp ]
 mito1date: 2019-10-03
 mito1filesize: 5.3 KiB
-mito1length: 16407
+mito1length: '16407'
 mito1n50ctg: 0
 mito1n50scf: 0
 mito1seq: https://s3.amazonaws.com/genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/assembly_MT_rockefeller/aRhiBiv1.MT.20191003.fasta.gz
@@ -118,7 +119,7 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.000x </th><th> 1 </th><th> 16.41 Kbp </th><th> 1 </th><th> 16.41 Kbp </th></tr>
   </tfoot>
@@ -128,7 +129,7 @@ name: Rhinatrema bivittatum
 name_: Rhinatrema_bivittatum
 pri1date: 2019-04-09
 pri1filesize: 1.5 GiB
-pri1length: 5319222779
+pri1length: '5319222779'
 pri1n50ctg: 3350639
 pri1n50scf: 486875112
 pri1seq: https://s3.amazonaws.com/genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/assembly_curated/aRhiBiv1.pri.cur.20190409.fasta.gz
@@ -149,7 +150,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 48 </td><td> 8.64 Mbp </td><td> 0 </td><td> 0.84 Gbp </td></tr>  <tr><td> 20 </td><td> 117 </td><td> 6.48 Mbp </td><td> 1 </td><td> 0.83 Gbp </td></tr>  <tr><td> 30 </td><td> 206 </td><td> 5.07 Mbp </td><td> 1 </td><td> 0.83 Gbp </td></tr>  <tr><td> 40 </td><td> 318 </td><td> 4.08 Mbp </td><td> 2 </td><td> 0.60 Gbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 455 </td><td style="background-color:#88ff88;"> 3.35 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 486.88 Mbp </td></tr>  <tr><td> 60 </td><td> 623 </td><td> 2.70 Mbp </td><td> 4 </td><td> 387.03 Mbp </td></tr>  <tr><td> 70 </td><td> 838 </td><td> 2.05 Mbp </td><td> 6 </td><td> 313.51 Mbp </td></tr>  <tr><td> 80 </td><td> 1128 </td><td> 1.49 Mbp </td><td> 7 </td><td> 277.53 Mbp </td></tr>  <tr><td> 90 </td><td> 1560 </td><td> 0.89 Mbp </td><td> 10 </td><td> 103.41 Mbp </td></tr>  <tr><td> 100 </td><td> 2556 </td><td> 254.22 Kbp </td><td> 16 </td><td> 63.94 Mbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 48 </td><td> 8.64 Mbp </td><td> 0 </td><td> 0.84 Gbp </td></tr><tr><td> 20 </td><td> 117 </td><td> 6.48 Mbp </td><td> 1 </td><td> 0.83 Gbp </td></tr><tr><td> 30 </td><td> 206 </td><td> 5.07 Mbp </td><td> 1 </td><td> 0.83 Gbp </td></tr><tr><td> 40 </td><td> 318 </td><td> 4.08 Mbp </td><td> 2 </td><td> 0.60 Gbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 455 </td><td style="background-color:#88ff88;"> 3.35 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 486.88 Mbp </td></tr><tr><td> 60 </td><td> 623 </td><td> 2.70 Mbp </td><td> 4 </td><td> 387.03 Mbp </td></tr><tr><td> 70 </td><td> 838 </td><td> 2.05 Mbp </td><td> 6 </td><td> 313.51 Mbp </td></tr><tr><td> 80 </td><td> 1128 </td><td> 1.49 Mbp </td><td> 7 </td><td> 277.53 Mbp </td></tr><tr><td> 90 </td><td> 1560 </td><td> 0.89 Mbp </td><td> 10 </td><td> 103.41 Mbp </td></tr><tr><td> 100 </td><td> 2556 </td><td> 254.22 Kbp </td><td> 16 </td><td> 63.94 Mbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.043x </th><th> 4902 </th><th> 5.29 Gbp </th><th> 1329 </th><th> 5.32 Gbp </th></tr>
   </tfoot>

@@ -11,6 +11,16 @@ data_10x-1_scale: 1.4007
 data_10x_bases: 104.63 Gbp
 data_10x_bytes: 69.6 GiB
 data_10x_coverage: N/A
+data_arima-8_bases: 164.41 Gbp
+data_arima-8_bytes: 52.9 GiB
+data_arima-8_coverage: N/A
+data_arima-8_links: s3://genomeark/species/Zeus_faber/fZeuFab8/genomic_data/arima/<br>
+data_arima-8_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Zeus_faber/fZeuFab8/genomic_data/arima/
+data_arima-8_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zeus_faber/fZeuFab8/genomic_data/arima/
+data_arima-8_scale: 2.8969
+data_arima_bases: 164.41 Gbp
+data_arima_bytes: 52.9 GiB
+data_arima_coverage: N/A
 data_pacbio-1_bases: 71.68 Gbp
 data_pacbio-1_bytes: 128.3 GiB
 data_pacbio-1_coverage: N/A
@@ -31,10 +41,13 @@ data_pacbiohifi_bam-8_scale: 1.5121
 data_pacbiohifi_bam_bases: 16.10 Gbp
 data_pacbiohifi_bam_bytes: 9.9 GiB
 data_pacbiohifi_bam_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
+  HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'''
 genome_size: 0
-last_raw_data: 1678518703
-last_updated: 1678518703
+genome_size_display: ''
+genome_size_method: ''
+last_raw_data: 1682435733
+last_updated: 1682435735
 metadata: |
   species:
     short_name: fZeuFab
@@ -56,7 +69,7 @@ metadata: |
     project: [ vgp ]
 mito1date: 2019-10-03
 mito1filesize: 5.1 KiB
-mito1length: 16722
+mito1length: '16722'
 mito1n50ctg: 16722
 mito1n50scf: 16722
 mito1seq: https://s3.amazonaws.com/genomeark/species/Zeus_faber/fZeuFab1/assembly_MT_rockefeller/fZeuFab1.MT.20191003.fasta.gz
@@ -77,7 +90,7 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr>  <tr><td> 20 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr>  <tr><td> 30 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr>  <tr><td> 40 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;"> 16.72 Kbp </td><td> 0 </td><td style="background-color:#ff8888;"> 16.72 Kbp </td></tr>  <tr><td> 60 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr><tr><td> 20 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr><tr><td> 30 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr><tr><td> 40 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;"> 16.72 Kbp </td><td> 0 </td><td style="background-color:#ff8888;"> 16.72 Kbp </td></tr><tr><td> 60 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td> 16.72 Kbp </td><td> 0 </td><td> 16.72 Kbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 1 </th><th> 16.72 Kbp </th><th> 1 </th><th> 16.72 Kbp </th></tr>
   </tfoot>

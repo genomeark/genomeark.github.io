@@ -51,13 +51,13 @@ data_pacbiohifi_fqgz-7_scale: 1.1456
 data_pacbiohifi_fqgz_bases: 84.30 Gbp
 data_pacbiohifi_fqgz_bytes: 68.5 GiB
 data_pacbiohifi_fqgz_coverage: 30.11x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'''
 genome_size: 2800000000
 genome_size_display: 2.80 Gbp
 genome_size_method: GoaT ancestral inferred
 hpa7date: 2023-04-06
 hpa7filesize: 783.2 MiB
-hpa7length: 2840164579
+hpa7length: '2840164579'
 hpa7n50ctg: 25707385
 hpa7n50scf: 149551276
 hpa7seq: https://s3.amazonaws.com/genomeark/species/Manis_pentadactyla/mManPen7/assembly_curated/mManPen7.hap1.cur.20230406.fasta.gz
@@ -78,7 +78,7 @@ hpa7sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 104.11 Mbp </td><td> 2 </td><td> 236.45 Mbp </td></tr>  <tr><td> 20 </td><td> 6 </td><td> 68.14 Mbp </td><td> 3 </td><td> 221.94 Mbp </td></tr>  <tr><td> 30 </td><td> 11 </td><td> 50.91 Mbp </td><td> 4 </td><td> 190.95 Mbp </td></tr>  <tr><td> 40 </td><td> 17 </td><td> 36.51 Mbp </td><td> 6 </td><td> 167.00 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 26 </td><td style="background-color:#88ff88;"> 25.71 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 149.55 Mbp </td></tr>  <tr><td> 60 </td><td> 38 </td><td> 22.07 Mbp </td><td> 9 </td><td> 141.14 Mbp </td></tr>  <tr><td> 70 </td><td> 52 </td><td> 15.80 Mbp </td><td> 12 </td><td> 124.88 Mbp </td></tr>  <tr><td> 80 </td><td> 73 </td><td> 10.06 Mbp </td><td> 14 </td><td> 108.20 Mbp </td></tr>  <tr><td> 90 </td><td> 122 </td><td> 3.11 Mbp </td><td> 17 </td><td> 80.29 Mbp </td></tr>  <tr><td> 100 </td><td> 512 </td><td> 164.75 Kbp </td><td> 124 </td><td> 251.79 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 104.11 Mbp </td><td> 2 </td><td> 236.45 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 68.14 Mbp </td><td> 3 </td><td> 221.94 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 50.91 Mbp </td><td> 4 </td><td> 190.95 Mbp </td></tr><tr><td> 40 </td><td> 17 </td><td> 36.51 Mbp </td><td> 6 </td><td> 167.00 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 26 </td><td style="background-color:#88ff88;"> 25.71 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 149.55 Mbp </td></tr><tr><td> 60 </td><td> 38 </td><td> 22.07 Mbp </td><td> 9 </td><td> 141.14 Mbp </td></tr><tr><td> 70 </td><td> 52 </td><td> 15.80 Mbp </td><td> 12 </td><td> 124.88 Mbp </td></tr><tr><td> 80 </td><td> 73 </td><td> 10.06 Mbp </td><td> 14 </td><td> 108.20 Mbp </td></tr><tr><td> 90 </td><td> 122 </td><td> 3.11 Mbp </td><td> 17 </td><td> 80.29 Mbp </td></tr><tr><td> 100 </td><td> 512 </td><td> 164.75 Kbp </td><td> 124 </td><td> 251.79 Kbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.012x </th><th> 1044 </th><th> 2.83 Gbp </th><th> 661 </th><th> 2.84 Gbp </th></tr>
   </tfoot>
@@ -86,7 +86,7 @@ hpa7sizes: |
 hpa7version: assembly_curated
 hpb7date: 2023-04-06
 hpb7filesize: 783.9 MiB
-hpb7length: 2869287698
+hpb7length: '2869287698'
 hpb7n50ctg: 31352529
 hpb7n50scf: 139388172
 hpb7seq: https://s3.amazonaws.com/genomeark/species/Manis_pentadactyla/mManPen7/assembly_curated/mManPen7.hap2.decon.20230406.fasta.gz
@@ -107,7 +107,7 @@ hpb7sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 152.66 Mbp </td><td> 2 </td><td> 223.42 Mbp </td></tr>  <tr><td> 20 </td><td> 5 </td><td> 68.30 Mbp </td><td> 3 </td><td> 219.24 Mbp </td></tr>  <tr><td> 30 </td><td> 9 </td><td> 57.26 Mbp </td><td> 4 </td><td> 186.78 Mbp </td></tr>  <tr><td> 40 </td><td> 15 </td><td> 40.23 Mbp </td><td> 6 </td><td> 153.65 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 23 </td><td style="background-color:#88ff88;"> 31.35 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 139.39 Mbp </td></tr>  <tr><td> 60 </td><td> 32 </td><td> 25.31 Mbp </td><td> 10 </td><td> 123.59 Mbp </td></tr>  <tr><td> 70 </td><td> 45 </td><td> 19.37 Mbp </td><td> 13 </td><td> 102.57 Mbp </td></tr>  <tr><td> 80 </td><td> 63 </td><td> 11.94 Mbp </td><td> 16 </td><td> 76.89 Mbp </td></tr>  <tr><td> 90 </td><td> 105 </td><td> 3.22 Mbp </td><td> 20 </td><td> 31.49 Mbp </td></tr>  <tr><td> 100 </td><td> 383 </td><td> 309.02 Kbp </td><td> 189 </td><td> 477.06 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 152.66 Mbp </td><td> 2 </td><td> 223.42 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 68.30 Mbp </td><td> 3 </td><td> 219.24 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 57.26 Mbp </td><td> 4 </td><td> 186.78 Mbp </td></tr><tr><td> 40 </td><td> 15 </td><td> 40.23 Mbp </td><td> 6 </td><td> 153.65 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 23 </td><td style="background-color:#88ff88;"> 31.35 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 139.39 Mbp </td></tr><tr><td> 60 </td><td> 32 </td><td> 25.31 Mbp </td><td> 10 </td><td> 123.59 Mbp </td></tr><tr><td> 70 </td><td> 45 </td><td> 19.37 Mbp </td><td> 13 </td><td> 102.57 Mbp </td></tr><tr><td> 80 </td><td> 63 </td><td> 11.94 Mbp </td><td> 16 </td><td> 76.89 Mbp </td></tr><tr><td> 90 </td><td> 105 </td><td> 3.22 Mbp </td><td> 20 </td><td> 31.49 Mbp </td></tr><tr><td> 100 </td><td> 383 </td><td> 309.02 Kbp </td><td> 189 </td><td> 477.06 Kbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.019x </th><th> 890 </th><th> 2.85 Gbp </th><th> 700 </th><th> 2.87 Gbp </th></tr>
   </tfoot>
@@ -115,6 +115,24 @@ hpb7sizes: |
 hpb7version: assembly_curated
 last_raw_data: 1669233016
 last_updated: 1680800650
+mds:
+- data: "species: Manis pentadactyla\nspecimen: mManPen7\nprojects: \n  - vgp\nhap1:
+    s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/mManPen7.HiC.hap1.20221222.fasta.gz\nhap2:
+    s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/mManPen7.HiC.hap2.20221222.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mManPen7_hap1__s2_heatmap.pretext\npretext_hap2:
+    s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mManPen7_hap2__s2_heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/evaluation/merqury/mManPen7_png/\npacbio_read_dir:
+    s3://genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nbionano_cmap_dir: s3://genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/bionano/\nhic_read_dir:
+    s3://genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/dovetail/\nhic_kit:
+    OmniC\npipeline:\n  - hifiasm (0.16.1+galaxy3)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group:
+    Rockefeller\nnotes: This was a hifiasm-HiC assembly of mManPen7, resulting in
+    two complete haplotypes. HiC scaffolding was performed with YAHS. The HiC prep
+    was Dovetail OmniC. The kmer spectra indicates a heterogametic specimen. Becuase
+    the sex chromosomes are split between the two haplotypes, we are including the
+    file paths for both haplotypes in this single ticket."
+  ident: md7
+  title: assembly_vgp_HiC_2.0/mManPen7.yaml
 metadata: |
   species:
     short_name: mManPen
@@ -134,7 +152,7 @@ metadata: |
     project: [ vgp ]
 mito7date: 2023-02-10
 mito7filesize: 5.3 KiB
-mito7length: 16571
+mito7length: '16571'
 mito7n50ctg: 0
 mito7n50scf: 0
 mito7seq: https://s3.amazonaws.com/genomeark/species/Manis_pentadactyla/mManPen7/assembly_MT_rockefeller/mManPen7.MT.20230210.fasta.gz
@@ -155,7 +173,7 @@ mito7sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.000x </th><th> 1 </th><th> 16.57 Kbp </th><th> 1 </th><th> 16.57 Kbp </th></tr>
   </tfoot>

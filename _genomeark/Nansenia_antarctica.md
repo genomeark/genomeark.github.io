@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_arima-1_bases: 252.13 Gbp
 data_arima-1_bytes: 117.9 GiB
 data_arima-1_coverage: N/A
@@ -20,8 +21,10 @@ data_pacbiohifi_bam-1_scale: 0.2673
 data_pacbiohifi_bam_bases: 36.16 Gbp
 data_pacbiohifi_bam_bytes: 126.0 GiB
 data_pacbiohifi_bam_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1678358304
 last_updated: 1678358304
 metadata: |

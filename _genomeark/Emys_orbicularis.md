@@ -1,7 +1,7 @@
 ---
 alt1date: 2022-09-02
 alt1filesize: 171.8 KiB
-alt1length: 698035
+alt1length: '698035'
 alt1n50ctg: 0
 alt1n50scf: 0
 alt1seq: https://s3.amazonaws.com/genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_curated/rEmyOrb1.alt.cur.20220902.fasta.gz
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.000x </th><th> 19 </th><th> 0.70 Mbp </th><th> 19 </th><th> 0.70 Mbp </th></tr>
   </tfoot>
@@ -80,14 +80,14 @@ data_pacbiohifi_fqgz-1_scale: 1.1782
 data_pacbiohifi_fqgz_bases: 76.59 Gbp
 data_pacbiohifi_fqgz_bytes: 60.5 GiB
 data_pacbiohifi_fqgz_coverage: 30.12x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genbank_pri: rEmyOrb1:GCA_028017835.1 rEmyOrb1:GCA_028017845.1
 genome_size: 2543000000
 genome_size_display: 2.54 Gbp
 genome_size_method: GoAT
 hpa1date: 2022-05-01
 hpa1filesize: 662.9 MiB
-hpa1length: 2324111602
+hpa1length: '2324111602'
 hpa1n50ctg: 81997332
 hpa1n50scf: 131897773
 hpa1seq: https://s3.amazonaws.com/genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/rEmyOrb1.HiC.hap1.20220501.fasta.gz
@@ -108,7 +108,7 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 155.99 Mbp </td><td> 1 </td><td> 373.28 Mbp </td></tr>  <tr><td> 20 </td><td> 4 </td><td> 138.76 Mbp </td><td> 2 </td><td> 300.50 Mbp </td></tr>  <tr><td> 30 </td><td> 6 </td><td> 115.74 Mbp </td><td> 3 </td><td> 217.68 Mbp </td></tr>  <tr><td> 40 </td><td> 8 </td><td> 106.76 Mbp </td><td> 4 </td><td> 158.16 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 82.00 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 131.90 Mbp </td></tr>  <tr><td> 60 </td><td> 15 </td><td> 48.41 Mbp </td><td> 8 </td><td> 113.37 Mbp </td></tr>  <tr><td> 70 </td><td> 22 </td><td> 26.07 Mbp </td><td> 11 </td><td> 81.37 Mbp </td></tr>  <tr><td> 80 </td><td> 37 </td><td> 11.60 Mbp </td><td> 16 </td><td> 34.22 Mbp </td></tr>  <tr><td> 90 </td><td> 120 </td><td> 447.85 Kbp </td><td> 32 </td><td> 2.75 Mbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 155.99 Mbp </td><td> 1 </td><td> 373.28 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 138.76 Mbp </td><td> 2 </td><td> 300.50 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 115.74 Mbp </td><td> 3 </td><td> 217.68 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 106.76 Mbp </td><td> 4 </td><td> 158.16 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 82.00 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 131.90 Mbp </td></tr><tr><td> 60 </td><td> 15 </td><td> 48.41 Mbp </td><td> 8 </td><td> 113.37 Mbp </td></tr><tr><td> 70 </td><td> 22 </td><td> 26.07 Mbp </td><td> 11 </td><td> 81.37 Mbp </td></tr><tr><td> 80 </td><td> 37 </td><td> 11.60 Mbp </td><td> 16 </td><td> 34.22 Mbp </td></tr><tr><td> 90 </td><td> 120 </td><td> 447.85 Kbp </td><td> 32 </td><td> 2.75 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.907x </th><th> 273 </th><th> 2.31 Gbp </th><th> 159 </th><th> 2.32 Gbp </th></tr>
   </tfoot>
@@ -116,7 +116,7 @@ hpa1sizes: |
 hpa1version: assembly_vgp_HiC_2.0
 hpb1date: 2022-05-01
 hpb1filesize: 667.1 MiB
-hpb1length: 2327178905
+hpb1length: '2327178905'
 hpb1n50ctg: 49260195
 hpb1n50scf: 130989954
 hpb1seq: https://s3.amazonaws.com/genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/rEmyOrb1.HiC.hap2.20220501.fasta.gz
@@ -137,7 +137,7 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 126.75 Mbp </td><td> 1 </td><td> 373.37 Mbp </td></tr>  <tr><td> 20 </td><td> 4 </td><td> 91.34 Mbp </td><td> 2 </td><td> 283.82 Mbp </td></tr>  <tr><td> 30 </td><td> 7 </td><td> 68.82 Mbp </td><td> 3 </td><td> 241.59 Mbp </td></tr>  <tr><td> 40 </td><td> 11 </td><td> 62.24 Mbp </td><td> 4 </td><td> 210.33 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 49.26 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 130.99 Mbp </td></tr>  <tr><td> 60 </td><td> 21 </td><td> 37.54 Mbp </td><td> 8 </td><td> 107.85 Mbp </td></tr>  <tr><td> 70 </td><td> 29 </td><td> 25.86 Mbp </td><td> 11 </td><td> 81.17 Mbp </td></tr>  <tr><td> 80 </td><td> 43 </td><td> 11.54 Mbp </td><td> 15 </td><td> 37.56 Mbp </td></tr>  <tr><td> 90 </td><td> 114 </td><td> 0.84 Mbp </td><td> 32 </td><td> 2.38 Mbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 126.75 Mbp </td><td> 1 </td><td> 373.37 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 91.34 Mbp </td><td> 2 </td><td> 283.82 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 68.82 Mbp </td><td> 3 </td><td> 241.59 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 62.24 Mbp </td><td> 4 </td><td> 210.33 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 49.26 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 130.99 Mbp </td></tr><tr><td> 60 </td><td> 21 </td><td> 37.54 Mbp </td><td> 8 </td><td> 107.85 Mbp </td></tr><tr><td> 70 </td><td> 29 </td><td> 25.86 Mbp </td><td> 11 </td><td> 81.17 Mbp </td></tr><tr><td> 80 </td><td> 43 </td><td> 11.54 Mbp </td><td> 15 </td><td> 37.56 Mbp </td></tr><tr><td> 90 </td><td> 114 </td><td> 0.84 Mbp </td><td> 32 </td><td> 2.38 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.913x </th><th> 267 </th><th> 2.32 Gbp </th><th> 137 </th><th> 2.33 Gbp </th></tr>
   </tfoot>
@@ -145,6 +145,22 @@ hpb1sizes: |
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1651623575
 last_updated: 1662125160
+mds:
+- data: "species: Emys orbicularis\nspecimen: rEmyOrb1\nprojects: \n  - vgp\nhap1:
+    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/rEmyOrb1.HiC.hap1.20220501.fasta.gz\nhap2:
+    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/rEmyOrb1.HiC.hap2.20220501.fasta.gz\nhap1_hic_bam:
+    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rEmyOrb1_hap1__s2.bam\nhap2_hic_bam:
+    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rEmyOrb1_hap2__s2.bam\nhap1_pretext:
+    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/hap1/rEmyOrb1_hap1__s2_heatmap.pretext\nhap2_pretext:
+    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/hap2/rEmyOrb1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/rEmyOrb1_png/\npacbio_read_dir:
+    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/arima/\nbionano_cmap_dir:
+    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/bionano/\npipeline:
+    \n  - hifiasm (0.16.1+galaxy2)\n  - solve (3.7.0+galaxy0)\n  - salsa (2.3+galaxy2)\nassembled_by_group:
+    University of Florence\n\n"
+  ident: md4
+  title: assembly_vgp_HiC_2.0/rEmyOrb1.yaml
 metadata: |
   species:
     name: Emys orbicularis
@@ -164,7 +180,7 @@ name: Emys orbicularis
 name_: Emys_orbicularis
 pri1date: 2022-09-02
 pri1filesize: 672.2 MiB
-pri1length: 2309740635
+pri1length: '2309740635'
 pri1n50ctg: 81997332
 pri1n50scf: 137743343
 pri1seq: https://s3.amazonaws.com/genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_curated/rEmyOrb1.pri.cur.20220902.fasta.gz
@@ -185,7 +201,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 155.99 Mbp </td><td> 0 </td><td> 373.89 Mbp </td></tr>  <tr><td> 20 </td><td> 3 </td><td> 138.76 Mbp </td><td> 1 </td><td> 300.50 Mbp </td></tr>  <tr><td> 30 </td><td> 5 </td><td> 115.74 Mbp </td><td> 2 </td><td> 217.68 Mbp </td></tr>  <tr><td> 40 </td><td> 7 </td><td> 106.76 Mbp </td><td> 3 </td><td> 158.42 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 82.00 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 137.74 Mbp </td></tr>  <tr><td> 60 </td><td> 14 </td><td> 48.41 Mbp </td><td> 7 </td><td> 114.20 Mbp </td></tr>  <tr><td> 70 </td><td> 21 </td><td> 26.07 Mbp </td><td> 10 </td><td> 81.30 Mbp </td></tr>  <tr><td> 80 </td><td> 36 </td><td> 11.60 Mbp </td><td> 14 </td><td> 34.91 Mbp </td></tr>  <tr><td> 90 </td><td> 119 </td><td> 447.85 Kbp </td><td> 24 </td><td> 18.16 Mbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 155.99 Mbp </td><td> 0 </td><td> 373.89 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 138.76 Mbp </td><td> 1 </td><td> 300.50 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 115.74 Mbp </td><td> 2 </td><td> 217.68 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 106.76 Mbp </td><td> 3 </td><td> 158.42 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 82.00 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 137.74 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 48.41 Mbp </td><td> 7 </td><td> 114.20 Mbp </td></tr><tr><td> 70 </td><td> 21 </td><td> 26.07 Mbp </td><td> 10 </td><td> 81.30 Mbp </td></tr><tr><td> 80 </td><td> 36 </td><td> 11.60 Mbp </td><td> 14 </td><td> 34.91 Mbp </td></tr><tr><td> 90 </td><td> 119 </td><td> 447.85 Kbp </td><td> 24 </td><td> 18.16 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.907x </th><th> 254 </th><th> 2.31 Gbp </th><th> 106 </th><th> 2.31 Gbp </th></tr>
   </tfoot>

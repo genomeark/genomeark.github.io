@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_arima-1_bases: 103.05 Gbp
 data_arima-1_bytes: 48.9 GiB
 data_arima-1_coverage: N/A
@@ -27,11 +28,14 @@ data_pacbiohifi_fqgz-2_scale: 1.0555
 data_pacbiohifi_fqgz_bases: 37.16 Gbp
 data_pacbiohifi_fqgz_bytes: 32.8 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1680053052
 last_updated: 1680053052
 name: Haplochromis burtoni
 name_: Haplochromis_burtoni
 short_name: fHapBur
+taxon_id: ''
 ---

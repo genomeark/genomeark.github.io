@@ -78,10 +78,11 @@ data_pacbiohifi_q2fqgz-1_scale: 1.2449
 data_pacbiohifi_q2fqgz_bases: 153.88 Gbp
 data_pacbiohifi_q2fqgz_bytes: 115.1 GiB
 data_pacbiohifi_q2fqgz_coverage: 44.07x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
+  Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'''
 dip1date: 2022-11-11
 dip1filesize: 1.6 GiB
-dip1length: 6889046308
+dip1length: '6889046308'
 dip1n50ctg: 151559850
 dip1n50scf: 170822215
 dip1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_verkko_1.1-0.2-freeze/mGorGor1.dip.20221111.fasta.gz
@@ -102,7 +103,7 @@ dip1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 215.05 Mbp </td><td> 1 </td><td> 215.25 Mbp </td></tr>  <tr><td> 20 </td><td> 3 </td><td> 192.69 Mbp </td><td> 3 </td><td> 194.78 Mbp </td></tr>  <tr><td> 30 </td><td> 5 </td><td> 174.76 Mbp </td><td> 4 </td><td> 193.76 Mbp </td></tr>  <tr><td> 40 </td><td> 7 </td><td> 158.55 Mbp </td><td> 6 </td><td> 176.51 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 151.56 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 170.82 Mbp </td></tr>  <tr><td> 60 </td><td> 11 </td><td> 148.88 Mbp </td><td> 11 </td><td> 158.55 Mbp </td></tr>  <tr><td> 70 </td><td> 14 </td><td> 136.70 Mbp </td><td> 13 </td><td> 151.56 Mbp </td></tr>  <tr><td> 80 </td><td> 17 </td><td> 133.51 Mbp </td><td> 15 </td><td> 148.88 Mbp </td></tr>  <tr><td> 90 </td><td> 19 </td><td> 126.01 Mbp </td><td> 17 </td><td> 144.05 Mbp </td></tr>  <tr><td> 100 </td><td> 22 </td><td> 120.48 Mbp </td><td> 20 </td><td> 133.79 Mbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 215.05 Mbp </td><td> 1 </td><td> 215.25 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 192.69 Mbp </td><td> 3 </td><td> 194.78 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 174.76 Mbp </td><td> 4 </td><td> 193.76 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 158.55 Mbp </td><td> 6 </td><td> 176.51 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 151.56 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 170.82 Mbp </td></tr><tr><td> 60 </td><td> 11 </td><td> 148.88 Mbp </td><td> 11 </td><td> 158.55 Mbp </td></tr><tr><td> 70 </td><td> 14 </td><td> 136.70 Mbp </td><td> 13 </td><td> 151.56 Mbp </td></tr><tr><td> 80 </td><td> 17 </td><td> 133.51 Mbp </td><td> 15 </td><td> 148.88 Mbp </td></tr><tr><td> 90 </td><td> 19 </td><td> 126.01 Mbp </td><td> 17 </td><td> 144.05 Mbp </td></tr><tr><td> 100 </td><td> 22 </td><td> 120.48 Mbp </td><td> 20 </td><td> 133.79 Mbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.970x </th><th> 1565 </th><th> 6.88 Gbp </th><th> 1511 </th><th> 6.89 Gbp </th></tr>
   </tfoot>
@@ -115,7 +116,7 @@ last_raw_data: 1675118523
 last_updated: 1675195592
 mat1date: 2022-11-11
 mat1filesize: 826.5 MiB
-mat1length: 3535292761
+mat1length: '3535292761'
 mat1n50ctg: 118427599
 mat1n50scf: 143591564
 mat1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_verkko_1.1-0.2-freeze/mGorGor1.mat.20221111.fasta.gz
@@ -136,7 +137,7 @@ mat1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 193.76 Mbp </td><td> 1 </td><td> 215.05 Mbp </td></tr>  <tr><td> 20 </td><td> 3 </td><td> 156.68 Mbp </td><td> 3 </td><td> 177.55 Mbp </td></tr>  <tr><td> 30 </td><td> 6 </td><td> 142.52 Mbp </td><td> 5 </td><td> 165.04 Mbp </td></tr>  <tr><td> 40 </td><td> 8 </td><td> 133.79 Mbp </td><td> 7 </td><td> 151.56 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 118.43 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 143.59 Mbp </td></tr>  <tr><td> 60 </td><td> 14 </td><td> 92.86 Mbp </td><td> 12 </td><td> 132.26 Mbp </td></tr>  <tr><td> 70 </td><td> 18 </td><td> 83.11 Mbp </td><td> 15 </td><td> 112.69 Mbp </td></tr>  <tr><td> 80 </td><td> 22 </td><td> 70.32 Mbp </td><td> 18 </td><td> 82.20 Mbp </td></tr>  <tr><td> 90 </td><td> 28 </td><td> 51.78 Mbp </td><td> 23 </td><td> 64.18 Mbp </td></tr>  <tr><td> 100 </td><td> 121 </td><td> 322.86 Kbp </td><td> 81 </td><td> 449.51 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 193.76 Mbp </td><td> 1 </td><td> 215.05 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 156.68 Mbp </td><td> 3 </td><td> 177.55 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 142.52 Mbp </td><td> 5 </td><td> 165.04 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 133.79 Mbp </td><td> 7 </td><td> 151.56 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 118.43 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 143.59 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 92.86 Mbp </td><td> 12 </td><td> 132.26 Mbp </td></tr><tr><td> 70 </td><td> 18 </td><td> 83.11 Mbp </td><td> 15 </td><td> 112.69 Mbp </td></tr><tr><td> 80 </td><td> 22 </td><td> 70.32 Mbp </td><td> 18 </td><td> 82.20 Mbp </td></tr><tr><td> 90 </td><td> 28 </td><td> 51.78 Mbp </td><td> 23 </td><td> 64.18 Mbp </td></tr><tr><td> 100 </td><td> 121 </td><td> 322.86 Kbp </td><td> 81 </td><td> 449.51 Kbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.011x </th><th> 674 </th><th> 3.53 Gbp </th><th> 641 </th><th> 3.54 Gbp </th></tr>
   </tfoot>
@@ -228,7 +229,7 @@ name: Gorilla gorilla
 name_: Gorilla_gorilla
 pat1date: 2022-11-11
 pat1filesize: 782.0 MiB
-pat1length: 3310534114
+pat1length: '3310534114'
 pat1n50ctg: 120481602
 pat1n50scf: 133084643
 pat1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_verkko_1.1-0.2-freeze/mGorGor1.pat.20221111.fasta.gz
@@ -249,7 +250,7 @@ pat1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 192.69 Mbp </td><td> 1 </td><td> 194.78 Mbp </td></tr>  <tr><td> 20 </td><td> 3 </td><td> 159.39 Mbp </td><td> 3 </td><td> 174.76 Mbp </td></tr>  <tr><td> 30 </td><td> 5 </td><td> 150.80 Mbp </td><td> 5 </td><td> 158.55 Mbp </td></tr>  <tr><td> 40 </td><td> 8 </td><td> 133.51 Mbp </td><td> 8 </td><td> 144.05 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 120.48 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 133.08 Mbp </td></tr>  <tr><td> 60 </td><td> 14 </td><td> 89.76 Mbp </td><td> 13 </td><td> 126.01 Mbp </td></tr>  <tr><td> 70 </td><td> 18 </td><td> 78.29 Mbp </td><td> 16 </td><td> 84.45 Mbp </td></tr>  <tr><td> 80 </td><td> 23 </td><td> 58.25 Mbp </td><td> 21 </td><td> 66.61 Mbp </td></tr>  <tr><td> 90 </td><td> 31 </td><td> 30.53 Mbp </td><td> 27 </td><td> 49.29 Mbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 192.69 Mbp </td><td> 1 </td><td> 194.78 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 159.39 Mbp </td><td> 3 </td><td> 174.76 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 150.80 Mbp </td><td> 5 </td><td> 158.55 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 133.51 Mbp </td><td> 8 </td><td> 144.05 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 120.48 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 133.08 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 89.76 Mbp </td><td> 13 </td><td> 126.01 Mbp </td></tr><tr><td> 70 </td><td> 18 </td><td> 78.29 Mbp </td><td> 16 </td><td> 84.45 Mbp </td></tr><tr><td> 80 </td><td> 23 </td><td> 58.25 Mbp </td><td> 21 </td><td> 66.61 Mbp </td></tr><tr><td> 90 </td><td> 31 </td><td> 30.53 Mbp </td><td> 27 </td><td> 49.29 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.947x </th><th> 362 </th><th> 3.31 Gbp </th><th> 341 </th><th> 3.31 Gbp </th></tr>
   </tfoot>

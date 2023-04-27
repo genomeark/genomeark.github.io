@@ -11,22 +11,22 @@ data_arima-1_scale: 3.0833
 data_arima_bases: 271.16 Gbp
 data_arima_bytes: 81.9 GiB
 data_arima_coverage: 142.18x
-data_pacbiohifi_bam-1_bases: 82.20 Gbp
-data_pacbiohifi_bam-1_bytes: 213.3 GiB
-data_pacbiohifi_bam-1_coverage: 43.10x
+data_pacbiohifi_bam-1_bases: 89.07 Gbp
+data_pacbiohifi_bam-1_bytes: 231.1 GiB
+data_pacbiohifi_bam-1_coverage: 46.70x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Gymnoscopelus_fraseri/fGymFra1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gymnoscopelus_fraseri/fGymFra1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gymnoscopelus_fraseri/fGymFra1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 0.3589
-data_pacbiohifi_bam_bases: 82.20 Gbp
-data_pacbiohifi_bam_bytes: 213.3 GiB
-data_pacbiohifi_bam_coverage: 43.10x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_bam_bases: 89.07 Gbp
+data_pacbiohifi_bam_bytes: 231.1 GiB
+data_pacbiohifi_bam_coverage: 46.70x
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genome_size: 1907100000
 genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
-last_raw_data: 1682197575
-last_updated: 1682197575
+last_raw_data: 1682435242
+last_updated: 1682435242
 metadata: |
   species:
     short_name: fGymFra

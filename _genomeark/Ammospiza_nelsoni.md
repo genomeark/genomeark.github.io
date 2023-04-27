@@ -1,9 +1,9 @@
 ---
 alt1date: 2022-12-22
 alt1filesize: 259.0 MiB
-alt1length: 1033298713
-alt1n50ctg: 576475
-alt1n50scf: 576475
+alt1length: '1033298713'
+alt1n50ctg: '576475'
+alt1n50scf: '576475'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Ammospiza_nelsoni/bAmmNel1/assembly_curated/bAmmNel1.alt.cur.20221222.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 40 </td><td> 2.25 Mbp </td><td> 40 </td><td> 2.25 Mbp </td></tr>  <tr><td> 20 </td><td> 116 </td><td> 1.46 Mbp </td><td> 116 </td><td> 1.46 Mbp </td></tr>  <tr><td> 30 </td><td> 221 </td><td> 1.05 Mbp </td><td> 221 </td><td> 1.05 Mbp </td></tr>  <tr><td> 40 </td><td> 363 </td><td> 0.79 Mbp </td><td> 363 </td><td> 0.79 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 553 </td><td> 0.58 Mbp </td><td> 553 </td><td> 0.58 Mbp </td></tr>  <tr><td> 60 </td><td> 824 </td><td> 396.29 Kbp </td><td> 824 </td><td> 396.29 Kbp </td></tr>  <tr><td> 70 </td><td> 1261 </td><td> 213.51 Kbp </td><td> 1261 </td><td> 213.51 Kbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 40 </td><td> 2.25 Mbp </td><td> 40 </td><td> 2.25 Mbp </td></tr><tr><td> 20 </td><td> 116 </td><td> 1.46 Mbp </td><td> 116 </td><td> 1.46 Mbp </td></tr><tr><td> 30 </td><td> 221 </td><td> 1.05 Mbp </td><td> 221 </td><td> 1.05 Mbp </td></tr><tr><td> 40 </td><td> 363 </td><td> 0.79 Mbp </td><td> 363 </td><td> 0.79 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 553 </td><td> 0.58 Mbp </td><td> 553 </td><td> 0.58 Mbp </td></tr><tr><td> 60 </td><td> 824 </td><td> 396.29 Kbp </td><td> 824 </td><td> 396.29 Kbp </td></tr><tr><td> 70 </td><td> 1261 </td><td> 213.51 Kbp </td><td> 1261 </td><td> 213.51 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.795x </th><th> 2834 </th><th> 1.03 Gbp </th><th> 2834 </th><th> 1.03 Gbp </th></tr>
   </tfoot>
@@ -80,7 +80,7 @@ data_pacbiohifi_fqgz-1_scale: 1.1790
 data_pacbiohifi_fqgz_bases: 44.56 Gbp
 data_pacbiohifi_fqgz_bytes: 35.2 GiB
 data_pacbiohifi_fqgz_coverage: 34.27x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genbank_alt: bAmmNel1:GCA_027579665.1
 genbank_pri: bAmmNel1:GCA_027579445.1
 genome_size: 1300000000
@@ -88,6 +88,24 @@ genome_size_display: 1.30 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651597538
 last_updated: 1671738299
+mds:
+- data: |-
+    species: Ammospiza nelsoni
+    specimen: bAmmNel1
+    projects:
+      - vgp
+    primary: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/assembly_vgp_standard_2.0/bAmmNel1.pri.asm.20220222.fasta.gz
+    haplotigs: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/assembly_vgp_standard_2.0/bAmmNel1.alt.asm.20220222.fasta.gz
+    hic_bam: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bAmmNel1_s2.bam
+    pretext: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bAmmNel1_heatmap.pretext
+    kmer_spectra_img: s3://genomeark/species/Ammospiza_nelsoni/bAmmNel1/assembly_vgp_standard_2.0/evaluation/merqury/p/bAmmNel1_png/
+    pipeline:
+      - hifiasm (0.15.4+galaxy0)
+      - purge_dups (1.2.5+galaxy3)
+      - solve (3.6.1+galaxy3)
+      - salsa (2.3+galaxy2)
+  ident: md5
+  title: assembly_vgp_standard_2.0/bAmmNel1.yaml
 metadata: |
   species:
     name: Ammospiza nelsoni
@@ -107,7 +125,7 @@ name: Ammospiza nelsoni
 name_: Ammospiza_nelsoni
 pri1date: 2022-04-29
 pri1filesize: 324.5 MiB
-pri1length: 1185463352
+pri1length: '1185463352'
 pri1n50ctg: 10158201
 pri1n50scf: 65395694
 pri1seq: https://s3.amazonaws.com/genomeark/species/Ammospiza_nelsoni/bAmmNel1/assembly_curated/bAmmNel1.pri.cur.20220429.fasta.gz
@@ -128,7 +146,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 37.43 Mbp </td><td> 0 </td><td> 155.45 Mbp </td></tr>  <tr><td> 20 </td><td> 7 </td><td> 23.62 Mbp </td><td> 1 </td><td> 120.72 Mbp </td></tr>  <tr><td> 30 </td><td> 13 </td><td> 20.19 Mbp </td><td> 2 </td><td> 115.51 Mbp </td></tr>  <tr><td> 40 </td><td> 20 </td><td> 15.04 Mbp </td><td> 4 </td><td> 76.63 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 31 </td><td style="background-color:#88ff88;"> 10.16 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 65.40 Mbp </td></tr>  <tr><td> 60 </td><td> 47 </td><td> 6.61 Mbp </td><td> 9 </td><td> 36.57 Mbp </td></tr>  <tr><td> 70 </td><td> 71 </td><td> 4.14 Mbp </td><td> 14 </td><td> 21.55 Mbp </td></tr>  <tr><td> 80 </td><td> 115 </td><td> 2.05 Mbp </td><td> 21 </td><td> 12.24 Mbp </td></tr>  <tr><td> 90 </td><td> 240 </td><td> 363.10 Kbp </td><td> 49 </td><td> 1.04 Mbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 37.43 Mbp </td><td> 0 </td><td> 155.45 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 23.62 Mbp </td><td> 1 </td><td> 120.72 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 20.19 Mbp </td><td> 2 </td><td> 115.51 Mbp </td></tr><tr><td> 40 </td><td> 20 </td><td> 15.04 Mbp </td><td> 4 </td><td> 76.63 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 31 </td><td style="background-color:#88ff88;"> 10.16 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 65.40 Mbp </td></tr><tr><td> 60 </td><td> 47 </td><td> 6.61 Mbp </td><td> 9 </td><td> 36.57 Mbp </td></tr><tr><td> 70 </td><td> 71 </td><td> 4.14 Mbp </td><td> 14 </td><td> 21.55 Mbp </td></tr><tr><td> 80 </td><td> 115 </td><td> 2.05 Mbp </td><td> 21 </td><td> 12.24 Mbp </td></tr><tr><td> 90 </td><td> 240 </td><td> 363.10 Kbp </td><td> 49 </td><td> 1.04 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.908x </th><th> 292 </th><th> 1.18 Gbp </th><th> 77 </th><th> 1.19 Gbp </th></tr>
   </tfoot>

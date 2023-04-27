@@ -1,7 +1,7 @@
 ---
 alt2date: 2018-11-16
 alt2filesize: 17.8 MiB
-alt2length: 62949365
+alt2length: '62949365'
 alt2n50ctg: 0
 alt2n50scf: 0
 alt2seq: https://s3.amazonaws.com/genomeark/species/Gouania_willdenowi/fGouWil2/assembly_curated/fGouWil2.alt.cur.20181116.fasta.gz
@@ -22,7 +22,7 @@ alt2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.053x </th><th> 748 </th><th> 62.95 Mbp </th><th> 748 </th><th> 62.95 Mbp </th></tr>
   </tfoot>
@@ -70,11 +70,13 @@ data_pacbio-2_scale: 0.5245
 data_pacbio_bases: 56.70 Gbp
 data_pacbio_bytes: 100.7 GiB
 data_pacbio_coverage: 47.96x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Arima</em>'''
 genbank_alt: fGouWil2:GCA_900650505.1
 genbank_pri: fGouWil2:GCA_900634775.2
 genome_size: 1182215999
 genome_size_display: 1.18 Gbp
+genome_size_method: ''
 last_raw_data: 1523524486
 last_updated: 1570719802
 metadata: |
@@ -94,7 +96,7 @@ metadata: |
     project: [ vgp ]
 mito2date: 2019-10-02
 mito2filesize: 5.3 KiB
-mito2length: 19076
+mito2length: '19076'
 mito2n50ctg: 0
 mito2n50scf: 0
 mito2seq: https://s3.amazonaws.com/genomeark/species/Gouania_willdenowi/fGouWil2/assembly_MT_rockefeller/fGouWil2.MT.20191002.fasta.gz
@@ -115,7 +117,7 @@ mito2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.000x </th><th> 1 </th><th> 19.08 Kbp </th><th> 1 </th><th> 19.08 Kbp </th></tr>
   </tfoot>
@@ -125,7 +127,7 @@ name: Gouania willdenowi
 name_: Gouania_willdenowi
 pri2date: 2018-11-16
 pri2filesize: 265.9 MiB
-pri2length: 937150793
+pri2length: '937150793'
 pri2n50ctg: 1178098
 pri2n50scf: 36801689
 pri2seq: https://s3.amazonaws.com/genomeark/species/Gouania_willdenowi/fGouWil2/assembly_curated/fGouWil2.pri.cur.20181116.fasta.gz
@@ -146,7 +148,7 @@ pri2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 14 </td><td> 5.65 Mbp </td><td> 1 </td><td> 46.06 Mbp </td></tr>  <tr><td> 20 </td><td> 41 </td><td> 3.46 Mbp </td><td> 4 </td><td> 43.80 Mbp </td></tr>  <tr><td> 30 </td><td> 81 </td><td> 2.53 Mbp </td><td> 7 </td><td> 42.80 Mbp </td></tr>  <tr><td> 40 </td><td> 137 </td><td> 1.79 Mbp </td><td> 10 </td><td> 38.98 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 218 </td><td style="background-color:#88ff88;"> 1.18 Mbp </td><td> 13 </td><td style="background-color:#88ff88;"> 36.80 Mbp </td></tr>  <tr><td> 60 </td><td> 341 </td><td> 0.79 Mbp </td><td> 16 </td><td> 33.48 Mbp </td></tr>  <tr><td> 70 </td><td> 566 </td><td> 318.01 Kbp </td><td> 20 </td><td> 26.98 Mbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 14 </td><td> 5.65 Mbp </td><td> 1 </td><td> 46.06 Mbp </td></tr><tr><td> 20 </td><td> 41 </td><td> 3.46 Mbp </td><td> 4 </td><td> 43.80 Mbp </td></tr><tr><td> 30 </td><td> 81 </td><td> 2.53 Mbp </td><td> 7 </td><td> 42.80 Mbp </td></tr><tr><td> 40 </td><td> 137 </td><td> 1.79 Mbp </td><td> 10 </td><td> 38.98 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 218 </td><td style="background-color:#88ff88;"> 1.18 Mbp </td><td> 13 </td><td style="background-color:#88ff88;"> 36.80 Mbp </td></tr><tr><td> 60 </td><td> 341 </td><td> 0.79 Mbp </td><td> 16 </td><td> 33.48 Mbp </td></tr><tr><td> 70 </td><td> 566 </td><td> 318.01 Kbp </td><td> 20 </td><td> 26.98 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.781x </th><th> 1601 </th><th> 0.92 Gbp </th><th> 441 </th><th> 0.94 Gbp </th></tr>
   </tfoot>

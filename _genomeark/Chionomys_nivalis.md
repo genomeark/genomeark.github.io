@@ -1,9 +1,9 @@
 ---
 alt1date: 2023-04-21
 alt1filesize: 582.0 MiB
-alt1length: 2022897225
-alt1n50ctg: 705478
-alt1n50scf: 705478
+alt1length: '2022897225'
+alt1n50ctg: '705478'
+alt1n50scf: '705478'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Chionomys_nivalis/mChiNiv1/assembly_curated/mChiNiv1.alt.cur.20230421.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 91 </td><td> 2.51 Mbp </td><td> 91 </td><td> 2.51 Mbp </td></tr>  <tr><td> 20 </td><td> 225 </td><td> 1.86 Mbp </td><td> 225 </td><td> 1.86 Mbp </td></tr>  <tr><td> 30 </td><td> 408 </td><td> 1.34 Mbp </td><td> 408 </td><td> 1.34 Mbp </td></tr>  <tr><td> 40 </td><td> 654 </td><td> 1.00 Mbp </td><td> 654 </td><td> 1.00 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 991 </td><td> 0.71 Mbp </td><td> 991 </td><td> 0.71 Mbp </td></tr>  <tr><td> 60 </td><td> 1504 </td><td> 429.15 Kbp </td><td> 1504 </td><td> 429.15 Kbp </td></tr>  <tr><td> 70 </td><td> 3148 </td><td> 40.81 Kbp </td><td> 3147 </td><td> 40.81 Kbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 91 </td><td> 2.51 Mbp </td><td> 91 </td><td> 2.51 Mbp </td></tr><tr><td> 20 </td><td> 225 </td><td> 1.86 Mbp </td><td> 225 </td><td> 1.86 Mbp </td></tr><tr><td> 30 </td><td> 408 </td><td> 1.34 Mbp </td><td> 408 </td><td> 1.34 Mbp </td></tr><tr><td> 40 </td><td> 654 </td><td> 1.00 Mbp </td><td> 654 </td><td> 1.00 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 991 </td><td> 0.71 Mbp </td><td> 991 </td><td> 0.71 Mbp </td></tr><tr><td> 60 </td><td> 1504 </td><td> 429.15 Kbp </td><td> 1504 </td><td> 429.15 Kbp </td></tr><tr><td> 70 </td><td> 3148 </td><td> 40.81 Kbp </td><td> 3147 </td><td> 40.81 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.711x </th><th> 4256 </th><th> 2.02 Gbp </th><th> 4255 </th><th> 2.02 Gbp </th></tr>
   </tfoot>
@@ -50,7 +50,7 @@ data_pacbiohifi_bam-1_scale: 0.5976
 data_pacbiohifi_bam_bases: 64.74 Gbp
 data_pacbiohifi_bam_bytes: 100.9 GiB
 data_pacbiohifi_bam_coverage: 22.75x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genome_size: 2845980000
 genome_size_display: 2.85 Gbp
 genome_size_method: GoaT
@@ -77,7 +77,7 @@ name: Chionomys nivalis
 name_: Chionomys_nivalis
 pri1date: 2023-04-21
 pri1filesize: 684.6 MiB
-pri1length: 2393406913
+pri1length: '2393406913'
 pri1n50ctg: 24778892
 pri1n50scf: 78626399
 pri1seq: https://s3.amazonaws.com/genomeark/species/Chionomys_nivalis/mChiNiv1/assembly_curated/mChiNiv1.pri.cur.20230421.fasta.gz
@@ -98,7 +98,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 5 </td><td> 61.94 Mbp </td><td> 2 </td><td> 137.63 Mbp </td></tr>  <tr><td> 20 </td><td> 9 </td><td> 53.30 Mbp </td><td> 4 </td><td> 127.61 Mbp </td></tr>  <tr><td> 30 </td><td> 16 </td><td> 42.13 Mbp </td><td> 7 </td><td> 102.99 Mbp </td></tr>  <tr><td> 40 </td><td> 23 </td><td> 33.90 Mbp </td><td> 9 </td><td> 97.49 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 33 </td><td style="background-color:#88ff88;"> 24.78 Mbp </td><td> 13 </td><td style="background-color:#88ff88;"> 78.63 Mbp </td></tr>  <tr><td> 60 </td><td> 47 </td><td> 17.67 Mbp </td><td> 17 </td><td> 69.32 Mbp </td></tr>  <tr><td> 70 </td><td> 70 </td><td> 9.08 Mbp </td><td> 21 </td><td> 62.30 Mbp </td></tr>  <tr><td> 80 </td><td> 141 </td><td> 1.83 Mbp </td><td> 26 </td><td> 42.74 Mbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 5 </td><td> 61.94 Mbp </td><td> 2 </td><td> 137.63 Mbp </td></tr><tr><td> 20 </td><td> 9 </td><td> 53.30 Mbp </td><td> 4 </td><td> 127.61 Mbp </td></tr><tr><td> 30 </td><td> 16 </td><td> 42.13 Mbp </td><td> 7 </td><td> 102.99 Mbp </td></tr><tr><td> 40 </td><td> 23 </td><td> 33.90 Mbp </td><td> 9 </td><td> 97.49 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 33 </td><td style="background-color:#88ff88;"> 24.78 Mbp </td><td> 13 </td><td style="background-color:#88ff88;"> 78.63 Mbp </td></tr><tr><td> 60 </td><td> 47 </td><td> 17.67 Mbp </td><td> 17 </td><td> 69.32 Mbp </td></tr><tr><td> 70 </td><td> 70 </td><td> 9.08 Mbp </td><td> 21 </td><td> 62.30 Mbp </td></tr><tr><td> 80 </td><td> 141 </td><td> 1.83 Mbp </td><td> 26 </td><td> 42.74 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.841x </th><th> 358 </th><th> 2.39 Gbp </th><th> 161 </th><th> 2.39 Gbp </th></tr>
   </tfoot>

@@ -21,7 +21,7 @@ data_bionano-1_scale: 614.6642
 data_bionano_bases: N/A
 data_bionano_bytes: 802.2 MiB
 data_bionano_coverage: 395.89x
-data_status: '<em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">Arima</em>'''
 genome_size: 1306000000
 genome_size_display: 1.31 Gbp
 genome_size_method: GoAT

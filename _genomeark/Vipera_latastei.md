@@ -1,9 +1,9 @@
 ---
 alt1date: 2021-12-08
 alt1filesize: 446.5 MiB
-alt1length: 1549880332
-alt1n50ctg: 196326
-alt1n50scf: 196326
+alt1length: '1549880332'
+alt1n50ctg: '196326'
+alt1n50scf: '196326'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Vipera_latastei/rVipLat1/assembly_curated/rVipLat1.alt.cur.20211208.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 135 </td><td> 1.33 Mbp </td><td> 135 </td><td> 1.33 Mbp </td></tr>  <tr><td> 20 </td><td> 372 </td><td> 0.88 Mbp </td><td> 372 </td><td> 0.88 Mbp </td></tr>  <tr><td> 30 </td><td> 720 </td><td> 0.59 Mbp </td><td> 720 </td><td> 0.59 Mbp </td></tr>  <tr><td> 40 </td><td> 1249 </td><td> 382.16 Kbp </td><td> 1249 </td><td> 382.16 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 2149 </td><td> 196.33 Kbp </td><td> 2149 </td><td> 196.33 Kbp </td></tr>  <tr><td> 60 </td><td> 4892 </td><td> 39.74 Kbp </td><td> 4892 </td><td> 39.74 Kbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 135 </td><td> 1.33 Mbp </td><td> 135 </td><td> 1.33 Mbp </td></tr><tr><td> 20 </td><td> 372 </td><td> 0.88 Mbp </td><td> 372 </td><td> 0.88 Mbp </td></tr><tr><td> 30 </td><td> 720 </td><td> 0.59 Mbp </td><td> 720 </td><td> 0.59 Mbp </td></tr><tr><td> 40 </td><td> 1249 </td><td> 382.16 Kbp </td><td> 1249 </td><td> 382.16 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 2149 </td><td> 196.33 Kbp </td><td> 2149 </td><td> 196.33 Kbp </td></tr><tr><td> 60 </td><td> 4892 </td><td> 39.74 Kbp </td><td> 4892 </td><td> 39.74 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.620x </th><th> 6800 </th><th> 1.55 Gbp </th><th> 6799 </th><th> 1.55 Gbp </th></tr>
   </tfoot>
@@ -80,13 +80,26 @@ data_pacbiohifi_fqgz-1_scale: 1.1112
 data_pacbiohifi_fqgz_bases: 32.56 Gbp
 data_pacbiohifi_fqgz_bytes: 27.3 GiB
 data_pacbiohifi_fqgz_coverage: 13.02x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genbank_alt: rVipLat1:GCA_024294605.1
 genbank_pri: rVipLat1:GCA_024294585.1
 genome_size: 2500000000
 genome_size_display: 2.50 Gbp
+genome_size_method: ''
 last_raw_data: 1651607858
 last_updated: 1659344659
+mds:
+- data: "species: Vipera latastei\r\nspecimen:  rVipLat1\r\nprojects: \r\n  -VGP\r\n
+    \ -CBP\r\nprimary: s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/intermediates/rVipLat1_ragtag.fasta.gz\r\nhaplotigs:
+    s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/intermediates/rVipLat1_q2.fasta.gz\r\nhic_bam:
+    \ s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/evaluation/bam_to_create_pretext_rVipLat1.bam\r\npretext:
+    s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/evaluation/assembly_FullMap.png\r\nkmer_spectra_img:
+    s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/evaluation/p/Merqury/pacbio/plot_pacbio_cutadapt_rVipLat1_plot.fl.png\r\npipeline:
+    \r\n\t-hifiasm (0.13) \r\n\t-purge_dups (1.2.5) \r\n\t-bionano solve (3.6.1) \r\n\t-salsa
+    (2.2) \r\n\t-ragtag (2.0.1) <[ flye (2.8.3) + hypo (2.4.1) + purge_dups (1.2.5)
+    + bionano solve (3.6.1) + salsa (2.2)]\r\n"
+  ident: md5
+  title: assembly_vgp_2.0_IBE/rVipLat1.yaml
 metadata: |
   species:
     short_name: rVipLat
@@ -99,7 +112,7 @@ metadata: |
       name: Viperidae
     individuals:
       - short_name: rVipLat1
-        provider: Tomàs Marqués
+        provider: TomÃ s MarquÃ©s
     genome_size: 2500000000
     genome_size_method:
     project: [ vgp ]
@@ -107,7 +120,7 @@ name: Vipera latastei
 name_: Vipera_latastei
 pri1date: 2021-12-08
 pri1filesize: 466.3 MiB
-pri1length: 1631568913
+pri1length: '1631568913'
 pri1n50ctg: 7285792
 pri1n50scf: 104936932
 pri1seq: https://s3.amazonaws.com/genomeark/species/Vipera_latastei/rVipLat1/assembly_curated/rVipLat1.pri.cur.20211208.fasta.gz
@@ -128,7 +141,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 119.06 Mbp </td><td> 0 </td><td> 370.63 Mbp </td></tr>  <tr><td> 20 </td><td> 4 </td><td> 70.69 Mbp </td><td> 1 </td><td> 299.85 Mbp </td></tr>  <tr><td> 30 </td><td> 9 </td><td> 45.98 Mbp </td><td> 2 </td><td> 222.49 Mbp </td></tr>  <tr><td> 40 </td><td> 15 </td><td> 31.88 Mbp </td><td> 3 </td><td> 138.01 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 37 </td><td style="background-color:#88ff88;"> 7.29 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 104.94 Mbp </td></tr>  <tr><td> 60 </td><td> 129 </td><td> 0.90 Mbp </td><td> 10 </td><td> 23.63 Mbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 119.06 Mbp </td><td> 0 </td><td> 370.63 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 70.69 Mbp </td><td> 1 </td><td> 299.85 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 45.98 Mbp </td><td> 2 </td><td> 222.49 Mbp </td></tr><tr><td> 40 </td><td> 15 </td><td> 31.88 Mbp </td><td> 3 </td><td> 138.01 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 37 </td><td style="background-color:#88ff88;"> 7.29 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 104.94 Mbp </td></tr><tr><td> 60 </td><td> 129 </td><td> 0.90 Mbp </td><td> 10 </td><td> 23.63 Mbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.651x </th><th> 825 </th><th> 1.63 Gbp </th><th> 56 </th><th> 1.63 Gbp </th></tr>
   </tfoot>

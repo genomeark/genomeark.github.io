@@ -18,8 +18,10 @@ data_arima-2_scale: 2.1036
 data_arima_bases: 258.12 Gbp
 data_arima_bytes: 96.1 GiB
 data_arima_coverage: N/A
-data_status: '<em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">Arima</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1675927010
 last_updated: 1675927012
 metadata: |

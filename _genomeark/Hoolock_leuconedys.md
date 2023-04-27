@@ -21,7 +21,7 @@ data_ont-1_scale: 1.0206
 data_ont_bases: 103.36 Gbp
 data_ont_bytes: 94.3 GiB
 data_ont_coverage: 32.00x
-data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '''<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Illumina</em>'''
 genome_size: 3230000000
 genome_size_display: 3.23 Gbp
 genome_size_method: GoaT ancestral inferred

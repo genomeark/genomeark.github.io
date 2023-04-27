@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_dovetail-1_bases: 247.72 Gbp
 data_dovetail-1_bytes: 140.3 GiB
 data_dovetail-1_coverage: N/A
@@ -10,11 +11,14 @@ data_dovetail-1_scale: 1.6441
 data_dovetail_bases: 247.72 Gbp
 data_dovetail_bytes: 140.3 GiB
 data_dovetail_coverage: N/A
-data_status: '<em style="color:forestgreen">Dovetail</em>'
+data_status: '''<em style="color:forestgreen">Dovetail</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1682106712
 last_updated: 1682106712
 name: Vicugna pacos
 name_: Vicugna_pacos
 short_name: mVicPac
+taxon_id: ''
 ---

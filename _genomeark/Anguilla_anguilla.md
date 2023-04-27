@@ -1,9 +1,9 @@
 ---
 alt1date: 2020-02-04
 alt1filesize: 278.8 MiB
-alt1length: 965248483
-alt1n50ctg: 449821
-alt1n50scf: 449821
+alt1length: '965248483'
+alt1n50ctg: '449821'
+alt1n50scf: '449821'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Anguilla_anguilla/fAngAng1/assembly_curated/fAngAng1.alt.cur.20200204.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 53 </td><td> 1.86 Mbp </td><td> 53 </td><td> 1.86 Mbp </td></tr>  <tr><td> 20 </td><td> 147 </td><td> 1.16 Mbp </td><td> 147 </td><td> 1.16 Mbp </td></tr>  <tr><td> 30 </td><td> 282 </td><td> 0.86 Mbp </td><td> 282 </td><td> 0.86 Mbp </td></tr>  <tr><td> 40 </td><td> 467 </td><td> 0.61 Mbp </td><td> 467 </td><td> 0.61 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 728 </td><td> 449.82 Kbp </td><td> 728 </td><td> 449.82 Kbp </td></tr>  <tr><td> 60 </td><td> 1109 </td><td> 274.26 Kbp </td><td> 1109 </td><td> 274.26 Kbp </td></tr>  <tr><td> 70 </td><td> 1947 </td><td> 72.95 Kbp </td><td> 1947 </td><td> 72.95 Kbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 53 </td><td> 1.86 Mbp </td><td> 53 </td><td> 1.86 Mbp </td></tr><tr><td> 20 </td><td> 147 </td><td> 1.16 Mbp </td><td> 147 </td><td> 1.16 Mbp </td></tr><tr><td> 30 </td><td> 282 </td><td> 0.86 Mbp </td><td> 282 </td><td> 0.86 Mbp </td></tr><tr><td> 40 </td><td> 467 </td><td> 0.61 Mbp </td><td> 467 </td><td> 0.61 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 728 </td><td> 449.82 Kbp </td><td> 728 </td><td> 449.82 Kbp </td></tr><tr><td> 60 </td><td> 1109 </td><td> 274.26 Kbp </td><td> 1109 </td><td> 274.26 Kbp </td></tr><tr><td> 70 </td><td> 1947 </td><td> 72.95 Kbp </td><td> 1947 </td><td> 72.95 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.712x </th><th> 2338 </th><th> 0.97 Gbp </th><th> 2338 </th><th> 0.97 Gbp </th></tr>
   </tfoot>
@@ -70,7 +70,8 @@ data_pacbio-1_scale: 0.5447
 data_pacbio_bases: 69.48 Gbp
 data_pacbio_bytes: 118.8 GiB
 data_pacbio_coverage: 51.27x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Arima</em>'''
 genbank_alt: fAngAng1:GCA_013347865.1
 genbank_pri: fAngAng1:GCA_013347855.1
 genome_size: 1355153153
@@ -97,7 +98,7 @@ name: Anguilla anguilla
 name_: Anguilla_anguilla
 pri1date: 2020-02-04
 pri1filesize: 279.6 MiB
-pri1length: 979029243
+pri1length: '979029243'
 pri1n50ctg: 2638625
 pri1n50scf: 44521221
 pri1seq: https://s3.amazonaws.com/genomeark/species/Anguilla_anguilla/fAngAng1/assembly_curated/fAngAng1.pri.cur.20200204.fasta.gz
@@ -118,7 +119,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 7 </td><td> 13.18 Mbp </td><td> 1 </td><td> 76.64 Mbp </td></tr>  <tr><td> 20 </td><td> 20 </td><td> 8.82 Mbp </td><td> 3 </td><td> 68.14 Mbp </td></tr>  <tr><td> 30 </td><td> 38 </td><td> 6.38 Mbp </td><td> 5 </td><td> 62.03 Mbp </td></tr>  <tr><td> 40 </td><td> 64 </td><td> 4.32 Mbp </td><td> 7 </td><td> 56.16 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 105 </td><td style="background-color:#88ff88;"> 2.64 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 44.52 Mbp </td></tr>  <tr><td> 60 </td><td> 184 </td><td> 1.22 Mbp </td><td> 13 </td><td> 41.50 Mbp </td></tr>  <tr><td> 70 </td><td> 393 </td><td> 252.34 Kbp </td><td> 17 </td><td> 31.57 Mbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 7 </td><td> 13.18 Mbp </td><td> 1 </td><td> 76.64 Mbp </td></tr><tr><td> 20 </td><td> 20 </td><td> 8.82 Mbp </td><td> 3 </td><td> 68.14 Mbp </td></tr><tr><td> 30 </td><td> 38 </td><td> 6.38 Mbp </td><td> 5 </td><td> 62.03 Mbp </td></tr><tr><td> 40 </td><td> 64 </td><td> 4.32 Mbp </td><td> 7 </td><td> 56.16 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 105 </td><td style="background-color:#88ff88;"> 2.64 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 44.52 Mbp </td></tr><tr><td> 60 </td><td> 184 </td><td> 1.22 Mbp </td><td> 13 </td><td> 41.50 Mbp </td></tr><tr><td> 70 </td><td> 393 </td><td> 252.34 Kbp </td><td> 17 </td><td> 31.57 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.720x </th><th> 693 </th><th> 0.98 Gbp </th><th> 53 </th><th> 0.98 Gbp </th></tr>
   </tfoot>

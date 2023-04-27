@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_arima-1_bases: 167.43 Gbp
 data_arima-1_bytes: 79.8 GiB
 data_arima-1_coverage: N/A
@@ -20,11 +21,14 @@ data_pacbiohifi_fqgz-1_scale: 1.2529
 data_pacbiohifi_fqgz_bases: 55.07 Gbp
 data_pacbiohifi_fqgz_bytes: 40.9 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1681233646
 last_updated: 1681233646
 name: Hydrolagus colliei
 name_: Hydrolagus_colliei
 short_name: sHydCol
+taxon_id: ''
 ---

@@ -1,7 +1,7 @@
 ---
 alt1date: 2022-06-17
 alt1filesize: 29.2 MiB
-alt1length: 104446743
+alt1length: '104446743'
 alt1n50ctg: 0
 alt1n50scf: 0
 alt1seq: https://s3.amazonaws.com/genomeark/species/Rhea_pennata/bPtePen1/assembly_curated/bPtePen1.alt.cur.20220617.fasta.gz
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.063x </th><th> 1126 </th><th> 104.45 Mbp </th><th> 1125 </th><th> 104.45 Mbp </th></tr>
   </tfoot>
@@ -80,7 +80,7 @@ data_pacbiohifi_fqgz-1_scale: 1.1547
 data_pacbiohifi_fqgz_bases: 54.15 Gbp
 data_pacbiohifi_fqgz_bytes: 43.7 GiB
 data_pacbiohifi_fqgz_coverage: 32.92x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genbank_alt: bPtePen1:GCA_028389885.1
 genbank_pri: bPtePen1:GCA_028389875.1
 genome_size: 1645000000
@@ -88,6 +88,24 @@ genome_size_display: 1.65 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651617038
 last_updated: 1672722848
+mds:
+- data: |
+    pecies: Rhea pennata
+    specimen: bPtePen1
+    projects:
+      - vgp
+    primary: s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/bPtePen1.pri.asm.20220228.fasta.gz
+    haplotigs: s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/bPtePen1.alt.asm.20220228.fasta.gz
+    hic_bam: s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bPtePen1_s2.bam
+    pretext: s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bPtePen1_heatmap.pretext
+    kmer_spectra_img: s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/evaluation/merqury/p/bPtePen1_png/
+    pipeline:
+      - hifiasm (0.16.1+galaxy2)
+      - purge_dups (1.2.5+galaxy3)
+      - solve (3.7.0+galaxy0)
+      - salsa (2.3+galaxy2)
+  ident: md5
+  title: assembly_vgp_standard_2.0/bPtePen1.yaml
 metadata: |
   species:
     name: Rhea pennata
@@ -107,7 +125,7 @@ name: Rhea pennata
 name_: Rhea_pennata
 pri1date: 2022-06-17
 pri1filesize: 358.3 MiB
-pri1length: 1269000025
+pri1length: '1269000025'
 pri1n50ctg: 12985132
 pri1n50scf: 41212425
 pri1seq: https://s3.amazonaws.com/genomeark/species/Rhea_pennata/bPtePen1/assembly_curated/bPtePen1.pri.cur.20220617.fasta.gz
@@ -128,7 +146,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 42.60 Mbp </td><td> 0 </td><td> 216.94 Mbp </td></tr>  <tr><td> 20 </td><td> 6 </td><td> 36.49 Mbp </td><td> 1 </td><td> 164.82 Mbp </td></tr>  <tr><td> 30 </td><td> 12 </td><td> 23.26 Mbp </td><td> 2 </td><td> 130.21 Mbp </td></tr>  <tr><td> 40 </td><td> 20 </td><td> 18.64 Mbp </td><td> 4 </td><td> 82.47 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 30 </td><td style="background-color:#88ff88;"> 12.99 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 41.21 Mbp </td></tr>  <tr><td> 60 </td><td> 47 </td><td> 7.58 Mbp </td><td> 13 </td><td> 24.52 Mbp </td></tr>  <tr><td> 70 </td><td> 82 </td><td> 2.98 Mbp </td><td> 23 </td><td> 9.40 Mbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 42.60 Mbp </td><td> 0 </td><td> 216.94 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 36.49 Mbp </td><td> 1 </td><td> 164.82 Mbp </td></tr><tr><td> 30 </td><td> 12 </td><td> 23.26 Mbp </td><td> 2 </td><td> 130.21 Mbp </td></tr><tr><td> 40 </td><td> 20 </td><td> 18.64 Mbp </td><td> 4 </td><td> 82.47 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 30 </td><td style="background-color:#88ff88;"> 12.99 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 41.21 Mbp </td></tr><tr><td> 60 </td><td> 47 </td><td> 7.58 Mbp </td><td> 13 </td><td> 24.52 Mbp </td></tr><tr><td> 70 </td><td> 82 </td><td> 2.98 Mbp </td><td> 23 </td><td> 9.40 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.771x </th><th> 307 </th><th> 1.27 Gbp </th><th> 179 </th><th> 1.27 Gbp </th></tr>
   </tfoot>

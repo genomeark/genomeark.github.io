@@ -1,9 +1,9 @@
 ---
 alt1date: 2022-04-29
 alt1filesize: 529.0 MiB
-alt1length: 1837738679
-alt1n50ctg: 79812
-alt1n50scf: 79812
+alt1length: '1837738679'
+alt1n50ctg: '79812'
+alt1n50scf: '79812'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Macropus_eugenii/mMacEug1/assembly_curated/mMacEug1.alt.cur.20220429.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 241 </td><td> 0.84 Mbp </td><td> 241 </td><td> 0.84 Mbp </td></tr>  <tr><td> 20 </td><td> 689 </td><td> 0.55 Mbp </td><td> 689 </td><td> 0.55 Mbp </td></tr>  <tr><td> 30 </td><td> 1363 </td><td> 366.05 Kbp </td><td> 1363 </td><td> 366.05 Kbp </td></tr>  <tr><td> 40 </td><td> 2424 </td><td> 215.27 Kbp </td><td> 2424 </td><td> 215.27 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 4676 </td><td> 79.81 Kbp </td><td> 4676 </td><td> 79.81 Kbp </td></tr>  <tr><td> 60 </td><td> 12266 </td><td> 23.38 Kbp </td><td> 12266 </td><td> 23.38 Kbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 241 </td><td> 0.84 Mbp </td><td> 241 </td><td> 0.84 Mbp </td></tr><tr><td> 20 </td><td> 689 </td><td> 0.55 Mbp </td><td> 689 </td><td> 0.55 Mbp </td></tr><tr><td> 30 </td><td> 1363 </td><td> 366.05 Kbp </td><td> 1363 </td><td> 366.05 Kbp </td></tr><tr><td> 40 </td><td> 2424 </td><td> 215.27 Kbp </td><td> 2424 </td><td> 215.27 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 4676 </td><td> 79.81 Kbp </td><td> 4676 </td><td> 79.81 Kbp </td></tr><tr><td> 60 </td><td> 12266 </td><td> 23.38 Kbp </td><td> 12266 </td><td> 23.38 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.613x </th><th> 14285 </th><th> 1.84 Gbp </th><th> 14283 </th><th> 1.84 Gbp </th></tr>
   </tfoot>
@@ -80,13 +80,25 @@ data_pacbiohifi_fqgz-1_scale: 1.2257
 data_pacbiohifi_fqgz_bases: 91.20 Gbp
 data_pacbiohifi_fqgz_bytes: 69.3 GiB
 data_pacbiohifi_fqgz_coverage: 30.40x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genbank_alt: mMacEug1:GCA_028389975.1
 genbank_pri: mMacEug1:GCA_028372415.1
 genome_size: 3000000000
 genome_size_display: 3.00 Gbp
+genome_size_method: ''
 last_raw_data: 1651605348
 last_updated: 1672770616
+mds:
+- data: "species: Macropus_eugenii\nspecimen: mMacEug1\nprojects:\n- vgl \nprimary:\n
+    \ s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/mMacEug1.pri.asm.20211109.fasta.gz\nhaplotigs:\n
+    \ s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/mMacEug1.alt.asm.20211109.fasta.gz\nhic_bam:\n
+    \ s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMacEug1_s2.bam\npretext:\n
+    \ s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMacEug1_s2.bam\nkmer_spectra_img:\n
+    \ s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/evaluation/merqury/p/output_merqury_p.spectra-cn.fl\n\npipeline:\n
+    \ - hifiasm (0.15.4+galaxy)\n  - purge_dups (1.2.5+galaxy3)\n  - bionano_solve
+    (3.6.1+galaxy2)\n  - salsa (2.3+galaxy0)"
+  ident: md10
+  title: assembly_vgp_standard_2.0/mMacEug1.yaml
 metadata: |
   species:
     short_name: mMacEug
@@ -106,7 +118,7 @@ metadata: |
     project: [ vgp ]
 mito1date: 2022-06-17
 mito1filesize: 5.0 KiB
-mito1length: 16894
+mito1length: '16894'
 mito1n50ctg: 0
 mito1n50scf: 0
 mito1seq: https://s3.amazonaws.com/genomeark/species/Macropus_eugenii/mMacEug1/assembly_MT_rockefeller/mMacEug1.MT.20220617.fasta.gz
@@ -127,7 +139,7 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.000x </th><th> 1 </th><th> 16.89 Kbp </th><th> 1 </th><th> 16.89 Kbp </th></tr>
   </tfoot>
@@ -137,7 +149,7 @@ name: Macropus eugenii
 name_: Macropus_eugenii
 pri1date: 2023-01-03
 pri1filesize: 0.9 GiB
-pri1length: 3448891385
+pri1length: '3448891385'
 pri1n50ctg: 17931835
 pri1n50scf: 489668034
 pri1seq: https://s3.amazonaws.com/genomeark/species/Macropus_eugenii/mMacEug1/assembly_curated/mMacEug1.pri.cur.20230103.fasta.gz
@@ -158,7 +170,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 5 </td><td> 51.02 Mbp </td><td> 0 </td><td> 0.76 Gbp </td></tr>  <tr><td> 20 </td><td> 11 </td><td> 42.35 Mbp </td><td> 0 </td><td> 0.76 Gbp </td></tr>  <tr><td> 30 </td><td> 20 </td><td> 30.09 Mbp </td><td> 1 </td><td> 0.54 Gbp </td></tr>  <tr><td> 40 </td><td> 31 </td><td> 23.17 Mbp </td><td> 1 </td><td> 0.54 Gbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 46 </td><td style="background-color:#88ff88;"> 17.93 Mbp </td><td> 2 </td><td style="background-color:#88ff88;"> 489.67 Mbp </td></tr>  <tr><td> 60 </td><td> 64 </td><td> 14.55 Mbp </td><td> 3 </td><td> 478.17 Mbp </td></tr>  <tr><td> 70 </td><td> 87 </td><td> 12.09 Mbp </td><td> 3 </td><td> 478.17 Mbp </td></tr>  <tr><td> 80 </td><td> 116 </td><td> 8.89 Mbp </td><td> 4 </td><td> 461.86 Mbp </td></tr>  <tr><td> 90 </td><td> 156 </td><td> 6.47 Mbp </td><td> 4 </td><td> 461.86 Mbp </td></tr>  <tr><td> 100 </td><td> 211 </td><td> 4.48 Mbp </td><td> 5 </td><td> 389.61 Mbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 5 </td><td> 51.02 Mbp </td><td> 0 </td><td> 0.76 Gbp </td></tr><tr><td> 20 </td><td> 11 </td><td> 42.35 Mbp </td><td> 0 </td><td> 0.76 Gbp </td></tr><tr><td> 30 </td><td> 20 </td><td> 30.09 Mbp </td><td> 1 </td><td> 0.54 Gbp </td></tr><tr><td> 40 </td><td> 31 </td><td> 23.17 Mbp </td><td> 1 </td><td> 0.54 Gbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 46 </td><td style="background-color:#88ff88;"> 17.93 Mbp </td><td> 2 </td><td style="background-color:#88ff88;"> 489.67 Mbp </td></tr><tr><td> 60 </td><td> 64 </td><td> 14.55 Mbp </td><td> 3 </td><td> 478.17 Mbp </td></tr><tr><td> 70 </td><td> 87 </td><td> 12.09 Mbp </td><td> 3 </td><td> 478.17 Mbp </td></tr><tr><td> 80 </td><td> 116 </td><td> 8.89 Mbp </td><td> 4 </td><td> 461.86 Mbp </td></tr><tr><td> 90 </td><td> 156 </td><td> 6.47 Mbp </td><td> 4 </td><td> 461.86 Mbp </td></tr><tr><td> 100 </td><td> 211 </td><td> 4.48 Mbp </td><td> 5 </td><td> 389.61 Mbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.147x </th><th> 829 </th><th> 3.44 Gbp </th><th> 314 </th><th> 3.45 Gbp </th></tr>
   </tfoot>

@@ -21,8 +21,10 @@ data_pacbiohifi_bam-1_scale: 0.2567
 data_pacbiohifi_bam_bases: 5.42 Gbp
 data_pacbiohifi_bam_bytes: 19.7 GiB
 data_pacbiohifi_bam_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1651598048
 last_updated: 1651598048
 metadata: |

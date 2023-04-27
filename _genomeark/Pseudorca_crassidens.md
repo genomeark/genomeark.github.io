@@ -51,7 +51,7 @@ data_pacbiohifi_fqgz-1_scale: 1.1564
 data_pacbiohifi_fqgz_bases: 116.44 Gbp
 data_pacbiohifi_fqgz_bytes: 93.8 GiB
 data_pacbiohifi_fqgz_coverage: 37.79x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'''
 genome_size: 3081000000
 genome_size_display: 3.08 Gbp
 genome_size_method: GoAT

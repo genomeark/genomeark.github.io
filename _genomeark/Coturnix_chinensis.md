@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_arima-1_bases: 120.36 Gbp
 data_arima-1_bytes: 58.8 GiB
 data_arima-1_coverage: N/A
@@ -10,11 +11,14 @@ data_arima-1_scale: 1.9067
 data_arima_bases: 120.36 Gbp
 data_arima_bytes: 58.8 GiB
 data_arima_coverage: N/A
-data_status: '<em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">Arima</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1677259189
 last_updated: 1677259189
 name: Coturnix chinensis
 name_: Coturnix_chinensis
 short_name: bCotChi
+taxon_id: ''
 ---

@@ -81,10 +81,12 @@ data_pacbiohifi_fqgz-3_scale: 1.2677
 data_pacbiohifi_fqgz_bases: 214.62 Gbp
 data_pacbiohifi_fqgz_bytes: 157.7 GiB
 data_pacbiohifi_fqgz_coverage: 59.39x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
+  HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Dovetail</em>'''
 dip3date: 2022-11-11
 dip3filesize: 1.5 GiB
-dip3length: 6241023527
+dip3length: '6241023527'
 dip3n50ctg: 138751763
 dip3n50scf: 178806421
 dip3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_verkko_1.1-hic-freeze/mPanTro3.dip.20221111.fasta.gz
@@ -105,7 +107,7 @@ dip3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 183.32 Mbp </td><td> 1 </td><td> 231.32 Mbp </td></tr>  <tr><td> 20 </td><td> 3 </td><td> 179.90 Mbp </td><td> 3 </td><td> 200.34 Mbp </td></tr>  <tr><td> 30 </td><td> 6 </td><td> 155.69 Mbp </td><td> 5 </td><td> 191.63 Mbp </td></tr>  <tr><td> 40 </td><td> 8 </td><td> 146.35 Mbp </td><td> 7 </td><td> 180.08 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 138.75 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 178.81 Mbp </td></tr>  <tr><td> 60 </td><td> 13 </td><td> 123.69 Mbp </td><td> 11 </td><td> 160.29 Mbp </td></tr>  <tr><td> 70 </td><td> 16 </td><td> 121.74 Mbp </td><td> 13 </td><td> 146.35 Mbp </td></tr>  <tr><td> 80 </td><td> 20 </td><td> 100.84 Mbp </td><td> 16 </td><td> 140.75 Mbp </td></tr>  <tr><td> 90 </td><td> 23 </td><td> 92.35 Mbp </td><td> 18 </td><td> 138.75 Mbp </td></tr>  <tr><td> 100 </td><td> 27 </td><td> 85.65 Mbp </td><td> 21 </td><td> 136.72 Mbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 183.32 Mbp </td><td> 1 </td><td> 231.32 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 179.90 Mbp </td><td> 3 </td><td> 200.34 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 155.69 Mbp </td><td> 5 </td><td> 191.63 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 146.35 Mbp </td><td> 7 </td><td> 180.08 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 138.75 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 178.81 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 123.69 Mbp </td><td> 11 </td><td> 160.29 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 121.74 Mbp </td><td> 13 </td><td> 146.35 Mbp </td></tr><tr><td> 80 </td><td> 20 </td><td> 100.84 Mbp </td><td> 16 </td><td> 140.75 Mbp </td></tr><tr><td> 90 </td><td> 23 </td><td> 92.35 Mbp </td><td> 18 </td><td> 138.75 Mbp </td></tr><tr><td> 100 </td><td> 27 </td><td> 85.65 Mbp </td><td> 21 </td><td> 136.72 Mbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.724x </th><th> 1647 </th><th> 6.23 Gbp </th><th> 1612 </th><th> 6.24 Gbp </th></tr>
   </tfoot>
@@ -116,7 +118,7 @@ genome_size_display: 3.61 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
 hpa3date: 2022-11-11
 hpa3filesize: 789.4 MiB
-hpa3length: 3165046869
+hpa3length: '3165046869'
 hpa3n50ctg: 85647504
 hpa3n50scf: 136718321
 hpa3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_verkko_1.1-hic-freeze/mPanTro3.hap1.20221111.fasta.gz
@@ -137,7 +139,7 @@ hpa3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 179.90 Mbp </td><td> 1 </td><td> 201.49 Mbp </td></tr>  <tr><td> 20 </td><td> 4 </td><td> 138.75 Mbp </td><td> 3 </td><td> 183.32 Mbp </td></tr>  <tr><td> 30 </td><td> 7 </td><td> 121.74 Mbp </td><td> 5 </td><td> 160.29 Mbp </td></tr>  <tr><td> 40 </td><td> 10 </td><td> 98.28 Mbp </td><td> 7 </td><td> 144.39 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 14 </td><td style="background-color:#88ff88;"> 85.65 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 136.72 Mbp </td></tr>  <tr><td> 60 </td><td> 18 </td><td> 67.50 Mbp </td><td> 13 </td><td> 115.56 Mbp </td></tr>  <tr><td> 70 </td><td> 24 </td><td> 51.34 Mbp </td><td> 17 </td><td> 89.63 Mbp </td></tr>  <tr><td> 80 </td><td> 33 </td><td> 30.92 Mbp </td><td> 21 </td><td> 52.55 Mbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 179.90 Mbp </td><td> 1 </td><td> 201.49 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 138.75 Mbp </td><td> 3 </td><td> 183.32 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 121.74 Mbp </td><td> 5 </td><td> 160.29 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 98.28 Mbp </td><td> 7 </td><td> 144.39 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 14 </td><td style="background-color:#88ff88;"> 85.65 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 136.72 Mbp </td></tr><tr><td> 60 </td><td> 18 </td><td> 67.50 Mbp </td><td> 13 </td><td> 115.56 Mbp </td></tr><tr><td> 70 </td><td> 24 </td><td> 51.34 Mbp </td><td> 17 </td><td> 89.63 Mbp </td></tr><tr><td> 80 </td><td> 33 </td><td> 30.92 Mbp </td><td> 21 </td><td> 52.55 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.875x </th><th> 237 </th><th> 3.16 Gbp </th><th> 217 </th><th> 3.17 Gbp </th></tr>
   </tfoot>
@@ -145,7 +147,7 @@ hpa3sizes: |
 hpa3version: assembly_verkko_1.1-hic-freeze
 hpb3date: 2022-11-11
 hpb3filesize: 792.7 MiB
-hpb3length: 3205720682
+hpb3length: '3205720682'
 hpb3n50ctg: 91046033
 hpb3n50scf: 140160298
 hpb3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_verkko_1.1-hic-freeze/mPanTro3.hap2.20221111.fasta.gz
@@ -166,7 +168,7 @@ hpb3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 180.08 Mbp </td><td> 1 </td><td> 200.34 Mbp </td></tr>  <tr><td> 20 </td><td> 4 </td><td> 153.89 Mbp </td><td> 3 </td><td> 180.08 Mbp </td></tr>  <tr><td> 30 </td><td> 6 </td><td> 140.16 Mbp </td><td> 5 </td><td> 163.86 Mbp </td></tr>  <tr><td> 40 </td><td> 9 </td><td> 121.99 Mbp </td><td> 7 </td><td> 146.35 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 91.05 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 140.16 Mbp </td></tr>  <tr><td> 60 </td><td> 17 </td><td> 73.84 Mbp </td><td> 13 </td><td> 121.99 Mbp </td></tr>  <tr><td> 70 </td><td> 22 </td><td> 59.60 Mbp </td><td> 16 </td><td> 97.36 Mbp </td></tr>  <tr><td> 80 </td><td> 30 </td><td> 36.45 Mbp </td><td> 21 </td><td> 44.96 Mbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 180.08 Mbp </td><td> 1 </td><td> 200.34 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 153.89 Mbp </td><td> 3 </td><td> 180.08 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 140.16 Mbp </td><td> 5 </td><td> 163.86 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 121.99 Mbp </td><td> 7 </td><td> 146.35 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 91.05 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 140.16 Mbp </td></tr><tr><td> 60 </td><td> 17 </td><td> 73.84 Mbp </td><td> 13 </td><td> 121.99 Mbp </td></tr><tr><td> 70 </td><td> 22 </td><td> 59.60 Mbp </td><td> 16 </td><td> 97.36 Mbp </td></tr><tr><td> 80 </td><td> 30 </td><td> 36.45 Mbp </td><td> 21 </td><td> 44.96 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.885x </th><th> 143 </th><th> 3.20 Gbp </th><th> 128 </th><th> 3.21 Gbp </th></tr>
   </tfoot>
@@ -243,7 +245,7 @@ metadata: |
     project: [ vgp, t2t ]
 mito1date: 2020-06-25
 mito1filesize: 4.9 KiB
-mito1length: 16556
+mito1length: '16556'
 mito1n50ctg: 0
 mito1n50scf: 0
 mito1seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro1/assembly_MT_rockefeller/mPanTro1.MT.20200625.fasta.gz
@@ -264,7 +266,7 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.000x </th><th> 1 </th><th> 16.56 Kbp </th><th> 1 </th><th> 16.56 Kbp </th></tr>
   </tfoot>

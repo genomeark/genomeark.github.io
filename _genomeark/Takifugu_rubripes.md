@@ -1,9 +1,9 @@
 ---
 alt1date: 2019-05-23
 alt1filesize: 101.1 MiB
-alt1length: 350016965
-alt1n50ctg: 266405
-alt1n50scf: 276385
+alt1length: '350016965'
+alt1n50ctg: '266405'
+alt1n50scf: '276385'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Takifugu_rubripes/fTakRub1/assembly_curated/fTakRub1.alt.cur.20190523.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 29 </td><td> 0.83 Mbp </td><td> 27 </td><td> 0.88 Mbp </td></tr>  <tr><td> 20 </td><td> 80 </td><td> 0.57 Mbp </td><td> 77 </td><td> 0.60 Mbp </td></tr>  <tr><td> 30 </td><td> 151 </td><td> 427.91 Kbp </td><td> 146 </td><td> 436.82 Kbp </td></tr>  <tr><td> 40 </td><td> 243 </td><td> 334.87 Kbp </td><td> 236 </td><td> 345.03 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 359 </td><td> 266.41 Kbp </td><td> 349 </td><td> 276.39 Kbp </td></tr>  <tr><td> 60 </td><td> 505 </td><td> 214.46 Kbp </td><td> 491 </td><td> 219.89 Kbp </td></tr>  <tr><td> 70 </td><td> 689 </td><td> 168.39 Kbp </td><td> 672 </td><td> 171.94 Kbp </td></tr>  <tr><td> 80 </td><td> 927 </td><td> 128.10 Kbp </td><td> 906 </td><td> 130.76 Kbp </td></tr>  <tr><td> 90 </td><td> 1258 </td><td> 84.91 Kbp </td><td> 1232 </td><td> 86.41 Kbp </td></tr>  <tr><td> 100 </td><td> 2049 </td><td> 103  bp </td><td> 2011 </td><td> 103  bp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 29 </td><td> 0.83 Mbp </td><td> 27 </td><td> 0.88 Mbp </td></tr><tr><td> 20 </td><td> 80 </td><td> 0.57 Mbp </td><td> 77 </td><td> 0.60 Mbp </td></tr><tr><td> 30 </td><td> 151 </td><td> 427.91 Kbp </td><td> 146 </td><td> 436.82 Kbp </td></tr><tr><td> 40 </td><td> 243 </td><td> 334.87 Kbp </td><td> 236 </td><td> 345.03 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 359 </td><td> 266.41 Kbp </td><td> 349 </td><td> 276.39 Kbp </td></tr><tr><td> 60 </td><td> 505 </td><td> 214.46 Kbp </td><td> 491 </td><td> 219.89 Kbp </td></tr><tr><td> 70 </td><td> 689 </td><td> 168.39 Kbp </td><td> 672 </td><td> 171.94 Kbp </td></tr><tr><td> 80 </td><td> 927 </td><td> 128.10 Kbp </td><td> 906 </td><td> 130.76 Kbp </td></tr><tr><td> 90 </td><td> 1258 </td><td> 84.91 Kbp </td><td> 1232 </td><td> 86.41 Kbp </td></tr><tr><td> 100 </td><td> 2049 </td><td> 103  bp </td><td> 2011 </td><td> 103  bp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 2050 </th><th> 349.39 Mbp </th><th> 2012 </th><th> 350.02 Mbp </th></tr>
   </tfoot>
@@ -70,11 +70,13 @@ data_pacbio-1_scale: 0.5301
 data_pacbio_bases: 31.90 Gbp
 data_pacbio_bytes: 56.0 GiB
 data_pacbio_coverage: 83.05x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Arima</em>'''
 genbank_alt: fTakRub1:GCA_901000745.3
 genbank_pri: fTakRub1:GCA_901000725.3
 genome_size: 384110215
 genome_size_display: 384.11 Mbp
+genome_size_method: ''
 last_raw_data: 1535574792
 last_updated: 1570719805
 metadata: |
@@ -94,7 +96,7 @@ metadata: |
     project: [ vgp ]
 mito1date: 2019-10-03
 mito1filesize: 5.0 KiB
-mito1length: 16448
+mito1length: '16448'
 mito1n50ctg: 16448
 mito1n50scf: 16448
 mito1seq: https://s3.amazonaws.com/genomeark/species/Takifugu_rubripes/fTakRub1/assembly_MT_rockefeller/fTakRub1.MT.20191003.fasta.gz
@@ -115,7 +117,7 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr>  <tr><td> 20 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr>  <tr><td> 30 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr>  <tr><td> 40 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;"> 16.45 Kbp </td><td> 0 </td><td style="background-color:#ff8888;"> 16.45 Kbp </td></tr>  <tr><td> 60 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr><tr><td> 20 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr><tr><td> 30 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr><tr><td> 40 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;"> 16.45 Kbp </td><td> 0 </td><td style="background-color:#ff8888;"> 16.45 Kbp </td></tr><tr><td> 60 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td> 16.45 Kbp </td><td> 0 </td><td> 16.45 Kbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 1 </th><th> 16.45 Kbp </th><th> 1 </th><th> 16.45 Kbp </th></tr>
   </tfoot>
@@ -125,7 +127,7 @@ name: Takifugu rubripes
 name_: Takifugu_rubripes
 pri1date: 2019-05-23
 pri1filesize: 108.4 MiB
-pri1length: 384110215
+pri1length: '384110215'
 pri1n50ctg: 3136617
 pri1n50scf: 16705553
 pri1seq: https://s3.amazonaws.com/genomeark/species/Takifugu_rubripes/fTakRub1/assembly_curated/fTakRub1.pri.cur.20190523.fasta.gz
@@ -146,7 +148,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 8.18 Mbp </td><td> 1 </td><td> 21.51 Mbp </td></tr>  <tr><td> 20 </td><td> 8 </td><td> 6.77 Mbp </td><td> 3 </td><td> 19.72 Mbp </td></tr>  <tr><td> 30 </td><td> 15 </td><td> 5.37 Mbp </td><td> 5 </td><td> 18.24 Mbp </td></tr>  <tr><td> 40 </td><td> 23 </td><td> 3.79 Mbp </td><td> 7 </td><td> 17.48 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 34 </td><td style="background-color:#88ff88;"> 3.14 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 16.71 Mbp </td></tr>  <tr><td> 60 </td><td> 48 </td><td> 2.47 Mbp </td><td> 12 </td><td> 16.06 Mbp </td></tr>  <tr><td> 70 </td><td> 68 </td><td> 1.65 Mbp </td><td> 14 </td><td> 15.69 Mbp </td></tr>  <tr><td> 80 </td><td> 101 </td><td> 0.78 Mbp </td><td> 17 </td><td> 13.57 Mbp </td></tr>  <tr><td> 90 </td><td> 180 </td><td> 272.77 Kbp </td><td> 19 </td><td> 12.91 Mbp </td></tr>  <tr><td> 100 </td><td> 528 </td><td> 1.29 Kbp </td><td> 126 </td><td> 27.23 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 8.18 Mbp </td><td> 1 </td><td> 21.51 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 6.77 Mbp </td><td> 3 </td><td> 19.72 Mbp </td></tr><tr><td> 30 </td><td> 15 </td><td> 5.37 Mbp </td><td> 5 </td><td> 18.24 Mbp </td></tr><tr><td> 40 </td><td> 23 </td><td> 3.79 Mbp </td><td> 7 </td><td> 17.48 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 34 </td><td style="background-color:#88ff88;"> 3.14 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 16.71 Mbp </td></tr><tr><td> 60 </td><td> 48 </td><td> 2.47 Mbp </td><td> 12 </td><td> 16.06 Mbp </td></tr><tr><td> 70 </td><td> 68 </td><td> 1.65 Mbp </td><td> 14 </td><td> 15.69 Mbp </td></tr><tr><td> 80 </td><td> 101 </td><td> 0.78 Mbp </td><td> 17 </td><td> 13.57 Mbp </td></tr><tr><td> 90 </td><td> 180 </td><td> 272.77 Kbp </td><td> 19 </td><td> 12.91 Mbp </td></tr><tr><td> 100 </td><td> 528 </td><td> 1.29 Kbp </td><td> 126 </td><td> 27.23 Kbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 529 </th><th> 380.42 Mbp </th><th> 127 </th><th> 384.11 Mbp </th></tr>
   </tfoot>

@@ -11,9 +11,10 @@ data_bionano-1_scale: 683.2591
 data_bionano_bases: N/A
 data_bionano_bytes: 2.3 GiB
 data_bionano_coverage: 1652.13x
-data_status: '<em style="color:maroon">No data</em>'
+data_status: '''<em style="color:maroon">No data</em>'''
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
+genome_size_method: ''
 last_raw_data: 1538676017
 last_updated: 1538676017
 metadata: |

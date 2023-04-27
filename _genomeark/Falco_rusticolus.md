@@ -1,7 +1,7 @@
 ---
 alt1date: 2020-07-20
 alt1filesize: 158.5 MiB
-alt1length: 516243243
+alt1length: '516243243'
 alt1n50ctg: 0
 alt1n50scf: 0
 alt1seq: https://s3.amazonaws.com/genomeark/species/Falco_rusticolus/bFalRus1/assembly_curated/bFalRus1.alt.cur.20200720.fasta.gz
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 841 </td><td> 115.25 Kbp </td><td> 841 </td><td> 115.25 Kbp </td></tr>  <tr><td> 20 </td><td> 2416 </td><td> 70.84 Kbp </td><td> 2416 </td><td> 70.84 Kbp </td></tr>  <tr><td> 30 </td><td> 4980 </td><td> 42.26 Kbp </td><td> 4980 </td><td> 42.26 Kbp </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 841 </td><td> 115.25 Kbp </td><td> 841 </td><td> 115.25 Kbp </td></tr><tr><td> 20 </td><td> 2416 </td><td> 70.84 Kbp </td><td> 2416 </td><td> 70.84 Kbp </td></tr><tr><td> 30 </td><td> 4980 </td><td> 42.26 Kbp </td><td> 4980 </td><td> 42.26 Kbp </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.369x </th><th> 8370 </th><th> 0.52 Gbp </th><th> 8370 </th><th> 0.52 Gbp </th></tr>
   </tfoot>
@@ -70,11 +70,13 @@ data_pacbio-1_scale: 0.5245
 data_pacbio_bases: 61.93 Gbp
 data_pacbio_bytes: 110.0 GiB
 data_pacbio_coverage: 44.24x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Arima</em>'''
 genbank_alt: bFalRus1:GCA_015220155.1
 genbank_pri: bFalRus1:GCA_015220075.1
 genome_size: 1400000000
 genome_size_display: 1.40 Gbp
+genome_size_method: ''
 last_raw_data: 1578071543
 last_updated: 1629346092
 metadata: |
@@ -94,7 +96,7 @@ metadata: |
     project: [ vgp ]
 mito1date: 2019-12-16
 mito1filesize: 5.6 KiB
-mito1length: 18488
+mito1length: '18488'
 mito1n50ctg: 0
 mito1n50scf: 0
 mito1seq: https://s3.amazonaws.com/genomeark/species/Falco_rusticolus/bFalRus1/assembly_MT_rockefeller/bFalRus1.MT.20191216.fasta.gz
@@ -115,7 +117,7 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.000x </th><th> 1 </th><th> 18.49 Kbp </th><th> 1 </th><th> 18.49 Kbp </th></tr>
   </tfoot>
@@ -125,7 +127,7 @@ name: Falco rusticolus
 name_: Falco_rusticolus
 pri1date: 2020-07-20
 pri1filesize: 349.2 MiB
-pri1length: 1195829278
+pri1length: '1195829278'
 pri1n50ctg: 12482491
 pri1n50scf: 84785561
 pri1seq: https://s3.amazonaws.com/genomeark/species/Falco_rusticolus/bFalRus1/assembly_curated/bFalRus1.pri.cur.20200720.fasta.gz
@@ -146,7 +148,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 32.78 Mbp </td><td> 1 </td><td> 122.15 Mbp </td></tr>  <tr><td> 20 </td><td> 7 </td><td> 25.49 Mbp </td><td> 2 </td><td> 121.28 Mbp </td></tr>  <tr><td> 30 </td><td> 13 </td><td> 22.35 Mbp </td><td> 3 </td><td> 112.44 Mbp </td></tr>  <tr><td> 40 </td><td> 21 </td><td> 15.69 Mbp </td><td> 4 </td><td> 92.44 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 31 </td><td style="background-color:#88ff88;"> 12.48 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 84.79 Mbp </td></tr>  <tr><td> 60 </td><td> 44 </td><td> 8.39 Mbp </td><td> 8 </td><td> 65.42 Mbp </td></tr>  <tr><td> 70 </td><td> 66 </td><td> 3.76 Mbp </td><td> 10 </td><td> 38.16 Mbp </td></tr>  <tr><td> 80 </td><td> 193 </td><td> 435.48 Kbp </td><td> 15 </td><td> 24.10 Mbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 32.78 Mbp </td><td> 1 </td><td> 122.15 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 25.49 Mbp </td><td> 2 </td><td> 121.28 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 22.35 Mbp </td><td> 3 </td><td> 112.44 Mbp </td></tr><tr><td> 40 </td><td> 21 </td><td> 15.69 Mbp </td><td> 4 </td><td> 92.44 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 31 </td><td style="background-color:#88ff88;"> 12.48 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 84.79 Mbp </td></tr><tr><td> 60 </td><td> 44 </td><td> 8.39 Mbp </td><td> 8 </td><td> 65.42 Mbp </td></tr><tr><td> 70 </td><td> 66 </td><td> 3.76 Mbp </td><td> 10 </td><td> 38.16 Mbp </td></tr><tr><td> 80 </td><td> 193 </td><td> 435.48 Kbp </td><td> 15 </td><td> 24.10 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.850x </th><th> 767 </th><th> 1.19 Gbp </th><th> 132 </th><th> 1.20 Gbp </th></tr>
   </tfoot>

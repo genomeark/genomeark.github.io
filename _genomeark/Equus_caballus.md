@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_dovetail-1_bases: 197.33 Gbp
 data_dovetail-1_bytes: 101.7 GiB
 data_dovetail-1_coverage: N/A
@@ -37,13 +38,16 @@ data_pacbiohifi_fqgz-1_scale: 1.3850
 data_pacbiohifi_fqgz_bases: 101.07 Gbp
 data_pacbiohifi_fqgz_bytes: 68.0 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>
+  ::: <em style="color:forestgreen">Illumina</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1678812765
 last_updated: 1678812765
 mito1date: 2023-02-10
 mito1filesize: 5.3 KiB
-mito1length: 16605
+mito1length: '16605'
 mito1n50ctg: 16605
 mito1n50scf: 16605
 mito1seq: https://s3.amazonaws.com/genomeark/species/Equus_caballus/mEquCab1/assembly_MT_rockefeller/mEquCab1.MT.20230210.fasta.gz
@@ -64,7 +68,7 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr>  <tr><td> 20 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr>  <tr><td> 30 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr>  <tr><td> 40 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;"> 16.61 Kbp </td><td> 0 </td><td style="background-color:#ff8888;"> 16.61 Kbp </td></tr>  <tr><td> 60 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr><tr><td> 20 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr><tr><td> 30 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr><tr><td> 40 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;"> 16.61 Kbp </td><td> 0 </td><td style="background-color:#ff8888;"> 16.61 Kbp </td></tr><tr><td> 60 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td> 16.61 Kbp </td><td> 0 </td><td> 16.61 Kbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 1 </th><th> 16.61 Kbp </th><th> 1 </th><th> 16.61 Kbp </th></tr>
   </tfoot>
@@ -73,4 +77,5 @@ mito1version: assembly_MT_rockefeller
 name: Equus caballus
 name_: Equus_caballus
 short_name: mEquCab
+taxon_id: ''
 ---

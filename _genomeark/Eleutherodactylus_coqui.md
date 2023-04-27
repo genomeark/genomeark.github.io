@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_arima-3_bases: 586.19 Gbp
 data_arima-3_bytes: 279.6 GiB
 data_arima-3_coverage: N/A
@@ -20,11 +21,14 @@ data_pacbiohifi_fqgz-3_scale: 1.2115
 data_pacbiohifi_fqgz_bases: 119.52 Gbp
 data_pacbiohifi_fqgz_bytes: 91.9 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1680053142
 last_updated: 1680053142
 name: Eleutherodactylus coqui
 name_: Eleutherodactylus_coqui
 short_name: aEleCoq
+taxon_id: ''
 ---

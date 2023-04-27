@@ -51,10 +51,28 @@ data_pacbiohifi_fqgz-1_scale: 1.2450
 data_pacbiohifi_fqgz_bases: 36.43 Gbp
 data_pacbiohifi_fqgz_bytes: 27.3 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1675714678
-last_updated: 1680900608
+last_updated: 1680900758
+mds:
+- data: "species: Pelecanus crispus\nspecimen: bPelCri1\nprojects: \n  - vgp\ndata_location:
+    S3\nrelease_to: S3\nprimary: s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.0/bPelCri1.standard.pri.20230327.fasta.gz\nhaplotigs:
+    s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.0/bPelCri1.standard.alt.20230327.fasta.gz\npretext:
+    s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.0/evaluation/pri/pretext/bPelCri1_pri__s2.heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.0/evaluation/merqury/bPelCri1_png/\nmito:
+    s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_MT_rockefeller/bPelCri1.MT.20230407.fasta.gz\npacbio_read_dir:
+    s3://genomeark/species/Pelecanus_crispus/bPelCri1/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Pelecanus_crispus/bPelCri1/genomic_data/arima/\npipeline:\n
+    \ - hifiasm (0.18.8+galaxy1)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group: Rockefeller\nnotes:
+    This was a primary/alternate assembly of bPelCri1, done using hifiasm with internal
+    purging turned on to default level. This individual had did not bionano data,
+    and the HiC data came from another individual (bPelCri2). HiC scaffolding was
+    performed with yahs. The HiC prep was Arima kit 2. "
+  ident: md4
+  title: assembly_vgp_standard_2.0/bPelCri1.yml
 metadata: |
   species:
     short_name: bPelCri
@@ -70,7 +88,7 @@ metadata: |
     project: [ vgp ]
 mito1date: 2023-04-07
 mito1filesize: 5.7 KiB
-mito1length: 19483
+mito1length: '19483'
 mito1n50ctg: 19483
 mito1n50scf: 19483
 mito1seq: https://s3.amazonaws.com/genomeark/species/Pelecanus_crispus/bPelCri1/assembly_MT_rockefeller/bPelCri1.MT.20230407.fasta.gz
@@ -91,7 +109,7 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr>  <tr><td> 20 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr>  <tr><td> 30 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr>  <tr><td> 40 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 19.48 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 19.48 Kbp </td></tr>  <tr><td> 60 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr>  <tr><td> 70 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr>  <tr><td> 80 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr>  <tr><td> 90 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr>  <tr><td> 100 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 19.48 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 19.48 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 1 </th><th> 19.48 Kbp </th><th> 1 </th><th> 19.48 Kbp </th></tr>
   </tfoot>

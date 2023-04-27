@@ -11,7 +11,7 @@ data_arima-1_scale: 2.9004
 data_arima_bases: 86.05 Gbp
 data_arima_bytes: 27.6 GiB
 data_arima_coverage: 99.99x
-data_status: '<em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">Arima</em>'''
 genome_size: 860640000
 genome_size_display: 0.86 Gbp
 genome_size_method: GoaT

@@ -1,9 +1,9 @@
 ---
 alt1date: 2021-07-16
 alt1filesize: 634.9 MiB
-alt1length: 2266570666
-alt1n50ctg: 20470465
-alt1n50scf: 20470465
+alt1length: '2266570666'
+alt1n50ctg: '20470465'
+alt1n50scf: '20470465'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Lemur_catta/mLemCat1/assembly_curated/mLemCat1.alt.cur.20210716.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 96.00 Mbp </td><td> 3 </td><td> 96.00 Mbp </td></tr>  <tr><td> 20 </td><td> 7 </td><td> 56.18 Mbp </td><td> 7 </td><td> 56.18 Mbp </td></tr>  <tr><td> 30 </td><td> 13 </td><td> 45.82 Mbp </td><td> 13 </td><td> 45.82 Mbp </td></tr>  <tr><td> 40 </td><td> 23 </td><td> 30.76 Mbp </td><td> 23 </td><td> 30.76 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 35 </td><td> 20.47 Mbp </td><td> 35 </td><td> 20.47 Mbp </td></tr>  <tr><td> 60 </td><td> 58 </td><td> 9.29 Mbp </td><td> 58 </td><td> 9.29 Mbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 96.00 Mbp </td><td> 3 </td><td> 96.00 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 56.18 Mbp </td><td> 7 </td><td> 56.18 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 45.82 Mbp </td><td> 13 </td><td> 45.82 Mbp </td></tr><tr><td> 40 </td><td> 23 </td><td> 30.76 Mbp </td><td> 23 </td><td> 30.76 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 35 </td><td> 20.47 Mbp </td><td> 35 </td><td> 20.47 Mbp </td></tr><tr><td> 60 </td><td> 58 </td><td> 9.29 Mbp </td><td> 58 </td><td> 9.29 Mbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.687x </th><th> 313 </th><th> 2.27 Gbp </th><th> 312 </th><th> 2.27 Gbp </th></tr>
   </tfoot>
@@ -90,11 +90,13 @@ data_pacbiohifi_clr-1_scale: 0.5212
 data_pacbiohifi_clr_bases: 1195.62 Gbp
 data_pacbiohifi_clr_bytes: 2.1 TiB
 data_pacbiohifi_clr_coverage: 362.31x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
+  HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'''
 genbank_alt: mLemCat1:GCA_020740595.1
 genbank_pri: mLemCat1:GCA_020740605.1
 genome_size: 3300000000
 genome_size_display: 3.30 Gbp
+genome_size_method: ''
 last_raw_data: 1651600802
 last_updated: 1651600802
 metadata: |
@@ -114,7 +116,7 @@ metadata: |
     project: [ vgp ]
 mito1date: 2019-08-20
 mito1filesize: 5.0 KiB
-mito1length: 17086
+mito1length: '17086'
 mito1n50ctg: 0
 mito1n50scf: 0
 mito1seq: https://s3.amazonaws.com/genomeark/species/Lemur_catta/mLemCat1/assembly_MT_rockefeller/mLemCat1.MT.20190820.fasta.gz
@@ -135,7 +137,7 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.000x </th><th> 1 </th><th> 17.09 Kbp </th><th> 1 </th><th> 17.09 Kbp </th></tr>
   </tfoot>
@@ -145,7 +147,7 @@ name: Lemur catta
 name_: Lemur_catta
 pri1date: 2021-07-16
 pri1filesize: 629.2 MiB
-pri1length: 2245584463
+pri1length: '2245584463'
 pri1n50ctg: 16149179
 pri1n50scf: 73531725
 pri1seq: https://s3.amazonaws.com/genomeark/species/Lemur_catta/mLemCat1/assembly_curated/mLemCat1.pri.cur.20210716.fasta.gz
@@ -166,7 +168,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 79.53 Mbp </td><td> 1 </td><td> 147.49 Mbp </td></tr>  <tr><td> 20 </td><td> 8 </td><td> 54.57 Mbp </td><td> 3 </td><td> 117.45 Mbp </td></tr>  <tr><td> 30 </td><td> 16 </td><td> 38.42 Mbp </td><td> 6 </td><td> 108.75 Mbp </td></tr>  <tr><td> 40 </td><td> 26 </td><td> 27.68 Mbp </td><td> 10 </td><td> 99.28 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 43 </td><td style="background-color:#88ff88;"> 16.15 Mbp </td><td> 13 </td><td style="background-color:#88ff88;"> 73.53 Mbp </td></tr>  <tr><td> 60 </td><td> 77 </td><td> 5.75 Mbp </td><td> 19 </td><td> 37.49 Mbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 79.53 Mbp </td><td> 1 </td><td> 147.49 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 54.57 Mbp </td><td> 3 </td><td> 117.45 Mbp </td></tr><tr><td> 30 </td><td> 16 </td><td> 38.42 Mbp </td><td> 6 </td><td> 108.75 Mbp </td></tr><tr><td> 40 </td><td> 26 </td><td> 27.68 Mbp </td><td> 10 </td><td> 99.28 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 43 </td><td style="background-color:#88ff88;"> 16.15 Mbp </td><td> 13 </td><td style="background-color:#88ff88;"> 73.53 Mbp </td></tr><tr><td> 60 </td><td> 77 </td><td> 5.75 Mbp </td><td> 19 </td><td> 37.49 Mbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.679x </th><th> 394 </th><th> 2.24 Gbp </th><th> 184 </th><th> 2.25 Gbp </th></tr>
   </tfoot>

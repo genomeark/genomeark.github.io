@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_arima-1_bases: 308.61 Gbp
 data_arima-1_bytes: 146.7 GiB
 data_arima-1_coverage: N/A
@@ -10,11 +11,14 @@ data_arima-1_scale: 1.9597
 data_arima_bases: 308.61 Gbp
 data_arima_bytes: 146.7 GiB
 data_arima_coverage: N/A
-data_status: '<em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">Arima</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1665073987
 last_updated: 1665073987
 name: Pedetes capensis
 name_: Pedetes_capensis
 short_name: mPedCap
+taxon_id: ''
 ---

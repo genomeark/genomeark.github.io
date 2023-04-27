@@ -21,8 +21,10 @@ data_pacbio-1_scale: 0.5223
 data_pacbio_bases: 44.71 Gbp
 data_pacbio_bytes: 79.7 GiB
 data_pacbio_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio CLR</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1523481808
 last_updated: 1523481808
 metadata: |

@@ -41,14 +41,14 @@ data_pacbiohifi_fqgz-1_scale: 1.1989
 data_pacbiohifi_fqgz_bases: 85.65 Gbp
 data_pacbiohifi_fqgz_bytes: 66.5 GiB
 data_pacbiohifi_fqgz_coverage: 29.89x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em>'''
 genbank_pri: mEubGla1:GCA_028564815.1 mEubGla1:GCA_028571275.1
 genome_size: 2866000000
 genome_size_display: 2.87 Gbp
 genome_size_method: GoAT
 hpa1date: 2023-01-18
 hpa1filesize: 698.0 MiB
-hpa1length: 2611756649
+hpa1length: '2611756649'
 hpa1n50ctg: 30933322
 hpa1n50scf: 124161695
 hpa1seq: https://s3.amazonaws.com/genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_curated/mEubGla1.hap1.cur.20230118.fasta.gz
@@ -69,7 +69,7 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 89.43 Mbp </td><td> 1 </td><td> 195.50 Mbp </td></tr>  <tr><td> 20 </td><td> 6 </td><td> 78.48 Mbp </td><td> 2 </td><td> 191.18 Mbp </td></tr>  <tr><td> 30 </td><td> 10 </td><td> 48.64 Mbp </td><td> 4 </td><td> 150.93 Mbp </td></tr>  <tr><td> 40 </td><td> 17 </td><td> 39.62 Mbp </td><td> 6 </td><td> 125.47 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 25 </td><td style="background-color:#88ff88;"> 30.93 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 124.16 Mbp </td></tr>  <tr><td> 60 </td><td> 35 </td><td> 25.43 Mbp </td><td> 11 </td><td> 99.46 Mbp </td></tr>  <tr><td> 70 </td><td> 49 </td><td> 17.26 Mbp </td><td> 14 </td><td> 93.67 Mbp </td></tr>  <tr><td> 80 </td><td> 83 </td><td> 2.67 Mbp </td><td> 17 </td><td> 66.69 Mbp </td></tr>  <tr><td> 90 </td><td> 680 </td><td> 112.22 Kbp </td><td> 299 </td><td> 126.06 Kbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 89.43 Mbp </td><td> 1 </td><td> 195.50 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 78.48 Mbp </td><td> 2 </td><td> 191.18 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 48.64 Mbp </td><td> 4 </td><td> 150.93 Mbp </td></tr><tr><td> 40 </td><td> 17 </td><td> 39.62 Mbp </td><td> 6 </td><td> 125.47 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 25 </td><td style="background-color:#88ff88;"> 30.93 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 124.16 Mbp </td></tr><tr><td> 60 </td><td> 35 </td><td> 25.43 Mbp </td><td> 11 </td><td> 99.46 Mbp </td></tr><tr><td> 70 </td><td> 49 </td><td> 17.26 Mbp </td><td> 14 </td><td> 93.67 Mbp </td></tr><tr><td> 80 </td><td> 83 </td><td> 2.67 Mbp </td><td> 17 </td><td> 66.69 Mbp </td></tr><tr><td> 90 </td><td> 680 </td><td> 112.22 Kbp </td><td> 299 </td><td> 126.06 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.911x </th><th> 1329 </th><th> 2.61 Gbp </th><th> 945 </th><th> 2.61 Gbp </th></tr>
   </tfoot>
@@ -77,7 +77,7 @@ hpa1sizes: |
 hpa1version: assembly_curated
 hpb1date: 2023-01-18
 hpb1filesize: 742.4 MiB
-hpb1length: 2813076105
+hpb1length: '2813076105'
 hpb1n50ctg: 37467374
 hpb1n50scf: 129620717
 hpb1seq: https://s3.amazonaws.com/genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_curated/mEubGla1.hap2.cur.20230118.fasta.gz
@@ -98,7 +98,7 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 82.04 Mbp </td><td> 1 </td><td> 196.00 Mbp </td></tr>  <tr><td> 20 </td><td> 6 </td><td> 73.40 Mbp </td><td> 2 </td><td> 195.09 Mbp </td></tr>  <tr><td> 30 </td><td> 11 </td><td> 53.22 Mbp </td><td> 4 </td><td> 156.32 Mbp </td></tr>  <tr><td> 40 </td><td> 17 </td><td> 43.02 Mbp </td><td> 6 </td><td> 138.69 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 24 </td><td style="background-color:#88ff88;"> 37.47 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 129.62 Mbp </td></tr>  <tr><td> 60 </td><td> 33 </td><td> 31.54 Mbp </td><td> 10 </td><td> 122.72 Mbp </td></tr>  <tr><td> 70 </td><td> 44 </td><td> 21.05 Mbp </td><td> 13 </td><td> 94.98 Mbp </td></tr>  <tr><td> 80 </td><td> 62 </td><td> 11.07 Mbp </td><td> 16 </td><td> 90.91 Mbp </td></tr>  <tr><td> 90 </td><td> 169 </td><td> 1.13 Mbp </td><td> 19 </td><td> 63.92 Mbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 82.04 Mbp </td><td> 1 </td><td> 196.00 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 73.40 Mbp </td><td> 2 </td><td> 195.09 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 53.22 Mbp </td><td> 4 </td><td> 156.32 Mbp </td></tr><tr><td> 40 </td><td> 17 </td><td> 43.02 Mbp </td><td> 6 </td><td> 138.69 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 24 </td><td style="background-color:#88ff88;"> 37.47 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 129.62 Mbp </td></tr><tr><td> 60 </td><td> 33 </td><td> 31.54 Mbp </td><td> 10 </td><td> 122.72 Mbp </td></tr><tr><td> 70 </td><td> 44 </td><td> 21.05 Mbp </td><td> 13 </td><td> 94.98 Mbp </td></tr><tr><td> 80 </td><td> 62 </td><td> 11.07 Mbp </td><td> 16 </td><td> 90.91 Mbp </td></tr><tr><td> 90 </td><td> 169 </td><td> 1.13 Mbp </td><td> 19 </td><td> 63.92 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.981x </th><th> 1123 </th><th> 2.81 Gbp </th><th> 765 </th><th> 2.81 Gbp </th></tr>
   </tfoot>
@@ -106,6 +106,34 @@ hpb1sizes: |
 hpb1version: assembly_curated
 last_raw_data: 1651668699
 last_updated: 1674053840
+mds:
+- data: |
+    species: Eubalaena glacialis
+    specimen: mEubGla1
+    projects:
+        - vgp
+    hap1:
+        s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/mEubGla1.HiC.hap1.20220517.fasta.gz
+    hap2:
+        s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/mEubGla1.HiC.hap2.20220517.fasta.gz
+    pretext_hap1:
+        s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mEubGla1_hap1__s2_heatmap.pretext
+    pretext_hap2:
+        s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mEubGla1_hap2__s2_heatmap.pretext
+    kmer_spectra)img:
+        s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/evaluation/merqury/png/
+    pacbio_read_dir: s3://genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/pacbio_hifi/
+    pacbio_read_type: hifi
+    hic_read_dir: N/A
+    bionano_cmap_dir: s3://genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/bionano/
+    pipeline:
+     - hifiasm (0.16.1+galaxy2)
+     - solve (3.7.0+galaxy0)
+     - salsa (2.3+galaxy3)
+    assembled_by_group:Rockefeller
+    notes: Specimen is male, so both haplotypes are included. HiC reads sequenced by DNAzoo are from the same individual ( https://www.ncbi.nlm.nih.gov/sra/SRX7735938[accn]).
+  ident: md4
+  title: assembly_vgp_HiC_2.0/mEubGla1.yml
 metadata: |
   species:
     name: Eubalaena glacialis

@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_dovetail-1_bases: 105.02 Gbp
 data_dovetail-1_bytes: 55.5 GiB
 data_dovetail-1_coverage: N/A
@@ -20,11 +21,14 @@ data_pacbiohifi_fqgz-1_scale: 1.1002
 data_pacbiohifi_fqgz_bases: 75.83 Gbp
 data_pacbiohifi_fqgz_bytes: 64.2 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1677698611
 last_updated: 1677698611
 name: Lepidochelys kempii
 name_: Lepidochelys_kempii
 short_name: rLepKem
+taxon_id: ''
 ---

@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 1.2 GiB
 data_bionano-1_coverage: N/A
@@ -10,11 +11,14 @@ data_bionano-1_scale: 570.1966
 data_bionano_bases: N/A
 data_bionano_bytes: 1.2 GiB
 data_bionano_coverage: N/A
-data_status: '<em style="color:maroon">No data</em>'
+data_status: '''<em style="color:maroon">No data</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1551493312
 last_updated: 1551493312
 name: Carcinoscorpius rotundicauda
 name_: Carcinoscorpius_rotundicauda
 short_name: qCarRot
+taxon_id: ''
 ---

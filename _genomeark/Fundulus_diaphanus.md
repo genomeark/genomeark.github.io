@@ -21,12 +21,12 @@ data_bionano-1_scale: 548.4036
 data_bionano_bases: N/A
 data_bionano_bytes: 1.6 GiB
 data_bionano_coverage: 613.16x
-data_status: '<em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">Arima</em>'''
 genome_size: 1515000000
 genome_size_display: 1.52 Gbp
 genome_size_method: GoAT
 last_raw_data: 1628121731
-last_updated: 1628121731
+last_updated: 1628121734
 metadata: |
   species:
     name: Fundulus diaphanus

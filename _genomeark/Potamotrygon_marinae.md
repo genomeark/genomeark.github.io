@@ -31,9 +31,11 @@ data_pacbio-1_scale: 0.5263
 data_pacbio_bases: 312.43 Gbp
 data_pacbio_bytes: 552.9 GiB
 data_pacbio_coverage: 69.43x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Arima</em>
+  ::: <em style="color:forestgreen">Illumina</em>'''
 genome_size: 4500000000
 genome_size_display: 4.50 Gbp
+genome_size_method: ''
 last_raw_data: 1618858204
 last_updated: 1618858883
 metadata: |
@@ -56,4 +58,5 @@ metadata: |
 name: Potamotrygon marinae
 name_: Potamotrygon_marinae
 short_name: sPotMar
+taxon_id: ''
 ---

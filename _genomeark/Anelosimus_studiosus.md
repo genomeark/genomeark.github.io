@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_pacbiohifi_fqgz-1_bases: 136.00 Gbp
 data_pacbiohifi_fqgz-1_bytes: 108.2 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -10,11 +11,14 @@ data_pacbiohifi_fqgz-1_scale: 1.1701
 data_pacbiohifi_fqgz_bases: 136.00 Gbp
 data_pacbiohifi_fqgz_bytes: 108.2 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1650640499
 last_updated: 1650640499
 name: Anelosimus studiosus
 name_: Anelosimus_studiosus
 short_name: qqAneStud
+taxon_id: ''
 ---

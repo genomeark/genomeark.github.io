@@ -21,12 +21,19 @@ data_bionano-1_scale: 595.3530
 data_bionano_bases: N/A
 data_bionano_bytes: 3.3 GiB
 data_bionano_coverage: 356.23x
-data_status: '<em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">Arima</em>'''
 genome_size: 6000000000
 genome_size_display: 6.00 Gbp
 genome_size_method: GoAT
 last_raw_data: 1643302608
 last_updated: 1674660507
+mds:
+- data: "species: Rana sylvatica\nspecimen: aRanSyl1\nprojects:\n  - vgp\npipeline:\n-
+    RedBean (wtdbg2) v2.5\n- Racon v1.4.20\n- 3D-DNA software version 180922\n- Bionano
+    Solve v. 3.6.1_11162020\n- Salsa2 HiC v. 2.2;\n- gcpp (Arrow polishing) v. 2.0.2-2.0.2\n-
+    merfin v. 1.0\n- Freebayes v. 1.3.1\n \n"
+  ident: md2
+  title: assembly_curated/aRanSyl1.yaml
 metadata: |
   species:
     name: Rana sylvatica

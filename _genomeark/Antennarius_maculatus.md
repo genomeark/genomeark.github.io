@@ -1,9 +1,9 @@
 ---
 alt1date: 2020-02-04
 alt1filesize: 154.1 MiB
-alt1length: 530348589
-alt1n50ctg: 312546
-alt1n50scf: 312546
+alt1length: '530348589'
+alt1n50ctg: '312546'
+alt1n50scf: '312546'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Antennarius_maculatus/fAntMac1/assembly_curated/fAntMac1.alt.cur.20200204.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 43 </td><td> 1.16 Mbp </td><td> 43 </td><td> 1.16 Mbp </td></tr>  <tr><td> 20 </td><td> 102 </td><td> 0.89 Mbp </td><td> 102 </td><td> 0.89 Mbp </td></tr>  <tr><td> 30 </td><td> 188 </td><td> 0.58 Mbp </td><td> 188 </td><td> 0.58 Mbp </td></tr>  <tr><td> 40 </td><td> 312 </td><td> 425.25 Kbp </td><td> 312 </td><td> 425.25 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 477 </td><td> 312.55 Kbp </td><td> 477 </td><td> 312.55 Kbp </td></tr>  <tr><td> 60 </td><td> 701 </td><td> 233.87 Kbp </td><td> 701 </td><td> 233.87 Kbp </td></tr>  <tr><td> 70 </td><td> 1007 </td><td> 167.14 Kbp </td><td> 1007 </td><td> 167.14 Kbp </td></tr>  <tr><td> 80 </td><td> 1463 </td><td> 104.03 Kbp </td><td> 1463 </td><td> 104.03 Kbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 43 </td><td> 1.16 Mbp </td><td> 43 </td><td> 1.16 Mbp </td></tr><tr><td> 20 </td><td> 102 </td><td> 0.89 Mbp </td><td> 102 </td><td> 0.89 Mbp </td></tr><tr><td> 30 </td><td> 188 </td><td> 0.58 Mbp </td><td> 188 </td><td> 0.58 Mbp </td></tr><tr><td> 40 </td><td> 312 </td><td> 425.25 Kbp </td><td> 312 </td><td> 425.25 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 477 </td><td> 312.55 Kbp </td><td> 477 </td><td> 312.55 Kbp </td></tr><tr><td> 60 </td><td> 701 </td><td> 233.87 Kbp </td><td> 701 </td><td> 233.87 Kbp </td></tr><tr><td> 70 </td><td> 1007 </td><td> 167.14 Kbp </td><td> 1007 </td><td> 167.14 Kbp </td></tr><tr><td> 80 </td><td> 1463 </td><td> 104.03 Kbp </td><td> 1463 </td><td> 104.03 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.877x </th><th> 2294 </th><th> 0.53 Gbp </th><th> 2294 </th><th> 0.53 Gbp </th></tr>
   </tfoot>
@@ -70,7 +70,8 @@ data_phase-1_scale: 1.5082
 data_phase_bases: 72.52 Gbp
 data_phase_bytes: 44.8 GiB
 data_phase_coverage: 119.89x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Phase</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Phase</em>'''
 genbank_alt: fAntMac1:GCA_013347815.1
 genbank_pri: fAntMac1:GCA_013358685.1
 genome_size: 604861782
@@ -95,7 +96,7 @@ metadata: |
     project: [ vgp ]
 mito1date: 2019-10-05
 mito1filesize: 5.2 KiB
-mito1length: 19188
+mito1length: '19188'
 mito1n50ctg: 0
 mito1n50scf: 0
 mito1seq: https://s3.amazonaws.com/genomeark/species/Antennarius_maculatus/fAntMac1/assembly_MT_rockefeller/fAntMac1.MT.20191005.fasta.gz
@@ -116,7 +117,7 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr>  <tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.000x </th><th> 1 </th><th> 19.19 Kbp </th><th> 1 </th><th> 19.19 Kbp </th></tr>
   </tfoot>
@@ -126,7 +127,7 @@ name: Antennarius maculatus
 name_: Antennarius_maculatus
 pri1date: 2020-02-04
 pri1filesize: 157.5 MiB
-pri1length: 549930323
+pri1length: '549930323'
 pri1n50ctg: 9068444
 pri1n50scf: 21940471
 pri1seq: https://s3.amazonaws.com/genomeark/species/Antennarius_maculatus/fAntMac1/assembly_curated/fAntMac1.pri.cur.20200204.fasta.gz
@@ -147,7 +148,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 21.05 Mbp </td><td> 1 </td><td> 28.82 Mbp </td></tr>  <tr><td> 20 </td><td> 5 </td><td> 18.16 Mbp </td><td> 4 </td><td> 26.55 Mbp </td></tr>  <tr><td> 30 </td><td> 9 </td><td> 14.48 Mbp </td><td> 6 </td><td> 25.71 Mbp </td></tr>  <tr><td> 40 </td><td> 13 </td><td> 13.43 Mbp </td><td> 8 </td><td> 24.91 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 19 </td><td style="background-color:#88ff88;"> 9.07 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 21.94 Mbp </td></tr>  <tr><td> 60 </td><td> 26 </td><td> 7.07 Mbp </td><td> 14 </td><td> 21.04 Mbp </td></tr>  <tr><td> 70 </td><td> 38 </td><td> 3.53 Mbp </td><td> 17 </td><td> 20.25 Mbp </td></tr>  <tr><td> 80 </td><td> 64 </td><td> 1.27 Mbp </td><td> 20 </td><td> 17.71 Mbp </td></tr>  <tr><td> 90 </td><td> 256 </td><td> 71.21 Kbp </td><td> 57 </td><td> 130.25 Kbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 21.05 Mbp </td><td> 1 </td><td> 28.82 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 18.16 Mbp </td><td> 4 </td><td> 26.55 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 14.48 Mbp </td><td> 6 </td><td> 25.71 Mbp </td></tr><tr><td> 40 </td><td> 13 </td><td> 13.43 Mbp </td><td> 8 </td><td> 24.91 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 19 </td><td style="background-color:#88ff88;"> 9.07 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 21.94 Mbp </td></tr><tr><td> 60 </td><td> 26 </td><td> 7.07 Mbp </td><td> 14 </td><td> 21.04 Mbp </td></tr><tr><td> 70 </td><td> 38 </td><td> 3.53 Mbp </td><td> 17 </td><td> 20.25 Mbp </td></tr><tr><td> 80 </td><td> 64 </td><td> 1.27 Mbp </td><td> 20 </td><td> 17.71 Mbp </td></tr><tr><td> 90 </td><td> 256 </td><td> 71.21 Kbp </td><td> 57 </td><td> 130.25 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.908x </th><th> 373 </th><th> 0.55 Gbp </th><th> 154 </th><th> 0.55 Gbp </th></tr>
   </tfoot>

@@ -11,7 +11,7 @@ data_pacbiohifi_bam-1_scale: 0.2582
 data_pacbiohifi_bam_bases: 17.05 Gbp
 data_pacbiohifi_bam_bytes: 61.5 GiB
 data_pacbiohifi_bam_coverage: 12.72x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em>'''
 genome_size: 1339860000
 genome_size_display: 1.34 Gbp
 genome_size_method: GoaT

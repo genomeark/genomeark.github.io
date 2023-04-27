@@ -1,9 +1,9 @@
 ---
 alt1date: 2019-06-21
 alt1filesize: 237.9 MiB
-alt1length: 819084930
-alt1n50ctg: 612296
-alt1n50scf: 612296
+alt1length: '819084930'
+alt1n50ctg: '612296'
+alt1n50scf: '612296'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Myripristis_murdjan/fMyrMur1/assembly_curated/fMyrMur1.alt.cur.20190621.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 28 </td><td> 2.17 Mbp </td><td> 28 </td><td> 2.19 Mbp </td></tr>  <tr><td> 20 </td><td> 75 </td><td> 1.38 Mbp </td><td> 74 </td><td> 1.39 Mbp </td></tr>  <tr><td> 30 </td><td> 144 </td><td> 1.03 Mbp </td><td> 143 </td><td> 1.03 Mbp </td></tr>  <tr><td> 40 </td><td> 236 </td><td> 0.79 Mbp </td><td> 235 </td><td> 0.79 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 353 </td><td> 0.61 Mbp </td><td> 352 </td><td> 0.61 Mbp </td></tr>  <tr><td> 60 </td><td> 506 </td><td> 487.33 Kbp </td><td> 505 </td><td> 487.33 Kbp </td></tr>  <tr><td> 70 </td><td> 691 </td><td> 394.59 Kbp </td><td> 690 </td><td> 394.59 Kbp </td></tr>  <tr><td> 80 </td><td> 930 </td><td> 291.95 Kbp </td><td> 929 </td><td> 292.76 Kbp </td></tr>  <tr><td> 90 </td><td> 1284 </td><td> 183.65 Kbp </td><td> 1282 </td><td> 183.83 Kbp </td></tr>  <tr><td> 100 </td><td> 2198 </td><td> 481  bp </td><td> 2192 </td><td> 810  bp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 28 </td><td> 2.17 Mbp </td><td> 28 </td><td> 2.19 Mbp </td></tr><tr><td> 20 </td><td> 75 </td><td> 1.38 Mbp </td><td> 74 </td><td> 1.39 Mbp </td></tr><tr><td> 30 </td><td> 144 </td><td> 1.03 Mbp </td><td> 143 </td><td> 1.03 Mbp </td></tr><tr><td> 40 </td><td> 236 </td><td> 0.79 Mbp </td><td> 235 </td><td> 0.79 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 353 </td><td> 0.61 Mbp </td><td> 352 </td><td> 0.61 Mbp </td></tr><tr><td> 60 </td><td> 506 </td><td> 487.33 Kbp </td><td> 505 </td><td> 487.33 Kbp </td></tr><tr><td> 70 </td><td> 691 </td><td> 394.59 Kbp </td><td> 690 </td><td> 394.59 Kbp </td></tr><tr><td> 80 </td><td> 930 </td><td> 291.95 Kbp </td><td> 929 </td><td> 292.76 Kbp </td></tr><tr><td> 90 </td><td> 1284 </td><td> 183.65 Kbp </td><td> 1282 </td><td> 183.83 Kbp </td></tr><tr><td> 100 </td><td> 2198 </td><td> 481  bp </td><td> 2192 </td><td> 810  bp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 2199 </th><th> 0.82 Gbp </th><th> 2193 </th><th> 0.82 Gbp </th></tr>
   </tfoot>
@@ -70,11 +70,13 @@ data_pacbio-1_scale: 0.5373
 data_pacbio_bases: 49.44 Gbp
 data_pacbio_bytes: 85.7 GiB
 data_pacbio_coverage: 59.19x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Arima</em>'''
 genbank_alt: fMyrMur1:GCA_902148815.1
 genbank_pri: fMyrMur1:GCA_902150065.1
 genome_size: 835254674
 genome_size_display: 0.84 Gbp
+genome_size_method: ''
 last_raw_data: 1556731081
 last_updated: 1561653213
 metadata: |
@@ -98,7 +100,7 @@ name: Myripristis murdjan
 name_: Myripristis_murdjan
 pri1date: 2019-06-21
 pri1filesize: 241.6 MiB
-pri1length: 835254674
+pri1length: '835254674'
 pri1n50ctg: 14475636
 pri1n50scf: 34950760
 pri1seq: https://s3.amazonaws.com/genomeark/species/Myripristis_murdjan/fMyrMur1/assembly_curated/fMyrMur1.pri.cur.20190621.fasta.gz
@@ -119,7 +121,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 27.28 Mbp </td><td> 1 </td><td> 42.40 Mbp </td></tr>  <tr><td> 20 </td><td> 6 </td><td> 24.31 Mbp </td><td> 3 </td><td> 39.21 Mbp </td></tr>  <tr><td> 30 </td><td> 9 </td><td> 20.03 Mbp </td><td> 6 </td><td> 36.53 Mbp </td></tr>  <tr><td> 40 </td><td> 14 </td><td> 17.27 Mbp </td><td> 8 </td><td> 35.81 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 19 </td><td style="background-color:#88ff88;"> 14.48 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 34.95 Mbp </td></tr>  <tr><td> 60 </td><td> 27 </td><td> 8.34 Mbp </td><td> 13 </td><td> 33.92 Mbp </td></tr>  <tr><td> 70 </td><td> 39 </td><td> 5.79 Mbp </td><td> 15 </td><td> 33.42 Mbp </td></tr>  <tr><td> 80 </td><td> 57 </td><td> 3.78 Mbp </td><td> 18 </td><td> 31.82 Mbp </td></tr>  <tr><td> 90 </td><td> 89 </td><td> 1.76 Mbp </td><td> 20 </td><td> 29.23 Mbp </td></tr>  <tr><td> 100 </td><td> 339 </td><td> 862  bp </td><td> 86 </td><td> 862  bp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 27.28 Mbp </td><td> 1 </td><td> 42.40 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 24.31 Mbp </td><td> 3 </td><td> 39.21 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 20.03 Mbp </td><td> 6 </td><td> 36.53 Mbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 17.27 Mbp </td><td> 8 </td><td> 35.81 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 19 </td><td style="background-color:#88ff88;"> 14.48 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 34.95 Mbp </td></tr><tr><td> 60 </td><td> 27 </td><td> 8.34 Mbp </td><td> 13 </td><td> 33.92 Mbp </td></tr><tr><td> 70 </td><td> 39 </td><td> 5.79 Mbp </td><td> 15 </td><td> 33.42 Mbp </td></tr><tr><td> 80 </td><td> 57 </td><td> 3.78 Mbp </td><td> 18 </td><td> 31.82 Mbp </td></tr><tr><td> 90 </td><td> 89 </td><td> 1.76 Mbp </td><td> 20 </td><td> 29.23 Mbp </td></tr><tr><td> 100 </td><td> 339 </td><td> 862  bp </td><td> 86 </td><td> 862  bp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 340 </th><th> 0.83 Gbp </th><th> 87 </th><th> 0.84 Gbp </th></tr>
   </tfoot>

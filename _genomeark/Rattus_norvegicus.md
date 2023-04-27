@@ -1,9 +1,9 @@
 ---
 alt1date: 2020-09-11
 alt1filesize: 83.8 MiB
-alt1length: 286931403
-alt1n50ctg: 100340
-alt1n50scf: 100349
+alt1length: '286931403'
+alt1n50ctg: '100340'
+alt1n50scf: '100349'
 alt1seq: https://s3.amazonaws.com/genomeark/species/Rattus_norvegicus/mRatNor1/assembly_curated/mRatNor1.alt.cur.20200911.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
@@ -22,7 +22,7 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 139 </td><td> 154.00 Kbp </td><td> 139 </td><td> 154.00 Kbp </td></tr>  <tr><td> 20 </td><td> 347 </td><td> 127.76 Kbp </td><td> 347 </td><td> 127.81 Kbp </td></tr>  <tr><td> 30 </td><td> 584 </td><td> 116.36 Kbp </td><td> 583 </td><td> 116.47 Kbp </td></tr>  <tr><td> 40 </td><td> 840 </td><td> 107.48 Kbp </td><td> 840 </td><td> 107.52 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 1117 </td><td> 100.34 Kbp </td><td> 1116 </td><td> 100.35 Kbp </td></tr>  <tr><td> 60 </td><td> 1413 </td><td> 93.70 Kbp </td><td> 1412 </td><td> 93.72 Kbp </td></tr>  <tr><td> 70 </td><td> 1731 </td><td> 86.65 Kbp </td><td> 1731 </td><td> 86.67 Kbp </td></tr>  <tr><td> 80 </td><td> 2081 </td><td> 77.16 Kbp </td><td> 2080 </td><td> 77.20 Kbp </td></tr>  <tr><td> 90 </td><td> 2485 </td><td> 64.17 Kbp </td><td> 2483 </td><td> 64.31 Kbp </td></tr>  <tr><td> 100 </td><td> 3161 </td><td> 1.53 Kbp </td><td> 3155 </td><td> 1.53 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 139 </td><td> 154.00 Kbp </td><td> 139 </td><td> 154.00 Kbp </td></tr><tr><td> 20 </td><td> 347 </td><td> 127.76 Kbp </td><td> 347 </td><td> 127.81 Kbp </td></tr><tr><td> 30 </td><td> 584 </td><td> 116.36 Kbp </td><td> 583 </td><td> 116.47 Kbp </td></tr><tr><td> 40 </td><td> 840 </td><td> 107.48 Kbp </td><td> 840 </td><td> 107.52 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1117 </td><td> 100.34 Kbp </td><td> 1116 </td><td> 100.35 Kbp </td></tr><tr><td> 60 </td><td> 1413 </td><td> 93.70 Kbp </td><td> 1412 </td><td> 93.72 Kbp </td></tr><tr><td> 70 </td><td> 1731 </td><td> 86.65 Kbp </td><td> 1731 </td><td> 86.67 Kbp </td></tr><tr><td> 80 </td><td> 2081 </td><td> 77.16 Kbp </td><td> 2080 </td><td> 77.20 Kbp </td></tr><tr><td> 90 </td><td> 2485 </td><td> 64.17 Kbp </td><td> 2483 </td><td> 64.31 Kbp </td></tr><tr><td> 100 </td><td> 3161 </td><td> 1.53 Kbp </td><td> 3155 </td><td> 1.53 Kbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 3162 </th><th> 286.93 Mbp </th><th> 3156 </th><th> 286.93 Mbp </th></tr>
   </tfoot>
@@ -70,9 +70,11 @@ data_pacbio-1_scale: 0.5284
 data_pacbio_bases: 266.64 Gbp
 data_pacbio_bytes: 470.0 GiB
 data_pacbio_coverage: 100.70x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Arima</em>'''
 genome_size: 2647899415
 genome_size_display: 2.65 Gbp
+genome_size_method: ''
 last_raw_data: 1580668926
 last_updated: 1608199961
 metadata: |
@@ -94,7 +96,7 @@ metadata: |
     project: [ vgp ]
 mito1date: 2019-12-04
 mito1filesize: 4.9 KiB
-mito1length: 16313
+mito1length: '16313'
 mito1n50ctg: 16313
 mito1n50scf: 16313
 mito1seq: https://s3.amazonaws.com/genomeark/species/Rattus_norvegicus/mRatNor1/assembly_MT_rockefeller/mRatNor1.MT.20191204.fasta.gz
@@ -115,7 +117,7 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr>  <tr><td> 20 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr>  <tr><td> 30 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr>  <tr><td> 40 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;"> 16.31 Kbp </td><td> 0 </td><td style="background-color:#ff8888;"> 16.31 Kbp </td></tr>  <tr><td> 60 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr>  <tr><td> 70 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr>  <tr><td> 80 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr>  <tr><td> 90 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr>  <tr><td> 100 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr><tr><td> 20 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr><tr><td> 30 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr><tr><td> 40 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;"> 16.31 Kbp </td><td> 0 </td><td style="background-color:#ff8888;"> 16.31 Kbp </td></tr><tr><td> 60 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td> 16.31 Kbp </td><td> 0 </td><td> 16.31 Kbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 1 </th><th> 16.31 Kbp </th><th> 1 </th><th> 16.31 Kbp </th></tr>
   </tfoot>
@@ -125,7 +127,7 @@ name: Rattus norvegicus
 name_: Rattus_norvegicus
 pri1date: 2020-09-11
 pri1filesize: 770.4 MiB
-pri1length: 2647899415
+pri1length: '2647899415'
 pri1n50ctg: 29198295
 pri1n50scf: 135012528
 pri1seq: https://s3.amazonaws.com/genomeark/species/Rattus_norvegicus/mRatNor1/assembly_curated/mRatNor1.pri.cur.20200911.fasta.gz
@@ -146,7 +148,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 66.39 Mbp </td><td> 1 </td><td> 249.05 Mbp </td></tr>  <tr><td> 20 </td><td> 7 </td><td> 60.87 Mbp </td><td> 2 </td><td> 182.69 Mbp </td></tr>  <tr><td> 30 </td><td> 12 </td><td> 47.25 Mbp </td><td> 3 </td><td> 169.03 Mbp </td></tr>  <tr><td> 40 </td><td> 17 </td><td> 39.90 Mbp </td><td> 5 </td><td> 152.45 Mbp </td></tr>  <tr style="background-color:#cccccc;"><td> 50 </td><td> 26 </td><td style="background-color:#88ff88;"> 29.20 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 135.01 Mbp </td></tr>  <tr><td> 60 </td><td> 35 </td><td> 23.71 Mbp </td><td> 9 </td><td> 114.18 Mbp </td></tr>  <tr><td> 70 </td><td> 49 </td><td> 16.15 Mbp </td><td> 11 </td><td> 106.81 Mbp </td></tr>  <tr><td> 80 </td><td> 71 </td><td> 9.60 Mbp </td><td> 14 </td><td> 86.53 Mbp </td></tr>  <tr><td> 90 </td><td> 114 </td><td> 3.78 Mbp </td><td> 17 </td><td> 83.83 Mbp </td></tr>  <tr><td> 100 </td><td> 755 </td><td> 136  bp </td><td> 174 </td><td> 746  bp </td></tr>  </tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 66.39 Mbp </td><td> 1 </td><td> 249.05 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 60.87 Mbp </td><td> 2 </td><td> 182.69 Mbp </td></tr><tr><td> 30 </td><td> 12 </td><td> 47.25 Mbp </td><td> 3 </td><td> 169.03 Mbp </td></tr><tr><td> 40 </td><td> 17 </td><td> 39.90 Mbp </td><td> 5 </td><td> 152.45 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 26 </td><td style="background-color:#88ff88;"> 29.20 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 135.01 Mbp </td></tr><tr><td> 60 </td><td> 35 </td><td> 23.71 Mbp </td><td> 9 </td><td> 114.18 Mbp </td></tr><tr><td> 70 </td><td> 49 </td><td> 16.15 Mbp </td><td> 11 </td><td> 106.81 Mbp </td></tr><tr><td> 80 </td><td> 71 </td><td> 9.60 Mbp </td><td> 14 </td><td> 86.53 Mbp </td></tr><tr><td> 90 </td><td> 114 </td><td> 3.78 Mbp </td><td> 17 </td><td> 83.83 Mbp </td></tr><tr><td> 100 </td><td> 755 </td><td> 136  bp </td><td> 174 </td><td> 746  bp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 756 </th><th> 2.63 Gbp </th><th> 175 </th><th> 2.65 Gbp </th></tr>
   </tfoot>

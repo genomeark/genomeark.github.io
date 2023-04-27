@@ -1,5 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
+common_name: ''
 data_dovetail-1_bases: 1258.79 Gbp
 data_dovetail-1_bytes: 647.5 GiB
 data_dovetail-1_coverage: N/A
@@ -67,11 +68,15 @@ data_pacbiohifi_fqgz-1_scale: 1.4085
 data_pacbiohifi_fqgz_bases: 217.73 Gbp
 data_pacbiohifi_fqgz_bytes: 144.0 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>
+  ::: <em style="color:forestgreen">Illumina</em>'''
 genome_size: 0
+genome_size_display: ''
+genome_size_method: ''
 last_raw_data: 1680688097
 last_updated: 1680688097
 name: Dendrobates auratus
 name_: Dendrobates_auratus
 short_name: aDenAur
+taxon_id: ''
 ---
