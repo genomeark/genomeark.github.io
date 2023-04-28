@@ -4,11 +4,6 @@ title: Genomeark Data Preparation
 published: true
 ---
 
-<!--
-NOTE: For testing, set `published:` to `true`. Leave it set to `false` when
-      committing changes until we're ready to launch this page.
--->
-
 This is a **DRAFT**. Please send comments to `#data-coord` on Slack.
 
 # Genomeark Data Preparation
@@ -167,6 +162,7 @@ species:
         taxon_id: ######                # <-- only needed if applicable
   genome_size: ###########
   genome_size_method: method
+  project: [ project1, project2, etc. ]
 ```
 
 Note that the `genome_size` must be an integer. Suffixes (e.g., K, Mb, etc.) are
@@ -260,6 +256,7 @@ species:
       birth_date: date
   genome_size: ###########
   genome_size_method: null
+  project: [ project1, project2, etc. ]
 ```
 
 ## Write access to the AWS S3 Bucket
@@ -360,10 +357,13 @@ These steps outline the data preparation and upload process:
      - fCarIgn1_seq_data
      - stonefly_HiFi-ONT
      - JHU-Maize-Verkko-asm
-3. Use `aws s3 sync` to mirror the local directory onto the S3 bucket in a
+3. Use `aws s3 sync` to mirror the local directory onto the S3 bucket in the
    aforementioned directory (named using the UUID and descriptive name). The
    destination S3-URI will be:
    `s3://genomeark-upload/incoming/1234--T2T-Hippogriff_Upload/`.
+4. Notify us that your data is ready. We will move your data to the primary
+   bucket. Note, this means that the copy you uploaded will no longer exist in
+   the `genomeark-upload` bucket.
 
 Please see this
 [Easy Step-by-Step Guide](stepwise-guide.html).

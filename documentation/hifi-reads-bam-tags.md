@@ -4,11 +4,6 @@ title: HiFi Reads BAM tags
 published: true
 ---
 
-<!--
-NOTE: For testing, set `published:` to `true`. Leave it set to `false` when
-      committing changes until we're ready to launch this page.
--->
-
 This is a **DRAFT**. Please send comments to `#data-coord` on Slack.
 
 # HiFi Reads BAM tags

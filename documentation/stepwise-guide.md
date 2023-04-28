@@ -4,11 +4,6 @@ title: Genomeark Data Upload &ndash; Step-by-Step Guide
 published: true
 ---
 
-<!--
-NOTE: For testing, set `published:` to `true`. Leave it set to `false` when
-      committing changes until we're ready to launch this page.
--->
-
 This is a **DRAFT**. Please send comments to `#data-coord` on Slack.
 
 # Easy, Step-by-Step Data Upload Guide
@@ -221,4 +216,10 @@ GitHub repository.
 
 aws --profile=genomeark s3 sync ./ s3://genomeark-upload/incoming/${UUID}--${NAME}/
 ```
+
+## Step 4 &ndash; Transfer to Primary Bucket {#step-4}
+
+When you&rsquo;re ready, notify us. We&rsquo;ll copy your data to the primary
+`genomeark` bucket, removing your copy from the temporary space in the
+`genomeark-upload` bucket.
 
