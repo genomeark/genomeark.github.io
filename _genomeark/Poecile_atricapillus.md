@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 129.52 Gbp
 data_arima-1_bytes: 62.1 GiB
@@ -35,12 +35,12 @@ data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="co
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2022-08-21
-hpa1filesize: 309.2 MiB
-hpa1length: '1114057309'
-hpa1n50ctg: 8782035
-hpa1n50scf: 66603819
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap1.20220821.fasta.gz
+hpa1date: 2023-04-28
+hpa1filesize: 349.6 MiB
+hpa1length: '1251116877'
+hpa1n50ctg: 8462732
+hpa1n50scf: 107919339
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_curated/bPoeAtr1.hap1.cur.20230428.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -58,18 +58,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 25.22 Mbp </td><td> 0 </td><td> 181.57 Mbp </td></tr><tr><td> 20 </td><td> 9 </td><td> 17.02 Mbp </td><td> 1 </td><td> 153.73 Mbp </td></tr><tr><td> 30 </td><td> 16 </td><td> 13.13 Mbp </td><td> 1 </td><td> 153.73 Mbp </td></tr><tr><td> 40 </td><td> 25 </td><td> 10.89 Mbp </td><td> 2 </td><td> 116.92 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 37 </td><td style="background-color:#88ff88;"> 8.78 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 66.60 Mbp </td></tr><tr><td> 60 </td><td> 52 </td><td> 6.33 Mbp </td><td> 6 </td><td> 38.69 Mbp </td></tr><tr><td> 70 </td><td> 72 </td><td> 4.55 Mbp </td><td> 10 </td><td> 24.50 Mbp </td></tr><tr><td> 80 </td><td> 104 </td><td> 2.75 Mbp </td><td> 15 </td><td> 17.25 Mbp </td></tr><tr><td> 90 </td><td> 157 </td><td> 1.45 Mbp </td><td> 25 </td><td> 7.33 Mbp </td></tr><tr><td> 100 </td><td> 713 </td><td> 1.00 Kbp </td><td> 436 </td><td> 1.00 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 5 </td><td> 25.00 Mbp </td><td> 1 </td><td> 181.57 Mbp </td></tr><tr><td> 20 </td><td> 11 </td><td> 17.02 Mbp </td><td> 2 </td><td> 154.67 Mbp </td></tr><tr><td> 30 </td><td> 19 </td><td> 13.13 Mbp </td><td> 3 </td><td> 146.58 Mbp </td></tr><tr><td> 40 </td><td> 30 </td><td> 10.32 Mbp </td><td> 4 </td><td> 116.92 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 44 </td><td style="background-color:#88ff88;"> 8.46 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 107.92 Mbp </td></tr><tr><td> 60 </td><td> 62 </td><td> 6.17 Mbp </td><td> 6 </td><td> 76.76 Mbp </td></tr><tr><td> 70 </td><td> 85 </td><td> 4.26 Mbp </td><td> 9 </td><td> 34.40 Mbp </td></tr><tr><td> 80 </td><td> 122 </td><td> 2.69 Mbp </td><td> 14 </td><td> 20.47 Mbp </td></tr><tr><td> 90 </td><td> 182 </td><td> 1.54 Mbp </td><td> 22 </td><td> 11.24 Mbp </td></tr><tr><td> 100 </td><td> 708 </td><td> 1.00 Kbp </td><td> 306 </td><td> 1.00 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 714 </th><th> 1.11 Gbp </th><th> 437 </th><th> 1.11 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 708 </th><th> 1.25 Gbp </th><th> 306 </th><th> 1.25 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2022-08-21
-hpb1filesize: 317.1 MiB
-hpb1length: '1139007065'
-hpb1n50ctg: 7627662
-hpb1n50scf: 116828732
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap2.20220821.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2023-04-28
+hpb1filesize: 276.7 MiB
+hpb1length: '988092552'
+hpb1n50ctg: 8008306
+hpb1n50scf: 75865069
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_curated/bPoeAtr1.hap2.cur.20230428.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -87,14 +87,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 4 </td><td> 19.33 Mbp </td><td> 0 </td><td> 180.92 Mbp </td></tr><tr><td> 20 </td><td> 10 </td><td> 15.96 Mbp </td><td> 1 </td><td> 154.05 Mbp </td></tr><tr><td> 30 </td><td> 19 </td><td> 11.77 Mbp </td><td> 2 </td><td> 146.22 Mbp </td></tr><tr><td> 40 </td><td> 30 </td><td> 9.09 Mbp </td><td> 2 </td><td> 146.22 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 43 </td><td style="background-color:#88ff88;"> 7.63 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 116.83 Mbp </td></tr><tr><td> 60 </td><td> 60 </td><td> 5.83 Mbp </td><td> 5 </td><td> 37.92 Mbp </td></tr><tr><td> 70 </td><td> 83 </td><td> 4.29 Mbp </td><td> 8 </td><td> 27.97 Mbp </td></tr><tr><td> 80 </td><td> 115 </td><td> 2.89 Mbp </td><td> 13 </td><td> 18.73 Mbp </td></tr><tr><td> 90 </td><td> 164 </td><td> 1.77 Mbp </td><td> 21 </td><td> 10.70 Mbp </td></tr><tr><td> 100 </td><td> 390 </td><td> 3.00 Kbp </td><td> 136 </td><td> 3.00 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 19.33 Mbp </td><td> 1 </td><td> 180.92 Mbp </td></tr><tr><td> 20 </td><td> 10 </td><td> 15.96 Mbp </td><td> 2 </td><td> 154.83 Mbp </td></tr><tr><td> 30 </td><td> 17 </td><td> 11.95 Mbp </td><td> 2 </td><td> 154.83 Mbp </td></tr><tr><td> 40 </td><td> 26 </td><td> 9.73 Mbp </td><td> 3 </td><td> 117.24 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 38 </td><td style="background-color:#88ff88;"> 8.01 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 75.87 Mbp </td></tr><tr><td> 60 </td><td> 53 </td><td> 5.83 Mbp </td><td> 6 </td><td> 37.92 Mbp </td></tr><tr><td> 70 </td><td> 72 </td><td> 4.49 Mbp </td><td> 9 </td><td> 24.31 Mbp </td></tr><tr><td> 80 </td><td> 99 </td><td> 2.96 Mbp </td><td> 14 </td><td> 17.70 Mbp </td></tr><tr><td> 90 </td><td> 141 </td><td> 1.84 Mbp </td><td> 22 </td><td> 8.54 Mbp </td></tr><tr><td> 100 </td><td> 398 </td><td> 3.00 Kbp </td><td> 158 </td><td> 3.00 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 391 </th><th> 1.13 Gbp </th><th> 137 </th><th> 1.14 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 398 </th><th> 0.99 Gbp </th><th> 158 </th><th> 0.99 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1659459029
-last_updated: 1675283832
+last_updated: 1682666343
 mds:
 - data: "species: Poecile atricapillus\nspecimen: bPoeAtr1\nprojects: \n  - vgp\nhaplotype_to_curate:
     hap1\nhap1: s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap1.20220821.fasta.gz\nhap2:
@@ -111,7 +111,7 @@ mds:
     The HiC prep was Arima kit 2. The kmer spectra indicates a heterogametic specimen,
     so we are submitting both haplotypes as tickets, in case the sex chromosomes need
     to be fished out between the haplotypes. This is the curation ticket for hap1."
-  ident: md2
+  ident: md8
   title: assembly_vgp_HiC_2.0/bPoeAtr1_hap1.yml
 - data: "species: Poecile atricapillus\nspecimen: bPoeAtr1\nprojects: \n  - vgp\nhaplotype_to_curate:
     hap2\nhap1: s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap1.20220821.fasta.gz\nhap2:
@@ -128,7 +128,7 @@ mds:
     The HiC prep was Arima kit 2. The kmer spectra indicates a heterogametic specimen,
     so we are submitting both haplotypes as tickets, in case the sex chromosomes need
     to be fished out between the haplotypes. This is the curation ticket for hap2."
-  ident: md3
+  ident: md9
   title: assembly_vgp_HiC_2.0/bPoeAtr1_hap2.yml
 name: Poecile atricapillus
 name_: Poecile_atricapillus
