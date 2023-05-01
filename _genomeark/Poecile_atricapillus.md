@@ -64,12 +64,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2023-04-28
+hpb1date: 2023-04-29
 hpb1filesize: 276.7 MiB
 hpb1length: '988092552'
 hpb1n50ctg: 8008306
 hpb1n50scf: 75865069
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_curated/bPoeAtr1.hap2.cur.20230428.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_curated/bPoeAtr1.hap2.cur.20230429.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -94,7 +94,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1659459029
-last_updated: 1682666343
+last_updated: 1682745935
 mds:
 - data: "species: Poecile atricapillus\nspecimen: bPoeAtr1\nprojects: \n  - vgp\nhaplotype_to_curate:
     hap1\nhap1: s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap1.20220821.fasta.gz\nhap2:
@@ -111,7 +111,7 @@ mds:
     The HiC prep was Arima kit 2. The kmer spectra indicates a heterogametic specimen,
     so we are submitting both haplotypes as tickets, in case the sex chromosomes need
     to be fished out between the haplotypes. This is the curation ticket for hap1."
-  ident: md8
+  ident: md11
   title: assembly_vgp_HiC_2.0/bPoeAtr1_hap1.yml
 - data: "species: Poecile atricapillus\nspecimen: bPoeAtr1\nprojects: \n  - vgp\nhaplotype_to_curate:
     hap2\nhap1: s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap1.20220821.fasta.gz\nhap2:
@@ -128,7 +128,7 @@ mds:
     The HiC prep was Arima kit 2. The kmer spectra indicates a heterogametic specimen,
     so we are submitting both haplotypes as tickets, in case the sex chromosomes need
     to be fished out between the haplotypes. This is the curation ticket for hap2."
-  ident: md9
+  ident: md12
   title: assembly_vgp_HiC_2.0/bPoeAtr1_hap2.yml
 name: Poecile atricapillus
 name_: Poecile_atricapillus
