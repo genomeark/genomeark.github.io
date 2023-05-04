@@ -71,6 +71,10 @@ data_pacbiohifi_fqgz_bases: 113.63 Gbp
 data_pacbiohifi_fqgz_bytes: 87.8 GiB
 data_pacbiohifi_fqgz_coverage: 33.65x
 data_status: '''<em style="color:forestgreen">PacBio HiFi</em>'''
+data_use_source: from-default
+data_use_text: Samples and data come from a variety of sources. To support fair and
+  productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
+  Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: mMesDen1:GCA_025094165.1
 genbank_pri: mMesDen1:GCA_025265405.1
 genome_size: 3377000000

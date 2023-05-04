@@ -52,6 +52,10 @@ data_pacbiohifi_fqgz_bases: 84.30 Gbp
 data_pacbiohifi_fqgz_bytes: 68.5 GiB
 data_pacbiohifi_fqgz_coverage: 30.11x
 data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'''
+data_use_source: from-default
+data_use_text: Samples and data come from a variety of sources. To support fair and
+  productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
+  Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genome_size: 2800000000
 genome_size_display: 2.80 Gbp
 genome_size_method: GoaT ancestral inferred

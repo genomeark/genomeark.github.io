@@ -38,6 +38,10 @@ data_pacbiohifi_fqgz_bases: 54.58 Gbp
 data_pacbiohifi_fqgz_bytes: 41.6 GiB
 data_pacbiohifi_fqgz_coverage: 46.33x
 data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
+data_use_source: from-default
+data_use_text: Samples and data come from a variety of sources. To support fair and
+  productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
+  Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: bPasSan1:GCA_022578375.1
 genbank_pri: bPasSan1:GCA_022577445.1
 genome_size: 1178000000

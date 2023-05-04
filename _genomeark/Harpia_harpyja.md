@@ -71,6 +71,10 @@ data_pacbiohifi_clr_bases: 609.84 Gbp
 data_pacbiohifi_clr_bytes: 1.1 TiB
 data_pacbiohifi_clr_coverage: 508.20x
 data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
+data_use_source: from-default
+data_use_text: Samples and data come from a variety of sources. To support fair and
+  productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
+  Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: bHarHar1:GCA_026419925.1
 genbank_pri: bHarHar1:GCA_026419915.1
 genome_size: 1200000000

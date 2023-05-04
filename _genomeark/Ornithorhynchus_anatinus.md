@@ -82,6 +82,10 @@ data_phase_bytes: 61.2 GiB
 data_phase_coverage: 48.43x
 data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
   ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Phase</em>'''
+data_use_source: from-default
+data_use_text: Samples and data come from a variety of sources. To support fair and
+  productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
+  Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: mOrnAna1:GCA_004115175.2
 genbank_pri: mOrnAna1:GCA_004115215.4
 genome_size: 2128226567

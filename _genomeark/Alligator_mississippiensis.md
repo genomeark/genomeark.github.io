@@ -32,6 +32,10 @@ data_pacbiohifi_fqgz_bases: 80.14 Gbp
 data_pacbiohifi_fqgz_bytes: 62.9 GiB
 data_pacbiohifi_fqgz_coverage: 31.82x
 data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
+data_use_source: from-default
+data_use_text: Samples and data come from a variety of sources. To support fair and
+  productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
+  Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genome_size: 2518000000
 genome_size_display: 2.52 Gbp
 genome_size_method: GoAT

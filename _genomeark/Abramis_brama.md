@@ -12,6 +12,10 @@ data_arima_bases: 139.91 Gbp
 data_arima_bytes: 40.5 GiB
 data_arima_coverage: 110.05x
 data_status: '''<em style="color:forestgreen">Arima</em>'''
+data_use_source: from-default
+data_use_text: Samples and data come from a variety of sources. To support fair and
+  productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
+  Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genome_size: 1271400000
 genome_size_display: 1.27 Gbp
 genome_size_method: GoaT

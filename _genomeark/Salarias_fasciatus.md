@@ -72,6 +72,10 @@ data_pacbio_bytes: 113.8 GiB
 data_pacbio_coverage: 81.95x
 data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
   ::: <em style="color:forestgreen">Dovetail</em>'''
+data_use_source: from-default
+data_use_text: Samples and data come from a variety of sources. To support fair and
+  productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
+  Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: fSalaFa1:GCA_902148835.1
 genbank_pri: fSalaFa1:GCA_902148845.1
 genome_size: 797490645

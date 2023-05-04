@@ -233,6 +233,10 @@ data_pacbiohifi_q2fqgz_coverage: 0.00x
 data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
   HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em>
   ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'''
+data_use_source: from-default
+data_use_text: Samples and data come from a variety of sources. To support fair and
+  productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
+  Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: bGalGal4:GCA_027408255.1 bGalGal5:GCA_027408205.1
 genbank_mat: bGalGal1:GCA_016699485.1
 genbank_pat: bGalGal1:GCA_016700215.2

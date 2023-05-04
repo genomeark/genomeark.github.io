@@ -72,6 +72,10 @@ data_pacbio_bytes: 591.9 GiB
 data_pacbio_coverage: 115.21x
 data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
   ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'''
+data_use_source: from-default
+data_use_text: Samples and data come from a variety of sources. To support fair and
+  productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
+  Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: mEreDor1:GCA_028500835.1
 genbank_pri: mEreDor1:GCA_028451465.1
 genome_size: 2900000000

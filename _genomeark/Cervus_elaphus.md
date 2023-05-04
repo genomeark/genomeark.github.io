@@ -62,6 +62,10 @@ data_pacbiohifi_bam_bytes: 82.4 GiB
 data_pacbiohifi_bam_coverage: 33.33x
 data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em>
   ::: <em style="color:forestgreen">Arima</em>'''
+data_use_source: from-default
+data_use_text: Samples and data come from a variety of sources. To support fair and
+  productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
+  Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: mCerEla1:GCA_910593805.1
 genbank_pri: mCerEla1:GCA_910594005.1
 genome_size: 2886619877

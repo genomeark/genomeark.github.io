@@ -61,6 +61,10 @@ data_pacbiohifi_fqgz_bases: 25.96 Gbp
 data_pacbiohifi_fqgz_bytes: 21.4 GiB
 data_pacbiohifi_fqgz_coverage: 39.95x
 data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
+data_use_source: from-default
+data_use_text: Samples and data come from a variety of sources. To support fair and
+  productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
+  Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_pri: fLycPai1:GCA_028021495.1 fLycPai1:GCA_028022725.1
 genome_size: 649712992
 genome_size_display: 0.65 Gbp
