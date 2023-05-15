@@ -90,7 +90,71 @@ hpb2sizes: |
   </table>
 hpb2version: assembly_vgp_HiC_2.0
 last_raw_data: 1678817159
-last_updated: 1683145800
+last_updated: 1683232574
+mds:
+- data: "species: Thomomys bottae\nspecimen: mThoBot2\nprojects: \n  - vgp\ndata_location:
+    S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/mThoBot2.HiC.hap1.20230503.fasta.gz\nhap2:
+    s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/mThoBot2.HiC.hap2.20230503.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mThoBot2_hap1__s2_heatmap.pretext\npretext_hap2:
+    s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mThoBot2_hap2__s2_heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/evaluation/merqury_postpurge/mThoBot2_png/\nmito:
+    s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_MT_rockefeller/mThoBot2.MT.20230504.fasta.gz\nmito_gb:
+    s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_MT_rockefeller/mThoBot2.MT.20230504.gb\npacbio_read_dir:
+    s3://genomeark/species/Thomomys_bottae/mThoBot2/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Thomomys_bottae/mThoBot2/genomic_data/arima/\npipeline:\n
+    \ - hifiasm (0.19.3+galaxy0)\n  - purge_dups (1.2.6+galaxy0)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group:
+    Rockefeller\nnotes: This was a hifiasm-HiC assembly of mThoBot2, resulting in
+    two complete haplotypes. This individual did not have bionano data. HiC scaffolding
+    was performed with yahs. The HiC prep was Arima kit 2. I am submitting both hap1
+    & hap2 for dual curation. This is the curation ticket for hap1. "
+  ident: md4
+  title: assembly_vgp_HiC_2.0/mThoBot2_hap1.yml
+- data: "species: Thomomys bottae\nspecimen: mThoBot2\nprojects: \n  - vgp\ndata_location:
+    S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/mThoBot2.HiC.hap1.20230503.fasta.gz\nhap2:
+    s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/mThoBot2.HiC.hap2.20230503.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mThoBot2_hap1__s2_heatmap.pretext\npretext_hap2:
+    s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mThoBot2_hap2__s2_heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/evaluation/merqury_postpurge/mThoBot2_png/\nmito:
+    s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_MT_rockefeller/mThoBot2.MT.20230504.fasta.gz\nmito_gb:
+    s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_MT_rockefeller/mThoBot2.MT.20230504.gb\npacbio_read_dir:
+    s3://genomeark/species/Thomomys_bottae/mThoBot2/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Thomomys_bottae/mThoBot2/genomic_data/arima/\npipeline:\n
+    \ - hifiasm (0.19.3+galaxy0)\n  - purge_dups (1.2.6+galaxy0)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group:
+    Rockefeller\nnotes: This was a hifiasm-HiC assembly of mThoBot2, resulting in
+    two complete haplotypes. This individual did not have bionano data. HiC scaffolding
+    was performed with yahs. The HiC prep was Arima kit 2. I am submitting both hap1
+    & hap2 for dual curation. This is the curation ticket for hap2. "
+  ident: md5
+  title: assembly_vgp_HiC_2.0/mThoBot2_hap2.yml
+mito2date: 2023-05-04
+mito2filesize: 5.4 KiB
+mito2length: '17079'
+mito2n50ctg: 17079
+mito2n50scf: 17079
+mito2seq: https://s3.amazonaws.com/genomeark/species/Thomomys_bottae/mThoBot2/assembly_MT_rockefeller/mThoBot2.MT.20230504.fasta.gz
+mito2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 17.08 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 17.08 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 17.08 Kbp </th><th> 1 </th><th> 17.08 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito2version: assembly_MT_rockefeller
 name: Thomomys bottae
 name_: Thomomys_bottae
 short_name: mThoBot
