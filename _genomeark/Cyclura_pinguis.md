@@ -98,7 +98,25 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1674509652
-last_updated: 1683050649
+last_updated: 1684852873
+mds:
+- data: "species: Cyclura pinguis\nspecimen: rCycPin1\nprojects: \n  - vgp\ndata_location:
+    S3\nrelease_to: S3\nhap1: s3://genomeark/species/Cyclura_pinguis/rCycPin1/assembly_vgp_HiC_2.0/rCycPin1.HiC.hap1.20230321.fasta.gz\nhap2:
+    s3://genomeark/species/Cyclura_pinguis/rCycPin1/assembly_vgp_HiC_2.0/rCycPin1.HiC.hap2.20230321.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Cyclura_pinguis/rCycPin1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rCycPin1_hap1__s1_heatmap.pretext\npretext_hap2:
+    s3://genomeark/species/Cyclura_pinguis/rCycPin1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rCycPin1_hap2__s1_heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Cyclura_pinguis/rCycPin1/assembly_vgp_HiC_2.0/evaluation/merqury/rCycPin1_png/\nmito:
+    s3://genomeark/species/Cyclura_pinguis/rCycPin1/assembly_MT_rockefeller/rCycPin1.MT.20230210.fasta.gz\npacbio_read_dir:
+    s3://genomeark/species/Cyclura_pinguis/rCycPin1/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Cyclura_pinguis/rCycPin1/genomic_data/dovetail/\nbionano_cmap_dir:
+    s3://genomeark/species/Cyclura_pinguis/rCycPin1/genomic_data/bionano/\npipeline:\n
+    \ - hifiasm (0.16.1+galaxy4)\n  - solve (3.7)\nassembled_by_group: Rockefeller\nnotes:
+    This was a hifiasm-HiC assembly of rCycPin1, resulting in two complete haplotypes.
+    This individual had bionano data. HiC scaffolding was not performed, as when it
+    was attempted, it resulted in no new joins. So these assemblies have only Bionano
+    scaffolding. The kmer spectra indicates a homogametic specimen. \n\n"
+  ident: md6
+  title: assembly_vgp_HiC_2.0/rCycPin1.yml
 mito1date: 2023-02-10
 mito1filesize: 5.3 KiB
 mito1length: '16631'

@@ -68,12 +68,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2023-04-27
+hpb1date: 2023-05-27
 hpb1filesize: 1.0 GiB
 hpb1length: '3567999469'
 hpb1n50ctg: 5141995
 hpb1n50scf: 88056198
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Dasypus_novemcinctus/mDasNov1/assembly_curated/mDasNov1.hap2.cur.20230427.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Dasypus_novemcinctus/mDasNov1/assembly_curated/mDasNov1.hap2.cur.20230527.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -98,7 +98,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1651006024
-last_updated: 1682554023
+last_updated: 1685146203
 mds:
 - data: "species: Dasypus novemcinctus\nspecimen: mDasNov1\nprojects: \n  - vgp\nhap1:
     s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/assembly_vgp_HiC_2.0/evaluation/mDasNov1.HiC.hap1.20221115.fasta.gz\nhap2:
@@ -115,7 +115,7 @@ mds:
     consistent with sample metadata that this is a male. Because the sex chromosomes
     are split between the two haplotypes, we are including the file paths for both
     haplotypes in this single ticket. This assembly was done by Simona Secomandi."
-  ident: md9
+  ident: md12
   title: assembly_vgp_HiC_2.0/mDasNov1.yaml
 metadata: |
   species:

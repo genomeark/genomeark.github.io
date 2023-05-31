@@ -30,7 +30,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1683734334
-last_updated: 1683734334
+last_updated: 1684161938
 name: Anelosimus studiosus
 name_: Anelosimus_studiosus
 short_name: qqAneStud

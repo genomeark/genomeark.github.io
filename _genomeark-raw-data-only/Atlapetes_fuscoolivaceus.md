@@ -1,0 +1,1 @@
+../_genomeark/Atlapetes_fuscoolivaceus.md
