@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
 data_arima-1_bases: 300.42 Gbp
 data_arima-1_bytes: 141.8 GiB
@@ -29,8 +29,130 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
+hpa1date: 2023-06-06
+hpa1filesize: 857.0 MiB
+hpa1length: '3254220941'
+hpa1n50ctg: 4853838
+hpa1n50scf: 66547297
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/sHepPer1.HiC.hap1.20230606.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 13 </td><td> 19.01 Mbp </td><td> 2 </td><td> 172.36 Mbp </td></tr><tr><td> 20 </td><td> 36 </td><td> 12.24 Mbp </td><td> 4 </td><td> 141.86 Mbp </td></tr><tr><td> 30 </td><td> 67 </td><td> 9.20 Mbp </td><td> 7 </td><td> 98.67 Mbp </td></tr><tr><td> 40 </td><td> 106 </td><td> 7.42 Mbp </td><td> 11 </td><td> 83.46 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 161 </td><td style="background-color:#88ff88;"> 4.85 Mbp </td><td> 15 </td><td style="background-color:#88ff88;"> 66.55 Mbp </td></tr><tr><td> 60 </td><td> 242 </td><td> 3.33 Mbp </td><td> 21 </td><td> 50.61 Mbp </td></tr><tr><td> 70 </td><td> 361 </td><td> 2.26 Mbp </td><td> 28 </td><td> 40.46 Mbp </td></tr><tr><td> 80 </td><td> 551 </td><td> 1.28 Mbp </td><td> 38 </td><td> 20.26 Mbp </td></tr><tr><td> 90 </td><td> 967 </td><td> 469.84 Kbp </td><td> 90 </td><td> 2.43 Mbp </td></tr><tr><td> 100 </td><td> 3737 </td><td> 6.69 Kbp </td><td> 1941 </td><td> 6.69 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 3737 </th><th> 3.25 Gbp </th><th> 1941 </th><th> 3.25 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2023-06-06
+hpb1filesize: 823.3 MiB
+hpb1length: '3060592654'
+hpb1n50ctg: 5562131
+hpb1n50scf: 66158240
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/sHepPer1.HiC.hap2.20230606.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 14 </td><td> 17.41 Mbp </td><td> 2 </td><td> 172.44 Mbp </td></tr><tr><td> 20 </td><td> 33 </td><td> 13.55 Mbp </td><td> 4 </td><td> 138.48 Mbp </td></tr><tr><td> 30 </td><td> 59 </td><td> 10.46 Mbp </td><td> 7 </td><td> 97.58 Mbp </td></tr><tr><td> 40 </td><td> 93 </td><td> 7.67 Mbp </td><td> 10 </td><td> 86.89 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 140 </td><td style="background-color:#88ff88;"> 5.56 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 66.16 Mbp </td></tr><tr><td> 60 </td><td> 205 </td><td> 3.74 Mbp </td><td> 19 </td><td> 52.49 Mbp </td></tr><tr><td> 70 </td><td> 306 </td><td> 2.41 Mbp </td><td> 25 </td><td> 45.03 Mbp </td></tr><tr><td> 80 </td><td> 471 </td><td> 1.42 Mbp </td><td> 33 </td><td> 32.24 Mbp </td></tr><tr><td> 90 </td><td> 831 </td><td> 0.51 Mbp </td><td> 50 </td><td> 8.75 Mbp </td></tr><tr><td> 100 </td><td> 2922 </td><td> 9.87 Kbp </td><td> 1227 </td><td> 9.87 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 2922 </th><th> 3.06 Gbp </th><th> 1227 </th><th> 3.06 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1682520778
-last_updated: 1682520778
+last_updated: 1686173663
+mds:
+- data: "species: Heptranchias perlo\nspecimen: sHepPer1\nprojects: \n  - vgp\ndata_location:
+    S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/sHepPer1.HiC.hap1.20230606.fasta.gz\nhap2:
+    s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/sHepPer1.HiC.hap2.20230606.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/sHepPer1_hap1__s2_heatmap.pretext\npretext_hap2:
+    s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/sHepPer1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/evaluation/merqury/sHepPer1_png/\nmito:
+    s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_MT_rockefeller/sHepPer1.MT.20230607.fasta.gz\npacbio_read_dir:
+    s3://genomeark/species/Heptranchias_perlo/sHepPer1/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Heptranchias_perlo/sHepPer1/genomic_data/arima/\npipeline:\n
+    \ - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group: Rockefeller\nnotes:
+    This was a hifiasm-HiC assembly of sHepPer1, resulting in two complete haplotypes.
+    This individual did have bionano data. HiC scaffolding was performed with yahs.
+    The HiC prep was Arima kit 2. The kmer spectra indicate a homogametic specimen.
+    I am submitting both hap1 & hap2 for dual curation. This is the curation ticket
+    for hap1. "
+  ident: md4
+  title: assembly_vgp_HiC_2.0/sHepPer1_hap1.yml
+- data: "species: Heptranchias perlo\nspecimen: sHepPer1\nprojects: \n  - vgp\ndata_location:
+    S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/sHepPer1.HiC.hap1.20230606.fasta.gz\nhap2:
+    s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/sHepPer1.HiC.hap2.20230606.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/sHepPer1_hap1__s2_heatmap.pretext\npretext_hap2:
+    s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/sHepPer1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/evaluation/merqury/sHepPer1_png/\nmito:
+    s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_MT_rockefeller/sHepPer1.MT.20230607.fasta.gz\npacbio_read_dir:
+    s3://genomeark/species/Heptranchias_perlo/sHepPer1/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Heptranchias_perlo/sHepPer1/genomic_data/arima/\npipeline:\n
+    \ - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group: Rockefeller\nnotes:
+    This was a hifiasm-HiC assembly of sHepPer1, resulting in two complete haplotypes.
+    This individual did have bionano data. HiC scaffolding was performed with yahs.
+    The HiC prep was Arima kit 2. The kmer spectra indicate a homogametic specimen.
+    I am submitting both hap1 & hap2 for dual curation. This is the curation ticket
+    for hap2. "
+  ident: md5
+  title: assembly_vgp_HiC_2.0/sHepPer1_hap2.yml
+mito1date: 2023-06-07
+mito1filesize: 5.7 KiB
+mito1length: '19484'
+mito1n50ctg: 19484
+mito1n50scf: 19484
+mito1seq: https://s3.amazonaws.com/genomeark/species/Heptranchias_perlo/sHepPer1/assembly_MT_rockefeller/sHepPer1.MT.20230607.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 19.48 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 19.48 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 19.48 Kbp </td><td> 1 </td><td> 19.48 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 19.48 Kbp </th><th> 1 </th><th> 19.48 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Heptranchias perlo
 name_: Heptranchias_perlo
 short_name: sHepPer

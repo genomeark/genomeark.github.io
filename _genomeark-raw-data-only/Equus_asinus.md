@@ -1,0 +1,1 @@
+../_genomeark/Equus_asinus.md

@@ -38,16 +38,16 @@ data_ont-1_scale: 1.0931
 data_ont_bases: 570.58 Gbp
 data_ont_bytes: 486.1 GiB
 data_ont_coverage: 163.42x
-data_pacbiohifi_bam-1_bases: 1176.91 Gbp
-data_pacbiohifi_bam-1_bytes: 1.2 TiB
-data_pacbiohifi_bam-1_coverage: 337.08x
+data_pacbiohifi_bam-1_bases: 1199.66 Gbp
+data_pacbiohifi_bam-1_bytes: 1.4 TiB
+data_pacbiohifi_bam-1_coverage: 343.60x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.9170
-data_pacbiohifi_bam_bases: 1176.91 Gbp
-data_pacbiohifi_bam_bytes: 1.2 TiB
-data_pacbiohifi_bam_coverage: 337.08x
+data_pacbiohifi_bam-1_scale: 0.7887
+data_pacbiohifi_bam_bases: 1199.66 Gbp
+data_pacbiohifi_bam_bytes: 1.4 TiB
+data_pacbiohifi_bam_coverage: 343.60x
 data_pacbiohifi_clr-1_bases: 6591.34 Gbp
 data_pacbiohifi_clr-1_bytes: 12.0 TiB
 data_pacbiohifi_clr-1_coverage: 1887.85x
@@ -116,8 +116,8 @@ dip1version: assembly_verkko_1.1-0.2-freeze
 genome_size: 3491460000
 genome_size_display: 3.49 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-last_raw_data: 1675118523
-last_updated: 1675195592
+last_raw_data: 1686197024
+last_updated: 1686197024
 mat1date: 2022-11-11
 mat1filesize: 826.5 MiB
 mat1length: '3535292761'
@@ -177,7 +177,7 @@ metadata: |
         father: mGorGor3
     -
         short_name: mGorGor2
-        name: null
+        name: Dolly
         biosample_id: null
         strain: null
         subspecies:
@@ -187,13 +187,16 @@ metadata: |
         alt_ids:
         - ISIS24489
         sex: female
+        birth_date: January 1963 (estimated)
+        birth_location: Congo
+        birth_type: Wild born
         description: null
         provider: Cynthia Steiner (San Diego Zoo Wildlife Alliance)
         mother: null
         father: null
     -
         short_name: mGorGor3
-        name: null
+        name: Trib
         biosample_id: null
         strain: null
         subspecies:
@@ -203,6 +206,9 @@ metadata: |
         alt_ids:
         - ISIS24485
         sex: male
+        birth_date: January 1959 (estimated)
+        birth_location: Congo
+        birth_type: Wild born
         description: null
         provider: Cynthia Steiner (San Diego Zoo Wildlife Alliance)
         mother: null

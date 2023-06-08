@@ -1,45 +1,52 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
-common_name: ''
-data_arima-1_bases: 48.45 Gbp
-data_arima-1_bytes: 26.4 GiB
-data_arima-1_coverage: N/A
-data_arima-1_links: s3://genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/arima/<br>
-data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/arima/
-data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/arima/
-data_arima-1_scale: 1.7099
-data_arima_bases: 48.45 Gbp
-data_arima_bytes: 26.4 GiB
-data_arima_coverage: N/A
-data_dovetail-1_bases: 82.38 Gbp
-data_dovetail-1_bytes: 41.2 GiB
-data_dovetail-1_coverage: N/A
-data_dovetail-1_links: s3://genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/dovetail/<br>
-data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/dovetail/
-data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/dovetail/
-data_dovetail-1_scale: 1.8643
+common_name: amphioxus
+data_arima-2_bases: 104.27 Gbp
+data_arima-2_bytes: 32.5 GiB
+data_arima-2_coverage: 180.71x
+data_arima-2_links: s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/klBraLanc2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/klBraLanc2/genomic_data/arima/
+data_arima-2_scale: 2.9926
+data_arima:iBraLan1_bases: 48.45 Gbp
+data_arima:iBraLan1_bytes: 26.4 GiB
+data_arima:iBraLan1_coverage: 83.96x
+data_arima:iBraLan1_links: s3://genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/arima/<br>
+data_arima:iBraLan1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/arima/
+data_arima:iBraLan1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/arima/
+data_arima:iBraLan1_scale: 1.7099
+data_arima_bases: 152.72 Gbp
+data_arima_bytes: 58.8 GiB
+data_arima_coverage: 264.68x
+data_dovetail:iBraLan1_bases: 82.38 Gbp
+data_dovetail:iBraLan1_bytes: 41.2 GiB
+data_dovetail:iBraLan1_coverage: 142.76x
+data_dovetail:iBraLan1_links: s3://genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/dovetail/<br>
+data_dovetail:iBraLan1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/dovetail/
+data_dovetail:iBraLan1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/dovetail/
+data_dovetail:iBraLan1_scale: 1.8643
 data_dovetail_bases: 82.38 Gbp
 data_dovetail_bytes: 41.2 GiB
-data_dovetail_coverage: N/A
-data_pacbiohifi_fqgz-1_bases: 50.34 Gbp
-data_pacbiohifi_fqgz-1_bytes: 43.9 GiB
-data_pacbiohifi_fqgz-1_coverage: N/A
-data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 1.0682
+data_dovetail_coverage: 142.76x
+data_pacbiohifi_fqgz:iBraLan1_bases: 50.34 Gbp
+data_pacbiohifi_fqgz:iBraLan1_bytes: 43.9 GiB
+data_pacbiohifi_fqgz:iBraLan1_coverage: 87.25x
+data_pacbiohifi_fqgz:iBraLan1_links: s3://genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz:iBraLan1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz:iBraLan1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz:iBraLan1_scale: 1.0682
 data_pacbiohifi_fqgz_bases: 50.34 Gbp
 data_pacbiohifi_fqgz_bytes: 43.9 GiB
-data_pacbiohifi_fqgz_coverage: N/A
+data_pacbiohifi_fqgz_coverage: 87.25x
 data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>
   ::: <em style="color:forestgreen">Dovetail</em>'''
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genome_size: 0
-genome_size_display: ''
-genome_size_method: ''
+genome_size: 577020000
+genome_size_display: 0.58 Gbp
+genome_size_method: GoaT
 hpa1date: 2022-12-14
 hpa1filesize: 135.6 MiB
 hpa1length: '473216920'
@@ -98,10 +105,27 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
-last_raw_data: 1682013221
-last_updated: 1682013221
+last_raw_data: 1685714122
+last_updated: 1685714124
+metadata: |
+  species:
+    short_name: klBraLanc
+    name: Branchiostoma lanceolatum
+    taxon_id: 7740
+    common_name: amphioxus
+    order:
+      name: Amphioxiformes
+    family:
+      name: Branchiostomatidae
+    individuals:
+      - short_name: klBraLanc2
+        biosample_id: SAMEA111562176
+        sex:
+    genome_size: 577020000
+    genome_size_method: GoaT
+    project: [ vgp ]
 name: Branchiostoma lanceolatum
 name_: Branchiostoma_lanceolatum
-short_name: iBraLan
-taxon_id: ''
+short_name: klBraLanc
+taxon_id: 7740
 ---

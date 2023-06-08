@@ -107,7 +107,7 @@ genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT ancestral inferred
 last_raw_data: 1671491722
-last_updated: 1680014715
+last_updated: 1684901972
 mat1date: 2022-11-11
 mat1filesize: 794.6 MiB
 mat1length: '3224694940'
@@ -165,26 +165,34 @@ metadata: |
         father: mPanPan3
     -
         short_name: mPanPan2
-        name: null
+        name: Loretta
         biosample_id: null
         strain: null
         subspecies: null
         alt_ids:
         - ISIS174013
         sex: female
-        description: null
+        birth_date: 22 January 1974
+        birth_location: San Diego Zoo
+        birth_type: Captive born
+        description: >
+          Loretta was born in the San Diego Zoo by Linda (dam; ISIS162184; Studbook Number
+          23) and Kakowet (sire; ISIS160134; Studbook Number 34).
         provider: Oliver Ryder (San Diego Zoo Wildlife Alliance, University of California San Diego)
         mother: null
         father: null
     -
         short_name: mPanPan3
-        name: null
+        name: Vernon
         biosample_id: null
         strain: null
         subspecies: null
         alt_ids:
         - ISIS180343
         sex: male
+        birth_date: January 1972 (estimated)
+        birth_location: Congo
+        birth_type: Wild born
         description: null
         provider: Oliver Ryder (San Diego Zoo Wildlife Alliance, University of California San Diego)
         mother: null

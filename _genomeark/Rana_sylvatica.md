@@ -30,7 +30,7 @@ genome_size: 6000000000
 genome_size_display: 6.00 Gbp
 genome_size_method: GoAT
 last_raw_data: 1643302608
-last_updated: 1674660507
+last_updated: 1685026967
 mds:
 - data: "species: Rana sylvatica\nspecimen: aRanSyl1\nprojects:\n  - vgp\npipeline:\n-
     RedBean (wtdbg2) v2.5\n- Racon v1.4.20\n- 3D-DNA software version 180922\n- Bionano

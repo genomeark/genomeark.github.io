@@ -1,6 +1,16 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: eastern hoolock gibbon
+data_dovetail-1_bases: 144.60 Gbp
+data_dovetail-1_bytes: 84.7 GiB
+data_dovetail-1_coverage: 44.77x
+data_dovetail-1_links: s3://genomeark/species/Hoolock_leuconedys/mHooLeu1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoolock_leuconedys/mHooLeu1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoolock_leuconedys/mHooLeu1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.5908
+data_dovetail_bases: 144.60 Gbp
+data_dovetail_bytes: 84.7 GiB
+data_dovetail_coverage: 44.77x
 data_illumina-1_bases: 372.57 Gbp
 data_illumina-1_bytes: 177.7 GiB
 data_illumina-1_coverage: 115.35x
@@ -42,7 +52,7 @@ data_pacbiohifi_clr_bases: 4619.95 Gbp
 data_pacbiohifi_clr_bytes: 8.1 TiB
 data_pacbiohifi_clr_coverage: 1430.32x
 data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
-  Simplex</em> ::: <em style="color:forestgreen">Illumina</em>'''
+  Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'''
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -50,8 +60,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 3230000000
 genome_size_display: 3.23 Gbp
 genome_size_method: GoaT ancestral inferred
-last_raw_data: 1683841262
-last_updated: 1683841262
+last_raw_data: 1684332089
+last_updated: 1684332089
 metadata: |
   species:
     short_name: mHooLeu

@@ -68,12 +68,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2023-04-29
+hpb1date: 2023-05-30
 hpb1filesize: 276.7 MiB
-hpb1length: '988092552'
+hpb1length: '987998379'
 hpb1n50ctg: 8008306
 hpb1n50scf: 75865069
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_curated/bPoeAtr1.hap2.cur.20230429.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_curated/bPoeAtr1.hap2.cur.20230530.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -91,14 +91,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 4 </td><td> 19.33 Mbp </td><td> 1 </td><td> 180.92 Mbp </td></tr><tr><td> 20 </td><td> 10 </td><td> 15.96 Mbp </td><td> 2 </td><td> 154.83 Mbp </td></tr><tr><td> 30 </td><td> 17 </td><td> 11.95 Mbp </td><td> 2 </td><td> 154.83 Mbp </td></tr><tr><td> 40 </td><td> 26 </td><td> 9.73 Mbp </td><td> 3 </td><td> 117.24 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 38 </td><td style="background-color:#88ff88;"> 8.01 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 75.87 Mbp </td></tr><tr><td> 60 </td><td> 53 </td><td> 5.83 Mbp </td><td> 6 </td><td> 37.92 Mbp </td></tr><tr><td> 70 </td><td> 72 </td><td> 4.49 Mbp </td><td> 9 </td><td> 24.31 Mbp </td></tr><tr><td> 80 </td><td> 99 </td><td> 2.96 Mbp </td><td> 14 </td><td> 17.70 Mbp </td></tr><tr><td> 90 </td><td> 141 </td><td> 1.84 Mbp </td><td> 22 </td><td> 8.54 Mbp </td></tr><tr><td> 100 </td><td> 398 </td><td> 3.00 Kbp </td><td> 158 </td><td> 3.00 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 19.33 Mbp </td><td> 1 </td><td> 180.92 Mbp </td></tr><tr><td> 20 </td><td> 10 </td><td> 15.96 Mbp </td><td> 2 </td><td> 154.83 Mbp </td></tr><tr><td> 30 </td><td> 17 </td><td> 11.95 Mbp </td><td> 2 </td><td> 154.83 Mbp </td></tr><tr><td> 40 </td><td> 26 </td><td> 9.73 Mbp </td><td> 3 </td><td> 117.24 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 38 </td><td style="background-color:#88ff88;"> 8.01 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 75.87 Mbp </td></tr><tr><td> 60 </td><td> 53 </td><td> 5.83 Mbp </td><td> 6 </td><td> 37.92 Mbp </td></tr><tr><td> 70 </td><td> 72 </td><td> 4.49 Mbp </td><td> 9 </td><td> 24.31 Mbp </td></tr><tr><td> 80 </td><td> 99 </td><td> 2.96 Mbp </td><td> 14 </td><td> 17.70 Mbp </td></tr><tr><td> 90 </td><td> 141 </td><td> 1.84 Mbp </td><td> 22 </td><td> 8.54 Mbp </td></tr><tr><td> 100 </td><td> 397 </td><td> 3.00 Kbp </td><td> 157 </td><td> 3.00 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 398 </th><th> 0.99 Gbp </th><th> 158 </th><th> 0.99 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 397 </th><th> 0.99 Gbp </th><th> 157 </th><th> 0.99 Gbp </th></tr>
   </tfoot>
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1659459029
-last_updated: 1682745935
+last_updated: 1685456998
 mds:
 - data: "species: Poecile atricapillus\nspecimen: bPoeAtr1\nprojects: \n  - vgp\nhaplotype_to_curate:
     hap1\nhap1: s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap1.20220821.fasta.gz\nhap2:
@@ -115,7 +115,7 @@ mds:
     The HiC prep was Arima kit 2. The kmer spectra indicates a heterogametic specimen,
     so we are submitting both haplotypes as tickets, in case the sex chromosomes need
     to be fished out between the haplotypes. This is the curation ticket for hap1."
-  ident: md11
+  ident: md15
   title: assembly_vgp_HiC_2.0/bPoeAtr1_hap1.yml
 - data: "species: Poecile atricapillus\nspecimen: bPoeAtr1\nprojects: \n  - vgp\nhaplotype_to_curate:
     hap2\nhap1: s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap1.20220821.fasta.gz\nhap2:
@@ -132,7 +132,7 @@ mds:
     The HiC prep was Arima kit 2. The kmer spectra indicates a heterogametic specimen,
     so we are submitting both haplotypes as tickets, in case the sex chromosomes need
     to be fished out between the haplotypes. This is the curation ticket for hap2."
-  ident: md12
+  ident: md16
   title: assembly_vgp_HiC_2.0/bPoeAtr1_hap2.yml
 name: Poecile atricapillus
 name_: Poecile_atricapillus

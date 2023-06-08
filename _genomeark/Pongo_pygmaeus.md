@@ -21,16 +21,16 @@ data_ont-2_scale: 1.0954
 data_ont_bases: 632.81 Gbp
 data_ont_bytes: 538.0 GiB
 data_ont_coverage: 176.79x
-data_pacbiohifi_bam-2_bases: 648.87 Gbp
-data_pacbiohifi_bam-2_bytes: 701.7 GiB
-data_pacbiohifi_bam-2_coverage: 181.28x
+data_pacbiohifi_bam-2_bases: 648.93 Gbp
+data_pacbiohifi_bam-2_bytes: 707.3 GiB
+data_pacbiohifi_bam-2_coverage: 181.29x
 data_pacbiohifi_bam-2_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-2_scale: 0.8612
-data_pacbiohifi_bam_bases: 648.87 Gbp
-data_pacbiohifi_bam_bytes: 701.7 GiB
-data_pacbiohifi_bam_coverage: 181.28x
+data_pacbiohifi_bam-2_scale: 0.8545
+data_pacbiohifi_bam_bases: 648.93 Gbp
+data_pacbiohifi_bam_bytes: 707.3 GiB
+data_pacbiohifi_bam_coverage: 181.29x
 data_pacbiohifi_clr-2_bases: 3481.77 Gbp
 data_pacbiohifi_clr-2_bytes: 6.4 TiB
 data_pacbiohifi_clr-2_coverage: 972.70x
@@ -147,8 +147,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_verkko_1.1-hic-freeze
-last_raw_data: 1671518523
-last_updated: 1680014744
+last_raw_data: 1686248685
+last_updated: 1686248685
 metadata: |
   species:
     short_name: mPonPyg

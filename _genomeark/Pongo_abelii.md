@@ -21,16 +21,16 @@ data_ont-1_scale: 1.0997
 data_ont_bases: 291.23 Gbp
 data_ont_bytes: 246.6 GiB
 data_ont_coverage: 81.36x
-data_pacbiohifi_bam-1_bases: 235.63 Gbp
-data_pacbiohifi_bam-1_bytes: 817.3 GiB
-data_pacbiohifi_bam-1_coverage: 65.83x
+data_pacbiohifi_bam-1_bases: 831.52 Gbp
+data_pacbiohifi_bam-1_bytes: 1.1 TiB
+data_pacbiohifi_bam-1_coverage: 232.30x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2685
-data_pacbiohifi_bam_bases: 235.63 Gbp
-data_pacbiohifi_bam_bytes: 817.3 GiB
-data_pacbiohifi_bam_coverage: 65.83x
+data_pacbiohifi_bam-1_scale: 0.6880
+data_pacbiohifi_bam_bases: 831.52 Gbp
+data_pacbiohifi_bam_bytes: 1.1 TiB
+data_pacbiohifi_bam_coverage: 232.30x
 data_pacbiohifi_clr-1_bases: 5011.07 Gbp
 data_pacbiohifi_clr-1_bytes: 9.2 TiB
 data_pacbiohifi_clr-1_coverage: 1399.94x
@@ -147,8 +147,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_verkko_1.1-hic-freeze
-last_raw_data: 1671520273
-last_updated: 1671520273
+last_raw_data: 1686252725
+last_updated: 1686252725
 metadata: |
   species:
     short_name: mPonAbe
