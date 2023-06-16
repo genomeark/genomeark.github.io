@@ -58,8 +58,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2586268927
 genome_size_display: 2.59 Gbp
 genome_size_method: ''
-last_raw_data: 1678815784
-last_updated: 1686233748
+last_raw_data: 1686586379
+last_updated: 1686586379
 mds:
 - data: "species: Mustela lutreola\nspecimen: mMusLut2\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nprimary: s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_vgp_standard_2.0/mMusLut2.standard.pri.20230320.fasta.gz\nhaplotigs:

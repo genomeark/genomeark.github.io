@@ -38,16 +38,16 @@ data_ont-1_scale: 1.1269
 data_ont_bases: 556.51 Gbp
 data_ont_bytes: 459.9 GiB
 data_ont_coverage: 154.00x
-data_pacbiohifi_bam-1_bases: 824.83 Gbp
-data_pacbiohifi_bam-1_bytes: 895.1 GiB
-data_pacbiohifi_bam-1_coverage: 228.25x
+data_pacbiohifi_bam-1_bases: 824.41 Gbp
+data_pacbiohifi_bam-1_bytes: 0.9 TiB
+data_pacbiohifi_bam-1_coverage: 228.14x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.8582
-data_pacbiohifi_bam_bases: 824.83 Gbp
-data_pacbiohifi_bam_bytes: 895.1 GiB
-data_pacbiohifi_bam_coverage: 228.25x
+data_pacbiohifi_bam-1_scale: 0.8522
+data_pacbiohifi_bam_bases: 824.41 Gbp
+data_pacbiohifi_bam_bytes: 0.9 TiB
+data_pacbiohifi_bam_coverage: 228.14x
 data_pacbiohifi_clr-1_bases: 3894.81 Gbp
 data_pacbiohifi_clr-1_bytes: 6.9 TiB
 data_pacbiohifi_clr-1_coverage: 1077.79x
@@ -106,8 +106,8 @@ dip1version: assembly_verkko_1.1-0.1-freeze
 genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT ancestral inferred
-last_raw_data: 1671491722
-last_updated: 1684901972
+last_raw_data: 1686269339
+last_updated: 1686779216
 mat1date: 2022-11-11
 mat1filesize: 794.6 MiB
 mat1length: '3224694940'

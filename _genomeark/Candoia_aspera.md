@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 124.93 Gbp
 data_arima-1_bytes: 64.7 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-02-02
+hpa1date: 2023-06-09
 hpa1filesize: 444.0 MiB
 hpa1length: '1529331567'
 hpa1n50ctg: 49525232
 hpa1n50scf: 209784440
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Candoia_aspera/rCanAsp1/assembly_vgp_HiC_2.0/rCanAsp1.HiC.hap1.20230202.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Candoia_aspera/rCanAsp1/assembly_curated/rCanAsp1.hap1.decon.20230609.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 111.79 Mbp </td><td> 0 </td><td> 338.86 Mbp </td></tr><tr><td> 20 </td><td> 2 </td><td> 98.33 Mbp </td><td> 0 </td><td> 338.86 Mbp </td></tr><tr><td> 30 </td><td> 4 </td><td> 80.97 Mbp </td><td> 1 </td><td> 263.52 Mbp </td></tr><tr><td> 40 </td><td> 6 </td><td> 58.58 Mbp </td><td> 2 </td><td> 209.78 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 49.53 Mbp </td><td> 2 </td><td style="background-color:#88ff88;"> 209.78 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 40.63 Mbp </td><td> 3 </td><td> 117.43 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 25.57 Mbp </td><td> 5 </td><td> 109.63 Mbp </td></tr><tr><td> 80 </td><td> 27 </td><td> 11.73 Mbp </td><td> 6 </td><td> 100.49 Mbp </td></tr><tr><td> 90 </td><td> 48 </td><td> 4.94 Mbp </td><td> 8 </td><td> 78.60 Mbp </td></tr><tr><td> 100 </td><td> 278 </td><td> 12.16 Kbp </td><td> 179 </td><td> 12.16 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 111.79 Mbp </td><td> 1 </td><td> 338.86 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 98.33 Mbp </td><td> 1 </td><td> 338.86 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 80.97 Mbp </td><td> 2 </td><td> 263.52 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 58.58 Mbp </td><td> 3 </td><td> 209.78 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 49.53 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 209.78 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 40.63 Mbp </td><td> 4 </td><td> 117.43 Mbp </td></tr><tr><td> 70 </td><td> 18 </td><td> 25.57 Mbp </td><td> 6 </td><td> 109.63 Mbp </td></tr><tr><td> 80 </td><td> 28 </td><td> 11.73 Mbp </td><td> 7 </td><td> 100.49 Mbp </td></tr><tr><td> 90 </td><td> 49 </td><td> 4.94 Mbp </td><td> 9 </td><td> 78.60 Mbp </td></tr><tr><td> 100 </td><td> 279 </td><td> 12.16 Kbp </td><td> 180 </td><td> 12.16 Kbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.000x </th><th> 279 </th><th> 1.53 Gbp </th><th> 180 </th><th> 1.53 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2023-02-02
-hpb1filesize: 444.6 MiB
-hpb1length: '1532354644'
+hpa1version: assembly_curated
+hpb1date: 2023-06-09
+hpb1filesize: 444.3 MiB
+hpb1length: '1530810380'
 hpb1n50ctg: 55640180
-hpb1n50scf: 209252319
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Candoia_aspera/rCanAsp1/assembly_vgp_HiC_2.0/rCanAsp1.HiC.hap2.20230202.fasta.gz
+hpb1n50scf: 209480725
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Candoia_aspera/rCanAsp1/assembly_curated/rCanAsp1.hap2.cur.20230609.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 0 </td><td> 165.64 Mbp </td><td> 0 </td><td> 343.99 Mbp </td></tr><tr><td> 20 </td><td> 2 </td><td> 97.99 Mbp </td><td> 0 </td><td> 343.99 Mbp </td></tr><tr><td> 30 </td><td> 3 </td><td> 97.80 Mbp </td><td> 1 </td><td> 264.56 Mbp </td></tr><tr><td> 40 </td><td> 5 </td><td> 66.25 Mbp </td><td> 2 </td><td> 209.25 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 8 </td><td style="background-color:#88ff88;"> 55.64 Mbp </td><td> 2 </td><td style="background-color:#88ff88;"> 209.25 Mbp </td></tr><tr><td> 60 </td><td> 11 </td><td> 48.64 Mbp </td><td> 3 </td><td> 149.59 Mbp </td></tr><tr><td> 70 </td><td> 15 </td><td> 31.91 Mbp </td><td> 4 </td><td> 118.42 Mbp </td></tr><tr><td> 80 </td><td> 22 </td><td> 12.97 Mbp </td><td> 6 </td><td> 100.45 Mbp </td></tr><tr><td> 90 </td><td> 40 </td><td> 4.99 Mbp </td><td> 7 </td><td> 84.50 Mbp </td></tr><tr><td> 100 </td><td> 251 </td><td> 1.00 Kbp </td><td> 157 </td><td> 1.00 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 165.64 Mbp </td><td> 1 </td><td> 343.99 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 97.99 Mbp </td><td> 1 </td><td> 343.99 Mbp </td></tr><tr><td> 30 </td><td> 4 </td><td> 97.80 Mbp </td><td> 2 </td><td> 265.92 Mbp </td></tr><tr><td> 40 </td><td> 6 </td><td> 66.25 Mbp </td><td> 3 </td><td> 209.48 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 55.64 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 209.48 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 48.64 Mbp </td><td> 4 </td><td> 119.28 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 31.91 Mbp </td><td> 6 </td><td> 100.81 Mbp </td></tr><tr><td> 80 </td><td> 23 </td><td> 12.97 Mbp </td><td> 7 </td><td> 84.50 Mbp </td></tr><tr><td> 90 </td><td> 41 </td><td> 4.99 Mbp </td><td> 11 </td><td> 25.78 Mbp </td></tr><tr><td> 100 </td><td> 250 </td><td> 1.00 Kbp </td><td> 149 </td><td> 1.00 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 252 </th><th> 1.53 Gbp </th><th> 158 </th><th> 1.53 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 250 </th><th> 1.53 Gbp </th><th> 149 </th><th> 1.53 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1673021442
-last_updated: 1676063752
+last_updated: 1686269003
 mds:
 - data: "species: Candoia aspera\nspecimen: rCanAsp1\nprojects: \n  - vgp\nhaplotype_to_curate:
     hap2\nhap1: s3://genomeark/species/Candoia_aspera/rCanAsp1/assembly_vgp_HiC_2.0/rCanAsp1.HiC.hap1.20230202.fasta.gz\nhap2:
@@ -103,7 +103,7 @@ mds:
     This individual did not have bionano data. HiC scaffolding was performed with
     yahs. The HiC prep was Arima kit 2. The kmer spectra indicates a homogametic specimen.
     We are submitting haplotype 2 for curation."
-  ident: md4
+  ident: md7
   title: assembly_vgp_HiC_2.0/rCanAsp1_hap2.yml
 mito1date: 2023-02-10
 mito1filesize: 5.3 KiB

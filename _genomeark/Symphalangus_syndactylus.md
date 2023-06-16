@@ -31,16 +31,16 @@ data_ont-1_scale: 1.0567
 data_ont_bases: 338.17 Gbp
 data_ont_bytes: 298.1 GiB
 data_ont_coverage: 102.61x
-data_pacbiohifi_bam-1_bases: 1199.61 Gbp
-data_pacbiohifi_bam-1_bytes: 872.0 GiB
-data_pacbiohifi_bam-1_coverage: 363.97x
+data_pacbiohifi_bam-1_bases: 1200.82 Gbp
+data_pacbiohifi_bam-1_bytes: 879.2 GiB
+data_pacbiohifi_bam-1_coverage: 364.34x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 1.2812
-data_pacbiohifi_bam_bases: 1199.61 Gbp
-data_pacbiohifi_bam_bytes: 872.0 GiB
-data_pacbiohifi_bam_coverage: 363.97x
+data_pacbiohifi_bam-1_scale: 1.2720
+data_pacbiohifi_bam_bases: 1200.82 Gbp
+data_pacbiohifi_bam_bytes: 879.2 GiB
+data_pacbiohifi_bam_coverage: 364.34x
 data_pacbiohifi_clr-1_bases: 4866.03 Gbp
 data_pacbiohifi_clr-1_bytes: 8.6 TiB
 data_pacbiohifi_clr-1_coverage: 1476.41x
@@ -157,8 +157,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_verkko_1.1-hic-freeze
-last_raw_data: 1686258666
-last_updated: 1686258666
+last_raw_data: 1686260670
+last_updated: 1686776722
 metadata: |
   species:
     short_name: mSymSyn

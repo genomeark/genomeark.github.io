@@ -148,7 +148,7 @@ hpb2sizes: |
   </table>
 hpb2version: assembly_verkko_1.1-hic-freeze
 last_raw_data: 1686248685
-last_updated: 1686248685
+last_updated: 1686784765
 metadata: |
   species:
     short_name: mPonPyg

@@ -1,6 +1,16 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: European river lamprey
+data_arima-1_bases: 89.16 Gbp
+data_arima-1_bytes: 29.4 GiB
+data_arima-1_coverage: 66.55x
+data_arima-1_links: s3://genomeark/species/Lampetra_fluviatilis/kcLamFluv1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lampetra_fluviatilis/kcLamFluv1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lampetra_fluviatilis/kcLamFluv1/genomic_data/arima/
+data_arima-1_scale: 2.8245
+data_arima_bases: 89.16 Gbp
+data_arima_bytes: 29.4 GiB
+data_arima_coverage: 66.55x
 data_pacbiohifi_bam-1_bases: 17.05 Gbp
 data_pacbiohifi_bam-1_bytes: 61.5 GiB
 data_pacbiohifi_bam-1_coverage: 12.72x
@@ -11,7 +21,7 @@ data_pacbiohifi_bam-1_scale: 0.2582
 data_pacbiohifi_bam_bases: 17.05 Gbp
 data_pacbiohifi_bam_bytes: 61.5 GiB
 data_pacbiohifi_bam_coverage: 12.72x
-data_status: '''<em style="color:forestgreen">PacBio HiFi</em>'''
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -19,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1339860000
 genome_size_display: 1.34 Gbp
 genome_size_method: GoaT
-last_raw_data: 1678364536
-last_updated: 1678364536
+last_raw_data: 1686684088
+last_updated: 1686684089
 metadata: |
   species:
     short_name: kcLamFluv

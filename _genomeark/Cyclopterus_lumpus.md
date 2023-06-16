@@ -47,9 +47,16 @@ data_arima-1_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_d
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum1/genomic_data/arima/
 data_arima-1_scale: 1.4836
-data_arima_bases: 89.68 Gbp
-data_arima_bytes: 56.3 GiB
-data_arima_coverage: 89.68x
+data_arima-2_bases: 93.37 Gbp
+data_arima-2_bytes: 28.8 GiB
+data_arima-2_coverage: 93.37x
+data_arima-2_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cyclopterus_lumpus/fCycLum2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum2/genomic_data/arima/
+data_arima-2_scale: 3.0228
+data_arima_bases: 183.06 Gbp
+data_arima_bytes: 85.1 GiB
+data_arima_coverage: 183.06x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 682.5 MiB
 data_bionano-1_coverage: 508.20x
@@ -81,8 +88,8 @@ genbank_pri: fCycLum1:GCA_009769545.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 genome_size_method: ''
-last_raw_data: 1565031189
-last_updated: 1570816797
+last_raw_data: 1686681316
+last_updated: 1686681318
 metadata: |
   species:
     common_name: lumpfish

@@ -179,7 +179,7 @@ hpb3sizes: |
   </table>
 hpb3version: assembly_verkko_1.1-hic-freeze
 last_raw_data: 1686257150
-last_updated: 1686257150
+last_updated: 1686779505
 metadata: |
   species:
     short_name: mPanTro

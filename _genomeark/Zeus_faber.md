@@ -11,15 +11,15 @@ data_10x-1_scale: 1.4007
 data_10x_bases: 104.63 Gbp
 data_10x_bytes: 69.6 GiB
 data_10x_coverage: N/A
-data_arima-8_bases: 164.41 Gbp
-data_arima-8_bytes: 52.9 GiB
+data_arima-8_bases: 251.31 Gbp
+data_arima-8_bytes: 80.2 GiB
 data_arima-8_coverage: N/A
 data_arima-8_links: s3://genomeark/species/Zeus_faber/fZeuFab8/genomic_data/arima/<br>
 data_arima-8_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Zeus_faber/fZeuFab8/genomic_data/arima/
 data_arima-8_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zeus_faber/fZeuFab8/genomic_data/arima/
-data_arima-8_scale: 2.8969
-data_arima_bases: 164.41 Gbp
-data_arima_bytes: 52.9 GiB
+data_arima-8_scale: 2.9172
+data_arima_bases: 251.31 Gbp
+data_arima_bytes: 80.2 GiB
 data_arima_coverage: N/A
 data_pacbio-1_bases: 71.68 Gbp
 data_pacbio-1_bytes: 128.3 GiB
@@ -50,8 +50,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1682435733
-last_updated: 1682435735
+last_raw_data: 1686681235
+last_updated: 1686681236
 metadata: |
   species:
     short_name: fZeuFab

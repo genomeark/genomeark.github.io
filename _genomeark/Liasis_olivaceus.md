@@ -58,7 +58,7 @@ genome_size: 1675000000
 genome_size_display: 1.68 Gbp
 genome_size_method: GoAT
 hpa1date: 2022-12-14
-hpa1filesize: 425.6 MiB
+hpa1filesize: 428.2 MiB
 hpa1length: '1478585907'
 hpa1n50ctg: 56843848
 hpa1n50scf: 116901191
@@ -116,7 +116,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1680026288
-last_updated: 1680026288
+last_updated: 1686338027
 metadata: |
   species:
     name: Liasis olivaceus

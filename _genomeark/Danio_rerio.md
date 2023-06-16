@@ -48,6 +48,16 @@ data_illumina:fDreTuH1_scale: 1.8621
 data_illumina_bases: 404.18 Gbp
 data_illumina_bytes: 201.2 GiB
 data_illumina_coverage: N/A
+data_ont:fDanRer17_bases: 158.33 Gbp
+data_ont:fDanRer17_bytes: 131.6 GiB
+data_ont:fDanRer17_coverage: N/A
+data_ont:fDanRer17_links: s3://genomeark/species/Danio_rerio/fDanRer17/genomic_data/ont/<br>
+data_ont:fDanRer17_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Danio_rerio/fDanRer17/genomic_data/ont/
+data_ont:fDanRer17_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDanRer17/genomic_data/ont/
+data_ont:fDanRer17_scale: 1.1205
+data_ont_bases: 158.33 Gbp
+data_ont_bytes: 131.6 GiB
+data_ont_coverage: N/A
 data_pacbio:fDreSAT1_bases: 128.48 Gbp
 data_pacbio:fDreSAT1_bytes: 451.5 GiB
 data_pacbio:fDreSAT1_coverage: N/A
@@ -58,8 +68,9 @@ data_pacbio:fDreSAT1_scale: 0.2650
 data_pacbio_bases: 128.48 Gbp
 data_pacbio_bytes: 451.5 GiB
 data_pacbio_coverage: N/A
-data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
-  ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'''
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">ONT
+  Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>
+  ::: <em style="color:forestgreen">Illumina</em>'''
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -69,8 +80,8 @@ genbank_pri: fDanRer4:GCA_944039275.1
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1566749074
-last_updated: 1591266209
+last_raw_data: 1686320660
+last_updated: 1686320660
 mat1date: 2020-05-22
 mat1filesize: 387.1 MiB
 mat1length: '1360489499'

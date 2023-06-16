@@ -44,7 +44,36 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1684347101
-last_updated: 1684347101
+last_updated: 1686857413
+mito2date: 2023-06-15
+mito2filesize: 5.4 KiB
+mito2length: '16964'
+mito2n50ctg: 16964
+mito2n50scf: 16964
+mito2seq: https://s3.amazonaws.com/genomeark/species/Haplochromis_burtoni/fHapBur2/assembly_MT_rockefeller/fHapBur2.MT.20230615.fasta.gz
+mito2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.96 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.96 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.96 Kbp </th><th> 1 </th><th> 16.96 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito2version: assembly_MT_rockefeller
 name: Haplochromis burtoni
 name_: Haplochromis_burtoni
 short_name: fHapBur
