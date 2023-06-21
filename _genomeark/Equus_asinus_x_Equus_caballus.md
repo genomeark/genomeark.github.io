@@ -1,33 +1,33 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: hybrid of male donkey and female horse
-data_dovetail:mEquAca1_bases: 109.88 Gbp
-data_dovetail:mEquAca1_bytes: 61.9 GiB
-data_dovetail:mEquAca1_coverage: 24.53x
-data_dovetail:mEquAca1_links: s3://genomeark/species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/dovetail/<br>
-data_dovetail:mEquAca1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/dovetail/
-data_dovetail:mEquAca1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/dovetail/
-data_dovetail:mEquAca1_scale: 1.6527
+data_dovetail-1_bases: 109.88 Gbp
+data_dovetail-1_bytes: 61.9 GiB
+data_dovetail-1_coverage: 24.53x
+data_dovetail-1_links: s3://genomeark/species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.6527
 data_dovetail_bases: 109.88 Gbp
 data_dovetail_bytes: 61.9 GiB
 data_dovetail_coverage: 24.53x
-data_illumina:mEquAca1_bases: 184.94 Gbp
-data_illumina:mEquAca1_bytes: 79.8 GiB
-data_illumina:mEquAca1_coverage: 41.28x
-data_illumina:mEquAca1_links: s3://genomeark/species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/illumina/<br>
-data_illumina:mEquAca1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/illumina/
-data_illumina:mEquAca1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/illumina/
-data_illumina:mEquAca1_scale: 2.1571
+data_illumina-1_bases: 184.94 Gbp
+data_illumina-1_bytes: 79.8 GiB
+data_illumina-1_coverage: 41.28x
+data_illumina-1_links: s3://genomeark/species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/illumina/
+data_illumina-1_scale: 2.1571
 data_illumina_bases: 184.94 Gbp
 data_illumina_bytes: 79.8 GiB
 data_illumina_coverage: 41.28x
-data_pacbiohifi_fagz:mEquAca1_bases: 133.59 Gbp
-data_pacbiohifi_fagz:mEquAca1_bytes: 43.3 GiB
-data_pacbiohifi_fagz:mEquAca1_coverage: 29.82x
-data_pacbiohifi_fagz:mEquAca1_links: s3://genomeark/species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/pacbiohifi_fagz/<br>
-data_pacbiohifi_fagz:mEquAca1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/pacbiohifi_fagz/
-data_pacbiohifi_fagz:mEquAca1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/pacbiohifi_fagz/
-data_pacbiohifi_fagz:mEquAca1_scale: 2.8728
+data_pacbiohifi_fagz-1_bases: 133.59 Gbp
+data_pacbiohifi_fagz-1_bytes: 43.3 GiB
+data_pacbiohifi_fagz-1_coverage: 29.82x
+data_pacbiohifi_fagz-1_links: s3://genomeark/species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/pacbiohifi_fagz/<br>
+data_pacbiohifi_fagz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/pacbiohifi_fagz/
+data_pacbiohifi_fagz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Equus_asinus_x_Equus_caballus/mEquAca1/genomic_data/pacbiohifi_fagz/
+data_pacbiohifi_fagz-1_scale: 2.8728
 data_pacbiohifi_fagz_bases: 133.59 Gbp
 data_pacbiohifi_fagz_bytes: 43.3 GiB
 data_pacbiohifi_fagz_coverage: 29.82x
@@ -41,7 +41,7 @@ genome_size_display: 4.48 Gbp
 genome_size_method: GoaT
 last_raw_data: 1684525804
 last_updated: 1684525804
-metadata: "species:\n  name: Equus asinus x Equus caballus\n  short_name: mEquAsi\n
+metadata: "species:\n  name: Equus asinus x Equus caballus\n  short_name: mEquAca\n
   \ common_name: hybrid of male donkey and female horse\n  taxon_id: 319699\n  order:\n
   \   name: Perissodactyla\n  family:\n    name: Equidae\n  individuals:\n  - \n    short_name:
   mEquAca1\n    biosample_id: null\n    strain: null\n    alt_ids:\n    - 4285\n    sex:
@@ -50,6 +50,6 @@ metadata: "species:\n  name: Equus asinus x Equus caballus\n  short_name: mEquAs
   GoaT\n  project: [ t2t ]\n"
 name: Equus asinus x Equus caballus
 name_: Equus_asinus_x_Equus_caballus
-short_name: mEquAsi
+short_name: mEquAca
 taxon_id: 319699
 ---
