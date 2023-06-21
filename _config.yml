@@ -103,6 +103,15 @@ collections:
   t2t-raw-data-only:
     output: true
 
+  erga-all:
+    output: true
+  erga-curated-assembly:
+    output: true
+  erga-draft-assembly:
+    output: true
+  erga-raw-data-only:
+    output: true
+
 
 defaults:
   - scope:
@@ -170,6 +179,27 @@ defaults:
       use_name_for_title: true
   - scope:
       path: "_t2t-raw-data-only"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+
+  - scope:
+      path: "_erga-all"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+  - scope:
+      path: "_erga-curated-assembly"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+  - scope:
+      path: "_erga-draft-assembly"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+  - scope:
+      path: "_erga-raw-data-only"
     values:
       layout: genomeark
       use_name_for_title: true
