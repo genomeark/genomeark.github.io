@@ -309,6 +309,7 @@ footer {
 //
 //  Stuff on the main page.
 //    welcome             - intro paragraph
+//    documentation       - documentation lists
 //    project-table       - the 'by project and completion' table.
 //    random-species      - thr grid of random species
 //    random-species-cell - a cell in the grid of random species
@@ -320,6 +321,22 @@ div.welcome {
   margin-left:  auto;
   margin-right: auto;
   display:      block;
+}
+
+div.documentation {
+@include narrow { width: 100%; }
+@include wide   { width:  80%; }
+  text-align:   justify;
+  margin-left:  auto;
+  margin-right: auto;
+  display:      block;
+}
+ul.documentation {
+  list-style: square;
+  margin: 0px 0px 2px 20px;
+}
+li.documentation {
+  margin: 0px 0px 2px 0px;
 }
 
 div.project-table {
