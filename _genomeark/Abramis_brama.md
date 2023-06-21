@@ -11,7 +11,17 @@ data_arima-2_scale: 3.2204
 data_arima_bases: 139.91 Gbp
 data_arima_bytes: 40.5 GiB
 data_arima_coverage: 110.05x
-data_status: '''<em style="color:forestgreen">Arima</em>'''
+data_pacbiohifi_bam-2_bases: 28.01 Gbp
+data_pacbiohifi_bam-2_bytes: 14.9 GiB
+data_pacbiohifi_bam-2_coverage: 22.03x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Abramis_brama/fAbrBra2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Abramis_brama/fAbrBra2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Abramis_brama/fAbrBra2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 1.7555
+data_pacbiohifi_bam_bases: 28.01 Gbp
+data_pacbiohifi_bam_bytes: 14.9 GiB
+data_pacbiohifi_bam_coverage: 22.03x
+data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -19,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1271400000
 genome_size_display: 1.27 Gbp
 genome_size_method: GoaT
-last_raw_data: 1675873565
-last_updated: 1675873567
+last_raw_data: 1687194443
+last_updated: 1687194443
 metadata: |
   species:
     short_name: fAbrBra

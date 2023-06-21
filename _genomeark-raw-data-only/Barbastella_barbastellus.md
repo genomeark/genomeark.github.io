@@ -1,0 +1,1 @@
+../_genomeark/Barbastella_barbastellus.md

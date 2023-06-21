@@ -89,7 +89,7 @@ genome_size: 1314568463
 genome_size_display: 1.31 Gbp
 genome_size_method: ''
 last_raw_data: 1675714678
-last_updated: 1685146050
+last_updated: 1687276574
 mds:
 - data: "species: Pelecanus crispus\nspecimen: bPelCri1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nprimary: s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.0/bPelCri1.standard.pri.20230327.fasta.gz\nhaplotigs:

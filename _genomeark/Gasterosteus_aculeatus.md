@@ -11,16 +11,16 @@ data_arima-3_scale: 2.9743
 data_arima_bases: 80.01 Gbp
 data_arima_bytes: 25.1 GiB
 data_arima_coverage: 127.83x
-data_pacbiohifi_bam-3_bases: 22.99 Gbp
-data_pacbiohifi_bam-3_bytes: 12.8 GiB
-data_pacbiohifi_bam-3_coverage: 36.73x
+data_pacbiohifi_bam-3_bases: 48.48 Gbp
+data_pacbiohifi_bam-3_bytes: 29.8 GiB
+data_pacbiohifi_bam-3_coverage: 77.46x
 data_pacbiohifi_bam-3_links: s3://genomeark/species/Gasterosteus_aculeatus/fGasAcu3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gasterosteus_aculeatus/fGasAcu3/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gasterosteus_aculeatus/fGasAcu3/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-3_scale: 1.6760
-data_pacbiohifi_bam_bases: 22.99 Gbp
-data_pacbiohifi_bam_bytes: 12.8 GiB
-data_pacbiohifi_bam_coverage: 36.73x
+data_pacbiohifi_bam-3_scale: 1.5151
+data_pacbiohifi_bam_bases: 48.48 Gbp
+data_pacbiohifi_bam_bytes: 29.8 GiB
+data_pacbiohifi_bam_coverage: 77.46x
 data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 625920000
 genome_size_display: 0.63 Gbp
 genome_size_method: GoaT
-last_raw_data: 1675897486
-last_updated: 1675897488
+last_raw_data: 1687191120
+last_updated: 1687191120
 metadata: |
   species:
     short_name: fGasAcu

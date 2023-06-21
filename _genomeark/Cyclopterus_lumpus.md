@@ -92,18 +92,22 @@ last_raw_data: 1686681316
 last_updated: 1686681318
 metadata: |
   species:
-    common_name: lumpfish
-    family:
-      name: Cyclopteridae
-    genome_size: 1000000000
-    genome_size_method: null
-    individuals:
-    - short_name: fCycLum1
+    short_name: fCycLum
     name: Cyclopterus lumpus
+    taxon_id: 8103
+    common_name: lumpfish
     order:
       name: Scorpaeniformes
-    short_name: fCycLum
-    taxon_id: 8103
+    family:
+      name: Cyclopteridae
+    individuals:
+      - short_name: fCycLum1
+        sex:
+      - short_name: fCycLum2
+        biosample_id: SAMEA112789128
+        sex:
+    genome_size: 1000000000
+    genome_size_method: null
     project: [ vgp ]
 mito1date: 2019-10-02
 mito1filesize: 5.2 KiB

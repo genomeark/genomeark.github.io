@@ -88,7 +88,51 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1685047674
-last_updated: 1686857804
+last_updated: 1687057067
+mds:
+- data: "species: Cyprinella venusta\nspecimen: fCypVen1\nprojects: \n  - vgp\nhap1:
+    s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/fCypVen1.HiC.hap1.20230613.fasta.gz\nhap2:
+    s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/fCypVen1.HiC.hap2.20230613.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fCypVen1_hap1__s2_heatmap.pretext\npretext_hap2:
+    s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fCypVen1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/evaluation/purge_dups/merqury/fCypVen1_png/\nmito:
+    s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_MT_rockefeller/fCypVen1.MT.20230617.fasta.gz\npipeline:\n
+    \ - hifiasm (0.19.3+galaxy0)\n  - purge_dups (1.2.6+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group:
+    Rockefeller\nnotes: This was a hifiasm-HiC assembly of fCypVen1, resulting in
+    two complete haplotypes. This individual did have not bionano data. The hap1 and
+    hap2 assemblies were purged with the purge_dups piepeline. HiC scaffolding was
+    performed with yahs. The HiC prep was Arima kit 2."
+  ident: md6
+  title: assembly_vgp_HiC_2.0/fCypVen1.yml
+mito1date: 2023-06-17
+mito1filesize: 5.4 KiB
+mito1length: '16707'
+mito1n50ctg: 16707
+mito1n50scf: 16707
+mito1seq: https://s3.amazonaws.com/genomeark/species/Cyprinella_venusta/fCypVen1/assembly_MT_rockefeller/fCypVen1.MT.20230617.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.71 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.71 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.71 Kbp </th><th> 1 </th><th> 16.71 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Cyprinella venusta
 name_: Cyprinella_venusta
 short_name: fCypVen

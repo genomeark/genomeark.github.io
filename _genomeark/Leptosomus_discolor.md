@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
 data_arima-1_bases: 65.33 Gbp
 data_arima-1_bytes: 34.8 GiB
@@ -29,8 +29,130 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
+hpa1date: 2023-06-17
+hpa1filesize: 374.9 MiB
+hpa1length: '1326380861'
+hpa1n50ctg: 8035883
+hpa1n50scf: 74822163
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/bLepDis1.HiC.hap1.20230617.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 5 </td><td> 22.61 Mbp </td><td> 1 </td><td> 219.10 Mbp </td></tr><tr><td> 20 </td><td> 13 </td><td> 16.74 Mbp </td><td> 2 </td><td> 128.45 Mbp </td></tr><tr><td> 30 </td><td> 22 </td><td> 12.93 Mbp </td><td> 3 </td><td> 94.82 Mbp </td></tr><tr><td> 40 </td><td> 33 </td><td> 10.17 Mbp </td><td> 5 </td><td> 82.11 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 48 </td><td style="background-color:#88ff88;"> 8.04 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 74.82 Mbp </td></tr><tr><td> 60 </td><td> 66 </td><td> 5.77 Mbp </td><td> 8 </td><td> 66.65 Mbp </td></tr><tr><td> 70 </td><td> 92 </td><td> 4.71 Mbp </td><td> 10 </td><td> 49.61 Mbp </td></tr><tr><td> 80 </td><td> 125 </td><td> 3.55 Mbp </td><td> 16 </td><td> 19.00 Mbp </td></tr><tr><td> 90 </td><td> 178 </td><td> 1.70 Mbp </td><td> 28 </td><td> 6.74 Mbp </td></tr><tr><td> 100 </td><td> 625 </td><td> 11.89 Kbp </td><td> 341 </td><td> 11.89 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 625 </th><th> 1.33 Gbp </th><th> 341 </th><th> 1.33 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2023-06-17
+hpb1filesize: 372.7 MiB
+hpb1length: '1333606631'
+hpb1n50ctg: 8588060
+hpb1n50scf: 82124922
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/bLepDis1.HiC.hap2.20230617.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 5 </td><td> 23.16 Mbp </td><td> 1 </td><td> 219.33 Mbp </td></tr><tr><td> 20 </td><td> 11 </td><td> 18.73 Mbp </td><td> 2 </td><td> 128.35 Mbp </td></tr><tr><td> 30 </td><td> 19 </td><td> 15.34 Mbp </td><td> 3 </td><td> 94.22 Mbp </td></tr><tr><td> 40 </td><td> 29 </td><td> 11.01 Mbp </td><td> 5 </td><td> 83.84 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 43 </td><td style="background-color:#88ff88;"> 8.59 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 82.12 Mbp </td></tr><tr><td> 60 </td><td> 60 </td><td> 7.28 Mbp </td><td> 8 </td><td> 66.57 Mbp </td></tr><tr><td> 70 </td><td> 82 </td><td> 5.20 Mbp </td><td> 10 </td><td> 49.44 Mbp </td></tr><tr><td> 80 </td><td> 112 </td><td> 3.55 Mbp </td><td> 15 </td><td> 22.89 Mbp </td></tr><tr><td> 90 </td><td> 162 </td><td> 1.81 Mbp </td><td> 25 </td><td> 6.22 Mbp </td></tr><tr><td> 100 </td><td> 551 </td><td> 11.84 Kbp </td><td> 279 </td><td> 11.84 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 551 </th><th> 1.33 Gbp </th><th> 279 </th><th> 1.33 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1684254729
-last_updated: 1684254729
+last_updated: 1687053983
+mds:
+- data: "species: Leptosomus discolor\nspecimen: bLepDis1\nprojects: \n  - vgp\ndata_location:
+    S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/bLepDis1.HiC.hap1.20230617.fasta.gz\nhap2:
+    s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/bLepDis1.HiC.hap2.20230617.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bLepDis1_hap1__s2_heatmap.pretext\npretext_hap2:
+    s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bLepDis1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/evaluation/merqury/bLepDis1_png/\nmito:
+    s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_MT_rockefeller/bLepDis1.MT.20230617.fasta.gz\npacbio_read_dir:
+    s3://genomeark/species/Leptosomus_discolor/bLepDis1/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Leptosomus_discolor/bLepDis1/genomic_data/arima/\npipeline:\n
+    \ - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group: Rockefeller\nnotes:
+    This was a hifiasm-HiC assembly of bLepDis1, resulting in two complete haplotypes.
+    This individual did have not bionano data. HiC scaffolding was performed with
+    yahs. The HiC prep was Arima kit 2. The kmer spectra indicate a homogametic specimen.
+    I am submitting both hap1 & hap2 for dual curation. This is a VGP Phase 1 species.
+    This is the curation ticket for hap1. "
+  ident: md4
+  title: assembly_vgp_HiC_2.0/bLepDis1_hap1.yml
+- data: "species: Leptosomus discolor\nspecimen: bLepDis1\nprojects: \n  - vgp\ndata_location:
+    S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/bLepDis1.HiC.hap1.20230617.fasta.gz\nhap2:
+    s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/bLepDis1.HiC.hap2.20230617.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bLepDis1_hap1__s2_heatmap.pretext\npretext_hap2:
+    s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bLepDis1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/evaluation/merqury/bLepDis1_png/\nmito:
+    s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_MT_rockefeller/bLepDis1.MT.20230617.fasta.gz\npacbio_read_dir:
+    s3://genomeark/species/Leptosomus_discolor/bLepDis1/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Leptosomus_discolor/bLepDis1/genomic_data/arima/\npipeline:\n
+    \ - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group: Rockefeller\nnotes:
+    This was a hifiasm-HiC assembly of bLepDis1, resulting in two complete haplotypes.
+    This individual did have not bionano data. HiC scaffolding was performed with
+    yahs. The HiC prep was Arima kit 2. The kmer spectra indicate a homogametic specimen.
+    I am submitting both hap1 & hap2 for dual curation. This is a VGP Phase 1 species.
+    This is the curation ticket for hap2. "
+  ident: md5
+  title: assembly_vgp_HiC_2.0/bLepDis1_hap2.yml
+mito1date: 2023-06-17
+mito1filesize: 5.7 KiB
+mito1length: '19588'
+mito1n50ctg: 19588
+mito1n50scf: 19588
+mito1seq: https://s3.amazonaws.com/genomeark/species/Leptosomus_discolor/bLepDis1/assembly_MT_rockefeller/bLepDis1.MT.20230617.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 19.59 Kbp </td><td> 1 </td><td> 19.59 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 19.59 Kbp </td><td> 1 </td><td> 19.59 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 19.59 Kbp </td><td> 1 </td><td> 19.59 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 19.59 Kbp </td><td> 1 </td><td> 19.59 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 19.59 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 19.59 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 19.59 Kbp </td><td> 1 </td><td> 19.59 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 19.59 Kbp </td><td> 1 </td><td> 19.59 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 19.59 Kbp </td><td> 1 </td><td> 19.59 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 19.59 Kbp </td><td> 1 </td><td> 19.59 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 19.59 Kbp </td><td> 1 </td><td> 19.59 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 19.59 Kbp </th><th> 1 </th><th> 19.59 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Leptosomus discolor
 name_: Leptosomus_discolor
 short_name: bLepDis

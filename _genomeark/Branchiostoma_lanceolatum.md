@@ -8,33 +8,39 @@ data_arima-2_links: s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc2/
 data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/klBraLanc2/genomic_data/arima/
 data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/klBraLanc2/genomic_data/arima/
 data_arima-2_scale: 2.9926
-data_arima:iBraLan1_bases: 48.45 Gbp
-data_arima:iBraLan1_bytes: 26.4 GiB
-data_arima:iBraLan1_coverage: 83.96x
-data_arima:iBraLan1_links: s3://genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/arima/<br>
-data_arima:iBraLan1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/arima/
-data_arima:iBraLan1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/arima/
-data_arima:iBraLan1_scale: 1.7099
+data_arima-5_bases: 48.45 Gbp
+data_arima-5_bytes: 26.4 GiB
+data_arima-5_coverage: 83.96x
+data_arima-5_links: s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/arima/<br>
+data_arima-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/arima/
+data_arima-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/arima/
+data_arima-5_scale: 1.7099
+data_arima:iBraLan1_bases: '48449219177'
+data_arima:iBraLan1_scale: '1.7099'
 data_arima_bases: 152.72 Gbp
 data_arima_bytes: 58.8 GiB
 data_arima_coverage: 264.68x
-data_dovetail:iBraLan1_bases: 82.38 Gbp
-data_dovetail:iBraLan1_bytes: 41.2 GiB
-data_dovetail:iBraLan1_coverage: 142.76x
-data_dovetail:iBraLan1_links: s3://genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/dovetail/<br>
-data_dovetail:iBraLan1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/dovetail/
-data_dovetail:iBraLan1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/dovetail/
-data_dovetail:iBraLan1_scale: 1.8643
+data_dovetail-5_bases: 82.38 Gbp
+data_dovetail-5_bytes: 41.2 GiB
+data_dovetail-5_coverage: 142.76x
+data_dovetail-5_links: s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/dovetail/<br>
+data_dovetail-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/dovetail/
+data_dovetail-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/dovetail/
+data_dovetail-5_scale: 1.8643
+data_dovetail:iBraLan1_bases: '82377275225'
+data_dovetail:iBraLan1_scale: '1.8643'
 data_dovetail_bases: 82.38 Gbp
 data_dovetail_bytes: 41.2 GiB
 data_dovetail_coverage: 142.76x
-data_pacbiohifi_fqgz:iBraLan1_bases: 50.34 Gbp
-data_pacbiohifi_fqgz:iBraLan1_bytes: 43.9 GiB
-data_pacbiohifi_fqgz:iBraLan1_coverage: 87.25x
-data_pacbiohifi_fqgz:iBraLan1_links: s3://genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_fqgz:iBraLan1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz:iBraLan1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/iBraLan1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz:iBraLan1_scale: 1.0682
+data_pacbiohifi_fqgz-5_bases: 50.34 Gbp
+data_pacbiohifi_fqgz-5_bytes: 43.9 GiB
+data_pacbiohifi_fqgz-5_coverage: 87.25x
+data_pacbiohifi_fqgz-5_links: s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-5_scale: 1.0682
+data_pacbiohifi_fqgz:iBraLan1_bases: '50342885375'
+data_pacbiohifi_fqgz:iBraLan1_scale: '1.0682'
 data_pacbiohifi_fqgz_bases: 50.34 Gbp
 data_pacbiohifi_fqgz_bytes: 43.9 GiB
 data_pacbiohifi_fqgz_coverage: 87.25x
@@ -105,8 +111,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
-last_raw_data: 1685714122
-last_updated: 1685714124
+last_raw_data: 1687315206
+last_updated: 1687315206
 metadata: |
   species:
     short_name: klBraLanc

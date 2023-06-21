@@ -11,16 +11,16 @@ data_arima-2_scale: 3.0207
 data_arima_bases: 101.26 Gbp
 data_arima_bytes: 31.2 GiB
 data_arima_coverage: 51.51x
-data_pacbiohifi_bam-2_bases: 38.60 Gbp
-data_pacbiohifi_bam-2_bytes: 97.4 GiB
-data_pacbiohifi_bam-2_coverage: 19.63x
+data_pacbiohifi_bam-2_bases: 75.18 Gbp
+data_pacbiohifi_bam-2_bytes: 117.1 GiB
+data_pacbiohifi_bam-2_coverage: 38.24x
 data_pacbiohifi_bam-2_links: s3://genomeark/species/Carassius_carassius/fCarCar2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Carassius_carassius/fCarCar2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Carassius_carassius/fCarCar2/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-2_scale: 0.3689
-data_pacbiohifi_bam_bases: 38.60 Gbp
-data_pacbiohifi_bam_bytes: 97.4 GiB
-data_pacbiohifi_bam_coverage: 19.63x
+data_pacbiohifi_bam-2_scale: 0.5977
+data_pacbiohifi_bam_bases: 75.18 Gbp
+data_pacbiohifi_bam_bytes: 117.1 GiB
+data_pacbiohifi_bam_coverage: 38.24x
 data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1965780000
 genome_size_display: 1.97 Gbp
 genome_size_method: GoaT
-last_raw_data: 1675888353
-last_updated: 1675888355
+last_raw_data: 1687194698
+last_updated: 1687194698
 metadata: |
   species:
     short_name: fCarCar

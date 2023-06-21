@@ -11,16 +11,16 @@ data_arima-1_scale: 3.1233
 data_arima_bases: 252.25 Gbp
 data_arima_bytes: 75.2 GiB
 data_arima_coverage: 105.81x
-data_pacbiohifi_bam-1_bases: 42.03 Gbp
-data_pacbiohifi_bam-1_bytes: 84.6 GiB
-data_pacbiohifi_bam-1_coverage: 17.63x
+data_pacbiohifi_bam-1_bases: 67.43 Gbp
+data_pacbiohifi_bam-1_bytes: 100.8 GiB
+data_pacbiohifi_bam-1_coverage: 28.29x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Eptesicus_nilssonii/mEptNil1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Eptesicus_nilssonii/mEptNil1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Eptesicus_nilssonii/mEptNil1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.4628
-data_pacbiohifi_bam_bases: 42.03 Gbp
-data_pacbiohifi_bam_bytes: 84.6 GiB
-data_pacbiohifi_bam_coverage: 17.63x
+data_pacbiohifi_bam-1_scale: 0.6231
+data_pacbiohifi_bam_bases: 67.43 Gbp
+data_pacbiohifi_bam_bytes: 100.8 GiB
+data_pacbiohifi_bam_coverage: 28.29x
 data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2383875000
 genome_size_display: 2.38 Gbp
 genome_size_method: GoaT
-last_raw_data: 1675918949
-last_updated: 1675918951
+last_raw_data: 1687192022
+last_updated: 1687192022
 metadata: |
   species:
     short_name: mEptNil
