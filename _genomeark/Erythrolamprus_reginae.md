@@ -117,12 +117,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2022-09-29
-hpb1filesize: 559.5 MiB
-hpb1length: '1964224387'
-hpb1n50ctg: 3064756
-hpb1n50scf: 255449344
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Erythrolamprus_reginae/rEryReg1/assembly_vgp_HiC_2.0/rEryReg1.HiC.hap2.20220929.fasta.gz
+hpb1date: 2023-06-23
+hpb1filesize: 548.3 MiB
+hpb1length: '1924602480'
+hpb1n50ctg: 3011513
+hpb1n50scf: 259117534
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Erythrolamprus_reginae/rEryReg1/assembly_curated/rEryReg1.hap2.cur.20230623.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -140,14 +140,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 16 </td><td> 10.48 Mbp </td><td> 1 </td><td> 426.06 Mbp </td></tr><tr><td> 20 </td><td> 39 </td><td> 7.41 Mbp </td><td> 1 </td><td> 426.06 Mbp </td></tr><tr><td> 30 </td><td> 71 </td><td> 5.13 Mbp </td><td> 2 </td><td> 347.46 Mbp </td></tr><tr><td> 40 </td><td> 116 </td><td> 3.89 Mbp </td><td> 3 </td><td> 255.45 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 172 </td><td style="background-color:#88ff88;"> 3.06 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 255.45 Mbp </td></tr><tr><td> 60 </td><td> 247 </td><td> 2.29 Mbp </td><td> 4 </td><td> 152.91 Mbp </td></tr><tr><td> 70 </td><td> 346 </td><td> 1.71 Mbp </td><td> 6 </td><td> 118.94 Mbp </td></tr><tr><td> 80 </td><td> 493 </td><td> 1.05 Mbp </td><td> 8 </td><td> 86.43 Mbp </td></tr><tr><td> 90 </td><td> 748 </td><td> 0.55 Mbp </td><td> 11 </td><td> 49.25 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 16 </td><td> 10.44 Mbp </td><td> 1 </td><td> 426.56 Mbp </td></tr><tr><td> 20 </td><td> 39 </td><td> 7.41 Mbp </td><td> 1 </td><td> 426.56 Mbp </td></tr><tr><td> 30 </td><td> 71 </td><td> 5.13 Mbp </td><td> 2 </td><td> 355.37 Mbp </td></tr><tr><td> 40 </td><td> 116 </td><td> 3.89 Mbp </td><td> 3 </td><td> 259.12 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 173 </td><td style="background-color:#88ff88;"> 3.01 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 259.12 Mbp </td></tr><tr><td> 60 </td><td> 248 </td><td> 2.28 Mbp </td><td> 4 </td><td> 152.91 Mbp </td></tr><tr><td> 70 </td><td> 347 </td><td> 1.68 Mbp </td><td> 6 </td><td> 119.10 Mbp </td></tr><tr><td> 80 </td><td> 499 </td><td> 1.02 Mbp </td><td> 8 </td><td> 87.32 Mbp </td></tr><tr><td> 90 </td><td> 775 </td><td> 486.12 Kbp </td><td> 11 </td><td> 50.30 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.999x </th><th> 1791 </th><th> 1.96 Gbp </th><th> 451 </th><th> 1.96 Gbp </th></tr>
+  <tr><th> 0.979x </th><th> 1712 </th><th> 1.92 Gbp </th><th> 325 </th><th> 1.92 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1651627264
-last_updated: 1678306729
+last_updated: 1687532558
 mds:
 - data: "species: Erythrolamprus reginae\nspecimen: rEryReg1\nprojects: \n  - vgp\nhap2:
     s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/assembly_vgp_HiC_2.0/rEryReg1.HiC.hap2.20220929.fasta.gz\npretext_hap2:
@@ -166,7 +166,7 @@ mds:
     the assembly being near to the expected genome size based on the triploid genomescope
     model. This hap2 was scaffolded with HiC data using YAHS, and is what we are submitting
     for curation. "
-  ident: md4
+  ident: md6
   title: assembly_vgp_HiC_2.0/rEryReg1_hap2.yaml
 metadata: |
   species:

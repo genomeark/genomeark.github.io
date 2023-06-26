@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-06-09
+hpa1date: 2023-06-23
 hpa1filesize: 444.0 MiB
 hpa1length: '1529331567'
 hpa1n50ctg: 49525232
 hpa1n50scf: 209784440
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Candoia_aspera/rCanAsp1/assembly_curated/rCanAsp1.hap1.decon.20230609.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Candoia_aspera/rCanAsp1/assembly_curated/rCanAsp1.hap1.decon.20230623.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -58,12 +58,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2023-06-09
+hpb1date: 2023-06-23
 hpb1filesize: 444.3 MiB
 hpb1length: '1530810380'
 hpb1n50ctg: 55640180
 hpb1n50scf: 209480725
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Candoia_aspera/rCanAsp1/assembly_curated/rCanAsp1.hap2.cur.20230609.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Candoia_aspera/rCanAsp1/assembly_curated/rCanAsp1.hap2.cur.20230623.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1673021442
-last_updated: 1686269003
+last_updated: 1687531729
 mds:
 - data: "species: Candoia aspera\nspecimen: rCanAsp1\nprojects: \n  - vgp\nhaplotype_to_curate:
     hap2\nhap1: s3://genomeark/species/Candoia_aspera/rCanAsp1/assembly_vgp_HiC_2.0/rCanAsp1.HiC.hap1.20230202.fasta.gz\nhap2:

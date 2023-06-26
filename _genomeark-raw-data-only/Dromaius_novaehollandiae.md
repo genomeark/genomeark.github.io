@@ -1,0 +1,1 @@
+../_genomeark/Dromaius_novaehollandiae.md
