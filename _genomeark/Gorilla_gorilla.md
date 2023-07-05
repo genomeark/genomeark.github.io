@@ -11,6 +11,13 @@ data_dovetail-1_scale: 1.8291
 data_dovetail_bases: 148.47 Gbp
 data_dovetail_bytes: 75.6 GiB
 data_dovetail_coverage: 42.52x
+data_illumina-1_bases: 285.39 Gbp
+data_illumina-1_bytes: 141.9 GiB
+data_illumina-1_coverage: 81.74x
+data_illumina-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/illumina/
+data_illumina-1_scale: 1.8732
 data_illumina-2_bases: 213.03 Gbp
 data_illumina-2_bytes: 102.2 GiB
 data_illumina-2_coverage: 61.02x
@@ -25,9 +32,9 @@ data_illumina-3_links: s3://genomeark/species/Gorilla_gorilla/mGorGor3/genomic_d
 data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor3/genomic_data/illumina/
 data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor3/genomic_data/illumina/
 data_illumina-3_scale: 1.9452
-data_illumina_bases: 463.59 Gbp
-data_illumina_bytes: 222.1 GiB
-data_illumina_coverage: 132.78x
+data_illumina_bases: 748.98 Gbp
+data_illumina_bytes: 364.0 GiB
+data_illumina_coverage: 214.52x
 data_ont-1_bases: 570.58 Gbp
 data_ont-1_bytes: 486.1 GiB
 data_ont-1_coverage: 163.42x
@@ -116,8 +123,8 @@ dip1version: assembly_verkko_1.1-0.2-freeze
 genome_size: 3491460000
 genome_size_display: 3.49 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-last_raw_data: 1686266194
-last_updated: 1686785124
+last_raw_data: 1688084224
+last_updated: 1688084224
 mat1date: 2022-11-11
 mat1filesize: 826.5 MiB
 mat1length: '3535292761'

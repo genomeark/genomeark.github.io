@@ -11,6 +11,16 @@ data_dovetail-1_scale: 1.8422
 data_dovetail_bases: 112.53 Gbp
 data_dovetail_bytes: 56.9 GiB
 data_dovetail_coverage: 31.44x
+data_illumina-1_bases: 223.75 Gbp
+data_illumina-1_bytes: 112.5 GiB
+data_illumina-1_coverage: 62.51x
+data_illumina-1_links: s3://genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pongo_abelii/mPonAbe1/genomic_data/illumina/
+data_illumina-1_scale: 1.8529
+data_illumina_bases: 223.75 Gbp
+data_illumina_bytes: 112.5 GiB
+data_illumina_coverage: 62.51x
 data_ont-1_bases: 291.23 Gbp
 data_ont-1_bytes: 246.6 GiB
 data_ont-1_coverage: 81.36x
@@ -52,7 +62,7 @@ data_pacbiohifi_fqgz_bases: 315.06 Gbp
 data_pacbiohifi_fqgz_bytes: 239.4 GiB
 data_pacbiohifi_fqgz_coverage: 88.02x
 data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
-  Simplex</em> ::: <em style="color:forestgreen">Dovetail</em>'''
+  Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'''
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -147,8 +157,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_verkko_1.1-hic-freeze
-last_raw_data: 1686252725
-last_updated: 1686782305
+last_raw_data: 1688085175
+last_updated: 1688085175
 metadata: |
   species:
     short_name: mPonAbe

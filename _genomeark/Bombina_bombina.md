@@ -70,16 +70,16 @@ data_pacbio-1_scale: 0.5287
 data_pacbio_bases: 929.36 Gbp
 data_pacbio_bytes: 1.6 TiB
 data_pacbio_coverage: 92.75x
-data_pacbio_fqgz-1_bases: 131.60 Gbp
-data_pacbio_fqgz-1_bytes: 245.1 GiB
-data_pacbio_fqgz-1_coverage: 13.13x
+data_pacbio_fqgz-1_bases: 163.69 Gbp
+data_pacbio_fqgz-1_bytes: 288.3 GiB
+data_pacbio_fqgz-1_coverage: 16.34x
 data_pacbio_fqgz-1_links: s3://genomeark/species/Bombina_bombina/aBomBom1/genomic_data/pacbio_fqgz/<br>
 data_pacbio_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bombina_bombina/aBomBom1/genomic_data/pacbio_fqgz/
 data_pacbio_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bombina_bombina/aBomBom1/genomic_data/pacbio_fqgz/
-data_pacbio_fqgz-1_scale: 0.5000
-data_pacbio_fqgz_bases: 131.60 Gbp
-data_pacbio_fqgz_bytes: 245.1 GiB
-data_pacbio_fqgz_coverage: 13.13x
+data_pacbio_fqgz-1_scale: 0.5287
+data_pacbio_fqgz_bases: 163.69 Gbp
+data_pacbio_fqgz_bytes: 288.3 GiB
+data_pacbio_fqgz_coverage: 16.34x
 data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
   ::: <em style="color:forestgreen">Arima</em>'''
 data_use_source: from-default
@@ -91,8 +91,8 @@ genbank_pri: aBomBom1:GCA_027579735.1
 genome_size: 10019663791
 genome_size_display: 10.02 Gbp
 genome_size_method: ''
-last_raw_data: 1687880812
-last_updated: 1687880812
+last_raw_data: 1687903561
+last_updated: 1687903561
 mds:
 - data: |
     species: Bombina bombina

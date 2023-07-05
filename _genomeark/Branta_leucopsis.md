@@ -31,7 +31,18 @@ data_pacbio-1_scale: 0.5208
 data_pacbio_bases: 62.56 Gbp
 data_pacbio_bytes: 111.9 GiB
 data_pacbio_coverage: N/A
-data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">Arima</em>'''
+data_pacbiohifi_bam-2_bases: 26.18 Gbp
+data_pacbiohifi_bam-2_bytes: 16.7 GiB
+data_pacbiohifi_bam-2_coverage: N/A
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Branta_leucopsis/bBraLeu2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Branta_leucopsis/bBraLeu2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branta_leucopsis/bBraLeu2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 1.4620
+data_pacbiohifi_bam_bases: 26.18 Gbp
+data_pacbiohifi_bam_bytes: 16.7 GiB
+data_pacbiohifi_bam_coverage: N/A
+data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
+  HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -39,8 +50,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1685714282
-last_updated: 1685714284
+last_raw_data: 1688118423
+last_updated: 1688118423
 metadata: |
   species:
     short_name: bBraLeu

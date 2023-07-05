@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-3_bases: 151.87 Gbp
 data_arima-3_bytes: 75.5 GiB
@@ -39,12 +39,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa3date: 2023-04-07
-hpa3filesize: 383.2 MiB
-hpa3length: '1412341850'
-hpa3n50ctg: 11686042
-hpa3n50scf: 44537262
-hpa3seq: https://s3.amazonaws.com/genomeark/species/Gavia_stellata/bGavSte3/assembly_vgp_HiC_2.0/bGavSte3.HiC.hap1.20230407.fasta.gz
+hpa3date: 2023-06-27
+hpa3filesize: 380.9 MiB
+hpa3length: '1403461371'
+hpa3n50ctg: 12016335
+hpa3n50scf: 50556253
+hpa3seq: https://s3.amazonaws.com/genomeark/species/Gavia_stellata/bGavSte3/assembly_curated/bGavSte3.hap1.cur.20230627.fasta.gz
 hpa3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -62,18 +62,18 @@ hpa3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 4 </td><td> 30.29 Mbp </td><td> 2 </td><td> 113.82 Mbp </td></tr><tr><td> 20 </td><td> 10 </td><td> 21.88 Mbp </td><td> 3 </td><td> 105.09 Mbp </td></tr><tr><td> 30 </td><td> 17 </td><td> 18.14 Mbp </td><td> 4 </td><td> 85.65 Mbp </td></tr><tr><td> 40 </td><td> 26 </td><td> 15.22 Mbp </td><td> 6 </td><td> 63.07 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 37 </td><td style="background-color:#88ff88;"> 11.69 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 44.54 Mbp </td></tr><tr><td> 60 </td><td> 50 </td><td> 9.67 Mbp </td><td> 13 </td><td> 30.28 Mbp </td></tr><tr><td> 70 </td><td> 69 </td><td> 5.34 Mbp </td><td> 19 </td><td> 22.27 Mbp </td></tr><tr><td> 80 </td><td> 108 </td><td> 2.45 Mbp </td><td> 27 </td><td> 13.46 Mbp </td></tr><tr><td> 90 </td><td> 362 </td><td> 123.86 Kbp </td><td> 174 </td><td> 148.56 Kbp </td></tr><tr><td> 100 </td><td> 3438 </td><td> 12.60 Kbp </td><td> 3209 </td><td> 12.60 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 30.29 Mbp </td><td> 2 </td><td> 113.82 Mbp </td></tr><tr><td> 20 </td><td> 10 </td><td> 21.88 Mbp </td><td> 3 </td><td> 105.09 Mbp </td></tr><tr><td> 30 </td><td> 17 </td><td> 18.14 Mbp </td><td> 4 </td><td> 89.71 Mbp </td></tr><tr><td> 40 </td><td> 26 </td><td> 15.22 Mbp </td><td> 6 </td><td> 66.80 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 36 </td><td style="background-color:#88ff88;"> 12.02 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 50.56 Mbp </td></tr><tr><td> 60 </td><td> 49 </td><td> 9.70 Mbp </td><td> 12 </td><td> 33.66 Mbp </td></tr><tr><td> 70 </td><td> 68 </td><td> 5.51 Mbp </td><td> 17 </td><td> 22.27 Mbp </td></tr><tr><td> 80 </td><td> 105 </td><td> 2.54 Mbp </td><td> 25 </td><td> 13.79 Mbp </td></tr><tr><td> 90 </td><td> 312 </td><td> 165.94 Kbp </td><td> 107 </td><td> 229.14 Kbp </td></tr><tr><td> 100 </td><td> 3225 </td><td> 12.60 Kbp </td><td> 2965 </td><td> 12.60 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 3438 </th><th> 1.41 Gbp </th><th> 3209 </th><th> 1.41 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 3225 </th><th> 1.40 Gbp </th><th> 2965 </th><th> 1.40 Gbp </th></tr>
   </tfoot>
   </table>
-hpa3version: assembly_vgp_HiC_2.0
-hpb3date: 2023-04-07
-hpb3filesize: 373.1 MiB
-hpb3length: '1324199850'
+hpa3version: assembly_curated
+hpb3date: 2023-06-27
+hpb3filesize: 372.5 MiB
+hpb3length: '1321270170'
 hpb3n50ctg: 13765203
 hpb3n50scf: 50637386
-hpb3seq: https://s3.amazonaws.com/genomeark/species/Gavia_stellata/bGavSte3/assembly_vgp_HiC_2.0/bGavSte3.HiC.hap2.20230407.fasta.gz
+hpb3seq: https://s3.amazonaws.com/genomeark/species/Gavia_stellata/bGavSte3/assembly_curated/bGavSte3.hap2.cur.20230627.fasta.gz
 hpb3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -91,14 +91,14 @@ hpb3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 4 </td><td> 26.91 Mbp </td><td> 2 </td><td> 113.72 Mbp </td></tr><tr><td> 20 </td><td> 9 </td><td> 22.60 Mbp </td><td> 3 </td><td> 103.81 Mbp </td></tr><tr><td> 30 </td><td> 15 </td><td> 19.36 Mbp </td><td> 4 </td><td> 85.81 Mbp </td></tr><tr><td> 40 </td><td> 22 </td><td> 16.63 Mbp </td><td> 6 </td><td> 65.28 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 31 </td><td style="background-color:#88ff88;"> 13.77 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 50.64 Mbp </td></tr><tr><td> 60 </td><td> 42 </td><td> 10.60 Mbp </td><td> 11 </td><td> 37.09 Mbp </td></tr><tr><td> 70 </td><td> 58 </td><td> 6.69 Mbp </td><td> 16 </td><td> 23.88 Mbp </td></tr><tr><td> 80 </td><td> 89 </td><td> 2.97 Mbp </td><td> 22 </td><td> 17.22 Mbp </td></tr><tr><td> 90 </td><td> 164 </td><td> 0.93 Mbp </td><td> 36 </td><td> 4.66 Mbp </td></tr><tr><td> 100 </td><td> 1520 </td><td> 16.83 Kbp </td><td> 1291 </td><td> 16.83 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 26.91 Mbp </td><td> 1 </td><td> 133.33 Mbp </td></tr><tr><td> 20 </td><td> 9 </td><td> 22.60 Mbp </td><td> 3 </td><td> 105.02 Mbp </td></tr><tr><td> 30 </td><td> 15 </td><td> 19.36 Mbp </td><td> 4 </td><td> 89.49 Mbp </td></tr><tr><td> 40 </td><td> 22 </td><td> 16.63 Mbp </td><td> 6 </td><td> 65.28 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 31 </td><td style="background-color:#88ff88;"> 13.77 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 50.64 Mbp </td></tr><tr><td> 60 </td><td> 42 </td><td> 10.60 Mbp </td><td> 10 </td><td> 41.84 Mbp </td></tr><tr><td> 70 </td><td> 58 </td><td> 6.69 Mbp </td><td> 15 </td><td> 25.04 Mbp </td></tr><tr><td> 80 </td><td> 88 </td><td> 3.02 Mbp </td><td> 21 </td><td> 18.13 Mbp </td></tr><tr><td> 90 </td><td> 161 </td><td> 0.95 Mbp </td><td> 32 </td><td> 6.70 Mbp </td></tr><tr><td> 100 </td><td> 1434 </td><td> 17.34 Kbp </td><td> 1185 </td><td> 17.34 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1520 </th><th> 1.32 Gbp </th><th> 1291 </th><th> 1.32 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 1434 </th><th> 1.32 Gbp </th><th> 1185 </th><th> 1.32 Gbp </th></tr>
   </tfoot>
   </table>
-hpb3version: assembly_vgp_HiC_2.0
+hpb3version: assembly_curated
 last_raw_data: 1677020227
-last_updated: 1680901360
+last_updated: 1687891208
 mds:
 - data: "species: Gavia stellata\nspecimen: bGavSte3\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Gavia_stellata/bGavSte3/assembly_vgp_HiC_2.0/bGavSte3.HiC.hap1.20230407.fasta.gz\nhap2:
@@ -114,7 +114,7 @@ mds:
     This individual did not have bionano data. HiC scaffolding was performed with
     yahs. The HiC prep was Arima kit 2. I am submitting both hap1 & hap2 for dual
     curation. This is the curation ticket for hap1.\n"
-  ident: md4
+  ident: md10
   title: assembly_vgp_HiC_2.0/bGavSte3_hap1.yml
 - data: "species: Gavia stellata\nspecimen: bGavSte3\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Gavia_stellata/bGavSte3/assembly_vgp_HiC_2.0/bGavSte3.HiC.hap1.20230407.fasta.gz\nhap2:
@@ -130,7 +130,7 @@ mds:
     This individual did not have bionano data. HiC scaffolding was performed with
     yahs. The HiC prep was Arima kit 2. I am submitting both hap1 & hap2 for dual
     curation. This is the curation ticket for hap2.\n"
-  ident: md5
+  ident: md11
   title: assembly_vgp_HiC_2.0/bGavSte3_hap2.yml
 mito3date: 2023-04-07
 mito3filesize: 5.5 KiB

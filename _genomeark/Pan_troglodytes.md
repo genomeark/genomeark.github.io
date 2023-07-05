@@ -31,6 +31,16 @@ data_dovetail-3_scale: 1.8707
 data_dovetail_bases: 190.56 Gbp
 data_dovetail_bytes: 94.9 GiB
 data_dovetail_coverage: 52.73x
+data_illumina-3_bases: 176.42 Gbp
+data_illumina-3_bytes: 89.8 GiB
+data_illumina-3_coverage: 48.82x
+data_illumina-3_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro3/genomic_data/illumina/
+data_illumina-3_scale: 1.8301
+data_illumina_bases: 176.42 Gbp
+data_illumina_bytes: 89.8 GiB
+data_illumina_coverage: 48.82x
 data_ont-3_bases: 397.87 Gbp
 data_ont-3_bytes: 351.1 GiB
 data_ont-3_coverage: 110.10x
@@ -83,7 +93,7 @@ data_pacbiohifi_fqgz_bytes: 157.7 GiB
 data_pacbiohifi_fqgz_coverage: 59.39x
 data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
   HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em>
-  ::: <em style="color:forestgreen">Dovetail</em>'''
+  ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'''
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -178,8 +188,8 @@ hpb3sizes: |
   </tfoot>
   </table>
 hpb3version: assembly_verkko_1.1-hic-freeze
-last_raw_data: 1686257150
-last_updated: 1686779505
+last_raw_data: 1688081498
+last_updated: 1688081498
 metadata: |
   species:
     short_name: mPanTro
