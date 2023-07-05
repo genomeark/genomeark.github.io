@@ -165,27 +165,38 @@ document.addEventListener('click', tog, false);
   to show an entirely different block.
 {% endcomment %}
 
-{% if page.pri1seq or page.alt1seq or page.mat1seq or page.pat1seq or page.hpa1seq or page.hpb1seq or page.mgd1seq or page.dip1seq or page.mito1seq %} {% assign d1 = true %} {% else %} {% assign d1 = false %} {% endif %}
-{% if page.pri2seq or page.alt2seq or page.mat2seq or page.pat2seq or page.hpa2seq or page.hpb2seq or page.mgd2seq or page.dip2seq or page.mito2seq %} {% assign d2 = true %} {% else %} {% assign d2 = false %} {% endif %}
-{% if page.pri3seq or page.alt3seq or page.mat3seq or page.pat3seq or page.hpa3seq or page.hpb3seq or page.mgd3seq or page.dip3seq or page.mito3seq %} {% assign d3 = true %} {% else %} {% assign d3 = false %} {% endif %}
-{% if page.pri4seq or page.alt4seq or page.mat4seq or page.pat4seq or page.hpa4seq or page.hpb4seq or page.mgd4seq or page.dip4seq or page.mito4seq %} {% assign d4 = true %} {% else %} {% assign d4 = false %} {% endif %}
-{% if page.pri5seq or page.alt5seq or page.mat5seq or page.pat5seq or page.hpa5seq or page.hpb5seq or page.mgd5seq or page.dip5seq or page.mito5seq %} {% assign d5 = true %} {% else %} {% assign d5 = false %} {% endif %}
-{% if page.pri6seq or page.alt6seq or page.mat6seq or page.pat6seq or page.hpa6seq or page.hpb6seq or page.mgd6seq or page.dip6seq or page.mito6seq %} {% assign d6 = true %} {% else %} {% assign d6 = false %} {% endif %}
-{% if page.pri7seq or page.alt7seq or page.mat7seq or page.pat7seq or page.hpa7seq or page.hpb7seq or page.mgd7seq or page.dip7seq or page.mito7seq %} {% assign d7 = true %} {% else %} {% assign d7 = false %} {% endif %}
-{% if page.pri8seq or page.alt8seq or page.mat8seq or page.pat8seq or page.hpa8seq or page.hpb8seq or page.mgd8seq or page.dip8seq or page.mito8seq %} {% assign d8 = true %} {% else %} {% assign d8 = false %} {% endif %}
-{% if page.pri9seq or page.alt9seq or page.mat9seq or page.pat9seq or page.hpa9seq or page.hpb9seq or page.mgd9seq or page.dip9seq or page.mito9seq %} {% assign d9 = true %} {% else %} {% assign d9 = false %} {% endif %}
+{% if page.pri1seq  or page.alt1seq  or page.mat1seq  or page.pat1seq  or page.hpa1seq  or page.hpb1seq  or page.mgd1seq  or page.dip1seq  or page.mito1seq  %} {% assign d1  = true %} {% else %} {% assign d1  = false %} {% endif %}
+{% if page.pri2seq  or page.alt2seq  or page.mat2seq  or page.pat2seq  or page.hpa2seq  or page.hpb2seq  or page.mgd2seq  or page.dip2seq  or page.mito2seq  %} {% assign d2  = true %} {% else %} {% assign d2  = false %} {% endif %}
+{% if page.pri3seq  or page.alt3seq  or page.mat3seq  or page.pat3seq  or page.hpa3seq  or page.hpb3seq  or page.mgd3seq  or page.dip3seq  or page.mito3seq  %} {% assign d3  = true %} {% else %} {% assign d3  = false %} {% endif %}
+{% if page.pri4seq  or page.alt4seq  or page.mat4seq  or page.pat4seq  or page.hpa4seq  or page.hpb4seq  or page.mgd4seq  or page.dip4seq  or page.mito4seq  %} {% assign d4  = true %} {% else %} {% assign d4  = false %} {% endif %}
+{% if page.pri5seq  or page.alt5seq  or page.mat5seq  or page.pat5seq  or page.hpa5seq  or page.hpb5seq  or page.mgd5seq  or page.dip5seq  or page.mito5seq  %} {% assign d5  = true %} {% else %} {% assign d5  = false %} {% endif %}
+{% if page.pri6seq  or page.alt6seq  or page.mat6seq  or page.pat6seq  or page.hpa6seq  or page.hpb6seq  or page.mgd6seq  or page.dip6seq  or page.mito6seq  %} {% assign d6  = true %} {% else %} {% assign d6  = false %} {% endif %}
+{% if page.pri7seq  or page.alt7seq  or page.mat7seq  or page.pat7seq  or page.hpa7seq  or page.hpb7seq  or page.mgd7seq  or page.dip7seq  or page.mito7seq  %} {% assign d7  = true %} {% else %} {% assign d7  = false %} {% endif %}
+{% if page.pri8seq  or page.alt8seq  or page.mat8seq  or page.pat8seq  or page.hpa8seq  or page.hpb8seq  or page.mgd8seq  or page.dip8seq  or page.mito8seq  %} {% assign d8  = true %} {% else %} {% assign d8  = false %} {% endif %}
+{% if page.pri9seq  or page.alt9seq  or page.mat9seq  or page.pat9seq  or page.hpa9seq  or page.hpb9seq  or page.mgd9seq  or page.dip9seq  or page.mito9seq  %} {% assign d9  = true %} {% else %} {% assign d9  = false %} {% endif %}
+{% if page.pri10seq or page.alt10seq or page.mat10seq or page.pat10seq or page.hpa10seq or page.hpb10seq or page.mgd10seq or page.dip10seq or page.mito10seq %} {% assign d10 = true %} {% else %} {% assign d10 = false %} {% endif %}
+{% if page.pri11seq or page.alt11seq or page.mat11seq or page.pat11seq or page.hpa11seq or page.hpb11seq or page.mgd11seq or page.dip11seq or page.mito11seq %} {% assign d11 = true %} {% else %} {% assign d11 = false %} {% endif %}
+{% if page.pri12seq or page.alt12seq or page.mat12seq or page.pat12seq or page.hpa12seq or page.hpb12seq or page.mgd12seq or page.dip12seq or page.mito12seq %} {% assign d12 = true %} {% else %} {% assign d12 = false %} {% endif %}
+{% if page.pri13seq or page.alt13seq or page.mat13seq or page.pat13seq or page.hpa13seq or page.hpb13seq or page.mgd13seq or page.dip13seq or page.mito13seq %} {% assign d13 = true %} {% else %} {% assign d13 = false %} {% endif %}
+{% if page.pri14seq or page.alt14seq or page.mat14seq or page.pat14seq or page.hpa14seq or page.hpb14seq or page.mgd14seq or page.dip14seq or page.mito14seq %} {% assign d14 = true %} {% else %} {% assign d14 = false %} {% endif %}
+{% if page.pri15seq or page.alt15seq or page.mat15seq or page.pat15seq or page.hpa15seq or page.hpb15seq or page.mgd15seq or page.dip15seq or page.mito15seq %} {% assign d15 = true %} {% else %} {% assign d15 = false %} {% endif %}
 
-{% if d2 or d3 or d4 or d5 or d6 or d7 or d8 or d9 %}  {% assign div12b = true %}  {% else %}  {% assign div12b = false %}  {% endif %}
-{% if       d3 or d4 or d5 or d6 or d7 or d8 or d9 %}  {% assign div23b = true %}  {% else %}  {% assign div23b = false %}  {% endif %}
-{% if             d4 or d5 or d6 or d7 or d8 or d9 %}  {% assign div34b = true %}  {% else %}  {% assign div34b = false %}  {% endif %}
-{% if                   d5 or d6 or d7 or d8 or d9 %}  {% assign div45b = true %}  {% else %}  {% assign div45b = false %}  {% endif %}
-{% if                         d6 or d7 or d8 or d9 %}  {% assign div56b = true %}  {% else %}  {% assign div56b = false %}  {% endif %}
-{% if                               d7 or d8 or d9 %}  {% assign div67b = true %}  {% else %}  {% assign div67b = false %}  {% endif %}
-{% if                                     d8 or d9 %}  {% assign div78b = true %}  {% else %}  {% assign div78b = false %}  {% endif %}
-{% if                                           d9 %}  {% assign div89b = true %}  {% else %}  {% assign div89b = false %}  {% endif %}
+{% if d2 or d3 or d4 or d5 or d6 or d7 or d8 or d9 or d10 or d11 or d12 or d13 or d14 or d15 %}  {% assign div1  = true %}  {% else %}  {% assign div1  = false %}  {% endif %}
+{% if       d3 or d4 or d5 or d6 or d7 or d8 or d9 or d10 or d11 or d12 or d13 or d14 or d15 %}  {% assign div2  = true %}  {% else %}  {% assign div2  = false %}  {% endif %}
+{% if             d4 or d5 or d6 or d7 or d8 or d9 or d10 or d11 or d12 or d13 or d14 or d15 %}  {% assign div3  = true %}  {% else %}  {% assign div3  = false %}  {% endif %}
+{% if                   d5 or d6 or d7 or d8 or d9 or d10 or d11 or d12 or d13 or d14 or d15 %}  {% assign div4  = true %}  {% else %}  {% assign div4  = false %}  {% endif %}
+{% if                         d6 or d7 or d8 or d9 or d10 or d11 or d12 or d13 or d14 or d15 %}  {% assign div5  = true %}  {% else %}  {% assign div5  = false %}  {% endif %}
+{% if                               d7 or d8 or d9 or d10 or d11 or d12 or d13 or d14 or d15 %}  {% assign div6  = true %}  {% else %}  {% assign div6  = false %}  {% endif %}
+{% if                                     d8 or d9 or d10 or d11 or d12 or d13 or d14 or d15 %}  {% assign div7  = true %}  {% else %}  {% assign div7  = false %}  {% endif %}
+{% if                                           d9 or d10 or d11 or d12 or d13 or d14 or d15 %}  {% assign div8  = true %}  {% else %}  {% assign div8  = false %}  {% endif %}
+{% if                                                 d10 or d11 or d12 or d13 or d14 or d15 %}  {% assign div9  = true %}  {% else %}  {% assign div9  = false %}  {% endif %}
+{% if                                                        d11 or d12 or d13 or d14 or d15 %}  {% assign div10 = true %}  {% else %}  {% assign div10 = false %}  {% endif %}
+{% if                                                               d12 or d13 or d14 or d15 %}  {% assign div11 = true %}  {% else %}  {% assign div11 = false %}  {% endif %}
+{% if                                                                      d13 or d14 or d15 %}  {% assign div12 = true %}  {% else %}  {% assign div12 = false %}  {% endif %}
+{% if                                                                             d14 or d15 %}  {% assign div13 = true %}  {% else %}  {% assign div13 = false %}  {% endif %}
+{% if                                                                                    d15 %}  {% assign div14 = true %}  {% else %}  {% assign div14 = false %}  {% endif %}
 
-
-{% unless d1 or d2 or d3 or d4 or d5 or d6 or d7 or d8 or d9 %}
+{% unless d1 or d2 or d3 or d4 or d5 or d6 or d7 or d8 or d9 or d10 or d11 or d12 or d13 or d14 or d15 %}
 
 <div class="section">
 <div class="data-use">
@@ -211,13 +222,10 @@ document.addEventListener('click', tog, false);
                                             rlabel="Haplotype 2" rseq=page.hpb1seq  rversion=page.hpb1version  rdate=page.hpb1date  rfilesize=page.hpb1filesize  rsizes=page.hpb1sizes %}
 {% include assembly-stats.html individual=1                      mseq=page.mito1seq mversion=page.mito1version mdate=page.mito1date mfilesize=page.mito1filesize %}
 
+
 {% if d1 %} {% assign shown = false %} {% endif %}
-{% if shown == false and d1 and div12b %}
-{% assign shown = true %}
-<div class="assembly-list-line">
-<hr width="80%">
-</div>
-{% endif %}
+{% if shown == false and d1 and div1 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
+
 
 {% include assembly-stats.html individual=2 tlabel="Diploid"     tseq=page.dip2seq  tversion=page.dip2version  tdate=page.dip2date  tfilesize=page.dip2filesize  tsizes=page.dip2sizes %}
 {% include assembly-stats.html individual=2 llabel="Primary"     lseq=page.pri2seq  lversion=page.pri2version  ldate=page.pri2date  lfilesize=page.pri2filesize  lsizes=page.pri2sizes
@@ -229,13 +237,10 @@ document.addEventListener('click', tog, false);
                                             rlabel="Haplotype 2" rseq=page.hpb2seq  rversion=page.hpb2version  rdate=page.hpb2date  rfilesize=page.hpb2filesize  rsizes=page.hpb2sizes %}
 {% include assembly-stats.html individual=2                      mseq=page.mito2seq mversion=page.mito2version mdate=page.mito2date mfilesize=page.mito2filesize %}
 
+
 {% if d2 %} {% assign shown = false %} {% endif %}
-{% if shown == false and d2 and div23b %}
-{% assign shown = true %}
-<div class="assembly-list-line">
-<hr width="80%">
-</div>
-{% endif %}
+{% if shown == false and d2 and div2 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
+
 
 {% include assembly-stats.html individual=3 tlabel="Diploid"     tseq=page.dip3seq  tversion=page.dip3version  tdate=page.dip3date  tfilesize=page.dip3filesize  tsizes=page.dip3sizes %}
 {% include assembly-stats.html individual=3 llabel="Primary"     lseq=page.pri3seq  lversion=page.pri3version  ldate=page.pri3date  lfilesize=page.pri3filesize  lsizes=page.pri3sizes
@@ -247,13 +252,10 @@ document.addEventListener('click', tog, false);
                                             rlabel="Haplotype 2" rseq=page.hpb3seq  rversion=page.hpb3version  rdate=page.hpb3date  rfilesize=page.hpb3filesize  rsizes=page.hpb3sizes %}
 {% include assembly-stats.html individual=3                      mseq=page.mito3seq mversion=page.mito3version mdate=page.mito3date mfilesize=page.mito3filesize %}
 
+
 {% if d3 %} {% assign shown = false %} {% endif %}
-{% if shown == false and d3 and div34b %}
-{% assign shown = true %}
-<div class="assembly-list-line">
-<hr width="80%">
-</div>
-{% endif %}
+{% if shown == false and d3 and div3 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
+
 
 {% include assembly-stats.html individual=4 tlabel="Diploid"     tseq=page.dip4seq  tversion=page.dip4version  tdate=page.dip4date  tfilesize=page.dip4filesize  tsizes=page.dip4sizes %}
 {% include assembly-stats.html individual=4 llabel="Primary"     lseq=page.pri4seq  lversion=page.pri4version  ldate=page.pri4date  lfilesize=page.pri4filesize  lsizes=page.pri4sizes
@@ -265,13 +267,10 @@ document.addEventListener('click', tog, false);
                                             rlabel="Haplotype 2" rseq=page.hpb4seq  rversion=page.hpb4version  rdate=page.hpb4date  rfilesize=page.hpb4filesize  rsizes=page.hpb4sizes %}
 {% include assembly-stats.html individual=4                      mseq=page.mito4seq mversion=page.mito4version mdate=page.mito4date mfilesize=page.mito4filesize %}
 
+
 {% if d4 %} {% assign shown = false %} {% endif %}
-{% if shown == false and d4 and div45b %}
-{% assign shown = true %}
-<div class="assembly-list-line">
-<hr width="80%">
-</div>
-{% endif %}
+{% if shown == false and d4 and div4 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
+
 
 {% include assembly-stats.html individual=5 tlabel="Diploid"     tseq=page.dip5seq  tversion=page.dip5version  tdate=page.dip5date  tfilesize=page.dip5filesize  tsizes=page.dip5sizes %}
 {% include assembly-stats.html individual=5 llabel="Primary"     lseq=page.pri5seq  lversion=page.pri5version  ldate=page.pri5date  lfilesize=page.pri5filesize  lsizes=page.pri5sizes
@@ -283,13 +282,10 @@ document.addEventListener('click', tog, false);
                                             rlabel="Haplotype 2" rseq=page.hpb5seq  rversion=page.hpb5version  rdate=page.hpb5date  rfilesize=page.hpb5filesize  rsizes=page.hpb5sizes %}
 {% include assembly-stats.html individual=5                      mseq=page.mito5seq mversion=page.mito5version mdate=page.mito5date mfilesize=page.mito5filesize %}
 
+
 {% if d5 %} {% assign shown = false %} {% endif %}
-{% if shown == false and d5 and div56b %}
-{% assign shown = true %}
-<div class="assembly-list-line">
-<hr width="80%">
-</div>
-{% endif %}
+{% if shown == false and d5 and div5 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
+
 
 {% include assembly-stats.html individual=6 tlabel="Diploid"     tseq=page.dip6seq  tversion=page.dip6version  tdate=page.dip6date  tfilesize=page.dip6filesize  tsizes=page.dip6sizes %}
 {% include assembly-stats.html individual=6 llabel="Primary"     lseq=page.pri6seq  lversion=page.pri6version  ldate=page.pri6date  lfilesize=page.pri6filesize  lsizes=page.pri6sizes
@@ -302,14 +298,9 @@ document.addEventListener('click', tog, false);
 {% include assembly-stats.html individual=6                      mseq=page.mito6seq mversion=page.mito6version mdate=page.mito6date mfilesize=page.mito6filesize %}
 
 
-
 {% if d6 %} {% assign shown = false %} {% endif %}
-{% if shown == false and d6 and div67b %}
-{% assign shown = true %}
-<div class="assembly-list-line">
-<hr width="80%">
-</div>
-{% endif %}
+{% if shown == false and d6 and div6 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
+
 
 {% include assembly-stats.html individual=7 tlabel="Diploid"     tseq=page.dip7seq  tversion=page.dip7version  tdate=page.dip7date  tfilesize=page.dip7filesize  tsizes=page.dip7sizes %}
 {% include assembly-stats.html individual=7 llabel="Primary"     lseq=page.pri7seq  lversion=page.pri7version  ldate=page.pri7date  lfilesize=page.pri7filesize  lsizes=page.pri7sizes
@@ -322,14 +313,9 @@ document.addEventListener('click', tog, false);
 {% include assembly-stats.html individual=7                      mseq=page.mito7seq mversion=page.mito7version mdate=page.mito7date mfilesize=page.mito7filesize %}
 
 
-
 {% if d7 %} {% assign shown = false %} {% endif %}
-{% if shown == false and d7 and div78b %}
-{% assign shown = true %}
-<div class="assembly-list-line">
-<hr width="80%">
-</div>
-{% endif %}
+{% if shown == false and d7 and div7 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
+
 
 {% include assembly-stats.html individual=8 tlabel="Diploid"     tseq=page.dip8seq  tversion=page.dip8version  tdate=page.dip8date  tfilesize=page.dip8filesize  tsizes=page.dip8sizes %}
 {% include assembly-stats.html individual=8 llabel="Primary"     lseq=page.pri8seq  lversion=page.pri8version  ldate=page.pri8date  lfilesize=page.pri8filesize  lsizes=page.pri8sizes
@@ -342,14 +328,9 @@ document.addEventListener('click', tog, false);
 {% include assembly-stats.html individual=8                      mseq=page.mito8seq mversion=page.mito8version mdate=page.mito8date mfilesize=page.mito8filesize %}
 
 
-
 {% if d8 %} {% assign shown = false %} {% endif %}
-{% if shown == false and d8 and div89b %}
-{% assign shown = true %}
-<div class="assembly-list-line">
-<hr width="80%">
-</div>
-{% endif %}
+{% if shown == false and d8 and div8 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
+
 
 {% include assembly-stats.html individual=9 tlabel="Diploid"     tseq=page.dip9seq  tversion=page.dip9version  tdate=page.dip9date  tfilesize=page.dip9filesize  tsizes=page.dip9sizes %}
 {% include assembly-stats.html individual=9 llabel="Primary"     lseq=page.pri9seq  lversion=page.pri9version  ldate=page.pri9date  lfilesize=page.pri9filesize  lsizes=page.pri9sizes
@@ -361,10 +342,98 @@ document.addEventListener('click', tog, false);
                                             rlabel="Haplotype 2" rseq=page.hpb9seq  rversion=page.hpb9version  rdate=page.hpb9date  rfilesize=page.hpb9filesize  rsizes=page.hpb9sizes %}
 {% include assembly-stats.html individual=9                      mseq=page.mito9seq mversion=page.mito9version mdate=page.mito9date mfilesize=page.mito9filesize %}
 
+
+{% if d9 %} {% assign shown = false %} {% endif %}
+{% if shown == false and d9 and div9 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
+
+
+{% include assembly-stats.html individual=10 tlabel="Diploid"     tseq=page.dip10seq  tversion=page.dip10version  tdate=page.dip10date  tfilesize=page.dip10filesize  tsizes=page.dip10sizes %}
+{% include assembly-stats.html individual=10 llabel="Primary"     lseq=page.pri10seq  lversion=page.pri10version  ldate=page.pri10date  lfilesize=page.pri10filesize  lsizes=page.pri10sizes
+                                             rlabel="Alternate"   rseq=page.alt10seq  rversion=page.alt10version  rdate=page.alt10date  rfilesize=page.alt10filesize  rsizes=page.alt10sizes %}
+{% include assembly-stats.html individual=10 tlabel="Merged Trio" tseq=page.mgd10seq  tversion=page.mgd10version  tdate=page.mgd10date  tfilesize=page.mgd10filesize  tsizes=page.mgd10sizes %}
+{% include assembly-stats.html individual=10 llabel="Maternal"    lseq=page.mat10seq  lversion=page.mat10version  ldate=page.mat10date  lfilesize=page.mat10filesize  lsizes=page.mat10sizes
+                                             rlabel="Paternal"    rseq=page.pat10seq  rversion=page.pat10version  rdate=page.pat10date  rfilesize=page.pat10filesize  rsizes=page.pat10sizes %}
+{% include assembly-stats.html individual=10 llabel="Haplotype 1" lseq=page.hpa10seq  lversion=page.hpa10version  ldate=page.hpa10date  lfilesize=page.hpa10filesize  lsizes=page.hpa10sizes
+                                             rlabel="Haplotype 2" rseq=page.hpb10seq  rversion=page.hpb10version  rdate=page.hpb10date  rfilesize=page.hpb10filesize  rsizes=page.hpb10sizes %}
+{% include assembly-stats.html individual=10                      mseq=page.mito10seq mversion=page.mito10version mdate=page.mito10date mfilesize=page.mito10filesize %}
+
+
+{% if d10 %} {% assign shown = false %} {% endif %}
+{% if shown == false and d10 and div10 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
+
+
+{% include assembly-stats.html individual=11 tlabel="Diploid"     tseq=page.dip11seq  tversion=page.dip11version  tdate=page.dip11date  tfilesize=page.dip11filesize  tsizes=page.dip11sizes %}
+{% include assembly-stats.html individual=11 llabel="Primary"     lseq=page.pri11seq  lversion=page.pri11version  ldate=page.pri11date  lfilesize=page.pri11filesize  lsizes=page.pri11sizes
+                                             rlabel="Alternate"   rseq=page.alt11seq  rversion=page.alt11version  rdate=page.alt11date  rfilesize=page.alt11filesize  rsizes=page.alt11sizes %}
+{% include assembly-stats.html individual=11 tlabel="Merged Trio" tseq=page.mgd11seq  tversion=page.mgd11version  tdate=page.mgd11date  tfilesize=page.mgd11filesize  tsizes=page.mgd11sizes %}
+{% include assembly-stats.html individual=11 llabel="Maternal"    lseq=page.mat11seq  lversion=page.mat11version  ldate=page.mat11date  lfilesize=page.mat11filesize  lsizes=page.mat11sizes
+                                             rlabel="Paternal"    rseq=page.pat11seq  rversion=page.pat11version  rdate=page.pat11date  rfilesize=page.pat11filesize  rsizes=page.pat11sizes %}
+{% include assembly-stats.html individual=11 llabel="Haplotype 1" lseq=page.hpa11seq  lversion=page.hpa11version  ldate=page.hpa11date  lfilesize=page.hpa11filesize  lsizes=page.hpa11sizes
+                                             rlabel="Haplotype 2" rseq=page.hpb11seq  rversion=page.hpb11version  rdate=page.hpb11date  rfilesize=page.hpb11filesize  rsizes=page.hpb11sizes %}
+{% include assembly-stats.html individual=11                      mseq=page.mito11seq mversion=page.mito11version mdate=page.mito11date mfilesize=page.mito11filesize %}
+
+
+{% if d11 %} {% assign shown = false %} {% endif %}
+{% if shown == false and d11 and div11 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
+
+
+{% include assembly-stats.html individual=12 tlabel="Diploid"     tseq=page.dip12seq  tversion=page.dip12version  tdate=page.dip12date  tfilesize=page.dip12filesize  tsizes=page.dip12sizes %}
+{% include assembly-stats.html individual=12 llabel="Primary"     lseq=page.pri12seq  lversion=page.pri12version  ldate=page.pri12date  lfilesize=page.pri12filesize  lsizes=page.pri12sizes
+                                             rlabel="Alternate"   rseq=page.alt12seq  rversion=page.alt12version  rdate=page.alt12date  rfilesize=page.alt12filesize  rsizes=page.alt12sizes %}
+{% include assembly-stats.html individual=12 tlabel="Merged Trio" tseq=page.mgd12seq  tversion=page.mgd12version  tdate=page.mgd12date  tfilesize=page.mgd12filesize  tsizes=page.mgd12sizes %}
+{% include assembly-stats.html individual=12 llabel="Maternal"    lseq=page.mat12seq  lversion=page.mat12version  ldate=page.mat12date  lfilesize=page.mat12filesize  lsizes=page.mat12sizes
+                                             rlabel="Paternal"    rseq=page.pat12seq  rversion=page.pat12version  rdate=page.pat12date  rfilesize=page.pat12filesize  rsizes=page.pat12sizes %}
+{% include assembly-stats.html individual=12 llabel="Haplotype 1" lseq=page.hpa12seq  lversion=page.hpa12version  ldate=page.hpa12date  lfilesize=page.hpa12filesize  lsizes=page.hpa12sizes
+                                             rlabel="Haplotype 2" rseq=page.hpb12seq  rversion=page.hpb12version  rdate=page.hpb12date  rfilesize=page.hpb12filesize  rsizes=page.hpb12sizes %}
+{% include assembly-stats.html individual=12                      mseq=page.mito12seq mversion=page.mito12version mdate=page.mito12date mfilesize=page.mito12filesize %}
+
+
+{% if d12 %} {% assign shown = false %} {% endif %}
+{% if shown == false and d12 and div12 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
+
+
+{% include assembly-stats.html individual=13 tlabel="Diploid"     tseq=page.dip13seq  tversion=page.dip13version  tdate=page.dip13date  tfilesize=page.dip13filesize  tsizes=page.dip13sizes %}
+{% include assembly-stats.html individual=13 llabel="Primary"     lseq=page.pri13seq  lversion=page.pri13version  ldate=page.pri13date  lfilesize=page.pri13filesize  lsizes=page.pri13sizes
+                                             rlabel="Alternate"   rseq=page.alt13seq  rversion=page.alt13version  rdate=page.alt13date  rfilesize=page.alt13filesize  rsizes=page.alt13sizes %}
+{% include assembly-stats.html individual=13 tlabel="Merged Trio" tseq=page.mgd13seq  tversion=page.mgd13version  tdate=page.mgd13date  tfilesize=page.mgd13filesize  tsizes=page.mgd13sizes %}
+{% include assembly-stats.html individual=13 llabel="Maternal"    lseq=page.mat13seq  lversion=page.mat13version  ldate=page.mat13date  lfilesize=page.mat13filesize  lsizes=page.mat13sizes
+                                             rlabel="Paternal"    rseq=page.pat13seq  rversion=page.pat13version  rdate=page.pat13date  rfilesize=page.pat13filesize  rsizes=page.pat13sizes %}
+{% include assembly-stats.html individual=13 llabel="Haplotype 1" lseq=page.hpa13seq  lversion=page.hpa13version  ldate=page.hpa13date  lfilesize=page.hpa13filesize  lsizes=page.hpa13sizes
+                                             rlabel="Haplotype 2" rseq=page.hpb13seq  rversion=page.hpb13version  rdate=page.hpb13date  rfilesize=page.hpb13filesize  rsizes=page.hpb13sizes %}
+{% include assembly-stats.html individual=13                      mseq=page.mito13seq mversion=page.mito13version mdate=page.mito13date mfilesize=page.mito13filesize %}
+
+
+{% if d13 %} {% assign shown = false %} {% endif %}
+{% if shown == false and d13 and div13 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
+
+
+{% include assembly-stats.html individual=14 tlabel="Diploid"     tseq=page.dip14seq  tversion=page.dip14version  tdate=page.dip14date  tfilesize=page.dip14filesize  tsizes=page.dip14sizes %}
+{% include assembly-stats.html individual=14 llabel="Primary"     lseq=page.pri14seq  lversion=page.pri14version  ldate=page.pri14date  lfilesize=page.pri14filesize  lsizes=page.pri14sizes
+                                             rlabel="Alternate"   rseq=page.alt14seq  rversion=page.alt14version  rdate=page.alt14date  rfilesize=page.alt14filesize  rsizes=page.alt14sizes %}
+{% include assembly-stats.html individual=14 tlabel="Merged Trio" tseq=page.mgd14seq  tversion=page.mgd14version  tdate=page.mgd14date  tfilesize=page.mgd14filesize  tsizes=page.mgd14sizes %}
+{% include assembly-stats.html individual=14 llabel="Maternal"    lseq=page.mat14seq  lversion=page.mat14version  ldate=page.mat14date  lfilesize=page.mat14filesize  lsizes=page.mat14sizes
+                                             rlabel="Paternal"    rseq=page.pat14seq  rversion=page.pat14version  rdate=page.pat14date  rfilesize=page.pat14filesize  rsizes=page.pat14sizes %}
+{% include assembly-stats.html individual=14 llabel="Haplotype 1" lseq=page.hpa14seq  lversion=page.hpa14version  ldate=page.hpa14date  lfilesize=page.hpa14filesize  lsizes=page.hpa14sizes
+                                             rlabel="Haplotype 2" rseq=page.hpb14seq  rversion=page.hpb14version  rdate=page.hpb14date  rfilesize=page.hpb14filesize  rsizes=page.hpb14sizes %}
+{% include assembly-stats.html individual=14                      mseq=page.mito14seq mversion=page.mito14version mdate=page.mito14date mfilesize=page.mito14filesize %}
+
+
+{% if d14 %} {% assign shown = false %} {% endif %}
+{% if shown == false and d14 and div14 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
+
+
+{% include assembly-stats.html individual=15 tlabel="Diploid"     tseq=page.dip15seq  tversion=page.dip15version  tdate=page.dip15date  tfilesize=page.dip15filesize  tsizes=page.dip15sizes %}
+{% include assembly-stats.html individual=15 llabel="Primary"     lseq=page.pri15seq  lversion=page.pri15version  ldate=page.pri15date  lfilesize=page.pri15filesize  lsizes=page.pri15sizes
+                                             rlabel="Alternate"   rseq=page.alt15seq  rversion=page.alt15version  rdate=page.alt15date  rfilesize=page.alt15filesize  rsizes=page.alt15sizes %}
+{% include assembly-stats.html individual=15 tlabel="Merged Trio" tseq=page.mgd15seq  tversion=page.mgd15version  tdate=page.mgd15date  tfilesize=page.mgd15filesize  tsizes=page.mgd15sizes %}
+{% include assembly-stats.html individual=15 llabel="Maternal"    lseq=page.mat15seq  lversion=page.mat15version  ldate=page.mat15date  lfilesize=page.mat15filesize  lsizes=page.mat15sizes
+                                             rlabel="Paternal"    rseq=page.pat15seq  rversion=page.pat15version  rdate=page.pat15date  rfilesize=page.pat15filesize  rsizes=page.pat15sizes %}
+{% include assembly-stats.html individual=15 llabel="Haplotype 1" lseq=page.hpa15seq  lversion=page.hpa15version  ldate=page.hpa15date  lfilesize=page.hpa15filesize  lsizes=page.hpa15sizes
+                                             rlabel="Haplotype 2" rseq=page.hpb15seq  rversion=page.hpb15version  rdate=page.hpb15date  rfilesize=page.hpb15filesize  rsizes=page.hpb15sizes %}
+{% include assembly-stats.html individual=15                      mseq=page.mito15seq mversion=page.mito15version mdate=page.mito15date mfilesize=page.mito15filesize %}
+
 </div>
 {% endunless %}
-
-
 
 <!-- ASSEMBLY METADATA --->
 
