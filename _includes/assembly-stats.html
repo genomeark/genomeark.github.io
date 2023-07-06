@@ -15,6 +15,8 @@
     {% if include.tseq %}
       Version <em>{{ include.tversion }}</em> from {{ include.tdate | date: "%-d %B %Y" }}<br>
       <a href="{{ include.tseq }}">{{ include.tseq | split: "/" | last }}</a> ({{ include.tfilesize }})<br>
+      <br>
+      Quality: {% if include.tqual %} {{ include.tqual}} {% else %} not computed {% endif %}
     {% else %}
       No assembly available.
     {% endif %}
@@ -43,6 +45,8 @@
     {% if include.lseq %}
       Version <em>{{ include.lversion }}</em> from {{ include.ldate | date: "%-d %B %Y" }}<br>
       <a href="{{ include.lseq }}">{{ include.lseq | split: "/" | last }}</a> ({{ include.lfilesize }})<br>
+      <br>
+      Quality: {% if include.lqual %} {{ include.lqual}} {% else %} not computed {% endif %}
     {% else %}
       No assembly available.<br><br>
     {% endif %}
@@ -85,7 +89,9 @@
     <b>Individual {{ include.individual }} {{ include.rlabel }} Assembly</b><br>
     {% if include.rseq %}
       Version <em>{{ include.rversion }}</em> from {{ include.rdate | date: "%-d %B %Y" }}<br>
-      <a href="{{ include.rseq }}">{{ include.rseq | split: "/" | last }}</a> ({{ include.rfilesize }})
+      <a href="{{ include.rseq }}">{{ include.rseq | split: "/" | last }}</a> ({{ include.rfilesize }})<br>
+      <br>
+      Quality: {% if include.rqual %} {{ include.rqual}} {% else %} not computed {% endif %}
     {% else %}
       No assembly available.<br><br>
     {% endif %}
@@ -132,8 +138,10 @@
 <div class="mito-block">
   <div class="sequence-file">
     <b>Individual {{ include.individual }} Mitochondrial Assembly</b><br>
-    Version <em>{{ include.mversion }}</em> from {{ include.mdate | date: "%-d %B %Y" }}<br>
-    <a href="{{ include.mseq }}">{{ include.mseq | split: "/" | last }}</a> ({{ include.mfilesize }})
+    Version <em>{{ include.mversion }}</em> from {{ include.mdate | date: "%-d %B %Y" }} {{ include.mqual}}<br>
+    <a href="{{ include.mseq }}">{{ include.mseq | split: "/" | last }}</a> ({{ include.mfilesize }})<br>
+    <br>
+    Quality: {% if include.mqual %} {{ include.mqual}} {% else %} not computed {% endif %}
   </div>
 </div>
 </div>

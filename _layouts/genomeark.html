@@ -221,225 +221,225 @@ document.addEventListener('click', tog, false);
 
 {% assign shown = false %}
 
-{% include assembly-stats.html individual=1 tlabel="Diploid"     tseq=page.dip1seq  tversion=page.dip1version  tdate=page.dip1date  tfilesize=page.dip1filesize  tsizes=page.dip1sizes %}
-{% include assembly-stats.html individual=1 llabel="Primary"     lseq=page.pri1seq  lversion=page.pri1version  ldate=page.pri1date  lfilesize=page.pri1filesize  lsizes=page.pri1sizes
-                                            rlabel="Alternate"   rseq=page.alt1seq  rversion=page.alt1version  rdate=page.alt1date  rfilesize=page.alt1filesize  rsizes=page.alt1sizes %}
-{% include assembly-stats.html individual=1 tlabel="Merged Trio" tseq=page.mgd1seq  tversion=page.mgd1version  tdate=page.mgd1date  tfilesize=page.mgd1filesize  tsizes=page.mgd1sizes %}
-{% include assembly-stats.html individual=1 llabel="Maternal"    lseq=page.mat1seq  lversion=page.mat1version  ldate=page.mat1date  lfilesize=page.mat1filesize  lsizes=page.mat1sizes
-                                            rlabel="Paternal"    rseq=page.pat1seq  rversion=page.pat1version  rdate=page.pat1date  rfilesize=page.pat1filesize  rsizes=page.pat1sizes %}
-{% include assembly-stats.html individual=1 llabel="Haplotype 1" lseq=page.hpa1seq  lversion=page.hpa1version  ldate=page.hpa1date  lfilesize=page.hpa1filesize  lsizes=page.hpa1sizes
-                                            rlabel="Haplotype 2" rseq=page.hpb1seq  rversion=page.hpb1version  rdate=page.hpb1date  rfilesize=page.hpb1filesize  rsizes=page.hpb1sizes %}
-{% include assembly-stats.html individual=1                      mseq=page.mito1seq mversion=page.mito1version mdate=page.mito1date mfilesize=page.mito1filesize %}
+{% include assembly-stats.html individual=1 tlabel="Diploid"     tseq=page.dip1seq  tversion=page.dip1version  tdate=page.dip1date  tqual=page.dip1qual  tfilesize=page.dip1filesize  tsizes=page.dip1sizes %}
+{% include assembly-stats.html individual=1 llabel="Primary"     lseq=page.pri1seq  lversion=page.pri1version  ldate=page.pri1date  lqual=page.pri1qual  lfilesize=page.pri1filesize  lsizes=page.pri1sizes
+                                            rlabel="Alternate"   rseq=page.alt1seq  rversion=page.alt1version  rdate=page.alt1date  rqual=page.alt1qual  rfilesize=page.alt1filesize  rsizes=page.alt1sizes %}
+{% include assembly-stats.html individual=1 tlabel="Merged Trio" tseq=page.mgd1seq  tversion=page.mgd1version  tdate=page.mgd1date  tqual=page.mgd1qual  tfilesize=page.mgd1filesize  tsizes=page.mgd1sizes %}
+{% include assembly-stats.html individual=1 llabel="Maternal"    lseq=page.mat1seq  lversion=page.mat1version  ldate=page.mat1date  lqual=page.mat1qual  lfilesize=page.mat1filesize  lsizes=page.mat1sizes
+                                            rlabel="Paternal"    rseq=page.pat1seq  rversion=page.pat1version  rdate=page.pat1date  rqual=page.pat1qual  rfilesize=page.pat1filesize  rsizes=page.pat1sizes %}
+{% include assembly-stats.html individual=1 llabel="Haplotype 1" lseq=page.hpa1seq  lversion=page.hpa1version  ldate=page.hpa1date  lqual=page.hpa1qual  lfilesize=page.hpa1filesize  lsizes=page.hpa1sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb1seq  rversion=page.hpb1version  rdate=page.hpb1date  rqual=page.hpb1qual  rfilesize=page.hpb1filesize  rsizes=page.hpb1sizes %}
+{% include assembly-stats.html individual=1                      mseq=page.mito1seq mversion=page.mito1version mdate=page.mito1date mqual=page.mito1qual mfilesize=page.mito1filesize %}
 
 
 {% if d1 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d1 and div1 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
 
 
-{% include assembly-stats.html individual=2 tlabel="Diploid"     tseq=page.dip2seq  tversion=page.dip2version  tdate=page.dip2date  tfilesize=page.dip2filesize  tsizes=page.dip2sizes %}
-{% include assembly-stats.html individual=2 llabel="Primary"     lseq=page.pri2seq  lversion=page.pri2version  ldate=page.pri2date  lfilesize=page.pri2filesize  lsizes=page.pri2sizes
-                                            rlabel="Alternate"   rseq=page.alt2seq  rversion=page.alt2version  rdate=page.alt2date  rfilesize=page.alt2filesize  rsizes=page.alt2sizes %}
-{% include assembly-stats.html individual=2 tlabel="Merged Trio" tseq=page.mgd2seq  tversion=page.mgd2version  tdate=page.mgd2date  tfilesize=page.mgd2filesize  tsizes=page.mgd2sizes %}
-{% include assembly-stats.html individual=2 llabel="Maternal"    lseq=page.mat2seq  lversion=page.mat2version  ldate=page.mat2date  lfilesize=page.mat2filesize  lsizes=page.mat2sizes
-                                            rlabel="Paternal"    rseq=page.pat2seq  rversion=page.pat2version  rdate=page.pat2date  rfilesize=page.pat2filesize  rsizes=page.pat2sizes %}
-{% include assembly-stats.html individual=2 llabel="Haplotype 1" lseq=page.hpa2seq  lversion=page.hpa2version  ldate=page.hpa2date  lfilesize=page.hpa2filesize  lsizes=page.hpa2sizes
-                                            rlabel="Haplotype 2" rseq=page.hpb2seq  rversion=page.hpb2version  rdate=page.hpb2date  rfilesize=page.hpb2filesize  rsizes=page.hpb2sizes %}
-{% include assembly-stats.html individual=2                      mseq=page.mito2seq mversion=page.mito2version mdate=page.mito2date mfilesize=page.mito2filesize %}
+{% include assembly-stats.html individual=2 tlabel="Diploid"     tseq=page.dip2seq  tversion=page.dip2version  tdate=page.dip2date  tqual=page.dip2qual  tfilesize=page.dip2filesize  tsizes=page.dip2sizes %}
+{% include assembly-stats.html individual=2 llabel="Primary"     lseq=page.pri2seq  lversion=page.pri2version  ldate=page.pri2date  lqual=page.pri2qual  lfilesize=page.pri2filesize  lsizes=page.pri2sizes
+                                            rlabel="Alternate"   rseq=page.alt2seq  rversion=page.alt2version  rdate=page.alt2date  rqual=page.alt2qual  rfilesize=page.alt2filesize  rsizes=page.alt2sizes %}
+{% include assembly-stats.html individual=2 tlabel="Merged Trio" tseq=page.mgd2seq  tversion=page.mgd2version  tdate=page.mgd2date  tqual=page.mgd2qual  tfilesize=page.mgd2filesize  tsizes=page.mgd2sizes %}
+{% include assembly-stats.html individual=2 llabel="Maternal"    lseq=page.mat2seq  lversion=page.mat2version  ldate=page.mat2date  lqual=page.mat2qual  lfilesize=page.mat2filesize  lsizes=page.mat2sizes
+                                            rlabel="Paternal"    rseq=page.pat2seq  rversion=page.pat2version  rdate=page.pat2date  rqual=page.pat2qual  rfilesize=page.pat2filesize  rsizes=page.pat2sizes %}
+{% include assembly-stats.html individual=2 llabel="Haplotype 1" lseq=page.hpa2seq  lversion=page.hpa2version  ldate=page.hpa2date  lqual=page.hpa2qual  lfilesize=page.hpa2filesize  lsizes=page.hpa2sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb2seq  rversion=page.hpb2version  rdate=page.hpb2date  rqual=page.hpb2qual  rfilesize=page.hpb2filesize  rsizes=page.hpb2sizes %}
+{% include assembly-stats.html individual=2                      mseq=page.mito2seq mversion=page.mito2version mdate=page.mito2date mqual=page.mito2qual mfilesize=page.mito2filesize %}
 
 
 {% if d2 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d2 and div2 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
 
 
-{% include assembly-stats.html individual=3 tlabel="Diploid"     tseq=page.dip3seq  tversion=page.dip3version  tdate=page.dip3date  tfilesize=page.dip3filesize  tsizes=page.dip3sizes %}
-{% include assembly-stats.html individual=3 llabel="Primary"     lseq=page.pri3seq  lversion=page.pri3version  ldate=page.pri3date  lfilesize=page.pri3filesize  lsizes=page.pri3sizes
-                                            rlabel="Alternate"   rseq=page.alt3seq  rversion=page.alt3version  rdate=page.alt3date  rfilesize=page.alt3filesize  rsizes=page.alt3sizes %}
-{% include assembly-stats.html individual=3 tlabel="Merged Trio" tseq=page.mgd3seq  tversion=page.mgd3version  tdate=page.mgd3date  tfilesize=page.mgd3filesize  tsizes=page.mgd3sizes %}
-{% include assembly-stats.html individual=3 llabel="Maternal"    lseq=page.mat3seq  lversion=page.mat3version  ldate=page.mat3date  lfilesize=page.mat3filesize  lsizes=page.mat3sizes
-                                            rlabel="Paternal"    rseq=page.pat3seq  rversion=page.pat3version  rdate=page.pat3date  rfilesize=page.pat3filesize  rsizes=page.pat3sizes %}
-{% include assembly-stats.html individual=3 llabel="Haplotype 1" lseq=page.hpa3seq  lversion=page.hpa3version  ldate=page.hpa3date  lfilesize=page.hpa3filesize  lsizes=page.hpa3sizes
-                                            rlabel="Haplotype 2" rseq=page.hpb3seq  rversion=page.hpb3version  rdate=page.hpb3date  rfilesize=page.hpb3filesize  rsizes=page.hpb3sizes %}
-{% include assembly-stats.html individual=3                      mseq=page.mito3seq mversion=page.mito3version mdate=page.mito3date mfilesize=page.mito3filesize %}
+{% include assembly-stats.html individual=3 tlabel="Diploid"     tseq=page.dip3seq  tversion=page.dip3version  tdate=page.dip3date  tqual=page.dip3qual  tfilesize=page.dip3filesize  tsizes=page.dip3sizes %}
+{% include assembly-stats.html individual=3 llabel="Primary"     lseq=page.pri3seq  lversion=page.pri3version  ldate=page.pri3date  lqual=page.pri3qual  lfilesize=page.pri3filesize  lsizes=page.pri3sizes
+                                            rlabel="Alternate"   rseq=page.alt3seq  rversion=page.alt3version  rdate=page.alt3date  rqual=page.alt3qual  rfilesize=page.alt3filesize  rsizes=page.alt3sizes %}
+{% include assembly-stats.html individual=3 tlabel="Merged Trio" tseq=page.mgd3seq  tversion=page.mgd3version  tdate=page.mgd3date  tqual=page.mgd3qual  tfilesize=page.mgd3filesize  tsizes=page.mgd3sizes %}
+{% include assembly-stats.html individual=3 llabel="Maternal"    lseq=page.mat3seq  lversion=page.mat3version  ldate=page.mat3date  lqual=page.mat3qual  lfilesize=page.mat3filesize  lsizes=page.mat3sizes
+                                            rlabel="Paternal"    rseq=page.pat3seq  rversion=page.pat3version  rdate=page.pat3date  rqual=page.pat3qual  rfilesize=page.pat3filesize  rsizes=page.pat3sizes %}
+{% include assembly-stats.html individual=3 llabel="Haplotype 1" lseq=page.hpa3seq  lversion=page.hpa3version  ldate=page.hpa3date  lqual=page.hpa3qual  lfilesize=page.hpa3filesize  lsizes=page.hpa3sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb3seq  rversion=page.hpb3version  rdate=page.hpb3date  rqual=page.hpb3qual  rfilesize=page.hpb3filesize  rsizes=page.hpb3sizes %}
+{% include assembly-stats.html individual=3                      mseq=page.mito3seq mversion=page.mito3version mdate=page.mito3date mqual=page.mito3qual mfilesize=page.mito3filesize %}
 
 
 {% if d3 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d3 and div3 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
 
 
-{% include assembly-stats.html individual=4 tlabel="Diploid"     tseq=page.dip4seq  tversion=page.dip4version  tdate=page.dip4date  tfilesize=page.dip4filesize  tsizes=page.dip4sizes %}
-{% include assembly-stats.html individual=4 llabel="Primary"     lseq=page.pri4seq  lversion=page.pri4version  ldate=page.pri4date  lfilesize=page.pri4filesize  lsizes=page.pri4sizes
-                                            rlabel="Alternate"   rseq=page.alt4seq  rversion=page.alt4version  rdate=page.alt4date  rfilesize=page.alt4filesize  rsizes=page.alt4sizes %}
-{% include assembly-stats.html individual=4 tlabel="Merged Trio" tseq=page.mgd4seq  tversion=page.mgd4version  tdate=page.mgd4date  tfilesize=page.mgd4filesize  tsizes=page.mgd4sizes %}
-{% include assembly-stats.html individual=4 llabel="Maternal"    lseq=page.mat4seq  lversion=page.mat4version  ldate=page.mat4date  lfilesize=page.mat4filesize  lsizes=page.mat4sizes
-                                            rlabel="Paternal"    rseq=page.pat4seq  rversion=page.pat4version  rdate=page.pat4date  rfilesize=page.pat4filesize  rsizes=page.pat4sizes %}
-{% include assembly-stats.html individual=4 llabel="Haplotype 1" lseq=page.hpa4seq  lversion=page.hpa4version  ldate=page.hpa4date  lfilesize=page.hpa4filesize  lsizes=page.hpa4sizes
-                                            rlabel="Haplotype 2" rseq=page.hpb4seq  rversion=page.hpb4version  rdate=page.hpb4date  rfilesize=page.hpb4filesize  rsizes=page.hpb4sizes %}
-{% include assembly-stats.html individual=4                      mseq=page.mito4seq mversion=page.mito4version mdate=page.mito4date mfilesize=page.mito4filesize %}
+{% include assembly-stats.html individual=4 tlabel="Diploid"     tseq=page.dip4seq  tversion=page.dip4version  tdate=page.dip4date  tqual=page.dip4qual  tfilesize=page.dip4filesize  tsizes=page.dip4sizes %}
+{% include assembly-stats.html individual=4 llabel="Primary"     lseq=page.pri4seq  lversion=page.pri4version  ldate=page.pri4date  lqual=page.pri4qual  lfilesize=page.pri4filesize  lsizes=page.pri4sizes
+                                            rlabel="Alternate"   rseq=page.alt4seq  rversion=page.alt4version  rdate=page.alt4date  rqual=page.alt4qual  rfilesize=page.alt4filesize  rsizes=page.alt4sizes %}
+{% include assembly-stats.html individual=4 tlabel="Merged Trio" tseq=page.mgd4seq  tversion=page.mgd4version  tdate=page.mgd4date  tqual=page.mgd4qual  tfilesize=page.mgd4filesize  tsizes=page.mgd4sizes %}
+{% include assembly-stats.html individual=4 llabel="Maternal"    lseq=page.mat4seq  lversion=page.mat4version  ldate=page.mat4date  lqual=page.mat4qual  lfilesize=page.mat4filesize  lsizes=page.mat4sizes
+                                            rlabel="Paternal"    rseq=page.pat4seq  rversion=page.pat4version  rdate=page.pat4date  rqual=page.pat4qual  rfilesize=page.pat4filesize  rsizes=page.pat4sizes %}
+{% include assembly-stats.html individual=4 llabel="Haplotype 1" lseq=page.hpa4seq  lversion=page.hpa4version  ldate=page.hpa4date  lqual=page.hpa4qual  lfilesize=page.hpa4filesize  lsizes=page.hpa4sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb4seq  rversion=page.hpb4version  rdate=page.hpb4date  rqual=page.hpb4qual  rfilesize=page.hpb4filesize  rsizes=page.hpb4sizes %}
+{% include assembly-stats.html individual=4                      mseq=page.mito4seq mversion=page.mito4version mdate=page.mito4date mqual=page.mito4qual mfilesize=page.mito4filesize %}
 
 
 {% if d4 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d4 and div4 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
 
 
-{% include assembly-stats.html individual=5 tlabel="Diploid"     tseq=page.dip5seq  tversion=page.dip5version  tdate=page.dip5date  tfilesize=page.dip5filesize  tsizes=page.dip5sizes %}
-{% include assembly-stats.html individual=5 llabel="Primary"     lseq=page.pri5seq  lversion=page.pri5version  ldate=page.pri5date  lfilesize=page.pri5filesize  lsizes=page.pri5sizes
-                                            rlabel="Alternate"   rseq=page.alt5seq  rversion=page.alt5version  rdate=page.alt5date  rfilesize=page.alt5filesize  rsizes=page.alt5sizes %}
-{% include assembly-stats.html individual=5 tlabel="Merged Trio" tseq=page.mgd5seq  tversion=page.mgd5version  tdate=page.mgd5date  tfilesize=page.mgd5filesize  tsizes=page.mgd5sizes %}
-{% include assembly-stats.html individual=5 llabel="Maternal"    lseq=page.mat5seq  lversion=page.mat5version  ldate=page.mat5date  lfilesize=page.mat5filesize  lsizes=page.mat5sizes
-                                            rlabel="Paternal"    rseq=page.pat5seq  rversion=page.pat5version  rdate=page.pat5date  rfilesize=page.pat5filesize  rsizes=page.pat5sizes %}
-{% include assembly-stats.html individual=5 llabel="Haplotype 1" lseq=page.hpa5seq  lversion=page.hpa5version  ldate=page.hpa5date  lfilesize=page.hpa5filesize  lsizes=page.hpa5sizes
-                                            rlabel="Haplotype 2" rseq=page.hpb5seq  rversion=page.hpb5version  rdate=page.hpb5date  rfilesize=page.hpb5filesize  rsizes=page.hpb5sizes %}
-{% include assembly-stats.html individual=5                      mseq=page.mito5seq mversion=page.mito5version mdate=page.mito5date mfilesize=page.mito5filesize %}
+{% include assembly-stats.html individual=5 tlabel="Diploid"     tseq=page.dip5seq  tversion=page.dip5version  tdate=page.dip5date  tqual=page.dip5qual  tfilesize=page.dip5filesize  tsizes=page.dip5sizes %}
+{% include assembly-stats.html individual=5 llabel="Primary"     lseq=page.pri5seq  lversion=page.pri5version  ldate=page.pri5date  lqual=page.pri5qual  lfilesize=page.pri5filesize  lsizes=page.pri5sizes
+                                            rlabel="Alternate"   rseq=page.alt5seq  rversion=page.alt5version  rdate=page.alt5date  rqual=page.alt5qual  rfilesize=page.alt5filesize  rsizes=page.alt5sizes %}
+{% include assembly-stats.html individual=5 tlabel="Merged Trio" tseq=page.mgd5seq  tversion=page.mgd5version  tdate=page.mgd5date  tqual=page.mgd5qual  tfilesize=page.mgd5filesize  tsizes=page.mgd5sizes %}
+{% include assembly-stats.html individual=5 llabel="Maternal"    lseq=page.mat5seq  lversion=page.mat5version  ldate=page.mat5date  lqual=page.mat5qual  lfilesize=page.mat5filesize  lsizes=page.mat5sizes
+                                            rlabel="Paternal"    rseq=page.pat5seq  rversion=page.pat5version  rdate=page.pat5date  rqual=page.pat5qual  rfilesize=page.pat5filesize  rsizes=page.pat5sizes %}
+{% include assembly-stats.html individual=5 llabel="Haplotype 1" lseq=page.hpa5seq  lversion=page.hpa5version  ldate=page.hpa5date  lqual=page.hpa5qual  lfilesize=page.hpa5filesize  lsizes=page.hpa5sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb5seq  rversion=page.hpb5version  rdate=page.hpb5date  rqual=page.hpb5qual  rfilesize=page.hpb5filesize  rsizes=page.hpb5sizes %}
+{% include assembly-stats.html individual=5                      mseq=page.mito5seq mversion=page.mito5version mdate=page.mito5date mqual=page.mito5qual mfilesize=page.mito5filesize %}
 
 
 {% if d5 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d5 and div5 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
 
 
-{% include assembly-stats.html individual=6 tlabel="Diploid"     tseq=page.dip6seq  tversion=page.dip6version  tdate=page.dip6date  tfilesize=page.dip6filesize  tsizes=page.dip6sizes %}
-{% include assembly-stats.html individual=6 llabel="Primary"     lseq=page.pri6seq  lversion=page.pri6version  ldate=page.pri6date  lfilesize=page.pri6filesize  lsizes=page.pri6sizes
-                                            rlabel="Alternate"   rseq=page.alt6seq  rversion=page.alt6version  rdate=page.alt6date  rfilesize=page.alt6filesize  rsizes=page.alt6sizes %}
-{% include assembly-stats.html individual=6 tlabel="Merged Trio" tseq=page.mgd6seq  tversion=page.mgd6version  tdate=page.mgd6date  tfilesize=page.mgd6filesize  tsizes=page.mgd6sizes %}
-{% include assembly-stats.html individual=6 llabel="Maternal"    lseq=page.mat6seq  lversion=page.mat6version  ldate=page.mat6date  lfilesize=page.mat6filesize  lsizes=page.mat6sizes
-                                            rlabel="Paternal"    rseq=page.pat6seq  rversion=page.pat6version  rdate=page.pat6date  rfilesize=page.pat6filesize  rsizes=page.pat6sizes %}
-{% include assembly-stats.html individual=6 llabel="Haplotype 1" lseq=page.hpa6seq  lversion=page.hpa6version  ldate=page.hpa6date  lfilesize=page.hpa6filesize  lsizes=page.hpa6sizes
-                                            rlabel="Haplotype 2" rseq=page.hpb6seq  rversion=page.hpb6version  rdate=page.hpb6date  rfilesize=page.hpb6filesize  rsizes=page.hpb6sizes %}
-{% include assembly-stats.html individual=6                      mseq=page.mito6seq mversion=page.mito6version mdate=page.mito6date mfilesize=page.mito6filesize %}
+{% include assembly-stats.html individual=6 tlabel="Diploid"     tseq=page.dip6seq  tversion=page.dip6version  tdate=page.dip6date  tqual=page.dip6qual  tfilesize=page.dip6filesize  tsizes=page.dip6sizes %}
+{% include assembly-stats.html individual=6 llabel="Primary"     lseq=page.pri6seq  lversion=page.pri6version  ldate=page.pri6date  lqual=page.pri6qual  lfilesize=page.pri6filesize  lsizes=page.pri6sizes
+                                            rlabel="Alternate"   rseq=page.alt6seq  rversion=page.alt6version  rdate=page.alt6date  rqual=page.alt6qual  rfilesize=page.alt6filesize  rsizes=page.alt6sizes %}
+{% include assembly-stats.html individual=6 tlabel="Merged Trio" tseq=page.mgd6seq  tversion=page.mgd6version  tdate=page.mgd6date  tqual=page.mgd6qual  tfilesize=page.mgd6filesize  tsizes=page.mgd6sizes %}
+{% include assembly-stats.html individual=6 llabel="Maternal"    lseq=page.mat6seq  lversion=page.mat6version  ldate=page.mat6date  lqual=page.mat6qual  lfilesize=page.mat6filesize  lsizes=page.mat6sizes
+                                            rlabel="Paternal"    rseq=page.pat6seq  rversion=page.pat6version  rdate=page.pat6date  rqual=page.pat6qual  rfilesize=page.pat6filesize  rsizes=page.pat6sizes %}
+{% include assembly-stats.html individual=6 llabel="Haplotype 1" lseq=page.hpa6seq  lversion=page.hpa6version  ldate=page.hpa6date  lqual=page.hpa6qual  lfilesize=page.hpa6filesize  lsizes=page.hpa6sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb6seq  rversion=page.hpb6version  rdate=page.hpb6date  rqual=page.hpb6qual  rfilesize=page.hpb6filesize  rsizes=page.hpb6sizes %}
+{% include assembly-stats.html individual=6                      mseq=page.mito6seq mversion=page.mito6version mdate=page.mito6date mqual=page.mito6qual mfilesize=page.mito6filesize %}
 
 
 {% if d6 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d6 and div6 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
 
 
-{% include assembly-stats.html individual=7 tlabel="Diploid"     tseq=page.dip7seq  tversion=page.dip7version  tdate=page.dip7date  tfilesize=page.dip7filesize  tsizes=page.dip7sizes %}
-{% include assembly-stats.html individual=7 llabel="Primary"     lseq=page.pri7seq  lversion=page.pri7version  ldate=page.pri7date  lfilesize=page.pri7filesize  lsizes=page.pri7sizes
-                                            rlabel="Alternate"   rseq=page.alt7seq  rversion=page.alt7version  rdate=page.alt7date  rfilesize=page.alt7filesize  rsizes=page.alt7sizes %}
-{% include assembly-stats.html individual=7 tlabel="Merged Trio" tseq=page.mgd7seq  tversion=page.mgd7version  tdate=page.mgd7date  tfilesize=page.mgd7filesize  tsizes=page.mgd7sizes %}
-{% include assembly-stats.html individual=7 llabel="Maternal"    lseq=page.mat7seq  lversion=page.mat7version  ldate=page.mat7date  lfilesize=page.mat7filesize  lsizes=page.mat7sizes
-                                            rlabel="Paternal"    rseq=page.pat7seq  rversion=page.pat7version  rdate=page.pat7date  rfilesize=page.pat7filesize  rsizes=page.pat7sizes %}
-{% include assembly-stats.html individual=7 llabel="Haplotype 1" lseq=page.hpa7seq  lversion=page.hpa7version  ldate=page.hpa7date  lfilesize=page.hpa7filesize  lsizes=page.hpa7sizes
-                                            rlabel="Haplotype 2" rseq=page.hpb7seq  rversion=page.hpb7version  rdate=page.hpb7date  rfilesize=page.hpb7filesize  rsizes=page.hpb7sizes %}
-{% include assembly-stats.html individual=7                      mseq=page.mito7seq mversion=page.mito7version mdate=page.mito7date mfilesize=page.mito7filesize %}
+{% include assembly-stats.html individual=7 tlabel="Diploid"     tseq=page.dip7seq  tversion=page.dip7version  tdate=page.dip7date  tqual=page.dip7qual  tfilesize=page.dip7filesize  tsizes=page.dip7sizes %}
+{% include assembly-stats.html individual=7 llabel="Primary"     lseq=page.pri7seq  lversion=page.pri7version  ldate=page.pri7date  lqual=page.pri7qual  lfilesize=page.pri7filesize  lsizes=page.pri7sizes
+                                            rlabel="Alternate"   rseq=page.alt7seq  rversion=page.alt7version  rdate=page.alt7date  rqual=page.alt7qual  rfilesize=page.alt7filesize  rsizes=page.alt7sizes %}
+{% include assembly-stats.html individual=7 tlabel="Merged Trio" tseq=page.mgd7seq  tversion=page.mgd7version  tdate=page.mgd7date  tqual=page.mgd7qual  tfilesize=page.mgd7filesize  tsizes=page.mgd7sizes %}
+{% include assembly-stats.html individual=7 llabel="Maternal"    lseq=page.mat7seq  lversion=page.mat7version  ldate=page.mat7date  lqual=page.mat7qual  lfilesize=page.mat7filesize  lsizes=page.mat7sizes
+                                            rlabel="Paternal"    rseq=page.pat7seq  rversion=page.pat7version  rdate=page.pat7date  rqual=page.pat7qual  rfilesize=page.pat7filesize  rsizes=page.pat7sizes %}
+{% include assembly-stats.html individual=7 llabel="Haplotype 1" lseq=page.hpa7seq  lversion=page.hpa7version  ldate=page.hpa7date  lqual=page.hpa7qual  lfilesize=page.hpa7filesize  lsizes=page.hpa7sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb7seq  rversion=page.hpb7version  rdate=page.hpb7date  rqual=page.hpb7qual  rfilesize=page.hpb7filesize  rsizes=page.hpb7sizes %}
+{% include assembly-stats.html individual=7                      mseq=page.mito7seq mversion=page.mito7version mdate=page.mito7date mqual=page.mito7qual mfilesize=page.mito7filesize %}
 
 
 {% if d7 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d7 and div7 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
 
 
-{% include assembly-stats.html individual=8 tlabel="Diploid"     tseq=page.dip8seq  tversion=page.dip8version  tdate=page.dip8date  tfilesize=page.dip8filesize  tsizes=page.dip8sizes %}
-{% include assembly-stats.html individual=8 llabel="Primary"     lseq=page.pri8seq  lversion=page.pri8version  ldate=page.pri8date  lfilesize=page.pri8filesize  lsizes=page.pri8sizes
-                                            rlabel="Alternate"   rseq=page.alt8seq  rversion=page.alt8version  rdate=page.alt8date  rfilesize=page.alt8filesize  rsizes=page.alt8sizes %}
-{% include assembly-stats.html individual=8 tlabel="Merged Trio" tseq=page.mgd8seq  tversion=page.mgd8version  tdate=page.mgd8date  tfilesize=page.mgd8filesize  tsizes=page.mgd8sizes %}
-{% include assembly-stats.html individual=8 llabel="Maternal"    lseq=page.mat8seq  lversion=page.mat8version  ldate=page.mat8date  lfilesize=page.mat8filesize  lsizes=page.mat8sizes
-                                            rlabel="Paternal"    rseq=page.pat8seq  rversion=page.pat8version  rdate=page.pat8date  rfilesize=page.pat8filesize  rsizes=page.pat8sizes %}
-{% include assembly-stats.html individual=8 llabel="Haplotype 1" lseq=page.hpa8seq  lversion=page.hpa8version  ldate=page.hpa8date  lfilesize=page.hpa8filesize  lsizes=page.hpa8sizes
-                                            rlabel="Haplotype 2" rseq=page.hpb8seq  rversion=page.hpb8version  rdate=page.hpb8date  rfilesize=page.hpb8filesize  rsizes=page.hpb8sizes %}
-{% include assembly-stats.html individual=8                      mseq=page.mito8seq mversion=page.mito8version mdate=page.mito8date mfilesize=page.mito8filesize %}
+{% include assembly-stats.html individual=8 tlabel="Diploid"     tseq=page.dip8seq  tversion=page.dip8version  tdate=page.dip8date  tqual=page.dip8qual  tfilesize=page.dip8filesize  tsizes=page.dip8sizes %}
+{% include assembly-stats.html individual=8 llabel="Primary"     lseq=page.pri8seq  lversion=page.pri8version  ldate=page.pri8date  lqual=page.pri8qual  lfilesize=page.pri8filesize  lsizes=page.pri8sizes
+                                            rlabel="Alternate"   rseq=page.alt8seq  rversion=page.alt8version  rdate=page.alt8date  rqual=page.alt8qual  rfilesize=page.alt8filesize  rsizes=page.alt8sizes %}
+{% include assembly-stats.html individual=8 tlabel="Merged Trio" tseq=page.mgd8seq  tversion=page.mgd8version  tdate=page.mgd8date  tqual=page.mgd8qual  tfilesize=page.mgd8filesize  tsizes=page.mgd8sizes %}
+{% include assembly-stats.html individual=8 llabel="Maternal"    lseq=page.mat8seq  lversion=page.mat8version  ldate=page.mat8date  lqual=page.mat8qual  lfilesize=page.mat8filesize  lsizes=page.mat8sizes
+                                            rlabel="Paternal"    rseq=page.pat8seq  rversion=page.pat8version  rdate=page.pat8date  rqual=page.pat8qual  rfilesize=page.pat8filesize  rsizes=page.pat8sizes %}
+{% include assembly-stats.html individual=8 llabel="Haplotype 1" lseq=page.hpa8seq  lversion=page.hpa8version  ldate=page.hpa8date  lqual=page.hpa8qual  lfilesize=page.hpa8filesize  lsizes=page.hpa8sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb8seq  rversion=page.hpb8version  rdate=page.hpb8date  rqual=page.hpb8qual  rfilesize=page.hpb8filesize  rsizes=page.hpb8sizes %}
+{% include assembly-stats.html individual=8                      mseq=page.mito8seq mversion=page.mito8version mdate=page.mito8date mqual=page.mito8qual mfilesize=page.mito8filesize %}
 
 
 {% if d8 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d8 and div8 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
 
 
-{% include assembly-stats.html individual=9 tlabel="Diploid"     tseq=page.dip9seq  tversion=page.dip9version  tdate=page.dip9date  tfilesize=page.dip9filesize  tsizes=page.dip9sizes %}
-{% include assembly-stats.html individual=9 llabel="Primary"     lseq=page.pri9seq  lversion=page.pri9version  ldate=page.pri9date  lfilesize=page.pri9filesize  lsizes=page.pri9sizes
-                                            rlabel="Alternate"   rseq=page.alt9seq  rversion=page.alt9version  rdate=page.alt9date  rfilesize=page.alt9filesize  rsizes=page.alt9sizes %}
-{% include assembly-stats.html individual=9 tlabel="Merged Trio" tseq=page.mgd9seq  tversion=page.mgd9version  tdate=page.mgd9date  tfilesize=page.mgd9filesize  tsizes=page.mgd9sizes %}
-{% include assembly-stats.html individual=9 llabel="Maternal"    lseq=page.mat9seq  lversion=page.mat9version  ldate=page.mat9date  lfilesize=page.mat9filesize  lsizes=page.mat9sizes
-                                            rlabel="Paternal"    rseq=page.pat9seq  rversion=page.pat9version  rdate=page.pat9date  rfilesize=page.pat9filesize  rsizes=page.pat9sizes %}
-{% include assembly-stats.html individual=9 llabel="Haplotype 1" lseq=page.hpa9seq  lversion=page.hpa9version  ldate=page.hpa9date  lfilesize=page.hpa9filesize  lsizes=page.hpa9sizes
-                                            rlabel="Haplotype 2" rseq=page.hpb9seq  rversion=page.hpb9version  rdate=page.hpb9date  rfilesize=page.hpb9filesize  rsizes=page.hpb9sizes %}
-{% include assembly-stats.html individual=9                      mseq=page.mito9seq mversion=page.mito9version mdate=page.mito9date mfilesize=page.mito9filesize %}
+{% include assembly-stats.html individual=9 tlabel="Diploid"     tseq=page.dip9seq  tversion=page.dip9version  tdate=page.dip9date  tqual=page.dip9qual  tfilesize=page.dip9filesize  tsizes=page.dip9sizes %}
+{% include assembly-stats.html individual=9 llabel="Primary"     lseq=page.pri9seq  lversion=page.pri9version  ldate=page.pri9date  lqual=page.pri9qual  lfilesize=page.pri9filesize  lsizes=page.pri9sizes
+                                            rlabel="Alternate"   rseq=page.alt9seq  rversion=page.alt9version  rdate=page.alt9date  rqual=page.alt9qual  rfilesize=page.alt9filesize  rsizes=page.alt9sizes %}
+{% include assembly-stats.html individual=9 tlabel="Merged Trio" tseq=page.mgd9seq  tversion=page.mgd9version  tdate=page.mgd9date  tqual=page.mgd9qual  tfilesize=page.mgd9filesize  tsizes=page.mgd9sizes %}
+{% include assembly-stats.html individual=9 llabel="Maternal"    lseq=page.mat9seq  lversion=page.mat9version  ldate=page.mat9date  lqual=page.mat9qual  lfilesize=page.mat9filesize  lsizes=page.mat9sizes
+                                            rlabel="Paternal"    rseq=page.pat9seq  rversion=page.pat9version  rdate=page.pat9date  rqual=page.pat9qual  rfilesize=page.pat9filesize  rsizes=page.pat9sizes %}
+{% include assembly-stats.html individual=9 llabel="Haplotype 1" lseq=page.hpa9seq  lversion=page.hpa9version  ldate=page.hpa9date  lqual=page.hpa9qual  lfilesize=page.hpa9filesize  lsizes=page.hpa9sizes
+                                            rlabel="Haplotype 2" rseq=page.hpb9seq  rversion=page.hpb9version  rdate=page.hpb9date  rqual=page.hpb9qual  rfilesize=page.hpb9filesize  rsizes=page.hpb9sizes %}
+{% include assembly-stats.html individual=9                      mseq=page.mito9seq mversion=page.mito9version mdate=page.mito9date mqual=page.mito9qual mfilesize=page.mito9filesize %}
 
 
 {% if d9 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d9 and div9 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
 
 
-{% include assembly-stats.html individual=10 tlabel="Diploid"     tseq=page.dip10seq  tversion=page.dip10version  tdate=page.dip10date  tfilesize=page.dip10filesize  tsizes=page.dip10sizes %}
-{% include assembly-stats.html individual=10 llabel="Primary"     lseq=page.pri10seq  lversion=page.pri10version  ldate=page.pri10date  lfilesize=page.pri10filesize  lsizes=page.pri10sizes
-                                             rlabel="Alternate"   rseq=page.alt10seq  rversion=page.alt10version  rdate=page.alt10date  rfilesize=page.alt10filesize  rsizes=page.alt10sizes %}
-{% include assembly-stats.html individual=10 tlabel="Merged Trio" tseq=page.mgd10seq  tversion=page.mgd10version  tdate=page.mgd10date  tfilesize=page.mgd10filesize  tsizes=page.mgd10sizes %}
-{% include assembly-stats.html individual=10 llabel="Maternal"    lseq=page.mat10seq  lversion=page.mat10version  ldate=page.mat10date  lfilesize=page.mat10filesize  lsizes=page.mat10sizes
-                                             rlabel="Paternal"    rseq=page.pat10seq  rversion=page.pat10version  rdate=page.pat10date  rfilesize=page.pat10filesize  rsizes=page.pat10sizes %}
-{% include assembly-stats.html individual=10 llabel="Haplotype 1" lseq=page.hpa10seq  lversion=page.hpa10version  ldate=page.hpa10date  lfilesize=page.hpa10filesize  lsizes=page.hpa10sizes
-                                             rlabel="Haplotype 2" rseq=page.hpb10seq  rversion=page.hpb10version  rdate=page.hpb10date  rfilesize=page.hpb10filesize  rsizes=page.hpb10sizes %}
-{% include assembly-stats.html individual=10                      mseq=page.mito10seq mversion=page.mito10version mdate=page.mito10date mfilesize=page.mito10filesize %}
+{% include assembly-stats.html individual=10 tlabel="Diploid"     tseq=page.dip10seq  tversion=page.dip10version  tdate=page.dip10date  tqual=page.dip10qual  tfilesize=page.dip10filesize  tsizes=page.dip10sizes %}
+{% include assembly-stats.html individual=10 llabel="Primary"     lseq=page.pri10seq  lversion=page.pri10version  ldate=page.pri10date  lqual=page.pri10qual  lfilesize=page.pri10filesize  lsizes=page.pri10sizes
+                                             rlabel="Alternate"   rseq=page.alt10seq  rversion=page.alt10version  rdate=page.alt10date  rqual=page.alt10qual  rfilesize=page.alt10filesize  rsizes=page.alt10sizes %}
+{% include assembly-stats.html individual=10 tlabel="Merged Trio" tseq=page.mgd10seq  tversion=page.mgd10version  tdate=page.mgd10date  tqual=page.mgd10qual  tfilesize=page.mgd10filesize  tsizes=page.mgd10sizes %}
+{% include assembly-stats.html individual=10 llabel="Maternal"    lseq=page.mat10seq  lversion=page.mat10version  ldate=page.mat10date  lqual=page.mat10qual  lfilesize=page.mat10filesize  lsizes=page.mat10sizes
+                                             rlabel="Paternal"    rseq=page.pat10seq  rversion=page.pat10version  rdate=page.pat10date  rqual=page.pat10qual  rfilesize=page.pat10filesize  rsizes=page.pat10sizes %}
+{% include assembly-stats.html individual=10 llabel="Haplotype 1" lseq=page.hpa10seq  lversion=page.hpa10version  ldate=page.hpa10date  lqual=page.hpa10qual  lfilesize=page.hpa10filesize  lsizes=page.hpa10sizes
+                                             rlabel="Haplotype 2" rseq=page.hpb10seq  rversion=page.hpb10version  rdate=page.hpb10date  rqual=page.hpb10qual  rfilesize=page.hpb10filesize  rsizes=page.hpb10sizes %}
+{% include assembly-stats.html individual=10                      mseq=page.mito10seq mversion=page.mito10version mdate=page.mito10date mqual=page.mito10qual mfilesize=page.mito10filesize %}
 
 
 {% if d10 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d10 and div10 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
 
 
-{% include assembly-stats.html individual=11 tlabel="Diploid"     tseq=page.dip11seq  tversion=page.dip11version  tdate=page.dip11date  tfilesize=page.dip11filesize  tsizes=page.dip11sizes %}
-{% include assembly-stats.html individual=11 llabel="Primary"     lseq=page.pri11seq  lversion=page.pri11version  ldate=page.pri11date  lfilesize=page.pri11filesize  lsizes=page.pri11sizes
-                                             rlabel="Alternate"   rseq=page.alt11seq  rversion=page.alt11version  rdate=page.alt11date  rfilesize=page.alt11filesize  rsizes=page.alt11sizes %}
-{% include assembly-stats.html individual=11 tlabel="Merged Trio" tseq=page.mgd11seq  tversion=page.mgd11version  tdate=page.mgd11date  tfilesize=page.mgd11filesize  tsizes=page.mgd11sizes %}
-{% include assembly-stats.html individual=11 llabel="Maternal"    lseq=page.mat11seq  lversion=page.mat11version  ldate=page.mat11date  lfilesize=page.mat11filesize  lsizes=page.mat11sizes
-                                             rlabel="Paternal"    rseq=page.pat11seq  rversion=page.pat11version  rdate=page.pat11date  rfilesize=page.pat11filesize  rsizes=page.pat11sizes %}
-{% include assembly-stats.html individual=11 llabel="Haplotype 1" lseq=page.hpa11seq  lversion=page.hpa11version  ldate=page.hpa11date  lfilesize=page.hpa11filesize  lsizes=page.hpa11sizes
-                                             rlabel="Haplotype 2" rseq=page.hpb11seq  rversion=page.hpb11version  rdate=page.hpb11date  rfilesize=page.hpb11filesize  rsizes=page.hpb11sizes %}
-{% include assembly-stats.html individual=11                      mseq=page.mito11seq mversion=page.mito11version mdate=page.mito11date mfilesize=page.mito11filesize %}
+{% include assembly-stats.html individual=11 tlabel="Diploid"     tseq=page.dip11seq  tversion=page.dip11version  tdate=page.dip11date  tqual=page.dip11qual  tfilesize=page.dip11filesize  tsizes=page.dip11sizes %}
+{% include assembly-stats.html individual=11 llabel="Primary"     lseq=page.pri11seq  lversion=page.pri11version  ldate=page.pri11date  lqual=page.pri11qual  lfilesize=page.pri11filesize  lsizes=page.pri11sizes
+                                             rlabel="Alternate"   rseq=page.alt11seq  rversion=page.alt11version  rdate=page.alt11date  rqual=page.alt11qual  rfilesize=page.alt11filesize  rsizes=page.alt11sizes %}
+{% include assembly-stats.html individual=11 tlabel="Merged Trio" tseq=page.mgd11seq  tversion=page.mgd11version  tdate=page.mgd11date  tqual=page.mgd11qual  tfilesize=page.mgd11filesize  tsizes=page.mgd11sizes %}
+{% include assembly-stats.html individual=11 llabel="Maternal"    lseq=page.mat11seq  lversion=page.mat11version  ldate=page.mat11date  lqual=page.mat11qual  lfilesize=page.mat11filesize  lsizes=page.mat11sizes
+                                             rlabel="Paternal"    rseq=page.pat11seq  rversion=page.pat11version  rdate=page.pat11date  rqual=page.pat11qual  rfilesize=page.pat11filesize  rsizes=page.pat11sizes %}
+{% include assembly-stats.html individual=11 llabel="Haplotype 1" lseq=page.hpa11seq  lversion=page.hpa11version  ldate=page.hpa11date  lqual=page.hpa11qual  lfilesize=page.hpa11filesize  lsizes=page.hpa11sizes
+                                             rlabel="Haplotype 2" rseq=page.hpb11seq  rversion=page.hpb11version  rdate=page.hpb11date  rqual=page.hpb11qual  rfilesize=page.hpb11filesize  rsizes=page.hpb11sizes %}
+{% include assembly-stats.html individual=11                      mseq=page.mito11seq mversion=page.mito11version mdate=page.mito11date mqual=page.mito11qual mfilesize=page.mito11filesize %}
 
 
 {% if d11 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d11 and div11 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
 
 
-{% include assembly-stats.html individual=12 tlabel="Diploid"     tseq=page.dip12seq  tversion=page.dip12version  tdate=page.dip12date  tfilesize=page.dip12filesize  tsizes=page.dip12sizes %}
-{% include assembly-stats.html individual=12 llabel="Primary"     lseq=page.pri12seq  lversion=page.pri12version  ldate=page.pri12date  lfilesize=page.pri12filesize  lsizes=page.pri12sizes
-                                             rlabel="Alternate"   rseq=page.alt12seq  rversion=page.alt12version  rdate=page.alt12date  rfilesize=page.alt12filesize  rsizes=page.alt12sizes %}
-{% include assembly-stats.html individual=12 tlabel="Merged Trio" tseq=page.mgd12seq  tversion=page.mgd12version  tdate=page.mgd12date  tfilesize=page.mgd12filesize  tsizes=page.mgd12sizes %}
-{% include assembly-stats.html individual=12 llabel="Maternal"    lseq=page.mat12seq  lversion=page.mat12version  ldate=page.mat12date  lfilesize=page.mat12filesize  lsizes=page.mat12sizes
-                                             rlabel="Paternal"    rseq=page.pat12seq  rversion=page.pat12version  rdate=page.pat12date  rfilesize=page.pat12filesize  rsizes=page.pat12sizes %}
-{% include assembly-stats.html individual=12 llabel="Haplotype 1" lseq=page.hpa12seq  lversion=page.hpa12version  ldate=page.hpa12date  lfilesize=page.hpa12filesize  lsizes=page.hpa12sizes
-                                             rlabel="Haplotype 2" rseq=page.hpb12seq  rversion=page.hpb12version  rdate=page.hpb12date  rfilesize=page.hpb12filesize  rsizes=page.hpb12sizes %}
-{% include assembly-stats.html individual=12                      mseq=page.mito12seq mversion=page.mito12version mdate=page.mito12date mfilesize=page.mito12filesize %}
+{% include assembly-stats.html individual=12 tlabel="Diploid"     tseq=page.dip12seq  tversion=page.dip12version  tdate=page.dip12date  tqual=page.dip12qual  tfilesize=page.dip12filesize  tsizes=page.dip12sizes %}
+{% include assembly-stats.html individual=12 llabel="Primary"     lseq=page.pri12seq  lversion=page.pri12version  ldate=page.pri12date  lqual=page.pri12qual  lfilesize=page.pri12filesize  lsizes=page.pri12sizes
+                                             rlabel="Alternate"   rseq=page.alt12seq  rversion=page.alt12version  rdate=page.alt12date  rqual=page.alt12qual  rfilesize=page.alt12filesize  rsizes=page.alt12sizes %}
+{% include assembly-stats.html individual=12 tlabel="Merged Trio" tseq=page.mgd12seq  tversion=page.mgd12version  tdate=page.mgd12date  tqual=page.mgd12qual  tfilesize=page.mgd12filesize  tsizes=page.mgd12sizes %}
+{% include assembly-stats.html individual=12 llabel="Maternal"    lseq=page.mat12seq  lversion=page.mat12version  ldate=page.mat12date  lqual=page.mat12qual  lfilesize=page.mat12filesize  lsizes=page.mat12sizes
+                                             rlabel="Paternal"    rseq=page.pat12seq  rversion=page.pat12version  rdate=page.pat12date  rqual=page.pat12qual  rfilesize=page.pat12filesize  rsizes=page.pat12sizes %}
+{% include assembly-stats.html individual=12 llabel="Haplotype 1" lseq=page.hpa12seq  lversion=page.hpa12version  ldate=page.hpa12date  lqual=page.hpa12qual  lfilesize=page.hpa12filesize  lsizes=page.hpa12sizes
+                                             rlabel="Haplotype 2" rseq=page.hpb12seq  rversion=page.hpb12version  rdate=page.hpb12date  rqual=page.hpb12qual  rfilesize=page.hpb12filesize  rsizes=page.hpb12sizes %}
+{% include assembly-stats.html individual=12                      mseq=page.mito12seq mversion=page.mito12version mdate=page.mito12date mqual=page.mito12qual mfilesize=page.mito12filesize %}
 
 
 {% if d12 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d12 and div12 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
 
 
-{% include assembly-stats.html individual=13 tlabel="Diploid"     tseq=page.dip13seq  tversion=page.dip13version  tdate=page.dip13date  tfilesize=page.dip13filesize  tsizes=page.dip13sizes %}
-{% include assembly-stats.html individual=13 llabel="Primary"     lseq=page.pri13seq  lversion=page.pri13version  ldate=page.pri13date  lfilesize=page.pri13filesize  lsizes=page.pri13sizes
-                                             rlabel="Alternate"   rseq=page.alt13seq  rversion=page.alt13version  rdate=page.alt13date  rfilesize=page.alt13filesize  rsizes=page.alt13sizes %}
-{% include assembly-stats.html individual=13 tlabel="Merged Trio" tseq=page.mgd13seq  tversion=page.mgd13version  tdate=page.mgd13date  tfilesize=page.mgd13filesize  tsizes=page.mgd13sizes %}
-{% include assembly-stats.html individual=13 llabel="Maternal"    lseq=page.mat13seq  lversion=page.mat13version  ldate=page.mat13date  lfilesize=page.mat13filesize  lsizes=page.mat13sizes
-                                             rlabel="Paternal"    rseq=page.pat13seq  rversion=page.pat13version  rdate=page.pat13date  rfilesize=page.pat13filesize  rsizes=page.pat13sizes %}
-{% include assembly-stats.html individual=13 llabel="Haplotype 1" lseq=page.hpa13seq  lversion=page.hpa13version  ldate=page.hpa13date  lfilesize=page.hpa13filesize  lsizes=page.hpa13sizes
-                                             rlabel="Haplotype 2" rseq=page.hpb13seq  rversion=page.hpb13version  rdate=page.hpb13date  rfilesize=page.hpb13filesize  rsizes=page.hpb13sizes %}
-{% include assembly-stats.html individual=13                      mseq=page.mito13seq mversion=page.mito13version mdate=page.mito13date mfilesize=page.mito13filesize %}
+{% include assembly-stats.html individual=13 tlabel="Diploid"     tseq=page.dip13seq  tversion=page.dip13version  tdate=page.dip13date  tqual=page.dip13qual  tfilesize=page.dip13filesize  tsizes=page.dip13sizes %}
+{% include assembly-stats.html individual=13 llabel="Primary"     lseq=page.pri13seq  lversion=page.pri13version  ldate=page.pri13date  lqual=page.pri13qual  lfilesize=page.pri13filesize  lsizes=page.pri13sizes
+                                             rlabel="Alternate"   rseq=page.alt13seq  rversion=page.alt13version  rdate=page.alt13date  rqual=page.alt13qual  rfilesize=page.alt13filesize  rsizes=page.alt13sizes %}
+{% include assembly-stats.html individual=13 tlabel="Merged Trio" tseq=page.mgd13seq  tversion=page.mgd13version  tdate=page.mgd13date  tqual=page.mgd13qual  tfilesize=page.mgd13filesize  tsizes=page.mgd13sizes %}
+{% include assembly-stats.html individual=13 llabel="Maternal"    lseq=page.mat13seq  lversion=page.mat13version  ldate=page.mat13date  lqual=page.mat13qual  lfilesize=page.mat13filesize  lsizes=page.mat13sizes
+                                             rlabel="Paternal"    rseq=page.pat13seq  rversion=page.pat13version  rdate=page.pat13date  rqual=page.pat13qual  rfilesize=page.pat13filesize  rsizes=page.pat13sizes %}
+{% include assembly-stats.html individual=13 llabel="Haplotype 1" lseq=page.hpa13seq  lversion=page.hpa13version  ldate=page.hpa13date  lqual=page.hpa13qual  lfilesize=page.hpa13filesize  lsizes=page.hpa13sizes
+                                             rlabel="Haplotype 2" rseq=page.hpb13seq  rversion=page.hpb13version  rdate=page.hpb13date  rqual=page.hpb13qual  rfilesize=page.hpb13filesize  rsizes=page.hpb13sizes %}
+{% include assembly-stats.html individual=13                      mseq=page.mito13seq mversion=page.mito13version mdate=page.mito13date mqual=page.mito13qual mfilesize=page.mito13filesize %}
 
 
 {% if d13 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d13 and div13 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
 
 
-{% include assembly-stats.html individual=14 tlabel="Diploid"     tseq=page.dip14seq  tversion=page.dip14version  tdate=page.dip14date  tfilesize=page.dip14filesize  tsizes=page.dip14sizes %}
-{% include assembly-stats.html individual=14 llabel="Primary"     lseq=page.pri14seq  lversion=page.pri14version  ldate=page.pri14date  lfilesize=page.pri14filesize  lsizes=page.pri14sizes
-                                             rlabel="Alternate"   rseq=page.alt14seq  rversion=page.alt14version  rdate=page.alt14date  rfilesize=page.alt14filesize  rsizes=page.alt14sizes %}
-{% include assembly-stats.html individual=14 tlabel="Merged Trio" tseq=page.mgd14seq  tversion=page.mgd14version  tdate=page.mgd14date  tfilesize=page.mgd14filesize  tsizes=page.mgd14sizes %}
-{% include assembly-stats.html individual=14 llabel="Maternal"    lseq=page.mat14seq  lversion=page.mat14version  ldate=page.mat14date  lfilesize=page.mat14filesize  lsizes=page.mat14sizes
-                                             rlabel="Paternal"    rseq=page.pat14seq  rversion=page.pat14version  rdate=page.pat14date  rfilesize=page.pat14filesize  rsizes=page.pat14sizes %}
-{% include assembly-stats.html individual=14 llabel="Haplotype 1" lseq=page.hpa14seq  lversion=page.hpa14version  ldate=page.hpa14date  lfilesize=page.hpa14filesize  lsizes=page.hpa14sizes
-                                             rlabel="Haplotype 2" rseq=page.hpb14seq  rversion=page.hpb14version  rdate=page.hpb14date  rfilesize=page.hpb14filesize  rsizes=page.hpb14sizes %}
-{% include assembly-stats.html individual=14                      mseq=page.mito14seq mversion=page.mito14version mdate=page.mito14date mfilesize=page.mito14filesize %}
+{% include assembly-stats.html individual=14 tlabel="Diploid"     tseq=page.dip14seq  tversion=page.dip14version  tdate=page.dip14date  tqual=page.dip14qual  tfilesize=page.dip14filesize  tsizes=page.dip14sizes %}
+{% include assembly-stats.html individual=14 llabel="Primary"     lseq=page.pri14seq  lversion=page.pri14version  ldate=page.pri14date  lqual=page.pri14qual  lfilesize=page.pri14filesize  lsizes=page.pri14sizes
+                                             rlabel="Alternate"   rseq=page.alt14seq  rversion=page.alt14version  rdate=page.alt14date  rqual=page.alt14qual  rfilesize=page.alt14filesize  rsizes=page.alt14sizes %}
+{% include assembly-stats.html individual=14 tlabel="Merged Trio" tseq=page.mgd14seq  tversion=page.mgd14version  tdate=page.mgd14date  tqual=page.mgd14qual  tfilesize=page.mgd14filesize  tsizes=page.mgd14sizes %}
+{% include assembly-stats.html individual=14 llabel="Maternal"    lseq=page.mat14seq  lversion=page.mat14version  ldate=page.mat14date  lqual=page.mat14qual  lfilesize=page.mat14filesize  lsizes=page.mat14sizes
+                                             rlabel="Paternal"    rseq=page.pat14seq  rversion=page.pat14version  rdate=page.pat14date  rqual=page.pat14qual  rfilesize=page.pat14filesize  rsizes=page.pat14sizes %}
+{% include assembly-stats.html individual=14 llabel="Haplotype 1" lseq=page.hpa14seq  lversion=page.hpa14version  ldate=page.hpa14date  lqual=page.hpa14qual  lfilesize=page.hpa14filesize  lsizes=page.hpa14sizes
+                                             rlabel="Haplotype 2" rseq=page.hpb14seq  rversion=page.hpb14version  rdate=page.hpb14date  rqual=page.hpb14qual  rfilesize=page.hpb14filesize  rsizes=page.hpb14sizes %}
+{% include assembly-stats.html individual=14                      mseq=page.mito14seq mversion=page.mito14version mdate=page.mito14date mqual=page.mito14qual mfilesize=page.mito14filesize %}
 
 
 {% if d14 %} {% assign shown = false %} {% endif %}
 {% if shown == false and d14 and div14 %} {% assign shown = true %} <div class="assembly-list-line"><hr width="80%"></div> {% endif %}
 
 
-{% include assembly-stats.html individual=15 tlabel="Diploid"     tseq=page.dip15seq  tversion=page.dip15version  tdate=page.dip15date  tfilesize=page.dip15filesize  tsizes=page.dip15sizes %}
-{% include assembly-stats.html individual=15 llabel="Primary"     lseq=page.pri15seq  lversion=page.pri15version  ldate=page.pri15date  lfilesize=page.pri15filesize  lsizes=page.pri15sizes
-                                             rlabel="Alternate"   rseq=page.alt15seq  rversion=page.alt15version  rdate=page.alt15date  rfilesize=page.alt15filesize  rsizes=page.alt15sizes %}
-{% include assembly-stats.html individual=15 tlabel="Merged Trio" tseq=page.mgd15seq  tversion=page.mgd15version  tdate=page.mgd15date  tfilesize=page.mgd15filesize  tsizes=page.mgd15sizes %}
-{% include assembly-stats.html individual=15 llabel="Maternal"    lseq=page.mat15seq  lversion=page.mat15version  ldate=page.mat15date  lfilesize=page.mat15filesize  lsizes=page.mat15sizes
-                                             rlabel="Paternal"    rseq=page.pat15seq  rversion=page.pat15version  rdate=page.pat15date  rfilesize=page.pat15filesize  rsizes=page.pat15sizes %}
-{% include assembly-stats.html individual=15 llabel="Haplotype 1" lseq=page.hpa15seq  lversion=page.hpa15version  ldate=page.hpa15date  lfilesize=page.hpa15filesize  lsizes=page.hpa15sizes
-                                             rlabel="Haplotype 2" rseq=page.hpb15seq  rversion=page.hpb15version  rdate=page.hpb15date  rfilesize=page.hpb15filesize  rsizes=page.hpb15sizes %}
-{% include assembly-stats.html individual=15                      mseq=page.mito15seq mversion=page.mito15version mdate=page.mito15date mfilesize=page.mito15filesize %}
+{% include assembly-stats.html individual=15 tlabel="Diploid"     tseq=page.dip15seq  tversion=page.dip15version  tdate=page.dip15date  tqual=page.dip15qual  tfilesize=page.dip15filesize  tsizes=page.dip15sizes %}
+{% include assembly-stats.html individual=15 llabel="Primary"     lseq=page.pri15seq  lversion=page.pri15version  ldate=page.pri15date  lqual=page.pri15qual  lfilesize=page.pri15filesize  lsizes=page.pri15sizes
+                                             rlabel="Alternate"   rseq=page.alt15seq  rversion=page.alt15version  rdate=page.alt15date  rqual=page.alt15qual  rfilesize=page.alt15filesize  rsizes=page.alt15sizes %}
+{% include assembly-stats.html individual=15 tlabel="Merged Trio" tseq=page.mgd15seq  tversion=page.mgd15version  tdate=page.mgd15date  tqual=page.mgd15qual  tfilesize=page.mgd15filesize  tsizes=page.mgd15sizes %}
+{% include assembly-stats.html individual=15 llabel="Maternal"    lseq=page.mat15seq  lversion=page.mat15version  ldate=page.mat15date  lqual=page.mat15qual  lfilesize=page.mat15filesize  lsizes=page.mat15sizes
+                                             rlabel="Paternal"    rseq=page.pat15seq  rversion=page.pat15version  rdate=page.pat15date  rqual=page.pat15qual  rfilesize=page.pat15filesize  rsizes=page.pat15sizes %}
+{% include assembly-stats.html individual=15 llabel="Haplotype 1" lseq=page.hpa15seq  lversion=page.hpa15version  ldate=page.hpa15date  lqual=page.hpa15qual  lfilesize=page.hpa15filesize  lsizes=page.hpa15sizes
+                                             rlabel="Haplotype 2" rseq=page.hpb15seq  rversion=page.hpb15version  rdate=page.hpb15date  rqual=page.hpb15qual  rfilesize=page.hpb15filesize  rsizes=page.hpb15sizes %}
+{% include assembly-stats.html individual=15                      mseq=page.mito15seq mversion=page.mito15version mdate=page.mito15date mqual=page.mito15qual mfilesize=page.mito15filesize %}
 
 </div>
 {% endunless %}
