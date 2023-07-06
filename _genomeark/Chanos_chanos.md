@@ -141,6 +141,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fChaCha
 taxon_id: 29144
 ---

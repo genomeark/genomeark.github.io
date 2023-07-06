@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Corella eumyota
 name_: Corella_eumyota
+project:
+- vgp
 short_name: kaCorEumy
 taxon_id: 431183
 ---

@@ -78,6 +78,8 @@ metadata: |
     project: [ vgp ]
 name: Pseudorca crassidens
 name_: Pseudorca_crassidens
+project:
+- vgp
 short_name: mPseCra
 taxon_id: 82174
 ---

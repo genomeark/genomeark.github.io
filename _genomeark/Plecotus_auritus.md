@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Plecotus auritus
 name_: Plecotus_auritus
+project:
+- vgp
 short_name: mPleAur
 taxon_id: 61862
 ---

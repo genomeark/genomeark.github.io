@@ -116,6 +116,7 @@ mds:
   title: assembly_vgp_HiC_2.0/bPasDom1.yaml
 name: Passer domesticus
 name_: Passer_domesticus
+project: ~
 short_name: bPasDom
 taxon_id: ''
 ---

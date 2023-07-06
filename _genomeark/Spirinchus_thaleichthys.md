@@ -68,6 +68,8 @@ metadata: |
     project: [ vgp ]
 name: Spirinchus thaleichthys
 name_: Spirinchus_thaleichthys
+project:
+- vgp
 short_name: fSpiTha
 taxon_id: 260508
 ---

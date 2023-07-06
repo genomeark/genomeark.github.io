@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Bucephala clangula
 name_: Bucephala_clangula
+project:
+- vgp
 short_name: bBucCla
 taxon_id: 107022
 ---

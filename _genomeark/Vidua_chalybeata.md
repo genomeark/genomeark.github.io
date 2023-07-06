@@ -147,6 +147,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: bVidCha
 taxon_id: 81927
 ---

@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Castor fiber
 name_: Castor_fiber
+project:
+- vgp
 short_name: mCasFib
 taxon_id: 10185
 ---

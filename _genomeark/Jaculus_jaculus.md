@@ -143,6 +143,8 @@ pat1sizes: |
   </tfoot>
   </table>
 pat1version: assembly_curated
+project:
+- vgp
 short_name: mJacJac
 taxon_id: 51337
 ---

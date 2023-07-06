@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Cygnus columbianus
 name_: Cygnus_columbianus
+project:
+- vgp
 short_name: bCygCol
 taxon_id: 110926
 ---

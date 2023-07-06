@@ -171,6 +171,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: mEreDor
 taxon_id: 34844
 ---

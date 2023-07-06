@@ -157,6 +157,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Tapirus indicus
 name_: Tapirus_indicus
+project: ~
 short_name: mTapInd
 taxon_id: ''
 ---

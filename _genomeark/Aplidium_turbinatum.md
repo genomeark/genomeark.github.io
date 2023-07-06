@@ -110,6 +110,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: kaAplTurb
 taxon_id: 2771288
 ---

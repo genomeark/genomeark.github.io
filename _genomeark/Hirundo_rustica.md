@@ -119,6 +119,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: bHirRus
 taxon_id: 43150
 ---

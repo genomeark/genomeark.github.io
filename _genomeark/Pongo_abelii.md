@@ -211,6 +211,8 @@ metadata: |
     project: [ t2t ]
 name: Pongo abelii
 name_: Pongo_abelii
+project:
+- t2t
 short_name: mPonAbe
 taxon_id: 9601
 ---

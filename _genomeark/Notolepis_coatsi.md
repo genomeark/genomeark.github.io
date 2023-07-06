@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Notolepis coatsi
 name_: Notolepis_coatsi
+project:
+- vgp
 short_name: fNotCoa
 taxon_id: 948063
 ---

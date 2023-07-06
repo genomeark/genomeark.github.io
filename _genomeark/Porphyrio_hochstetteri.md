@@ -259,6 +259,8 @@ pat1sizes: |
   </tfoot>
   </table>
 pat1version: assembly_curated
+project:
+- vgp
 short_name: bPorHoc
 taxon_id: 439704
 ---

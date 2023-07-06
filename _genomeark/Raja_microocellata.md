@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Raja microocellata
 name_: Raja_microocellata
+project:
+- vgp
 short_name: sRajMic
 taxon_id: 223863
 ---

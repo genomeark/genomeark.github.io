@@ -48,6 +48,8 @@ metadata: |
     project: [ vgp ]
 name: Turdus merula
 name_: Turdus_merula
+project:
+- vgp
 short_name: bTurMer
 taxon_id: 9187
 ---

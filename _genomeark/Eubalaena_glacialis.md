@@ -155,6 +155,8 @@ metadata: |
     project: [ vgp ]
 name: Eubalaena glacialis
 name_: Eubalaena_glacialis
+project:
+- vgp
 short_name: mEubGla
 taxon_id: 27606
 ---

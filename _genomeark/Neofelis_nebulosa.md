@@ -185,6 +185,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: mNeoNeb
 taxon_id: '61452'
 ---

@@ -40,6 +40,9 @@ metadata: |
     project: [ erga, vgp ]
 name: Bombina variegata
 name_: Bombina_variegata
+project:
+- erga
+- vgp
 short_name: aBomVar
 taxon_id: 8348
 ---

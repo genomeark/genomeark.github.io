@@ -131,6 +131,7 @@ mds:
   title: assembly_vgp_hic_2.0/sMobBir1_hap2.yaml
 name: Mobula birostris
 name_: Mobula_birostris
+project: ~
 short_name: sMobBir
 taxon_id: ''
 ---

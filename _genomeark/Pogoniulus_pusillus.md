@@ -158,6 +158,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: bPogPus
 taxon_id: 488313
 ---

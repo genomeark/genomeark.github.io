@@ -147,6 +147,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fEsoLuc
 taxon_id: 8010
 ---

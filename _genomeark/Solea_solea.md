@@ -108,6 +108,8 @@ pri10sizes: |
   </tfoot>
   </table>
 pri10version: assembly_curated
+project:
+- vgp
 short_name: fSolSol
 taxon_id: 90069
 ---

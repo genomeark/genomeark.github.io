@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Nannobrachium achirus
 name_: Nannobrachium_achirus
+project:
+- vgp
 short_name: fNanAch
 taxon_id: 473322
 ---

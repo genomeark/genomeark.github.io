@@ -138,6 +138,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Salminus brasiliensis
 name_: Salminus_brasiliensis
+project: ~
 short_name: fSalBra
 taxon_id: ''
 ---

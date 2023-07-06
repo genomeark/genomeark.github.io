@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Neovison vison
 name_: Neovison_vison
+project:
+- vgp
 short_name: mNeoVis
 taxon_id: 452646
 ---

@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Phocoena phocoena
 name_: Phocoena_phocoena
+project:
+- vgp
 short_name: mPhoPho
 taxon_id: 9742
 ---

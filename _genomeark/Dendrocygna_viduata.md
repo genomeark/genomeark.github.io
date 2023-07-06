@@ -69,6 +69,8 @@ metadata: |
     project: [ vgp ]
 name: Dendrocygna viduata
 name_: Dendrocygna_viduata
+project:
+- vgp
 short_name: bDenVid
 taxon_id: 8876
 ---

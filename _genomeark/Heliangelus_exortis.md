@@ -124,6 +124,7 @@ mds:
   title: assembly_vgp_HiC_2.0/bHelExo1_hap2.yml
 name: Heliangelus exortis
 name_: Heliangelus_exortis
+project: ~
 short_name: bHelExo
 taxon_id: ''
 ---

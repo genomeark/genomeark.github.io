@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Saccoglossus kowalevskii
 name_: Saccoglossus_kowalevskii
+project:
+- vgp
 short_name: keSacKowa
 taxon_id: 10224
 ---

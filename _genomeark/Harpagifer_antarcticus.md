@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Harpagifer antarcticus
 name_: Harpagifer_antarcticus
+project:
+- vgp
 short_name: fHarAnt
 taxon_id: 43256
 ---

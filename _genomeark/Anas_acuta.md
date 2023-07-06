@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Anas acuta
 name_: Anas_acuta
+project:
+- vgp
 short_name: bAnaAcu
 taxon_id: 28680
 ---

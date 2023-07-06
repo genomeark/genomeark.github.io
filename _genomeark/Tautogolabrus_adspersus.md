@@ -205,6 +205,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fTauAds
 taxon_id: 34787
 ---

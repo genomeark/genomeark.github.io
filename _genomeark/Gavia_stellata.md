@@ -163,6 +163,7 @@ mito3sizes: |
 mito3version: assembly_MT_rockefeller
 name: Gavia stellata
 name_: Gavia_stellata
+project: ~
 short_name: bGavSte
 taxon_id: ''
 ---

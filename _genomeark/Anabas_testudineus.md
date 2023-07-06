@@ -158,6 +158,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fAnaTes
 taxon_id: 64144
 ---

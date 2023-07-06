@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Calonectris borealis
 name_: Calonectris_borealis
+project:
+- vgp
 short_name: bCalBor
 taxon_id: 1323832
 ---

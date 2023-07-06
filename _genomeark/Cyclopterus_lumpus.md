@@ -169,6 +169,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fCycLum
 taxon_id: 8103
 ---

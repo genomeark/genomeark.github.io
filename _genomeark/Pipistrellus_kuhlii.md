@@ -117,6 +117,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_dresden_DAmar1.0
+project:
+- vgp
 short_name: mPipKuh
 taxon_id: 59472
 ---

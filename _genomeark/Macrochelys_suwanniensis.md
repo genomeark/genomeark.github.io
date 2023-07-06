@@ -122,6 +122,7 @@ mds:
   title: assembly_vgp_HiC_2.0/rMacSuw1_hap2.yml
 name: Macrochelys suwanniensis
 name_: Macrochelys_suwanniensis
+project: ~
 short_name: rMacSuw
 taxon_id: ''
 ---

@@ -135,6 +135,7 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_CCGP_standard
+project: ~
 short_name: rElgMul
 taxon_id: ''
 ---

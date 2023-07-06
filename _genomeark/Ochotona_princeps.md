@@ -186,6 +186,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Ochotona princeps
 name_: Ochotona_princeps
+project: ~
 short_name: mOchPri
 taxon_id: ''
 ---

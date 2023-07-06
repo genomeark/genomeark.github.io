@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Chelidonichthys cuculus
 name_: Chelidonichthys_cuculus
+project:
+- vgp
 short_name: fCheCuc
 taxon_id: 426094
 ---

@@ -137,6 +137,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Dixiphia pipra
 name_: Dixiphia_pipra
+project: ~
 short_name: bDixPip
 taxon_id: ''
 ---

@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Numenius arquata
 name_: Numenius_arquata
+project:
+- vgp
 short_name: bNumArq
 taxon_id: 31919
 ---

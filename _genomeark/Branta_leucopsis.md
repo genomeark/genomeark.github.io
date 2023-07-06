@@ -71,6 +71,8 @@ metadata: |
     project: [ vgp ]
 name: Branta leucopsis
 name_: Branta_leucopsis
+project:
+- vgp
 short_name: bBraLeu
 taxon_id: 184711
 ---

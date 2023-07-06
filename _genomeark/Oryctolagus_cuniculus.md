@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Oryctolagus cuniculus
 name_: Oryctolagus_cuniculus
+project:
+- vgp
 short_name: mOryCun
 taxon_id: 9986
 ---

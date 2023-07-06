@@ -133,6 +133,7 @@ mds:
   title: assembly_vgp_standard_2.0/mKogBre1.yaml
 name: Kogia breviceps
 name_: Kogia_breviceps
+project: ~
 short_name: mKogBre
 taxon_id: ''
 ...

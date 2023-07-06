@@ -137,6 +137,8 @@ metadata: |
     project: [ vgp ]
 name: Malaclemys terrapin
 name_: Malaclemys_terrapin
+project:
+- vgp
 short_name: rMalTer
 taxon_id: 8485
 ---

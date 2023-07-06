@@ -131,6 +131,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fSclFor
 taxon_id: 113540
 ---

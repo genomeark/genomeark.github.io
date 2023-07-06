@@ -40,6 +40,7 @@ metadata: |
     project: [ ]
 name: Ascidiella aspersa
 name_: Ascidiella_aspersa
+project: []
 short_name: kaAscAspe
 taxon_id: 201961
 ---

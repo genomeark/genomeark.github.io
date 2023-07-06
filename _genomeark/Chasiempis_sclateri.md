@@ -68,6 +68,8 @@ metadata: |
     project: [ vgp ]
 name: Chasiempis sclateri
 name_: Chasiempis_sclateri
+project:
+- vgp
 short_name: bChaScl
 taxon_id: 1576535
 ---

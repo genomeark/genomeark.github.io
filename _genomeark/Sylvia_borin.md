@@ -129,6 +129,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: bSylBor
 taxon_id: 1471886
 ---

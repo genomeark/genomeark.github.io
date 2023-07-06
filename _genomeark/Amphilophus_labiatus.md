@@ -38,6 +38,8 @@ metadata: |
     project: [ vgp ]
 name: Amphilophus labiatus
 name_: Amphilophus_labiatus
+project:
+- vgp
 short_name: fAmpLab
 taxon_id: 61820
 ---

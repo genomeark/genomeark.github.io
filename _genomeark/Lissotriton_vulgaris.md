@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Lissotriton vulgaris
 name_: Lissotriton_vulgaris
+project:
+- vgp
 short_name: aLisVul
 taxon_id: 8324
 ---

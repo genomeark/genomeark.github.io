@@ -158,6 +158,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: bCucCan
 taxon_id: 55661
 ---

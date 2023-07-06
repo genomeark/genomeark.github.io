@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Protomyctophum andriashevi
 name_: Protomyctophum_andriashevi
+project:
+- vgp
 short_name: fProAnd
 taxon_id: 443713
 ---

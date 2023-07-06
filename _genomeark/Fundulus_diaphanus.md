@@ -182,6 +182,8 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Fundulus diaphanus
 name_: Fundulus_diaphanus
+project:
+- vgp
 short_name: fFunDia
 taxon_id: 54267
 ---

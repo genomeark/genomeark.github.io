@@ -160,6 +160,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fMasArm
 taxon_id: 205130
 ---

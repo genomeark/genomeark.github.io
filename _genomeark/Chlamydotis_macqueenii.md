@@ -90,6 +90,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Chlamydotis macqueenii
 name_: Chlamydotis_macqueenii
+project: ~
 short_name: bChlMac
 taxon_id: ''
 ---

@@ -75,6 +75,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Ranitomeya imitator
 name_: Ranitomeya_imitator
+project: ~
 short_name: aRanImi
 taxon_id: ''
 ---

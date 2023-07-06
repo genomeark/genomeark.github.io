@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Zootoca vivipara
 name_: Zootoca_vivipara
+project:
+- vgp
 short_name: rZooViv
 taxon_id: 8524
 ---

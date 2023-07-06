@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Grampus griseus
 name_: Grampus_griseus
+project:
+- vgp
 short_name: mGraGri
 taxon_id: 83653
 ---

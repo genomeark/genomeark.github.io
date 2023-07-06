@@ -158,6 +158,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: bCarCri
 taxon_id: 54380
 ---

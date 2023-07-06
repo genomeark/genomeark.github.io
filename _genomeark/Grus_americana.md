@@ -165,6 +165,8 @@ pat1sizes: |
   </tfoot>
   </table>
 pat1version: assembly_curated
+project:
+- vgp
 short_name: bGruAme
 taxon_id: 9117
 ---

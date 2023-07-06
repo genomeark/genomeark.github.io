@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Raja brachyura
 name_: Raja_brachyura
+project:
+- vgp
 short_name: sRajBra
 taxon_id: 223862
 ---

@@ -692,6 +692,8 @@ pri5sizes: |
   </tfoot>
   </table>
 pri5version: assembly_curated
+project:
+- vgp
 short_name: bGalGal
 taxon_id: 9031
 ---

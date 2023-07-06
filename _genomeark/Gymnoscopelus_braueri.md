@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Gymnoscopelus braueri
 name_: Gymnoscopelus_braueri
+project:
+- vgp
 short_name: fGymBra
 taxon_id: 948025
 ---

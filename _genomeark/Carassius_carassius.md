@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Carassius carassius
 name_: Carassius_carassius
+project:
+- vgp
 short_name: fCarCar
 taxon_id: 217509
 ---

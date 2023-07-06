@@ -200,6 +200,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: bTheCae
 taxon_id: 1118847
 ---

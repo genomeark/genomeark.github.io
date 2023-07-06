@@ -158,6 +158,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_berlinSanger_vgp_1.6
+project:
+- vgp
 short_name: mChoDid
 taxon_id: 27675
 ---

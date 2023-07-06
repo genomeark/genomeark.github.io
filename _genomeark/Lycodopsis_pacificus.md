@@ -180,6 +180,7 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project: []
 short_name: fLycPai
 taxon_id: 1772091
 ---

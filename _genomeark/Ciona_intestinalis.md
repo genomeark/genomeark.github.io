@@ -40,6 +40,7 @@ metadata: |
     project: [ ]
 name: Ciona intestinalis
 name_: Ciona_intestinalis
+project: []
 short_name: kaCioInte
 taxon_id: 7719
 ---

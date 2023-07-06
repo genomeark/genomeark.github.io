@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Lampanyctus macdonaldi
 name_: Lampanyctus_macdonaldi
+project:
+- vgp
 short_name: fLamMac
 taxon_id: 521416
 ---

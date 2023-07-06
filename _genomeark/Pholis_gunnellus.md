@@ -121,6 +121,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fPhoGun
 taxon_id: 56726
 ---

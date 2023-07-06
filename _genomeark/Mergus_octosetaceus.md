@@ -157,6 +157,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Mergus octosetaceus
 name_: Mergus_octosetaceus
+project: ~
 short_name: bMerOct
 taxon_id: ''
 ---

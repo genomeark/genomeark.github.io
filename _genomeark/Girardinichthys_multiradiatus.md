@@ -138,6 +138,7 @@ pri3sizes: |
   </tfoot>
   </table>
 pri3version: assembly_curated
+project: []
 short_name: fGirMul
 taxon_id: 208333
 ---

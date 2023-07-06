@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Chroicocephalus ridibundus
 name_: Chroicocephalus_ridibundus
+project:
+- vgp
 short_name: bChrRid
 taxon_id: 1192867
 ---

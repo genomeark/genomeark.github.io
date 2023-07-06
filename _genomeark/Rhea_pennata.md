@@ -156,6 +156,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: bPtePen
 taxon_id: 8795
 ---

@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Myxine glutinosa
 name_: Myxine_glutinosa
+project:
+- vgp
 short_name: kmMyxGlut
 taxon_id: 7769
 ---

@@ -120,6 +120,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: bFalChe
 taxon_id: 345164
 ---

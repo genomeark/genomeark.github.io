@@ -102,6 +102,8 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Zeus faber
 name_: Zeus_faber
+project:
+- vgp
 short_name: fZeuFab
 taxon_id: 64108
 ---

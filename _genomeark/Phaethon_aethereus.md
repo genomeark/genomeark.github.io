@@ -74,6 +74,8 @@ metadata: |
     project: [ vgp ]
 name: Phaethon aethereus
 name_: Phaethon_aethereus
+project:
+- vgp
 short_name: bPhaAeh
 taxon_id: 37045
 ---

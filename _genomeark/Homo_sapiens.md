@@ -244,6 +244,8 @@ pat3sizes: |
   </tfoot>
   </table>
 pat3version: assembly_curated
+project:
+- vgp
 short_name: mHomSap
 taxon_id: 9606
 ---

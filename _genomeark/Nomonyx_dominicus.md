@@ -69,6 +69,8 @@ metadata: |
     project: [ vgp ]
 name: Nomonyx dominicus
 name_: Nomonyx_dominicus
+project:
+- vgp
 short_name: bNomDom
 taxon_id: 555276
 ---

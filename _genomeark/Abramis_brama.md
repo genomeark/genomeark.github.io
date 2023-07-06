@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Abramis brama
 name_: Abramis_brama
+project:
+- vgp
 short_name: fAbrBra
 taxon_id: 38527
 ---

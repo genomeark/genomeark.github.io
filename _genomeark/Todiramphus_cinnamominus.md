@@ -38,6 +38,8 @@ metadata: |
     project: [ vgp ]
 name: Todiramphus cinnamominus
 name_: Todiramphus_cinnamominus
+project:
+- vgp
 short_name: bTodCin
 taxon_id: 1006542
 ---

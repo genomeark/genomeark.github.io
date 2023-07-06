@@ -151,6 +151,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: rVipLat
 taxon_id: 246179
 ---

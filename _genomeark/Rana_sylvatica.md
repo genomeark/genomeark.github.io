@@ -55,6 +55,8 @@ metadata: |
     project: [ vgp ]
 name: Rana sylvatica
 name_: Rana_sylvatica
+project:
+- vgp
 short_name: aRanSyl
 taxon_id: 45438
 ---

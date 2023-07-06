@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Krefftichthys anderssoni
 name_: Krefftichthys_anderssoni
+project:
+- vgp
 short_name: fKreAnd
 taxon_id: 123330
 ---

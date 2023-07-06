@@ -48,6 +48,8 @@ metadata: |
     project: [ vgp ]
 name: Spatula cyanoptera
 name_: Spatula_cyanoptera
+project:
+- vgp
 short_name: bSpaCya
 taxon_id: 75840
 ---

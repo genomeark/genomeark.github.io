@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Spinachia spinachia
 name_: Spinachia_spinachia
+project:
+- vgp
 short_name: fSpiSpi
 taxon_id: 206126
 ---

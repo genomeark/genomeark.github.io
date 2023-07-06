@@ -145,6 +145,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: mEleMax
 taxon_id: 9783
 ---

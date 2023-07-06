@@ -288,6 +288,9 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Pan troglodytes
 name_: Pan_troglodytes
+project:
+- vgp
+- t2t
 short_name: mPanTro
 taxon_id: 9598
 ---

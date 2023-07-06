@@ -175,6 +175,8 @@ pat1sizes: |
   </tfoot>
   </table>
 pat1version: assembly_curated
+project:
+- vgp
 short_name: mCalJac
 taxon_id: 9483
 ---

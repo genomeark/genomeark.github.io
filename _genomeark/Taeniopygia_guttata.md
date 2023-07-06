@@ -556,6 +556,8 @@ pri2sizes: |
   </tfoot>
   </table>
 pri2version: assembly_curated
+project:
+- vgp
 short_name: bTaeGut
 taxon_id: 59729
 ---

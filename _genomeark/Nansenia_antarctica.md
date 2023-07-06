@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Nansenia antarctica
 name_: Nansenia_antarctica
+project:
+- vgp
 short_name: fNanAnt
 taxon_id: 443705
 ---

@@ -214,6 +214,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: rEryReg
 taxon_id: 121349
 ---

@@ -135,6 +135,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Cyprinella venusta
 name_: Cyprinella_venusta
+project: ~
 short_name: fCypVen
 taxon_id: ''
 ---

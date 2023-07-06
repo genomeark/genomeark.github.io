@@ -100,6 +100,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: mOrcOrc
 taxon_id: 9733
 ---

@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Callionymus lyra
 name_: Callionymus_lyra
+project:
+- vgp
 short_name: fCalLyr
 taxon_id: 34785
 ---

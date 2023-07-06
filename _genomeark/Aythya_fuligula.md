@@ -129,6 +129,8 @@ pri2sizes: |
   </tfoot>
   </table>
 pri2version: assembly_curated
+project:
+- vgp
 short_name: bAytFul
 taxon_id: 219594
 ---

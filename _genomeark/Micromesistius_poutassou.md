@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Micromesistius poutassou
 name_: Micromesistius_poutassou
+project:
+- vgp
 short_name: fMicPou
 taxon_id: 81636
 ---

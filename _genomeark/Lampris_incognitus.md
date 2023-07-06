@@ -108,6 +108,7 @@ mds:
   title: assembly_vgp_HiC_2.0/fLamInc1_hap2.yml
 name: Lampris incognitus
 name_: Lampris_incognitus
+project: ~
 short_name: fLamInc
 taxon_id: ''
 ---

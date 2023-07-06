@@ -213,6 +213,8 @@ metadata: |
     project: [ t2t ]
 name: Pongo pygmaeus
 name_: Pongo_pygmaeus
+project:
+- t2t
 short_name: mPonPyg
 taxon_id: 9600
 ---

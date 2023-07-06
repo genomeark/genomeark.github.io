@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Mergellus albellus
 name_: Mergellus_albellus
+project:
+- vgp
 short_name: bMerAlb
 taxon_id: 107026
 ---

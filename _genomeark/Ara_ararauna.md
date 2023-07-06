@@ -137,6 +137,8 @@ metadata: |
     project: [ vgp ]
 name: Ara ararauna
 name_: Ara_ararauna
+project:
+- vgp
 short_name: bAraAra
 taxon_id: 9226
 ---

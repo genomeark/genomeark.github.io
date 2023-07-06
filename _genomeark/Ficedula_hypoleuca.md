@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Ficedula hypoleuca
 name_: Ficedula_hypoleuca
+project:
+- vgp
 short_name: bFicHyp
 taxon_id: 46689
 ---

@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Lissotriton helveticus
 name_: Lissotriton_helveticus
+project:
+- vgp
 short_name: aLisHel
 taxon_id: 256425
 ---

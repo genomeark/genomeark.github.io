@@ -170,6 +170,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: aMicUni
 taxon_id: 1415580
 ---

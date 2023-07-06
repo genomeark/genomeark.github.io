@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Conger conger
 name_: Conger_conger
+project:
+- vgp
 short_name: fConCon
 taxon_id: 82655
 ---

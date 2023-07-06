@@ -110,6 +110,8 @@ pri3sizes: |
   </tfoot>
   </table>
 pri3version: assembly_curated
+project:
+- vgp
 short_name: fSilAri
 taxon_id: 933932
 ---

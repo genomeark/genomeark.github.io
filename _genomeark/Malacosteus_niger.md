@@ -61,6 +61,8 @@ metadata: |
     project: [ vgp ]
 name: Malacosteus niger
 name_: Malacosteus_niger
+project:
+- vgp
 short_name: fMalNig
 taxon_id: 76143
 ---

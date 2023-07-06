@@ -151,6 +151,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: mHetBru
 taxon_id: 77598
 ---

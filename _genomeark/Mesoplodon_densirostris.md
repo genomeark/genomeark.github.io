@@ -179,6 +179,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: mMesDen
 taxon_id: 48708
 ---

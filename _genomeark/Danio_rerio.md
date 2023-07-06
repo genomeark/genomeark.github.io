@@ -48,13 +48,13 @@ data_illumina:fDreTuH1_scale: 1.8621
 data_illumina_bases: 404.18 Gbp
 data_illumina_bytes: 201.2 GiB
 data_illumina_coverage: N/A
-data_ont:fDanRer17_bases: 158.33 Gbp
-data_ont:fDanRer17_bytes: 131.6 GiB
-data_ont:fDanRer17_coverage: N/A
-data_ont:fDanRer17_links: s3://genomeark/species/Danio_rerio/fDanRer17/genomic_data/ont/<br>
-data_ont:fDanRer17_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Danio_rerio/fDanRer17/genomic_data/ont/
-data_ont:fDanRer17_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDanRer17/genomic_data/ont/
-data_ont:fDanRer17_scale: 1.1205
+data_ont-17_bases: 158.33 Gbp
+data_ont-17_bytes: 131.6 GiB
+data_ont-17_coverage: N/A
+data_ont-17_links: s3://genomeark/species/Danio_rerio/fDanRer17/genomic_data/ont/<br>
+data_ont-17_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Danio_rerio/fDanRer17/genomic_data/ont/
+data_ont-17_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDanRer17/genomic_data/ont/
+data_ont-17_scale: 1.1205
 data_ont_bases: 158.33 Gbp
 data_ont_bytes: 131.6 GiB
 data_ont_coverage: N/A
@@ -181,6 +181,8 @@ pat1sizes: |
   </tfoot>
   </table>
 pat1version: assembly_curated
+project:
+- vgp
 short_name: fDanRer
 taxon_id: 29144
 ---

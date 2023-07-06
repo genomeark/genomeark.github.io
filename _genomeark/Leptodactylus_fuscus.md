@@ -172,6 +172,8 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Leptodactylus fuscus
 name_: Leptodactylus_fuscus
+project:
+- vgp
 short_name: aLepFus
 taxon_id: 238119
 ---

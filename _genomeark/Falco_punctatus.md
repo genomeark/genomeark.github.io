@@ -53,6 +53,8 @@ metadata: |
     project: [ vgp ]
 name: Falco punctatus
 name_: Falco_punctatus
+project:
+- vgp
 short_name: bFalPun
 taxon_id: 148596
 ---

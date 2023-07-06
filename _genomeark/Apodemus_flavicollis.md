@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Apodemus flavicollis
 name_: Apodemus_flavicollis
+project:
+- vgp
 short_name: mApoFla
 taxon_id: 54292
 ---

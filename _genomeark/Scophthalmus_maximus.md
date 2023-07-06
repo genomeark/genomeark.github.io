@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Scophthalmus maximus
 name_: Scophthalmus_maximus
+project:
+- vgp
 short_name: fScoMax
 taxon_id: 52904
 ---

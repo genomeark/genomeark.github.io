@@ -148,6 +148,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fAnaAna
 taxon_id: 195821
 ---

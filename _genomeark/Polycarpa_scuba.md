@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Polycarpa scuba
 name_: Polycarpa_scuba
+project:
+- vgp
 short_name: kaPolScub
 taxon_id: 2980199
 ---

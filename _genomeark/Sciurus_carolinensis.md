@@ -150,6 +150,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: mSciCar
 taxon_id: 30640
 ---

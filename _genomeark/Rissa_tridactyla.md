@@ -159,6 +159,8 @@ pat1sizes: |
   </tfoot>
   </table>
 pat1version: assembly_curated
+project:
+- vgp
 short_name: bRisTri
 taxon_id: 75485
 ---

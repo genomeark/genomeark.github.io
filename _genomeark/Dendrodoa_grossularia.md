@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Dendrodoa grossularia
 name_: Dendrodoa_grossularia
+project:
+- vgp
 short_name: kaDenGros
 taxon_id: 30295
 ---

@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Echiichthys vipera
 name_: Echiichthys_vipera
+project:
+- vgp
 short_name: fEchVip
 taxon_id: 94984
 ---

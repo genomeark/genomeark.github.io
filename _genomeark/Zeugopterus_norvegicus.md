@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Zeugopterus norvegicus
 name_: Zeugopterus_norvegicus
+project:
+- vgp
 short_name: fPhrNor
 taxon_id: 508659
 ---

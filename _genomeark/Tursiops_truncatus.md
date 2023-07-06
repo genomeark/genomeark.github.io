@@ -175,6 +175,8 @@ pat1sizes: |
   </tfoot>
   </table>
 pat1version: assembly_curated
+project:
+- vgp
 short_name: mTurTru
 taxon_id: 9739
 ---

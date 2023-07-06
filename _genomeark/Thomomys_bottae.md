@@ -157,6 +157,7 @@ mito2sizes: |
 mito2version: assembly_MT_rockefeller
 name: Thomomys bottae
 name_: Thomomys_bottae
+project: ~
 short_name: mThoBot
 taxon_id: ''
 ---

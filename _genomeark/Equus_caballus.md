@@ -122,6 +122,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Equus caballus
 name_: Equus_caballus
+project: []
 short_name: mEquCab
 taxon_id: 9796
 ---

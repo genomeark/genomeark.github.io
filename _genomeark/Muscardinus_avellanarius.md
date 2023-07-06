@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Muscardinus avellanarius
 name_: Muscardinus_avellanarius
+project:
+- vgp
 short_name: mMusAve
 taxon_id: 39082
 ---

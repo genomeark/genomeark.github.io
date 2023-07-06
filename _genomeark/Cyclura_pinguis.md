@@ -148,6 +148,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Cyclura pinguis
 name_: Cyclura_pinguis
+project: ~
 short_name: rCycPin
 taxon_id: ''
 ---

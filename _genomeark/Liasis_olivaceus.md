@@ -134,6 +134,8 @@ metadata: |
     project: [ vgp ]
 name: Liasis olivaceus
 name_: Liasis_olivaceus
+project:
+- vgp
 short_name: rLiaOli
 taxon_id: 283338
 ---

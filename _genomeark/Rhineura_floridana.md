@@ -166,6 +166,8 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Rhineura floridana
 name_: Rhineura_floridana
+project:
+- vgp
 short_name: rRhiFlo
 taxon_id: 261503
 ---

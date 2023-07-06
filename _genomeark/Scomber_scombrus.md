@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Scomber scombrus
 name_: Scomber_scombrus
+project:
+- vgp
 short_name: fScoSco
 taxon_id: 13677
 ---

@@ -131,6 +131,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: mArvAmp
 taxon_id: 1047088
 ---

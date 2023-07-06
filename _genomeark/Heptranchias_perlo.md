@@ -155,6 +155,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Heptranchias perlo
 name_: Heptranchias_perlo
+project: ~
 short_name: sHepPer
 taxon_id: ''
 ---

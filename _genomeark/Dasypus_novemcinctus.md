@@ -163,6 +163,8 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Dasypus novemcinctus
 name_: Dasypus_novemcinctus
+project:
+- vgp
 short_name: mDasNov
 taxon_id: 9361
 ---

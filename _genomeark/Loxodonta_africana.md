@@ -121,6 +121,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Loxodonta africana
 name_: Loxodonta_africana
+project: ~
 short_name: mLoxAfr
 taxon_id: ''
 ---

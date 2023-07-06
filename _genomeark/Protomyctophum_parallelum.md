@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Protomyctophum parallelum
 name_: Protomyctophum_parallelum
+project:
+- vgp
 short_name: fProPar
 taxon_id: 1091426
 ---

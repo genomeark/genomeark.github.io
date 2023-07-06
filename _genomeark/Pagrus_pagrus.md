@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Pagrus pagrus
 name_: Pagrus_pagrus
+project:
+- vgp
 short_name: fPagPag
 taxon_id: 8173
 ---

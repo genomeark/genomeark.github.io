@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Myotis daubentonii
 name_: Myotis_daubentonii
+project:
+- vgp
 short_name: mMyoDau
 taxon_id: 98922
 ---

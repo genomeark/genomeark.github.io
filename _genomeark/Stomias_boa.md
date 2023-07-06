@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Stomias boa
 name_: Stomias_boa
+project:
+- vgp
 short_name: fStoBoa
 taxon_id: 472766
 ---

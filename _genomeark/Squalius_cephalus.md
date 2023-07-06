@@ -52,6 +52,8 @@ metadata: |
     project: [ vgp ]
 name: Squalius cephalus
 name_: Squalius_cephalus
+project:
+- vgp
 short_name: fSquCep
 taxon_id: 8284
 ---

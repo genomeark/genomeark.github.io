@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Electrona subaspera
 name_: Electrona_subaspera
+project:
+- vgp
 short_name: fEleSub
 taxon_id: 948024
 ---

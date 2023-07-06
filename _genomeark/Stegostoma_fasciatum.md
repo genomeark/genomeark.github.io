@@ -116,6 +116,7 @@ metadata: "species:\n  common_name: zebra shark\n  name: Stegostoma fasciatum\n 
   \ genome_size_method: \n  project: [ ]\n"
 name: Stegostoma fasciatum
 name_: Stegostoma_fasciatum
+project: []
 short_name: sSteFas
 taxon_id: 378071
 ---

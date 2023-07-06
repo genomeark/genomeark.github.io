@@ -149,6 +149,7 @@ mito1sizes: |
 mito1version: assembly_vgp_HiC_2.0
 name: Pelodytes ibericus
 name_: Pelodytes_ibericus
+project: ~
 short_name: aPelIbe
 taxon_id: ''
 ---

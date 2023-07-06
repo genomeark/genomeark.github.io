@@ -68,6 +68,8 @@ metadata: |
     project: [ vgp ]
 name: Ascaphus truei
 name_: Ascaphus_truei
+project:
+- vgp
 short_name: aAscTru
 taxon_id: 8439
 ---

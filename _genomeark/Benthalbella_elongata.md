@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Benthalbella elongata
 name_: Benthalbella_elongata
+project:
+- vgp
 short_name: fBenEln
 taxon_id: 1090477
 ---

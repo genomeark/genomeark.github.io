@@ -252,6 +252,8 @@ pat1sizes: |
   </tfoot>
   </table>
 pat1version: assembly_verkko_1.1-0.1-freeze
+project:
+- t2t
 short_name: mPanPan
 taxon_id: 9597
 ---

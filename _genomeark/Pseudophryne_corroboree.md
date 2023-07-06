@@ -200,6 +200,8 @@ metadata: |
     project: [ vgp ]
 name: Pseudophryne corroboree
 name_: Pseudophryne_corroboree
+project:
+- vgp
 short_name: aPseCor
 taxon_id: 495146
 ---

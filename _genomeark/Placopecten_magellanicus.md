@@ -23,6 +23,7 @@ last_raw_data: 1682019015
 last_updated: 1682019015
 name: Placopecten magellanicus
 name_: Placopecten_magellanicus
+project: ~
 short_name: bxPlaMage
 taxon_id: ''
 ---

@@ -64,6 +64,8 @@ metadata: |
     project: [ vgp ]
 name: Myodes glareolus
 name_: Myodes_glareolus
+project:
+- vgp
 short_name: mMyoGla
 taxon_id: 447135
 ---

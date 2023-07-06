@@ -130,6 +130,8 @@ metadata: |
     project: [ vgp ]
 name: Alligator mississippiensis
 name_: Alligator_mississippiensis
+project:
+- vgp
 short_name: rAllMis
 taxon_id: 8496
 ---

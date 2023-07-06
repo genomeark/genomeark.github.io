@@ -61,6 +61,8 @@ metadata: |
     project: [ vgp ]
 name: Chionoecetes opilio
 name_: Chionoecetes_opilio
+project:
+- vgp
 short_name: qmChiOpil
 taxon_id: 41210
 ---

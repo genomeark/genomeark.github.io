@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Anas crecca
 name_: Anas_crecca
+project:
+- vgp
 short_name: bAnaCre
 taxon_id: 75839
 ---

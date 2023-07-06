@@ -136,6 +136,7 @@ pri2sizes: |
   </tfoot>
   </table>
 pri2version: assembly_curated
+project: ~
 short_name: mMusLut
 taxon_id: ''
 ---

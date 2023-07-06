@@ -196,6 +196,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fScoJap
 taxon_id: 13676
 ---

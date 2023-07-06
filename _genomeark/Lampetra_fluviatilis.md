@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Lampetra fluviatilis
 name_: Lampetra_fluviatilis
+project:
+- vgp
 short_name: kcLamFluv
 taxon_id: 7748
 ---

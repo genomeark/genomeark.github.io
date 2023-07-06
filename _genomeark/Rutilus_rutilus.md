@@ -52,6 +52,8 @@ metadata: |
     project: [ vgp ]
 name: Rutilus rutilus
 name_: Rutilus_rutilus
+project:
+- vgp
 short_name: fRutRut
 taxon_id: 48668
 ---

@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Blennius ocellaris
 name_: Blennius_ocellaris
+project:
+- vgp
 short_name: fBleOce
 taxon_id: 195075
 ---

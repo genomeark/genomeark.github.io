@@ -23,6 +23,7 @@ last_raw_data: 1684345987
 last_updated: 1684345987
 name: Cotumix chinensis
 name_: Cotumix_chinensis
+project: ~
 short_name: bCotChi
 taxon_id: ''
 ---

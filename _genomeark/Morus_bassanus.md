@@ -155,6 +155,7 @@ mito2sizes: |
 mito2version: assembly_MT_rockefeller
 name: Morus bassanus
 name_: Morus_bassanus
+project: ~
 short_name: bMorBas
 taxon_id: ''
 ---

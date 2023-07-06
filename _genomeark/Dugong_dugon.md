@@ -137,6 +137,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Dugong dugon
 name_: Dugong_dugon
+project: ~
 short_name: mDugDug
 taxon_id: ''
 ---

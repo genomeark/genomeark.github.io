@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Spermophilus citellus
 name_: Spermophilus_citellus
+project:
+- vgp
 short_name: mSpeCit
 taxon_id: 9997
 ---

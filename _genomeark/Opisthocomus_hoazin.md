@@ -144,6 +144,7 @@ mds:
   title: assembly_vgp_HiC_2.0/bOpiHoa1_hap2.yml
 name: Opisthocomus hoazin
 name_: Opisthocomus_hoazin
+project: ~
 short_name: bOpiHoa
 taxon_id: ''
 ---

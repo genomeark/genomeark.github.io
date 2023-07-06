@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Pelophylax lessonae
 name_: Pelophylax_lessonae
+project:
+- vgp
 short_name: aPelLes
 taxon_id: 45623
 ---

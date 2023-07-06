@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Gasterosteus aculeatus
 name_: Gasterosteus_aculeatus
+project:
+- vgp
 short_name: fGasAcu
 taxon_id: 69293
 ---

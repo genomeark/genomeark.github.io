@@ -95,6 +95,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Inia geoffrensis
 name_: Inia_geoffrensis
+project: ~
 short_name: mIniGeo
 taxon_id: ''
 ---

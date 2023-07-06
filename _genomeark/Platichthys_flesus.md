@@ -52,6 +52,8 @@ metadata: |
     project: [ vgp ]
 name: Platichthys flesus
 name_: Platichthys_flesus
+project:
+- vgp
 short_name: fPlaFle
 taxon_id: 8260
 ---

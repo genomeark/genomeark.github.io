@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Eutrigla gurnardus
 name_: Eutrigla_gurnardus
+project:
+- vgp
 short_name: fEutGur
 taxon_id: 426098
 ---

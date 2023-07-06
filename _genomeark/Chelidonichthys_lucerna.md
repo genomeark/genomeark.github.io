@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Chelidonichthys lucerna
 name_: Chelidonichthys_lucerna
+project:
+- vgp
 short_name: fCheLuc
 taxon_id: 2576622
 ---

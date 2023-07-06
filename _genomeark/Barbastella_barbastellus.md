@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Barbastella barbastellus
 name_: Barbastella_barbastellus
+project:
+- vgp
 short_name: mBarBar
 taxon_id: 59449
 ---

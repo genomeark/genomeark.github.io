@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Talpa europaea
 name_: Talpa_europaea
+project:
+- vgp
 short_name: mTalEur
 taxon_id: 9375
 ---

@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Martes martes
 name_: Martes_martes
+project:
+- vgp
 short_name: mMarMar
 taxon_id: 29065
 ---

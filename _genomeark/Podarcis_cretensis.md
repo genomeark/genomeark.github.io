@@ -62,6 +62,8 @@ metadata: |
     project: [ vgp ]
 name: Podarcis cretensis
 name_: Podarcis_cretensis
+project:
+- vgp
 short_name: rPodCre
 taxon_id: 1330250
 ---

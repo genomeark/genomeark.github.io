@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Ciliata mustela
 name_: Ciliata_mustela
+project:
+- vgp
 short_name: fCilMus
 taxon_id: 348443
 ---

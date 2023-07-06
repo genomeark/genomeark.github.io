@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Aythya ferina
 name_: Aythya_ferina
+project:
+- vgp
 short_name: bAytFer
 taxon_id: 219593
 ---

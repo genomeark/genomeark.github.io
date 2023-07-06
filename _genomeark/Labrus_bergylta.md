@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Labrus bergylta
 name_: Labrus_bergylta
+project:
+- vgp
 short_name: fLabBer
 taxon_id: 56723
 ---

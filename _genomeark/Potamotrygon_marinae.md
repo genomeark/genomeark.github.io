@@ -61,6 +61,8 @@ metadata: |
     project: [ vgp ]
 name: Potamotrygon marinae
 name_: Potamotrygon_marinae
+project:
+- vgp
 short_name: sPotMar
 taxon_id: ''
 ---

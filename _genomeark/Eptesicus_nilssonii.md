@@ -52,6 +52,8 @@ metadata: |
     project: [ vgp ]
 name: Eptesicus nilssonii
 name_: Eptesicus_nilssonii
+project:
+- vgp
 short_name: mEptNil
 taxon_id: 59451
 ---

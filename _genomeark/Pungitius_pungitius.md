@@ -52,6 +52,8 @@ metadata: |
     project: [ vgp ]
 name: Pungitius pungitius
 name_: Pungitius_pungitius
+project:
+- vgp
 short_name: fPunPun
 taxon_id: 134920
 ---

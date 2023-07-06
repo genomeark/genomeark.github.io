@@ -135,6 +135,8 @@ metadata: |
     project: [ vgp ]
 name: Hoplias malabaricus
 name_: Hoplias_malabaricus
+project:
+- vgp
 short_name: fHopMal
 taxon_id: 27720
 ---

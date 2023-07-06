@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Chelon labrosus
 name_: Chelon_labrosus
+project:
+- vgp
 short_name: fCheLab
 taxon_id: 48171
 ---

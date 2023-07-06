@@ -147,6 +147,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fMegCyp
 taxon_id: 118141
 ---

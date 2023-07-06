@@ -59,6 +59,7 @@ metadata: "species:\n  name: Equus asinus\n  short_name: mEquAsi\n  common_name:
   GoaT\n  project: [ ]\n"
 name: Equus asinus
 name_: Equus_asinus
+project: []
 short_name: mEquAsi
 taxon_id: 9793
 ---

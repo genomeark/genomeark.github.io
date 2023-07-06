@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Vespertilio murinus
 name_: Vespertilio_murinus
+project:
+- vgp
 short_name: mVesMur
 taxon_id: 59485
 ---

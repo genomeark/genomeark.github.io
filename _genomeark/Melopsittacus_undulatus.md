@@ -175,6 +175,8 @@ pat1sizes: |
   </tfoot>
   </table>
 pat1version: assembly_curated
+project:
+- vgp
 short_name: bMelUnd
 taxon_id: 13146
 ---

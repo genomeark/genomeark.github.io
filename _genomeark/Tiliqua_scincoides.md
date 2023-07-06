@@ -136,6 +136,7 @@ mds:
   title: assembly_vgp_HiC_2.0/rTilSci1_hap2.yml
 name: Tiliqua scincoides
 name_: Tiliqua_scincoides
+project: ~
 short_name: rTilSci
 taxon_id: ''
 ---

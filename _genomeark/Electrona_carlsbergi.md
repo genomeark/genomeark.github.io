@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Electrona carlsbergi
 name_: Electrona_carlsbergi
+project:
+- vgp
 short_name: fEleCar
 taxon_id: 123328
 ---

@@ -121,6 +121,8 @@ pri2sizes: |
   </tfoot>
   </table>
 pri2version: assembly_curated
+project:
+- vgp
 short_name: bEriRub
 taxon_id: 37610
 ---

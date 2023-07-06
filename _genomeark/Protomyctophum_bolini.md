@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Protomyctophum bolini
 name_: Protomyctophum_bolini
+project:
+- vgp
 short_name: fProBol
 taxon_id: 443714
 ---

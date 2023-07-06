@@ -153,6 +153,7 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project: ~
 short_name: mBalRic
 taxon_id: ''
 ---

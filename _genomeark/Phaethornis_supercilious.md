@@ -70,6 +70,7 @@ hpb1version: assembly_curated
 last_updated: 1687530361
 name: Phaethornis supercilious
 name_: Phaethornis_supercilious
+project: ~
 short_name: bPhaSup
 taxon_id: ''
 ---

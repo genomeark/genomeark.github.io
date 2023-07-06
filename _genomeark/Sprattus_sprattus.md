@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Sprattus sprattus
 name_: Sprattus_sprattus
+project:
+- vgp
 short_name: fSprSpr
 taxon_id: 196075
 ---

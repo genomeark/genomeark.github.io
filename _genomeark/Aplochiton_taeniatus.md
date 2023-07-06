@@ -127,6 +127,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fAplTae
 taxon_id: 946358
 ---

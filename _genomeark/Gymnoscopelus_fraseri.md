@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Gymnoscopelus fraseri
 name_: Gymnoscopelus_fraseri
+project:
+- vgp
 short_name: fGymFra
 taxon_id: 1091419
 ---

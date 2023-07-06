@@ -186,6 +186,8 @@ mito7sizes: |
 mito7version: assembly_MT_rockefeller
 name: Manis pentadactyla
 name_: Manis_pentadactyla
+project:
+- vgp
 short_name: mManPen
 taxon_id: 143292
 ---

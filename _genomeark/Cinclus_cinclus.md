@@ -53,6 +53,8 @@ metadata: |
     project: [ vgp ]
 name: Cinclus cinclus
 name_: Cinclus_cinclus
+project:
+- vgp
 short_name: bCinCin
 taxon_id: 127875
 ---

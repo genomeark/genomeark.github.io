@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Gymnoscopelus microlampas
 name_: Gymnoscopelus_microlampas
+project:
+- vgp
 short_name: fGymMic
 taxon_id: 1090481
 ---

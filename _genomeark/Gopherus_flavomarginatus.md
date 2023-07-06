@@ -345,6 +345,8 @@ pat2sizes: |
   </tfoot>
   </table>
 pat2version: assembly_curated
+project:
+- vgp
 short_name: rGopFla
 taxon_id: 286002
 ---

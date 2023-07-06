@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Styela clava
 name_: Styela_clava
+project:
+- vgp
 short_name: kaStyClav
 taxon_id: 7725
 ---

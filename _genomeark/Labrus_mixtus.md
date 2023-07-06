@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Labrus mixtus
 name_: Labrus_mixtus
+project:
+- vgp
 short_name: fLabMix
 taxon_id: 508554
 ---

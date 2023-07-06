@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Microchirus variegatus
 name_: Microchirus_variegatus
+project:
+- vgp
 short_name: fMicVar
 taxon_id: 90074
 ---

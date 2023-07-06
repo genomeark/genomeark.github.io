@@ -38,6 +38,8 @@ metadata: |
     project: [ vgp ]
 name: Sitta carolinensis
 name_: Sitta_carolinensis
+project:
+- vgp
 short_name: bSitCar
 taxon_id: 50250
 ---

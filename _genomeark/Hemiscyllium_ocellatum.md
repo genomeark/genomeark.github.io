@@ -297,6 +297,8 @@ pat1sizes: |
   </tfoot>
   </table>
 pat1version: assembly_curated
+project:
+- vgp
 short_name: sHemOce
 taxon_id: 170820
 ---

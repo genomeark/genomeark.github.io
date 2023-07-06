@@ -169,6 +169,8 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Euleptes europaea
 name_: Euleptes_europaea
+project:
+- vgp
 short_name: rEulEur
 taxon_id: 460621
 ---

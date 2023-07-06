@@ -163,6 +163,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: mPipPip
 taxon_id: 59474
 ---

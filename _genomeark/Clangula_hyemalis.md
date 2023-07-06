@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Clangula hyemalis
 name_: Clangula_hyemalis
+project:
+- vgp
 short_name: bClaHye
 taxon_id: 197941
 ---

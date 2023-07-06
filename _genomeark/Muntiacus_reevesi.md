@@ -53,6 +53,8 @@ metadata: |
     project: [ vgp ]
 name: Muntiacus reevesi
 name_: Muntiacus_reevesi
+project:
+- vgp
 short_name: mMunRee
 taxon_id: 9886
 ---

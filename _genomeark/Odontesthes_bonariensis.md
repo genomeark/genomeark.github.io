@@ -175,6 +175,7 @@ pri6sizes: |
   </tfoot>
   </table>
 pri6version: assembly_curated
+project: ~
 short_name: fOdoBon
 taxon_id: ''
 ---

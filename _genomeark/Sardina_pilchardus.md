@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Sardina pilchardus
 name_: Sardina_pilchardus
+project:
+- vgp
 short_name: fSarPil
 taxon_id: 27697
 ---

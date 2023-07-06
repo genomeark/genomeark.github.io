@@ -137,6 +137,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Trichomycterus rosablanca
 name_: Trichomycterus_rosablanca
+project: ~
 short_name: fTriRos
 taxon_id: ''
 ---

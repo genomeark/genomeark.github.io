@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Larus fuscus
 name_: Larus_fuscus
+project:
+- vgp
 short_name: bLarFus
 taxon_id: 8915
 ---

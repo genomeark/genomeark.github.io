@@ -119,6 +119,7 @@ mds:
   title: assembly_vgp_HiC_2.0/rGavGan2_hap2.yml
 name: Gavialis gangeticus
 name_: Gavialis_gangeticus
+project: ~
 short_name: rGavGan
 taxon_id: ''
 ---

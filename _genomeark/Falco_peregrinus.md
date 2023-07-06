@@ -135,6 +135,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: bFalPer
 taxon_id: 8954
 ---

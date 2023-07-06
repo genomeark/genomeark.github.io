@@ -159,6 +159,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Strix aluco
 name_: Strix_aluco
+project: ~
 short_name: bStrAlu
 taxon_id: ''
 ---

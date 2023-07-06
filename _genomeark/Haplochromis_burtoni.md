@@ -219,6 +219,7 @@ mito2sizes: |
 mito2version: assembly_MT_rockefeller
 name: Haplochromis burtoni
 name_: Haplochromis_burtoni
+project: ~
 short_name: fHapBur
 taxon_id: ''
 ---

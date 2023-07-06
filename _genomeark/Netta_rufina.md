@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Netta rufina
 name_: Netta_rufina
+project:
+- vgp
 short_name: bNetRuf
 taxon_id: 30387
 ---

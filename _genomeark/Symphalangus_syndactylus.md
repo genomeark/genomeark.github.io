@@ -188,6 +188,8 @@ metadata: |
     project: [ t2t ]
 name: Symphalangus syndactylus
 name_: Symphalangus_syndactylus
+project:
+- t2t
 short_name: mSymSyn
 taxon_id: 9590
 ---

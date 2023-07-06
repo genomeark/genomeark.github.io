@@ -132,6 +132,8 @@ metadata: |
     project: [ vgp ]
 name: Branchiostoma lanceolatum
 name_: Branchiostoma_lanceolatum
+project:
+- vgp
 short_name: klBraLanc
 taxon_id: 7740
 ---

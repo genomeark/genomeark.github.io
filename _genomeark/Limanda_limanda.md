@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Limanda limanda
 name_: Limanda_limanda
+project:
+- vgp
 short_name: fLimLim
 taxon_id: 27771
 ---

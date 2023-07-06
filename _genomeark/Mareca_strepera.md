@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Mareca strepera
 name_: Mareca_strepera
+project:
+- vgp
 short_name: bMarStr
 taxon_id: 75861
 ---

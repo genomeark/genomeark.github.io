@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Micromys minutus
 name_: Micromys_minutus
+project:
+- vgp
 short_name: mMicMin
 taxon_id: 13151
 ---

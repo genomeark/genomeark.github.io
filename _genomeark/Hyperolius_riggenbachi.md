@@ -48,6 +48,8 @@ metadata: |
     project: [ vgp ]
 name: Hyperolius riggenbachi
 name_: Hyperolius_riggenbachi
+project:
+- vgp
 short_name: aHypRig
 taxon_id: 752182
 ---

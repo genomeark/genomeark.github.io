@@ -160,6 +160,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: aBufBuf
 taxon_id: 8384
 ---

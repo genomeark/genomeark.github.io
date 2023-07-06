@@ -111,6 +111,8 @@ metadata: |
     project: [ vgp ]
 name: Caretta caretta
 name_: Caretta_caretta
+project:
+- vgp
 short_name: rCarCar
 taxon_id: 8467
 ---

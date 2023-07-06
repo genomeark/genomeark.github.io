@@ -176,6 +176,7 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project: ~
 short_name: aHylSar
 taxon_id: ''
 ---

@@ -179,6 +179,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: bCalAnn
 taxon_id: 9244
 ---

@@ -136,6 +136,7 @@ mds:
   title: assembly_vgp_HiC_2.0/bPoeAtr1_hap2.yml
 name: Poecile atricapillus
 name_: Poecile_atricapillus
+project: ~
 short_name: bPoeAtr
 taxon_id: ''
 ---

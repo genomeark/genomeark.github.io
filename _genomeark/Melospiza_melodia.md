@@ -100,6 +100,8 @@ mito2sizes: |
 mito2version: assembly_MT_rockefeller
 name: Melospiza melodia
 name_: Melospiza_melodia
+project:
+- vgp
 short_name: bMelMel
 taxon_id: '44397'
 ---

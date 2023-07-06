@@ -127,6 +127,8 @@ metadata: |
     project: [ vgp ]
 name: Meles meles
 name_: Meles_meles
+project:
+- vgp
 short_name: mMelMel
 taxon_id: 9662
 ---

@@ -50,6 +50,8 @@ metadata: "species:\n  name: Equus asinus x Equus caballus\n  short_name: mEquAc
   GoaT\n  project: [ t2t ]\n"
 name: Equus asinus x Equus caballus
 name_: Equus_asinus_x_Equus_caballus
+project:
+- t2t
 short_name: mEquAca
 taxon_id: 319699
 ---

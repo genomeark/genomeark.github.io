@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Fringilla coelebs
 name_: Fringilla_coelebs
+project:
+- vgp
 short_name: bFriCoe
 taxon_id: 37598
 ---

@@ -110,6 +110,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fPhoPho
 taxon_id: 58324
 ---

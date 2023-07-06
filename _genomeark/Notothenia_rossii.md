@@ -110,6 +110,8 @@ pri5sizes: |
   </tfoot>
   </table>
 pri5version: assembly_curated
+project:
+- vgp
 short_name: fNotRos
 taxon_id: 101497
 ---

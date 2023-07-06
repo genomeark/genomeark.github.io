@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Poromitra crassiceps
 name_: Poromitra_crassiceps
+project:
+- vgp
 short_name: fPorCra
 taxon_id: 88708
 ---

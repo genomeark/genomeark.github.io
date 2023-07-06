@@ -122,6 +122,8 @@ metadata: |
     project: [ vgp ]
 name: Hypanus sabinus
 name_: Hypanus_sabinus
+project:
+- vgp
 short_name: sHypSab
 taxon_id: 79690
 ---

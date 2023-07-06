@@ -156,6 +156,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: bAcrTrip
 taxon_id: 279927
 ---

@@ -146,6 +146,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fAstCal
 taxon_id: 8154
 ---

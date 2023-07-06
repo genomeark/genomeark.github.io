@@ -131,6 +131,8 @@ pri3sizes: |
   </tfoot>
   </table>
 pri3version: assembly_curated
+project:
+- vgp
 short_name: bCapEur
 taxon_id: 111811
 ---

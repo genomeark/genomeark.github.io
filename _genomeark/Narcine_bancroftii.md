@@ -82,6 +82,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Narcine bancroftii
 name_: Narcine_bancroftii
+project: ~
 short_name: sNarBan
 taxon_id: ''
 ---

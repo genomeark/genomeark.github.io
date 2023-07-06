@@ -58,6 +58,8 @@ metadata: |
     project: [ vgp ]
 name: Acipenser naccarii
 name_: Acipenser_naccarii
+project:
+- vgp
 short_name: fAciNac
 taxon_id: 42330
 ---

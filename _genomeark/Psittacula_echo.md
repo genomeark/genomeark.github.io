@@ -53,6 +53,8 @@ metadata: |
     project: [ vgp ]
 name: Psittacula echo
 name_: Psittacula_echo
+project:
+- vgp
 short_name: bPsiEch
 taxon_id: 232653
 ---

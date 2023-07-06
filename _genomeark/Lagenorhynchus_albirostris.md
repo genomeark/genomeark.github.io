@@ -110,6 +110,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: mLagAlb
 taxon_id: 27610
 ---

@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Nerophis lumbriciformis
 name_: Nerophis_lumbriciformis
+project:
+- vgp
 short_name: fNerLum
 taxon_id: 546530
 ---

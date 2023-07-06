@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Coregonus lavaretus
 name_: Coregonus_lavaretus
+project:
+- vgp
 short_name: fCorLav
 taxon_id: 59291
 ---

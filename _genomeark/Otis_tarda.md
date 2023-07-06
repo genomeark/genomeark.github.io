@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Otis tarda
 name_: Otis_tarda
+project:
+- vgp
 short_name: bOtiTar
 taxon_id: 73107
 ---

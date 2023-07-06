@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Buglossidium luteum
 name_: Buglossidium_luteum
+project:
+- vgp
 short_name: fBugLut
 taxon_id: 90071
 ---

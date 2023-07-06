@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Nesoenas mayeri
 name_: Nesoenas_mayeri
+project:
+- vgp
 short_name: bNesMay
 taxon_id: 187126
 ---

@@ -273,6 +273,8 @@ pat1sizes: |
   </tfoot>
   </table>
 pat1version: assembly_verkko_1.1-0.2-freeze
+project:
+- t2t
 short_name: mGorGor
 taxon_id: 9593
 ---

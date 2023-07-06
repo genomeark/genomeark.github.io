@@ -104,6 +104,8 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Ammodramus maritimus
 name_: Ammodramus_maritimus
+project:
+- vgp
 short_name: bAmmMai
 taxon_id: 371905
 ---

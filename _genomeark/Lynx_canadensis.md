@@ -158,6 +158,8 @@ pri4sizes: |
   </tfoot>
   </table>
 pri4version: assembly_curated
+project:
+- vgp
 short_name: mLynCan
 taxon_id: 61383
 ---

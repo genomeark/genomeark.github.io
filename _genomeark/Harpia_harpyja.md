@@ -129,6 +129,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: bHarHar
 taxon_id: 202280
 ---

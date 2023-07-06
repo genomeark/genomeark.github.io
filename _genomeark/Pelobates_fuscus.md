@@ -143,6 +143,7 @@ mito1sizes: |
 mito1version: assembly_vgp_HiC_2.0
 name: Pelobates fuscus
 name_: Pelobates_fuscus
+project: ~
 short_name: aPelFus
 taxon_id: ''
 ---

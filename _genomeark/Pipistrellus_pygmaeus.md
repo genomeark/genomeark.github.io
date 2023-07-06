@@ -52,6 +52,8 @@ metadata: |
     project: [ vgp ]
 name: Pipistrellus pygmaeus
 name_: Pipistrellus_pygmaeus
+project:
+- vgp
 short_name: mPipPyg
 taxon_id: 246814
 ---

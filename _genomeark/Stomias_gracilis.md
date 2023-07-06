@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Stomias gracilis
 name_: Stomias_gracilis
+project:
+- vgp
 short_name: fStoGra
 taxon_id: 1091428
 ---

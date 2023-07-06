@@ -134,6 +134,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fAloSap
 taxon_id: 34773
 ---

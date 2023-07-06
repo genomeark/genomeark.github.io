@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Leuciscus leuciscus
 name_: Leuciscus_leuciscus
+project:
+- vgp
 short_name: fLeuLeu
 taxon_id: 58325
 ---

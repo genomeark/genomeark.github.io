@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Pomatoschistus microps
 name_: Pomatoschistus_microps
+project:
+- vgp
 short_name: fPomMic
 taxon_id: 225753
 ---

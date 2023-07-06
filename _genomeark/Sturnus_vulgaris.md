@@ -38,6 +38,8 @@ metadata: |
     project: [ vgp ]
 name: Sturnus vulgaris
 name_: Sturnus_vulgaris
+project:
+- vgp
 short_name: bStuVul
 taxon_id: 9172
 ---

@@ -154,6 +154,8 @@ pri2sizes: |
   </tfoot>
   </table>
 pri2version: assembly_curated
+project:
+- vgp
 short_name: mEscRob
 taxon_id: 9764
 ---

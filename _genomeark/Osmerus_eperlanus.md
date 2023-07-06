@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Osmerus eperlanus
 name_: Osmerus_eperlanus
+project:
+- vgp
 short_name: fOsmEpe
 taxon_id: 29151
 ---

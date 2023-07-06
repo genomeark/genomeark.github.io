@@ -48,6 +48,8 @@ metadata: |
     project: [ vgp ]
 name: Lathamus discolor
 name_: Lathamus_discolor
+project:
+- vgp
 short_name: bLatDis
 taxon_id: 678569
 ---

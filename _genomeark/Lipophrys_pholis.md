@@ -61,6 +61,8 @@ metadata: |
     project: [ vgp ]
 name: Lipophrys pholis
 name_: Lipophrys_pholis
+project:
+- vgp
 short_name: fLipPho
 taxon_id: 56720
 ---

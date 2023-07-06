@@ -138,6 +138,8 @@ pri2sizes: |
   </tfoot>
   </table>
 pri2version: assembly_curated
+project:
+- vgp
 short_name: bGypBar
 taxon_id: '33610'
 ---

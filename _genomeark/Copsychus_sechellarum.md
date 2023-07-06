@@ -66,6 +66,8 @@ metadata: |
     project: [ vgp ]
 name: Copsychus sechellarum
 name_: Copsychus_sechellarum
+project:
+- vgp
 short_name: bCopSec
 taxon_id: 797021
 ---

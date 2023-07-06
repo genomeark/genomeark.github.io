@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Globicephala melas
 name_: Globicephala_melas
+project:
+- vgp
 short_name: mGloMel
 taxon_id: 9731
 ---

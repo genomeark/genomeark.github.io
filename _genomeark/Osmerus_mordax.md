@@ -89,6 +89,8 @@ metadata: |
     project: [ vgp ]
 name: Osmerus mordax
 name_: Osmerus_mordax
+project:
+- vgp
 short_name: fOsmMor
 taxon_id: 8014
 ---

@@ -52,6 +52,8 @@ metadata: |
     project: [ vgp ]
 name: Gobius niger
 name_: Gobius_niger
+project:
+- vgp
 short_name: fGobNig
 taxon_id: 85417
 ---

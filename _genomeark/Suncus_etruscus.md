@@ -173,6 +173,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: mSunEtr
 taxon_id: 109475
 ---

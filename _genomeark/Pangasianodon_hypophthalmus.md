@@ -174,6 +174,8 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+project:
+- vgp
 short_name: fPanHyp
 taxon_id: 310915
 ---

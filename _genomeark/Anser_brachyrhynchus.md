@@ -50,6 +50,8 @@ metadata: |
     project: [ vgp ]
 name: Anser brachyrhynchus
 name_: Anser_brachyrhynchus
+project:
+- vgp
 short_name: bAnsBra
 taxon_id: 132585
 ---

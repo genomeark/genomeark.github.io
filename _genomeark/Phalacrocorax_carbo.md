@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Phalacrocorax carbo
 name_: Phalacrocorax_carbo
+project:
+- vgp
 short_name: bPhaCar
 taxon_id: 9209
 ---

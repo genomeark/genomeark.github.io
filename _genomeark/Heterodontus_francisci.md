@@ -128,6 +128,7 @@ mds:
   title: assembly_vgp_HiC_2.0/sHetFra1_hap2.yml
 name: Heterodontus francisci
 name_: Heterodontus_francisci
+project: ~
 short_name: sHetFra
 taxon_id: ''
 ---

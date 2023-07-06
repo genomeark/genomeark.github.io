@@ -136,6 +136,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Candoia aspera
 name_: Candoia_aspera
+project: ~
 short_name: rCanAsp
 taxon_id: ''
 ---

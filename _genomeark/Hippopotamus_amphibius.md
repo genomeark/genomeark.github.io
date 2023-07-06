@@ -108,6 +108,7 @@ mds:
   title: assembly_vgp_HiC_2.0/mHipAmp2.yml
 name: Hippopotamus amphibius
 name_: Hippopotamus_amphibius
+project: ~
 short_name: mHipAmp
 taxon_id: ''
 ---

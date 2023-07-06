@@ -40,6 +40,8 @@ metadata: |
     project: [ vgp ]
 name: Plecotus austriacus
 name_: Plecotus_austriacus
+project:
+- vgp
 short_name: mPleAus
 taxon_id: 109483
 ---

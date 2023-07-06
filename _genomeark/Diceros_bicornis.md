@@ -207,6 +207,8 @@ pat1sizes: |
   </tfoot>
   </table>
 pat1version: assembly_curated
+project:
+- vgp
 short_name: mDicBic
 taxon_id: 9805
 ---

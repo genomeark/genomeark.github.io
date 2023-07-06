@@ -146,6 +146,8 @@ metadata: |
     project: [ vgp ]
 name: Gastrophryne carolinensis
 name_: Gastrophryne_carolinensis
+project:
+- vgp
 short_name: aGasCar
 taxon_id: 8429
 ---

@@ -137,6 +137,8 @@ metadata: |
     project: [ vgp ]
 name: Colius striatus
 name_: Colius_striatus
+project:
+- vgp
 short_name: bColStr
 taxon_id: 57412
 ---

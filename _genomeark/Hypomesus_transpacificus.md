@@ -106,6 +106,8 @@ metadata: |
     project: [ vgp ]
 name: Hypomesus transpacificus
 name_: Hypomesus_transpacificus
+project:
+- vgp
 short_name: fHypTra
 taxon_id: 137520
 ---

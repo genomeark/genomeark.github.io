@@ -155,6 +155,7 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Leptosomus discolor
 name_: Leptosomus_discolor
+project: ~
 short_name: bLepDis
 taxon_id: ''
 ---
