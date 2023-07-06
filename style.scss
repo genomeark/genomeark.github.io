@@ -504,6 +504,8 @@ div.species-detail {      //  A div around the whole page.
 //  The species-info table (with speices name and picture)
 //    sd-sname          - species-name text at the top
 //    sd-cname          - common-name text at the top
+//    sd-pname          - "Included in the VGP and ERGA." text
+//    sd-links          - list of links to resources
 //    sd-info           - wrapper around the info block
 //    sd-image          - 
 //    sd-links          - links to external pages
@@ -518,6 +520,16 @@ div.species-detail {      //  A div around the whole page.
 .sd-cname {
   font-size:      150%;
   color:          #333333;
+}
+
+.sd-pname {
+  margin: 2px 0px 2px 20px;
+  font-size:      100%;
+  color:          #333333;
+}
+
+.sd-links {
+  margin: 30px 0px 10px 0px;
 }
 
 div.sd-info {

@@ -17,6 +17,8 @@
     {% endif %}
     </div>
     <div class="species-list-info-body">
+      Project: {{ species.project | join: " ::: " | upcase: }}
+      <br>
       Reads: {{ species.data_status }}
       <br>
       Assembly: {{ species.assembly_status }}

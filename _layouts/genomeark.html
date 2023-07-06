@@ -27,7 +27,16 @@ document.addEventListener('click', tog, false);
   <p class="sd-sname">{{ page.name }}</p>
   <p class="sd-cname">{{ page.common_name }}</p>
 
-  <p>
+  {% assign clen = page.project.size | minus: 1 %}
+  {% if    clen == 0 %}
+    <p class="sd-pname">Included in the {{ page.project[0] | upcase }}.</p>
+  {% else %}
+    {% assign clist = page.project | slice:  0, clen | join: ", " | upcase %}
+    {% assign llist = page.project[-1] | upcase %}
+    <p class="sd-pname">Included in the {{ clist }} and {{ llist }}.</p>
+  {% endif %}
+
+  <p class="sd-links">
   - <a href="https://genomeark.s3.amazonaws.com/index.html?prefix=species/{{ page.name_ }}">S3 File Index</a> --
   <a href="https://42basepairs.com/browse/s3/genomeark/species/{{ page.name_ }}">S3 Interactive Viewer</a></li>
   {% if page.taxon_id %}
