@@ -70,8 +70,8 @@ data_pacbio-1_scale: 0.5351
 data_pacbio_bases: 65.36 Gbp
 data_pacbio_bytes: 113.8 GiB
 data_pacbio_coverage: 81.95x
-data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
-  ::: <em style="color:forestgreen">Dovetail</em>'''
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Dovetail</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data

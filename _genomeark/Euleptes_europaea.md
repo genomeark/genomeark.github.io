@@ -41,7 +41,7 @@ data_pacbiohifi_fagz-1_scale: 0.8860
 data_pacbiohifi_fagz_bases: 20.60 Gbp
 data_pacbiohifi_fagz_bytes: 21.7 GiB
 data_pacbiohifi_fagz_coverage: 8.13x
-data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data

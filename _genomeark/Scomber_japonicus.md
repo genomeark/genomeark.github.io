@@ -90,8 +90,8 @@ data_pacbiohifi_q2fqgz-1_scale: 1.3929
 data_pacbiohifi_q2fqgz_bases: 27.22 Gbp
 data_pacbiohifi_q2fqgz_bytes: 18.2 GiB
 data_pacbiohifi_q2fqgz_coverage: 30.24x
-data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>
-  ::: <em style="color:forestgreen">Illumina</em>'''
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>
+  ::: <em style="color:forestgreen">Illumina</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data

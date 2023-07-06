@@ -31,7 +31,7 @@ data_pacbiohifi_dcfqgz-1_scale: 1.7586
 data_pacbiohifi_dcfqgz_bases: 105.69 Gbp
 data_pacbiohifi_dcfqgz_bytes: 56.0 GiB
 data_pacbiohifi_dcfqgz_coverage: N/A
-data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'''
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data

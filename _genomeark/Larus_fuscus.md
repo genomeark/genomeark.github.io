@@ -11,7 +11,7 @@ data_arima-1_scale: 3.1156
 data_arima_bases: 76.24 Gbp
 data_arima_bytes: 22.8 GiB
 data_arima_coverage: 53.21x
-data_status: '''<em style="color:forestgreen">Arima</em>'''
+data_status: <em style="color:forestgreen">Arima</em>
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data

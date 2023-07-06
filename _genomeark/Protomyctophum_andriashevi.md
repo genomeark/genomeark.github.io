@@ -11,7 +11,7 @@ data_pacbiohifi_bam-1_scale: 0.3695
 data_pacbiohifi_bam_bases: 36.21 Gbp
 data_pacbiohifi_bam_bytes: 91.3 GiB
 data_pacbiohifi_bam_coverage: 18.99x
-data_status: '''<em style="color:forestgreen">PacBio HiFi</em>'''
+data_status: <em style="color:forestgreen">PacBio HiFi</em>
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data

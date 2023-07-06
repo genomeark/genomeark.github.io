@@ -61,8 +61,8 @@ data_pacbiohifi_fqgz-1_scale: 1.2784
 data_pacbiohifi_fqgz_bases: 246.48 Gbp
 data_pacbiohifi_fqgz_bytes: 179.6 GiB
 data_pacbiohifi_fqgz_coverage: 74.78x
-data_status: '''<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
-  Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'''
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
+  Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data

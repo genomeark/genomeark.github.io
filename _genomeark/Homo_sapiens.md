@@ -124,9 +124,9 @@ data_pacbiohifi_bam-3_scale: 1.2190
 data_pacbiohifi_bam_bases: 202.51 Gbp
 data_pacbiohifi_bam_bytes: 148.7 GiB
 data_pacbiohifi_bam_coverage: 63.29x
-data_status: '''<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
   HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>
-  ::: <em style="color:forestgreen">Illumina</em>'''
+  ::: <em style="color:forestgreen">Illumina</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data

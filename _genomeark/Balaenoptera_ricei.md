@@ -40,7 +40,7 @@ data_pacbiohifi_fqgz-1_scale: 1.2119
 data_pacbiohifi_fqgz_bases: 85.07 Gbp
 data_pacbiohifi_fqgz_bytes: 65.4 GiB
 data_pacbiohifi_fqgz_coverage: 31.76x
-data_status: '''<em style="color:forestgreen">PacBio HiFi</em>'''
+data_status: <em style="color:forestgreen">PacBio HiFi</em>
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
