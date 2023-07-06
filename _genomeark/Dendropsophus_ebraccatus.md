@@ -158,6 +158,7 @@ pat1filesize: 595.5 MiB
 pat1length: '2214937069'
 pat1n50ctg: 7198635
 pat1n50scf: 149798656
+pat1qual: 162.0 errors/Mb (QV=37.91)
 pat1seq: https://s3.amazonaws.com/genomeark/species/Dendropsophus_ebraccatus/aDenEbr1/assembly_curated/aDenEbr1.pat.cur.20211217.fasta.gz
 pat1sizes: |
   <table class="sequence-sizes-table">

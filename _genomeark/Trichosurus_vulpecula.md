@@ -134,6 +134,7 @@ pri1filesize: 0.9 GiB
 pri1length: '3359330516'
 pri1n50ctg: 4820465
 pri1n50scf: 442560073
+pri1qual: 44.9 errors/Mb (QV=43.48)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Trichosurus_vulpecula/mTriVul1/assembly_curated/mTriVul1.pri.cur.20200115.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

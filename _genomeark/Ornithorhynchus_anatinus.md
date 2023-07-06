@@ -145,6 +145,7 @@ pri1filesize: 530.0 MiB
 pri1length: '1859264908'
 pri1n50ctg: 12418282
 pri1n50scf: 70139320
+pri1qual: 91.1 errors/Mb (QV=40.40)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Ornithorhynchus_anatinus/mOrnAna1/assembly_curated/mOrnAna1.pri.cur.20191206.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

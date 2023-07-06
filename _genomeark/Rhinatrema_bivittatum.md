@@ -136,6 +136,7 @@ pri1filesize: 1.5 GiB
 pri1length: '5319222779'
 pri1n50ctg: 3350639
 pri1n50scf: 486875112
+pri1qual: 152.0 errors/Mb (QV=38.18)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Rhinatrema_bivittatum/aRhiBiv1/assembly_curated/aRhiBiv1.pri.cur.20190409.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

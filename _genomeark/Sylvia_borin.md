@@ -105,6 +105,7 @@ pri1filesize: 302.7 MiB
 pri1length: '1045652180'
 pri1n50ctg: 28094227
 pri1n50scf: 72287029
+pri1qual: 27.0 errors/Mb (QV=45.69)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Sylvia_borin/bSylBor1/assembly_curated/bSylBor1.pri.cur.20200424.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

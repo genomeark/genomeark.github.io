@@ -134,6 +134,7 @@ pri1filesize: 357.6 MiB
 pri1length: '1239415939'
 pri1n50ctg: 24935193
 pri1n50scf: 128636905
+pri1qual: 213.5 errors/Mb (QV=36.71)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Ciconia_maguari/bCicMag1/assembly_curated/bCicMag1.pri.cur.20200715.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

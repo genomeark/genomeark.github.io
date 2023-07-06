@@ -134,6 +134,7 @@ pri1filesize: 311.4 MiB
 pri1length: '1077368553'
 pri1n50ctg: 16730285
 pri1n50scf: 40827287
+pri1qual: 240.7 errors/Mb (QV=36.19)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Acanthisitta_chloris/bAcaChl1/assembly_curated/bAcaChl1.pri.cur.20210526.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

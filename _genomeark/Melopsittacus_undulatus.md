@@ -76,6 +76,7 @@ mat1filesize: 317.3 MiB
 mat1length: '1169393027'
 mat1n50ctg: 12553612
 mat1n50scf: 75845561
+mat1qual: 107.6 errors/Mb (QV=39.68)
 mat1seq: https://s3.amazonaws.com/genomeark/species/Melopsittacus_undulatus/bMelUnd1/assembly_curated/bMelUnd1.mat.decon.20190830.fasta.gz
 mat1sizes: |
   <table class="sequence-sizes-table">
@@ -151,6 +152,7 @@ pat1filesize: 323.8 MiB
 pat1length: '1124753724'
 pat1n50ctg: 9580607
 pat1n50scf: 87112318
+pat1qual: 125.1 errors/Mb (QV=39.03)
 pat1seq: https://s3.amazonaws.com/genomeark/species/Melopsittacus_undulatus/bMelUnd1/assembly_curated/bMelUnd1.pat.decon.20190830.fasta.gz
 pat1sizes: |
   <table class="sequence-sizes-table">

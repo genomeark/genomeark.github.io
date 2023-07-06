@@ -76,6 +76,7 @@ mat1filesize: 809.5 MiB
 mat1length: '2811151840'
 mat1n50ctg: 6019561
 mat1n50scf: 127657425
+mat1qual: 43.7 errors/Mb (QV=43.60)
 mat1seq: https://s3.amazonaws.com/genomeark/species/Callithrix_jacchus/mCalJac1/assembly_curated/mCalJac1.mat.cur.20200212.fasta.gz
 mat1sizes: |
   <table class="sequence-sizes-table">
@@ -151,6 +152,7 @@ pat1filesize: 811.7 MiB
 pat1length: '2727469741'
 pat1n50ctg: 9831330
 pat1n50scf: 126104592
+pat1qual: 81.4 errors/Mb (QV=40.89)
 pat1seq: https://s3.amazonaws.com/genomeark/species/Callithrix_jacchus/mCalJac1/assembly_curated/mCalJac1.pat.cur.20210425.fasta.gz
 pat1sizes: |
   <table class="sequence-sizes-table">

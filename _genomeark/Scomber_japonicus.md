@@ -172,6 +172,7 @@ pri1filesize: 227.8 MiB
 pri1length: '828681152'
 pri1n50ctg: 4181867
 pri1n50scf: 34185792
+pri1qual: 1.7 errors/Mb (QV=57.75)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Scomber_japonicus/fScoJap1/assembly_curated/fScoJap1.pri.cur.20220203.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

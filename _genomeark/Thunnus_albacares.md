@@ -97,6 +97,7 @@ pri1filesize: 228.1 MiB
 pri1length: '792117861'
 pri1n50ctg: 26795544
 pri1n50scf: 34622995
+pri1qual: 3.5 errors/Mb (QV=54.52)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Thunnus_albacares/fThuAlb1/assembly_curated/fThuAlb1.pri.cur.20210827.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

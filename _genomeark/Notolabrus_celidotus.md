@@ -134,6 +134,7 @@ pri1filesize: 239.6 MiB
 pri1length: '846744262'
 pri1n50ctg: 2526821
 pri1n50scf: 35656165
+pri1qual: 174.1 errors/Mb (QV=37.59)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Notolabrus_celidotus/fNotCel1/assembly_curated/fNotCel1.pri.cur.20191108.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

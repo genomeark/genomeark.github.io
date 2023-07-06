@@ -132,6 +132,7 @@ pri1filesize: 381.9 MiB
 pri1length: '1358357718'
 pri1n50ctg: 11028263
 pri1n50scf: 84169648
+pri1qual: 0.5 errors/Mb (QV=63.40)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Spheniscus_humboldti/bSphHub1/assembly_curated/bSphHub1.pri.cur.20220322.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

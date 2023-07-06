@@ -105,6 +105,7 @@ pri1filesize: 473.1 MiB
 pri1length: '1672190305'
 pri1n50ctg: 3552160
 pri1n50scf: 88492469
+pri1qual: 390.3 errors/Mb (QV=34.09)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Thamnophis_elegans/rThaEle1/assembly_curated/rThaEle1.pri.cur.20190820.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

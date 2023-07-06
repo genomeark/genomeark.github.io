@@ -97,6 +97,7 @@ pri2filesize: 173.0 MiB
 pri2length: '615153901'
 pri2n50ctg: 13037006
 pri2n50scf: 29138660
+pri2qual: 4.7 errors/Mb (QV=53.26)
 pri2seq: https://s3.amazonaws.com/genomeark/species/Taurulus_bubalis/fTauBub2/assembly_curated/fTauBub2.pri.cur.20210524.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">

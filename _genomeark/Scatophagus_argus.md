@@ -158,6 +158,7 @@ pri1filesize: 166.7 MiB
 pri1length: '570785501'
 pri1n50ctg: 16317671
 pri1n50scf: 23939444
+pri1qual: 2.2 errors/Mb (QV=56.47)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Scatophagus_argus/fScaArg1/assembly_curated/fScaArg1.pri.cur.20210716.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

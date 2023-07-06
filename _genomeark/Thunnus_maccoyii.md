@@ -97,6 +97,7 @@ pri1filesize: 226.1 MiB
 pri1length: '782423977'
 pri1n50ctg: 26803536
 pri1n50scf: 33761101
+pri1qual: 2.5 errors/Mb (QV=56.02)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Thunnus_maccoyii/fThuMac1/assembly_curated/fThuMac1.pri.cur.20210407.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

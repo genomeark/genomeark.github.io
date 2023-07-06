@@ -97,6 +97,7 @@ pri1filesize: 382.5 MiB
 pri1length: '1398027955'
 pri1n50ctg: 17712854
 pri1n50scf: 35025567
+pri1qual: 12.3 errors/Mb (QV=49.11)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Accipiter_gentilis/bAccGen1/assembly_curated/bAccGen1.pri.cur.20220204.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

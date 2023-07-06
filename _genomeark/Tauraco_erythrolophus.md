@@ -105,6 +105,7 @@ pri1filesize: 360.3 MiB
 pri1length: '1252271553'
 pri1n50ctg: 12059329
 pri1n50scf: 85562082
+pri1qual: 211.3 errors/Mb (QV=36.75)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Tauraco_erythrolophus/bTauEry1/assembly_curated/bTauEry1.pri.cur.20190816.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

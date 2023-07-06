@@ -166,6 +166,7 @@ pri1filesize: 1.0 GiB
 pri1length: '3586166573'
 pri1n50ctg: 2416543
 pri1n50scf: 454668073
+pri1qual: 1.0 errors/Mb (QV=59.85)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Monodelphis_domestica/mMonDom1/assembly_curated/mMonDom1.pri.cur.20230103.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

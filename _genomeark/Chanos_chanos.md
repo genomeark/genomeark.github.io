@@ -117,6 +117,7 @@ pri1filesize: 185.4 MiB
 pri1length: '656912816'
 pri1n50ctg: 23134051
 pri1n50scf: 50300218
+pri1qual: 23.1 errors/Mb (QV=46.37)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Chanos_chanos/fChaCha1/assembly_curated/fChaCha1.pri.cur.20190805.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

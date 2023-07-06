@@ -107,6 +107,7 @@ pri1filesize: 180.5 MiB
 pri1length: '669949713'
 pri1n50ctg: 1015663
 pri1n50scf: 28732775
+pri1qual: 97.4 errors/Mb (QV=40.11)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Gadus_morhua/fGadMor1/assembly_curated/fGadMor1.pri.cur.20190710.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

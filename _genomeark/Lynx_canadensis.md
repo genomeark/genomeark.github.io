@@ -134,6 +134,7 @@ pri4filesize: 700.1 MiB
 pri4length: '2407810255'
 pri4n50ctg: 7406471
 pri4n50scf: 147275701
+pri4qual: 235.6 errors/Mb (QV=36.28)
 pri4seq: https://s3.amazonaws.com/genomeark/species/Lynx_canadensis/mLynCan4/assembly_curated/mLynCan4.pri.cur.20200608.fasta.gz
 pri4sizes: |
   <table class="sequence-sizes-table">

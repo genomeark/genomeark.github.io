@@ -136,6 +136,7 @@ pri1filesize: 235.0 MiB
 pri1length: '820163303'
 pri1n50ctg: 6264696
 pri1n50scf: 35447499
+pri1qual: 10.9 errors/Mb (QV=49.62)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Trachurus_trachurus/fTraTra1/assembly_curated/fTraTra1.pri.asm.20201216.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

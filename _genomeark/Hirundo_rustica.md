@@ -95,6 +95,7 @@ pri1filesize: 314.6 MiB
 pri1length: '1105955550'
 pri1n50ctg: 2024395
 pri1n50scf: 63258489
+pri1qual: 42.4 errors/Mb (QV=43.73)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Hirundo_rustica/bHirRus1/assembly_curated/bHirRus1.pri.cur.20210820.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

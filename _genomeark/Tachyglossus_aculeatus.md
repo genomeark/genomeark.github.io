@@ -134,6 +134,7 @@ pri1filesize: 602.9 MiB
 pri1length: '2213004314'
 pri1n50ctg: 12243461
 pri1n50scf: 59605462
+pri1qual: 34.2 errors/Mb (QV=44.66)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Tachyglossus_aculeatus/mTacAcu1/assembly_curated/mTacAcu1.pri.cur.20200917.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

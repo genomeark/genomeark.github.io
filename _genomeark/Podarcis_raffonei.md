@@ -122,6 +122,7 @@ pri1filesize: 435.7 MiB
 pri1length: '1513131503'
 pri1n50ctg: 55215715
 pri1n50scf: 79254795
+pri1qual: 0.6 errors/Mb (QV=62.55)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_curated/rPodRaf1.pri.cur.20220126.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

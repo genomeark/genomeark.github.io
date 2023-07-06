@@ -124,6 +124,7 @@ pri1filesize: 119.3 MiB
 pri1length: '417601740'
 pri1n50ctg: 1383654
 pri1n50scf: 20558067
+pri1qual: 35.1 errors/Mb (QV=44.54)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Asterias_rubens/eAstRub1/assembly_curated/eAstRub1.pri.cur.20190809.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

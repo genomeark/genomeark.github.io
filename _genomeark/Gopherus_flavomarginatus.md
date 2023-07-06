@@ -76,6 +76,7 @@ mat2filesize: 730.8 MiB
 mat2length: '2629494463'
 mat2n50ctg: 6571772
 mat2n50scf: 132089145
+mat2qual: 33.3 errors/Mb (QV=44.77)
 mat2seq: https://s3.amazonaws.com/genomeark/species/Gopherus_flavomarginatus/rGopFla2/assembly_curated/rGopFla2.mat.decon.20211102.fasta.gz
 mat2sizes: |
   <table class="sequence-sizes-table">
@@ -321,6 +322,7 @@ pat2filesize: 723.2 MiB
 pat2length: '2584697711'
 pat2n50ctg: 6312536
 pat2n50scf: 133543772
+pat2qual: 88.7 errors/Mb (QV=40.52)
 pat2seq: https://s3.amazonaws.com/genomeark/species/Gopherus_flavomarginatus/rGopFla2/assembly_curated/rGopFla2.pat.decon.20211102.fasta.gz
 pat2sizes: |
   <table class="sequence-sizes-table">

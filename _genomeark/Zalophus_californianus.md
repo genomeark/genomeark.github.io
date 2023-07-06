@@ -134,6 +134,7 @@ pri1filesize: 697.5 MiB
 pri1length: '2409668595'
 pri1n50ctg: 24587606
 pri1n50scf: 129409743
+pri1qual: 43.2 errors/Mb (QV=43.64)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Zalophus_californianus/mZalCal1/assembly_curated/mZalCal1.pri.cur.20200313.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

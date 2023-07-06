@@ -134,6 +134,7 @@ pri1filesize: 613.4 MiB
 pri1length: '2108832841'
 pri1n50ctg: 6377178
 pri1n50scf: 171742863
+pri1qual: 139.2 errors/Mb (QV=38.56)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Phyllostomus_discolor/mPhyDis1/assembly_curated/mPhyDis1.pri.cur.20200504.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

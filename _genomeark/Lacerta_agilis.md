@@ -134,6 +134,7 @@ pri1filesize: 406.2 MiB
 pri1length: '1391387079'
 pri1n50ctg: 3374645
 pri1n50scf: 61599656
+pri1qual: 190.0 errors/Mb (QV=37.21)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Lacerta_agilis/rLacAgi1/assembly_curated/rLacAgi1.pri.cur.20190924.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

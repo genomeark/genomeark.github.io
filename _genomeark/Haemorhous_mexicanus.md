@@ -122,6 +122,7 @@ pri1filesize: 320.1 MiB
 pri1length: '1148216196'
 pri1n50ctg: 13364686
 pri1n50scf: 66865462
+pri1qual: 0.5 errors/Mb (QV=63.16)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_curated/bHaeMex1.pri.cur.20220203.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

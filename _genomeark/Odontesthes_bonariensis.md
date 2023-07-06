@@ -151,6 +151,7 @@ pri6filesize: 261.3 MiB
 pri6length: '945823896'
 pri6n50ctg: 9831534
 pri6n50scf: 39252737
+pri6qual: 0.3 errors/Mb (QV=64.64)
 pri6seq: https://s3.amazonaws.com/genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_curated/fOdoBon6.pri.cur.20220707.fasta.gz
 pri6sizes: |
   <table class="sequence-sizes-table">

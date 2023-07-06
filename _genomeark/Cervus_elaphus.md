@@ -97,6 +97,7 @@ pri1filesize: 777.6 MiB
 pri1length: '2886619877'
 pri1n50ctg: 68741660
 pri1n50scf: 83473711
+pri1qual: 2.8 errors/Mb (QV=55.49)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Cervus_elaphus/mCerEla1/assembly_curated/mCerEla1.pri.cur.20210615.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

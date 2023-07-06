@@ -143,6 +143,7 @@ mat3filesize: 826.5 MiB
 mat3length: '2902197670'
 mat3n50ctg: 10206166
 mat3n50scf: 142343034
+mat3qual: 51.1 errors/Mb (QV=42.92)
 mat3seq: https://s3.amazonaws.com/genomeark/species/Homo_sapiens/mHomSap3/assembly_curated/mHomSap3.mat.cur.20200716.fasta.gz
 mat3sizes: |
   <table class="sequence-sizes-table">
@@ -220,6 +221,7 @@ pat3filesize: 786.0 MiB
 pat3length: '2744463177'
 pat3n50ctg: 11174026
 pat3n50scf: 131330361
+pat3qual: 56.7 errors/Mb (QV=42.46)
 pat3seq: https://s3.amazonaws.com/genomeark/species/Homo_sapiens/mHomSap3/assembly_curated/mHomSap3.pat.cur.20200716.fasta.gz
 pat3sizes: |
   <table class="sequence-sizes-table">

@@ -107,6 +107,7 @@ pri1filesize: 227.2 MiB
 pri1length: '797490645'
 pri1n50ctg: 2597836
 pri1n50scf: 32729575
+pri1qual: 201.8 errors/Mb (QV=36.95)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Salarias_fasciatus/fSalaFa1/assembly_curated/fSalaFa1.pri.cur.20190624.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

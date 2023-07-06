@@ -134,6 +134,7 @@ pri1filesize: 349.2 MiB
 pri1length: '1195829278'
 pri1n50ctg: 12482491
 pri1n50scf: 84785561
+pri1qual: 91.7 errors/Mb (QV=40.38)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Falco_rusticolus/bFalRus1/assembly_curated/bFalRus1.pri.cur.20200720.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

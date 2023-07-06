@@ -251,6 +251,7 @@ mat1filesize: 285.8 MiB
 mat1length: '1050497396'
 mat1n50ctg: 16502132
 mat1n50scf: 34594428
+mat1qual: 54.4 errors/Mb (QV=42.64)
 mat1seq: https://s3.amazonaws.com/genomeark/species/Gallus_gallus/bGalGal1/assembly_rockefeller_trio_1.6/bGalGal1.mat.asm.20191017.fasta.gz
 mat1sizes: |
   <table class="sequence-sizes-table">
@@ -610,6 +611,7 @@ pat1filesize: 302.8 MiB
 pat1length: '1057759867'
 pat1n50ctg: 14979167
 pat1n50scf: 74413464
+pat1qual: 62.6 errors/Mb (QV=42.03)
 pat1seq: https://s3.amazonaws.com/genomeark/species/Gallus_gallus/bGalGal1/assembly_rockefeller_trio_1.6/bGalGal1.pat.asm.20191017.fasta.gz
 pat1sizes: |
   <table class="sequence-sizes-table">
@@ -639,6 +641,7 @@ pri4filesize: 306.0 MiB
 pri4length: '1094281734'
 pri4n50ctg: 4534642
 pri4n50scf: 80140557
+pri4qual: 27.6 errors/Mb (QV=45.59)
 pri4seq: https://s3.amazonaws.com/genomeark/species/Gallus_gallus/bGalGal4/assembly_curated/bGalGal4.pri.cur.20211004.fasta.gz
 pri4sizes: |
   <table class="sequence-sizes-table">
@@ -668,6 +671,7 @@ pri5filesize: 309.3 MiB
 pri5length: '1109044877'
 pri5n50ctg: 7055388
 pri5n50scf: 87475253
+pri5qual: 0.5 errors/Mb (QV=62.68)
 pri5seq: https://s3.amazonaws.com/genomeark/species/Gallus_gallus/bGalGal5/assembly_curated/bGalGal5.pri.cur.20210920.fasta.gz
 pri5sizes: |
   <table class="sequence-sizes-table">

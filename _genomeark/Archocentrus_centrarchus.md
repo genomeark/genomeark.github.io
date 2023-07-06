@@ -134,6 +134,7 @@ pri1filesize: 266.9 MiB
 pri1length: '932930362'
 pri1n50ctg: 2005422
 pri1n50scf: 35590001
+pri1qual: 335.5 errors/Mb (QV=34.74)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Archocentrus_centrarchus/fArcCen1/assembly_curated/fArcCen1.pri.cur.20190208.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

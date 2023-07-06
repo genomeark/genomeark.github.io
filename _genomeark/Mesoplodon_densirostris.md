@@ -155,6 +155,7 @@ pri1filesize: 727.4 MiB
 pri1length: '2683375131'
 pri1n50ctg: 40142772
 pri1n50scf: 111292810
+pri1qual: 0.1 errors/Mb (QV=71.66)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Mesoplodon_densirostris/mMesDen1/assembly_curated/mMesDen1.pri.cur.20220330.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

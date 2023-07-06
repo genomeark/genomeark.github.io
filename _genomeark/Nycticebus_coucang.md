@@ -161,6 +161,7 @@ pri1filesize: 845.5 MiB
 pri1length: '2917154053'
 pri1n50ctg: 31786907
 pri1n50scf: 128238841
+pri1qual: 0.1 errors/Mb (QV=68.35)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Nycticebus_coucang/mNycCou1/assembly_curated/mNycCou1.pri.cur.20220401.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

@@ -134,6 +134,7 @@ pri1filesize: 0.9 GiB
 pri1length: '3205741135'
 pri1n50ctg: 7118616
 pri1n50scf: 103053378
+pri1qual: 11.1 errors/Mb (QV=49.56)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Tamandua_tetradactyla/mTamTet1/assembly_curated/mTamTet1.pri.cur.20220203.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

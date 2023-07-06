@@ -132,6 +132,7 @@ pri1filesize: 248.2 MiB
 pri1length: '865575964'
 pri1n50ctg: 9299978
 pri1n50scf: 37878235
+pri1qual: 64.7 errors/Mb (QV=41.89)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Melanotaenia_boesemani/fMelBoe1/assembly_curated/fMelBoe1.pri.cur.20210312.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

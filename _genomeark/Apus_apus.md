@@ -114,6 +114,7 @@ pri2filesize: 320.3 MiB
 pri2length: '1100361224'
 pri2n50ctg: 25561769
 pri2n50scf: 115508478
+pri2qual: 9.0 errors/Mb (QV=50.44)
 pri2seq: https://s3.amazonaws.com/genomeark/species/Apus_apus/bApuApu2/assembly_curated/bApuApu2.pri.cur.20211018.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">

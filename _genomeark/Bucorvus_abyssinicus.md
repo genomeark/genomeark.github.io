@@ -105,6 +105,7 @@ pri1filesize: 330.7 MiB
 pri1length: '1132597561'
 pri1n50ctg: 12039478
 pri1n50scf: 40274051
+pri1qual: 195.0 errors/Mb (QV=37.10)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Bucorvus_abyssinicus/bBucAby1/assembly_curated/bBucAby1.pri.cur.20190812.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

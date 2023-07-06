@@ -124,6 +124,7 @@ pri1filesize: 224.8 MiB
 pri1length: '833578411'
 pri1n50ctg: 2862625
 pri1n50scf: 35791275
+pri1qual: 63.5 errors/Mb (QV=41.97)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Sparus_aurata/fSpaAur1/assembly_curated/fSpaAur1.pri.cur.20190314.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

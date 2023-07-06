@@ -134,6 +134,7 @@ pri1filesize: 332.9 MiB
 pri1length: '1148597545'
 pri1n50ctg: 9112118
 pri1n50scf: 83240647
+pri1qual: 47.8 errors/Mb (QV=43.21)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Strigops_habroptilus/bStrHab1/assembly_curated/bStrHab1.pri.cur.20191108.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

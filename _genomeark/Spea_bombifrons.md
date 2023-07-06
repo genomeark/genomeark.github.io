@@ -159,6 +159,7 @@ pri1filesize: 273.5 MiB
 pri1length: '989826660'
 pri1n50ctg: 17563255
 pri1n50scf: 109868144
+pri1qual: 0.2 errors/Mb (QV=66.30)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Spea_bombifrons/aSpeBom1/assembly_curated/aSpeBom1.pri.cur.20220401.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

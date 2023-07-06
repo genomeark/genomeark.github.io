@@ -134,6 +134,7 @@ pri1filesize: 356.3 MiB
 pri1length: '1221032548'
 pri1n50ctg: 19783995
 pri1n50scf: 71435996
+pri1qual: 33.9 errors/Mb (QV=44.69)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Balearica_regulorum/bBalReg1/assembly_curated/bBalReg1.pri.cur.20191204.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

@@ -134,6 +134,7 @@ pri2filesize: 143.7 MiB
 pri2length: '551012959'
 pri2n50ctg: 5080925
 pri2n50scf: 22993012
+pri2qual: 58.9 errors/Mb (QV=42.30)
 pri2seq: https://s3.amazonaws.com/genomeark/species/Parambassis_ranga/fParRan2/assembly_curated/fParRan2.pri.cur.20181205.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">

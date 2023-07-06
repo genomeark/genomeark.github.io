@@ -102,6 +102,7 @@ pri2filesize: 171.2 MiB
 pri2length: '621503431'
 pri2n50ctg: 15555772
 pri2n50scf: 26859436
+pri2qual: 0.5 errors/Mb (QV=63.46)
 pri2seq: https://s3.amazonaws.com/genomeark/species/Toxotes_jaculatrix/fToxJac2/assembly_curated/fToxJac2.pri.cur.20210305.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">

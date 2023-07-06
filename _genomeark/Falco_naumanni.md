@@ -105,6 +105,7 @@ mat1filesize: 334.9 MiB
 mat1length: '1156765323'
 mat1n50ctg: 11498467
 mat1n50scf: 55895994
+mat1qual: 95.1 errors/Mb (QV=40.22)
 mat1seq: https://s3.amazonaws.com/genomeark/species/Falco_naumanni/bFalNau1/assembly_curated/bFalNau1.mat.decon.20200714.fasta.gz
 mat1sizes: |
   <table class="sequence-sizes-table">
@@ -182,6 +183,7 @@ pat1filesize: 347.9 MiB
 pat1length: '1197470248'
 pat1n50ctg: 12463014
 pat1n50scf: 68606003
+pat1qual: 71.6 errors/Mb (QV=41.45)
 pat1seq: https://s3.amazonaws.com/genomeark/species/Falco_naumanni/bFalNau1/assembly_curated/bFalNau1.pat.decon.20200714.fasta.gz
 pat1sizes: |
   <table class="sequence-sizes-table">

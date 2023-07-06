@@ -105,6 +105,7 @@ pri1filesize: 364.3 MiB
 pri1length: '1246226932'
 pri1n50ctg: 14700712
 pri1n50scf: 85472901
+pri1qual: 199.7 errors/Mb (QV=37.00)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Phoenicopterus_ruber/bPhoRub1/assembly_curated/bPhoRub1.pri.cur.20190813.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

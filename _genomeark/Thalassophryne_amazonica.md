@@ -117,6 +117,7 @@ pri1filesize: 702.3 MiB
 pri1length: '2446592878'
 pri1n50ctg: 2319587
 pri1n50scf: 118421481
+pri1qual: 365.8 errors/Mb (QV=34.37)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Thalassophryne_amazonica/fThaAma1/assembly_curated/fThaAma1.pri.cur.20190926.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

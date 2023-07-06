@@ -86,6 +86,7 @@ pri3filesize: 219.6 MiB
 pri3length: '800118513'
 pri3n50ctg: 1459497
 pri3n50scf: 21750502
+pri3qual: 4.3 errors/Mb (QV=53.62)
 pri3seq: https://s3.amazonaws.com/genomeark/species/Silurus_aristotelis/fSilAri3/assembly_curated/fSilAri3.pri.cur.20230308.fasta.gz
 pri3sizes: |
   <table class="sequence-sizes-table">

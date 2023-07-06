@@ -134,6 +134,7 @@ pri1filesize: 631.2 MiB
 pri1length: '2164762090'
 pri1n50ctg: 6014687
 pri1n50scf: 131128815
+pri1qual: 126.0 errors/Mb (QV=39.00)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Dermochelys_coriacea/rDerCor1/assembly_curated/rDerCor1.pri.cur.20210524.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

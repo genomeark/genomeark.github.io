@@ -93,6 +93,7 @@ pri1filesize: 622.5 MiB
 pri1length: '2134358617'
 pri1n50ctg: 39415510
 pri1n50scf: 134428053
+pri1qual: 17.1 errors/Mb (QV=47.66)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Chelonia_mydas/rCheMyd1/assembly_curated/rCheMyd1.pri.cur.20210528.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

@@ -176,6 +176,7 @@ pri1filesize: 351.9 MiB
 pri1length: '1203353649'
 pri1n50ctg: 41768366
 pri1n50scf: 128006814
+pri1qual: 33.7 errors/Mb (QV=44.72)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Theristicus_caerulescens/bTheCae1/assembly_curated/bTheCae1.pri.cur.20210525.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

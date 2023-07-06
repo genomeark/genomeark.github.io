@@ -144,6 +144,7 @@ pri1filesize: 662.8 MiB
 pri1length: '2374852541'
 pri1n50ctg: 4489592
 pri1n50scf: 104068540
+pri1qual: 70.9 errors/Mb (QV=41.49)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Balaenoptera_musculus/mBalMus1/assembly_curated/mBalMus1.pri.cur.20200528.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

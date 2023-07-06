@@ -107,6 +107,7 @@ pri1filesize: 230.5 MiB
 pri1length: '784546363'
 pri1n50ctg: 9102216
 pri1n50scf: 31084684
+pri1qual: 26.7 errors/Mb (QV=45.73)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Scleropages_formosus/fSclFor1/assembly_curated/fSclFor1.pri.cur.20190401.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

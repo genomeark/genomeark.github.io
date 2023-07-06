@@ -86,6 +86,7 @@ pri1filesize: 461.4 MiB
 pri1length: '1625023540'
 pri1n50ctg: 1592923
 pri1n50scf: 120144829
+pri1qual: 1.4 errors/Mb (QV=58.59)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Vipera_ursinii/rVipUrs1/assembly_curated/rVipUrs1.pri.cur.20230309.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

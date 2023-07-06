@@ -134,6 +134,7 @@ pri1filesize: 355.8 MiB
 pri1length: '1215224075'
 pri1n50ctg: 10655679
 pri1n50scf: 23620085
+pri1qual: 161.2 errors/Mb (QV=37.93)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Cariama_cristata/bCarCri1/assembly_curated/bCarCri1.pri.cur.20190916.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

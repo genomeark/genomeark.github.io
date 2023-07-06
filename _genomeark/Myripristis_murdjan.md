@@ -107,6 +107,7 @@ pri1filesize: 241.6 MiB
 pri1length: '835254674'
 pri1n50ctg: 14475636
 pri1n50scf: 34950760
+pri1qual: 49.6 errors/Mb (QV=43.05)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Myripristis_murdjan/fMyrMur1/assembly_curated/fMyrMur1.pri.cur.20190621.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

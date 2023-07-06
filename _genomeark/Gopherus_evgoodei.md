@@ -134,6 +134,7 @@ pri1filesize: 655.9 MiB
 pri1length: '2298547364'
 pri1n50ctg: 10520693
 pri1n50scf: 131611970
+pri1qual: 145.9 errors/Mb (QV=38.36)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Gopherus_evgoodei/rGopEvg1/assembly_curated/rGopEvg1.pri.cur.20190603.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

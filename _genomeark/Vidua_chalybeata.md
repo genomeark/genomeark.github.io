@@ -123,6 +123,7 @@ pri1filesize: 310.9 MiB
 pri1length: '1080457469'
 pri1n50ctg: 13825515
 pri1n50scf: 72553174
+pri1qual: 25.2 errors/Mb (QV=45.99)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Vidua_chalybeata/bVidCha1/assembly_curated/bVidCha1.pri.cur.20220117.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

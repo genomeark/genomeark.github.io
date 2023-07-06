@@ -134,6 +134,7 @@ pri1filesize: 365.9 MiB
 pri1length: '1256393467'
 pri1n50ctg: 28622470
 pri1n50scf: 99981954
+pri1qual: 59.6 errors/Mb (QV=42.25)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Nyctibius_grandis/bNycGra1/assembly_curated/bNycGra1.pri.cur.20200302.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

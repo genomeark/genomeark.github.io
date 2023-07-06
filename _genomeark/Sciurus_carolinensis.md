@@ -126,6 +126,7 @@ pri1filesize: 818.7 MiB
 pri1length: '2815397268'
 pri1n50ctg: 13975867
 pri1n50scf: 148229995
+pri1qual: 128.4 errors/Mb (QV=38.91)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Sciurus_carolinensis/mSciCar1/assembly_curated/mSciCar1.pri.cur.20191114.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

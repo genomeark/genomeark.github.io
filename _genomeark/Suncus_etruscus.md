@@ -149,6 +149,7 @@ pri1filesize: 705.6 MiB
 pri1length: '2471683639'
 pri1n50ctg: 3856164
 pri1n50scf: 116298652
+pri1qual: 177.7 errors/Mb (QV=37.50)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Suncus_etruscus/mSunEtr1/assembly_curated/mSunEtr1.pri.cur.20211125.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

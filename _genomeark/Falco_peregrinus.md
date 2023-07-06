@@ -111,6 +111,7 @@ pri1filesize: 362.9 MiB
 pri1length: '1311580791'
 pri1n50ctg: 14426051
 pri1n50scf: 93682670
+pri1qual: 0.6 errors/Mb (QV=62.04)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Falco_peregrinus/bFalPer1/assembly_curated/bFalPer1.pri.cur.20211214.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

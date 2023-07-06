@@ -124,6 +124,7 @@ pri1filesize: 253.1 MiB
 pri1length: '867616482'
 pri1n50ctg: 15304339
 pri1n50scf: 38412296
+pri1qual: 80.9 errors/Mb (QV=40.92)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Anableps_anableps/fAnaAna1/assembly_curated/fAnaAna1.pri.cur.20200514.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

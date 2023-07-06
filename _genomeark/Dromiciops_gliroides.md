@@ -123,6 +123,7 @@ pri1filesize: 0.9 GiB
 pri1length: '3303199800'
 pri1n50ctg: 38230856
 pri1n50scf: 670775900
+pri1qual: 260.1 errors/Mb (QV=35.85)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Dromiciops_gliroides/mDroGli1/assembly_curated/mDroGli1.pri.cur.20210407.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

@@ -75,6 +75,7 @@ mat1filesize: 818.2 MiB
 mat1length: '2864655229'
 mat1n50ctg: 21929955
 mat1n50scf: 117237060
+mat1qual: 13.1 errors/Mb (QV=48.82)
 mat1seq: https://s3.amazonaws.com/genomeark/species/Jaculus_jaculus/mJacJac1/assembly_curated/mJacJac1.mat.decon.20210507.fasta.gz
 mat1sizes: |
   <table class="sequence-sizes-table">
@@ -119,6 +120,7 @@ pat1filesize: 687.0 MiB
 pat1length: '2595216862'
 pat1n50ctg: 6464472
 pat1n50scf: 117185741
+pat1qual: 20.3 errors/Mb (QV=46.93)
 pat1seq: https://s3.amazonaws.com/genomeark/species/Jaculus_jaculus/mJacJac1/assembly_curated/mJacJac1.pat.decon.20210507.fasta.gz
 pat1sizes: |
   <table class="sequence-sizes-table">

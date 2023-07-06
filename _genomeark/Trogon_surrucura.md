@@ -173,6 +173,7 @@ pri1filesize: 338.9 MiB
 pri1length: '1165727389'
 pri1n50ctg: 17925126
 pri1n50scf: 87900276
+pri1qual: 22.5 errors/Mb (QV=46.48)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Trogon_surrucura/bTroSur1/assembly_curated/bTroSur1.pri.cur.20210525.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

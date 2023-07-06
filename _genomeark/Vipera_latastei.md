@@ -127,6 +127,7 @@ pri1filesize: 466.3 MiB
 pri1length: '1631568913'
 pri1n50ctg: 7285792
 pri1n50scf: 104936932
+pri1qual: 26.7 errors/Mb (QV=45.73)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Vipera_latastei/rVipLat1/assembly_curated/rVipLat1.pri.cur.20211208.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

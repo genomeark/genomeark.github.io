@@ -97,6 +97,7 @@ pri1filesize: 169.6 MiB
 pri1length: '588696950'
 pri1n50ctg: 3519450
 pri1n50scf: 25364761
+pri1qual: 7.3 errors/Mb (QV=51.36)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Pholis_gunnellus/fPhoGun1/assembly_curated/fPhoGun1.pri.cur.20211020.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

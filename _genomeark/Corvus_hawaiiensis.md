@@ -142,6 +142,7 @@ pri1filesize: 322.6 MiB
 pri1length: '1151594481'
 pri1n50ctg: 21254571
 pri1n50scf: 66143299
+pri1qual: 57.3 errors/Mb (QV=42.42)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Corvus_hawaiiensis/bCorHaw1/assembly_curated/bCorHaw1.pri.cur.20210920.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

@@ -132,6 +132,7 @@ pri1filesize: 324.5 MiB
 pri1length: '1185463352'
 pri1n50ctg: 10158201
 pri1n50scf: 65395694
+pri1qual: 0.5 errors/Mb (QV=63.04)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Ammospiza_nelsoni/bAmmNel1/assembly_curated/bAmmNel1.pri.cur.20220429.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

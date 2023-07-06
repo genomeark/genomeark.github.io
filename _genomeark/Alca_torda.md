@@ -134,6 +134,7 @@ pri1filesize: 345.1 MiB
 pri1length: '1178473458'
 pri1n50ctg: 18221265
 pri1n50scf: 82438829
+pri1qual: 176.7 errors/Mb (QV=37.53)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Alca_torda/bAlcTor1/assembly_curated/bAlcTor1.pri.cur.20190613.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

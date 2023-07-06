@@ -76,6 +76,7 @@ mat3filesize: 768.1 MiB
 mat3length: '2692729365'
 mat3n50ctg: 65751393
 mat3n50scf: 113445278
+mat3qual: 21.2 errors/Mb (QV=46.73)
 mat3seq: https://s3.amazonaws.com/genomeark/species/Meles_meles/mMelMel3/assembly_curated/mMelMel3.mat.decon.20211210.fasta.gz
 mat3sizes: |
   <table class="sequence-sizes-table">

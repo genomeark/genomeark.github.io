@@ -106,6 +106,7 @@ pri3filesize: 160.1 MiB
 pri3length: '609391784'
 pri3n50ctg: 5027187
 pri3n50scf: 24104793
+pri3qual: 438.6 errors/Mb (QV=33.58)
 pri3seq: https://s3.amazonaws.com/genomeark/species/Cottoperca_gobio/fCotGob3/assembly_curated/fCotGob3.pri.cur.20181026.fasta.gz
 pri3sizes: |
   <table class="sequence-sizes-table">

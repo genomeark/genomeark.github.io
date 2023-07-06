@@ -134,6 +134,7 @@ pri2filesize: 265.9 MiB
 pri2length: '937150793'
 pri2n50ctg: 1178098
 pri2n50scf: 36801689
+pri2qual: 136.9 errors/Mb (QV=38.64)
 pri2seq: https://s3.amazonaws.com/genomeark/species/Gouania_willdenowi/fGouWil2/assembly_curated/fGouWil2.pri.cur.20181116.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">

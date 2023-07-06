@@ -133,6 +133,7 @@ pri1filesize: 656.5 MiB
 pri1length: '2341916362'
 pri1n50ctg: 14669962
 pri1n50scf: 83211567
+pri1qual: 0.9 errors/Mb (QV=60.23)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_curated/fNeoGra1.pri.cur.20220311.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

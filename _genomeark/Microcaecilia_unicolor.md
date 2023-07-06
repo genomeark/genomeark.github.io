@@ -146,6 +146,7 @@ pri1filesize: 1.3 GiB
 pri1length: '4685923413'
 pri1n50ctg: 3650988
 pri1n50scf: 376147139
+pri1qual: 199.2 errors/Mb (QV=37.01)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Microcaecilia_unicolor/aMicUni1/assembly_curated/aMicUni1.pri.cur.20190523.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

@@ -143,6 +143,7 @@ pri1filesize: 347.9 MiB
 pri1length: '1271141449'
 pri1n50ctg: 9243896
 pri1n50scf: 46382565
+pri1qual: 0.5 errors/Mb (QV=62.86)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Podargus_strigoides/bPodStr1/assembly_curated/bPodStr1.pri.cur.20220318.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

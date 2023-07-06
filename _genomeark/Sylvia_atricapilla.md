@@ -105,6 +105,7 @@ pri1filesize: 306.6 MiB
 pri1length: '1066786587'
 pri1n50ctg: 7060864
 pri1n50scf: 72605035
+pri1qual: 184.2 errors/Mb (QV=37.35)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Sylvia_atricapilla/bSylAtr1/assembly_curated/bSylAtr1.pri.cur.20190916.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

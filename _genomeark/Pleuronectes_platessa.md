@@ -86,6 +86,7 @@ pri1filesize: 183.2 MiB
 pri1length: '687405470'
 pri1n50ctg: 2939254
 pri1n50scf: 30015915
+pri1qual: 2.4 errors/Mb (QV=56.19)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Pleuronectes_platessa/fPlePla1/assembly_curated/fPlePla1.pri.cur.20230308.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

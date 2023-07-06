@@ -134,6 +134,7 @@ pri1filesize: 328.9 MiB
 pri1length: '1127398289'
 pri1n50ctg: 12223312
 pri1n50scf: 47165387
+pri1qual: 413.6 errors/Mb (QV=33.83)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Pterocles_gutturalis/bPteGut1/assembly_curated/bPteGut1.pri.cur.20191016.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

@@ -107,6 +107,7 @@ pri1filesize: 378.0 MiB
 pri1length: '1342662642'
 pri1n50ctg: 2360121
 pri1n50scf: 57165184
+pri1qual: 327.2 errors/Mb (QV=34.85)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Sphaeramia_orbicularis/fSphaOr1/assembly_curated/fSphaOr1.pri.cur.20190619.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

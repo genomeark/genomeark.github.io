@@ -134,6 +134,7 @@ pri1filesize: 322.0 MiB
 pri1length: '1131616530'
 pri1n50ctg: 3156799
 pri1n50scf: 36548054
+pri1qual: 76.0 errors/Mb (QV=41.19)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Catharus_ustulatus/bCatUst1/assembly_curated/bCatUst1.pri.cur.20200806.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

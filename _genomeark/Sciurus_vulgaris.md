@@ -134,6 +134,7 @@ pri1filesize: 791.3 MiB
 pri1length: '2878591032'
 pri1n50ctg: 16327774
 pri1n50scf: 153872958
+pri1qual: 176.9 errors/Mb (QV=37.52)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Sciurus_vulgaris/mSciVul1/assembly_curated/mSciVul1.pri.cur.20191027.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

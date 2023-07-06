@@ -132,6 +132,7 @@ pri1filesize: 329.6 MiB
 pri1length: '1241209685'
 pri1n50ctg: 7539169
 pri1n50scf: 66577810
+pri1qual: 0.5 errors/Mb (QV=63.15)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_curated/bAmmCau1.pri.cur.20220422.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

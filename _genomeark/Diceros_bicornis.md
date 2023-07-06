@@ -76,6 +76,7 @@ mat1filesize: 832.1 MiB
 mat1length: '3005519209'
 mat1n50ctg: 28468213
 mat1n50scf: 65026825
+mat1qual: 2.8 errors/Mb (QV=55.48)
 mat1seq: https://s3.amazonaws.com/genomeark/species/Diceros_bicornis/mDicBic1/assembly_curated/mDicBic1.mat.cur.20210716.fasta.gz
 mat1sizes: |
   <table class="sequence-sizes-table">
@@ -183,6 +184,7 @@ pat1filesize: 845.3 MiB
 pat1length: '3044793931'
 pat1n50ctg: 28776087
 pat1n50scf: 59078673
+pat1qual: 3.0 errors/Mb (QV=55.17)
 pat1seq: https://s3.amazonaws.com/genomeark/species/Diceros_bicornis/mDicBic1/assembly_curated/mDicBic1.pat.decon.20210716.fasta.gz
 pat1sizes: |
   <table class="sequence-sizes-table">

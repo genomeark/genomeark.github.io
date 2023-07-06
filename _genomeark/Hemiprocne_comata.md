@@ -161,6 +161,7 @@ pri1filesize: 337.3 MiB
 pri1length: '1164793941'
 pri1n50ctg: 25637051
 pri1n50scf: 123375213
+pri1qual: 31.3 errors/Mb (QV=45.04)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Hemiprocne_comata/bHemCom1/assembly_curated/bHemCom1.pri.cur.20210924.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

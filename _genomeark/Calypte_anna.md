@@ -155,6 +155,7 @@ pri1filesize: 303.3 MiB
 pri1length: '1059687259'
 pri1n50ctg: 12771857
 pri1n50scf: 44745344
+pri1qual: 138.0 errors/Mb (QV=38.60)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Calypte_anna/bCalAnn1/assembly_curated/bCalAnn1.pri.cur.20180926.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

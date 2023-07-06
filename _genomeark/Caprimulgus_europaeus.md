@@ -107,6 +107,7 @@ pri3filesize: 342.4 MiB
 pri3length: '1177791212'
 pri3n50ctg: 30622946
 pri3n50scf: 82614289
+pri3qual: 3.9 errors/Mb (QV=54.06)
 pri3seq: https://s3.amazonaws.com/genomeark/species/Caprimulgus_europaeus/bCapEur3/assembly_curated/bCapEur3.pri.cur.20210401.fasta.gz
 pri3sizes: |
   <table class="sequence-sizes-table">

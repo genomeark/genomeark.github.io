@@ -105,6 +105,7 @@ pri1filesize: 343.8 MiB
 pri1length: '1178928410'
 pri1n50ctg: 3730413
 pri1n50scf: 80150727
+pri1qual: 223.0 errors/Mb (QV=36.52)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Streptopelia_turtur/bStrTur1/assembly_curated/bStrTur1.pri.cur.20190523.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

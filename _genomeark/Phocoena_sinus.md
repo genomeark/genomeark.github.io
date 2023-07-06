@@ -134,6 +134,7 @@ pri1filesize: 690.3 MiB
 pri1length: '2371524154'
 pri1n50ctg: 16115062
 pri1n50scf: 104118372
+pri1qual: 81.7 errors/Mb (QV=40.88)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Phocoena_sinus/mPhoSin1/assembly_curated/mPhoSin1.pri.cur.20190723.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

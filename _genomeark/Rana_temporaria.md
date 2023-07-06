@@ -136,6 +136,7 @@ pri1filesize: 1.1 GiB
 pri1length: '4111422596'
 pri1n50ctg: 6262427
 pri1n50scf: 481763206
+pri1qual: 49.0 errors/Mb (QV=43.10)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Rana_temporaria/aRanTem1/assembly_curated/aRanTem1.pri.cur.20200424.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

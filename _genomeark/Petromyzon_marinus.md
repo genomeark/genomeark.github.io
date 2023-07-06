@@ -134,6 +134,7 @@ pri1filesize: 283.1 MiB
 pri1length: '1089034415'
 pri1n50ctg: 966156
 pri1n50scf: 10963866
+pri1qual: 105.5 errors/Mb (QV=39.77)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Petromyzon_marinus/kPetMar1/assembly_curated/kPetMar1.pri.cur.20191209.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

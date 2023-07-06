@@ -133,6 +133,7 @@ pri1filesize: 606.7 MiB
 pri1length: '2075768562'
 pri1n50ctg: 25175215
 pri1n50scf: 83956141
+pri1qual: 7.1 errors/Mb (QV=51.51)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Rhinolophus_ferrumequinum/mRhiFer1/assembly_curated/mRhiFer1.pri.cur.20180907.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

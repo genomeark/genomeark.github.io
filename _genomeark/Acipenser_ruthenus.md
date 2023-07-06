@@ -86,6 +86,7 @@ mat3filesize: 466.5 MiB
 mat3length: '1638742712'
 mat3n50ctg: 10828506
 mat3n50scf: 43124428
+mat3qual: 10.4 errors/Mb (QV=49.83)
 mat3seq: https://s3.amazonaws.com/genomeark/species/Acipenser_ruthenus/fAciRut3/assembly_curated/fAciRut3.mat.cur.20191204.fasta.gz
 mat3sizes: |
   <table class="sequence-sizes-table">
@@ -153,6 +154,7 @@ pat3filesize: 473.3 MiB
 pat3length: '1663879616'
 pat3n50ctg: 11500722
 pat3n50scf: 42536799
+pat3qual: 9.5 errors/Mb (QV=50.22)
 pat3seq: https://s3.amazonaws.com/genomeark/species/Acipenser_ruthenus/fAciRut3/assembly_curated/fAciRut3.pat.cur.20191204.fasta.gz
 pat3sizes: |
   <table class="sequence-sizes-table">

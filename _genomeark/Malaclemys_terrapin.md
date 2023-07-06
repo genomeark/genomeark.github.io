@@ -45,6 +45,7 @@ hpa1filesize: 646.5 MiB
 hpa1length: '2211221380'
 hpa1n50ctg: 52973146
 hpa1n50scf: 128564339
+hpa1qual: 0.2 errors/Mb (QV=67.68)
 hpa1seq: https://s3.amazonaws.com/genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_curated/rMalTer1.hap1.cur.20220708.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
@@ -74,6 +75,7 @@ hpb1filesize: 647.4 MiB
 hpb1length: '2212837039'
 hpb1n50ctg: 78533568
 hpb1n50scf: 128411964
+hpb1qual: 0.2 errors/Mb (QV=67.80)
 hpb1seq: https://s3.amazonaws.com/genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_curated/rMalTer1.hap2.cur.20220708.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">

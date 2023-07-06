@@ -165,6 +165,7 @@ pri1filesize: 2.7 GiB
 pri1length: '10019663791'
 pri1n50ctg: 3712229
 pri1n50scf: 1241340601
+pri1qual: 125.3 errors/Mb (QV=39.02)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Bombina_bombina/aBomBom1/assembly_curated/aBomBom1.pri.cur.20220408.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

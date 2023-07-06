@@ -134,6 +134,7 @@ pri1filesize: 342.0 MiB
 pri1length: '1180136575'
 pri1n50ctg: 15626348
 pri1n50scf: 69231175
+pri1qual: 47.9 errors/Mb (QV=43.20)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Cuculus_canorus/bCucCan1/assembly_curated/bCucCan1.pri.cur.20210330.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

@@ -132,6 +132,7 @@ pri1filesize: 356.6 MiB
 pri1length: '1331454348'
 pri1n50ctg: 9652315
 pri1n50scf: 63592491
+pri1qual: 0.3 errors/Mb (QV=64.99)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Rhynochetos_jubatus/bRhyJub1/assembly_curated/bRhyJub1.pri.cur.20220616.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

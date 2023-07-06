@@ -134,6 +134,7 @@ pri1filesize: 770.4 MiB
 pri1length: '2647899415'
 pri1n50ctg: 29198295
 pri1n50scf: 135012528
+pri1qual: 38.6 errors/Mb (QV=44.13)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Rattus_norvegicus/mRatNor1/assembly_curated/mRatNor1.pri.cur.20200911.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

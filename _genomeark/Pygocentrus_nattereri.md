@@ -134,6 +134,7 @@ pri1filesize: 343.2 MiB
 pri1length: '1222050449'
 pri1n50ctg: 13176364
 pri1n50scf: 42283192
+pri1qual: 12.8 errors/Mb (QV=48.94)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Pygocentrus_nattereri/fPygNat1/assembly_curated/fPygNat1.pri.cur.20200313.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

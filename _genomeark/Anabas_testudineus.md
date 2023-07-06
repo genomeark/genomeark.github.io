@@ -134,6 +134,7 @@ pri1filesize: 149.0 MiB
 pri1length: '555641398'
 pri1n50ctg: 4568778
 pri1n50scf: 23456640
+pri1qual: 194.2 errors/Mb (QV=37.12)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Anabas_testudineus/fAnaTes1/assembly_curated/fAnaTes1.pri.cur.20181211.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

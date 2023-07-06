@@ -154,6 +154,7 @@ pri1filesize: 629.2 MiB
 pri1length: '2245584463'
 pri1n50ctg: 16149179
 pri1n50scf: 73531725
+pri1qual: 5.1 errors/Mb (QV=52.95)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Lemur_catta/mLemCat1/assembly_curated/mLemCat1.pri.cur.20210716.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

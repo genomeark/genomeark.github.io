@@ -105,6 +105,7 @@ pri1filesize: 316.6 MiB
 pri1length: '1089631598'
 pri1n50ctg: 15430584
 pri1n50scf: 75361692
+pri1qual: 219.4 errors/Mb (QV=36.59)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Chiroxiphia_lanceolata/bChiLan1/assembly_curated/bChiLan1.pri.cur.20191008.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

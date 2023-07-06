@@ -86,6 +86,7 @@ pri1filesize: 371.7 MiB
 pri1length: '1320298205'
 pri1n50ctg: 4216707
 pri1n50scf: 43689044
+pri1qual: 0.1 errors/Mb (QV=68.39)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Haliaeetus_albicilla/bHalAlb1/assembly_curated/bHalAlb1.pri.cur.20230214.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

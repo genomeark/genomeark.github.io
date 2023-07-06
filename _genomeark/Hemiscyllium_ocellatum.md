@@ -75,6 +75,7 @@ mat1filesize: 1.1 GiB
 mat1length: '4149461884'
 mat1n50ctg: 2768958
 mat1n50scf: 37995810
+mat1qual: 30.5 errors/Mb (QV=45.16)
 mat1seq: https://s3.amazonaws.com/genomeark/species/Hemiscyllium_ocellatum/sHemOce1/assembly_curated/sHemOce1.mat.decon.20210528.fasta.gz
 mat1sizes: |
   <table class="sequence-sizes-table">
@@ -273,6 +274,7 @@ pat1filesize: 1.1 GiB
 pat1length: '4171631382'
 pat1n50ctg: 2726060
 pat1n50scf: 41064340
+pat1qual: 18.5 errors/Mb (QV=47.32)
 pat1seq: https://s3.amazonaws.com/genomeark/species/Hemiscyllium_ocellatum/sHemOce1/assembly_curated/sHemOce1.pat.decon.20210528.fasta.gz
 pat1sizes: |
   <table class="sequence-sizes-table">

@@ -76,6 +76,7 @@ mat1filesize: 691.8 MiB
 mat1length: '2385753970'
 mat1n50ctg: 6845203
 mat1n50scf: 78151963
+mat1qual: 24.9 errors/Mb (QV=46.04)
 mat1seq: https://s3.amazonaws.com/genomeark/species/Tursiops_truncatus/mTurTru1/assembly_curated/mTurTru1.mat.decon.20190830.fasta.gz
 mat1sizes: |
   <table class="sequence-sizes-table">
@@ -151,6 +152,7 @@ pat1filesize: 680.0 MiB
 pat1length: '2378995196'
 pat1n50ctg: 8156464
 pat1n50scf: 77884346
+pat1qual: 66.2 errors/Mb (QV=41.79)
 pat1seq: https://s3.amazonaws.com/genomeark/species/Tursiops_truncatus/mTurTru1/assembly_curated/mTurTru1.pat.decon.20190830.fasta.gz
 pat1sizes: |
   <table class="sequence-sizes-table">

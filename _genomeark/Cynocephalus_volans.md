@@ -121,6 +121,7 @@ pri1filesize: 796.3 MiB
 pri1length: '2814418120'
 pri1n50ctg: 51993623
 pri1n50scf: 152846236
+pri1qual: 0.1 errors/Mb (QV=69.55)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Cynocephalus_volans/mCynVol1/assembly_curated/mCynVol1.pri.cur.20220520.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

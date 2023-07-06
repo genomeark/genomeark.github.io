@@ -132,6 +132,7 @@ pri1filesize: 325.0 MiB
 pri1length: '1193400391'
 pri1n50ctg: 6993937
 pri1n50scf: 75254055
+pri1qual: 64.8 errors/Mb (QV=41.89)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Acridotheres_tristis/bAcrTri1/assembly_curated/bAcrTri1.pri.cur.20220318.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

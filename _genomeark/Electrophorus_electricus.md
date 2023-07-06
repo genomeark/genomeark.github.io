@@ -123,6 +123,7 @@ pri1filesize: 162.4 MiB
 pri1length: '589358956'
 pri1n50ctg: 1970762
 pri1n50scf: 16409991
+pri1qual: 57.5 errors/Mb (QV=42.40)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Electrophorus_electricus/fEleEle1/assembly_curated/fEleEle1.pri.cur.20200317.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

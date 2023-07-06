@@ -97,6 +97,7 @@ pri2filesize: 313.1 MiB
 pri2length: '1086738318'
 pri2n50ctg: 5585877
 pri2n50scf: 46560559
+pri2qual: 74.7 errors/Mb (QV=41.27)
 pri2seq: https://s3.amazonaws.com/genomeark/species/Erithacus_rubecula/bEriRub2/assembly_curated/bEriRub2.pri.cur.20200603.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">

@@ -145,6 +145,7 @@ pri1filesize: 623.9 MiB
 pri1length: '2371863509'
 pri1n50ctg: 1692994
 pri1n50scf: 52209666
+pri1qual: 99.0 errors/Mb (QV=40.04)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Salmo_trutta/fSalTru1/assembly_curated/fSalTru1.pri.cur.20190403.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

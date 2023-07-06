@@ -136,6 +136,7 @@ pri1filesize: 1.4 GiB
 pri1length: '5044812576'
 pri1n50ctg: 3941737
 pri1n50scf: 635713434
+pri1qual: 80.6 errors/Mb (QV=40.94)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Bufo_bufo/aBufBuf1/assembly_curated/aBufBuf1.pri.cur.20201216.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

@@ -136,6 +136,7 @@ pri1filesize: 147.5 MiB
 pri1length: '544212633'
 pri1n50ctg: 12371513
 pri1n50scf: 23287306
+pri1qual: 26.1 errors/Mb (QV=45.83)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Echeneis_naucrates/fEcheNa1/assembly_curated/fEcheNa1.pri.cur.20190401.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

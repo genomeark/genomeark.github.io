@@ -139,6 +139,7 @@ pri1filesize: 512.2 MiB
 pri1length: '1763439233'
 pri1n50ctg: 4446752
 pri1n50scf: 94929986
+pri1qual: 137.5 errors/Mb (QV=38.62)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Pipistrellus_pipistrellus/mPipPip1/assembly_curated/mPipPip1.pri.cur.20200724.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

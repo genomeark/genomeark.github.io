@@ -181,6 +181,7 @@ pri1filesize: 207.2 MiB
 pri1length: '723565691'
 pri1n50ctg: 4992765
 pri1n50scf: 29539442
+pri1qual: 17.1 errors/Mb (QV=47.67)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Tautogolabrus_adspersus/fTauAds1/assembly_curated/fTauAds1.pri.cur.20211018.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

@@ -122,6 +122,7 @@ pri1filesize: 267.4 MiB
 pri1length: '880428986'
 pri1n50ctg: 3979531
 pri1n50scf: 36676067
+pri1qual: 180.1 errors/Mb (QV=37.45)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Astatotilapia_calliptera/fAstCal1/assembly_curated/fAstCal1.pri.cur.20180530.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

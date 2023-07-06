@@ -105,6 +105,7 @@ pri1filesize: 375.9 MiB
 pri1length: '1351447071'
 pri1n50ctg: 18312066
 pri1n50scf: 70996697
+pri1qual: 0.8 errors/Mb (QV=60.97)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Harpia_harpyja/bHarHar1/assembly_curated/bHarHar1.pri.cur.20220203.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

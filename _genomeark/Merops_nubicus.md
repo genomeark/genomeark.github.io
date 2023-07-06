@@ -134,6 +134,7 @@ pri1filesize: 333.7 MiB
 pri1length: '1149337515'
 pri1n50ctg: 11283056
 pri1n50scf: 47935011
+pri1qual: 299.9 errors/Mb (QV=35.23)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Merops_nubicus/bMerNub1/assembly_curated/bMerNub1.pri.cur.20190815.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

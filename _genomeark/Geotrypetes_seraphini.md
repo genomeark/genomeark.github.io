@@ -136,6 +136,7 @@ pri1filesize: 1.1 GiB
 pri1length: '3779413726'
 pri1n50ctg: 20656571
 pri1n50scf: 272612222
+pri1qual: 42.7 errors/Mb (QV=43.70)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Geotrypetes_seraphini/aGeoSer1/assembly_curated/aGeoSer1.pri.cur.20190812.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

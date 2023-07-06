@@ -134,6 +134,7 @@ pri1filesize: 307.8 MiB
 pri1length: '1078128490'
 pri1n50ctg: 1615884
 pri1n50scf: 36946645
+pri1qual: 680.6 errors/Mb (QV=31.67)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Geothlypis_trichas/bGeoTri1/assembly_curated/bGeoTri1.pri.cur.20191008.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

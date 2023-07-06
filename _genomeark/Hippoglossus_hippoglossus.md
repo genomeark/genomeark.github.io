@@ -134,6 +134,7 @@ pri1filesize: 172.1 MiB
 pri1length: '596775069'
 pri1n50ctg: 1520163
 pri1n50scf: 21256114
+pri1qual: 78.6 errors/Mb (QV=41.05)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Hippoglossus_hippoglossus/fHipHip1/assembly_curated/fHipHip1.pri.cur.20191125.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

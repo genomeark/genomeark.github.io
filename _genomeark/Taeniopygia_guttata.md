@@ -309,6 +309,7 @@ mat2filesize: 289.3 MiB
 mat2length: '1021085914'
 mat2n50ctg: 8471529
 mat2n50scf: 72150601
+mat2qual: 50.4 errors/Mb (QV=42.98)
 mat2seq: https://s3.amazonaws.com/genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_curated/bTaeGut2.mat.cur.20220527.fasta.gz
 mat2sizes: |
   <table class="sequence-sizes-table">
@@ -474,6 +475,7 @@ pat2filesize: 298.1 MiB
 pat2length: '1047573732'
 pat2n50ctg: 4426777
 pat2n50scf: 71343966
+pat2qual: 46.6 errors/Mb (QV=43.32)
 pat2seq: https://s3.amazonaws.com/genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_curated/bTaeGut2.pat.cur.20200124.fasta.gz
 pat2sizes: |
   <table class="sequence-sizes-table">
@@ -503,6 +505,7 @@ pri1filesize: 298.4 MiB
 pri1length: '1035408015'
 pri1n50ctg: 9018386
 pri1n50scf: 71569005
+pri1qual: 403.0 errors/Mb (QV=33.95)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Taeniopygia_guttata/bTaeGut1/assembly_curated/bTaeGut1.pri.cur.20210409.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

@@ -134,6 +134,7 @@ pri1filesize: 157.5 MiB
 pri1length: '549930323'
 pri1n50ctg: 9068444
 pri1n50scf: 21940471
+pri1qual: 50.8 errors/Mb (QV=42.94)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Antennarius_maculatus/fAntMac1/assembly_curated/fAntMac1.pri.cur.20200204.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

@@ -134,6 +134,7 @@ pri1filesize: 359.5 MiB
 pri1length: '1272338968'
 pri1n50ctg: 20642447
 pri1n50scf: 41511246
+pri1qual: 52.9 errors/Mb (QV=42.76)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Pogoniulus_pusillus/bPogPus1/assembly_curated/bPogPus1.pri.cur.20200514.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

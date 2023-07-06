@@ -145,6 +145,7 @@ pri1filesize: 157.1 MiB
 pri1length: '572885595'
 pri1n50ctg: 907248
 pri1n50scf: 17613290
+pri1qual: 109.1 errors/Mb (QV=39.62)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Cyclopterus_lumpus/fCycLum1/assembly_curated/fCycLum1.pri.cur.20191011.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

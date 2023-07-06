@@ -100,6 +100,7 @@ pri1filesize: 808.9 MiB
 pri1length: '2889801511'
 pri1n50ctg: 4449850
 pri1n50scf: 120938251
+pri1qual: 48.8 errors/Mb (QV=43.12)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Apodemus_sylvaticus/mApoSyl1/assembly_curated/mApoSyl1.pri.cur.20230309.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

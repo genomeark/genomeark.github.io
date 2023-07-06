@@ -134,6 +134,7 @@ pri1filesize: 213.5 MiB
 pri1length: '752605561'
 pri1n50ctg: 1539147
 pri1n50scf: 31521007
+pri1qual: 37.8 errors/Mb (QV=44.23)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Periophthalmus_magnuspinnatus/fPerMag1/assembly_curated/fPerMag1.pri.cur.20221207.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

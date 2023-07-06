@@ -135,6 +135,7 @@ pri2filesize: 658.8 MiB
 pri2length: '2267840987'
 pri2n50ctg: 11068733
 pri2n50scf: 53952022
+pri2qual: 165.5 errors/Mb (QV=37.81)
 pri2seq: https://s3.amazonaws.com/genomeark/species/Pristis_pectinata/sPriPec2/assembly_curated/sPriPec2.pri.cur.20201215.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">

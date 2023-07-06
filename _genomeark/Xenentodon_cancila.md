@@ -132,6 +132,7 @@ pri1filesize: 209.0 MiB
 pri1length: '736198484'
 pri1n50ctg: 2195850
 pri1n50scf: 28679447
+pri1qual: 61.1 errors/Mb (QV=42.14)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Xenentodon_cancila/fXenCan1/assembly_curated/fXenCan1.pri.cur.20200424.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

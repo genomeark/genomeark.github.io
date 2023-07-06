@@ -55,6 +55,7 @@ hpa1filesize: 1.1 GiB
 hpa1length: '4336248441'
 hpa1n50ctg: 4621226
 hpa1n50scf: 489283037
+hpa1qual: 0.4 errors/Mb (QV=64.30)
 hpa1seq: https://s3.amazonaws.com/genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_curated/aGasCar1.hap1.cur.20220713.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">

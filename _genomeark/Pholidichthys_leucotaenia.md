@@ -94,6 +94,7 @@ pri1filesize: 1.7 GiB
 pri1length: '6032307556'
 pri1n50ctg: 5866050
 pri1n50scf: 435632707
+pri1qual: 73.3 errors/Mb (QV=41.35)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Pholidichthys_leucotaenia/fPhoLeu1/assembly_curated/fPhoLeu1.pri.cur.20210716.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

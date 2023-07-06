@@ -172,6 +172,7 @@ pri1filesize: 687.6 MiB
 pri1length: '2558784953'
 pri1n50ctg: 1639199
 pri1n50scf: 75329052
+pri1qual: 117.6 errors/Mb (QV=39.30)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Amblyraja_radiata/sAmbRad1/assembly_curated/sAmbRad1.pri.cur.20201215.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

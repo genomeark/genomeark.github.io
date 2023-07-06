@@ -107,6 +107,7 @@ pri1filesize: 667.2 MiB
 pri1length: '2297765997'
 pri1n50ctg: 5308170
 pri1n50scf: 138658583
+pri1qual: 245.6 errors/Mb (QV=36.10)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Arvicola_amphibius/mArvAmp1/assembly_curated/mArvAmp1.pri.cur.20200724.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

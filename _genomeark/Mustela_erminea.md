@@ -134,6 +134,7 @@ pri1filesize: 706.2 MiB
 pri1length: '2445200799'
 pri1n50ctg: 26508710
 pri1n50scf: 109748187
+pri1qual: 17.8 errors/Mb (QV=47.51)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Mustela_erminea/mMusErm1/assembly_curated/mMusErm1.pri.cur.20191017.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

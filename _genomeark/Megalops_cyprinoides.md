@@ -123,6 +123,7 @@ pri1filesize: 278.7 MiB
 pri1length: '959241634'
 pri1n50ctg: 23339181
 pri1n50scf: 37498192
+pri1qual: 13.1 errors/Mb (QV=48.82)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Megalops_cyprinoides/fMegCyp1/assembly_curated/fMegCyp1.pri.cur.20200424.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

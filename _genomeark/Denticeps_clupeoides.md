@@ -134,6 +134,7 @@ pri1filesize: 162.2 MiB
 pri1length: '567401054'
 pri1n50ctg: 3059612
 pri1n50scf: 22793177
+pri1qual: 107.2 errors/Mb (QV=39.70)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Denticeps_clupeoides/fDenClu1/assembly_curated/fDenClu1.pri.cur.20190305.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

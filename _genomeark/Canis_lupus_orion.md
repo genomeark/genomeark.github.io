@@ -95,6 +95,7 @@ pri1filesize: 701.1 MiB
 pri1length: '2447463909'
 pri1n50ctg: 34375412
 pri1n50scf: 65778685
+pri1qual: 15.4 errors/Mb (QV=48.11)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Canis_lupus_orion/mCanLor1/assembly_curated/mCanLor1.pri.cur.20210315.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

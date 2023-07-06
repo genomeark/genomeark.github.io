@@ -134,6 +134,7 @@ pri1filesize: 358.3 MiB
 pri1length: '1229953488'
 pri1n50ctg: 18745483
 pri1n50scf: 83246160
+pri1qual: 41.8 errors/Mb (QV=43.79)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Sterna_hirundo/bSteHir1/assembly_curated/bSteHir1.pri.cur.20190820.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

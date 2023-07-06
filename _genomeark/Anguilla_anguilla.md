@@ -105,6 +105,7 @@ pri1filesize: 279.6 MiB
 pri1length: '979029243'
 pri1n50ctg: 2638625
 pri1n50scf: 44521221
+pri1qual: 31.1 errors/Mb (QV=45.08)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Anguilla_anguilla/fAngAng1/assembly_curated/fAngAng1.pri.cur.20200204.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

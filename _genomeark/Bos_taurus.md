@@ -142,6 +142,7 @@ pat1filesize: 742.9 MiB
 pat1length: '2580284709'
 pat1n50ctg: 35242446
 pat1n50scf: 91133937
+pat1qual: 48.2 errors/Mb (QV=43.17)
 pat1seq: https://s3.amazonaws.com/genomeark/species/Bos_taurus/mBosTau1/assembly_curated/mBosTau1.pat.cur.20200213.fasta.gz
 pat1sizes: |
   <table class="sequence-sizes-table">

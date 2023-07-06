@@ -144,6 +144,7 @@ pri1filesize: 229.2 MiB
 pri1length: '800904020'
 pri1n50ctg: 8304483
 pri1n50scf: 32625529
+pri1qual: 111.6 errors/Mb (QV=39.52)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Sebastes_umbrosus/fSebUmb1/assembly_curated/fSebUmb1.pri.cur.20200907.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

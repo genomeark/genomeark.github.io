@@ -162,6 +162,7 @@ pri1filesize: 1.0 GiB
 pri1length: '3872581802'
 pri1n50ctg: 3043591
 pri1n50scf: 453717995
+pri1qual: 71.7 errors/Mb (QV=41.44)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Discoglossus_pictus/aDisPic1/assembly_curated/aDisPic1.pri.cur.20211209.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

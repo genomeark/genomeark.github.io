@@ -105,6 +105,7 @@ pri2filesize: 326.2 MiB
 pri2length: '1126988109'
 pri2n50ctg: 16295753
 pri2n50scf: 76878203
+pri2qual: 68.9 errors/Mb (QV=41.62)
 pri2seq: https://s3.amazonaws.com/genomeark/species/Aythya_fuligula/bAytFul2/assembly_curated/bAytFul2.pri.cur.20190920.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">

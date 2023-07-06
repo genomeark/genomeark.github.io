@@ -114,6 +114,7 @@ pri3filesize: 357.2 MiB
 pri3length: '1150004004'
 pri3n50ctg: 13818222
 pri3n50scf: 47419401
+pri3qual: 22.4 errors/Mb (QV=46.49)
 pri3seq: https://s3.amazonaws.com/genomeark/species/Girardinichthys_multiradiatus/fGirMul3/assembly_curated/fGirMul3.pri.cur.20201215.fasta.gz
 pri3sizes: |
   <table class="sequence-sizes-table">

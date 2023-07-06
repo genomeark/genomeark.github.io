@@ -178,6 +178,7 @@ pri2filesize: 692.5 MiB
 pri2length: '2405993548'
 pri2n50ctg: 3245462
 pri2n50scf: 239582062
+pri2qual: 1.0 errors/Mb (QV=59.87)
 pri2seq: https://s3.amazonaws.com/genomeark/species/Sorex_araneus/mSorAra2/assembly_curated/mSorAra2.pri.cur.20220707.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">

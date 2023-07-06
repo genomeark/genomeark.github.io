@@ -134,6 +134,7 @@ pri1filesize: 108.4 MiB
 pri1length: '384110215'
 pri1n50ctg: 3136617
 pri1n50scf: 16705553
+pri1qual: 171.0 errors/Mb (QV=37.67)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Takifugu_rubripes/fTakRub1/assembly_curated/fTakRub1.pri.cur.20190523.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

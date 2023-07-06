@@ -144,6 +144,7 @@ pri2filesize: 1.1 GiB
 pri2length: '4286294447'
 pri2n50ctg: 5932073
 pri2n50scf: 153340763
+pri2qual: 54.9 errors/Mb (QV=42.61)
 pri2seq: https://s3.amazonaws.com/genomeark/species/Carcharodon_carcharias/sCarCar2/assembly_curated/sCarCar2.pri.cur.20210205.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">

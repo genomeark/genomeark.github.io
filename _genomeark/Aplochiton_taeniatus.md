@@ -103,6 +103,7 @@ pri1filesize: 126.3 MiB
 pri1length: '461946147'
 pri1n50ctg: 956540
 pri1n50scf: 20392628
+pri1qual: 61.6 errors/Mb (QV=42.10)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Aplochiton_taeniatus/fAplTae1/assembly_curated/fAplTae1.pri.cur.20210304.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

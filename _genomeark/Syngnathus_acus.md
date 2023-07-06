@@ -179,6 +179,7 @@ pri1filesize: 87.1 MiB
 pri1length: '324331233'
 pri1n50ctg: 11959915
 pri1n50scf: 14974571
+pri1qual: 46.9 errors/Mb (QV=43.29)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Syngnathus_acus/fSynAcu1/assembly_curated/fSynAcu1.pri.cur.20190523.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

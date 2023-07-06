@@ -123,6 +123,7 @@ pri1filesize: 264.0 MiB
 pri1length: '918731919'
 pri1n50ctg: 18753689
 pri1n50scf: 36486603
+pri1qual: 25.6 errors/Mb (QV=45.92)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Esox_lucius/fEsoLuc1/assembly_curated/fEsoLuc1.pri.cur.20200110.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

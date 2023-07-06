@@ -134,6 +134,7 @@ pri1filesize: 329.2 MiB
 pri1length: '1134169903'
 pri1n50ctg: 4985026
 pri1n50scf: 40612327
+pri1qual: 154.4 errors/Mb (QV=38.11)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Cygnus_olor/bCygOlo1/assembly_curated/bCygOlo1.pri.cur.20201130.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

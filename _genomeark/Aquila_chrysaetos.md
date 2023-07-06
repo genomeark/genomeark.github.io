@@ -134,6 +134,7 @@ pri1filesize: 352.1 MiB
 pri1length: '1203454851'
 pri1n50ctg: 21924221
 pri1n50scf: 46934974
+pri1qual: 46.0 errors/Mb (QV=43.37)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Aquila_chrysaetos/bAquChr1/assembly_curated/bAquChr1.pri.cur.20190702.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

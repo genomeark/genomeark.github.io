@@ -136,6 +136,7 @@ pri1filesize: 168.6 MiB
 pri1length: '591935101'
 pri1n50ctg: 4763706
 pri1n50scf: 23286013
+pri1qual: 35.7 errors/Mb (QV=44.48)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Mastacembelus_armatus/fMasArm1/assembly_curated/fMasArm1.pri.cur.20190305.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

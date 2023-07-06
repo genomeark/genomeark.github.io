@@ -124,6 +124,7 @@ pri1filesize: 709.2 MiB
 pri1length: '2438442342'
 pri1n50ctg: 30403456
 pri1n50scf: 149004807
+pri1qual: 69.6 errors/Mb (QV=41.57)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Lutra_lutra/mLutLut1/assembly_curated/mLutLut1.pri.cur.20190822.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
