@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
 data_arima-1_bases: 77.08 Gbp
 data_arima-1_bytes: 40.2 GiB
@@ -29,8 +29,109 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
+hpa1date: 2023-07-10
+hpa1filesize: 328.7 MiB
+hpa1length: '1209103888'
+hpa1n50ctg: 17616512
+hpa1n50scf: 86165597
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_vgp_HiC_2.0/bAmaOch1.HiC.hap1.20230710.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 42.41 Mbp </td><td> 1 </td><td> 137.84 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 28.39 Mbp </td><td> 2 </td><td> 132.31 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 24.54 Mbp </td><td> 3 </td><td> 125.87 Mbp </td></tr><tr><td> 40 </td><td> 16 </td><td> 23.11 Mbp </td><td> 4 </td><td> 93.40 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 22 </td><td style="background-color:#88ff88;"> 17.62 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 86.17 Mbp </td></tr><tr><td> 60 </td><td> 29 </td><td> 13.61 Mbp </td><td> 7 </td><td> 74.04 Mbp </td></tr><tr><td> 70 </td><td> 39 </td><td> 11.45 Mbp </td><td> 10 </td><td> 32.07 Mbp </td></tr><tr><td> 80 </td><td> 53 </td><td> 6.89 Mbp </td><td> 15 </td><td> 17.62 Mbp </td></tr><tr><td> 90 </td><td> 114 </td><td> 0.65 Mbp </td><td> 45 </td><td> 0.72 Mbp </td></tr><tr><td> 100 </td><td> 1803 </td><td> 11.17 Kbp </td><td> 1684 </td><td> 11.17 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1803 </th><th> 1.21 Gbp </th><th> 1684 </th><th> 1.21 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2023-07-10
+hpb1filesize: 381.8 MiB
+hpb1length: '1510116837'
+hpb1n50ctg: 12751415
+hpb1n50scf: 71335859
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_vgp_HiC_2.0/bAmaOch1.HiC.hap2.20230710.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 5 </td><td> 28.38 Mbp </td><td> 2 </td><td> 133.33 Mbp </td></tr><tr><td> 20 </td><td> 10 </td><td> 24.95 Mbp </td><td> 3 </td><td> 125.96 Mbp </td></tr><tr><td> 30 </td><td> 17 </td><td> 22.66 Mbp </td><td> 4 </td><td> 94.58 Mbp </td></tr><tr><td> 40 </td><td> 25 </td><td> 17.63 Mbp </td><td> 6 </td><td> 85.98 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 35 </td><td style="background-color:#88ff88;"> 12.75 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 71.34 Mbp </td></tr><tr><td> 60 </td><td> 50 </td><td> 7.73 Mbp </td><td> 11 </td><td> 40.65 Mbp </td></tr><tr><td> 70 </td><td> 74 </td><td> 4.22 Mbp </td><td> 16 </td><td> 21.19 Mbp </td></tr><tr><td> 80 </td><td> 137 </td><td> 1.26 Mbp </td><td> 35 </td><td> 2.26 Mbp </td></tr><tr><td> 90 </td><td> 570 </td><td> 170.81 Kbp </td><td> 435 </td><td> 174.01 Kbp </td></tr><tr><td> 100 </td><td> 2669 </td><td> 12.66 Kbp </td><td> 2508 </td><td> 12.66 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 2669 </th><th> 1.51 Gbp </th><th> 2508 </th><th> 1.51 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1684342555
-last_updated: 1684342555
+last_updated: 1688968175
+mds:
+- data: "species: Amazona ochrocephala\nspecimen: bAmaOch1\nprojects: \n  - vgp\nhap1:
+    s3://genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_vgp_HiC_2.0/bAmaOch1.HiC.hap1.20230710.fasta.gz\nhap2:
+    s3://genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_vgp_HiC_2.0/bAmaOch1.HiC.hap2.20230710.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bAmaOch1_hap1__s2_heatmap.pretext\npretext_hap2:
+    s3://genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bAmaOch1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_vgp_HiC_2.0/evaluation/merqury/bAmaOch1_png/\nmito:
+    s3://genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_MT_rockefeller/bAmaOch1.MT.20230710.fasta.gz\npipeline:\n
+    \ - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group: Rockefeller\nnotes:
+    This was a hifiasm-HiC assembly of bAmaOch1, resulting in two complete haplotypes.
+    This individual did not bionano data. HiC scaffolding was performed with yahs.
+    The HiC prep was Arima kit 2."
+  ident: md6
+  title: assembly_vgp_HiC_2.0/bAmaOch1.yml
+mito1date: 2023-07-10
+mito1filesize: 5.7 KiB
+mito1length: '19046'
+mito1n50ctg: 19046
+mito1n50scf: 19046
+mito1seq: https://s3.amazonaws.com/genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_MT_rockefeller/bAmaOch1.MT.20230710.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 19.05 Kbp </td><td> 1 </td><td> 19.05 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 19.05 Kbp </td><td> 1 </td><td> 19.05 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 19.05 Kbp </td><td> 1 </td><td> 19.05 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 19.05 Kbp </td><td> 1 </td><td> 19.05 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 19.05 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 19.05 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 19.05 Kbp </td><td> 1 </td><td> 19.05 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 19.05 Kbp </td><td> 1 </td><td> 19.05 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 19.05 Kbp </td><td> 1 </td><td> 19.05 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 19.05 Kbp </td><td> 1 </td><td> 19.05 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 19.05 Kbp </td><td> 1 </td><td> 19.05 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 19.05 Kbp </th><th> 1 </th><th> 19.05 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Amazona ochrocephala
 name_: Amazona_ochrocephala
 project: ~

@@ -1,5 +1,34 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+alt1date: 2023-07-01
+alt1filesize: 176.5 MiB
+alt1length: '697445255'
+alt1n50ctg: '763716'
+alt1n50scf: '763716'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Microchirus_variegatus/fMicVar1/assembly_cambridge/fMicVar1.alt.asm.20230701.fasta.gz
+alt1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 28 </td><td> 1.95 Mbp </td><td> 28 </td><td> 1.95 Mbp </td></tr><tr><td> 20 </td><td> 69 </td><td> 1.47 Mbp </td><td> 69 </td><td> 1.47 Mbp </td></tr><tr><td> 30 </td><td> 125 </td><td> 1.15 Mbp </td><td> 125 </td><td> 1.15 Mbp </td></tr><tr><td> 40 </td><td> 195 </td><td> 0.92 Mbp </td><td> 195 </td><td> 0.92 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 281 </td><td> 0.76 Mbp </td><td> 281 </td><td> 0.76 Mbp </td></tr><tr><td> 60 </td><td> 385 </td><td> 0.60 Mbp </td><td> 385 </td><td> 0.60 Mbp </td></tr><tr><td> 70 </td><td> 523 </td><td> 435.64 Kbp </td><td> 523 </td><td> 435.64 Kbp </td></tr><tr><td> 80 </td><td> 720 </td><td> 294.79 Kbp </td><td> 720 </td><td> 294.79 Kbp </td></tr><tr><td> 90 </td><td> 1060 </td><td> 139.45 Kbp </td><td> 1060 </td><td> 139.45 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.977x </th><th> 2060 </th><th> 0.70 Gbp </th><th> 2060 </th><th> 0.70 Gbp </th></tr>
+  </tfoot>
+  </table>
+alt1version: assembly_cambridge
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: thickback sole
 data_arima-1_bases: 258.84 Gbp
 data_arima-1_bytes: 76.1 GiB
@@ -30,7 +59,7 @@ genome_size: 713940000
 genome_size_display: 0.71 Gbp
 genome_size_method: GoaT
 last_raw_data: 1686682147
-last_updated: 1686682148
+last_updated: 1688994597
 metadata: |
   species:
     short_name: fMicVar
@@ -48,8 +77,66 @@ metadata: |
     genome_size: 713940000
     genome_size_method: GoaT
     project: [ vgp ]
+mito1date: 2023-07-01
+mito1filesize: 5.5 KiB
+mito1length: '17421'
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Microchirus_variegatus/fMicVar1/assembly_MT_cambridge/fMicVar1.MT.20230701.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 17.42 Kbp </th><th> 1 </th><th> 17.42 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_cambridge
 name: Microchirus variegatus
 name_: Microchirus_variegatus
+pri1date: 2023-07-01
+pri1filesize: 194.2 MiB
+pri1length: '724760441'
+pri1n50ctg: 2493930
+pri1n50scf: 29835075
+pri1seq: https://s3.amazonaws.com/genomeark/species/Microchirus_variegatus/fMicVar1/assembly_cambridge/fMicVar1.pri.asm.20230701.fasta.gz
+pri1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 10 </td><td> 6.76 Mbp </td><td> 2 </td><td> 45.35 Mbp </td></tr><tr><td> 20 </td><td> 23 </td><td> 4.80 Mbp </td><td> 4 </td><td> 38.82 Mbp </td></tr><tr><td> 30 </td><td> 40 </td><td> 3.58 Mbp </td><td> 6 </td><td> 33.57 Mbp </td></tr><tr><td> 40 </td><td> 62 </td><td> 2.92 Mbp </td><td> 8 </td><td> 32.62 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 88 </td><td style="background-color:#88ff88;"> 2.49 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 29.84 Mbp </td></tr><tr><td> 60 </td><td> 120 </td><td> 2.01 Mbp </td><td> 13 </td><td> 27.62 Mbp </td></tr><tr><td> 70 </td><td> 159 </td><td> 1.61 Mbp </td><td> 15 </td><td> 27.32 Mbp </td></tr><tr><td> 80 </td><td> 210 </td><td> 1.18 Mbp </td><td> 18 </td><td> 24.70 Mbp </td></tr><tr><td> 90 </td><td> 286 </td><td> 0.74 Mbp </td><td> 21 </td><td> 20.65 Mbp </td></tr><tr><td> 100 </td><td> 457 </td><td> 170.37 Kbp </td><td> 52 </td><td> 416.46 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.015x </th><th> 643 </th><th> 0.72 Gbp </th><th> 198 </th><th> 0.72 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri1version: assembly_cambridge
 project:
 - vgp
 short_name: fMicVar

@@ -30,7 +30,36 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1687467960
-last_updated: 1687467960
+last_updated: 1688968960
+mito1date: 2023-07-10
+mito1filesize: 5.3 KiB
+mito1length: '16696'
+mito1n50ctg: 16696
+mito1n50scf: 16696
+mito1seq: https://s3.amazonaws.com/genomeark/species/Caloenas_nicobarica/bCalNic1/assembly_MT_rockefeller/bCalNic1.MT.20230710.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.70 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.70 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.70 Kbp </th><th> 1 </th><th> 16.70 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Caloenas nicobarica
 name_: Caloenas_nicobarica
 project: ~

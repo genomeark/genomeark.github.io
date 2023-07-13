@@ -178,6 +178,7 @@ metadata: |
         subspecies: null
         alt_ids:
         - Jambi_SSY
+        - MIG12-29960010
         sex: male
         description: null
         provider: Lucia Carbone (Oregon Health & Science University)

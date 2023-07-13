@@ -80,6 +80,7 @@ metadata: |
         strain: null
         alt_ids:
         - Arthur_HLE
+        - HLE304
         sex: male
         description: null
         provider: Lucia Carbone (Oregon Health & Science University)
