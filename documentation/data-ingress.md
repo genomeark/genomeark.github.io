@@ -119,27 +119,20 @@ developmental stages all share the same ToLID.
 
 ## Other Metadata {#other-metadata}
 
-Some other metadata is required to be added to a `metadata.yaml` file on
-Genomeark. There is one such file per species (or cross, etc.) located at
-`/species/${Genus}_${species}/metadata.yaml`. These files&rsquo; fields are not
-presently standardized, but certain fields are _required_ to ensure populating
-the website works correctly. Additional arbitrary fields can be added, and we
-strongly encourage adding as much information as possible for your future
-convenience when creating BioSamples and submitting reads and assemblies to NCBI
-(or INSDC partner).
+Some other metadata is required to be added to a YAML file on Genomeark. There
+is one such file per species (or cross, etc.). These files&rsquo; fields are
+not presently standardized, but certain fields are _required_ to ensure
+populating the website works correctly. Additional arbitrary fields can be
+added, and we strongly encourage adding as much information as possible for
+your future convenience when creating BioSamples and submitting reads and
+assemblies to NCBI (or INSDC partner).
 
-These `metadata.yaml` files are stored on the S3 bucket, but these are actually
-copies from
-[a GitHub repository](https://github.com/genomeark/genomeark-metadata) that
-stores them and a history of changes. A copy of the version in the GitHub
-repository will be shadowed in the Genomeark S3 bucket, thus changes made to
-only the version in the repository will eventually be reflected in the S3
-bucket. Changes made to only the copy in the S3 bucket will likely be lost.
-
-If a `metadata.yaml` file for your species already exists, please add your
-information to a copy of it instead of creating a new one from scratch. You can
-share your file via email or Slack or you can make a pull request with your
-changes on the GitHub repository.
+These files are stored in
+[a GitHub repository](https://github.com/genomeark/genomeark-metadata).
+If a YAML file for your species already exists, please add your information to
+it instead of creating a new one from scratch. You can share your file via
+email or Slack or you can make a pull request with your changes on the GitHub
+repository.
 
 The following is a template containing the minimum requirements:
 ```yaml
@@ -198,6 +191,9 @@ species:
       - alt1
       - alt2
       sex: male
+      birth_date: date
+      birth_location: location
+      birth_type: type (e.g., wild vs captive)
       description: >
         A longer description;
       provider: Name or inst, other name or inst, yet another name or inst
@@ -229,6 +225,9 @@ species:
       - alt1
       - alt2
       sex: female
+      birth_date: date
+      birth_location: location
+      birth_type: type (e.g., wild vs captive)
       description: >
         A longer description;
       provider: Name or inst, other name or inst, yet another name or inst
@@ -248,6 +247,9 @@ species:
       - alt1
       - alt2
       sex: (fe)male
+      birth_date: date
+      birth_location: location
+      birth_type: type (e.g., wild vs captive)
       description: >
         A longer description;
       provider: Name or inst, other name or inst, yet another name or inst
