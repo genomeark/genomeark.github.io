@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: rufous frog
 data_arima-1_bases: 237.77 Gbp
 data_arima-1_bytes: 115.9 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2592000000
 genome_size_display: 2.59 Gbp
 genome_size_method: GoAT
-hpa1date: 2023-04-21
-hpa1filesize: 577.8 MiB
-hpa1length: '2323058933'
-hpa1n50ctg: 4619093
-hpa1n50scf: 217051441
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/aLepFus1.HiC.hap1.20230421.fasta.gz
+hpa1date: 2023-07-18
+hpa1filesize: 576.4 MiB
+hpa1length: '2307711212'
+hpa1n50ctg: 4738609
+hpa1n50scf: 228259793
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_curated/aLepFus1.hap1.cur.20230718.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 13 </td><td> 14.21 Mbp </td><td> 1 </td><td> 377.14 Mbp </td></tr><tr><td> 20 </td><td> 33 </td><td> 11.34 Mbp </td><td> 2 </td><td> 362.07 Mbp </td></tr><tr><td> 30 </td><td> 59 </td><td> 8.40 Mbp </td><td> 3 </td><td> 239.97 Mbp </td></tr><tr><td> 40 </td><td> 96 </td><td> 6.26 Mbp </td><td> 4 </td><td> 232.44 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 143 </td><td style="background-color:#88ff88;"> 4.62 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 217.05 Mbp </td></tr><tr><td> 60 </td><td> 215 </td><td> 2.92 Mbp </td><td> 6 </td><td> 184.44 Mbp </td></tr><tr><td> 70 </td><td> 337 </td><td> 1.51 Mbp </td><td> 8 </td><td> 98.06 Mbp </td></tr><tr><td> 80 </td><td> 660 </td><td> 401.97 Kbp </td><td> 20 </td><td> 2.47 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 13 </td><td> 14.21 Mbp </td><td> 1 </td><td> 373.86 Mbp </td></tr><tr><td> 20 </td><td> 33 </td><td> 11.34 Mbp </td><td> 2 </td><td> 290.10 Mbp </td></tr><tr><td> 30 </td><td> 59 </td><td> 8.73 Mbp </td><td> 3 </td><td> 258.30 Mbp </td></tr><tr><td> 40 </td><td> 95 </td><td> 6.26 Mbp </td><td> 4 </td><td> 228.30 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 142 </td><td style="background-color:#88ff88;"> 4.74 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 228.26 Mbp </td></tr><tr><td> 60 </td><td> 213 </td><td> 2.91 Mbp </td><td> 6 </td><td> 192.84 Mbp </td></tr><tr><td> 70 </td><td> 338 </td><td> 1.44 Mbp </td><td> 8 </td><td> 99.29 Mbp </td></tr><tr><td> 80 </td><td> 684 </td><td> 366.04 Kbp </td><td> 11 </td><td> 88.79 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.891x </th><th> 3298 </th><th> 2.31 Gbp </th><th> 2405 </th><th> 2.32 Gbp </th></tr>
+  <tr><th> 0.886x </th><th> 3239 </th><th> 2.30 Gbp </th><th> 2266 </th><th> 2.31 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2023-04-21
-hpb1filesize: 559.9 MiB
-hpb1length: '2196345138'
-hpb1n50ctg: 4110796
-hpb1n50scf: 219857609
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/aLepFus1.HiC.hap2.20230421.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2023-07-18
+hpb1filesize: 560.2 MiB
+hpb1length: '2197979350'
+hpb1n50ctg: 4050644
+hpb1n50scf: 222313067
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_curated/aLepFus1.hap2.cur.20230718.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 14 </td><td> 15.34 Mbp </td><td> 1 </td><td> 0.57 Gbp </td></tr><tr><td> 20 </td><td> 34 </td><td> 12.09 Mbp </td><td> 1 </td><td> 0.57 Gbp </td></tr><tr><td> 30 </td><td> 59 </td><td> 8.14 Mbp </td><td> 2 </td><td> 360.06 Mbp </td></tr><tr><td> 40 </td><td> 97 </td><td> 5.81 Mbp </td><td> 3 </td><td> 282.62 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 149 </td><td style="background-color:#88ff88;"> 4.11 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 219.86 Mbp </td></tr><tr><td> 60 </td><td> 230 </td><td> 2.44 Mbp </td><td> 5 </td><td> 215.56 Mbp </td></tr><tr><td> 70 </td><td> 387 </td><td> 1.10 Mbp </td><td> 6 </td><td> 182.55 Mbp </td></tr><tr><td> 80 </td><td> 970 </td><td> 174.65 Kbp </td><td> 64 </td><td> 0.58 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 15 </td><td> 15.34 Mbp </td><td> 1 </td><td> 371.06 Mbp </td></tr><tr><td> 20 </td><td> 34 </td><td> 12.09 Mbp </td><td> 2 </td><td> 285.84 Mbp </td></tr><tr><td> 30 </td><td> 60 </td><td> 8.04 Mbp </td><td> 3 </td><td> 249.12 Mbp </td></tr><tr><td> 40 </td><td> 99 </td><td> 5.74 Mbp </td><td> 4 </td><td> 226.02 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 151 </td><td style="background-color:#88ff88;"> 4.05 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 222.31 Mbp </td></tr><tr><td> 60 </td><td> 233 </td><td> 2.44 Mbp </td><td> 7 </td><td> 156.14 Mbp </td></tr><tr><td> 70 </td><td> 389 </td><td> 1.11 Mbp </td><td> 9 </td><td> 91.39 Mbp </td></tr><tr><td> 80 </td><td> 918 </td><td> 200.11 Kbp </td><td> 19 </td><td> 0.80 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.837x </th><th> 2267 </th><th> 2.17 Gbp </th><th> 1330 </th><th> 2.20 Gbp </th></tr>
+  <tr><th> 0.840x </th><th> 2241 </th><th> 2.18 Gbp </th><th> 1265 </th><th> 2.20 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1680105268
-last_updated: 1682362041
+last_updated: 1689693738
 mds:
 - data: "species: Leptodactylus fuscus\nspecimen: aLepFus1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/aLepFus1.HiC.hap1.20230421.fasta.gz\nhap2:
@@ -106,7 +106,7 @@ mds:
     performed with yahs. K-mer spectra indicates a homogametic specimen. The HiC prep
     was Arima kit 2. I am submitting both hap1 & hap2 for dual curation. This is the
     curation ticket for hap1. "
-  ident: md4
+  ident: md10
   title: assembly_vgp_HiC_2.0/aLepFus1_hap1.yml
 - data: "species: Leptodactylus fuscus\nspecimen: aLepFus1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/aLepFus1.HiC.hap1.20230421.fasta.gz\nhap2:
@@ -124,7 +124,7 @@ mds:
     performed with yahs. K-mer spectra indicates a homogametic specimen. The HiC prep
     was Arima kit 2. I am submitting both hap1 & hap2 for dual curation. This is the
     curation ticket for hap2. "
-  ident: md5
+  ident: md11
   title: assembly_vgp_HiC_2.0/aLepFus1_hap2.yml
 metadata: |
   species:

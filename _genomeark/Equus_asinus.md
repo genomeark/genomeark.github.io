@@ -28,6 +28,16 @@ data_illumina:mEquAca1_scale: 2.1571
 data_illumina_bases: 330.15 Gbp
 data_illumina_bytes: 142.2 GiB
 data_illumina_coverage: 81.92x
+data_ont:mEquAca1_bases: 215.93 Gbp
+data_ont:mEquAca1_bytes: 173.9 GiB
+data_ont:mEquAca1_coverage: 53.58x
+data_ont:mEquAca1_links: s3://genomeark/species/Equus_asinus/mEquAca1/genomic_data/ont/<br>
+data_ont:mEquAca1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Equus_asinus/mEquAca1/genomic_data/ont/
+data_ont:mEquAca1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Equus_asinus/mEquAca1/genomic_data/ont/
+data_ont:mEquAca1_scale: 1.1562
+data_ont_bases: 215.93 Gbp
+data_ont_bytes: 173.9 GiB
+data_ont_coverage: 53.58x
 data_pacbiohifi_fagz:mEquAca1_bases: 133.59 Gbp
 data_pacbiohifi_fagz:mEquAca1_bytes: 43.3 GiB
 data_pacbiohifi_fagz:mEquAca1_coverage: 33.15x
@@ -38,7 +48,8 @@ data_pacbiohifi_fagz:mEquAca1_scale: 2.8728
 data_pacbiohifi_fagz_bases: 133.59 Gbp
 data_pacbiohifi_fagz_bytes: 43.3 GiB
 data_pacbiohifi_fagz_coverage: 33.15x
-data_status: '<em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '<em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">Dovetail</em>
+  ::: <em style="color:forestgreen">Illumina</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -46,8 +57,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 4030000000
 genome_size_display: 4.03 Gbp
 genome_size_method: GoaT
-last_raw_data: 1684525804
-last_updated: 1684525804
+last_raw_data: 1689781105
+last_updated: 1689781105
 metadata: "species:\n  name: Equus asinus\n  short_name: mEquAsi\n  common_name: ass
   (donkey)\n  taxon_id: 9793\n  order:\n    name: Perissodactyla\n  family:\n    name:
   Equidae\n  individuals:\n  - \n    short_name: mEquAsi1\n    biosample_id: null\n

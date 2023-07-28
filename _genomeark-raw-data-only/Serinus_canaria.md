@@ -1,0 +1,1 @@
+../_genomeark/Serinus_canaria.md

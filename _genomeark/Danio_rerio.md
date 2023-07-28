@@ -48,15 +48,15 @@ data_illumina:fDreTuH1_scale: 1.8621
 data_illumina_bases: 404.18 Gbp
 data_illumina_bytes: 201.2 GiB
 data_illumina_coverage: N/A
-data_ont-17_bases: 158.33 Gbp
-data_ont-17_bytes: 131.6 GiB
+data_ont-17_bases: 249.03 Gbp
+data_ont-17_bytes: 211.7 GiB
 data_ont-17_coverage: N/A
 data_ont-17_links: s3://genomeark/species/Danio_rerio/fDanRer17/genomic_data/ont/<br>
 data_ont-17_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Danio_rerio/fDanRer17/genomic_data/ont/
 data_ont-17_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDanRer17/genomic_data/ont/
-data_ont-17_scale: 1.1205
-data_ont_bases: 158.33 Gbp
-data_ont_bytes: 131.6 GiB
+data_ont-17_scale: 1.0955
+data_ont_bases: 249.03 Gbp
+data_ont_bytes: 211.7 GiB
 data_ont_coverage: N/A
 data_pacbio:fDreSAT1_bases: 128.48 Gbp
 data_pacbio:fDreSAT1_bytes: 451.5 GiB
@@ -80,8 +80,8 @@ genbank_pri: fDanRer4:GCA_944039275.1
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1686320660
-last_updated: 1686320660
+last_raw_data: 1689795761
+last_updated: 1689807695
 mat1date: 2020-05-22
 mat1filesize: 387.1 MiB
 mat1length: '1360489499'

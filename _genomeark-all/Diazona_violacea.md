@@ -1,0 +1,1 @@
+../_genomeark/Diazona_violacea.md

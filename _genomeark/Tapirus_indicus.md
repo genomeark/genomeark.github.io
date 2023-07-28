@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_dovetail-1_bases: 143.32 Gbp
 data_dovetail-1_bytes: 79.9 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-04-27
-hpa1filesize: 717.7 MiB
-hpa1length: '2484661751'
-hpa1n50ctg: 54825361
-hpa1n50scf: 127311890
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Tapirus_indicus/mTapInd1/assembly_vgp_HiC_2.0/mTapInd1.HiC.hap1.20230427.fasta.gz
+hpa1date: 2023-07-21
+hpa1filesize: 720.1 MiB
+hpa1length: '2498393425'
+hpa1n50ctg: 52012120
+hpa1n50scf: 129321892
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Tapirus_indicus/mTapInd1/assembly_curated/mTapInd1.hap1.cur.20230721.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 141.90 Mbp </td><td> 2 </td><td> 156.08 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 87.16 Mbp </td><td> 4 </td><td> 147.66 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 70.66 Mbp </td><td> 5 </td><td> 137.89 Mbp </td></tr><tr><td> 40 </td><td> 12 </td><td> 58.02 Mbp </td><td> 7 </td><td> 128.76 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 54.83 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 127.31 Mbp </td></tr><tr><td> 60 </td><td> 21 </td><td> 43.62 Mbp </td><td> 11 </td><td> 111.66 Mbp </td></tr><tr><td> 70 </td><td> 27 </td><td> 37.57 Mbp </td><td> 14 </td><td> 88.40 Mbp </td></tr><tr><td> 80 </td><td> 35 </td><td> 27.15 Mbp </td><td> 17 </td><td> 61.01 Mbp </td></tr><tr><td> 90 </td><td> 48 </td><td> 11.13 Mbp </td><td> 22 </td><td> 42.01 Mbp </td></tr><tr><td> 100 </td><td> 347 </td><td> 14.56 Kbp </td><td> 285 </td><td> 14.56 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 141.90 Mbp </td><td> 2 </td><td> 156.08 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 87.75 Mbp </td><td> 4 </td><td> 154.87 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 70.66 Mbp </td><td> 5 </td><td> 147.66 Mbp </td></tr><tr><td> 40 </td><td> 12 </td><td> 61.97 Mbp </td><td> 7 </td><td> 137.89 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 52.01 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 129.32 Mbp </td></tr><tr><td> 60 </td><td> 21 </td><td> 43.62 Mbp </td><td> 11 </td><td> 115.44 Mbp </td></tr><tr><td> 70 </td><td> 27 </td><td> 38.01 Mbp </td><td> 13 </td><td> 94.77 Mbp </td></tr><tr><td> 80 </td><td> 35 </td><td> 29.19 Mbp </td><td> 16 </td><td> 61.97 Mbp </td></tr><tr><td> 90 </td><td> 47 </td><td> 14.18 Mbp </td><td> 21 </td><td> 42.04 Mbp </td></tr><tr><td> 100 </td><td> 338 </td><td> 14.56 Kbp </td><td> 259 </td><td> 14.56 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 347 </th><th> 2.48 Gbp </th><th> 285 </th><th> 2.48 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 338 </th><th> 2.50 Gbp </th><th> 259 </th><th> 2.50 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2023-04-27
-hpb1filesize: 719.0 MiB
-hpb1length: '2491183386'
-hpb1n50ctg: 52012120
+hpa1version: assembly_curated
+hpb1date: 2023-07-21
+hpb1filesize: 716.6 MiB
+hpb1length: '2477428682'
+hpb1n50ctg: 56553937
 hpb1n50scf: 129754520
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Tapirus_indicus/mTapInd1/assembly_vgp_HiC_2.0/mTapInd1.HiC.hap2.20230427.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Tapirus_indicus/mTapInd1/assembly_curated/mTapInd1.hap2.cur.20230721.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 140.96 Mbp </td><td> 2 </td><td> 155.12 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 90.55 Mbp </td><td> 4 </td><td> 146.28 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 74.80 Mbp </td><td> 5 </td><td> 141.61 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 63.05 Mbp </td><td> 7 </td><td> 136.97 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 15 </td><td style="background-color:#88ff88;"> 52.01 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 129.75 Mbp </td></tr><tr><td> 60 </td><td> 21 </td><td> 42.12 Mbp </td><td> 11 </td><td> 114.52 Mbp </td></tr><tr><td> 70 </td><td> 27 </td><td> 36.62 Mbp </td><td> 14 </td><td> 90.88 Mbp </td></tr><tr><td> 80 </td><td> 34 </td><td> 29.37 Mbp </td><td> 17 </td><td> 61.05 Mbp </td></tr><tr><td> 90 </td><td> 46 </td><td> 14.17 Mbp </td><td> 22 </td><td> 42.04 Mbp </td></tr><tr><td> 100 </td><td> 276 </td><td> 16.70 Kbp </td><td> 219 </td><td> 16.70 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 140.96 Mbp </td><td> 2 </td><td> 155.12 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 90.55 Mbp </td><td> 4 </td><td> 151.14 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 78.62 Mbp </td><td> 5 </td><td> 146.28 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 62.71 Mbp </td><td> 7 </td><td> 137.13 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 15 </td><td style="background-color:#88ff88;"> 56.55 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 129.75 Mbp </td></tr><tr><td> 60 </td><td> 21 </td><td> 42.12 Mbp </td><td> 11 </td><td> 114.52 Mbp </td></tr><tr><td> 70 </td><td> 27 </td><td> 35.50 Mbp </td><td> 13 </td><td> 92.47 Mbp </td></tr><tr><td> 80 </td><td> 35 </td><td> 25.52 Mbp </td><td> 16 </td><td> 61.86 Mbp </td></tr><tr><td> 90 </td><td> 48 </td><td> 10.86 Mbp </td><td> 21 </td><td> 42.19 Mbp </td></tr><tr><td> 100 </td><td> 284 </td><td> 24.50 Kbp </td><td> 192 </td><td> 24.50 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 276 </th><th> 2.49 Gbp </th><th> 219 </th><th> 2.49 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 284 </th><th> 2.48 Gbp </th><th> 192 </th><th> 2.48 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1682107304
-last_updated: 1684271338
+last_updated: 1689937149
 mds:
 - data: "species: Tapirus indicus\nspecimen: mTapInd1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Tapirus_indicus/mTapInd1/assembly_vgp_HiC_2.0/mTapInd1.HiC.hap1.20230427.fasta.gz\nhap2:
@@ -106,7 +106,7 @@ mds:
     yahs. The HiC prep was Arima kit 2. TThe kmer spectra indicate a homogametic specimen.
     I am submitting both hap1 & hap2 for dual curation. This is the curation ticket
     for hap1. "
-  ident: md4
+  ident: md10
   title: assembly_vgp_HiC_2.0/mTapInd1_hap1.yml
 - data: "species: Tapirus indicus\nspecimen: mTapInd1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Tapirus_indicus/mTapInd1/assembly_vgp_HiC_2.0/mTapInd1.HiC.hap1.20230427.fasta.gz\nhap2:
@@ -124,7 +124,7 @@ mds:
     yahs. The HiC prep was Arima kit 2. TThe kmer spectra indicate a homogametic specimen.
     I am submitting both hap1 & hap2 for dual curation. This is the curation ticket
     for hap2. "
-  ident: md5
+  ident: md11
   title: assembly_vgp_HiC_2.0/mTapInd1_hap2.yml
 mito1date: 2023-05-12
 mito1filesize: 5.3 KiB

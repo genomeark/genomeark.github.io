@@ -93,19 +93,49 @@ mat1sizes: |
 mat1version: assembly_curated
 metadata: |
   species:
+    short_name: mBosTau
+    name: Bos taurus
     common_name: cattle
+    taxon_id: 9913
+    order:
+      name: Artiodactyla
     family:
       name: Bovidae
+    individuals:
+    -
+        short_name: mBosTau1
+        name: null
+        biosample_id: null
+        strain: null
+        alt_ids: null
+        sex: null
+        birth_date: null
+        birth_location: null
+        birth_type: null
+        description: null
+        provider: null
+        mother: null
+        father: null
+        project: [ vgp ]
+    -
+        short_name: mBosTau2
+        name: null
+        biosample_id: null
+        strain: null
+        alt_ids:
+        - LVC_Rachael_25X
+        sex: female
+        birth_date: null
+        birth_location: null
+        birth_type: null
+        description: This is the dam of mBosGat1 (Bos gaurus x Bos taurus).
+        provider: null
+        mother: null
+        father: null
+        project: [ t2t ]
     genome_size: 2700000000
     genome_size_method: null
-    individuals:
-    - short_name: mBosTau1
-    name: Bos taurus
-    order:
-      name: Cetartiodactyla
-    short_name: mBosTau
-    taxon_id: 9913
-    project: [ vgp ]
+    project: [ vgp, t2t ]
 mito1date: 2019-10-07
 mito1filesize: 5.2 KiB
 mito1length: '16339'
@@ -169,6 +199,7 @@ pat1sizes: |
 pat1version: assembly_curated
 project:
 - vgp
+- t2t
 short_name: mBosTau
 taxon_id: 9913
 ---

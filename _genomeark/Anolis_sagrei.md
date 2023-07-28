@@ -18,8 +18,15 @@ data_illumina-2_links: s3://genomeark/species/Anolis_sagrei/rAnoSag2/genomic_dat
 data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Anolis_sagrei/rAnoSag2/genomic_data/illumina/
 data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anolis_sagrei/rAnoSag2/genomic_data/illumina/
 data_illumina-2_scale: 2.0010
-data_illumina_bases: 117.81 Gbp
-data_illumina_bytes: 54.8 GiB
+data_illumina-3_bases: 123.45 Gbp
+data_illumina-3_bytes: 57.5 GiB
+data_illumina-3_coverage: N/A
+data_illumina-3_links: s3://genomeark/species/Anolis_sagrei/rAnoSag3/genomic_data/illumina/<br>
+data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Anolis_sagrei/rAnoSag3/genomic_data/illumina/
+data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anolis_sagrei/rAnoSag3/genomic_data/illumina/
+data_illumina-3_scale: 1.9986
+data_illumina_bases: 241.26 Gbp
+data_illumina_bytes: 112.4 GiB
 data_illumina_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 68.08 Gbp
 data_pacbiohifi_fqgz-1_bytes: 53.2 GiB
@@ -40,8 +47,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1679717380
-last_updated: 1679717380
+last_raw_data: 1689690031
+last_updated: 1689690031
 name: Anolis sagrei
 name_: Anolis_sagrei
 project: ~

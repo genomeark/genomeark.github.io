@@ -11,16 +11,16 @@ data_arima-2_scale: 3.1536
 data_arima_bases: 250.32 Gbp
 data_arima_bytes: 73.9 GiB
 data_arima_coverage: 131.26x
-data_pacbiohifi_bam-2_bases: 19.59 Gbp
-data_pacbiohifi_bam-2_bytes: 13.4 GiB
-data_pacbiohifi_bam-2_coverage: 10.27x
+data_pacbiohifi_bam-2_bases: 41.93 Gbp
+data_pacbiohifi_bam-2_bytes: 27.9 GiB
+data_pacbiohifi_bam-2_coverage: 21.99x
 data_pacbiohifi_bam-2_links: s3://genomeark/species/Gymnoscopelus_braueri/fGymBra2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gymnoscopelus_braueri/fGymBra2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gymnoscopelus_braueri/fGymBra2/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-2_scale: 1.3624
-data_pacbiohifi_bam_bases: 19.59 Gbp
-data_pacbiohifi_bam_bytes: 13.4 GiB
-data_pacbiohifi_bam_coverage: 10.27x
+data_pacbiohifi_bam-2_scale: 1.4018
+data_pacbiohifi_bam_bases: 41.93 Gbp
+data_pacbiohifi_bam_bytes: 27.9 GiB
+data_pacbiohifi_bam_coverage: 21.99x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1907100000
 genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
-last_raw_data: 1675878507
-last_updated: 1675878509
+last_raw_data: 1689690037
+last_updated: 1689690037
 metadata: |
   species:
     short_name: fGymBra

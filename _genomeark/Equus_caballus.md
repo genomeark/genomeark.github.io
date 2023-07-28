@@ -49,6 +49,16 @@ data_illumina:mEquAca1_scale: 2.1571
 data_illumina_bases: 543.29 Gbp
 data_illumina_bytes: 243.5 GiB
 data_illumina_coverage: 174.69x
+data_ont:mEquAca1_bases: 215.93 Gbp
+data_ont:mEquAca1_bytes: 173.9 GiB
+data_ont:mEquAca1_coverage: 69.43x
+data_ont:mEquAca1_links: s3://genomeark/species/Equus_caballus/mEquAca1/genomic_data/ont/<br>
+data_ont:mEquAca1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Equus_caballus/mEquAca1/genomic_data/ont/
+data_ont:mEquAca1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Equus_caballus/mEquAca1/genomic_data/ont/
+data_ont:mEquAca1_scale: 1.1562
+data_ont_bases: 215.93 Gbp
+data_ont_bytes: 173.9 GiB
+data_ont_coverage: 69.43x
 data_pacbiohifi_fagz:mEquAca1_bases: 133.59 Gbp
 data_pacbiohifi_fagz:mEquAca1_bytes: 43.3 GiB
 data_pacbiohifi_fagz:mEquAca1_coverage: 42.96x
@@ -69,8 +79,8 @@ data_pacbiohifi_fqgz-1_scale: 1.3850
 data_pacbiohifi_fqgz_bases: 101.07 Gbp
 data_pacbiohifi_fqgz_bytes: 68.0 GiB
 data_pacbiohifi_fqgz_coverage: 32.50x
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>
-  ::: <em style="color:forestgreen">Illumina</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
+  Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -78,8 +88,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 3110000000
 genome_size_display: 3.11 Gbp
 genome_size_method: GoaT
-last_raw_data: 1684525804
-last_updated: 1684525804
+last_raw_data: 1689781105
+last_updated: 1689781105
 metadata: "species:\n  name: Equus caballus\n  short_name: mEquCab\n  common_name:
   horse\n  taxon_id: 9796\n  order:\n    name: Perissodactyla\n  family:\n    name:
   Equidae\n  individuals:\n  - \n    short_name: mEquCab1\n    biosample_id: null\n

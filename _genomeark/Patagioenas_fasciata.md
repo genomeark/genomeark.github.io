@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1682018245
-last_updated: 1682018245
+last_raw_data: 1689692633
+last_updated: 1689692633
 name: Patagioenas fasciata
 name_: Patagioenas_fasciata
 project: ~

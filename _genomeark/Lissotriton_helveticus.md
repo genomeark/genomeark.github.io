@@ -11,16 +11,16 @@ data_arima-1_scale: 3.0959
 data_arima_bases: 960.52 Gbp
 data_arima_bytes: 288.9 GiB
 data_arima_coverage: 37.29x
-data_pacbiohifi_bam-1_bases: 249.32 Gbp
-data_pacbiohifi_bam-1_bytes: 260.5 GiB
-data_pacbiohifi_bam-1_coverage: 9.68x
+data_pacbiohifi_bam-1_bases: 339.00 Gbp
+data_pacbiohifi_bam-1_bytes: 314.2 GiB
+data_pacbiohifi_bam-1_coverage: 13.16x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Lissotriton_helveticus/aLisHel1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lissotriton_helveticus/aLisHel1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lissotriton_helveticus/aLisHel1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.8913
-data_pacbiohifi_bam_bases: 249.32 Gbp
-data_pacbiohifi_bam_bytes: 260.5 GiB
-data_pacbiohifi_bam_coverage: 9.68x
+data_pacbiohifi_bam-1_scale: 1.0048
+data_pacbiohifi_bam_bases: 339.00 Gbp
+data_pacbiohifi_bam_bytes: 314.2 GiB
+data_pacbiohifi_bam_coverage: 13.16x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 25760520000
 genome_size_display: 25.76 Gbp
 genome_size_method: GoaT
-last_raw_data: 1688677300
-last_updated: 1688677300
+last_raw_data: 1689582636
+last_updated: 1689582636
 metadata: |
   species:
     short_name: aLisHel
