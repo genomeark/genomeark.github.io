@@ -147,7 +147,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1651627264
-last_updated: 1687532558
+last_updated: 1690320592
 mds:
 - data: "species: Erythrolamprus reginae\nspecimen: rEryReg1\nprojects: \n  - vgp\nhap2:
     s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/assembly_vgp_HiC_2.0/rEryReg1.HiC.hap2.20220929.fasta.gz\npretext_hap2:
@@ -166,7 +166,7 @@ mds:
     the assembly being near to the expected genome size based on the triploid genomescope
     model. This hap2 was scaffolded with HiC data using YAHS, and is what we are submitting
     for curation. "
-  ident: md6
+  ident: md8
   title: assembly_vgp_HiC_2.0/rEryReg1_hap2.yaml
 metadata: |
   species:
