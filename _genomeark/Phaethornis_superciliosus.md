@@ -98,7 +98,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1683873586
-last_updated: 1687530361
+last_updated: 1690971487
 name: Phaethornis superciliosus
 name_: Phaethornis_superciliosus
 project: ~

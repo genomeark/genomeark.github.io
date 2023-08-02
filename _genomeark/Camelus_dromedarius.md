@@ -58,7 +58,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1679420820
-last_updated: 1679420820
+last_updated: 1690570364
 name: Camelus dromedarius
 name_: Camelus_dromedarius
 project: ~

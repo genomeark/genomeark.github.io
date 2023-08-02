@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 65.33 Gbp
 data_arima-1_bytes: 34.8 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-06-17
-hpa1filesize: 374.9 MiB
-hpa1length: '1326380861'
-hpa1n50ctg: 8035883
-hpa1n50scf: 74822163
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/bLepDis1.HiC.hap1.20230617.fasta.gz
+hpa1date: 2023-08-01
+hpa1filesize: 375.3 MiB
+hpa1length: '1327905210'
+hpa1n50ctg: 8029456
+hpa1n50scf: 82108581
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Leptosomus_discolor/bLepDis1/assembly_curated/bLepDis1.hap1.cur.20230801.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 5 </td><td> 22.61 Mbp </td><td> 1 </td><td> 219.10 Mbp </td></tr><tr><td> 20 </td><td> 13 </td><td> 16.74 Mbp </td><td> 2 </td><td> 128.45 Mbp </td></tr><tr><td> 30 </td><td> 22 </td><td> 12.93 Mbp </td><td> 3 </td><td> 94.82 Mbp </td></tr><tr><td> 40 </td><td> 33 </td><td> 10.17 Mbp </td><td> 5 </td><td> 82.11 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 48 </td><td style="background-color:#88ff88;"> 8.04 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 74.82 Mbp </td></tr><tr><td> 60 </td><td> 66 </td><td> 5.77 Mbp </td><td> 8 </td><td> 66.65 Mbp </td></tr><tr><td> 70 </td><td> 92 </td><td> 4.71 Mbp </td><td> 10 </td><td> 49.61 Mbp </td></tr><tr><td> 80 </td><td> 125 </td><td> 3.55 Mbp </td><td> 16 </td><td> 19.00 Mbp </td></tr><tr><td> 90 </td><td> 178 </td><td> 1.70 Mbp </td><td> 28 </td><td> 6.74 Mbp </td></tr><tr><td> 100 </td><td> 625 </td><td> 11.89 Kbp </td><td> 341 </td><td> 11.89 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 6 </td><td> 20.19 Mbp </td><td> 1 </td><td> 219.10 Mbp </td></tr><tr><td> 20 </td><td> 13 </td><td> 16.74 Mbp </td><td> 2 </td><td> 128.45 Mbp </td></tr><tr><td> 30 </td><td> 22 </td><td> 12.93 Mbp </td><td> 3 </td><td> 94.82 Mbp </td></tr><tr><td> 40 </td><td> 33 </td><td> 10.08 Mbp </td><td> 5 </td><td> 83.83 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 48 </td><td style="background-color:#88ff88;"> 8.03 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 82.11 Mbp </td></tr><tr><td> 60 </td><td> 67 </td><td> 5.71 Mbp </td><td> 8 </td><td> 66.65 Mbp </td></tr><tr><td> 70 </td><td> 93 </td><td> 4.63 Mbp </td><td> 10 </td><td> 49.61 Mbp </td></tr><tr><td> 80 </td><td> 126 </td><td> 3.55 Mbp </td><td> 16 </td><td> 19.00 Mbp </td></tr><tr><td> 90 </td><td> 179 </td><td> 1.70 Mbp </td><td> 27 </td><td> 7.22 Mbp </td></tr><tr><td> 100 </td><td> 625 </td><td> 11.89 Kbp </td><td> 335 </td><td> 11.89 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 625 </th><th> 1.33 Gbp </th><th> 341 </th><th> 1.33 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 625 </th><th> 1.33 Gbp </th><th> 335 </th><th> 1.33 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2023-06-17
-hpb1filesize: 372.7 MiB
-hpb1length: '1333606631'
-hpb1n50ctg: 8588060
+hpa1version: assembly_curated
+hpb1date: 2023-08-02
+hpb1filesize: 372.4 MiB
+hpb1length: '1332028070'
+hpb1n50ctg: 8826436
 hpb1n50scf: 82124922
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/bLepDis1.HiC.hap2.20230617.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Leptosomus_discolor/bLepDis1/assembly_curated/bLepDis1.hap2.cur.20230802.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 5 </td><td> 23.16 Mbp </td><td> 1 </td><td> 219.33 Mbp </td></tr><tr><td> 20 </td><td> 11 </td><td> 18.73 Mbp </td><td> 2 </td><td> 128.35 Mbp </td></tr><tr><td> 30 </td><td> 19 </td><td> 15.34 Mbp </td><td> 3 </td><td> 94.22 Mbp </td></tr><tr><td> 40 </td><td> 29 </td><td> 11.01 Mbp </td><td> 5 </td><td> 83.84 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 43 </td><td style="background-color:#88ff88;"> 8.59 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 82.12 Mbp </td></tr><tr><td> 60 </td><td> 60 </td><td> 7.28 Mbp </td><td> 8 </td><td> 66.57 Mbp </td></tr><tr><td> 70 </td><td> 82 </td><td> 5.20 Mbp </td><td> 10 </td><td> 49.44 Mbp </td></tr><tr><td> 80 </td><td> 112 </td><td> 3.55 Mbp </td><td> 15 </td><td> 22.89 Mbp </td></tr><tr><td> 90 </td><td> 162 </td><td> 1.81 Mbp </td><td> 25 </td><td> 6.22 Mbp </td></tr><tr><td> 100 </td><td> 551 </td><td> 11.84 Kbp </td><td> 279 </td><td> 11.84 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 5 </td><td> 23.16 Mbp </td><td> 1 </td><td> 219.33 Mbp </td></tr><tr><td> 20 </td><td> 11 </td><td> 18.73 Mbp </td><td> 2 </td><td> 128.35 Mbp </td></tr><tr><td> 30 </td><td> 19 </td><td> 15.34 Mbp </td><td> 3 </td><td> 94.22 Mbp </td></tr><tr><td> 40 </td><td> 29 </td><td> 11.01 Mbp </td><td> 5 </td><td> 83.84 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 43 </td><td style="background-color:#88ff88;"> 8.83 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 82.12 Mbp </td></tr><tr><td> 60 </td><td> 60 </td><td> 7.28 Mbp </td><td> 8 </td><td> 66.57 Mbp </td></tr><tr><td> 70 </td><td> 81 </td><td> 5.26 Mbp </td><td> 10 </td><td> 49.44 Mbp </td></tr><tr><td> 80 </td><td> 111 </td><td> 3.55 Mbp </td><td> 16 </td><td> 19.45 Mbp </td></tr><tr><td> 90 </td><td> 161 </td><td> 1.81 Mbp </td><td> 26 </td><td> 8.63 Mbp </td></tr><tr><td> 100 </td><td> 548 </td><td> 11.84 Kbp </td><td> 277 </td><td> 11.84 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 551 </th><th> 1.33 Gbp </th><th> 279 </th><th> 1.33 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 548 </th><th> 1.33 Gbp </th><th> 277 </th><th> 1.33 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1684254729
-last_updated: 1687053983
+last_updated: 1690934601
 mds:
 - data: "species: Leptosomus discolor\nspecimen: bLepDis1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/bLepDis1.HiC.hap1.20230617.fasta.gz\nhap2:
@@ -105,7 +105,7 @@ mds:
     yahs. The HiC prep was Arima kit 2. The kmer spectra indicate a homogametic specimen.
     I am submitting both hap1 & hap2 for dual curation. This is a VGP Phase 1 species.
     This is the curation ticket for hap1. "
-  ident: md4
+  ident: md10
   title: assembly_vgp_HiC_2.0/bLepDis1_hap1.yml
 - data: "species: Leptosomus discolor\nspecimen: bLepDis1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/bLepDis1.HiC.hap1.20230617.fasta.gz\nhap2:
@@ -122,7 +122,7 @@ mds:
     yahs. The HiC prep was Arima kit 2. The kmer spectra indicate a homogametic specimen.
     I am submitting both hap1 & hap2 for dual curation. This is a VGP Phase 1 species.
     This is the curation ticket for hap2. "
-  ident: md5
+  ident: md11
   title: assembly_vgp_HiC_2.0/bLepDis1_hap2.yml
 mito1date: 2023-06-17
 mito1filesize: 5.7 KiB

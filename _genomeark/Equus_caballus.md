@@ -89,7 +89,7 @@ genome_size: 3110000000
 genome_size_display: 3.11 Gbp
 genome_size_method: GoaT
 last_raw_data: 1689781105
-last_updated: 1689781105
+last_updated: 1690570607
 metadata: "species:\n  name: Equus caballus\n  short_name: mEquCab\n  common_name:
   horse\n  taxon_id: 9796\n  order:\n    name: Perissodactyla\n  family:\n    name:
   Equidae\n  individuals:\n  - \n    short_name: mEquCab1\n    biosample_id: null\n

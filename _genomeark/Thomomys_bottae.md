@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-2_bases: 354.49 Gbp
 data_arima-2_bytes: 173.2 GiB
@@ -31,12 +31,12 @@ genbank_pri: mThoBot1:GCA_024803745.1
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa2date: 2023-05-03
-hpa2filesize: 537.2 MiB
-hpa2length: '1901113563'
-hpa2n50ctg: 5881517
-hpa2n50scf: 60490657
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/mThoBot2.HiC.hap1.20230503.fasta.gz
+hpa2date: 2023-08-01
+hpa2filesize: 571.0 MiB
+hpa2length: '2018694412'
+hpa2n50ctg: 5921125
+hpa2n50scf: 64418693
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Thomomys_bottae/mThoBot2/assembly_curated/mThoBot2.hap1.cur.20230801.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -54,18 +54,18 @@ hpa2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 10 </td><td> 14.46 Mbp </td><td> 3 </td><td> 86.34 Mbp </td></tr><tr><td> 20 </td><td> 26 </td><td> 10.59 Mbp </td><td> 5 </td><td> 84.78 Mbp </td></tr><tr><td> 30 </td><td> 45 </td><td> 8.85 Mbp </td><td> 7 </td><td> 76.12 Mbp </td></tr><tr><td> 40 </td><td> 69 </td><td> 7.38 Mbp </td><td> 10 </td><td> 66.97 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 98 </td><td style="background-color:#88ff88;"> 5.88 Mbp </td><td> 13 </td><td style="background-color:#88ff88;"> 60.49 Mbp </td></tr><tr><td> 60 </td><td> 134 </td><td> 4.50 Mbp </td><td> 16 </td><td> 51.83 Mbp </td></tr><tr><td> 70 </td><td> 185 </td><td> 3.22 Mbp </td><td> 20 </td><td> 40.20 Mbp </td></tr><tr><td> 80 </td><td> 259 </td><td> 1.93 Mbp </td><td> 26 </td><td> 26.84 Mbp </td></tr><tr><td> 90 </td><td> 397 </td><td> 0.89 Mbp </td><td> 39 </td><td> 7.45 Mbp </td></tr><tr><td> 100 </td><td> 1438 </td><td> 11.06 Kbp </td><td> 703 </td><td> 11.06 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 10 </td><td> 15.77 Mbp </td><td> 2 </td><td> 106.04 Mbp </td></tr><tr><td> 20 </td><td> 26 </td><td> 10.88 Mbp </td><td> 5 </td><td> 86.34 Mbp </td></tr><tr><td> 30 </td><td> 46 </td><td> 9.06 Mbp </td><td> 7 </td><td> 84.78 Mbp </td></tr><tr><td> 40 </td><td> 71 </td><td> 7.36 Mbp </td><td> 9 </td><td> 71.53 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 102 </td><td style="background-color:#88ff88;"> 5.92 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 64.42 Mbp </td></tr><tr><td> 60 </td><td> 140 </td><td> 4.57 Mbp </td><td> 16 </td><td> 59.48 Mbp </td></tr><tr><td> 70 </td><td> 192 </td><td> 3.23 Mbp </td><td> 20 </td><td> 48.60 Mbp </td></tr><tr><td> 80 </td><td> 269 </td><td> 2.00 Mbp </td><td> 25 </td><td> 28.37 Mbp </td></tr><tr><td> 90 </td><td> 409 </td><td> 0.93 Mbp </td><td> 36 </td><td> 7.95 Mbp </td></tr><tr><td> 100 </td><td> 1401 </td><td> 11.06 Kbp </td><td> 626 </td><td> 11.06 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1438 </th><th> 1.90 Gbp </th><th> 703 </th><th> 1.90 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 1401 </th><th> 2.02 Gbp </th><th> 626 </th><th> 2.02 Gbp </th></tr>
   </tfoot>
   </table>
-hpa2version: assembly_vgp_HiC_2.0
-hpb2date: 2023-05-03
-hpb2filesize: 569.8 MiB
-hpb2length: '1998645641'
-hpb2n50ctg: 6136292
-hpb2n50scf: 64567486
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/mThoBot2.HiC.hap2.20230503.fasta.gz
+hpa2version: assembly_curated
+hpb2date: 2023-08-01
+hpb2filesize: 533.5 MiB
+hpb2length: '1872309862'
+hpb2n50ctg: 6183328
+hpb2n50scf: 61325068
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Thomomys_bottae/mThoBot2/assembly_curated/mThoBot2.hap2.cur.20230801.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -83,14 +83,14 @@ hpb2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 10 </td><td> 17.34 Mbp </td><td> 2 </td><td> 106.22 Mbp </td></tr><tr><td> 20 </td><td> 24 </td><td> 11.93 Mbp </td><td> 5 </td><td> 85.91 Mbp </td></tr><tr><td> 30 </td><td> 43 </td><td> 9.30 Mbp </td><td> 7 </td><td> 82.32 Mbp </td></tr><tr><td> 40 </td><td> 67 </td><td> 7.57 Mbp </td><td> 9 </td><td> 71.63 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 96 </td><td style="background-color:#88ff88;"> 6.14 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 64.57 Mbp </td></tr><tr><td> 60 </td><td> 133 </td><td> 4.82 Mbp </td><td> 16 </td><td> 59.15 Mbp </td></tr><tr><td> 70 </td><td> 180 </td><td> 3.76 Mbp </td><td> 19 </td><td> 50.19 Mbp </td></tr><tr><td> 80 </td><td> 243 </td><td> 2.56 Mbp </td><td> 24 </td><td> 31.63 Mbp </td></tr><tr><td> 90 </td><td> 347 </td><td> 1.31 Mbp </td><td> 35 </td><td> 10.87 Mbp </td></tr><tr><td> 100 </td><td> 915 </td><td> 14.78 Kbp </td><td> 360 </td><td> 14.78 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 10 </td><td> 16.18 Mbp </td><td> 2 </td><td> 102.36 Mbp </td></tr><tr><td> 20 </td><td> 23 </td><td> 11.73 Mbp </td><td> 4 </td><td> 86.10 Mbp </td></tr><tr><td> 30 </td><td> 42 </td><td> 8.82 Mbp </td><td> 7 </td><td> 82.32 Mbp </td></tr><tr><td> 40 </td><td> 64 </td><td> 7.61 Mbp </td><td> 9 </td><td> 69.54 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 92 </td><td style="background-color:#88ff88;"> 6.18 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 61.33 Mbp </td></tr><tr><td> 60 </td><td> 126 </td><td> 4.78 Mbp </td><td> 15 </td><td> 59.15 Mbp </td></tr><tr><td> 70 </td><td> 170 </td><td> 3.73 Mbp </td><td> 18 </td><td> 50.19 Mbp </td></tr><tr><td> 80 </td><td> 230 </td><td> 2.56 Mbp </td><td> 23 </td><td> 31.63 Mbp </td></tr><tr><td> 90 </td><td> 329 </td><td> 1.24 Mbp </td><td> 32 </td><td> 11.83 Mbp </td></tr><tr><td> 100 </td><td> 878 </td><td> 14.78 Kbp </td><td> 337 </td><td> 14.78 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 915 </th><th> 2.00 Gbp </th><th> 360 </th><th> 2.00 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 878 </th><th> 1.87 Gbp </th><th> 337 </th><th> 1.87 Gbp </th></tr>
   </tfoot>
   </table>
-hpb2version: assembly_vgp_HiC_2.0
+hpb2version: assembly_curated
 last_raw_data: 1678817159
-last_updated: 1683232574
+last_updated: 1690848358
 mds:
 - data: "species: Thomomys bottae\nspecimen: mThoBot2\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/mThoBot2.HiC.hap1.20230503.fasta.gz\nhap2:
@@ -107,7 +107,7 @@ mds:
     two complete haplotypes. This individual did not have bionano data. HiC scaffolding
     was performed with yahs. The HiC prep was Arima kit 2. I am submitting both hap1
     & hap2 for dual curation. This is the curation ticket for hap1. "
-  ident: md4
+  ident: md10
   title: assembly_vgp_HiC_2.0/mThoBot2_hap1.yml
 - data: "species: Thomomys bottae\nspecimen: mThoBot2\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/mThoBot2.HiC.hap1.20230503.fasta.gz\nhap2:
@@ -124,7 +124,7 @@ mds:
     two complete haplotypes. This individual did not have bionano data. HiC scaffolding
     was performed with yahs. The HiC prep was Arima kit 2. I am submitting both hap1
     & hap2 for dual curation. This is the curation ticket for hap2. "
-  ident: md5
+  ident: md11
   title: assembly_vgp_HiC_2.0/mThoBot2_hap2.yml
 mito2date: 2023-05-04
 mito2filesize: 5.4 KiB
