@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 121.26 Gbp
 data_arima-1_bytes: 59.0 GiB
@@ -39,12 +39,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-02-27
-hpa1filesize: 360.1 MiB
-hpa1length: '1348465036'
-hpa1n50ctg: 16855523
-hpa1n50scf: 78072963
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/bOpiHoa1.HiC.hap1.20230227.fasta.gz
+hpa1date: 2023-08-03
+hpa1filesize: 397.4 MiB
+hpa1length: '1482459898'
+hpa1n50ctg: 14274197
+hpa1n50scf: 80946297
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_curated/bOpiHoa1.hap1.cur.20230803.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -62,18 +62,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 40.42 Mbp </td><td> 0 </td><td> 155.73 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 27.32 Mbp </td><td> 1 </td><td> 132.85 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 23.03 Mbp </td><td> 3 </td><td> 94.47 Mbp </td></tr><tr><td> 40 </td><td> 17 </td><td> 19.72 Mbp </td><td> 4 </td><td> 88.57 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 25 </td><td style="background-color:#88ff88;"> 16.86 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 78.07 Mbp </td></tr><tr><td> 60 </td><td> 35 </td><td> 10.47 Mbp </td><td> 7 </td><td> 75.34 Mbp </td></tr><tr><td> 70 </td><td> 51 </td><td> 6.89 Mbp </td><td> 11 </td><td> 30.18 Mbp </td></tr><tr><td> 80 </td><td> 74 </td><td> 4.76 Mbp </td><td> 17 </td><td> 18.59 Mbp </td></tr><tr><td> 90 </td><td> 112 </td><td> 2.41 Mbp </td><td> 27 </td><td> 8.36 Mbp </td></tr><tr><td> 100 </td><td> 646 </td><td> 14.50 Kbp </td><td> 451 </td><td> 14.50 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 40.42 Mbp </td><td> 1 </td><td> 157.52 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 26.46 Mbp </td><td> 3 </td><td> 109.48 Mbp </td></tr><tr><td> 30 </td><td> 14 </td><td> 21.99 Mbp </td><td> 4 </td><td> 96.05 Mbp </td></tr><tr><td> 40 </td><td> 21 </td><td> 18.59 Mbp </td><td> 6 </td><td> 88.57 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 30 </td><td style="background-color:#88ff88;"> 14.27 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 80.95 Mbp </td></tr><tr><td> 60 </td><td> 43 </td><td> 9.35 Mbp </td><td> 9 </td><td> 75.34 Mbp </td></tr><tr><td> 70 </td><td> 62 </td><td> 6.30 Mbp </td><td> 13 </td><td> 30.29 Mbp </td></tr><tr><td> 80 </td><td> 90 </td><td> 4.30 Mbp </td><td> 18 </td><td> 22.22 Mbp </td></tr><tr><td> 90 </td><td> 138 </td><td> 2.17 Mbp </td><td> 26 </td><td> 12.43 Mbp </td></tr><tr><td> 100 </td><td> 683 </td><td> 14.50 Kbp </td><td> 415 </td><td> 14.50 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 647 </th><th> 1.35 Gbp </th><th> 452 </th><th> 1.35 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 683 </th><th> 1.48 Gbp </th><th> 415 </th><th> 1.48 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2023-02-27
-hpb1filesize: 395.8 MiB
-hpb1length: '1490665759'
-hpb1n50ctg: 13019169
-hpb1n50scf: 81074052
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/bOpiHoa1.HiC.hap2.20230227.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2023-08-03
+hpb1filesize: 358.3 MiB
+hpb1length: '1355639139'
+hpb1n50ctg: 13957079
+hpb1n50scf: 75689470
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_curated/bOpiHoa1.hap2.cur.20230803.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -91,14 +91,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 33.48 Mbp </td><td> 0 </td><td> 155.77 Mbp </td></tr><tr><td> 20 </td><td> 9 </td><td> 25.56 Mbp </td><td> 2 </td><td> 108.31 Mbp </td></tr><tr><td> 30 </td><td> 15 </td><td> 20.65 Mbp </td><td> 3 </td><td> 96.00 Mbp </td></tr><tr><td> 40 </td><td> 23 </td><td> 15.83 Mbp </td><td> 5 </td><td> 88.44 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 34 </td><td style="background-color:#88ff88;"> 13.02 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 81.07 Mbp </td></tr><tr><td> 60 </td><td> 46 </td><td> 10.22 Mbp </td><td> 8 </td><td> 73.52 Mbp </td></tr><tr><td> 70 </td><td> 64 </td><td> 7.12 Mbp </td><td> 12 </td><td> 30.39 Mbp </td></tr><tr><td> 80 </td><td> 92 </td><td> 4.29 Mbp </td><td> 18 </td><td> 23.40 Mbp </td></tr><tr><td> 90 </td><td> 144 </td><td> 1.87 Mbp </td><td> 27 </td><td> 9.91 Mbp </td></tr><tr><td> 100 </td><td> 585 </td><td> 15.49 Kbp </td><td> 347 </td><td> 15.49 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 33.48 Mbp </td><td> 1 </td><td> 156.93 Mbp </td></tr><tr><td> 20 </td><td> 9 </td><td> 25.59 Mbp </td><td> 2 </td><td> 133.21 Mbp </td></tr><tr><td> 30 </td><td> 14 </td><td> 22.33 Mbp </td><td> 4 </td><td> 96.35 Mbp </td></tr><tr><td> 40 </td><td> 21 </td><td> 18.74 Mbp </td><td> 5 </td><td> 88.44 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 30 </td><td style="background-color:#88ff88;"> 13.96 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 75.69 Mbp </td></tr><tr><td> 60 </td><td> 40 </td><td> 11.16 Mbp </td><td> 8 </td><td> 74.87 Mbp </td></tr><tr><td> 70 </td><td> 55 </td><td> 7.66 Mbp </td><td> 12 </td><td> 30.14 Mbp </td></tr><tr><td> 80 </td><td> 77 </td><td> 4.60 Mbp </td><td> 18 </td><td> 19.43 Mbp </td></tr><tr><td> 90 </td><td> 120 </td><td> 2.07 Mbp </td><td> 27 </td><td> 9.91 Mbp </td></tr><tr><td> 100 </td><td> 535 </td><td> 15.49 Kbp </td><td> 323 </td><td> 15.49 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 586 </th><th> 1.49 Gbp </th><th> 348 </th><th> 1.49 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 535 </th><th> 1.36 Gbp </th><th> 323 </th><th> 1.36 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1674520386
-last_updated: 1677515639
+last_updated: 1691021004
 mds:
 - data: "species: Opisthocomus hoazin\nspecimen: bOpiHoa1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/bOpiHoa1.HiC.hap1.20230227.fasta.gz\nhap2:
@@ -119,7 +119,7 @@ mds:
     in this ticket for help with mitochondrial decontam, but the final mitogenome
     we upload may differ as we want to verify the presence of a large repeat in the
     mito assembly."
-  ident: md2
+  ident: md8
   title: assembly_vgp_HiC_2.0/bOpiHoa1_hap1.yml
 - data: "species: Opisthocomus hoazin\nspecimen: bOpiHoa1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/bOpiHoa1.HiC.hap1.20230227.fasta.gz\nhap2:
@@ -140,7 +140,7 @@ mds:
     in this ticket for help with mitochondrial decontam, but the final mitogenome
     we upload may differ as we want to verify the presence of a large repeat in the
     mito assembly."
-  ident: md3
+  ident: md9
   title: assembly_vgp_HiC_2.0/bOpiHoa1_hap2.yml
 name: Opisthocomus hoazin
 name_: Opisthocomus_hoazin
