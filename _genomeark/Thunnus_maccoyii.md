@@ -72,7 +72,7 @@ genome_size: 782423977
 genome_size_display: 0.78 Gbp
 genome_size_method: ''
 last_raw_data: 1651600358
-last_updated: 1651600358
+last_updated: 1691668929
 metadata: |
   species:
     short_name: fThuMac
@@ -90,6 +90,35 @@ metadata: |
     genome_size:
     genome_size_method:
     project: [ vgp ]
+mito1date: 2021-01-29
+mito1filesize: 5.4 KiB
+mito1length: '16525'
+mito1n50ctg: 16525
+mito1n50scf: 16525
+mito1seq: https://s3.amazonaws.com/genomeark/species/Thunnus_maccoyii/fThuMac1/assembly_MT_cambridge/fThuMac1.MT.20210129.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.53 Kbp </td><td> 1 </td><td> 16.53 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.53 Kbp </td><td> 1 </td><td> 16.53 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.53 Kbp </td><td> 1 </td><td> 16.53 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.53 Kbp </td><td> 1 </td><td> 16.53 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.53 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.53 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.53 Kbp </td><td> 1 </td><td> 16.53 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.53 Kbp </td><td> 1 </td><td> 16.53 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.53 Kbp </td><td> 1 </td><td> 16.53 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.53 Kbp </td><td> 1 </td><td> 16.53 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.53 Kbp </td><td> 1 </td><td> 16.53 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.53 Kbp </th><th> 1 </th><th> 16.53 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_cambridge
 name: Thunnus maccoyii
 name_: Thunnus_maccoyii
 pri1date: 2021-04-07

@@ -72,7 +72,7 @@ genome_size: 792117861
 genome_size_display: 0.79 Gbp
 genome_size_method: ''
 last_raw_data: 1675853448
-last_updated: 1675853448
+last_updated: 1691668946
 metadata: |
   species:
     short_name: fThuAlb

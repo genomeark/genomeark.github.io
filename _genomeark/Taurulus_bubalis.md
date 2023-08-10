@@ -72,7 +72,7 @@ genome_size: 615153901
 genome_size_display: 0.62 Gbp
 genome_size_method: ''
 last_raw_data: 1651599331
-last_updated: 1651599331
+last_updated: 1691669073
 metadata: |
   species:
     short_name: fTauBub
@@ -90,6 +90,35 @@ metadata: |
     genome_size:
     genome_size_method:
     project: [ vgp ]
+mito2date: 2021-02-23
+mito2filesize: 5.4 KiB
+mito2length: '16828'
+mito2n50ctg: 16828
+mito2n50scf: 16828
+mito2seq: https://s3.amazonaws.com/genomeark/species/Taurulus_bubalis/fTauBub2/assembly_MT_cambridge/fTauBub2.MT.20210223.fasta.gz
+mito2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.83 Kbp </td><td> 1 </td><td> 16.83 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.83 Kbp </td><td> 1 </td><td> 16.83 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.83 Kbp </td><td> 1 </td><td> 16.83 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.83 Kbp </td><td> 1 </td><td> 16.83 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.83 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.83 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.83 Kbp </td><td> 1 </td><td> 16.83 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.83 Kbp </td><td> 1 </td><td> 16.83 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.83 Kbp </td><td> 1 </td><td> 16.83 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.83 Kbp </td><td> 1 </td><td> 16.83 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.83 Kbp </td><td> 1 </td><td> 16.83 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.83 Kbp </th><th> 1 </th><th> 16.83 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito2version: assembly_MT_cambridge
 name: Taurulus bubalis
 name_: Taurulus_bubalis
 pri2date: 2021-05-24

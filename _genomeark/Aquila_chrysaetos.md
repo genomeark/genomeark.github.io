@@ -82,7 +82,7 @@ genome_size: 1203454851
 genome_size_display: 1.20 Gbp
 genome_size_method: ''
 last_raw_data: 1554458077
-last_updated: 1570719699
+last_updated: 1691669686
 metadata: |
   species:
     short_name: bAquChr

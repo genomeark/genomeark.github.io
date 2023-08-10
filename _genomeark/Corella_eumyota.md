@@ -59,7 +59,7 @@ genome_size: 151590000
 genome_size_display: 151.59 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675923172
-last_updated: 1691193744
+last_updated: 1691193729
 metadata: |
   species:
     short_name: kaCorEumy
