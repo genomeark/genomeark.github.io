@@ -1,5 +1,34 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+alt2date: 2023-05-03
+alt2filesize: 374.4 MiB
+alt2length: '1372363969'
+alt2n50ctg: '1399184'
+alt2n50scf: '1399184'
+alt2seq: https://s3.amazonaws.com/genomeark/species/Podarcis_cretensis/rPodCre2/assembly_cambridge/rPodCre2.alt.asm.20230503.fasta.gz
+alt2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 32 </td><td> 4.92 Mbp </td><td> 32 </td><td> 4.92 Mbp </td></tr><tr><td> 20 </td><td> 78 </td><td> 3.58 Mbp </td><td> 78 </td><td> 3.58 Mbp </td></tr><tr><td> 30 </td><td> 139 </td><td> 2.80 Mbp </td><td> 139 </td><td> 2.80 Mbp </td></tr><tr><td> 40 </td><td> 221 </td><td> 1.99 Mbp </td><td> 221 </td><td> 1.99 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 337 </td><td> 1.40 Mbp </td><td> 337 </td><td> 1.40 Mbp </td></tr><tr><td> 60 </td><td> 517 </td><td> 0.81 Mbp </td><td> 517 </td><td> 0.81 Mbp </td></tr><tr><td> 70 </td><td> 1242 </td><td> 37.18 Kbp </td><td> 1242 </td><td> 37.18 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.710x </th><th> 1937 </th><th> 1.37 Gbp </th><th> 1937 </th><th> 1.37 Gbp </th></tr>
+  </tfoot>
+  </table>
+alt2version: assembly_cambridge
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: cretan wall lizard
 data_arima-1_bases: 419.49 Gbp
 data_arima-1_bytes: 126.1 GiB
@@ -39,7 +68,7 @@ genome_size: 1932772500
 genome_size_display: 1.93 Gbp
 genome_size_method: GoaT
 last_raw_data: 1682198680
-last_updated: 1682198680
+last_updated: 1691520840
 metadata: |
   species:
     short_name: rPodCre
@@ -60,8 +89,66 @@ metadata: |
     genome_size: 1932772500
     genome_size_method: GoaT
     project: [ vgp ]
+mito2date: 2023-05-03
+mito2filesize: 5.3 KiB
+mito2length: '17088'
+mito2n50ctg: 0
+mito2n50scf: 0
+mito2seq: https://s3.amazonaws.com/genomeark/species/Podarcis_cretensis/rPodCre2/assembly_MT_cambridge/rPodCre2.MT.20230503.fasta.gz
+mito2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 17.09 Kbp </th><th> 1 </th><th> 17.09 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito2version: assembly_MT_cambridge
 name: Podarcis cretensis
 name_: Podarcis_cretensis
+pri2date: 2023-05-03
+pri2filesize: 436.3 MiB
+pri2length: '1508083246'
+pri2n50ctg: 51106297
+pri2n50scf: 81674400
+pri2seq: https://s3.amazonaws.com/genomeark/species/Podarcis_cretensis/rPodCre2/assembly_cambridge/rPodCre2.pri.asm.20230503.fasta.gz
+pri2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 116.66 Mbp </td><td> 2 </td><td> 128.45 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 89.54 Mbp </td><td> 3 </td><td> 126.79 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 78.54 Mbp </td><td> 5 </td><td> 103.04 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 63.19 Mbp </td><td> 7 </td><td> 94.62 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 51.11 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 81.67 Mbp </td></tr><tr><td> 60 </td><td> 17 </td><td> 34.45 Mbp </td><td> 12 </td><td> 63.68 Mbp </td></tr><tr><td> 70 </td><td> 28 </td><td> 11.80 Mbp </td><td> 16 </td><td> 46.26 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.780x </th><th> 99 </th><th> 1.51 Gbp </th><th> 55 </th><th> 1.51 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri2version: assembly_cambridge
 project:
 - vgp
 short_name: rPodCre

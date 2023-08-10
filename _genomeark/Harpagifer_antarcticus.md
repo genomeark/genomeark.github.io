@@ -11,16 +11,16 @@ data_arima-1_scale: 3.1634
 data_arima_bases: 226.73 Gbp
 data_arima_bytes: 66.8 GiB
 data_arima_coverage: 138.82x
-data_pacbiohifi_bam-1_bases: 10.31 Gbp
-data_pacbiohifi_bam-1_bytes: 5.5 GiB
-data_pacbiohifi_bam-1_coverage: 6.31x
+data_pacbiohifi_bam-1_bases: 10.56 Gbp
+data_pacbiohifi_bam-1_bytes: 5.6 GiB
+data_pacbiohifi_bam-1_coverage: 6.46x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Harpagifer_antarcticus/fHarAnt1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Harpagifer_antarcticus/fHarAnt1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Harpagifer_antarcticus/fHarAnt1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 1.7490
-data_pacbiohifi_bam_bases: 10.31 Gbp
-data_pacbiohifi_bam_bytes: 5.5 GiB
-data_pacbiohifi_bam_coverage: 6.31x
+data_pacbiohifi_bam-1_scale: 1.7655
+data_pacbiohifi_bam_bases: 10.56 Gbp
+data_pacbiohifi_bam_bytes: 5.6 GiB
+data_pacbiohifi_bam_coverage: 6.46x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1633260000
 genome_size_display: 1.63 Gbp
 genome_size_method: GoaT
-last_raw_data: 1675893758
-last_updated: 1675893759
+last_raw_data: 1691524096
+last_updated: 1691524096
 metadata: |
   species:
     short_name: fHarAnt

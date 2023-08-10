@@ -1,10 +1,10 @@
 ---
-alt4date: 2023-02-10
-alt4filesize: 754.5 KiB
-alt4length: '4151312'
+alt4date: 2023-08-05
+alt4filesize: 617.8 KiB
+alt4length: '2977316'
 alt4n50ctg: 0
 alt4n50scf: 0
-alt4seq: https://s3.amazonaws.com/genomeark/species/Corella_eumyota/kaCorEumy4/assembly_cambridge/kaCorEumy4.alt.asm.20230210.fasta.gz
+alt4seq: https://s3.amazonaws.com/genomeark/species/Corella_eumyota/kaCorEumy4/assembly_curated/kaCorEumy4.alt.cur.20230805.fasta.gz
 alt4sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -24,11 +24,11 @@ alt4sizes: |
   <tbody>
   <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.027x </th><th> 119 </th><th> 4.15 Mbp </th><th> 119 </th><th> 4.15 Mbp </th></tr>
+  <tr><th> 0.020x </th><th> 70 </th><th> 2.98 Mbp </th><th> 70 </th><th> 2.98 Mbp </th></tr>
   </tfoot>
   </table>
-alt4version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt4version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Orange-tipped sea squirt
 data_arima-4_bases: 108.00 Gbp
 data_arima-4_bytes: 32.3 GiB
@@ -59,7 +59,7 @@ genome_size: 151590000
 genome_size_display: 151.59 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675923172
-last_updated: 1688994440
+last_updated: 1691193744
 metadata: |
   species:
     short_name: kaCorEumy
@@ -108,12 +108,12 @@ mito4sizes: |
 mito4version: assembly_MT_cambridge
 name: Corella eumyota
 name_: Corella_eumyota
-pri4date: 2023-02-10
-pri4filesize: 36.3 MiB
-pri4length: '137920720'
-pri4n50ctg: 5034709
-pri4n50scf: 10061523
-pri4seq: https://s3.amazonaws.com/genomeark/species/Corella_eumyota/kaCorEumy4/assembly_cambridge/kaCorEumy4.pri.asm.20230210.fasta.gz
+pri4date: 2023-08-05
+pri4filesize: 33.1 MiB
+pri4length: '129324498'
+pri4n50ctg: 4286125
+pri4n50scf: 17829320
+pri4seq: https://s3.amazonaws.com/genomeark/species/Corella_eumyota/kaCorEumy4/assembly_curated/kaCorEumy4.pri.cur.20230805.fasta.gz
 pri4sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ pri4sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 11.68 Mbp </td><td> 1 </td><td> 23.72 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 9.39 Mbp </td><td> 2 </td><td> 21.79 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 8.20 Mbp </td><td> 2 </td><td> 21.79 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 7.10 Mbp </td><td> 3 </td><td> 17.83 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 5.03 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 10.06 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 4.14 Mbp </td><td> 6 </td><td> 8.48 Mbp </td></tr><tr><td> 70 </td><td> 18 </td><td> 2.33 Mbp </td><td> 8 </td><td> 6.51 Mbp </td></tr><tr><td> 80 </td><td> 26 </td><td> 1.30 Mbp </td><td> 12 </td><td> 3.17 Mbp </td></tr><tr><td> 90 </td><td> 257 </td><td> 16.24 Kbp </td><td> 231 </td><td> 16.24 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 11.68 Mbp </td><td> 1 </td><td> 23.72 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 9.39 Mbp </td><td> 2 </td><td> 21.79 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 7.13 Mbp </td><td> 2 </td><td> 21.79 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 5.75 Mbp </td><td> 3 </td><td> 20.55 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 4.29 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 17.83 Mbp </td></tr><tr><td> 60 </td><td> 15 </td><td> 2.66 Mbp </td><td> 5 </td><td> 15.63 Mbp </td></tr><tr><td> 70 </td><td> 21 </td><td> 1.71 Mbp </td><td> 6 </td><td> 15.52 Mbp </td></tr><tr><td> 80 </td><td> 41 </td><td> 247.13 Kbp </td><td> 7 </td><td> 12.49 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.910x </th><th> 362 </th><th> 137.92 Mbp </th><th> 336 </th><th> 137.92 Mbp </th></tr>
+  <tr><th> 0.853x </th><th> 349 </th><th> 129.28 Mbp </th><th> 105 </th><th> 129.32 Mbp </th></tr>
   </tfoot>
   </table>
-pri4version: assembly_cambridge
+pri4version: assembly_curated
 project:
 - vgp
 short_name: kaCorEumy

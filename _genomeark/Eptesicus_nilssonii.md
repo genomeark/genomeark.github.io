@@ -1,5 +1,34 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+alt1date: 2023-05-07
+alt1filesize: 511.8 MiB
+alt1length: '1884798257'
+alt1n50ctg: '633157'
+alt1n50scf: '633157'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Eptesicus_nilssonii/mEptNil1/assembly_cambridge/mEptNil1.alt.asm.20230507.fasta.gz
+alt1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 97 </td><td> 1.87 Mbp </td><td> 97 </td><td> 1.87 Mbp </td></tr><tr><td> 20 </td><td> 248 </td><td> 1.35 Mbp </td><td> 248 </td><td> 1.35 Mbp </td></tr><tr><td> 30 </td><td> 447 </td><td> 1.06 Mbp </td><td> 447 </td><td> 1.06 Mbp </td></tr><tr><td> 40 </td><td> 700 </td><td> 0.83 Mbp </td><td> 700 </td><td> 0.83 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1027 </td><td> 0.63 Mbp </td><td> 1027 </td><td> 0.63 Mbp </td></tr><tr><td> 60 </td><td> 1477 </td><td> 442.93 Kbp </td><td> 1477 </td><td> 442.93 Kbp </td></tr><tr><td> 70 </td><td> 2183 </td><td> 243.69 Kbp </td><td> 2183 </td><td> 243.69 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.791x </th><th> 4893 </th><th> 1.88 Gbp </th><th> 4893 </th><th> 1.88 Gbp </th></tr>
+  </tfoot>
+  </table>
+alt1version: assembly_cambridge
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: northern bat
 data_arima-1_bases: 252.25 Gbp
 data_arima-1_bytes: 75.2 GiB
@@ -32,7 +61,7 @@ genome_size: 2383875000
 genome_size_display: 2.38 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687192022
-last_updated: 1687192022
+last_updated: 1691521081
 metadata: |
   species:
     short_name: mEptNil
@@ -50,8 +79,66 @@ metadata: |
     genome_size: 2383875000
     genome_size_method: GoaT
     project: [ vgp ]
+mito1date: 2023-05-07
+mito1filesize: 5.3 KiB
+mito1length: '17039'
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Eptesicus_nilssonii/mEptNil1/assembly_MT_cambridge/mEptNil1.MT.20230507.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 17.04 Kbp </th><th> 1 </th><th> 17.04 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_cambridge
 name: Eptesicus nilssonii
 name_: Eptesicus_nilssonii
+pri1date: 2023-05-07
+pri1filesize: 590.7 MiB
+pri1length: '2081221059'
+pri1n50ctg: 2058440
+pri1n50scf: 95299571
+pri1seq: https://s3.amazonaws.com/genomeark/species/Eptesicus_nilssonii/mEptNil1/assembly_cambridge/mEptNil1.pri.asm.20230507.fasta.gz
+pri1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 32 </td><td> 5.92 Mbp </td><td> 2 </td><td> 118.31 Mbp </td></tr><tr><td> 20 </td><td> 79 </td><td> 4.43 Mbp </td><td> 4 </td><td> 112.64 Mbp </td></tr><tr><td> 30 </td><td> 143 </td><td> 3.18 Mbp </td><td> 7 </td><td> 107.51 Mbp </td></tr><tr><td> 40 </td><td> 226 </td><td> 2.62 Mbp </td><td> 9 </td><td> 103.32 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 328 </td><td style="background-color:#88ff88;"> 2.06 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 95.30 Mbp </td></tr><tr><td> 60 </td><td> 459 </td><td> 1.59 Mbp </td><td> 14 </td><td> 82.70 Mbp </td></tr><tr><td> 70 </td><td> 639 </td><td> 1.10 Mbp </td><td> 17 </td><td> 62.26 Mbp </td></tr><tr><td> 80 </td><td> 917 </td><td> 0.62 Mbp </td><td> 22 </td><td> 45.10 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.873x </th><th> 1675 </th><th> 2.08 Gbp </th><th> 276 </th><th> 2.08 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri1version: assembly_cambridge
 project:
 - vgp
 short_name: mEptNil

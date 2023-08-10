@@ -1,5 +1,34 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+alt2date: 2023-01-26
+alt2filesize: 107.2 MiB
+alt2length: '412716479'
+alt2n50ctg: '222403'
+alt2n50scf: '222403'
+alt2seq: https://s3.amazonaws.com/genomeark/species/Pungitius_pungitius/fPunPun2/assembly_cambridge/fPunPun2.alt.asm.20230126.fasta.gz
+alt2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 32 </td><td> 1.51 Mbp </td><td> 32 </td><td> 1.51 Mbp </td></tr><tr><td> 20 </td><td> 85 </td><td> 0.92 Mbp </td><td> 85 </td><td> 0.92 Mbp </td></tr><tr><td> 30 </td><td> 170 </td><td> 0.62 Mbp </td><td> 170 </td><td> 0.62 Mbp </td></tr><tr><td> 40 </td><td> 300 </td><td> 387.04 Kbp </td><td> 300 </td><td> 387.04 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 512 </td><td> 222.40 Kbp </td><td> 512 </td><td> 222.40 Kbp </td></tr><tr><td> 60 </td><td> 960 </td><td> 80.13 Kbp </td><td> 960 </td><td> 80.13 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.659x </th><th> 1933 </th><th> 412.72 Mbp </th><th> 1933 </th><th> 412.72 Mbp </th></tr>
+  </tfoot>
+  </table>
+alt2version: assembly_cambridge
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ninespine stickleback
 data_arima-2_bases: 108.54 Gbp
 data_arima-2_bytes: 33.3 GiB
@@ -32,7 +61,7 @@ genome_size: 625920000
 genome_size_display: 0.63 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675917579
-last_updated: 1675917580
+last_updated: 1691521313
 metadata: |
   species:
     short_name: fPunPun
@@ -50,8 +79,66 @@ metadata: |
     genome_size: 625920000
     genome_size_method: GoaT
     project: [ vgp ]
+mito2date: 2023-01-26
+mito2filesize: 5.3 KiB
+mito2length: '16574'
+mito2n50ctg: 0
+mito2n50scf: 0
+mito2seq: https://s3.amazonaws.com/genomeark/species/Pungitius_pungitius/fPunPun2/assembly_MT_cambridge/fPunPun2.MT.20230126.fasta.gz
+mito2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.57 Kbp </th><th> 1 </th><th> 16.57 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito2version: assembly_MT_cambridge
 name: Pungitius pungitius
 name_: Pungitius_pungitius
+pri2date: 2023-01-26
+pri2filesize: 134.2 MiB
+pri2length: '481074900'
+pri2n50ctg: 916480
+pri2n50scf: 19551821
+pri2seq: https://s3.amazonaws.com/genomeark/species/Pungitius_pungitius/fPunPun2/assembly_cambridge/fPunPun2.pri.asm.20230126.fasta.gz
+pri2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 12 </td><td> 3.69 Mbp </td><td> 2 </td><td> 34.23 Mbp </td></tr><tr><td> 20 </td><td> 33 </td><td> 2.66 Mbp </td><td> 5 </td><td> 24.13 Mbp </td></tr><tr><td> 30 </td><td> 62 </td><td> 1.72 Mbp </td><td> 7 </td><td> 22.49 Mbp </td></tr><tr><td> 40 </td><td> 105 </td><td> 1.29 Mbp </td><td> 10 </td><td> 20.22 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 162 </td><td style="background-color:#ff8888;"> 0.92 Mbp </td><td> 13 </td><td style="background-color:#88ff88;"> 19.55 Mbp </td></tr><tr><td> 60 </td><td> 247 </td><td> 0.61 Mbp </td><td> 17 </td><td> 18.00 Mbp </td></tr><tr><td> 70 </td><td> 408 </td><td> 238.70 Kbp </td><td> 20 </td><td> 16.40 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.768x </th><th> 913 </th><th> 480.93 Mbp </th><th> 188 </th><th> 481.07 Mbp </th></tr>
+  </tfoot>
+  </table>
+pri2version: assembly_cambridge
 project:
 - vgp
 short_name: fPunPun

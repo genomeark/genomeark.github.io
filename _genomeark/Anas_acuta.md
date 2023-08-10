@@ -1,5 +1,34 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+alt1date: 2023-07-29
+alt1filesize: 290.9 MiB
+alt1length: '1079717830'
+alt1n50ctg: '891124'
+alt1n50scf: '891124'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Anas_acuta/bAnaAcu1/assembly_cambridge/bAnaAcu1.alt.asm.20230729.fasta.gz
+alt1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 31 </td><td> 3.26 Mbp </td><td> 31 </td><td> 3.26 Mbp </td></tr><tr><td> 20 </td><td> 82 </td><td> 2.31 Mbp </td><td> 82 </td><td> 2.31 Mbp </td></tr><tr><td> 30 </td><td> 152 </td><td> 1.71 Mbp </td><td> 152 </td><td> 1.71 Mbp </td></tr><tr><td> 40 </td><td> 247 </td><td> 1.24 Mbp </td><td> 247 </td><td> 1.24 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 378 </td><td> 0.89 Mbp </td><td> 378 </td><td> 0.89 Mbp </td></tr><tr><td> 60 </td><td> 568 </td><td> 0.58 Mbp </td><td> 568 </td><td> 0.58 Mbp </td></tr><tr><td> 70 </td><td> 912 </td><td> 251.34 Kbp </td><td> 912 </td><td> 251.34 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.783x </th><th> 2970 </th><th> 1.08 Gbp </th><th> 2970 </th><th> 1.08 Gbp </th></tr>
+  </tfoot>
+  </table>
+alt1version: assembly_cambridge
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: northern pintail
 data_arima-1_bases: 53.96 Gbp
 data_arima-1_bytes: 16.9 GiB
@@ -30,7 +59,7 @@ genome_size: 1378980000
 genome_size_display: 1.38 Gbp
 genome_size_method: GoaT
 last_raw_data: 1689690433
-last_updated: 1689690433
+last_updated: 1691520488
 metadata: |
   species:
     short_name: bAnaAcu
@@ -48,8 +77,66 @@ metadata: |
     genome_size: 1378980000
     genome_size_method: GoaT
     project: [ vgp ]
+mito1date: 2023-07-29
+mito1filesize: 5.3 KiB
+mito1length: '16601'
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Anas_acuta/bAnaAcu1/assembly_MT_cambridge/bAnaAcu1.MT.20230729.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.60 Kbp </th><th> 1 </th><th> 16.60 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_cambridge
 name: Anas acuta
 name_: Anas_acuta
+pri1date: 2023-07-29
+pri1filesize: 342.3 MiB
+pri1length: '1230453407'
+pri1n50ctg: 2886656
+pri1n50scf: 2886656
+pri1seq: https://s3.amazonaws.com/genomeark/species/Anas_acuta/bAnaAcu1/assembly_cambridge/bAnaAcu1.pri.asm.20230729.fasta.gz
+pri1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 13 </td><td> 8.94 Mbp </td><td> 13 </td><td> 8.94 Mbp </td></tr><tr><td> 20 </td><td> 32 </td><td> 6.39 Mbp </td><td> 32 </td><td> 6.39 Mbp </td></tr><tr><td> 30 </td><td> 57 </td><td> 4.83 Mbp </td><td> 57 </td><td> 4.83 Mbp </td></tr><tr><td> 40 </td><td> 89 </td><td> 3.87 Mbp </td><td> 89 </td><td> 3.87 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 131 </td><td style="background-color:#88ff88;"> 2.89 Mbp </td><td> 131 </td><td style="background-color:#ff8888;"> 2.89 Mbp </td></tr><tr><td> 60 </td><td> 189 </td><td> 1.99 Mbp </td><td> 189 </td><td> 1.99 Mbp </td></tr><tr><td> 70 </td><td> 273 </td><td> 1.33 Mbp </td><td> 273 </td><td> 1.33 Mbp </td></tr><tr><td> 80 </td><td> 418 </td><td> 0.66 Mbp </td><td> 418 </td><td> 0.66 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.892x </th><th> 1189 </th><th> 1.23 Gbp </th><th> 1189 </th><th> 1.23 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri1version: assembly_cambridge
 project:
 - vgp
 short_name: bAnaAcu

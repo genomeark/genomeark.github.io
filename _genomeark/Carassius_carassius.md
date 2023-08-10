@@ -1,10 +1,10 @@
 ---
-alt2date: 2023-05-10
-alt2filesize: 55.1 MiB
+alt2date: 2023-08-09
+alt2filesize: 59.2 MiB
 alt2length: '209623727'
 alt2n50ctg: 0
 alt2n50scf: 0
-alt2seq: https://s3.amazonaws.com/genomeark/species/Carassius_carassius/fCarCar2/assembly_cambridge/fCarCar2.alt.asm.20230510.fasta.gz
+alt2seq: https://s3.amazonaws.com/genomeark/species/Carassius_carassius/fCarCar2/assembly_curated/fCarCar2.alt.cur.20230809.fasta.gz
 alt2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -27,8 +27,8 @@ alt2sizes: |
   <tr><th> 0.107x </th><th> 3713 </th><th> 209.62 Mbp </th><th> 3713 </th><th> 209.62 Mbp </th></tr>
   </tfoot>
   </table>
-alt2version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt2version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: crucian carp
 data_arima-2_bases: 101.26 Gbp
 data_arima-2_bytes: 31.2 GiB
@@ -59,7 +59,7 @@ genome_size: 1965780000
 genome_size_display: 1.97 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687194698
-last_updated: 1688994458
+last_updated: 1691620303
 metadata: |
   species:
     short_name: fCarCar
@@ -108,12 +108,12 @@ mito2sizes: |
 mito2version: assembly_MT_cambridge
 name: Carassius carassius
 name_: Carassius_carassius
-pri2date: 2023-05-10
+pri2date: 2023-08-09
 pri2filesize: 478.8 MiB
-pri2length: '1684359838'
+pri2length: '1684313041'
 pri2n50ctg: 3286515
-pri2n50scf: 31411436
-pri2seq: https://s3.amazonaws.com/genomeark/species/Carassius_carassius/fCarCar2/assembly_cambridge/fCarCar2.pri.asm.20230510.fasta.gz
+pri2n50scf: 31703944
+pri2seq: https://s3.amazonaws.com/genomeark/species/Carassius_carassius/fCarCar2/assembly_curated/fCarCar2.pri.cur.20230809.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ pri2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 18 </td><td> 9.05 Mbp </td><td> 3 </td><td> 64.91 Mbp </td></tr><tr><td> 20 </td><td> 44 </td><td> 6.51 Mbp </td><td> 7 </td><td> 47.47 Mbp </td></tr><tr><td> 30 </td><td> 78 </td><td> 5.22 Mbp </td><td> 12 </td><td> 34.74 Mbp </td></tr><tr><td> 40 </td><td> 120 </td><td> 4.10 Mbp </td><td> 18 </td><td> 32.78 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 174 </td><td style="background-color:#88ff88;"> 3.29 Mbp </td><td> 24 </td><td style="background-color:#88ff88;"> 31.41 Mbp </td></tr><tr><td> 60 </td><td> 245 </td><td> 2.35 Mbp </td><td> 31 </td><td> 29.67 Mbp </td></tr><tr><td> 70 </td><td> 349 </td><td> 1.51 Mbp </td><td> 38 </td><td> 25.30 Mbp </td></tr><tr><td> 80 </td><td> 528 </td><td> 0.72 Mbp </td><td> 47 </td><td> 18.54 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 18 </td><td> 9.05 Mbp </td><td> 5 </td><td> 41.99 Mbp </td></tr><tr><td> 20 </td><td> 44 </td><td> 6.51 Mbp </td><td> 10 </td><td> 35.83 Mbp </td></tr><tr><td> 30 </td><td> 78 </td><td> 5.22 Mbp </td><td> 15 </td><td> 34.47 Mbp </td></tr><tr><td> 40 </td><td> 121 </td><td> 4.06 Mbp </td><td> 21 </td><td> 33.14 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 174 </td><td style="background-color:#88ff88;"> 3.29 Mbp </td><td> 27 </td><td style="background-color:#88ff88;"> 31.70 Mbp </td></tr><tr><td> 60 </td><td> 246 </td><td> 2.35 Mbp </td><td> 33 </td><td> 30.97 Mbp </td></tr><tr><td> 70 </td><td> 349 </td><td> 1.51 Mbp </td><td> 40 </td><td> 29.66 Mbp </td></tr><tr><td> 80 </td><td> 529 </td><td> 0.72 Mbp </td><td> 47 </td><td> 26.89 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.857x </th><th> 1110 </th><th> 1.68 Gbp </th><th> 285 </th><th> 1.68 Gbp </th></tr>
+  <tr><th> 0.857x </th><th> 1110 </th><th> 1.68 Gbp </th><th> 278 </th><th> 1.68 Gbp </th></tr>
   </tfoot>
   </table>
-pri2version: assembly_cambridge
+pri2version: assembly_curated
 project:
 - vgp
 short_name: fCarCar

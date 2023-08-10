@@ -1,6 +1,16 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: yellow-bellied toad
+data_arima-4_bases: 946.31 Gbp
+data_arima-4_bytes: 282.1 GiB
+data_arima-4_coverage: 105.63x
+data_arima-4_links: s3://genomeark/species/Bombina_variegata/aBomVar4/genomic_data/arima/<br>
+data_arima-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bombina_variegata/aBomVar4/genomic_data/arima/
+data_arima-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bombina_variegata/aBomVar4/genomic_data/arima/
+data_arima-4_scale: 3.1240
+data_arima_bases: 946.31 Gbp
+data_arima_bytes: 282.1 GiB
+data_arima_coverage: 105.63x
 data_pacbiohifi_bam-4_bases: 237.29 Gbp
 data_pacbiohifi_bam-4_bytes: 88.6 GiB
 data_pacbiohifi_bam-4_coverage: 26.49x
@@ -11,7 +21,7 @@ data_pacbiohifi_bam-4_scale: 2.4955
 data_pacbiohifi_bam_bases: 237.29 Gbp
 data_pacbiohifi_bam_bytes: 88.6 GiB
 data_pacbiohifi_bam_coverage: 26.49x
-data_status: <em style="color:forestgreen">PacBio HiFi</em>
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-project
 data_use_text: |
   Samples and data come from a variety of sources. To support fair and
@@ -21,8 +31,8 @@ data_use_text: |
 genome_size: 8958480000
 genome_size_display: 8.96 Gbp
 genome_size_method: GoaT
-last_raw_data: 1687192918
-last_updated: 1687192918
+last_raw_data: 1691529665
+last_updated: 1691529667
 metadata: |
   species:
     short_name: aBomVar
