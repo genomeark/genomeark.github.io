@@ -11,7 +11,17 @@ data_arima-3_scale: 3.0924
 data_arima_bases: 86.83 Gbp
 data_arima_bytes: 26.2 GiB
 data_arima_coverage: 65.77x
-data_status: <em style="color:forestgreen">Arima</em>
+data_pacbiohifi_bam-3_bases: 20.98 Gbp
+data_pacbiohifi_bam-3_bytes: 11.7 GiB
+data_pacbiohifi_bam-3_coverage: 15.89x
+data_pacbiohifi_bam-3_links: s3://genomeark/species/Numenius_arquata/bNumArq3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Numenius_arquata/bNumArq3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Numenius_arquata/bNumArq3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_scale: 1.6645
+data_pacbiohifi_bam_bases: 20.98 Gbp
+data_pacbiohifi_bam_bytes: 11.7 GiB
+data_pacbiohifi_bam_coverage: 15.89x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -19,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1320300000
 genome_size_display: 1.32 Gbp
 genome_size_method: GoaT
-last_raw_data: 1686681217
-last_updated: 1686681218
+last_raw_data: 1692195829
+last_updated: 1692195829
 metadata: |
   species:
     short_name: bNumArq

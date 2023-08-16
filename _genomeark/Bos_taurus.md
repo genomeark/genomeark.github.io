@@ -135,7 +135,7 @@ metadata: |
         project: [ t2t ]
     genome_size: 2700000000
     genome_size_method: null
-    project: [ vgp, t2t ]
+    project: [ vgp ]
 mito1date: 2019-10-07
 mito1filesize: 5.2 KiB
 mito1length: '16339'
@@ -199,7 +199,6 @@ pat1sizes: |
 pat1version: assembly_curated
 project:
 - vgp
-- t2t
 short_name: mBosTau
 taxon_id: 9913
 ---

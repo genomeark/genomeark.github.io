@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1688055757
-last_updated: 1689713643
+last_updated: 1692140802
 mds:
 - data: "species: Myoxocephalus scorpius\nspecimen: fMyoSco1\nprojects: \n  - vgp\nhap1:
     s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_vgp_HiC_2.0/fMyoSco1.HiC.hap1.20230718.fasta.gz\nhap2:
@@ -103,7 +103,7 @@ mds:
     was performed with yahs. The HiC prep was Arima kit 2. The HiC reads needed to
     have 5 bp trimmed from the 5' end due to adapter left over from the Arima library
     prep kit. The initial contig assemblies went through purging before scaffolding. "
-  ident: md4
+  ident: md6
   title: assembly_vgp_HiC_2.0/fMyoSco1.yml
 mito1date: 2023-07-18
 mito1filesize: 5.4 KiB

@@ -21,16 +21,16 @@ data_illumina-1_scale: 1.8529
 data_illumina_bases: 223.75 Gbp
 data_illumina_bytes: 112.5 GiB
 data_illumina_coverage: 62.51x
-data_ont-1_bases: 291.23 Gbp
-data_ont-1_bytes: 246.6 GiB
-data_ont-1_coverage: 81.36x
+data_ont-1_bases: 567.29 Gbp
+data_ont-1_bytes: 469.0 GiB
+data_ont-1_coverage: 158.48x
 data_ont-1_links: s3://genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/ont/<br>
 data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/ont/
 data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pongo_abelii/mPonAbe1/genomic_data/ont/
-data_ont-1_scale: 1.0997
-data_ont_bases: 291.23 Gbp
-data_ont_bytes: 246.6 GiB
-data_ont_coverage: 81.36x
+data_ont-1_scale: 1.1265
+data_ont_bases: 567.29 Gbp
+data_ont_bytes: 469.0 GiB
+data_ont_coverage: 158.48x
 data_pacbiohifi_bam-1_bases: 831.52 Gbp
 data_pacbiohifi_bam-1_bytes: 1.1 TiB
 data_pacbiohifi_bam-1_coverage: 232.30x
@@ -157,8 +157,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_verkko_1.1-hic-freeze
-last_raw_data: 1688085175
-last_updated: 1688085175
+last_raw_data: 1691776383
+last_updated: 1691776383
 metadata: |
   species:
     short_name: mPonAbe

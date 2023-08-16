@@ -1,10 +1,10 @@
 ---
-alt2date: 2023-06-30
-alt2filesize: 236.6 MiB
-alt2length: '866951578'
+alt2date: 2023-08-16
+alt2filesize: 251.6 MiB
+alt2length: '867500292'
 alt2n50ctg: '676156'
 alt2n50scf: '676156'
-alt2seq: https://s3.amazonaws.com/genomeark/species/Nesoenas_mayeri/bNesMay2/assembly_cambridge/bNesMay2.alt.asm.20230630.fasta.gz
+alt2seq: https://s3.amazonaws.com/genomeark/species/Nesoenas_mayeri/bNesMay2/assembly_curated/bNesMay2.alt.cur.20230816.fasta.gz
 alt2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 31 </td><td> 3.63 Mbp </td><td> 31 </td><td> 3.63 Mbp </td></tr><tr><td> 20 </td><td> 78 </td><td> 2.65 Mbp </td><td> 78 </td><td> 2.65 Mbp </td></tr><tr><td> 30 </td><td> 143 </td><td> 1.86 Mbp </td><td> 143 </td><td> 1.86 Mbp </td></tr><tr><td> 40 </td><td> 234 </td><td> 1.33 Mbp </td><td> 234 </td><td> 1.33 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 388 </td><td> 0.68 Mbp </td><td> 388 </td><td> 0.68 Mbp </td></tr><tr><td> 60 </td><td> 1143 </td><td> 28.17 Kbp </td><td> 1143 </td><td> 28.17 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 31 </td><td> 3.63 Mbp </td><td> 31 </td><td> 3.63 Mbp </td></tr><tr><td> 20 </td><td> 78 </td><td> 2.65 Mbp </td><td> 78 </td><td> 2.65 Mbp </td></tr><tr><td> 30 </td><td> 143 </td><td> 1.86 Mbp </td><td> 143 </td><td> 1.86 Mbp </td></tr><tr><td> 40 </td><td> 234 </td><td> 1.33 Mbp </td><td> 234 </td><td> 1.33 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 388 </td><td> 0.68 Mbp </td><td> 388 </td><td> 0.68 Mbp </td></tr><tr><td> 60 </td><td> 1127 </td><td> 30.54 Kbp </td><td> 1127 </td><td> 30.54 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.602x </th><th> 1274 </th><th> 0.87 Gbp </th><th> 1274 </th><th> 0.87 Gbp </th></tr>
+  <tr><th> 0.602x </th><th> 1277 </th><th> 0.87 Gbp </th><th> 1277 </th><th> 0.87 Gbp </th></tr>
   </tfoot>
   </table>
-alt2version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt2version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: pink pigeon
 data_arima-2_bases: 111.94 Gbp
 data_arima-2_bytes: 34.0 GiB
@@ -59,7 +59,7 @@ genome_size: 1440105000
 genome_size_display: 1.44 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687785005
-last_updated: 1688994636
+last_updated: 1692198555
 metadata: |
   species:
     short_name: bNesMay
@@ -108,12 +108,12 @@ mito2sizes: |
 mito2version: assembly_MT_cambridge
 name: Nesoenas mayeri
 name_: Nesoenas_mayeri
-pri2date: 2023-06-30
-pri2filesize: 342.6 MiB
-pri2length: '1183861914'
-pri2n50ctg: 3816225
-pri2n50scf: 43728035
-pri2seq: https://s3.amazonaws.com/genomeark/species/Nesoenas_mayeri/bNesMay2/assembly_cambridge/bNesMay2.pri.asm.20230630.fasta.gz
+pri2date: 2023-08-16
+pri2filesize: 342.4 MiB
+pri2length: '1183271950'
+pri2n50ctg: 3746224
+pri2n50scf: 69284847
+pri2seq: https://s3.amazonaws.com/genomeark/species/Nesoenas_mayeri/bNesMay2/assembly_curated/bNesMay2.pri.cur.20230816.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ pri2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 11 </td><td> 11.28 Mbp </td><td> 1 </td><td> 212.39 Mbp </td></tr><tr><td> 20 </td><td> 25 </td><td> 8.51 Mbp </td><td> 2 </td><td> 163.08 Mbp </td></tr><tr><td> 30 </td><td> 45 </td><td> 6.45 Mbp </td><td> 3 </td><td> 121.94 Mbp </td></tr><tr><td> 40 </td><td> 71 </td><td> 4.98 Mbp </td><td> 5 </td><td> 70.77 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 104 </td><td style="background-color:#88ff88;"> 3.82 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 43.73 Mbp </td></tr><tr><td> 60 </td><td> 150 </td><td> 2.56 Mbp </td><td> 11 </td><td> 24.03 Mbp </td></tr><tr><td> 70 </td><td> 223 </td><td> 1.48 Mbp </td><td> 17 </td><td> 16.72 Mbp </td></tr><tr><td> 80 </td><td> 392 </td><td> 372.51 Kbp </td><td> 43 </td><td> 1.29 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 11 </td><td> 11.28 Mbp </td><td> 1 </td><td> 214.15 Mbp </td></tr><tr><td> 20 </td><td> 25 </td><td> 8.51 Mbp </td><td> 2 </td><td> 164.70 Mbp </td></tr><tr><td> 30 </td><td> 45 </td><td> 6.45 Mbp </td><td> 3 </td><td> 121.94 Mbp </td></tr><tr><td> 40 </td><td> 71 </td><td> 4.92 Mbp </td><td> 4 </td><td> 78.20 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 105 </td><td style="background-color:#88ff88;"> 3.75 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 69.28 Mbp </td></tr><tr><td> 60 </td><td> 151 </td><td> 2.54 Mbp </td><td> 10 </td><td> 31.79 Mbp </td></tr><tr><td> 70 </td><td> 225 </td><td> 1.45 Mbp </td><td> 16 </td><td> 20.36 Mbp </td></tr><tr><td> 80 </td><td> 394 </td><td> 372.51 Kbp </td><td> 30 </td><td> 4.18 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.822x </th><th> 654 </th><th> 1.18 Gbp </th><th> 213 </th><th> 1.18 Gbp </th></tr>
+  <tr><th> 0.822x </th><th> 652 </th><th> 1.18 Gbp </th><th> 143 </th><th> 1.18 Gbp </th></tr>
   </tfoot>
   </table>
-pri2version: assembly_cambridge
+pri2version: assembly_curated
 project:
 - vgp
 short_name: bNesMay

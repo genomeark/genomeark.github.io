@@ -11,15 +11,15 @@ data_arima-1_scale: 1.8006
 data_arima_bases: 397.11 Gbp
 data_arima_bytes: 205.4 GiB
 data_arima_coverage: N/A
-data_pacbiohifi_fqgz-1_bases: 98.46 Gbp
-data_pacbiohifi_fqgz-1_bytes: 71.0 GiB
+data_pacbiohifi_fqgz-1_bases: 136.10 Gbp
+data_pacbiohifi_fqgz-1_bytes: 98.6 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 1.2919
-data_pacbiohifi_fqgz_bases: 98.46 Gbp
-data_pacbiohifi_fqgz_bytes: 71.0 GiB
+data_pacbiohifi_fqgz-1_scale: 1.2851
+data_pacbiohifi_fqgz_bases: 136.10 Gbp
+data_pacbiohifi_fqgz_bytes: 98.6 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1689041391
-last_updated: 1689041391
+last_raw_data: 1691702908
+last_updated: 1691702908
 name: Rhinophrynus dorsalis
 name_: Rhinophrynus_dorsalis
 project: ~

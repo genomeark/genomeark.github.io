@@ -1,1 +1,0 @@
-../_genomeark/Bos_taurus.md

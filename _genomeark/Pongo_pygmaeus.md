@@ -21,16 +21,16 @@ data_illumina-2_scale: 1.8561
 data_illumina_bases: 166.03 Gbp
 data_illumina_bytes: 83.3 GiB
 data_illumina_coverage: 46.38x
-data_ont-2_bases: 632.81 Gbp
-data_ont-2_bytes: 538.0 GiB
-data_ont-2_coverage: 176.79x
+data_ont-2_bases: 1307.07 Gbp
+data_ont-2_bytes: 1.0 TiB
+data_ont-2_coverage: 365.16x
 data_ont-2_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/ont/<br>
 data_ont-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/ont/
 data_ont-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pongo_pygmaeus/mPonPyg2/genomic_data/ont/
-data_ont-2_scale: 1.0954
-data_ont_bases: 632.81 Gbp
-data_ont_bytes: 538.0 GiB
-data_ont_coverage: 176.79x
+data_ont-2_scale: 1.1924
+data_ont_bases: 1307.07 Gbp
+data_ont_bytes: 1.0 TiB
+data_ont_coverage: 365.16x
 data_pacbiohifi_bam-2_bases: 648.93 Gbp
 data_pacbiohifi_bam-2_bytes: 707.3 GiB
 data_pacbiohifi_bam-2_coverage: 181.29x
@@ -157,8 +157,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_verkko_1.1-hic-freeze
-last_raw_data: 1688088074
-last_updated: 1688088074
+last_raw_data: 1691781392
+last_updated: 1691781392
 metadata: |
   species:
     short_name: mPonPyg

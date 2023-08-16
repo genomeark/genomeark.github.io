@@ -21,16 +21,16 @@ data_illumina-1_scale: 1.9006
 data_illumina_bases: 423.48 Gbp
 data_illumina_bytes: 207.5 GiB
 data_illumina_coverage: 128.49x
-data_ont-1_bases: 338.17 Gbp
-data_ont-1_bytes: 298.1 GiB
-data_ont-1_coverage: 102.61x
+data_ont-1_bases: 711.95 Gbp
+data_ont-1_bytes: 549.8 GiB
+data_ont-1_coverage: 216.01x
 data_ont-1_links: s3://genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/ont/<br>
 data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/ont/
 data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Symphalangus_syndactylus/mSymSyn1/genomic_data/ont/
-data_ont-1_scale: 1.0567
-data_ont_bases: 338.17 Gbp
-data_ont_bytes: 298.1 GiB
-data_ont_coverage: 102.61x
+data_ont-1_scale: 1.2059
+data_ont_bases: 711.95 Gbp
+data_ont_bytes: 549.8 GiB
+data_ont_coverage: 216.01x
 data_pacbiohifi_bam-1_bases: 1200.82 Gbp
 data_pacbiohifi_bam-1_bytes: 879.2 GiB
 data_pacbiohifi_bam-1_coverage: 364.34x
@@ -157,8 +157,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_verkko_1.1-hic-freeze
-last_raw_data: 1686260670
-last_updated: 1686776722
+last_raw_data: 1691778142
+last_updated: 1691778142
 metadata: |
   species:
     short_name: mSymSyn

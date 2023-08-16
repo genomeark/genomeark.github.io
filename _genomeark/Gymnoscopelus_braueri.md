@@ -1,10 +1,10 @@
 ---
-alt2date: 2023-07-19
-alt2filesize: 324.9 MiB
-alt2length: '1263736981'
-alt2n50ctg: '102003'
-alt2n50scf: '102003'
-alt2seq: https://s3.amazonaws.com/genomeark/species/Gymnoscopelus_braueri/fGymBra2/assembly_cambridge/fGymBra2.alt.asm.20230719.fasta.gz
+alt2date: 2023-08-16
+alt2filesize: 354.0 MiB
+alt2length: '1279160753'
+alt2n50ctg: '107150'
+alt2n50scf: '107256'
+alt2seq: https://s3.amazonaws.com/genomeark/species/Gymnoscopelus_braueri/fGymBra2/assembly_curated/fGymBra2.alt.cur.20230816.fasta.gz
 alt2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 233 </td><td> 0.58 Mbp </td><td> 233 </td><td> 0.58 Mbp </td></tr><tr><td> 20 </td><td> 658 </td><td> 363.68 Kbp </td><td> 658 </td><td> 363.68 Kbp </td></tr><tr><td> 30 </td><td> 1297 </td><td> 250.53 Kbp </td><td> 1297 </td><td> 250.53 Kbp </td></tr><tr><td> 40 </td><td> 2233 </td><td> 168.66 Kbp </td><td> 2233 </td><td> 168.66 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 3678 </td><td> 102.00 Kbp </td><td> 3678 </td><td> 102.00 Kbp </td></tr><tr><td> 60 </td><td> 6401 </td><td> 45.82 Kbp </td><td> 6401 </td><td> 45.82 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 229 </td><td> 0.59 Mbp </td><td> 229 </td><td> 0.59 Mbp </td></tr><tr><td> 20 </td><td> 643 </td><td> 372.20 Kbp </td><td> 642 </td><td> 372.43 Kbp </td></tr><tr><td> 30 </td><td> 1264 </td><td> 258.66 Kbp </td><td> 1263 </td><td> 258.67 Kbp </td></tr><tr><td> 40 </td><td> 2172 </td><td> 173.85 Kbp </td><td> 2170 </td><td> 174.04 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 3561 </td><td> 107.15 Kbp </td><td> 3558 </td><td> 107.26 Kbp </td></tr><tr><td> 60 </td><td> 6109 </td><td> 50.41 Kbp </td><td> 6105 </td><td> 50.43 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.663x </th><th> 10768 </th><th> 1.26 Gbp </th><th> 10768 </th><th> 1.26 Gbp </th></tr>
+  <tr><th> 0.671x </th><th> 10799 </th><th> 1.28 Gbp </th><th> 10794 </th><th> 1.28 Gbp </th></tr>
   </tfoot>
   </table>
-alt2version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt2version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Brauer's lanternfish
 data_arima-2_bases: 250.32 Gbp
 data_arima-2_bytes: 73.9 GiB
@@ -59,7 +59,7 @@ genome_size: 1907100000
 genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1689690037
-last_updated: 1691520780
+last_updated: 1692191525
 metadata: |
   species:
     short_name: fGymBra
@@ -108,12 +108,12 @@ mito2sizes: |
 mito2version: assembly_MT_cambridge
 name: Gymnoscopelus braueri
 name_: Gymnoscopelus_braueri
-pri2date: 2023-07-19
-pri2filesize: 377.4 MiB
-pri2length: '1383619111'
-pri2n50ctg: 574008
-pri2n50scf: 51119004
-pri2seq: https://s3.amazonaws.com/genomeark/species/Gymnoscopelus_braueri/fGymBra2/assembly_cambridge/fGymBra2.pri.asm.20230719.fasta.gz
+pri2date: 2023-08-16
+pri2filesize: 373.4 MiB
+pri2length: '1367984568'
+pri2n50ctg: 558987
+pri2n50scf: 51959141
+pri2seq: https://s3.amazonaws.com/genomeark/species/Gymnoscopelus_braueri/fGymBra2/assembly_curated/fGymBra2.pri.cur.20230816.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ pri2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 71 </td><td> 2.02 Mbp </td><td> 3 </td><td> 64.16 Mbp </td></tr><tr><td> 20 </td><td> 187 </td><td> 1.41 Mbp </td><td> 7 </td><td> 57.28 Mbp </td></tr><tr><td> 30 </td><td> 340 </td><td> 1.09 Mbp </td><td> 10 </td><td> 56.59 Mbp </td></tr><tr><td> 40 </td><td> 544 </td><td> 0.80 Mbp </td><td> 13 </td><td> 54.97 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 824 </td><td style="background-color:#ff8888;"> 0.57 Mbp </td><td> 17 </td><td style="background-color:#88ff88;"> 51.12 Mbp </td></tr><tr><td> 60 </td><td> 1249 </td><td> 335.49 Kbp </td><td> 21 </td><td> 48.78 Mbp </td></tr><tr><td> 70 </td><td> 2301 </td><td> 87.28 Kbp </td><td> 70 </td><td> 370.18 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 71 </td><td> 2.00 Mbp </td><td> 4 </td><td> 59.46 Mbp </td></tr><tr><td> 20 </td><td> 187 </td><td> 1.41 Mbp </td><td> 7 </td><td> 58.13 Mbp </td></tr><tr><td> 30 </td><td> 341 </td><td> 1.08 Mbp </td><td> 10 </td><td> 56.69 Mbp </td></tr><tr><td> 40 </td><td> 547 </td><td> 0.79 Mbp </td><td> 14 </td><td> 54.16 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 833 </td><td style="background-color:#ff8888;"> 0.56 Mbp </td><td> 17 </td><td style="background-color:#88ff88;"> 51.96 Mbp </td></tr><tr><td> 60 </td><td> 1279 </td><td> 312.52 Kbp </td><td> 21 </td><td> 47.90 Mbp </td></tr><tr><td> 70 </td><td> 2484 </td><td> 68.47 Kbp </td><td> 106 </td><td> 193.87 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.725x </th><th> 3395 </th><th> 1.38 Gbp </th><th> 699 </th><th> 1.38 Gbp </th></tr>
+  <tr><th> 0.717x </th><th> 3380 </th><th> 1.37 Gbp </th><th> 676 </th><th> 1.37 Gbp </th></tr>
   </tfoot>
   </table>
-pri2version: assembly_cambridge
+pri2version: assembly_curated
 project:
 - vgp
 short_name: fGymBra

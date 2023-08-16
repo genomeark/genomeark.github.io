@@ -35,16 +35,16 @@ data_illumina-3_scale: 1.9452
 data_illumina_bases: 748.98 Gbp
 data_illumina_bytes: 364.0 GiB
 data_illumina_coverage: 214.52x
-data_ont-1_bases: 570.58 Gbp
-data_ont-1_bytes: 486.1 GiB
-data_ont-1_coverage: 163.42x
+data_ont-1_bases: 986.23 Gbp
+data_ont-1_bytes: 795.9 GiB
+data_ont-1_coverage: 282.47x
 data_ont-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/ont/<br>
 data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/ont/
 data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/ont/
-data_ont-1_scale: 1.0931
-data_ont_bases: 570.58 Gbp
-data_ont_bytes: 486.1 GiB
-data_ont_coverage: 163.42x
+data_ont-1_scale: 1.1541
+data_ont_bases: 986.23 Gbp
+data_ont_bytes: 795.9 GiB
+data_ont_coverage: 282.47x
 data_pacbiohifi_bam-1_bases: 1182.11 Gbp
 data_pacbiohifi_bam-1_bytes: 1.4 TiB
 data_pacbiohifi_bam-1_coverage: 338.57x
@@ -123,8 +123,8 @@ dip1version: assembly_verkko_1.1-0.2-freeze
 genome_size: 3491460000
 genome_size_display: 3.49 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-last_raw_data: 1688084224
-last_updated: 1688084224
+last_raw_data: 1691772363
+last_updated: 1691772363
 mat1date: 2022-11-11
 mat1filesize: 826.5 MiB
 mat1length: '3535292761'

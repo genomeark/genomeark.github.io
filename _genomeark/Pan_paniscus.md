@@ -28,16 +28,16 @@ data_illumina-3_scale: 1.8781
 data_illumina_bases: 421.31 Gbp
 data_illumina_bytes: 205.6 GiB
 data_illumina_coverage: 116.59x
-data_ont-1_bases: 556.51 Gbp
-data_ont-1_bytes: 459.9 GiB
-data_ont-1_coverage: 154.00x
+data_ont-1_bases: 1131.97 Gbp
+data_ont-1_bytes: 867.3 GiB
+data_ont-1_coverage: 313.24x
 data_ont-1_links: s3://genomeark/species/Pan_paniscus/mPanPan1/genomic_data/ont/<br>
 data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/ont/
 data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_paniscus/mPanPan1/genomic_data/ont/
-data_ont-1_scale: 1.1269
-data_ont_bases: 556.51 Gbp
-data_ont_bytes: 459.9 GiB
-data_ont_coverage: 154.00x
+data_ont-1_scale: 1.2155
+data_ont_bases: 1131.97 Gbp
+data_ont_bytes: 867.3 GiB
+data_ont_coverage: 313.24x
 data_pacbiohifi_bam-1_bases: 824.41 Gbp
 data_pacbiohifi_bam-1_bytes: 0.9 TiB
 data_pacbiohifi_bam-1_coverage: 228.14x
@@ -106,8 +106,8 @@ dip1version: assembly_verkko_1.1-0.1-freeze
 genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT ancestral inferred
-last_raw_data: 1686269339
-last_updated: 1686779216
+last_raw_data: 1692164488
+last_updated: 1692164488
 mat1date: 2022-11-11
 mat1filesize: 794.6 MiB
 mat1length: '3224694940'

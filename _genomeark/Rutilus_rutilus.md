@@ -1,10 +1,10 @@
 ---
-alt2date: 2023-05-03
-alt2filesize: 268.1 MiB
-alt2length: '1019403844'
-alt2n50ctg: '450614'
-alt2n50scf: '450614'
-alt2seq: https://s3.amazonaws.com/genomeark/species/Rutilus_rutilus/fRutRut2/assembly_cambridge/fRutRut2.alt.asm.20230503.fasta.gz
+alt2date: 2023-08-16
+alt2filesize: 294.2 MiB
+alt2length: '1042711183'
+alt2n50ctg: '471337'
+alt2n50scf: '472007'
+alt2seq: https://s3.amazonaws.com/genomeark/species/Rutilus_rutilus/fRutRut2/assembly_curated/fRutRut2.alt.cur.20230816.fasta.gz
 alt2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 62 </td><td> 1.30 Mbp </td><td> 62 </td><td> 1.30 Mbp </td></tr><tr><td> 20 </td><td> 158 </td><td> 0.96 Mbp </td><td> 158 </td><td> 0.96 Mbp </td></tr><tr><td> 30 </td><td> 285 </td><td> 0.76 Mbp </td><td> 285 </td><td> 0.76 Mbp </td></tr><tr><td> 40 </td><td> 450 </td><td> 0.58 Mbp </td><td> 450 </td><td> 0.58 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 664 </td><td> 450.61 Kbp </td><td> 664 </td><td> 450.61 Kbp </td></tr><tr><td> 60 </td><td> 944 </td><td> 334.38 Kbp </td><td> 944 </td><td> 334.38 Kbp </td></tr><tr><td> 70 </td><td> 1324 </td><td> 238.53 Kbp </td><td> 1324 </td><td> 238.53 Kbp </td></tr><tr><td> 80 </td><td> 1894 </td><td> 144.68 Kbp </td><td> 1894 </td><td> 144.68 Kbp </td></tr><tr><td> 90 </td><td> 3161 </td><td> 46.61 Kbp </td><td> 3161 </td><td> 46.61 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 58 </td><td> 1.37 Mbp </td><td> 57 </td><td> 1.39 Mbp </td></tr><tr><td> 20 </td><td> 151 </td><td> 0.99 Mbp </td><td> 149 </td><td> 0.99 Mbp </td></tr><tr><td> 30 </td><td> 273 </td><td> 0.79 Mbp </td><td> 271 </td><td> 0.79 Mbp </td></tr><tr><td> 40 </td><td> 430 </td><td> 0.60 Mbp </td><td> 428 </td><td> 0.61 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 634 </td><td> 471.34 Kbp </td><td> 632 </td><td> 472.01 Kbp </td></tr><tr><td> 60 </td><td> 899 </td><td> 356.55 Kbp </td><td> 896 </td><td> 356.96 Kbp </td></tr><tr><td> 70 </td><td> 1255 </td><td> 261.13 Kbp </td><td> 1252 </td><td> 261.44 Kbp </td></tr><tr><td> 80 </td><td> 1771 </td><td> 165.71 Kbp </td><td> 1767 </td><td> 166.27 Kbp </td></tr><tr><td> 90 </td><td> 2773 </td><td> 67.52 Kbp </td><td> 2767 </td><td> 67.53 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.939x </th><th> 4583 </th><th> 1.02 Gbp </th><th> 4583 </th><th> 1.02 Gbp </th></tr>
+  <tr><th> 0.961x </th><th> 4612 </th><th> 1.04 Gbp </th><th> 4606 </th><th> 1.04 Gbp </th></tr>
   </tfoot>
   </table>
-alt2version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt2version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: roach minnow
 data_arima-2_bases: 148.21 Gbp
 data_arima-2_bytes: 43.4 GiB
@@ -61,7 +61,7 @@ genome_size: 1085580000
 genome_size_display: 1.09 Gbp
 genome_size_method: GoaT
 last_raw_data: 1682199028
-last_updated: 1691521170
+last_updated: 1692198176
 metadata: |
   species:
     short_name: fRutRut
@@ -110,12 +110,12 @@ mito2sizes: |
 mito2version: assembly_MT_cambridge
 name: Rutilus rutilus
 name_: Rutilus_rutilus
-pri2date: 2023-05-03
-pri2filesize: 313.7 MiB
-pri2length: '1123483382'
+pri2date: 2023-08-16
+pri2filesize: 307.6 MiB
+pri2length: '1100195650'
 pri2n50ctg: 3940034
-pri2n50scf: 41000456
-pri2seq: https://s3.amazonaws.com/genomeark/species/Rutilus_rutilus/fRutRut2/assembly_cambridge/fRutRut2.pri.asm.20230503.fasta.gz
+pri2n50scf: 44282282
+pri2seq: https://s3.amazonaws.com/genomeark/species/Rutilus_rutilus/fRutRut2/assembly_curated/fRutRut2.pri.cur.20230816.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -133,12 +133,12 @@ pri2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 12 </td><td> 8.12 Mbp </td><td> 2 </td><td> 62.33 Mbp </td></tr><tr><td> 20 </td><td> 26 </td><td> 6.90 Mbp </td><td> 4 </td><td> 54.33 Mbp </td></tr><tr><td> 30 </td><td> 44 </td><td> 5.61 Mbp </td><td> 6 </td><td> 49.08 Mbp </td></tr><tr><td> 40 </td><td> 64 </td><td> 4.86 Mbp </td><td> 8 </td><td> 45.17 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 89 </td><td style="background-color:#88ff88;"> 3.94 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 41.00 Mbp </td></tr><tr><td> 60 </td><td> 119 </td><td> 3.27 Mbp </td><td> 14 </td><td> 38.72 Mbp </td></tr><tr><td> 70 </td><td> 156 </td><td> 2.54 Mbp </td><td> 16 </td><td> 37.09 Mbp </td></tr><tr><td> 80 </td><td> 204 </td><td> 2.00 Mbp </td><td> 19 </td><td> 35.86 Mbp </td></tr><tr><td> 90 </td><td> 269 </td><td> 1.30 Mbp </td><td> 23 </td><td> 30.93 Mbp </td></tr><tr><td> 100 </td><td> 387 </td><td> 0.56 Mbp </td><td> 28 </td><td> 6.16 Mbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 12 </td><td> 8.12 Mbp </td><td> 2 </td><td> 62.44 Mbp </td></tr><tr><td> 20 </td><td> 26 </td><td> 6.90 Mbp </td><td> 4 </td><td> 53.34 Mbp </td></tr><tr><td> 30 </td><td> 44 </td><td> 5.61 Mbp </td><td> 6 </td><td> 50.38 Mbp </td></tr><tr><td> 40 </td><td> 64 </td><td> 4.86 Mbp </td><td> 8 </td><td> 47.67 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 89 </td><td style="background-color:#88ff88;"> 3.94 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 44.28 Mbp </td></tr><tr><td> 60 </td><td> 119 </td><td> 3.27 Mbp </td><td> 13 </td><td> 41.12 Mbp </td></tr><tr><td> 70 </td><td> 157 </td><td> 2.51 Mbp </td><td> 16 </td><td> 38.06 Mbp </td></tr><tr><td> 80 </td><td> 205 </td><td> 1.94 Mbp </td><td> 19 </td><td> 36.08 Mbp </td></tr><tr><td> 90 </td><td> 274 </td><td> 1.24 Mbp </td><td> 22 </td><td> 32.92 Mbp </td></tr><tr><td> 100 </td><td> 424 </td><td> 291.89 Kbp </td><td> 25 </td><td> 30.22 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.035x </th><th> 578 </th><th> 1.12 Gbp </th><th> 116 </th><th> 1.12 Gbp </th></tr>
+  <tr><th> 1.013x </th><th> 556 </th><th> 1.10 Gbp </th><th> 85 </th><th> 1.10 Gbp </th></tr>
   </tfoot>
   </table>
-pri2version: assembly_cambridge
+pri2version: assembly_curated
 project:
 - vgp
 short_name: fRutRut

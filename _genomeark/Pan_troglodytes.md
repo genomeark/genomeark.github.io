@@ -41,16 +41,16 @@ data_illumina-3_scale: 1.8301
 data_illumina_bases: 176.42 Gbp
 data_illumina_bytes: 89.8 GiB
 data_illumina_coverage: 48.82x
-data_ont-3_bases: 397.87 Gbp
-data_ont-3_bytes: 351.1 GiB
-data_ont-3_coverage: 110.10x
+data_ont-3_bases: 794.25 Gbp
+data_ont-3_bytes: 646.4 GiB
+data_ont-3_coverage: 219.79x
 data_ont-3_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/ont/<br>
 data_ont-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/ont/
 data_ont-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro3/genomic_data/ont/
-data_ont-3_scale: 1.0555
-data_ont_bases: 397.87 Gbp
-data_ont_bytes: 351.1 GiB
-data_ont_coverage: 110.10x
+data_ont-3_scale: 1.1444
+data_ont_bases: 794.25 Gbp
+data_ont_bytes: 646.4 GiB
+data_ont_coverage: 219.79x
 data_pacbio-1_bases: 398.91 Gbp
 data_pacbio-1_bytes: 1.4 TiB
 data_pacbio-1_coverage: 110.39x
@@ -188,8 +188,8 @@ hpb3sizes: |
   </tfoot>
   </table>
 hpb3version: assembly_verkko_1.1-hic-freeze
-last_raw_data: 1688081498
-last_updated: 1688081498
+last_raw_data: 1691774444
+last_updated: 1691774444
 metadata: |
   species:
     short_name: mPanTro

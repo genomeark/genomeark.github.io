@@ -11,16 +11,16 @@ data_arima-1_scale: 3.0629
 data_arima_bases: 296.53 Gbp
 data_arima_bytes: 90.2 GiB
 data_arima_coverage: 102.96x
-data_pacbiohifi_bam-1_bases: 24.73 Gbp
-data_pacbiohifi_bam-1_bytes: 13.9 GiB
-data_pacbiohifi_bam-1_coverage: 8.59x
+data_pacbiohifi_bam-1_bases: 90.47 Gbp
+data_pacbiohifi_bam-1_bytes: 39.7 GiB
+data_pacbiohifi_bam-1_coverage: 31.41x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Martes_martes/mMarMar1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Martes_martes/mMarMar1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Martes_martes/mMarMar1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 1.6541
-data_pacbiohifi_bam_bases: 24.73 Gbp
-data_pacbiohifi_bam_bytes: 13.9 GiB
-data_pacbiohifi_bam_coverage: 8.59x
+data_pacbiohifi_bam-1_scale: 2.1205
+data_pacbiohifi_bam_bases: 90.47 Gbp
+data_pacbiohifi_bam_bytes: 39.7 GiB
+data_pacbiohifi_bam_coverage: 31.41x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2880210000
 genome_size_display: 2.88 Gbp
 genome_size_method: GoaT
-last_raw_data: 1679558515
-last_updated: 1679558515
+last_raw_data: 1692020552
+last_updated: 1692020552
 metadata: |
   species:
     short_name: mMarMar

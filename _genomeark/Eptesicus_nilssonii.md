@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-05-07
-alt1filesize: 511.8 MiB
-alt1length: '1884798257'
-alt1n50ctg: '633157'
-alt1n50scf: '633157'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Eptesicus_nilssonii/mEptNil1/assembly_cambridge/mEptNil1.alt.asm.20230507.fasta.gz
+alt1date: 2023-08-16
+alt1filesize: 546.1 MiB
+alt1length: '1900360802'
+alt1n50ctg: '646716'
+alt1n50scf: '646716'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Eptesicus_nilssonii/mEptNil1/assembly_curated/mEptNil1.alt.cur.20230816.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 97 </td><td> 1.87 Mbp </td><td> 97 </td><td> 1.87 Mbp </td></tr><tr><td> 20 </td><td> 248 </td><td> 1.35 Mbp </td><td> 248 </td><td> 1.35 Mbp </td></tr><tr><td> 30 </td><td> 447 </td><td> 1.06 Mbp </td><td> 447 </td><td> 1.06 Mbp </td></tr><tr><td> 40 </td><td> 700 </td><td> 0.83 Mbp </td><td> 700 </td><td> 0.83 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1027 </td><td> 0.63 Mbp </td><td> 1027 </td><td> 0.63 Mbp </td></tr><tr><td> 60 </td><td> 1477 </td><td> 442.93 Kbp </td><td> 1477 </td><td> 442.93 Kbp </td></tr><tr><td> 70 </td><td> 2183 </td><td> 243.69 Kbp </td><td> 2183 </td><td> 243.69 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 97 </td><td> 1.88 Mbp </td><td> 97 </td><td> 1.88 Mbp </td></tr><tr><td> 20 </td><td> 247 </td><td> 1.36 Mbp </td><td> 247 </td><td> 1.36 Mbp </td></tr><tr><td> 30 </td><td> 445 </td><td> 1.07 Mbp </td><td> 445 </td><td> 1.07 Mbp </td></tr><tr><td> 40 </td><td> 695 </td><td> 0.84 Mbp </td><td> 695 </td><td> 0.84 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1018 </td><td> 0.65 Mbp </td><td> 1018 </td><td> 0.65 Mbp </td></tr><tr><td> 60 </td><td> 1459 </td><td> 456.90 Kbp </td><td> 1459 </td><td> 456.92 Kbp </td></tr><tr><td> 70 </td><td> 2139 </td><td> 258.36 Kbp </td><td> 2138 </td><td> 258.74 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.791x </th><th> 4893 </th><th> 1.88 Gbp </th><th> 4893 </th><th> 1.88 Gbp </th></tr>
+  <tr><th> 0.797x </th><th> 4899 </th><th> 1.90 Gbp </th><th> 4896 </th><th> 1.90 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: northern bat
 data_arima-1_bases: 252.25 Gbp
 data_arima-1_bytes: 75.2 GiB
@@ -61,7 +61,7 @@ genome_size: 2383875000
 genome_size_display: 2.38 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687192022
-last_updated: 1691521081
+last_updated: 1692198441
 metadata: |
   species:
     short_name: mEptNil
@@ -110,12 +110,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Eptesicus nilssonii
 name_: Eptesicus_nilssonii
-pri1date: 2023-05-07
-pri1filesize: 590.7 MiB
-pri1length: '2081221059'
+pri1date: 2023-08-16
+pri1filesize: 588.4 MiB
+pri1length: '2064119045'
 pri1n50ctg: 2058440
 pri1n50scf: 95299571
-pri1seq: https://s3.amazonaws.com/genomeark/species/Eptesicus_nilssonii/mEptNil1/assembly_cambridge/mEptNil1.pri.asm.20230507.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Eptesicus_nilssonii/mEptNil1/assembly_curated/mEptNil1.pri.cur.20230816.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -133,12 +133,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 32 </td><td> 5.92 Mbp </td><td> 2 </td><td> 118.31 Mbp </td></tr><tr><td> 20 </td><td> 79 </td><td> 4.43 Mbp </td><td> 4 </td><td> 112.64 Mbp </td></tr><tr><td> 30 </td><td> 143 </td><td> 3.18 Mbp </td><td> 7 </td><td> 107.51 Mbp </td></tr><tr><td> 40 </td><td> 226 </td><td> 2.62 Mbp </td><td> 9 </td><td> 103.32 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 328 </td><td style="background-color:#88ff88;"> 2.06 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 95.30 Mbp </td></tr><tr><td> 60 </td><td> 459 </td><td> 1.59 Mbp </td><td> 14 </td><td> 82.70 Mbp </td></tr><tr><td> 70 </td><td> 639 </td><td> 1.10 Mbp </td><td> 17 </td><td> 62.26 Mbp </td></tr><tr><td> 80 </td><td> 917 </td><td> 0.62 Mbp </td><td> 22 </td><td> 45.10 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 32 </td><td> 5.92 Mbp </td><td> 2 </td><td> 118.31 Mbp </td></tr><tr><td> 20 </td><td> 79 </td><td> 4.43 Mbp </td><td> 4 </td><td> 112.64 Mbp </td></tr><tr><td> 30 </td><td> 143 </td><td> 3.18 Mbp </td><td> 7 </td><td> 108.21 Mbp </td></tr><tr><td> 40 </td><td> 226 </td><td> 2.62 Mbp </td><td> 9 </td><td> 103.32 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 328 </td><td style="background-color:#88ff88;"> 2.06 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 95.30 Mbp </td></tr><tr><td> 60 </td><td> 460 </td><td> 1.57 Mbp </td><td> 14 </td><td> 85.40 Mbp </td></tr><tr><td> 70 </td><td> 642 </td><td> 1.08 Mbp </td><td> 17 </td><td> 62.83 Mbp </td></tr><tr><td> 80 </td><td> 929 </td><td> 0.58 Mbp </td><td> 21 </td><td> 52.18 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.873x </th><th> 1675 </th><th> 2.08 Gbp </th><th> 276 </th><th> 2.08 Gbp </th></tr>
+  <tr><th> 0.866x </th><th> 1630 </th><th> 2.06 Gbp </th><th> 207 </th><th> 2.06 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: mEptNil

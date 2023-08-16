@@ -1,5 +1,34 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+alt1date: 2023-08-14
+alt1filesize: 331.8 MiB
+alt1length: '1213752058'
+alt1n50ctg: '279869'
+alt1n50scf: '279869'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Zootoca_vivipara/rZooViv1/assembly_cambridge/rZooViv1.alt.asm.20230814.fasta.gz
+alt1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 111 </td><td> 0.91 Mbp </td><td> 111 </td><td> 0.91 Mbp </td></tr><tr><td> 20 </td><td> 290 </td><td> 0.63 Mbp </td><td> 290 </td><td> 0.63 Mbp </td></tr><tr><td> 30 </td><td> 536 </td><td> 473.42 Kbp </td><td> 536 </td><td> 473.42 Kbp </td></tr><tr><td> 40 </td><td> 860 </td><td> 365.03 Kbp </td><td> 860 </td><td> 365.03 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1282 </td><td> 279.87 Kbp </td><td> 1282 </td><td> 279.87 Kbp </td></tr><tr><td> 60 </td><td> 1850 </td><td> 200.27 Kbp </td><td> 1850 </td><td> 200.27 Kbp </td></tr><tr><td> 70 </td><td> 2686 </td><td> 128.28 Kbp </td><td> 2686 </td><td> 128.28 Kbp </td></tr><tr><td> 80 </td><td> 4163 </td><td> 63.96 Kbp </td><td> 4163 </td><td> 63.96 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.899x </th><th> 8054 </th><th> 1.21 Gbp </th><th> 8054 </th><th> 1.21 Gbp </th></tr>
+  </tfoot>
+  </table>
+alt1version: assembly_cambridge
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: common lizard
 data_arima-1_bases: 63.95 Gbp
 data_arima-1_bytes: 19.7 GiB
@@ -11,16 +40,16 @@ data_arima-1_scale: 3.0186
 data_arima_bases: 63.95 Gbp
 data_arima_bytes: 19.7 GiB
 data_arima_coverage: 47.39x
-data_pacbiohifi_bam-1_bases: 25.68 Gbp
-data_pacbiohifi_bam-1_bytes: 90.3 GiB
-data_pacbiohifi_bam-1_coverage: 19.03x
+data_pacbiohifi_bam-1_bases: 42.13 Gbp
+data_pacbiohifi_bam-1_bytes: 109.2 GiB
+data_pacbiohifi_bam-1_coverage: 31.22x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Zootoca_vivipara/rZooViv1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Zootoca_vivipara/rZooViv1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zootoca_vivipara/rZooViv1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2648
-data_pacbiohifi_bam_bases: 25.68 Gbp
-data_pacbiohifi_bam_bytes: 90.3 GiB
-data_pacbiohifi_bam_coverage: 19.03x
+data_pacbiohifi_bam-1_scale: 0.3592
+data_pacbiohifi_bam_bases: 42.13 Gbp
+data_pacbiohifi_bam_bytes: 109.2 GiB
+data_pacbiohifi_bam_coverage: 31.22x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -29,8 +58,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1349640000
 genome_size_display: 1.35 Gbp
 genome_size_method: GoaT
-last_raw_data: 1676138377
-last_updated: 1676138377
+last_raw_data: 1691912691
+last_updated: 1692002392
 metadata: |
   species:
     short_name: rZooViv
@@ -48,8 +77,66 @@ metadata: |
     genome_size: 1349640000
     genome_size_method: GoaT
     project: [ vgp ]
+mito1date: 2023-08-14
+mito1filesize: 5.4 KiB
+mito1length: '17050'
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Zootoca_vivipara/rZooViv1/assembly_MT_cambridge/rZooViv1.MT.20230814.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 17.05 Kbp </th><th> 1 </th><th> 17.05 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_cambridge
 name: Zootoca vivipara
 name_: Zootoca_vivipara
+pri1date: 2023-08-14
+pri1filesize: 424.3 MiB
+pri1length: '1448030002'
+pri1n50ctg: 3770246
+pri1n50scf: 97165297
+pri1seq: https://s3.amazonaws.com/genomeark/species/Zootoca_vivipara/rZooViv1/assembly_cambridge/rZooViv1.pri.asm.20230814.fasta.gz
+pri1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 13 </td><td> 9.53 Mbp </td><td> 1 </td><td> 135.72 Mbp </td></tr><tr><td> 20 </td><td> 29 </td><td> 7.55 Mbp </td><td> 3 </td><td> 120.54 Mbp </td></tr><tr><td> 30 </td><td> 49 </td><td> 6.00 Mbp </td><td> 4 </td><td> 102.32 Mbp </td></tr><tr><td> 40 </td><td> 76 </td><td> 4.62 Mbp </td><td> 5 </td><td> 98.10 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 109 </td><td style="background-color:#88ff88;"> 3.77 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 97.17 Mbp </td></tr><tr><td> 60 </td><td> 149 </td><td> 3.02 Mbp </td><td> 8 </td><td> 88.83 Mbp </td></tr><tr><td> 70 </td><td> 198 </td><td> 2.49 Mbp </td><td> 9 </td><td> 85.02 Mbp </td></tr><tr><td> 80 </td><td> 259 </td><td> 1.97 Mbp </td><td> 11 </td><td> 64.65 Mbp </td></tr><tr><td> 90 </td><td> 340 </td><td> 1.42 Mbp </td><td> 14 </td><td> 54.49 Mbp </td></tr><tr><td> 100 </td><td> 462 </td><td> 0.80 Mbp </td><td> 17 </td><td> 42.82 Mbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.073x </th><th> 737 </th><th> 1.45 Gbp </th><th> 68 </th><th> 1.45 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri1version: assembly_cambridge
 project:
 - vgp
 short_name: rZooViv
