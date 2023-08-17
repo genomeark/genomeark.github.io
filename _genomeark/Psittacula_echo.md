@@ -1,10 +1,10 @@
 ---
-alt3date: 2023-08-02
-alt3filesize: 207.2 MiB
-alt3length: '791920311'
+alt3date: 2023-08-17
+alt3filesize: 221.8 MiB
+alt3length: '791895490'
 alt3n50ctg: '571780'
 alt3n50scf: '571780'
-alt3seq: https://s3.amazonaws.com/genomeark/species/Psittacula_echo/bPsiEch3/assembly_cambridge/bPsiEch3.alt.asm.20230802.fasta.gz
+alt3seq: https://s3.amazonaws.com/genomeark/species/Psittacula_echo/bPsiEch3/assembly_curated/bPsiEch3.alt.cur.20230817.fasta.gz
 alt3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -24,11 +24,11 @@ alt3sizes: |
   <tbody>
   <tr><td> 10 </td><td> 35 </td><td> 2.64 Mbp </td><td> 35 </td><td> 2.64 Mbp </td></tr><tr><td> 20 </td><td> 91 </td><td> 1.88 Mbp </td><td> 91 </td><td> 1.88 Mbp </td></tr><tr><td> 30 </td><td> 170 </td><td> 1.34 Mbp </td><td> 170 </td><td> 1.34 Mbp </td></tr><tr><td> 40 </td><td> 281 </td><td> 0.93 Mbp </td><td> 281 </td><td> 0.93 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 452 </td><td> 0.57 Mbp </td><td> 452 </td><td> 0.57 Mbp </td></tr><tr><td> 60 </td><td> 936 </td><td> 85.93 Kbp </td><td> 936 </td><td> 85.93 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.633x </th><th> 2131 </th><th> 0.79 Gbp </th><th> 2131 </th><th> 0.79 Gbp </th></tr>
+  <tr><th> 0.633x </th><th> 2130 </th><th> 0.79 Gbp </th><th> 2130 </th><th> 0.79 Gbp </th></tr>
   </tfoot>
   </table>
-alt3version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt3version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Mauritius parakeet
 data_arima-1_bases: 80.50 Gbp
 data_arima-1_bytes: 24.3 GiB
@@ -59,7 +59,7 @@ genome_size: 1251840000
 genome_size_display: 1.25 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691524084
-last_updated: 1691524084
+last_updated: 1692230422
 metadata: |
   species:
     short_name: bPsiEch
@@ -111,12 +111,12 @@ mito3sizes: |
 mito3version: assembly_MT_cambridge
 name: Psittacula echo
 name_: Psittacula_echo
-pri3date: 2023-08-02
-pri3filesize: 339.4 MiB
-pri3length: '1203883084'
-pri3n50ctg: 5784714
-pri3n50scf: 105909743
-pri3seq: https://s3.amazonaws.com/genomeark/species/Psittacula_echo/bPsiEch3/assembly_cambridge/bPsiEch3.pri.asm.20230802.fasta.gz
+pri3date: 2023-08-17
+pri3filesize: 339.3 MiB
+pri3length: '1203831919'
+pri3n50ctg: 5751238
+pri3n50scf: 106987384
+pri3seq: https://s3.amazonaws.com/genomeark/species/Psittacula_echo/bPsiEch3/assembly_curated/bPsiEch3.pri.cur.20230817.fasta.gz
 pri3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -134,12 +134,12 @@ pri3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 7 </td><td> 14.28 Mbp </td><td> 1 </td><td> 163.93 Mbp </td></tr><tr><td> 20 </td><td> 19 </td><td> 9.77 Mbp </td><td> 2 </td><td> 161.14 Mbp </td></tr><tr><td> 30 </td><td> 32 </td><td> 8.62 Mbp </td><td> 3 </td><td> 128.04 Mbp </td></tr><tr><td> 40 </td><td> 49 </td><td> 6.58 Mbp </td><td> 4 </td><td> 122.79 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 69 </td><td style="background-color:#88ff88;"> 5.78 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 105.91 Mbp </td></tr><tr><td> 60 </td><td> 93 </td><td> 4.58 Mbp </td><td> 6 </td><td> 90.32 Mbp </td></tr><tr><td> 70 </td><td> 125 </td><td> 3.26 Mbp </td><td> 8 </td><td> 66.74 Mbp </td></tr><tr><td> 80 </td><td> 171 </td><td> 2.23 Mbp </td><td> 12 </td><td> 21.18 Mbp </td></tr><tr><td> 90 </td><td> 251 </td><td> 1.08 Mbp </td><td> 24 </td><td> 6.49 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 7 </td><td> 14.28 Mbp </td><td> 1 </td><td> 168.07 Mbp </td></tr><tr><td> 20 </td><td> 19 </td><td> 9.77 Mbp </td><td> 2 </td><td> 161.94 Mbp </td></tr><tr><td> 30 </td><td> 32 </td><td> 8.62 Mbp </td><td> 3 </td><td> 128.36 Mbp </td></tr><tr><td> 40 </td><td> 49 </td><td> 6.58 Mbp </td><td> 4 </td><td> 122.79 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 69 </td><td style="background-color:#88ff88;"> 5.75 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 106.99 Mbp </td></tr><tr><td> 60 </td><td> 93 </td><td> 4.57 Mbp </td><td> 6 </td><td> 90.32 Mbp </td></tr><tr><td> 70 </td><td> 125 </td><td> 3.26 Mbp </td><td> 8 </td><td> 66.74 Mbp </td></tr><tr><td> 80 </td><td> 172 </td><td> 2.22 Mbp </td><td> 12 </td><td> 21.18 Mbp </td></tr><tr><td> 90 </td><td> 252 </td><td> 1.08 Mbp </td><td> 22 </td><td> 7.78 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.962x </th><th> 529 </th><th> 1.20 Gbp </th><th> 199 </th><th> 1.20 Gbp </th></tr>
+  <tr><th> 0.962x </th><th> 530 </th><th> 1.20 Gbp </th><th> 172 </th><th> 1.20 Gbp </th></tr>
   </tfoot>
   </table>
-pri3version: assembly_cambridge
+pri3version: assembly_curated
 project:
 - vgp
 short_name: bPsiEch
