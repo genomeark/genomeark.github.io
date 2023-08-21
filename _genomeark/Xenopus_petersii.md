@@ -48,7 +48,48 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1682106454
-last_updated: 1692213451
+last_updated: 1692382702
+mds:
+- data: "species: Xenopus petersii\nspecimen: aXenPet1\nprojects: \n  - vgp\ndata_location:
+    S3\nrelease_to: S3\nmaternal: s3://genomeark/species/Xenopus_petersii/aXenPet1/assembly_vgp_HiC_2.0/aXenPet1.trio.mat.20230815.fasta.gz\npretext:
+    s3://genomeark/species/Xenopus_petersii/aXenPet1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aXenPet1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Xenopus_petersii/aXenPet1/assembly_vgp_HiC_2.0/evaluation/merqury/aXenPet1_png/\nmito:
+    s3://genomeark/species/Xenopus_petersii/aXenPet1/assembly_MT_rockefeller/aXenPet1.MT.20230815.fasta.gz\npacbio_read_dir:
+    s3://genomeark/species/Xenopus_petersii/aXenPet1/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Xenopus_petersii/aXenPet1/genomic_data/arima/\npipeline:\n
+    \ - hifiasm (0.19.3+galaxy0)\n  - purge_dups (2.2) for paternal haplotype\n  -
+    yahs (1.2a.2+galaxy1)\nassembled_by_group: Rockefeller\nnotes: This was a trio
+    assembly of aXenPet1 using parental illumina data. Sample metadata says a female
+    specimen. This individual did not have bionano data. HiC scaffolding was performed
+    with yahs. The HiC prep was Arima kit 2. The HiC reads needed to have 5 bp trimmed
+    from the 5' end due to adapter left over from the Arima library prep kit. In the
+    intermediate files, hap1 is the paternal haplotype and hap2 is the maternal haplotype.
+    The paternal haplotype went through purge_dups due to presence of 2-copy k-mers
+    at diploid coverage in the merqury plots. The BUSCO values were troublesome, and
+    likely indicate presence of many paralogs. We are submitting both haplotypes for
+    trio curation, and this is the ticket for the maternal haplotype."
+  ident: md4
+  title: assembly_vgp_trio_2.0/aXenPet1_mat.yml
+- data: "species: Xenopus petersii\nspecimen: aXenPet1\nprojects: \n  - vgp\ndata_location:
+    S3\nrelease_to: S3\npaternal: s3://genomeark/species/Xenopus_petersii/aXenPet1/assembly_vgp_HiC_2.0/aXenPet1.trio.pat.20230815.fasta.gz\npretext:
+    s3://genomeark/species/Xenopus_petersii/aXenPet1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aXenPet1_hap1__s2_heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Xenopus_petersii/aXenPet1/assembly_vgp_HiC_2.0/evaluation/merqury/aXenPet1_png/\nmito:
+    s3://genomeark/species/Xenopus_petersii/aXenPet1/assembly_MT_rockefeller/aXenPet1.MT.20230815.fasta.gz\npacbio_read_dir:
+    s3://genomeark/species/Xenopus_petersii/aXenPet1/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Xenopus_petersii/aXenPet1/genomic_data/arima/\npipeline:\n
+    \ - hifiasm (0.19.3+galaxy0)\n  - purge_dups (2.2) for paternal haplotype\n  -
+    yahs (1.2a.2+galaxy1)\nassembled_by_group: Rockefeller\nnotes: This was a trio
+    assembly of aXenPet1 using parental illumina data. Sample metadata says a female
+    specimen. This individual did not have bionano data. HiC scaffolding was performed
+    with yahs. The HiC prep was Arima kit 2. The HiC reads needed to have 5 bp trimmed
+    from the 5' end due to adapter left over from the Arima library prep kit. In the
+    intermediate files, hap1 is the paternal haplotype and hap2 is the maternal haplotype.
+    The paternal haplotype went through purge_dups due to presence of 2-copy k-mers
+    at diploid coverage in the merqury plots. The BUSCO values were troublesome, and
+    likely indicate presence of many paralogs. We are submitting both haplotypes for
+    trio curation, and this is the ticket for the paternal haplotype."
+  ident: md5
+  title: assembly_vgp_trio_2.0/aXenPet1_pat.yml
 mito1date: 2023-08-15
 mito1filesize: 5.7 KiB
 mito1length: '17717'
