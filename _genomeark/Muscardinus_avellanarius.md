@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-08-04
-alt1filesize: 318.8 MiB
-alt1length: '1187255214'
+alt1date: 2023-08-22
+alt1filesize: 339.7 MiB
+alt1length: '1187222402'
 alt1n50ctg: 0
 alt1n50scf: 0
-alt1seq: https://s3.amazonaws.com/genomeark/species/Muscardinus_avellanarius/mMusAve1/assembly_cambridge/mMusAve1.alt.asm.20230804.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Muscardinus_avellanarius/mMusAve1/assembly_curated/mMusAve1.alt.cur.20230822.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 4521 </td><td> 54.89 Kbp </td><td> 4521 </td><td> 54.89 Kbp </td></tr><tr><td> 20 </td><td> 14089 </td><td> 31.53 Kbp </td><td> 14089 </td><td> 31.53 Kbp </td></tr><tr><td> 30 </td><td> 30120 </td><td> 15.75 Kbp </td><td> 30120 </td><td> 15.75 Kbp </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 4521 </td><td> 54.89 Kbp </td><td> 4521 </td><td> 54.89 Kbp </td></tr><tr><td> 20 </td><td> 14089 </td><td> 31.53 Kbp </td><td> 14089 </td><td> 31.53 Kbp </td></tr><tr><td> 30 </td><td> 30121 </td><td> 15.75 Kbp </td><td> 30121 </td><td> 15.75 Kbp </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.306x </th><th> 31857 </th><th> 1.19 Gbp </th><th> 31857 </th><th> 1.19 Gbp </th></tr>
+  <tr><th> 0.306x </th><th> 31856 </th><th> 1.19 Gbp </th><th> 31856 </th><th> 1.19 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: hazel dormouse
 data_arima-1_bases: 542.86 Gbp
 data_arima-1_bytes: 157.3 GiB
@@ -59,7 +59,7 @@ genome_size: 3882659999.5
 genome_size_display: 3.88 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691528639
-last_updated: 1691528641
+last_updated: 1692662447
 metadata: |
   species:
     short_name: mMusAve
@@ -108,12 +108,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Muscardinus avellanarius
 name_: Muscardinus_avellanarius
-pri1date: 2023-08-04
+pri1date: 2023-08-22
 pri1filesize: 712.6 MiB
-pri1length: '2497536243'
+pri1length: '2497520702'
 pri1n50ctg: 1260400
 pri1n50scf: 99450960
-pri1seq: https://s3.amazonaws.com/genomeark/species/Muscardinus_avellanarius/mMusAve1/assembly_cambridge/mMusAve1.pri.asm.20230804.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Muscardinus_avellanarius/mMusAve1/assembly_curated/mMusAve1.pri.cur.20230822.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 55 </td><td> 5.24 Mbp </td><td> 2 </td><td> 202.70 Mbp </td></tr><tr><td> 20 </td><td> 147 </td><td> 3.48 Mbp </td><td> 5 </td><td> 142.52 Mbp </td></tr><tr><td> 30 </td><td> 277 </td><td> 2.61 Mbp </td><td> 7 </td><td> 133.59 Mbp </td></tr><tr><td> 40 </td><td> 451 </td><td> 1.90 Mbp </td><td> 11 </td><td> 113.43 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 699 </td><td style="background-color:#88ff88;"> 1.26 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 99.45 Mbp </td></tr><tr><td> 60 </td><td> 1143 </td><td> 0.55 Mbp </td><td> 19 </td><td> 53.12 Mbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 55 </td><td> 5.24 Mbp </td><td> 2 </td><td> 203.09 Mbp </td></tr><tr><td> 20 </td><td> 147 </td><td> 3.48 Mbp </td><td> 5 </td><td> 142.52 Mbp </td></tr><tr><td> 30 </td><td> 277 </td><td> 2.61 Mbp </td><td> 7 </td><td> 131.30 Mbp </td></tr><tr><td> 40 </td><td> 451 </td><td> 1.90 Mbp </td><td> 11 </td><td> 113.83 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 699 </td><td style="background-color:#88ff88;"> 1.26 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 99.45 Mbp </td></tr><tr><td> 60 </td><td> 1143 </td><td> 0.55 Mbp </td><td> 19 </td><td> 53.12 Mbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.643x </th><th> 2017 </th><th> 2.50 Gbp </th><th> 229 </th><th> 2.50 Gbp </th></tr>
+  <tr><th> 0.643x </th><th> 2018 </th><th> 2.50 Gbp </th><th> 213 </th><th> 2.50 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: mMusAve
