@@ -28,7 +28,8 @@ document.addEventListener('click', tog, false);
   <p class="sd-cname">{{ page.common_name }}</p>
 
   {% assign clen = page.project.size | minus: 1 %}
-  {% if    clen == 0 %}
+  {% if clen == -1 %}
+  {% elsif clen == 0 %}
     <p class="sd-pname">Included in the {{ page.project[0] | upcase }}.</p>
   {% else %}
     {% assign clist = page.project | slice:  0, clen | join: ", " | upcase %}

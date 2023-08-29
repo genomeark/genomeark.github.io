@@ -112,6 +112,15 @@ collections:
   erga-raw-data-only:
     output: true
 
+  bat1k-all:
+    output: true
+  bat1k-curated-assembly:
+    output: true
+  bat1k-draft-assembly:
+    output: true
+  bat1k-raw-data-only:
+    output: true
+
 
 defaults:
   - scope:
@@ -200,6 +209,27 @@ defaults:
       use_name_for_title: true
   - scope:
       path: "_erga-raw-data-only"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+
+  - scope:
+      path: "_bat1k-all"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+  - scope:
+      path: "_bat1k-curated-assembly"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+  - scope:
+      path: "_bat1k-draft-assembly"
+    values:
+      layout: genomeark
+      use_name_for_title: true
+  - scope:
+      path: "_bat1k-raw-data-only"
     values:
       layout: genomeark
       use_name_for_title: true

@@ -12,12 +12,16 @@
 	<div class="species-list-info-wrapper" style="display:table-cell;">
     <div class="species-list-info-name">
     <a href="{{ site.baseurl }}{{ species.url }}"><i>{{ species.name }}</i></a>
-    {% if species.common_name %}
+    {% if species.common_name.size > 0 %}
     "{{ species.common_name }}"
     {% endif %}
     </div>
     <div class="species-list-info-body">
+      {% if species.project.size > 0 %}
       Project: {{ species.project | join: " ::: " | upcase: }}
+      {% else %}
+      Project: (none)
+      {% endif %}
       <br>
       Reads: {{ species.data_status }}
       <br>
