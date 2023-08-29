@@ -11,7 +11,17 @@ data_arima-1_scale: 1.8029
 data_arima_bases: 82.63 Gbp
 data_arima_bytes: 42.7 GiB
 data_arima_coverage: N/A
-data_status: <em style="color:forestgreen">Arima</em>
+data_pacbiohifi_fqgz-1_bases: 65.63 Gbp
+data_pacbiohifi_fqgz-1_bytes: 47.0 GiB
+data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Spizella_passerina/bSpiPas1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Spizella_passerina/bSpiPas1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spizella_passerina/bSpiPas1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2992
+data_pacbiohifi_fqgz_bases: 65.63 Gbp
+data_pacbiohifi_fqgz_bytes: 47.0 GiB
+data_pacbiohifi_fqgz_coverage: N/A
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -19,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1665071199
-last_updated: 1665071199
+last_raw_data: 1692995414
+last_updated: 1692995414
 name: Spizella passerina
 name_: Spizella_passerina
 project: ~

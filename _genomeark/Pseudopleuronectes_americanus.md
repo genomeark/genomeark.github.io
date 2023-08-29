@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1689871755
-last_updated: 1692140580
+last_updated: 1693273071
 mds:
 - data: "species: Pseudopleuronectes americanus\nspecimen: fPseAme1\nprojects: \n
     \ - vgp\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Pseudopleuronectes_americanus/fPseAme1/assembly_vgp_HiC_2.0/fPseAme1.HiC.hap1.20230815.fasta.gz\nhap2:
@@ -106,7 +106,7 @@ mds:
     with yahs. The HiC prep was Arima kit 2. The HiC reads needed to have 5 bp trimmed
     from the 5' end due to adapter left over from the Arima library prep kit. We are
     submitting both haplotypes for dual curation, and this is the ticket for hap1. "
-  ident: md4
+  ident: md6
   title: assembly_vgp_HiC_2.0/fPseAme1_hap1.yml
 - data: "species: Pseudopleuronectes americanus\nspecimen: fPseAme1\nprojects: \n
     \ - vgp\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Pseudopleuronectes_americanus/fPseAme1/assembly_vgp_HiC_2.0/fPseAme1.HiC.hap1.20230815.fasta.gz\nhap2:
@@ -124,7 +124,7 @@ mds:
     with yahs. The HiC prep was Arima kit 2. The HiC reads needed to have 5 bp trimmed
     from the 5' end due to adapter left over from the Arima library prep kit. We are
     submitting both haplotypes for dual curation, and this is the ticket for hap2. "
-  ident: md5
+  ident: md7
   title: assembly_vgp_HiC_2.0/fPseAme1_hap2.yml
 mito1date: 2023-08-15
 mito1filesize: 5.6 KiB

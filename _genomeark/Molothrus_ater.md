@@ -39,8 +39,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1689382940
-last_updated: 1689382940
+last_raw_data: 1692995195
+last_updated: 1692995195
 name: Molothrus ater
 name_: Molothrus_ater
 project: ~

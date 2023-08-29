@@ -101,9 +101,11 @@ mds:
     hifi\nhic_read_dir: s3://genomeark/species/Pelecanus_crispus/bPelCri1/genomic_data/arima/\npipeline:\n
     \ - hifiasm (0.18.8+galaxy1)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group: Rockefeller\nnotes:
     This was a primary/alternate assembly of bPelCri1, done using hifiasm with internal
-    purging turned on to default level. This individual had did not bionano data,
-    and the HiC data came from another individual (bPelCri2). HiC scaffolding was
-    performed with yahs. The HiC prep was Arima kit 2. "
+    purging turned on to default level. This assembly did not use bionano data, and
+    the HiC data came from another individual (bPelCri2). HiC scaffolding was performed
+    with yahs. The HiC prep was Arima kit 2. There is bionano data available from
+    external sequencing in the respective genomeark folder, but it was not used for
+    this assembly."
   ident: md6
   title: assembly_vgp_standard_2.0/bPelCri1.yml
 metadata: |

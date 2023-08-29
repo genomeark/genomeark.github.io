@@ -94,9 +94,10 @@ metadata: |
       name: Rhinolophidae
     individuals:
       - short_name: mRhiFer1
+      - short_name: mRhiFer2
     genome_size: 2369916842
     genome_size_method:
-    project: [ vgp ]
+    project: [ vgp , bat1k ]
 mito1date: 2019-10-03
 mito1filesize: 5.0 KiB
 mito1length: '16848'
@@ -160,6 +161,7 @@ pri1sizes: |
 pri1version: assembly_curated
 project:
 - vgp
+- bat1k
 short_name: mRhiFer
 taxon_id: 59479
 ---

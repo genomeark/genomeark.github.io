@@ -1,1 +1,0 @@
-../_genomeark/Rhinolophus_sinicus.md
