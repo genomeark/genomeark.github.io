@@ -58,7 +58,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1674520403
-last_updated: 1676325029
+last_updated: 1693342172
 mito1date: 2023-02-13
 mito1filesize: 5.3 KiB
 mito1length: '16918'

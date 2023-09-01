@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 111.82 Gbp
 data_arima-1_bytes: 57.7 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-07-19
-hpa1filesize: 384.4 MiB
-hpa1length: '1373349285'
-hpa1n50ctg: 24624387
-hpa1n50scf: 85985397
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Dromaius_novaehollandiae/bDroNov1/assembly_vgp_HiC_2.0/bDroNov1.HiC.hap1.20230719.fasta.gz
+hpa1date: 2023-08-31
+hpa1filesize: 410.0 MiB
+hpa1length: '1468725693'
+hpa1n50ctg: 24239989
+hpa1n50scf: 77929039
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Dromaius_novaehollandiae/bDroNov1/assembly_curated/bDroNov1.hap1.cur.20230831.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 44.90 Mbp </td><td> 1 </td><td> 219.53 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 39.62 Mbp </td><td> 2 </td><td> 170.27 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 37.44 Mbp </td><td> 3 </td><td> 131.77 Mbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 29.09 Mbp </td><td> 4 </td><td> 87.99 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 19 </td><td style="background-color:#88ff88;"> 24.62 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 85.99 Mbp </td></tr><tr><td> 60 </td><td> 25 </td><td> 22.15 Mbp </td><td> 8 </td><td> 44.47 Mbp </td></tr><tr><td> 70 </td><td> 33 </td><td> 11.89 Mbp </td><td> 11 </td><td> 28.05 Mbp </td></tr><tr><td> 80 </td><td> 47 </td><td> 8.30 Mbp </td><td> 17 </td><td> 22.15 Mbp </td></tr><tr><td> 90 </td><td> 69 </td><td> 4.52 Mbp </td><td> 26 </td><td> 8.25 Mbp </td></tr><tr><td> 100 </td><td> 382 </td><td> 6.03 Kbp </td><td> 284 </td><td> 6.03 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 44.90 Mbp </td><td> 1 </td><td> 219.53 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 38.96 Mbp </td><td> 2 </td><td> 170.27 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 37.44 Mbp </td><td> 3 </td><td> 131.77 Mbp </td></tr><tr><td> 40 </td><td> 15 </td><td> 27.06 Mbp </td><td> 4 </td><td> 87.99 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 21 </td><td style="background-color:#88ff88;"> 24.24 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 77.93 Mbp </td></tr><tr><td> 60 </td><td> 28 </td><td> 21.09 Mbp </td><td> 8 </td><td> 49.99 Mbp </td></tr><tr><td> 70 </td><td> 37 </td><td> 11.59 Mbp </td><td> 12 </td><td> 30.40 Mbp </td></tr><tr><td> 80 </td><td> 52 </td><td> 8.25 Mbp </td><td> 17 </td><td> 23.76 Mbp </td></tr><tr><td> 90 </td><td> 77 </td><td> 4.09 Mbp </td><td> 26 </td><td> 10.55 Mbp </td></tr><tr><td> 100 </td><td> 401 </td><td> 6.03 Kbp </td><td> 272 </td><td> 6.03 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 382 </th><th> 1.37 Gbp </th><th> 284 </th><th> 1.37 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 401 </th><th> 1.47 Gbp </th><th> 272 </th><th> 1.47 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2023-07-19
-hpb1filesize: 400.2 MiB
-hpb1length: '1454598844'
+hpa1version: assembly_curated
+hpb1date: 2023-08-31
+hpb1filesize: 374.5 MiB
+hpb1length: '1359162908'
 hpb1n50ctg: 21059541
-hpb1n50scf: 71775622
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Dromaius_novaehollandiae/bDroNov1/assembly_vgp_HiC_2.0/bDroNov1.HiC.hap2.20230719.fasta.gz
+hpb1n50scf: 78348880
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Dromaius_novaehollandiae/bDroNov1/assembly_curated/bDroNov1.hap2.cur.20230831.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 42.39 Mbp </td><td> 1 </td><td> 221.26 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 36.65 Mbp </td><td> 2 </td><td> 171.07 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 32.43 Mbp </td><td> 3 </td><td> 131.88 Mbp </td></tr><tr><td> 40 </td><td> 16 </td><td> 26.92 Mbp </td><td> 4 </td><td> 87.01 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 22 </td><td style="background-color:#88ff88;"> 21.06 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 71.78 Mbp </td></tr><tr><td> 60 </td><td> 30 </td><td> 17.17 Mbp </td><td> 9 </td><td> 38.70 Mbp </td></tr><tr><td> 70 </td><td> 40 </td><td> 11.82 Mbp </td><td> 13 </td><td> 28.98 Mbp </td></tr><tr><td> 80 </td><td> 56 </td><td> 6.90 Mbp </td><td> 19 </td><td> 18.10 Mbp </td></tr><tr><td> 90 </td><td> 89 </td><td> 2.97 Mbp </td><td> 34 </td><td> 4.50 Mbp </td></tr><tr><td> 100 </td><td> 359 </td><td> 10.77 Kbp </td><td> 258 </td><td> 10.77 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 42.39 Mbp </td><td> 1 </td><td> 221.26 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 36.73 Mbp </td><td> 2 </td><td> 171.07 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 33.96 Mbp </td><td> 3 </td><td> 131.88 Mbp </td></tr><tr><td> 40 </td><td> 15 </td><td> 26.96 Mbp </td><td> 4 </td><td> 87.01 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 21.06 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 78.35 Mbp </td></tr><tr><td> 60 </td><td> 27 </td><td> 17.96 Mbp </td><td> 8 </td><td> 43.83 Mbp </td></tr><tr><td> 70 </td><td> 36 </td><td> 12.47 Mbp </td><td> 12 </td><td> 28.98 Mbp </td></tr><tr><td> 80 </td><td> 50 </td><td> 7.41 Mbp </td><td> 18 </td><td> 18.10 Mbp </td></tr><tr><td> 90 </td><td> 80 </td><td> 3.10 Mbp </td><td> 30 </td><td> 6.99 Mbp </td></tr><tr><td> 100 </td><td> 339 </td><td> 10.77 Kbp </td><td> 238 </td><td> 10.77 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 359 </th><th> 1.45 Gbp </th><th> 258 </th><th> 1.45 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 339 </th><th> 1.36 Gbp </th><th> 238 </th><th> 1.36 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1689115841
-last_updated: 1689795825
+last_updated: 1693440261
 mds:
 - data: "species: Dromaius novehollandiae\nspecimen: bDroNov1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Dromaius_novehollandiae/bDroNov1/assembly_vgp_HiC_2.0/bDroNov1.HiC.hap1.20230719.fasta.gz\nhap2:
@@ -109,7 +109,7 @@ mds:
     did not bionano data. HiC scaffolding was performed with yahs. The HiC prep was
     Arima kit 2. The HiC reads needed to have 5 bp trimmed from the 5' end due to
     adapter left over from the Arima library prep kit. "
-  ident: md4
+  ident: md10
   title: assembly_vgp_HiC_2.0/bDroNov1_hap1.yml
 - data: "species: Dromaius novehollandiae\nspecimen: bDroNov1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Dromaius_novehollandiae/bDroNov1/assembly_vgp_HiC_2.0/bDroNov1.HiC.hap1.20230719.fasta.gz\nhap2:
@@ -130,7 +130,7 @@ mds:
     did not bionano data. HiC scaffolding was performed with yahs. The HiC prep was
     Arima kit 2. The HiC reads needed to have 5 bp trimmed from the 5' end due to
     adapter left over from the Arima library prep kit. "
-  ident: md5
+  ident: md11
   title: assembly_vgp_HiC_2.0/bDroNov1_hap2.yml
 mito1date: 2023-07-19
 mito1filesize: 5.4 KiB

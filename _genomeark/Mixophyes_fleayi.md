@@ -30,7 +30,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1690217303
-last_updated: 1693273555
+last_updated: 1693343534
 mds:
 - data: "species: Mixophyes fleayi\r\nspecimen: aMixFle1\r\nprojects: \r\n  - vgp\r\ndata_location:
     S3\r\nrelease_to: S3\r\nhaplotype_to_curate: hap1\r\nhap1: s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap1.20230828.fasta.gz\r\nhap2:
@@ -46,7 +46,7 @@ mds:
     two complete haplotypes. Kmer spectra indicate a homogametic specimen. This individual
     had bionano data. HiC scaffolding was performed with yahs. The HiC prep was Arima
     kit 2. MitoHiFi failed on the reads. "
-  ident: md0
+  ident: md2
   title: assembly_vgp_HiC_2.0/aMixFle1_hap1.yml
 - data: "species: Mixophyes fleayi\r\nspecimen: aMixFle1\r\nprojects: \r\n  - vgp\r\ndata_location:
     S3\r\nrelease_to: S3\r\nhaplotype_to_curate: hap2\r\nhap1: s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap1.20230828.fasta.gz\r\nhap2:
@@ -62,7 +62,7 @@ mds:
     two complete haplotypes. Kmer spectra indicate a homogametic specimen. This individual
     had bionano data. HiC scaffolding was performed with yahs. The HiC prep was Arima
     kit 2. MitoHiFi failed on the reads. "
-  ident: md1
+  ident: md3
   title: assembly_vgp_HiC_2.0/aMixFle1_hap2.yml
 name: Mixophyes fleayi
 name_: Mixophyes_fleayi
