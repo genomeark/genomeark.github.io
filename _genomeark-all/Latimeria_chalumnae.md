@@ -1,0 +1,1 @@
+../_genomeark/Latimeria_chalumnae.md

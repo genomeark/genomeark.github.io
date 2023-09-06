@@ -50,11 +50,10 @@ metadata: |
     genome_size: 8958480000
     genome_size_method: GoaT
     data_use_project: erga
-    project: [ erga, vgp ]
+    project: [ vgp ]
 name: Bombina variegata
 name_: Bombina_variegata
 project:
-- erga
 - vgp
 short_name: aBomVar
 taxon_id: 8348

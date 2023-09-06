@@ -81,7 +81,7 @@ metadata: |
     genome_size: 2039130000
     genome_size_method: GoaT
     data_use_project: erga
-    project: [ erga, vgp ]
+    project: [ vgp ]
 name: Vipera ursinii
 name_: Vipera_ursinii
 pri1date: 2023-03-09
@@ -115,7 +115,6 @@ pri1sizes: |
   </table>
 pri1version: assembly_curated
 project:
-- erga
 - vgp
 short_name: rVipUrs
 taxon_id: 103942

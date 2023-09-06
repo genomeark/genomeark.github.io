@@ -1,15 +1,15 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: ''
-data_arima-2_bases: 19.22 Gbp
-data_arima-2_bytes: 10.1 GiB
+data_arima-2_bases: 55.36 Gbp
+data_arima-2_bytes: 29.8 GiB
 data_arima-2_coverage: N/A
 data_arima-2_links: s3://genomeark/species/Amia_calva/fAmiCal2/genomic_data/arima/<br>
 data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Amia_calva/fAmiCal2/genomic_data/arima/
 data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Amia_calva/fAmiCal2/genomic_data/arima/
-data_arima-2_scale: 1.7651
-data_arima_bases: 19.22 Gbp
-data_arima_bytes: 10.1 GiB
+data_arima-2_scale: 1.7303
+data_arima_bases: 55.36 Gbp
+data_arima_bytes: 29.8 GiB
 data_arima_coverage: N/A
 data_status: <em style="color:forestgreen">Arima</em>
 data_use_source: from-default
@@ -19,8 +19,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1689116325
-last_updated: 1689116325
+last_raw_data: 1693590829
+last_updated: 1693590829
 name: Amia calva
 name_: Amia_calva
 project: ~

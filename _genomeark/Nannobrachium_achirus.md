@@ -11,7 +11,17 @@ data_arima-1_scale: 3.0108
 data_arima_bases: 216.76 Gbp
 data_arima_bytes: 67.0 GiB
 data_arima_coverage: 110.82x
-data_status: <em style="color:forestgreen">Arima</em>
+data_pacbiohifi_bam-1_bases: 50.16 Gbp
+data_pacbiohifi_bam-1_bytes: 34.0 GiB
+data_pacbiohifi_bam-1_coverage: 25.64x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Nannobrachium_achirus/fNanAch1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nannobrachium_achirus/fNanAch1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nannobrachium_achirus/fNanAch1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.3737
+data_pacbiohifi_bam_bases: 50.16 Gbp
+data_pacbiohifi_bam_bytes: 34.0 GiB
+data_pacbiohifi_bam_coverage: 25.64x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -19,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1956000000
 genome_size_display: 1.96 Gbp
 genome_size_method: GoaT
-last_raw_data: 1675912025
-last_updated: 1675912027
+last_raw_data: 1693579015
+last_updated: 1693579015
 metadata: |
   species:
     short_name: fNanAch

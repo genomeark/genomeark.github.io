@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1681238907
-last_updated: 1691107396
+last_updated: 1693928592
 mds:
 - data: "species: Heliangelus exortis\nspecimen: bHelExo1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Heliangelus_exortis/bHelExo1/assembly_vgp_HiC_2.0/bHelExo1.HiC.hap1.20230419.fasta.gz\nhap2:
@@ -104,7 +104,7 @@ mds:
     was performed with yahs. K-mer spectra indicates a heterogametic specimen specimen.
     The HiC prep was Arima kit 2. I am submitting both hap1 & hap2 for dual curation.
     This is the curation ticket for hap1. "
-  ident: md8
+  ident: md10
   title: assembly_vgp_HiC_2.0/bHelExo1_hap1.yml
 - data: "species: Heliangelus exortis\nspecimen: bHelExo1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Heliangelus_exortis/bHelExo1/assembly_vgp_HiC_2.0/bHelExo1.HiC.hap1.20230419.fasta.gz\nhap2:
@@ -120,7 +120,7 @@ mds:
     was performed with yahs. K-mer spectra indicates a heterogametic specimen specimen.
     The HiC prep was Arima kit 2. I am submitting both hap1 & hap2 for dual curation.
     This is the curation ticket for hap2. "
-  ident: md9
+  ident: md11
   title: assembly_vgp_HiC_2.0/bHelExo1_hap2.yml
 name: Heliangelus exortis
 name_: Heliangelus_exortis
