@@ -98,12 +98,12 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-dip3date: 2022-11-11
-dip3filesize: 1.5 GiB
-dip3length: '6241023527'
-dip3n50ctg: 138751763
-dip3n50scf: 178806421
-dip3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_verkko_1.1-hic-freeze/mPanTro3.dip.20221111.fasta.gz
+dip3date: 2023-09-06
+dip3filesize: 1.4 GiB
+dip3length: '6170534084'
+dip3n50ctg: 178963970
+dip3n50scf: 178963970
+dip3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_verkko_1.4.1r/mPanTro3.dip.20230906.fasta.gz
 dip3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -121,21 +121,21 @@ dip3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 183.32 Mbp </td><td> 1 </td><td> 231.32 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 179.90 Mbp </td><td> 3 </td><td> 200.34 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 155.69 Mbp </td><td> 5 </td><td> 191.63 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 146.35 Mbp </td><td> 7 </td><td> 180.08 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 138.75 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 178.81 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 123.69 Mbp </td><td> 11 </td><td> 160.29 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 121.74 Mbp </td><td> 13 </td><td> 146.35 Mbp </td></tr><tr><td> 80 </td><td> 20 </td><td> 100.84 Mbp </td><td> 16 </td><td> 140.75 Mbp </td></tr><tr><td> 90 </td><td> 23 </td><td> 92.35 Mbp </td><td> 18 </td><td> 138.75 Mbp </td></tr><tr><td> 100 </td><td> 27 </td><td> 85.65 Mbp </td><td> 21 </td><td> 136.72 Mbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 231.30 Mbp </td><td> 2 </td><td> 231.30 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 200.34 Mbp </td><td> 4 </td><td> 200.34 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 191.67 Mbp </td><td> 6 </td><td> 191.67 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 180.08 Mbp </td><td> 8 </td><td> 180.08 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 178.96 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 178.96 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 168.85 Mbp </td><td> 12 </td><td> 168.85 Mbp </td></tr><tr><td> 70 </td><td> 14 </td><td> 155.69 Mbp </td><td> 14 </td><td> 155.69 Mbp </td></tr><tr><td> 80 </td><td> 16 </td><td> 147.43 Mbp </td><td> 16 </td><td> 147.43 Mbp </td></tr><tr><td> 90 </td><td> 19 </td><td> 140.84 Mbp </td><td> 19 </td><td> 140.84 Mbp </td></tr><tr><td> 100 </td><td> 21 </td><td> 138.75 Mbp </td><td> 21 </td><td> 138.75 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.724x </th><th> 1647 </th><th> 6.23 Gbp </th><th> 1612 </th><th> 6.24 Gbp </th></tr>
+  <tr><th> 1.708x </th><th> 89 </th><th> 6.17 Gbp </th><th> 79 </th><th> 6.17 Gbp </th></tr>
   </tfoot>
   </table>
-dip3version: assembly_verkko_1.1-hic-freeze
+dip3version: assembly_verkko_1.4.1r
 genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-hpa3date: 2022-11-11
-hpa3filesize: 789.4 MiB
-hpa3length: '3165046869'
-hpa3n50ctg: 85647504
-hpa3n50scf: 136718321
-hpa3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_verkko_1.1-hic-freeze/mPanTro3.hap1.20221111.fasta.gz
+hpa3date: 2023-09-06
+hpa3filesize: 727.4 MiB
+hpa3length: '3146144318'
+hpa3n50ctg: 140160301
+hpa3n50scf: 140160301
+hpa3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_verkko_1.4.1r/mPanTro3.hap1.20230906.fasta.gz
 hpa3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -153,18 +153,18 @@ hpa3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 179.90 Mbp </td><td> 1 </td><td> 201.49 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 138.75 Mbp </td><td> 3 </td><td> 183.32 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 121.74 Mbp </td><td> 5 </td><td> 160.29 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 98.28 Mbp </td><td> 7 </td><td> 144.39 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 14 </td><td style="background-color:#88ff88;"> 85.65 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 136.72 Mbp </td></tr><tr><td> 60 </td><td> 18 </td><td> 67.50 Mbp </td><td> 13 </td><td> 115.56 Mbp </td></tr><tr><td> 70 </td><td> 24 </td><td> 51.34 Mbp </td><td> 17 </td><td> 89.63 Mbp </td></tr><tr><td> 80 </td><td> 33 </td><td> 30.92 Mbp </td><td> 21 </td><td> 52.55 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 201.58 Mbp </td><td> 2 </td><td> 201.58 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 180.08 Mbp </td><td> 4 </td><td> 180.08 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 174.65 Mbp </td><td> 6 </td><td> 174.65 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 153.90 Mbp </td><td> 8 </td><td> 153.90 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 140.16 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 140.16 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 122.00 Mbp </td><td> 14 </td><td> 122.00 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 99.60 Mbp </td><td> 17 </td><td> 99.60 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 78.12 Mbp </td><td> 21 </td><td> 78.12 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.875x </th><th> 237 </th><th> 3.16 Gbp </th><th> 217 </th><th> 3.17 Gbp </th></tr>
+  <tr><th> 0.871x </th><th> 29 </th><th> 3.15 Gbp </th><th> 24 </th><th> 3.15 Gbp </th></tr>
   </tfoot>
   </table>
-hpa3version: assembly_verkko_1.1-hic-freeze
-hpb3date: 2022-11-11
-hpb3filesize: 792.7 MiB
-hpb3length: '3205720682'
-hpb3n50ctg: 91046033
-hpb3n50scf: 140160298
-hpb3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_verkko_1.1-hic-freeze/mPanTro3.hap2.20221111.fasta.gz
+hpa3version: assembly_verkko_1.4.1r
+hpb3date: 2023-09-06
+hpb3filesize: 697.2 MiB
+hpb3length: '3020490541'
+hpb3n50ctg: 136991393
+hpb3n50scf: 136991393
+hpb3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_verkko_1.4.1r/mPanTro3.hap2.20230906.fasta.gz
 hpb3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -182,14 +182,14 @@ hpb3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 180.08 Mbp </td><td> 1 </td><td> 200.34 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 153.89 Mbp </td><td> 3 </td><td> 180.08 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 140.16 Mbp </td><td> 5 </td><td> 163.86 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 121.99 Mbp </td><td> 7 </td><td> 146.35 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 91.05 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 140.16 Mbp </td></tr><tr><td> 60 </td><td> 17 </td><td> 73.84 Mbp </td><td> 13 </td><td> 121.99 Mbp </td></tr><tr><td> 70 </td><td> 22 </td><td> 59.60 Mbp </td><td> 16 </td><td> 97.36 Mbp </td></tr><tr><td> 80 </td><td> 30 </td><td> 36.45 Mbp </td><td> 21 </td><td> 44.96 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 200.34 Mbp </td><td> 2 </td><td> 200.34 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 183.32 Mbp </td><td> 4 </td><td> 183.32 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 168.85 Mbp </td><td> 6 </td><td> 168.85 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 146.29 Mbp </td><td> 8 </td><td> 146.29 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 136.99 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 136.99 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 115.42 Mbp </td><td> 14 </td><td> 117.23 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 97.71 Mbp </td><td> 17 </td><td> 97.71 Mbp </td></tr><tr><td> 80 </td><td> 22 </td><td> 52.30 Mbp </td><td> 22 </td><td> 54.33 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.885x </th><th> 143 </th><th> 3.20 Gbp </th><th> 128 </th><th> 3.21 Gbp </th></tr>
+  <tr><th> 0.836x </th><th> 29 </th><th> 3.02 Gbp </th><th> 24 </th><th> 3.02 Gbp </th></tr>
   </tfoot>
   </table>
-hpb3version: assembly_verkko_1.1-hic-freeze
+hpb3version: assembly_verkko_1.4.1r
 last_raw_data: 1691774444
-last_updated: 1691774444
+last_updated: 1694547801
 metadata: |
   species:
     short_name: mPanTro
@@ -286,6 +286,35 @@ mito1sizes: |
   </tfoot>
   </table>
 mito1version: assembly_MT_rockefeller
+mito3date: 2023-09-06
+mito3filesize: 5.3 KiB
+mito3length: '35190'
+mito3n50ctg: 0
+mito3n50scf: 0
+mito3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_verkko_1.4/mPanTro3.mito.20230906.fasta.gz
+mito3sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 35.19 Kbp </th><th> 1 </th><th> 35.19 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito3version: assembly_verkko_1.4
 name: Pan troglodytes
 name_: Pan_troglodytes
 project:

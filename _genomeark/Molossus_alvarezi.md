@@ -67,7 +67,67 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_vgp_HiC_2.0
-last_updated: 1693939124
+last_updated: 1694641455
+mds:
+- data: "species: Molossus alvarezi\nspecimen: mMolAlv2\nprojects: \n  - vgp\nassembled_by_group:
+    Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1:
+    s3://genomeark/species/Molossus_alvarezi/mMolAlv2/assembly_vgp_HiC_2.0/mMolAlv2.HiC.hap1.20230905.fasta.gz\nhap2:
+    s3://genomeark/species/Molossus_alvarezi/mMolAlv2/assembly_vgp_HiC_2.0/mMolAlv2.HiC.hap2.20230905.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Molossus_alvarezi/mMolAlv2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mMolAlv2_hap1_s2.pretext\npretext_hap2:
+    s3://genomeark/species/Molossus_alvarezi/mMolAlv2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mMolAlv2_hap2_s2.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Molossus_alvarezi/mMolAlv2/assembly_vgp_HiC_2.0/evaluation/merqury/mMolAlv2_png/\npacbio_read_dir:
+    s3://genomeark/species/Molossus_alvarezi/mMolAlv2/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Molossus_alvarezi/mMolAlv2/genomic_data/arima/\nmito:
+    s3://genomeark/species/Molossus_alvarezi/mMolAlv2/assembly_MT_rockefeller/mMolAlv2.MT.20230913.fasta.gz\npipeline:
+    \n  - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
+    assembly of mMolAlv2, resulting in two complete haplotypes. HiC scaffolding was
+    performed with YaHS.  The HiC prep kit used was TruSeq. \n\n"
+  ident: md4
+  title: assembly_vgp_HiC_2.0/mMolAlv2_hap1.yml
+- data: "species: Molossus alvarezi\nspecimen: mMolAlv2\nprojects: \n  - vgp\nassembled_by_group:
+    Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1:
+    s3://genomeark/species/Molossus_alvarezi/mMolAlv2/assembly_vgp_HiC_2.0/mMolAlv2.HiC.hap1.20230905.fasta.gz\nhap2:
+    s3://genomeark/species/Molossus_alvarezi/mMolAlv2/assembly_vgp_HiC_2.0/mMolAlv2.HiC.hap2.20230905.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Molossus_alvarezi/mMolAlv2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mMolAlv2_hap1_s2.pretext\npretext_hap2:
+    s3://genomeark/species/Molossus_alvarezi/mMolAlv2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mMolAlv2_hap2_s2.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Molossus_alvarezi/mMolAlv2/assembly_vgp_HiC_2.0/evaluation/merqury/mMolAlv2_png/\npacbio_read_dir:
+    s3://genomeark/species/Molossus_alvarezi/mMolAlv2/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Molossus_alvarezi/mMolAlv2/genomic_data/arima/\nmito:
+    s3://genomeark/species/Molossus_alvarezi/mMolAlv2/assembly_MT_rockefeller/mMolAlv2.MT.20230913.fasta.gz\npipeline:
+    \n  - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
+    assembly of mMolAlv2, resulting in two complete haplotypes. HiC scaffolding was
+    performed with YaHS.  The HiC prep kit used was TruSeq. \n\n"
+  ident: md5
+  title: assembly_vgp_HiC_2.0/mMolAlv2_hap2.yml
+mito2date: 2023-09-13
+mito2filesize: 5.3 KiB
+mito2length: '16773'
+mito2n50ctg: 16773
+mito2n50scf: 16773
+mito2seq: https://s3.amazonaws.com/genomeark/species/Molossus_alvarezi/mMolAlv2/assembly_MT_rockefeller/mMolAlv2.MT.20230913.fasta.gz
+mito2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.77 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.77 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.77 Kbp </th><th> 1 </th><th> 16.77 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito2version: assembly_MT_rockefeller
 name: Molossus alvarezi
 name_: Molossus_alvarezi
 project: ~

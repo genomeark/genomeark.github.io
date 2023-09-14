@@ -74,12 +74,12 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-dip1date: 2022-11-11
-dip1filesize: 1.5 GiB
-dip1length: '6325457913'
-dip1n50ctg: 147473220
-dip1n50scf: 176197964
-dip1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_verkko_1.1-0.1-freeze/mPanPan1.dip.20221111.fasta.gz
+dip1date: 2023-09-06
+dip1filesize: 1.4 GiB
+dip1length: '6289998060'
+dip1n50ctg: 180449747
+dip1n50scf: 180449747
+dip1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_verkko_1.4.1r/mPanPan1.dip.20230906.fasta.gz
 dip1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -97,23 +97,23 @@ dip1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 196.44 Mbp </td><td> 1 </td><td> 226.40 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 188.96 Mbp </td><td> 3 </td><td> 196.44 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 176.20 Mbp </td><td> 5 </td><td> 189.07 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 160.25 Mbp </td><td> 7 </td><td> 188.71 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 147.47 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 176.20 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 144.89 Mbp </td><td> 11 </td><td> 160.25 Mbp </td></tr><tr><td> 70 </td><td> 15 </td><td> 135.75 Mbp </td><td> 13 </td><td> 147.93 Mbp </td></tr><tr><td> 80 </td><td> 17 </td><td> 132.00 Mbp </td><td> 16 </td><td> 144.89 Mbp </td></tr><tr><td> 90 </td><td> 20 </td><td> 125.72 Mbp </td><td> 18 </td><td> 136.86 Mbp </td></tr><tr><td> 100 </td><td> 23 </td><td> 116.43 Mbp </td><td> 21 </td><td> 132.00 Mbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 226.40 Mbp </td><td> 2 </td><td> 226.40 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 196.43 Mbp </td><td> 4 </td><td> 196.43 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 191.15 Mbp </td><td> 6 </td><td> 191.15 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 188.96 Mbp </td><td> 8 </td><td> 188.96 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 180.45 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 180.45 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 176.55 Mbp </td><td> 12 </td><td> 176.55 Mbp </td></tr><tr><td> 70 </td><td> 14 </td><td> 160.24 Mbp </td><td> 14 </td><td> 160.24 Mbp </td></tr><tr><td> 80 </td><td> 16 </td><td> 150.73 Mbp </td><td> 16 </td><td> 150.73 Mbp </td></tr><tr><td> 90 </td><td> 18 </td><td> 147.03 Mbp </td><td> 18 </td><td> 147.03 Mbp </td></tr><tr><td> 100 </td><td> 21 </td><td> 139.82 Mbp </td><td> 21 </td><td> 139.82 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.750x </th><th> 1389 </th><th> 6.32 Gbp </th><th> 1373 </th><th> 6.33 Gbp </th></tr>
+  <tr><th> 1.740x </th><th> 182 </th><th> 6.29 Gbp </th><th> 173 </th><th> 6.29 Gbp </th></tr>
   </tfoot>
   </table>
-dip1version: assembly_verkko_1.1-0.1-freeze
+dip1version: assembly_verkko_1.4.1r
 genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT ancestral inferred
 last_raw_data: 1692164488
-last_updated: 1692164488
-mat1date: 2022-11-11
-mat1filesize: 794.6 MiB
-mat1length: '3224694940'
-mat1n50ctg: 136861524
-mat1n50scf: 136861524
-mat1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_verkko_1.1-0.1-freeze/mPanPan1.mat.20221111.fasta.gz
+last_updated: 1694545134
+mat1date: 2023-09-06
+mat1filesize: 732.6 MiB
+mat1length: '3206313600'
+mat1n50ctg: 141815014
+mat1n50scf: 141815014
+mat1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_verkko_1.4.1r/mPanPan1.mat.20230906.fasta.gz
 mat1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ mat1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 196.44 Mbp </td><td> 1 </td><td> 196.44 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 188.96 Mbp </td><td> 3 </td><td> 188.96 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 160.25 Mbp </td><td> 5 </td><td> 160.25 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 144.89 Mbp </td><td> 8 </td><td> 144.89 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 136.86 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 136.86 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 124.76 Mbp </td><td> 13 </td><td> 124.76 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 105.76 Mbp </td><td> 16 </td><td> 107.67 Mbp </td></tr><tr><td> 80 </td><td> 20 </td><td> 76.78 Mbp </td><td> 20 </td><td> 76.78 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 196.43 Mbp </td><td> 2 </td><td> 196.43 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 189.05 Mbp </td><td> 4 </td><td> 189.05 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 176.55 Mbp </td><td> 6 </td><td> 176.55 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 158.10 Mbp </td><td> 8 </td><td> 158.10 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 141.82 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 141.82 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 126.55 Mbp </td><td> 13 </td><td> 126.55 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 109.41 Mbp </td><td> 16 </td><td> 109.41 Mbp </td></tr><tr><td> 80 </td><td> 20 </td><td> 95.58 Mbp </td><td> 20 </td><td> 95.58 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.892x </th><th> 450 </th><th> 3.22 Gbp </th><th> 446 </th><th> 3.22 Gbp </th></tr>
+  <tr><th> 0.887x </th><th> 28 </th><th> 3.21 Gbp </th><th> 24 </th><th> 3.21 Gbp </th></tr>
   </tfoot>
   </table>
-mat1version: assembly_verkko_1.1-0.1-freeze
+mat1version: assembly_verkko_1.4.1r
 metadata: |
   species:
     short_name: mPanPan
@@ -221,14 +221,43 @@ metadata: |
     genome_size: 3613710000
     genome_size_method: GoaT ancestral inferred
     project: [ t2t ]
+mito1date: 2023-09-06
+mito1filesize: 62.1 KiB
+mito1length: '456241'
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_verkko_1.4/mPanPan1.mito.20230906.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 17 </th><th> 456.24 Kbp </th><th> 17 </th><th> 456.24 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_verkko_1.4
 name: Pan paniscus
 name_: Pan_paniscus
-pat1date: 2022-11-11
-pat1filesize: 760.7 MiB
-pat1length: '3087637749'
-pat1n50ctg: 93010332
-pat1n50scf: 125724912
-pat1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_verkko_1.1-0.1-freeze/mPanPan1.pat.20221111.fasta.gz
+pat1date: 2023-09-06
+pat1filesize: 701.2 MiB
+pat1length: '3071033327'
+pat1n50ctg: 135750394
+pat1n50scf: 135750394
+pat1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_verkko_1.4.1r/mPanPan1.pat.20230906.fasta.gz
 pat1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -246,12 +275,12 @@ pat1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 176.20 Mbp </td><td> 1 </td><td> 196.65 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 135.75 Mbp </td><td> 3 </td><td> 188.71 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 125.72 Mbp </td><td> 5 </td><td> 176.20 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 105.36 Mbp </td><td> 7 </td><td> 147.47 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 13 </td><td style="background-color:#88ff88;"> 93.01 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 125.72 Mbp </td></tr><tr><td> 60 </td><td> 17 </td><td> 80.61 Mbp </td><td> 13 </td><td> 99.60 Mbp </td></tr><tr><td> 70 </td><td> 22 </td><td> 64.88 Mbp </td><td> 17 </td><td> 86.46 Mbp </td></tr><tr><td> 80 </td><td> 29 </td><td> 46.17 Mbp </td><td> 22 </td><td> 53.37 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 196.68 Mbp </td><td> 2 </td><td> 196.68 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 188.61 Mbp </td><td> 4 </td><td> 188.61 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 176.62 Mbp </td><td> 6 </td><td> 176.62 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 150.73 Mbp </td><td> 8 </td><td> 150.73 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 135.75 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 135.75 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 113.36 Mbp </td><td> 14 </td><td> 115.14 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 100.43 Mbp </td><td> 17 </td><td> 100.43 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 70.72 Mbp </td><td> 21 </td><td> 70.72 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.854x </th><th> 478 </th><th> 3.09 Gbp </th><th> 466 </th><th> 3.09 Gbp </th></tr>
+  <tr><th> 0.850x </th><th> 29 </th><th> 3.07 Gbp </th><th> 24 </th><th> 3.07 Gbp </th></tr>
   </tfoot>
   </table>
-pat1version: assembly_verkko_1.1-0.1-freeze
+pat1version: assembly_verkko_1.4.1r
 project:
 - t2t
 short_name: mPanPan

@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-08-12
-alt1filesize: 568.9 MiB
-alt1length: '2094260645'
+alt1date: 2023-09-12
+alt1filesize: 605.2 MiB
+alt1length: '2094237481'
 alt1n50ctg: '1065533'
 alt1n50scf: '1065533'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Plecotus_auritus/mPleAur1/assembly_cambridge/mPleAur1.alt.asm.20230812.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Plecotus_auritus/mPleAur1/assembly_curated/mPleAur1.alt.cur.20230912.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -24,11 +24,11 @@ alt1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 58 </td><td> 2.91 Mbp </td><td> 58 </td><td> 2.91 Mbp </td></tr><tr><td> 20 </td><td> 147 </td><td> 2.09 Mbp </td><td> 147 </td><td> 2.09 Mbp </td></tr><tr><td> 30 </td><td> 263 </td><td> 1.68 Mbp </td><td> 263 </td><td> 1.68 Mbp </td></tr><tr><td> 40 </td><td> 408 </td><td> 1.36 Mbp </td><td> 408 </td><td> 1.36 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 589 </td><td> 1.07 Mbp </td><td> 589 </td><td> 1.07 Mbp </td></tr><tr><td> 60 </td><td> 825 </td><td> 0.82 Mbp </td><td> 825 </td><td> 0.82 Mbp </td></tr><tr><td> 70 </td><td> 1139 </td><td> 0.59 Mbp </td><td> 1139 </td><td> 0.59 Mbp </td></tr><tr><td> 80 </td><td> 1596 </td><td> 375.18 Kbp </td><td> 1596 </td><td> 375.18 Kbp </td></tr><tr><td> 90 </td><td> 2570 </td><td> 114.39 Kbp </td><td> 2570 </td><td> 114.39 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.960x </th><th> 5572 </th><th> 2.09 Gbp </th><th> 5572 </th><th> 2.09 Gbp </th></tr>
+  <tr><th> 0.960x </th><th> 5570 </th><th> 2.09 Gbp </th><th> 5570 </th><th> 2.09 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: brown big-eared bat
 data_arima-1_bases: 118.18 Gbp
 data_arima-1_bytes: 35.1 GiB
@@ -59,7 +59,7 @@ genome_size: 2180940000
 genome_size_display: 2.18 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691912638
-last_updated: 1691912638
+last_updated: 1694476890
 metadata: |
   species:
     short_name: mPleAur
@@ -108,12 +108,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Plecotus auritus
 name_: Plecotus_auritus
-pri1date: 2023-08-12
-pri1filesize: 623.8 MiB
-pri1length: '2163466886'
+pri1date: 2023-09-12
+pri1filesize: 623.7 MiB
+pri1length: '2163221563'
 pri1n50ctg: 2935350
 pri1n50scf: 179153340
-pri1seq: https://s3.amazonaws.com/genomeark/species/Plecotus_auritus/mPleAur1/assembly_cambridge/mPleAur1.pri.asm.20230812.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Plecotus_auritus/mPleAur1/assembly_curated/mPleAur1.pri.cur.20230912.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 25 </td><td> 7.40 Mbp </td><td> 1 </td><td> 244.73 Mbp </td></tr><tr><td> 20 </td><td> 60 </td><td> 5.42 Mbp </td><td> 2 </td><td> 230.26 Mbp </td></tr><tr><td> 30 </td><td> 105 </td><td> 4.45 Mbp </td><td> 3 </td><td> 228.11 Mbp </td></tr><tr><td> 40 </td><td> 161 </td><td> 3.54 Mbp </td><td> 4 </td><td> 192.16 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 229 </td><td style="background-color:#88ff88;"> 2.94 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 179.15 Mbp </td></tr><tr><td> 60 </td><td> 310 </td><td> 2.42 Mbp </td><td> 7 </td><td> 177.15 Mbp </td></tr><tr><td> 70 </td><td> 411 </td><td> 1.93 Mbp </td><td> 8 </td><td> 176.15 Mbp </td></tr><tr><td> 80 </td><td> 543 </td><td> 1.39 Mbp </td><td> 9 </td><td> 154.82 Mbp </td></tr><tr><td> 90 </td><td> 745 </td><td> 0.83 Mbp </td><td> 11 </td><td> 62.50 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 25 </td><td> 7.40 Mbp </td><td> 1 </td><td> 248.79 Mbp </td></tr><tr><td> 20 </td><td> 60 </td><td> 5.42 Mbp </td><td> 2 </td><td> 230.26 Mbp </td></tr><tr><td> 30 </td><td> 105 </td><td> 4.45 Mbp </td><td> 3 </td><td> 228.11 Mbp </td></tr><tr><td> 40 </td><td> 161 </td><td> 3.54 Mbp </td><td> 4 </td><td> 192.80 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 229 </td><td style="background-color:#88ff88;"> 2.94 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 179.15 Mbp </td></tr><tr><td> 60 </td><td> 310 </td><td> 2.42 Mbp </td><td> 7 </td><td> 178.55 Mbp </td></tr><tr><td> 70 </td><td> 411 </td><td> 1.93 Mbp </td><td> 8 </td><td> 176.15 Mbp </td></tr><tr><td> 80 </td><td> 543 </td><td> 1.39 Mbp </td><td> 9 </td><td> 156.20 Mbp </td></tr><tr><td> 90 </td><td> 745 </td><td> 0.83 Mbp </td><td> 11 </td><td> 62.50 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.992x </th><th> 1312 </th><th> 2.16 Gbp </th><th> 94 </th><th> 2.16 Gbp </th></tr>
+  <tr><th> 0.992x </th><th> 1302 </th><th> 2.16 Gbp </th><th> 65 </th><th> 2.16 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: mPleAur

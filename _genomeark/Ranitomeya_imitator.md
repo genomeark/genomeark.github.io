@@ -59,7 +59,7 @@ genome_size: 5956610564
 genome_size_display: 5.96 Gbp
 genome_size_method: ''
 last_raw_data: 1684791179
-last_updated: 1689984788
+last_updated: 1694197176
 mds:
 - data: "species: Ranitomeya imitator\nspecimen: aRanImi1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nprimary: s3://genomeark/species/Ranitomeya_imitator/aRanImi1/assembly_stanford_dovetail/aRanImi1.stanford.pri.fasta.gz\npretext:
@@ -71,7 +71,7 @@ mds:
     assemblhy of aRanImi1 produced at Stanford University, assembled by Dovetail using
     their assembly service. This is a Phase 1 sample that we are submitting for a
     curation."
-  ident: md11
+  ident: md12
   title: assembly_stanford_dovetail/aRanImi1.yml
 mito1date: 2023-06-15
 mito1filesize: 5.8 KiB
@@ -104,12 +104,12 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Ranitomeya imitator
 name_: Ranitomeya_imitator
-pri1date: 2023-07-22
+pri1date: 2023-09-08
 pri1filesize: 1.5 GiB
 pri1length: '5956610564'
 pri1n50ctg: 13907627
 pri1n50scf: 725832262
-pri1seq: https://s3.amazonaws.com/genomeark/species/Ranitomeya_imitator/aRanImi1/assembly_curated/aRanImi1.pri.cur.20230722.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Ranitomeya_imitator/aRanImi1/assembly_curated/aRanImi1.pri.cur.20230908.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>

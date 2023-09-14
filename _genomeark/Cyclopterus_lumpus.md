@@ -28,12 +28,12 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_curated
-alt2date: 2023-08-20
-alt2filesize: 146.3 MiB
-alt2length: '569756796'
-alt2n50ctg: '62376'
-alt2n50scf: '62376'
-alt2seq: https://s3.amazonaws.com/genomeark/species/Cyclopterus_lumpus/fCycLum2/assembly_cambridge/fCycLum2.alt.asm.20230820.fasta.gz
+alt2date: 2023-09-14
+alt2filesize: 157.7 MiB
+alt2length: '570055135'
+alt2n50ctg: '62529'
+alt2n50scf: '62529'
+alt2seq: https://s3.amazonaws.com/genomeark/species/Cyclopterus_lumpus/fCycLum2/assembly_curated/fCycLum2.alt.cur.20230914.fasta.gz
 alt2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -51,12 +51,12 @@ alt2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 104 </td><td> 0.66 Mbp </td><td> 104 </td><td> 0.66 Mbp </td></tr><tr><td> 20 </td><td> 307 </td><td> 393.37 Kbp </td><td> 307 </td><td> 393.37 Kbp </td></tr><tr><td> 30 </td><td> 627 </td><td> 248.76 Kbp </td><td> 627 </td><td> 248.76 Kbp </td></tr><tr><td> 40 </td><td> 1158 </td><td> 144.36 Kbp </td><td> 1158 </td><td> 144.36 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 2195 </td><td> 62.38 Kbp </td><td> 2195 </td><td> 62.38 Kbp </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 104 </td><td> 0.66 Mbp </td><td> 104 </td><td> 0.66 Mbp </td></tr><tr><td> 20 </td><td> 307 </td><td> 393.37 Kbp </td><td> 307 </td><td> 393.37 Kbp </td></tr><tr><td> 30 </td><td> 626 </td><td> 249.26 Kbp </td><td> 626 </td><td> 249.26 Kbp </td></tr><tr><td> 40 </td><td> 1156 </td><td> 144.94 Kbp </td><td> 1156 </td><td> 144.94 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 2191 </td><td> 62.53 Kbp </td><td> 2191 </td><td> 62.53 Kbp </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.570x </th><th> 4451 </th><th> 0.57 Gbp </th><th> 4451 </th><th> 0.57 Gbp </th></tr>
+  <tr><th> 0.570x </th><th> 4450 </th><th> 0.57 Gbp </th><th> 4450 </th><th> 0.57 Gbp </th></tr>
   </tfoot>
   </table>
-alt2version: assembly_cambridge
+alt2version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: lumpfish
 data_10x-1_bases: 61.32 Gbp
@@ -128,7 +128,7 @@ genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 genome_size_method: ''
 last_raw_data: 1692284609
-last_updated: 1692563690
+last_updated: 1694649699
 metadata: |
   species:
     short_name: fCycLum
@@ -238,12 +238,12 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
-pri2date: 2023-08-20
-pri2filesize: 162.9 MiB
-pri2length: '586666146'
+pri2date: 2023-09-14
+pri2filesize: 160.6 MiB
+pri2length: '586296809'
 pri2n50ctg: 358098
-pri2n50scf: 17839684
-pri2seq: https://s3.amazonaws.com/genomeark/species/Cyclopterus_lumpus/fCycLum2/assembly_cambridge/fCycLum2.pri.asm.20230820.fasta.gz
+pri2n50scf: 19995415
+pri2seq: https://s3.amazonaws.com/genomeark/species/Cyclopterus_lumpus/fCycLum2/assembly_curated/fCycLum2.pri.cur.20230914.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -261,12 +261,12 @@ pri2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 20 </td><td> 3.94 Mbp </td><td> 4 </td><td> 27.45 Mbp </td></tr><tr><td> 20 </td><td> 54 </td><td> 2.27 Mbp </td><td> 8 </td><td> 25.98 Mbp </td></tr><tr><td> 30 </td><td> 108 </td><td> 1.50 Mbp </td><td> 12 </td><td> 24.27 Mbp </td></tr><tr><td> 40 </td><td> 197 </td><td> 0.81 Mbp </td><td> 16 </td><td> 22.46 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 384 </td><td style="background-color:#ff8888;"> 358.10 Kbp </td><td> 21 </td><td style="background-color:#88ff88;"> 17.84 Mbp </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 20 </td><td> 3.94 Mbp </td><td> 4 </td><td> 27.87 Mbp </td></tr><tr><td> 20 </td><td> 54 </td><td> 2.27 Mbp </td><td> 8 </td><td> 26.38 Mbp </td></tr><tr><td> 30 </td><td> 108 </td><td> 1.50 Mbp </td><td> 11 </td><td> 24.91 Mbp </td></tr><tr><td> 40 </td><td> 197 </td><td> 0.81 Mbp </td><td> 16 </td><td> 22.46 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 384 </td><td style="background-color:#ff8888;"> 358.10 Kbp </td><td> 20 </td><td style="background-color:#88ff88;"> 20.00 Mbp </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.586x </th><th> 1187 </th><th> 0.59 Gbp </th><th> 257 </th><th> 0.59 Gbp </th></tr>
+  <tr><th> 0.586x </th><th> 1186 </th><th> 0.59 Gbp </th><th> 232 </th><th> 0.59 Gbp </th></tr>
   </tfoot>
   </table>
-pri2version: assembly_cambridge
+pri2version: assembly_curated
 project:
 - vgp
 short_name: fCycLum

@@ -67,12 +67,12 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-dip2date: 2022-11-11
+dip2date: 2023-09-06
 dip2filesize: 1.5 GiB
-dip2length: '6287763767'
-dip2n50ctg: 132184659
-dip2n50scf: 152733547
-dip2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_verkko_1.1-hic-freeze/mPonPyg2.dip.20221111.fasta.gz
+dip2length: '6095108906'
+dip2n50ctg: 172531925
+dip2n50scf: 172531925
+dip2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_verkko_1.4.1r/mPonPyg2.dip.20230906.fasta.gz
 dip2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -90,21 +90,21 @@ dip2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 183.84 Mbp </td><td> 1 </td><td> 208.51 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 152.42 Mbp </td><td> 3 </td><td> 183.84 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 140.59 Mbp </td><td> 5 </td><td> 171.26 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 135.49 Mbp </td><td> 7 </td><td> 159.28 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 132.18 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 152.73 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 124.33 Mbp </td><td> 12 </td><td> 140.98 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 113.11 Mbp </td><td> 15 </td><td> 136.96 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 98.71 Mbp </td><td> 17 </td><td> 135.49 Mbp </td></tr><tr><td> 90 </td><td> 24 </td><td> 95.63 Mbp </td><td> 20 </td><td> 130.80 Mbp </td></tr><tr><td> 100 </td><td> 28 </td><td> 82.26 Mbp </td><td> 23 </td><td> 120.90 Mbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 230.81 Mbp </td><td> 2 </td><td> 230.81 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 209.25 Mbp </td><td> 4 </td><td> 209.25 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 203.83 Mbp </td><td> 5 </td><td> 203.83 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 186.35 Mbp </td><td> 7 </td><td> 186.35 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 172.53 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 172.53 Mbp </td></tr><tr><td> 60 </td><td> 11 </td><td> 160.97 Mbp </td><td> 11 </td><td> 160.97 Mbp </td></tr><tr><td> 70 </td><td> 14 </td><td> 158.53 Mbp </td><td> 14 </td><td> 158.53 Mbp </td></tr><tr><td> 80 </td><td> 16 </td><td> 140.59 Mbp </td><td> 16 </td><td> 142.27 Mbp </td></tr><tr><td> 90 </td><td> 19 </td><td> 137.03 Mbp </td><td> 19 </td><td> 137.91 Mbp </td></tr><tr><td> 100 </td><td> 21 </td><td> 135.21 Mbp </td><td> 21 </td><td> 136.70 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.754x </th><th> 1849 </th><th> 6.28 Gbp </th><th> 1783 </th><th> 6.29 Gbp </th></tr>
+  <tr><th> 1.702x </th><th> 296 </th><th> 6.09 Gbp </th><th> 279 </th><th> 6.10 Gbp </th></tr>
   </tfoot>
   </table>
-dip2version: assembly_verkko_1.1-hic-freeze
+dip2version: assembly_verkko_1.4.1r
 genome_size: 3579480000
 genome_size_display: 3.58 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-hpa2date: 2022-11-11
-hpa2filesize: 792.0 MiB
-hpa2length: '3132681136'
-hpa2n50ctg: 82263142
-hpa2n50scf: 130434151
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_verkko_1.1-hic-freeze/mPonPyg2.hap1.20221111.fasta.gz
+hpa2date: 2023-09-06
+hpa2filesize: 783.4 MiB
+hpa2length: '3012950799'
+hpa2n50ctg: 132184693
+hpa2n50scf: 133328669
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_verkko_1.4.1r/mPonPyg2.hap1.20230906.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -122,18 +122,18 @@ hpa2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 158.54 Mbp </td><td> 1 </td><td> 186.35 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 140.59 Mbp </td><td> 3 </td><td> 161.10 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 119.49 Mbp </td><td> 6 </td><td> 140.98 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 98.71 Mbp </td><td> 8 </td><td> 139.15 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 14 </td><td style="background-color:#88ff88;"> 82.26 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 130.43 Mbp </td></tr><tr><td> 60 </td><td> 18 </td><td> 69.79 Mbp </td><td> 14 </td><td> 113.11 Mbp </td></tr><tr><td> 70 </td><td> 24 </td><td> 56.46 Mbp </td><td> 17 </td><td> 97.83 Mbp </td></tr><tr><td> 80 </td><td> 32 </td><td> 31.83 Mbp </td><td> 22 </td><td> 67.02 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 209.25 Mbp </td><td> 2 </td><td> 209.25 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 186.35 Mbp </td><td> 4 </td><td> 186.35 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 160.97 Mbp </td><td> 6 </td><td> 160.97 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 158.53 Mbp </td><td> 8 </td><td> 158.53 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 132.18 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 133.33 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 119.50 Mbp </td><td> 13 </td><td> 128.47 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 97.89 Mbp </td><td> 17 </td><td> 97.89 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 65.24 Mbp </td><td> 21 </td><td> 65.24 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.874x </th><th> 254 </th><th> 3.13 Gbp </th><th> 220 </th><th> 3.13 Gbp </th></tr>
+  <tr><th> 0.842x </th><th> 32 </th><th> 3.01 Gbp </th><th> 24 </th><th> 3.01 Gbp </th></tr>
   </tfoot>
   </table>
-hpa2version: assembly_verkko_1.1-hic-freeze
-hpb2date: 2022-11-11
-hpb2filesize: 812.9 MiB
-hpb2length: '3248679803'
-hpb2n50ctg: 95626977
-hpb2n50scf: 123232879
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_verkko_1.1-hic-freeze/mPonPyg2.hap2.20221111.fasta.gz
+hpa2version: assembly_verkko_1.4.1r
+hpb2date: 2023-09-06
+hpb2filesize: 715.7 MiB
+hpb2length: '3058584977'
+hpb2n50ctg: 135210928
+hpb2n50scf: 136696884
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_verkko_1.4.1r/mPonPyg2.hap2.20230906.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -151,14 +151,14 @@ hpb2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 152.42 Mbp </td><td> 1 </td><td> 183.84 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 135.49 Mbp </td><td> 3 </td><td> 161.10 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 124.49 Mbp </td><td> 6 </td><td> 137.87 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 108.64 Mbp </td><td> 8 </td><td> 136.80 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 13 </td><td style="background-color:#88ff88;"> 95.63 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 123.23 Mbp </td></tr><tr><td> 60 </td><td> 18 </td><td> 67.07 Mbp </td><td> 14 </td><td> 102.89 Mbp </td></tr><tr><td> 70 </td><td> 24 </td><td> 56.54 Mbp </td><td> 18 </td><td> 80.99 Mbp </td></tr><tr><td> 80 </td><td> 32 </td><td> 27.62 Mbp </td><td> 23 </td><td> 59.76 Mbp </td></tr><tr><td> 90 </td><td> 68 </td><td> 1.19 Mbp </td><td> 40 </td><td> 1.98 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 209.44 Mbp </td><td> 2 </td><td> 209.44 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 183.84 Mbp </td><td> 4 </td><td> 183.84 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 159.28 Mbp </td><td> 6 </td><td> 159.28 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 140.59 Mbp </td><td> 8 </td><td> 142.27 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 135.21 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 136.70 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 104.54 Mbp </td><td> 14 </td><td> 124.25 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 95.56 Mbp </td><td> 17 </td><td> 101.50 Mbp </td></tr><tr><td> 80 </td><td> 22 </td><td> 59.54 Mbp </td><td> 21 </td><td> 62.95 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.907x </th><th> 253 </th><th> 3.25 Gbp </th><th> 221 </th><th> 3.25 Gbp </th></tr>
+  <tr><th> 0.854x </th><th> 33 </th><th> 3.06 Gbp </th><th> 24 </th><th> 3.06 Gbp </th></tr>
   </tfoot>
   </table>
-hpb2version: assembly_verkko_1.1-hic-freeze
+hpb2version: assembly_verkko_1.4.1r
 last_raw_data: 1691781392
-last_updated: 1691781392
+last_updated: 1694633822
 metadata: |
   species:
     short_name: mPonPyg

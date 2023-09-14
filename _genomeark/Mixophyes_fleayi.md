@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
 data_arima-1_bases: 174.42 Gbp
 data_arima-1_bytes: 90.9 GiB
@@ -29,8 +29,66 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
+hpa1date: 2023-08-29
+hpa1filesize: 812.7 MiB
+hpa1length: '2976060568'
+hpa1n50ctg: 4050021
+hpa1n50scf: 346520350
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap1.20230829.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 21 </td><td> 11.90 Mbp </td><td> 1 </td><td> 462.96 Mbp </td></tr><tr><td> 20 </td><td> 50 </td><td> 9.09 Mbp </td><td> 2 </td><td> 377.10 Mbp </td></tr><tr><td> 30 </td><td> 87 </td><td> 6.69 Mbp </td><td> 3 </td><td> 346.62 Mbp </td></tr><tr><td> 40 </td><td> 137 </td><td> 5.22 Mbp </td><td> 4 </td><td> 346.52 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 202 </td><td style="background-color:#88ff88;"> 4.05 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 346.52 Mbp </td></tr><tr><td> 60 </td><td> 288 </td><td> 3.00 Mbp </td><td> 5 </td><td> 279.95 Mbp </td></tr><tr><td> 70 </td><td> 405 </td><td> 2.13 Mbp </td><td> 7 </td><td> 154.98 Mbp </td></tr><tr><td> 80 </td><td> 581 </td><td> 1.29 Mbp </td><td> 9 </td><td> 133.06 Mbp </td></tr><tr><td> 90 </td><td> 915 </td><td> 0.55 Mbp </td><td> 12 </td><td> 83.49 Mbp </td></tr><tr><td> 100 </td><td> 4223 </td><td> 10.33 Kbp </td><td> 2822 </td><td> 10.33 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 4223 </th><th> 2.97 Gbp </th><th> 2822 </th><th> 2.98 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2023-08-29
+hpb1filesize: 801.5 MiB
+hpb1length: '2871973373'
+hpb1n50ctg: 4482390
+hpb1n50scf: 332082691
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap2.20230829.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 18 </td><td> 12.74 Mbp </td><td> 1 </td><td> 463.83 Mbp </td></tr><tr><td> 20 </td><td> 44 </td><td> 9.77 Mbp </td><td> 2 </td><td> 380.43 Mbp </td></tr><tr><td> 30 </td><td> 77 </td><td> 7.48 Mbp </td><td> 3 </td><td> 342.93 Mbp </td></tr><tr><td> 40 </td><td> 122 </td><td> 5.75 Mbp </td><td> 3 </td><td> 342.93 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 178 </td><td style="background-color:#88ff88;"> 4.48 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 332.08 Mbp </td></tr><tr><td> 60 </td><td> 250 </td><td> 3.52 Mbp </td><td> 5 </td><td> 279.22 Mbp </td></tr><tr><td> 70 </td><td> 346 </td><td> 2.62 Mbp </td><td> 6 </td><td> 228.91 Mbp </td></tr><tr><td> 80 </td><td> 481 </td><td> 1.67 Mbp </td><td> 8 </td><td> 143.42 Mbp </td></tr><tr><td> 90 </td><td> 725 </td><td> 0.85 Mbp </td><td> 11 </td><td> 99.51 Mbp </td></tr><tr><td> 100 </td><td> 2286 </td><td> 9.99 Kbp </td><td> 931 </td><td> 9.99 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 2286 </th><th> 2.87 Gbp </th><th> 931 </th><th> 2.87 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1690217303
-last_updated: 1693343534
+last_updated: 1694212548
 mds:
 - data: "species: Mixophyes fleayi\r\nspecimen: aMixFle1\r\nprojects: \r\n  - vgp\r\ndata_location:
     S3\r\nrelease_to: S3\r\nhaplotype_to_curate: hap1\r\nhap1: s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap1.20230828.fasta.gz\r\nhap2:
@@ -46,7 +104,7 @@ mds:
     two complete haplotypes. Kmer spectra indicate a homogametic specimen. This individual
     had bionano data. HiC scaffolding was performed with yahs. The HiC prep was Arima
     kit 2. MitoHiFi failed on the reads. "
-  ident: md2
+  ident: md4
   title: assembly_vgp_HiC_2.0/aMixFle1_hap1.yml
 - data: "species: Mixophyes fleayi\r\nspecimen: aMixFle1\r\nprojects: \r\n  - vgp\r\ndata_location:
     S3\r\nrelease_to: S3\r\nhaplotype_to_curate: hap2\r\nhap1: s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap1.20230828.fasta.gz\r\nhap2:
@@ -62,7 +120,7 @@ mds:
     two complete haplotypes. Kmer spectra indicate a homogametic specimen. This individual
     had bionano data. HiC scaffolding was performed with yahs. The HiC prep was Arima
     kit 2. MitoHiFi failed on the reads. "
-  ident: md3
+  ident: md5
   title: assembly_vgp_HiC_2.0/aMixFle1_hap2.yml
 name: Mixophyes fleayi
 name_: Mixophyes_fleayi

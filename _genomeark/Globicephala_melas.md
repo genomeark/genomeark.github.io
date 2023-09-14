@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-08-08
-alt1filesize: 529.5 MiB
-alt1length: '2044888188'
-alt1n50ctg: '60477'
-alt1n50scf: '60477'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Globicephala_melas/mGloMel1/assembly_cambridge/mGloMel1.alt.asm.20230808.fasta.gz
+alt1date: 2023-09-12
+alt1filesize: 566.5 MiB
+alt1length: '2042593655'
+alt1n50ctg: '60443'
+alt1n50scf: '60443'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Globicephala_melas/mGloMel1/assembly_curated/mGloMel1.alt.cur.20230912.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 635 </td><td> 334.91 Kbp </td><td> 635 </td><td> 334.91 Kbp </td></tr><tr><td> 20 </td><td> 1777 </td><td> 225.66 Kbp </td><td> 1777 </td><td> 225.66 Kbp </td></tr><tr><td> 30 </td><td> 3438 </td><td> 155.14 Kbp </td><td> 3438 </td><td> 155.14 Kbp </td></tr><tr><td> 40 </td><td> 5866 </td><td> 104.28 Kbp </td><td> 5866 </td><td> 104.28 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9719 </td><td> 60.48 Kbp </td><td> 9719 </td><td> 60.48 Kbp </td></tr><tr><td> 60 </td><td> 17477 </td><td> 26.50 Kbp </td><td> 17477 </td><td> 26.50 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 635 </td><td> 334.91 Kbp </td><td> 635 </td><td> 334.91 Kbp </td></tr><tr><td> 20 </td><td> 1777 </td><td> 225.66 Kbp </td><td> 1777 </td><td> 225.66 Kbp </td></tr><tr><td> 30 </td><td> 3438 </td><td> 155.14 Kbp </td><td> 3438 </td><td> 155.14 Kbp </td></tr><tr><td> 40 </td><td> 5866 </td><td> 104.28 Kbp </td><td> 5866 </td><td> 104.28 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9719 </td><td> 60.44 Kbp </td><td> 9719 </td><td> 60.44 Kbp </td></tr><tr><td> 60 </td><td> 17497 </td><td> 26.37 Kbp </td><td> 17497 </td><td> 26.37 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.664x </th><th> 28178 </th><th> 2.04 Gbp </th><th> 28178 </th><th> 2.04 Gbp </th></tr>
+  <tr><th> 0.663x </th><th> 28097 </th><th> 2.04 Gbp </th><th> 28097 </th><th> 2.04 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: long-finned pilot whale
 data_arima-1_bases: 403.66 Gbp
 data_arima-1_bytes: 125.4 GiB
@@ -59,7 +59,7 @@ genome_size: 3080700000
 genome_size_display: 3.08 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691523566
-last_updated: 1691523566
+last_updated: 1694476891
 metadata: |
   species:
     short_name: mGloMel
@@ -108,12 +108,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Globicephala melas
 name_: Globicephala_melas
-pri1date: 2023-08-08
-pri1filesize: 723.7 MiB
-pri1length: '2662063485'
+pri1date: 2023-09-12
+pri1filesize: 708.8 MiB
+pri1length: '2651292441'
 pri1n50ctg: 2696571
-pri1n50scf: 89851358
-pri1seq: https://s3.amazonaws.com/genomeark/species/Globicephala_melas/mGloMel1/assembly_cambridge/mGloMel1.pri.asm.20230808.fasta.gz
+pri1n50scf: 102702331
+pri1seq: https://s3.amazonaws.com/genomeark/species/Globicephala_melas/mGloMel1/assembly_curated/mGloMel1.pri.cur.20230912.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 31 </td><td> 7.74 Mbp </td><td> 2 </td><td> 151.72 Mbp </td></tr><tr><td> 20 </td><td> 79 </td><td> 5.63 Mbp </td><td> 5 </td><td> 123.14 Mbp </td></tr><tr><td> 30 </td><td> 141 </td><td> 4.38 Mbp </td><td> 7 </td><td> 108.12 Mbp </td></tr><tr><td> 40 </td><td> 219 </td><td> 3.52 Mbp </td><td> 10 </td><td> 101.77 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 319 </td><td style="background-color:#88ff88;"> 2.70 Mbp </td><td> 13 </td><td style="background-color:#88ff88;"> 89.85 Mbp </td></tr><tr><td> 60 </td><td> 450 </td><td> 2.07 Mbp </td><td> 17 </td><td> 83.95 Mbp </td></tr><tr><td> 70 </td><td> 639 </td><td> 1.28 Mbp </td><td> 21 </td><td> 62.92 Mbp </td></tr><tr><td> 80 </td><td> 999 </td><td> 0.53 Mbp </td><td> 96 </td><td> 0.94 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 31 </td><td> 7.74 Mbp </td><td> 2 </td><td> 178.82 Mbp </td></tr><tr><td> 20 </td><td> 79 </td><td> 5.63 Mbp </td><td> 4 </td><td> 146.48 Mbp </td></tr><tr><td> 30 </td><td> 141 </td><td> 4.38 Mbp </td><td> 6 </td><td> 125.80 Mbp </td></tr><tr><td> 40 </td><td> 219 </td><td> 3.52 Mbp </td><td> 9 </td><td> 108.12 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 319 </td><td style="background-color:#88ff88;"> 2.70 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 102.70 Mbp </td></tr><tr><td> 60 </td><td> 450 </td><td> 2.07 Mbp </td><td> 15 </td><td> 88.67 Mbp </td></tr><tr><td> 70 </td><td> 639 </td><td> 1.27 Mbp </td><td> 19 </td><td> 79.70 Mbp </td></tr><tr><td> 80 </td><td> 1000 </td><td> 0.53 Mbp </td><td> 86 </td><td> 0.92 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.864x </th><th> 2352 </th><th> 2.66 Gbp </th><th> 1199 </th><th> 2.66 Gbp </th></tr>
+  <tr><th> 0.861x </th><th> 2077 </th><th> 2.65 Gbp </th><th> 993 </th><th> 2.65 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: mGloMel
