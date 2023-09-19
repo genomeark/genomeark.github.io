@@ -158,7 +158,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_verkko_1.4.1r
 last_raw_data: 1691776383
-last_updated: 1694638127
+last_updated: 1694790643
 metadata: |
   species:
     short_name: mPonAbe

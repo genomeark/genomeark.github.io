@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-08-14
-alt1filesize: 331.8 MiB
-alt1length: '1213752058'
-alt1n50ctg: '279869'
-alt1n50scf: '279869'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Zootoca_vivipara/rZooViv1/assembly_cambridge/rZooViv1.alt.asm.20230814.fasta.gz
+alt1date: 2023-09-16
+alt1filesize: 354.5 MiB
+alt1length: '1221338756'
+alt1n50ctg: '283091'
+alt1n50scf: '283091'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Zootoca_vivipara/rZooViv1/assembly_curated/rZooViv1.alt.cur.20230916.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 111 </td><td> 0.91 Mbp </td><td> 111 </td><td> 0.91 Mbp </td></tr><tr><td> 20 </td><td> 290 </td><td> 0.63 Mbp </td><td> 290 </td><td> 0.63 Mbp </td></tr><tr><td> 30 </td><td> 536 </td><td> 473.42 Kbp </td><td> 536 </td><td> 473.42 Kbp </td></tr><tr><td> 40 </td><td> 860 </td><td> 365.03 Kbp </td><td> 860 </td><td> 365.03 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1282 </td><td> 279.87 Kbp </td><td> 1282 </td><td> 279.87 Kbp </td></tr><tr><td> 60 </td><td> 1850 </td><td> 200.27 Kbp </td><td> 1850 </td><td> 200.27 Kbp </td></tr><tr><td> 70 </td><td> 2686 </td><td> 128.28 Kbp </td><td> 2686 </td><td> 128.28 Kbp </td></tr><tr><td> 80 </td><td> 4163 </td><td> 63.96 Kbp </td><td> 4163 </td><td> 63.96 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 107 </td><td> 0.93 Mbp </td><td> 107 </td><td> 0.93 Mbp </td></tr><tr><td> 20 </td><td> 283 </td><td> 0.64 Mbp </td><td> 283 </td><td> 0.64 Mbp </td></tr><tr><td> 30 </td><td> 525 </td><td> 479.85 Kbp </td><td> 525 </td><td> 479.85 Kbp </td></tr><tr><td> 40 </td><td> 845 </td><td> 372.35 Kbp </td><td> 845 </td><td> 372.35 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1260 </td><td> 283.09 Kbp </td><td> 1260 </td><td> 283.09 Kbp </td></tr><tr><td> 60 </td><td> 1818 </td><td> 205.75 Kbp </td><td> 1818 </td><td> 205.75 Kbp </td></tr><tr><td> 70 </td><td> 2633 </td><td> 133.26 Kbp </td><td> 2633 </td><td> 133.26 Kbp </td></tr><tr><td> 80 </td><td> 4052 </td><td> 67.16 Kbp </td><td> 4052 </td><td> 67.16 Kbp </td></tr><tr><td> 90 </td><td> 7652 </td><td> 18.82 Kbp </td><td> 7652 </td><td> 18.82 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.899x </th><th> 8054 </th><th> 1.21 Gbp </th><th> 8054 </th><th> 1.21 Gbp </th></tr>
+  <tr><th> 0.905x </th><th> 8057 </th><th> 1.22 Gbp </th><th> 8057 </th><th> 1.22 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common lizard
 data_arima-1_bases: 63.95 Gbp
 data_arima-1_bytes: 19.7 GiB
@@ -59,7 +59,7 @@ genome_size: 1349640000
 genome_size_display: 1.35 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691912691
-last_updated: 1692002392
+last_updated: 1694822443
 metadata: |
   species:
     short_name: rZooViv
@@ -108,12 +108,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Zootoca vivipara
 name_: Zootoca_vivipara
-pri1date: 2023-08-14
-pri1filesize: 424.3 MiB
-pri1length: '1448030002'
-pri1n50ctg: 3770246
+pri1date: 2023-09-16
+pri1filesize: 416.3 MiB
+pri1length: '1440256436'
+pri1n50ctg: 3745334
 pri1n50scf: 97165297
-pri1seq: https://s3.amazonaws.com/genomeark/species/Zootoca_vivipara/rZooViv1/assembly_cambridge/rZooViv1.pri.asm.20230814.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Zootoca_vivipara/rZooViv1/assembly_curated/rZooViv1.pri.cur.20230916.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 13 </td><td> 9.53 Mbp </td><td> 1 </td><td> 135.72 Mbp </td></tr><tr><td> 20 </td><td> 29 </td><td> 7.55 Mbp </td><td> 3 </td><td> 120.54 Mbp </td></tr><tr><td> 30 </td><td> 49 </td><td> 6.00 Mbp </td><td> 4 </td><td> 102.32 Mbp </td></tr><tr><td> 40 </td><td> 76 </td><td> 4.62 Mbp </td><td> 5 </td><td> 98.10 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 109 </td><td style="background-color:#88ff88;"> 3.77 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 97.17 Mbp </td></tr><tr><td> 60 </td><td> 149 </td><td> 3.02 Mbp </td><td> 8 </td><td> 88.83 Mbp </td></tr><tr><td> 70 </td><td> 198 </td><td> 2.49 Mbp </td><td> 9 </td><td> 85.02 Mbp </td></tr><tr><td> 80 </td><td> 259 </td><td> 1.97 Mbp </td><td> 11 </td><td> 64.65 Mbp </td></tr><tr><td> 90 </td><td> 340 </td><td> 1.42 Mbp </td><td> 14 </td><td> 54.49 Mbp </td></tr><tr><td> 100 </td><td> 462 </td><td> 0.80 Mbp </td><td> 17 </td><td> 42.82 Mbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 13 </td><td> 9.53 Mbp </td><td> 1 </td><td> 135.72 Mbp </td></tr><tr><td> 20 </td><td> 29 </td><td> 7.55 Mbp </td><td> 3 </td><td> 120.54 Mbp </td></tr><tr><td> 30 </td><td> 50 </td><td> 5.66 Mbp </td><td> 4 </td><td> 102.32 Mbp </td></tr><tr><td> 40 </td><td> 77 </td><td> 4.50 Mbp </td><td> 5 </td><td> 98.23 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 109 </td><td style="background-color:#88ff88;"> 3.75 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 97.17 Mbp </td></tr><tr><td> 60 </td><td> 150 </td><td> 2.93 Mbp </td><td> 8 </td><td> 88.83 Mbp </td></tr><tr><td> 70 </td><td> 200 </td><td> 2.49 Mbp </td><td> 10 </td><td> 72.12 Mbp </td></tr><tr><td> 80 </td><td> 262 </td><td> 1.94 Mbp </td><td> 12 </td><td> 59.63 Mbp </td></tr><tr><td> 90 </td><td> 343 </td><td> 1.41 Mbp </td><td> 14 </td><td> 54.49 Mbp </td></tr><tr><td> 100 </td><td> 470 </td><td> 0.75 Mbp </td><td> 17 </td><td> 42.82 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.073x </th><th> 737 </th><th> 1.45 Gbp </th><th> 68 </th><th> 1.45 Gbp </th></tr>
+  <tr><th> 1.067x </th><th> 732 </th><th> 1.44 Gbp </th><th> 49 </th><th> 1.44 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: rZooViv
