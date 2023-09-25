@@ -11,7 +11,17 @@ data_arima-3_scale: 3.0917
 data_arima_bases: 145.83 Gbp
 data_arima_bytes: 43.9 GiB
 data_arima_coverage: 186.39x
-data_status: <em style="color:forestgreen">Arima</em>
+data_pacbiohifi_bam-2_bases: 5.95 Gbp
+data_pacbiohifi_bam-2_bytes: 3.2 GiB
+data_pacbiohifi_bam-2_coverage: 7.60x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Thunnus_thynnus/fThuThy2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Thunnus_thynnus/fThuThy2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thunnus_thynnus/fThuThy2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 1.7575
+data_pacbiohifi_bam_bases: 5.95 Gbp
+data_pacbiohifi_bam_bytes: 3.2 GiB
+data_pacbiohifi_bam_coverage: 7.60x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -19,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 782400000
 genome_size_display: 0.78 Gbp
 genome_size_method: GoaT
-last_raw_data: 1688118859
-last_updated: 1688118860
+last_raw_data: 1695630127
+last_updated: 1695630127
 metadata: |
   species:
     short_name: fThuThy
@@ -32,6 +42,9 @@ metadata: |
     family:
       name: Scombridae
     individuals:
+      - short_name: fThuThy2
+        biosample_id: SAMEA111406335
+        sex:
       - short_name: fThuThy3
         biosample_id: SAMEA111406336
         sex:

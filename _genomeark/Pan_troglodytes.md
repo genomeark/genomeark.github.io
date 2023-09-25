@@ -61,16 +61,16 @@ data_pacbio-1_scale: 0.2594
 data_pacbio_bases: 398.91 Gbp
 data_pacbio_bytes: 1.4 TiB
 data_pacbio_coverage: 110.39x
-data_pacbiohifi_bam-3_bases: 716.18 Gbp
-data_pacbiohifi_bam-3_bytes: 756.3 GiB
-data_pacbiohifi_bam-3_coverage: 198.19x
+data_pacbiohifi_bam-3_bases: 734.38 Gbp
+data_pacbiohifi_bam-3_bytes: 775.5 GiB
+data_pacbiohifi_bam-3_coverage: 203.22x
 data_pacbiohifi_bam-3_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-3_scale: 0.8819
-data_pacbiohifi_bam_bases: 716.18 Gbp
-data_pacbiohifi_bam_bytes: 756.3 GiB
-data_pacbiohifi_bam_coverage: 198.19x
+data_pacbiohifi_bam_bases: 734.38 Gbp
+data_pacbiohifi_bam_bytes: 775.5 GiB
+data_pacbiohifi_bam_coverage: 203.22x
 data_pacbiohifi_clr-3_bases: 3799.28 Gbp
 data_pacbiohifi_clr-3_bytes: 6.7 TiB
 data_pacbiohifi_clr-3_coverage: 1051.35x
@@ -188,8 +188,8 @@ hpb3sizes: |
   </tfoot>
   </table>
 hpb3version: assembly_verkko_1.4.1r
-last_raw_data: 1691774444
-last_updated: 1694547801
+last_raw_data: 1695315469
+last_updated: 1695485989
 metadata: |
   species:
     short_name: mPanTro

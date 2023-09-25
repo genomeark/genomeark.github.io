@@ -106,8 +106,8 @@ dip1version: assembly_verkko_1.4.1r
 genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT ancestral inferred
-last_raw_data: 1692164488
-last_updated: 1694545134
+last_raw_data: 1695314467
+last_updated: 1695485986
 mat1date: 2023-09-06
 mat1filesize: 732.6 MiB
 mat1length: '3206313600'

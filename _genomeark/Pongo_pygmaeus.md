@@ -157,8 +157,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_verkko_1.4.1r
-last_raw_data: 1691781392
-last_updated: 1694794664
+last_raw_data: 1695318260
+last_updated: 1695484813
 metadata: |
   species:
     short_name: mPonPyg

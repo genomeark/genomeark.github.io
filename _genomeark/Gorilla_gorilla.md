@@ -45,16 +45,16 @@ data_ont-1_scale: 1.1541
 data_ont_bases: 986.23 Gbp
 data_ont_bytes: 795.9 GiB
 data_ont_coverage: 282.47x
-data_pacbiohifi_bam-1_bases: 1182.11 Gbp
-data_pacbiohifi_bam-1_bytes: 1.4 TiB
-data_pacbiohifi_bam-1_coverage: 338.57x
+data_pacbiohifi_bam-1_bases: 870.35 Gbp
+data_pacbiohifi_bam-1_bytes: 1.5 TiB
+data_pacbiohifi_bam-1_coverage: 249.28x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.7669
-data_pacbiohifi_bam_bases: 1182.11 Gbp
-data_pacbiohifi_bam_bytes: 1.4 TiB
-data_pacbiohifi_bam_coverage: 338.57x
+data_pacbiohifi_bam-1_scale: 0.5455
+data_pacbiohifi_bam_bases: 870.35 Gbp
+data_pacbiohifi_bam_bytes: 1.5 TiB
+data_pacbiohifi_bam_coverage: 249.28x
 data_pacbiohifi_clr-1_bases: 6591.34 Gbp
 data_pacbiohifi_clr-1_bytes: 12.0 TiB
 data_pacbiohifi_clr-1_coverage: 1887.85x
@@ -65,16 +65,16 @@ data_pacbiohifi_clr-1_scale: 0.4988
 data_pacbiohifi_clr_bases: 6591.34 Gbp
 data_pacbiohifi_clr_bytes: 12.0 TiB
 data_pacbiohifi_clr_coverage: 1887.85x
-data_pacbiohifi_fqgz-1_bases: 178.48 Gbp
+data_pacbiohifi_fqgz-1_bases: 252.45 Gbp
 data_pacbiohifi_fqgz-1_bytes: 182.8 GiB
-data_pacbiohifi_fqgz-1_coverage: 51.12x
+data_pacbiohifi_fqgz-1_coverage: 72.31x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 0.9094
-data_pacbiohifi_fqgz_bases: 178.48 Gbp
+data_pacbiohifi_fqgz-1_scale: 1.2863
+data_pacbiohifi_fqgz_bases: 252.45 Gbp
 data_pacbiohifi_fqgz_bytes: 182.8 GiB
-data_pacbiohifi_fqgz_coverage: 51.12x
+data_pacbiohifi_fqgz_coverage: 72.31x
 data_pacbiohifi_q2fqgz-1_bases: 153.88 Gbp
 data_pacbiohifi_q2fqgz-1_bytes: 115.1 GiB
 data_pacbiohifi_q2fqgz-1_coverage: 44.07x
@@ -123,8 +123,8 @@ dip1version: assembly_verkko_1.4.1r
 genome_size: 3491460000
 genome_size_display: 3.49 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-last_raw_data: 1691772363
-last_updated: 1694543577
+last_raw_data: 1695313375
+last_updated: 1695613502
 mat1date: 2023-09-06
 mat1filesize: 751.2 MiB
 mat1length: '3505445311'
