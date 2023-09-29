@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-07-01
-alt1filesize: 174.6 MiB
-alt1length: '660908299'
-alt1n50ctg: '442873'
-alt1n50scf: '442873'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Eutrigla_gurnardus/fEutGur1/assembly_cambridge/fEutGur1.alt.asm.20230701.fasta.gz
+alt1date: 2023-09-27
+alt1filesize: 187.5 MiB
+alt1length: '662358898'
+alt1n50ctg: '443872'
+alt1n50scf: '443872'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Eutrigla_gurnardus/fEutGur1/assembly_curated/fEutGur1.alt.cur.20230927.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 43 </td><td> 1.45 Mbp </td><td> 43 </td><td> 1.45 Mbp </td></tr><tr><td> 20 </td><td> 112 </td><td> 1.04 Mbp </td><td> 112 </td><td> 1.04 Mbp </td></tr><tr><td> 30 </td><td> 205 </td><td> 0.80 Mbp </td><td> 205 </td><td> 0.80 Mbp </td></tr><tr><td> 40 </td><td> 326 </td><td> 0.60 Mbp </td><td> 326 </td><td> 0.60 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 487 </td><td> 442.87 Kbp </td><td> 487 </td><td> 442.87 Kbp </td></tr><tr><td> 60 </td><td> 722 </td><td> 287.20 Kbp </td><td> 722 </td><td> 287.20 Kbp </td></tr><tr><td> 70 </td><td> 1120 </td><td> 152.15 Kbp </td><td> 1120 </td><td> 152.15 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 43 </td><td> 1.45 Mbp </td><td> 43 </td><td> 1.45 Mbp </td></tr><tr><td> 20 </td><td> 112 </td><td> 1.04 Mbp </td><td> 112 </td><td> 1.04 Mbp </td></tr><tr><td> 30 </td><td> 205 </td><td> 0.80 Mbp </td><td> 205 </td><td> 0.80 Mbp </td></tr><tr><td> 40 </td><td> 325 </td><td> 0.60 Mbp </td><td> 325 </td><td> 0.60 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 487 </td><td> 443.87 Kbp </td><td> 487 </td><td> 443.87 Kbp </td></tr><tr><td> 60 </td><td> 721 </td><td> 289.08 Kbp </td><td> 721 </td><td> 289.08 Kbp </td></tr><tr><td> 70 </td><td> 1114 </td><td> 154.19 Kbp </td><td> 1114 </td><td> 154.19 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.790x </th><th> 2521 </th><th> 0.66 Gbp </th><th> 2521 </th><th> 0.66 Gbp </th></tr>
+  <tr><th> 0.792x </th><th> 2523 </th><th> 0.66 Gbp </th><th> 2523 </th><th> 0.66 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: grey gurnard
 data_arima-1_bases: 186.68 Gbp
 data_arima-1_bytes: 55.5 GiB
@@ -59,7 +59,7 @@ genome_size: 836190000
 genome_size_display: 0.84 Gbp
 genome_size_method: GoaT
 last_raw_data: 1686683055
-last_updated: 1688994613
+last_updated: 1695772864
 metadata: |
   species:
     short_name: fEutGur
@@ -108,12 +108,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Eutrigla gurnardus
 name_: Eutrigla_gurnardus
-pri1date: 2023-07-01
-pri1filesize: 190.0 MiB
-pri1length: '681997317'
+pri1date: 2023-09-27
+pri1filesize: 189.5 MiB
+pri1length: '680483561'
 pri1n50ctg: 1707000
-pri1n50scf: 28355514
-pri1seq: https://s3.amazonaws.com/genomeark/species/Eutrigla_gurnardus/fEutGur1/assembly_cambridge/fEutGur1.pri.asm.20230701.fasta.gz
+pri1n50scf: 27269952
+pri1seq: https://s3.amazonaws.com/genomeark/species/Eutrigla_gurnardus/fEutGur1/assembly_curated/fEutGur1.pri.cur.20230927.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 14 </td><td> 5.05 Mbp </td><td> 2 </td><td> 37.75 Mbp </td></tr><tr><td> 20 </td><td> 32 </td><td> 4.10 Mbp </td><td> 5 </td><td> 32.72 Mbp </td></tr><tr><td> 30 </td><td> 55 </td><td> 3.25 Mbp </td><td> 8 </td><td> 30.19 Mbp </td></tr><tr><td> 40 </td><td> 85 </td><td> 2.42 Mbp </td><td> 10 </td><td> 29.60 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 127 </td><td style="background-color:#88ff88;"> 1.71 Mbp </td><td> 13 </td><td style="background-color:#88ff88;"> 28.36 Mbp </td></tr><tr><td> 60 </td><td> 186 </td><td> 1.23 Mbp </td><td> 17 </td><td> 23.76 Mbp </td></tr><tr><td> 70 </td><td> 278 </td><td> 0.64 Mbp </td><td> 20 </td><td> 20.33 Mbp </td></tr><tr><td> 80 </td><td> 542 </td><td> 108.74 Kbp </td><td> 50 </td><td> 320.73 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 14 </td><td> 5.05 Mbp </td><td> 3 </td><td> 33.05 Mbp </td></tr><tr><td> 20 </td><td> 32 </td><td> 4.10 Mbp </td><td> 5 </td><td> 32.14 Mbp </td></tr><tr><td> 30 </td><td> 55 </td><td> 3.25 Mbp </td><td> 8 </td><td> 30.68 Mbp </td></tr><tr><td> 40 </td><td> 85 </td><td> 2.42 Mbp </td><td> 11 </td><td> 29.20 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 127 </td><td style="background-color:#88ff88;"> 1.71 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 27.27 Mbp </td></tr><tr><td> 60 </td><td> 187 </td><td> 1.22 Mbp </td><td> 17 </td><td> 24.68 Mbp </td></tr><tr><td> 70 </td><td> 279 </td><td> 0.63 Mbp </td><td> 21 </td><td> 20.33 Mbp </td></tr><tr><td> 80 </td><td> 554 </td><td> 97.09 Kbp </td><td> 44 </td><td> 260.53 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.815x </th><th> 875 </th><th> 0.68 Gbp </th><th> 334 </th><th> 0.68 Gbp </th></tr>
+  <tr><th> 0.814x </th><th> 872 </th><th> 0.68 Gbp </th><th> 319 </th><th> 0.68 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: fEutGur

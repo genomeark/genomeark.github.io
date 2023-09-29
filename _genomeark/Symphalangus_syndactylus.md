@@ -158,7 +158,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_verkko_1.4.1r
 last_raw_data: 1695319317
-last_updated: 1695485992
+last_updated: 1696002983
 metadata: |
   species:
     short_name: mSymSyn

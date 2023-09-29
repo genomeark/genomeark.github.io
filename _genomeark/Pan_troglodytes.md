@@ -189,7 +189,7 @@ hpb3sizes: |
   </table>
 hpb3version: assembly_verkko_1.4.1r
 last_raw_data: 1695315469
-last_updated: 1695485989
+last_updated: 1696002036
 metadata: |
   species:
     short_name: mPanTro
