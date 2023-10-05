@@ -19,8 +19,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1693591906
-last_updated: 1693591906
+last_raw_data: 1696269671
+last_updated: 1696269671
 name: Lepisosteus oculatus
 name_: Lepisosteus_oculatus
 project: ~

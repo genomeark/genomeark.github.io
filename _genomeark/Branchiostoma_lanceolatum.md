@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: amphioxus
 data_arima-2_bases: 104.27 Gbp
 data_arima-2_bytes: 32.5 GiB
@@ -82,6 +82,35 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_vgp_HiC_2.0
+hpa5date: 2023-06-20
+hpa5filesize: 130.2 MiB
+hpa5length: '455264465'
+hpa5n50ctg: 8758826
+hpa5n50scf: 20775821
+hpa5seq: https://s3.amazonaws.com/genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_curated/klBraLanc5.hap1.cur.20230620.fasta.gz
+hpa5sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 21.04 Mbp </td><td> 2 </td><td> 41.55 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 18.05 Mbp </td><td> 3 </td><td> 34.41 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 14.90 Mbp </td><td> 5 </td><td> 25.68 Mbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 12.29 Mbp </td><td> 8 </td><td> 23.01 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 8.76 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 20.78 Mbp </td></tr><tr><td> 60 </td><td> 27 </td><td> 6.80 Mbp </td><td> 13 </td><td> 19.58 Mbp </td></tr><tr><td> 70 </td><td> 38 </td><td> 3.57 Mbp </td><td> 16 </td><td> 17.07 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.789x </th><th> 146 </th><th> 455.25 Mbp </th><th> 65 </th><th> 455.26 Mbp </th></tr>
+  </tfoot>
+  </table>
+hpa5version: assembly_curated
 hpb1date: 2022-12-14
 hpb1filesize: 126.4 MiB
 hpb1length: '442093931'
@@ -111,8 +140,37 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
+hpb5date: 2023-06-20
+hpb5filesize: 120.3 MiB
+hpb5length: '458287516'
+hpb5n50ctg: 8337757
+hpb5n50scf: 20566309
+hpb5seq: https://s3.amazonaws.com/genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_curated/klBraLanc5.hap2.cur.20230620.fasta.gz
+hpb5sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 16.79 Mbp </td><td> 2 </td><td> 40.41 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 15.38 Mbp </td><td> 3 </td><td> 34.45 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 14.55 Mbp </td><td> 5 </td><td> 25.72 Mbp </td></tr><tr><td> 40 </td><td> 16 </td><td> 11.20 Mbp </td><td> 8 </td><td> 22.63 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 22 </td><td style="background-color:#88ff88;"> 8.34 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 20.57 Mbp </td></tr><tr><td> 60 </td><td> 30 </td><td> 5.15 Mbp </td><td> 13 </td><td> 19.39 Mbp </td></tr><tr><td> 70 </td><td> 44 </td><td> 2.82 Mbp </td><td> 16 </td><td> 18.55 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.794x </th><th> 137 </th><th> 458.27 Mbp </th><th> 34 </th><th> 458.29 Mbp </th></tr>
+  </tfoot>
+  </table>
+hpb5version: assembly_curated
 last_raw_data: 1687315206
-last_updated: 1687315206
+last_updated: 1696431370
 metadata: |
   species:
     short_name: klBraLanc
