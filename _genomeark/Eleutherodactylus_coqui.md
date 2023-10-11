@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 586.19 Gbp
 data_arima-1_bytes: 279.6 GiB
@@ -33,12 +33,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-08-15
+hpa1date: 2023-10-07
 hpa1filesize: 0.9 GiB
-hpa1length: '3393661501'
-hpa1n50ctg: 9691067
-hpa1n50scf: 244821910
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Eleutherodactylus_coqui/aEleCoq1/assembly_vgp_HiC_2.0/aEleCoq1.HiC.hap1.20230815.fasta.gz
+hpa1length: '3371297528'
+hpa1n50ctg: 10388966
+hpa1n50scf: 277440397
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Eleutherodactylus_coqui/aEleCoq1/assembly_curated/aEleCoq1.hap1.cur.20231007.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -56,18 +56,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 7 </td><td> 35.38 Mbp </td><td> 1 </td><td> 0.54 Gbp </td></tr><tr><td> 20 </td><td> 19 </td><td> 23.03 Mbp </td><td> 2 </td><td> 346.26 Mbp </td></tr><tr><td> 30 </td><td> 36 </td><td> 18.50 Mbp </td><td> 3 </td><td> 314.08 Mbp </td></tr><tr><td> 40 </td><td> 59 </td><td> 12.62 Mbp </td><td> 4 </td><td> 313.53 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 90 </td><td style="background-color:#88ff88;"> 9.69 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 244.82 Mbp </td></tr><tr><td> 60 </td><td> 129 </td><td> 7.78 Mbp </td><td> 7 </td><td> 221.97 Mbp </td></tr><tr><td> 70 </td><td> 183 </td><td> 5.23 Mbp </td><td> 8 </td><td> 202.38 Mbp </td></tr><tr><td> 80 </td><td> 265 </td><td> 3.38 Mbp </td><td> 10 </td><td> 143.70 Mbp </td></tr><tr><td> 90 </td><td> 403 </td><td> 1.72 Mbp </td><td> 13 </td><td> 126.40 Mbp </td></tr><tr><td> 100 </td><td> 1630 </td><td> 10.59 Kbp </td><td> 972 </td><td> 10.59 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 8 </td><td> 30.80 Mbp </td><td> 1 </td><td> 0.54 Gbp </td></tr><tr><td> 20 </td><td> 21 </td><td> 21.05 Mbp </td><td> 2 </td><td> 346.26 Mbp </td></tr><tr><td> 30 </td><td> 38 </td><td> 18.10 Mbp </td><td> 3 </td><td> 319.81 Mbp </td></tr><tr><td> 40 </td><td> 60 </td><td> 13.62 Mbp </td><td> 4 </td><td> 304.12 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 89 </td><td style="background-color:#88ff88;"> 10.39 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 277.44 Mbp </td></tr><tr><td> 60 </td><td> 126 </td><td> 8.00 Mbp </td><td> 6 </td><td> 246.83 Mbp </td></tr><tr><td> 70 </td><td> 179 </td><td> 5.26 Mbp </td><td> 8 </td><td> 210.11 Mbp </td></tr><tr><td> 80 </td><td> 257 </td><td> 3.46 Mbp </td><td> 10 </td><td> 143.70 Mbp </td></tr><tr><td> 90 </td><td> 394 </td><td> 1.72 Mbp </td><td> 12 </td><td> 132.95 Mbp </td></tr><tr><td> 100 </td><td> 1615 </td><td> 10.59 Kbp </td><td> 956 </td><td> 10.59 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1630 </th><th> 3.39 Gbp </th><th> 972 </th><th> 3.39 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 1615 </th><th> 3.37 Gbp </th><th> 956 </th><th> 3.37 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2023-08-15
+hpa1version: assembly_curated
+hpb1date: 2023-10-07
 hpb1filesize: 0.9 GiB
-hpb1length: '3340636055'
-hpb1n50ctg: 10863754
-hpb1n50scf: 277440397
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Eleutherodactylus_coqui/aEleCoq1/assembly_vgp_HiC_2.0/aEleCoq1.HiC.hap2.20230815.fasta.gz
+hpb1length: '3362534901'
+hpb1n50ctg: 10012006
+hpb1n50scf: 286577258
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Eleutherodactylus_coqui/aEleCoq1/assembly_curated/aEleCoq1.hap2.cur.20231007.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -85,14 +85,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 7 </td><td> 36.32 Mbp </td><td> 1 </td><td> 0.52 Gbp </td></tr><tr><td> 20 </td><td> 18 </td><td> 23.22 Mbp </td><td> 2 </td><td> 334.35 Mbp </td></tr><tr><td> 30 </td><td> 34 </td><td> 18.10 Mbp </td><td> 3 </td><td> 306.26 Mbp </td></tr><tr><td> 40 </td><td> 55 </td><td> 13.67 Mbp </td><td> 4 </td><td> 304.12 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 83 </td><td style="background-color:#88ff88;"> 10.86 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 277.44 Mbp </td></tr><tr><td> 60 </td><td> 119 </td><td> 8.00 Mbp </td><td> 7 </td><td> 201.76 Mbp </td></tr><tr><td> 70 </td><td> 170 </td><td> 5.23 Mbp </td><td> 8 </td><td> 195.73 Mbp </td></tr><tr><td> 80 </td><td> 249 </td><td> 3.46 Mbp </td><td> 10 </td><td> 143.36 Mbp </td></tr><tr><td> 90 </td><td> 388 </td><td> 1.69 Mbp </td><td> 13 </td><td> 105.84 Mbp </td></tr><tr><td> 100 </td><td> 1510 </td><td> 9.38 Kbp </td><td> 854 </td><td> 9.38 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 6 </td><td> 39.08 Mbp </td><td> 1 </td><td> 0.53 Gbp </td></tr><tr><td> 20 </td><td> 17 </td><td> 25.65 Mbp </td><td> 2 </td><td> 334.35 Mbp </td></tr><tr><td> 30 </td><td> 32 </td><td> 18.98 Mbp </td><td> 3 </td><td> 315.19 Mbp </td></tr><tr><td> 40 </td><td> 54 </td><td> 12.96 Mbp </td><td> 4 </td><td> 308.51 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 84 </td><td style="background-color:#88ff88;"> 10.01 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 286.58 Mbp </td></tr><tr><td> 60 </td><td> 122 </td><td> 7.74 Mbp </td><td> 6 </td><td> 249.86 Mbp </td></tr><tr><td> 70 </td><td> 176 </td><td> 5.01 Mbp </td><td> 8 </td><td> 212.34 Mbp </td></tr><tr><td> 80 </td><td> 260 </td><td> 3.34 Mbp </td><td> 10 </td><td> 150.57 Mbp </td></tr><tr><td> 90 </td><td> 400 </td><td> 1.68 Mbp </td><td> 12 </td><td> 133.18 Mbp </td></tr><tr><td> 100 </td><td> 1512 </td><td> 9.38 Kbp </td><td> 827 </td><td> 9.38 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1510 </th><th> 3.34 Gbp </th><th> 854 </th><th> 3.34 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 1512 </th><th> 3.36 Gbp </th><th> 827 </th><th> 3.36 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1692138145
-last_updated: 1692213998
+last_updated: 1696637372
 mds:
 - data: "species: Eleutherodactylus coqui\nspecimen: aEleCoq1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Eleutherodactylus_coqui/aEleCoq1/assembly_vgp_HiC_2.0/aEleCoq1.HiC.hap1.20230815.fasta.gz\nhap2:
@@ -111,7 +111,7 @@ mds:
     HiC reads needed to have 5 bp trimmed from the 5' end due to adapter left over
     from the Arima library prep kit. This is a phase 1 species. We are submitting
     both haplotypes for dual curation, and this is the ticket for hap1. "
-  ident: md4
+  ident: md10
   title: assembly_vgp_HiC_2.0/aEleCoq1_hap1.yml
 - data: "species: Eleutherodactylus coqui\nspecimen: aEleCoq1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Eleutherodactylus_coqui/aEleCoq1/assembly_vgp_HiC_2.0/aEleCoq1.HiC.hap1.20230815.fasta.gz\nhap2:
@@ -130,7 +130,7 @@ mds:
     HiC reads needed to have 5 bp trimmed from the 5' end due to adapter left over
     from the Arima library prep kit. This is a phase 1 species. We are submitting
     both haplotypes for dual curation, and this is the ticket for hap2. "
-  ident: md5
+  ident: md11
   title: assembly_vgp_HiC_2.0/aEleCoq1_hap2.yml
 mito1date: 2023-08-15
 mito1filesize: 5.3 KiB

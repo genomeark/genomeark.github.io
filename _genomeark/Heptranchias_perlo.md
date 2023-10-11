@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 300.42 Gbp
 data_arima-1_bytes: 141.8 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-06-06
-hpa1filesize: 857.0 MiB
-hpa1length: '3254220941'
-hpa1n50ctg: 4853838
-hpa1n50scf: 66547297
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/sHepPer1.HiC.hap1.20230606.fasta.gz
+hpa1date: 2023-10-07
+hpa1filesize: 855.8 MiB
+hpa1length: '3249915908'
+hpa1n50ctg: 4905566
+hpa1n50scf: 66821466
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Heptranchias_perlo/sHepPer1/assembly_curated/sHepPer1.hap1.cur.20231007.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 13 </td><td> 19.01 Mbp </td><td> 2 </td><td> 172.36 Mbp </td></tr><tr><td> 20 </td><td> 36 </td><td> 12.24 Mbp </td><td> 4 </td><td> 141.86 Mbp </td></tr><tr><td> 30 </td><td> 67 </td><td> 9.20 Mbp </td><td> 7 </td><td> 98.67 Mbp </td></tr><tr><td> 40 </td><td> 106 </td><td> 7.42 Mbp </td><td> 11 </td><td> 83.46 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 161 </td><td style="background-color:#88ff88;"> 4.85 Mbp </td><td> 15 </td><td style="background-color:#88ff88;"> 66.55 Mbp </td></tr><tr><td> 60 </td><td> 242 </td><td> 3.33 Mbp </td><td> 21 </td><td> 50.61 Mbp </td></tr><tr><td> 70 </td><td> 361 </td><td> 2.26 Mbp </td><td> 28 </td><td> 40.46 Mbp </td></tr><tr><td> 80 </td><td> 551 </td><td> 1.28 Mbp </td><td> 38 </td><td> 20.26 Mbp </td></tr><tr><td> 90 </td><td> 967 </td><td> 469.84 Kbp </td><td> 90 </td><td> 2.43 Mbp </td></tr><tr><td> 100 </td><td> 3737 </td><td> 6.69 Kbp </td><td> 1941 </td><td> 6.69 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 14 </td><td> 16.55 Mbp </td><td> 2 </td><td> 172.36 Mbp </td></tr><tr><td> 20 </td><td> 38 </td><td> 11.93 Mbp </td><td> 4 </td><td> 141.86 Mbp </td></tr><tr><td> 30 </td><td> 68 </td><td> 9.28 Mbp </td><td> 7 </td><td> 101.16 Mbp </td></tr><tr><td> 40 </td><td> 107 </td><td> 7.30 Mbp </td><td> 11 </td><td> 83.46 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 162 </td><td style="background-color:#88ff88;"> 4.91 Mbp </td><td> 15 </td><td style="background-color:#88ff88;"> 66.82 Mbp </td></tr><tr><td> 60 </td><td> 242 </td><td> 3.35 Mbp </td><td> 20 </td><td> 53.47 Mbp </td></tr><tr><td> 70 </td><td> 360 </td><td> 2.32 Mbp </td><td> 27 </td><td> 42.91 Mbp </td></tr><tr><td> 80 </td><td> 548 </td><td> 1.26 Mbp </td><td> 36 </td><td> 28.33 Mbp </td></tr><tr><td> 90 </td><td> 973 </td><td> 460.84 Kbp </td><td> 66 </td><td> 3.08 Mbp </td></tr><tr><td> 100 </td><td> 3713 </td><td> 6.69 Kbp </td><td> 1879 </td><td> 6.69 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 3737 </th><th> 3.25 Gbp </th><th> 1941 </th><th> 3.25 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 3713 </th><th> 3.25 Gbp </th><th> 1879 </th><th> 3.25 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2023-06-06
-hpb1filesize: 823.3 MiB
-hpb1length: '3060592654'
+hpa1version: assembly_curated
+hpb1date: 2023-10-07
+hpb1filesize: 823.0 MiB
+hpb1length: '3059754027'
 hpb1n50ctg: 5562131
 hpb1n50scf: 66158240
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/sHepPer1.HiC.hap2.20230606.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Heptranchias_perlo/sHepPer1/assembly_curated/sHepPer1.hap2.decon.20231007.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 14 </td><td> 17.41 Mbp </td><td> 2 </td><td> 172.44 Mbp </td></tr><tr><td> 20 </td><td> 33 </td><td> 13.55 Mbp </td><td> 4 </td><td> 138.48 Mbp </td></tr><tr><td> 30 </td><td> 59 </td><td> 10.46 Mbp </td><td> 7 </td><td> 97.58 Mbp </td></tr><tr><td> 40 </td><td> 93 </td><td> 7.67 Mbp </td><td> 10 </td><td> 86.89 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 140 </td><td style="background-color:#88ff88;"> 5.56 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 66.16 Mbp </td></tr><tr><td> 60 </td><td> 205 </td><td> 3.74 Mbp </td><td> 19 </td><td> 52.49 Mbp </td></tr><tr><td> 70 </td><td> 306 </td><td> 2.41 Mbp </td><td> 25 </td><td> 45.03 Mbp </td></tr><tr><td> 80 </td><td> 471 </td><td> 1.42 Mbp </td><td> 33 </td><td> 32.24 Mbp </td></tr><tr><td> 90 </td><td> 831 </td><td> 0.51 Mbp </td><td> 50 </td><td> 8.75 Mbp </td></tr><tr><td> 100 </td><td> 2922 </td><td> 9.87 Kbp </td><td> 1227 </td><td> 9.87 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 14 </td><td> 17.41 Mbp </td><td> 2 </td><td> 172.44 Mbp </td></tr><tr><td> 20 </td><td> 33 </td><td> 13.55 Mbp </td><td> 4 </td><td> 138.48 Mbp </td></tr><tr><td> 30 </td><td> 59 </td><td> 10.46 Mbp </td><td> 7 </td><td> 97.58 Mbp </td></tr><tr><td> 40 </td><td> 93 </td><td> 7.67 Mbp </td><td> 10 </td><td> 86.89 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 140 </td><td style="background-color:#88ff88;"> 5.56 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 66.16 Mbp </td></tr><tr><td> 60 </td><td> 205 </td><td> 3.74 Mbp </td><td> 19 </td><td> 52.49 Mbp </td></tr><tr><td> 70 </td><td> 306 </td><td> 2.41 Mbp </td><td> 25 </td><td> 45.03 Mbp </td></tr><tr><td> 80 </td><td> 470 </td><td> 1.42 Mbp </td><td> 33 </td><td> 32.24 Mbp </td></tr><tr><td> 90 </td><td> 829 </td><td> 0.52 Mbp </td><td> 50 </td><td> 8.75 Mbp </td></tr><tr><td> 100 </td><td> 2889 </td><td> 9.87 Kbp </td><td> 1194 </td><td> 9.87 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 2922 </th><th> 3.06 Gbp </th><th> 1227 </th><th> 3.06 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 2889 </th><th> 3.06 Gbp </th><th> 1194 </th><th> 3.06 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1682520778
-last_updated: 1686173663
+last_updated: 1696637192
 mds:
 - data: "species: Heptranchias perlo\nspecimen: sHepPer1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/sHepPer1.HiC.hap1.20230606.fasta.gz\nhap2:
@@ -105,7 +105,7 @@ mds:
     The HiC prep was Arima kit 2. The kmer spectra indicate a homogametic specimen.
     I am submitting both hap1 & hap2 for dual curation. This is the curation ticket
     for hap1. "
-  ident: md4
+  ident: md7
   title: assembly_vgp_HiC_2.0/sHepPer1_hap1.yml
 - data: "species: Heptranchias perlo\nspecimen: sHepPer1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/sHepPer1.HiC.hap1.20230606.fasta.gz\nhap2:
@@ -122,7 +122,7 @@ mds:
     The HiC prep was Arima kit 2. The kmer spectra indicate a homogametic specimen.
     I am submitting both hap1 & hap2 for dual curation. This is the curation ticket
     for hap2. "
-  ident: md5
+  ident: md8
   title: assembly_vgp_HiC_2.0/sHepPer1_hap2.yml
 mito1date: 2023-06-07
 mito1filesize: 5.7 KiB
