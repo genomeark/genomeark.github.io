@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1684343908
-last_updated: 1696440741
+last_updated: 1697495147
 mds:
 - data: "species: Coturnix chinensis\nspecimen: bCotChi1\nprojects: \n  - vgp\nassembled_by_group:
     Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1:
@@ -103,7 +103,7 @@ mds:
     \n  - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
     assembly of bCotChi1, resulting in two complete haplotypes. HiC scaffolding was
     performed with YaHS.  The HiC prep kit used was Swift-IDT.  \n\n"
-  ident: md2
+  ident: md4
   title: assembly_vgp_HiC_2.0/bCotChi1_hap1.yml
 - data: "species: Coturnix chinensis\nspecimen: bCotChi1\nprojects: \n  - vgp\nassembled_by_group:
     Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1:
@@ -118,7 +118,7 @@ mds:
     \n  - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
     assembly of bCotChi1, resulting in two complete haplotypes. HiC scaffolding was
     performed with YaHS.  The HiC prep kit used was Swift-IDT. \n\n"
-  ident: md3
+  ident: md5
   title: assembly_vgp_HiC_2.0/bCotChi1_hap2.yml
 name: Coturnix chinensis
 name_: Coturnix_chinensis

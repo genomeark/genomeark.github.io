@@ -162,16 +162,16 @@ data_illumina-3_scale: 1.8649
 data_illumina_bases: 219.36 Gbp
 data_illumina_bytes: 109.7 GiB
 data_illumina_coverage: 181.29x
-data_ont-1_bases: 120.02 Gbp
-data_ont-1_bytes: 109.6 GiB
-data_ont-1_coverage: 99.19x
+data_ont-1_bases: 191.42 Gbp
+data_ont-1_bytes: 160.4 GiB
+data_ont-1_coverage: 158.20x
 data_ont-1_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/ont/<br>
 data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal1/genomic_data/ont/
 data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal1/genomic_data/ont/
-data_ont-1_scale: 1.0200
-data_ont_bases: 120.02 Gbp
-data_ont_bytes: 109.6 GiB
-data_ont_coverage: 99.19x
+data_ont-1_scale: 1.1114
+data_ont_bases: 191.42 Gbp
+data_ont_bytes: 160.4 GiB
+data_ont_coverage: 158.20x
 data_pacbio-1_bases: 123.49 Gbp
 data_pacbio-1_bytes: 213.3 GiB
 data_pacbio-1_coverage: 102.06x
@@ -244,8 +244,8 @@ genbank_pri: bGalGal4:GCA_027557775.1 bGalGal5:GCA_027408225.1
 genome_size: 1210000000
 genome_size_display: 1.21 Gbp
 genome_size_method: ''
-last_raw_data: 1675798285
-last_updated: 1675798285
+last_raw_data: 1697153370
+last_updated: 1697154157
 mat1date: 2019-10-17
 mat1filesize: 285.8 MiB
 mat1length: '1050497396'
@@ -383,7 +383,7 @@ mds:
       tube_id: bGalGal4.BL1,bGalGal4.BL2,bGalGal4.BL3,bGalGal4.BL4
     assembly:
     - no sw yaml file found
-  ident: md2279
+  ident: md2777
   title: bGalGal4_metadata.yml
 - data: |
     species: Gallus gallus
@@ -404,7 +404,7 @@ mds:
       - salsa (2.2)
     assembled_by_group: BeGenDiv
     notes: This assembly was run with the standard hifiasm pipeline (ie, pseudohaplotype) with no hifiasm internal purging set. Smrt-bell adapter sequences removed from HiFi reads with cutadapt. Purge_dups was used instead for purging and phasing. No polishing has been performed. There was also no mitochondrial genome used, so alternate assembly is equivalent of q2 in pipeline. Kmer spectra analysis performed using 10x reads.
-  ident: md2328
+  ident: md2826
   title: vgp_assembly_2.0/bGalGal4.yaml
 - data: |
     data:
@@ -453,7 +453,7 @@ mds:
       tube_id: bGalGal5.BL1
     assembly:
     - no sw yaml file found
-  ident: md2332
+  ident: md2830
   title: bGalGal5_metadata.yml
 - data: |
     species: Gallus gallus
@@ -474,7 +474,7 @@ mds:
       - salsa (2.2)
     assembled_by_group: BeGenDiv
     notes: This assembly was run with the standard hifiasm pipeline (ie, pseudohaplotype) with no hifiasm internal purging set. Smrt-bell adapter sequences removed from HiFi reads with cutadapt. Purge_dups was used instead for purging and phasing. No polishing has been performed. There was also no mitochondrial genome used, so alternate assembly is equivalent of q2 in pipeline. Kmer spectra analysis performed using 10x reads.
-  ident: md2356
+  ident: md2854
   title: vgp_assembly_2.0/bGalGal5.yaml
 metadata: |
   species:

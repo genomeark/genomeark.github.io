@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
 data_arima-1_bases: 397.11 Gbp
 data_arima-1_bytes: 205.4 GiB
@@ -29,8 +29,130 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
+hpa1date: 2023-10-16
+hpa1filesize: 1.3 GiB
+hpa1length: '4742627115'
+hpa1n50ctg: 12994863
+hpa1n50scf: 692463724
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap1.20231016.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 9 </td><td> 40.45 Mbp </td><td> 1 </td><td> 1.84 Gbp </td></tr><tr><td> 20 </td><td> 22 </td><td> 30.99 Mbp </td><td> 1 </td><td> 1.84 Gbp </td></tr><tr><td> 30 </td><td> 39 </td><td> 24.48 Mbp </td><td> 1 </td><td> 1.84 Gbp </td></tr><tr><td> 40 </td><td> 62 </td><td> 18.00 Mbp </td><td> 2 </td><td> 0.69 Gbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 92 </td><td style="background-color:#88ff88;"> 12.99 Mbp </td><td> 2 </td><td style="background-color:#88ff88;"> 0.69 Gbp </td></tr><tr><td> 60 </td><td> 137 </td><td> 8.54 Mbp </td><td> 3 </td><td> 0.63 Gbp </td></tr><tr><td> 70 </td><td> 208 </td><td> 5.24 Mbp </td><td> 4 </td><td> 0.57 Gbp </td></tr><tr><td> 80 </td><td> 337 </td><td> 2.65 Mbp </td><td> 5 </td><td> 480.25 Mbp </td></tr><tr><td> 90 </td><td> 638 </td><td> 1.00 Mbp </td><td> 6 </td><td> 402.03 Mbp </td></tr><tr><td> 100 </td><td> 2519 </td><td> 14.63 Kbp </td><td> 500 </td><td> 14.63 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 2519 </th><th> 4.74 Gbp </th><th> 500 </th><th> 4.74 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2023-10-16
+hpb1filesize: 1.2 GiB
+hpb1length: '4542366990'
+hpb1n50ctg: 12716842
+hpb1n50scf: 594342128
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap2.20231016.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 8 </td><td> 42.50 Mbp </td><td> 1 </td><td> 1.56 Gbp </td></tr><tr><td> 20 </td><td> 20 </td><td> 30.34 Mbp </td><td> 1 </td><td> 1.56 Gbp </td></tr><tr><td> 30 </td><td> 37 </td><td> 22.66 Mbp </td><td> 1 </td><td> 1.56 Gbp </td></tr><tr><td> 40 </td><td> 61 </td><td> 17.07 Mbp </td><td> 2 </td><td> 0.69 Gbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 92 </td><td style="background-color:#88ff88;"> 12.72 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 0.59 Gbp </td></tr><tr><td> 60 </td><td> 135 </td><td> 8.49 Mbp </td><td> 3 </td><td> 0.59 Gbp </td></tr><tr><td> 70 </td><td> 200 </td><td> 5.56 Mbp </td><td> 4 </td><td> 474.72 Mbp </td></tr><tr><td> 80 </td><td> 309 </td><td> 3.10 Mbp </td><td> 5 </td><td> 369.35 Mbp </td></tr><tr><td> 90 </td><td> 553 </td><td> 1.08 Mbp </td><td> 7 </td><td> 187.94 Mbp </td></tr><tr><td> 100 </td><td> 2645 </td><td> 6.09 Kbp </td><td> 716 </td><td> 6.09 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 2645 </th><th> 4.54 Gbp </th><th> 716 </th><th> 4.54 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1691702908
-last_updated: 1691702908
+last_updated: 1697492860
+mds:
+- data: "species: Rhinophrynus dorsalis\nspecimen: aRhiDor1\nprojects: \n  - vgp\nassembled_by_group:
+    Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1:
+    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap1.20231016.fasta.gz\nhap2:
+    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap2.20231016.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aRhiDor1_hap1_s2.pretext\npretext_hap2:
+    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aRhiDor1_hap2_s2.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/merqury/aRhiDor1_png/\npacbio_read_dir:
+    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/arima/\nmito:
+    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_MT_rockefeller/aRhiDor1.MT.20231016.fasta.gz\npipeline:
+    \n  - hifiasm (0.19.3+galaxy0)\n  - purge_dups\n  - yahs (1.2a.2+galaxy1)\nnotes:
+    This was a Hifiasm-HiC assembly of aRhiDor1, resulting in two complete haplotypes.
+    HiC scaffolding was performed with YaHS.  The HiC prep kit used was Arima library
+    prep. The HiC reads needed to have 5 bp trimmed from the 5' end due to adapter
+    left over from the Arima library prep kit. \n\n"
+  ident: md4
+  title: assembly_vgp_HiC_2.0/aRhiDor1_hap1.yml
+- data: "species: Rhinophrynus dorsalis\nspecimen: aRhiDor1\nprojects: \n  - vgp\nassembled_by_group:
+    Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1:
+    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap1.20231016.fasta.gz\nhap2:
+    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap2.20231016.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aRhiDor1_hap1_s2.pretext\npretext_hap2:
+    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aRhiDor1_hap2_s2.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/merqury/aRhiDor1_png/\npacbio_read_dir:
+    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/arima/\nmito:
+    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_MT_rockefeller/aRhiDor1.MT.20231016.fasta.gz\npipeline:
+    \n  - hifiasm (0.19.3+galaxy0)\n  - purge_dups\n  - yahs (1.2a.2+galaxy1)\nnotes:
+    This was a Hifiasm-HiC assembly of aRhiDor1, resulting in two complete haplotypes.
+    HiC scaffolding was performed with YaHS.  The HiC prep kit used was Arima library
+    prep. The HiC reads needed to have 5 bp trimmed from the 5' end due to adapter
+    left over from the Arima library prep kit. \n\n"
+  ident: md5
+  title: assembly_vgp_HiC_2.0/aRhiDor1_hap2.yml
+mito1date: 2023-10-16
+mito1filesize: 5.5 KiB
+mito1length: '17199'
+mito1n50ctg: 17199
+mito1n50scf: 17199
+mito1seq: https://s3.amazonaws.com/genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_MT_rockefeller/aRhiDor1.MT.20231016.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 17.20 Kbp </td><td> 1 </td><td> 17.20 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 17.20 Kbp </td><td> 1 </td><td> 17.20 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 17.20 Kbp </td><td> 1 </td><td> 17.20 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 17.20 Kbp </td><td> 1 </td><td> 17.20 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 17.20 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 17.20 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 17.20 Kbp </td><td> 1 </td><td> 17.20 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 17.20 Kbp </td><td> 1 </td><td> 17.20 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 17.20 Kbp </td><td> 1 </td><td> 17.20 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 17.20 Kbp </td><td> 1 </td><td> 17.20 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 17.20 Kbp </td><td> 1 </td><td> 17.20 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 17.20 Kbp </th><th> 1 </th><th> 17.20 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Rhinophrynus dorsalis
 name_: Rhinophrynus_dorsalis
 project: ~

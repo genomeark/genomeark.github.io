@@ -71,7 +71,7 @@ genome_size: 675000000
 genome_size_display: 0.68 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651608069
-last_updated: 1651608069
+last_updated: 1697570990
 metadata: |
   species:
     name: Osmerus mordax

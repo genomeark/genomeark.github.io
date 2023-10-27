@@ -1,0 +1,1 @@
+../_genomeark/Sebastes_fasciatus.md

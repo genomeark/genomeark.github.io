@@ -32,7 +32,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1677092946
-last_updated: 1684436165
+last_updated: 1698092455
 mds:
 - data: "species: Narcine bancroftii\nspecimen: sNarBan1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhap1: s3://genomeark/species/Narcine_bancroftii/sNarBan1/assembly_vgp_HiC_2.0/sNarBan1.HiC.hap1.20230516.fasta.gz\nhap2:
@@ -49,7 +49,7 @@ mds:
     This individual did not have bionano data. HiC scaffolding was performed with
     yahs. The HiC prep was Arima kit 2. The assembly was performed on the Galaxy EU
     servers. "
-  ident: md8
+  ident: md10
   title: assembly_vgp_HiC_2.0/sNarBan1.yml
 mito1date: 2023-05-16
 mito1filesize: 5.7 KiB
