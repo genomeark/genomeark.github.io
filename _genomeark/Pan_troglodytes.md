@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: chimpanzee
 data_10x-1_bases: 248.16 Gbp
 data_10x-1_bytes: 153.5 GiB
@@ -81,16 +81,16 @@ data_pacbiohifi_clr-3_scale: 0.5167
 data_pacbiohifi_clr_bases: 3799.28 Gbp
 data_pacbiohifi_clr_bytes: 6.7 TiB
 data_pacbiohifi_clr_coverage: 1051.35x
-data_pacbiohifi_fqgz-3_bases: 214.62 Gbp
-data_pacbiohifi_fqgz-3_bytes: 157.7 GiB
-data_pacbiohifi_fqgz-3_coverage: 59.39x
+data_pacbiohifi_fqgz-3_bases: 429.26 Gbp
+data_pacbiohifi_fqgz-3_bytes: 312.6 GiB
+data_pacbiohifi_fqgz-3_coverage: 118.79x
 data_pacbiohifi_fqgz-3_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-3_scale: 1.2677
-data_pacbiohifi_fqgz_bases: 214.62 Gbp
-data_pacbiohifi_fqgz_bytes: 157.7 GiB
-data_pacbiohifi_fqgz_coverage: 59.39x
+data_pacbiohifi_fqgz-3_scale: 1.2788
+data_pacbiohifi_fqgz_bases: 429.26 Gbp
+data_pacbiohifi_fqgz_bytes: 312.6 GiB
+data_pacbiohifi_fqgz_coverage: 118.79x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
   HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em>
   ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
@@ -130,12 +130,12 @@ dip3version: assembly_verkko_1.4.1r
 genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-hpa3date: 2023-09-06
-hpa3filesize: 727.4 MiB
-hpa3length: '3146144318'
-hpa3n50ctg: 140160301
-hpa3n50scf: 140160301
-hpa3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_verkko_1.4.1r/mPanTro3.hap1.20230906.fasta.gz
+hpa3date: 2023-10-31
+hpa3filesize: 876.0 MiB
+hpa3length: '3141292470'
+hpa3n50ctg: 140160335
+hpa3n50scf: 140160335
+hpa3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.hap1.cur.20231031.fasta.gz
 hpa3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -153,18 +153,18 @@ hpa3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 201.58 Mbp </td><td> 2 </td><td> 201.58 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 180.08 Mbp </td><td> 4 </td><td> 180.08 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 174.65 Mbp </td><td> 6 </td><td> 174.65 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 153.90 Mbp </td><td> 8 </td><td> 153.90 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 140.16 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 140.16 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 122.00 Mbp </td><td> 14 </td><td> 122.00 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 99.60 Mbp </td><td> 17 </td><td> 99.60 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 78.12 Mbp </td><td> 21 </td><td> 78.12 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 201.58 Mbp </td><td> 2 </td><td> 201.58 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 183.32 Mbp </td><td> 4 </td><td> 183.32 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 174.65 Mbp </td><td> 6 </td><td> 174.65 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 153.90 Mbp </td><td> 8 </td><td> 153.90 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 140.16 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 140.16 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 118.86 Mbp </td><td> 14 </td><td> 120.15 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 99.60 Mbp </td><td> 17 </td><td> 99.60 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 78.12 Mbp </td><td> 21 </td><td> 78.12 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.871x </th><th> 29 </th><th> 3.15 Gbp </th><th> 24 </th><th> 3.15 Gbp </th></tr>
+  <tr><th> 0.868x </th><th> 29 </th><th> 3.14 Gbp </th><th> 24 </th><th> 3.14 Gbp </th></tr>
   </tfoot>
   </table>
-hpa3version: assembly_verkko_1.4.1r
-hpb3date: 2023-09-06
-hpb3filesize: 697.2 MiB
-hpb3length: '3020490541'
-hpb3n50ctg: 136991393
-hpb3n50scf: 136991393
-hpb3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_verkko_1.4.1r/mPanTro3.hap2.20230906.fasta.gz
+hpa3version: assembly_curated
+hpb3date: 2023-10-31
+hpb3filesize: 842.1 MiB
+hpb3length: '3034919470'
+hpb3n50ctg: 136439545
+hpb3n50scf: 136439545
+hpb3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.hap2.cur.20231031.fasta.gz
 hpb3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -182,14 +182,14 @@ hpb3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 200.34 Mbp </td><td> 2 </td><td> 200.34 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 183.32 Mbp </td><td> 4 </td><td> 183.32 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 168.85 Mbp </td><td> 6 </td><td> 168.85 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 146.29 Mbp </td><td> 8 </td><td> 146.29 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 136.99 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 136.99 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 115.42 Mbp </td><td> 14 </td><td> 117.23 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 97.71 Mbp </td><td> 17 </td><td> 97.71 Mbp </td></tr><tr><td> 80 </td><td> 22 </td><td> 52.30 Mbp </td><td> 22 </td><td> 54.33 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 200.34 Mbp </td><td> 2 </td><td> 200.34 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 180.08 Mbp </td><td> 4 </td><td> 180.08 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 168.85 Mbp </td><td> 6 </td><td> 168.85 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 147.43 Mbp </td><td> 8 </td><td> 147.43 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 136.44 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 136.44 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 115.41 Mbp </td><td> 14 </td><td> 118.00 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 97.71 Mbp </td><td> 17 </td><td> 97.71 Mbp </td></tr><tr><td> 80 </td><td> 22 </td><td> 52.30 Mbp </td><td> 21 </td><td> 73.83 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.836x </th><th> 29 </th><th> 3.02 Gbp </th><th> 24 </th><th> 3.02 Gbp </th></tr>
+  <tr><th> 0.838x </th><th> 29 </th><th> 3.03 Gbp </th><th> 24 </th><th> 3.03 Gbp </th></tr>
   </tfoot>
   </table>
-hpb3version: assembly_verkko_1.4.1r
-last_raw_data: 1695315469
-last_updated: 1698266221
+hpb3version: assembly_curated
+last_raw_data: 1698482689
+last_updated: 1698759377
 metadata: |
   species:
     short_name: mPanTro
@@ -317,6 +317,35 @@ mito3sizes: |
 mito3version: assembly_verkko_1.4
 name: Pan troglodytes
 name_: Pan_troglodytes
+pri3date: 2023-10-31
+pri3filesize: 885.3 MiB
+pri3length: '3177739764'
+pri3n50ctg: 140160335
+pri3n50scf: 140160335
+pri3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.pri.cur.20231031.fasta.gz
+pri3sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 201.58 Mbp </td><td> 2 </td><td> 201.58 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 183.32 Mbp </td><td> 4 </td><td> 183.32 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 174.65 Mbp </td><td> 6 </td><td> 174.65 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 153.90 Mbp </td><td> 8 </td><td> 153.90 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 140.16 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 140.16 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 118.86 Mbp </td><td> 14 </td><td> 120.15 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 99.60 Mbp </td><td> 17 </td><td> 99.60 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 78.12 Mbp </td><td> 21 </td><td> 78.12 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.878x </th><th> 30 </th><th> 3.17 Gbp </th><th> 25 </th><th> 3.18 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri3version: assembly_curated
 project:
 - vgp
 - t2t

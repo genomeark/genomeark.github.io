@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: siamang gibbon
 data_dovetail-1_bases: 258.65 Gbp
 data_dovetail-1_bytes: 127.9 GiB
@@ -51,16 +51,16 @@ data_pacbiohifi_clr-1_scale: 0.5131
 data_pacbiohifi_clr_bases: 4866.03 Gbp
 data_pacbiohifi_clr_bytes: 8.6 TiB
 data_pacbiohifi_clr_coverage: 1476.41x
-data_pacbiohifi_fqgz-1_bases: 246.48 Gbp
-data_pacbiohifi_fqgz-1_bytes: 179.6 GiB
-data_pacbiohifi_fqgz-1_coverage: 74.78x
+data_pacbiohifi_fqgz-1_bases: 491.18 Gbp
+data_pacbiohifi_fqgz-1_bytes: 358.2 GiB
+data_pacbiohifi_fqgz-1_coverage: 149.03x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 1.2784
-data_pacbiohifi_fqgz_bases: 246.48 Gbp
-data_pacbiohifi_fqgz_bytes: 179.6 GiB
-data_pacbiohifi_fqgz_coverage: 74.78x
+data_pacbiohifi_fqgz-1_scale: 1.2770
+data_pacbiohifi_fqgz_bases: 491.18 Gbp
+data_pacbiohifi_fqgz_bytes: 358.2 GiB
+data_pacbiohifi_fqgz_coverage: 149.03x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
   Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 data_use_source: from-default
@@ -99,12 +99,12 @@ dip1version: assembly_verkko_1.4.1r
 genome_size: 3295860000
 genome_size_display: 3.30 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-hpa1date: 2023-09-06
-hpa1filesize: 718.9 MiB
-hpa1length: '3240710912'
-hpa1n50ctg: 144673672
-hpa1n50scf: 144673672
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Symphalangus_syndactylus/mSymSyn1/assembly_verkko_1.4.1r/mSymSyn1.hap1.20230906.fasta.gz
+hpa1date: 2023-10-31
+hpa1filesize: 877.1 MiB
+hpa1length: '3236485576'
+hpa1n50ctg: 146713733
+hpa1n50scf: 146713733
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Symphalangus_syndactylus/mSymSyn1/assembly_curated/mSymSyn1.hap1.cur.20231031.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -122,18 +122,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 167.25 Mbp </td><td> 2 </td><td> 167.25 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 165.57 Mbp </td><td> 4 </td><td> 165.57 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 154.84 Mbp </td><td> 7 </td><td> 154.84 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 148.42 Mbp </td><td> 9 </td><td> 148.42 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 144.67 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 144.67 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 136.33 Mbp </td><td> 13 </td><td> 136.33 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 120.31 Mbp </td><td> 16 </td><td> 120.31 Mbp </td></tr><tr><td> 80 </td><td> 19 </td><td> 106.26 Mbp </td><td> 19 </td><td> 106.26 Mbp </td></tr><tr><td> 90 </td><td> 22 </td><td> 84.63 Mbp </td><td> 22 </td><td> 84.63 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 167.25 Mbp </td><td> 2 </td><td> 167.25 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 163.59 Mbp </td><td> 4 </td><td> 163.59 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 154.49 Mbp </td><td> 7 </td><td> 154.49 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 153.29 Mbp </td><td> 9 </td><td> 153.29 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 146.71 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 146.71 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 141.40 Mbp </td><td> 13 </td><td> 141.40 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 120.31 Mbp </td><td> 16 </td><td> 120.31 Mbp </td></tr><tr><td> 80 </td><td> 19 </td><td> 106.26 Mbp </td><td> 19 </td><td> 106.26 Mbp </td></tr><tr><td> 90 </td><td> 22 </td><td> 80.75 Mbp </td><td> 22 </td><td> 80.75 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.983x </th><th> 26 </th><th> 3.24 Gbp </th><th> 25 </th><th> 3.24 Gbp </th></tr>
+  <tr><th> 0.982x </th><th> 26 </th><th> 3.24 Gbp </th><th> 25 </th><th> 3.24 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_verkko_1.4.1r
-hpb1date: 2023-09-06
-hpb1filesize: 685.5 MiB
-hpb1length: '3105856161'
-hpb1n50ctg: 142585002
-hpb1n50scf: 142585002
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Symphalangus_syndactylus/mSymSyn1/assembly_verkko_1.4.1r/mSymSyn1.hap2.20230906.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2023-10-31
+hpb1filesize: 839.8 MiB
+hpb1length: '3112092325'
+hpb1n50ctg: 136328322
+hpb1n50scf: 136328322
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Symphalangus_syndactylus/mSymSyn1/assembly_curated/mSymSyn1.hap2.cur.20231031.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -151,14 +151,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 165.07 Mbp </td><td> 2 </td><td> 165.07 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 163.59 Mbp </td><td> 4 </td><td> 163.59 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 153.62 Mbp </td><td> 7 </td><td> 153.62 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 147.76 Mbp </td><td> 9 </td><td> 147.76 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 142.59 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 142.59 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 134.01 Mbp </td><td> 13 </td><td> 134.01 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 112.58 Mbp </td><td> 16 </td><td> 112.58 Mbp </td></tr><tr><td> 80 </td><td> 19 </td><td> 98.03 Mbp </td><td> 19 </td><td> 98.03 Mbp </td></tr><tr><td> 90 </td><td> 23 </td><td> 72.98 Mbp </td><td> 23 </td><td> 72.98 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 166.27 Mbp </td><td> 2 </td><td> 166.27 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 164.59 Mbp </td><td> 4 </td><td> 164.59 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 153.62 Mbp </td><td> 7 </td><td> 153.62 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 145.50 Mbp </td><td> 9 </td><td> 145.50 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 136.33 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 136.33 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 134.01 Mbp </td><td> 13 </td><td> 134.01 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 112.58 Mbp </td><td> 16 </td><td> 112.58 Mbp </td></tr><tr><td> 80 </td><td> 19 </td><td> 101.94 Mbp </td><td> 19 </td><td> 101.94 Mbp </td></tr><tr><td> 90 </td><td> 23 </td><td> 75.55 Mbp </td><td> 23 </td><td> 75.55 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.942x </th><th> 28 </th><th> 3.10 Gbp </th><th> 25 </th><th> 3.11 Gbp </th></tr>
+  <tr><th> 0.944x </th><th> 28 </th><th> 3.11 Gbp </th><th> 25 </th><th> 3.11 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_verkko_1.4.1r
-last_raw_data: 1695319317
-last_updated: 1698202314
+hpb1version: assembly_curated
+last_raw_data: 1698640608
+last_updated: 1698762522
 metadata: |
   species:
     short_name: mSymSyn
@@ -218,6 +218,35 @@ mito1sizes: |
 mito1version: assembly_verkko_1.4
 name: Symphalangus syndactylus
 name_: Symphalangus_syndactylus
+pri1date: 2023-10-31
+pri1filesize: 883.4 MiB
+pri1length: '3266068603'
+pri1n50ctg: 146713733
+pri1n50scf: 146713733
+pri1seq: https://s3.amazonaws.com/genomeark/species/Symphalangus_syndactylus/mSymSyn1/assembly_curated/mSymSyn1.pri.cur.20231031.fasta.gz
+pri1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 167.25 Mbp </td><td> 2 </td><td> 167.25 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 163.59 Mbp </td><td> 4 </td><td> 163.59 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 154.49 Mbp </td><td> 7 </td><td> 154.49 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 153.29 Mbp </td><td> 9 </td><td> 153.29 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 146.71 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 146.71 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 141.40 Mbp </td><td> 13 </td><td> 141.40 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 120.31 Mbp </td><td> 16 </td><td> 120.31 Mbp </td></tr><tr><td> 80 </td><td> 19 </td><td> 106.26 Mbp </td><td> 19 </td><td> 106.26 Mbp </td></tr><tr><td> 90 </td><td> 22 </td><td> 80.75 Mbp </td><td> 22 </td><td> 80.75 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.991x </th><th> 27 </th><th> 3.27 Gbp </th><th> 26 </th><th> 3.27 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri1version: assembly_curated
 project:
 - t2t
 short_name: mSymSyn

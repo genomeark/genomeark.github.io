@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: bonobo
 data_dovetail-1_bases: 107.48 Gbp
 data_dovetail-1_bytes: 54.2 GiB
@@ -58,16 +58,16 @@ data_pacbiohifi_clr-1_scale: 0.5111
 data_pacbiohifi_clr_bases: 3894.81 Gbp
 data_pacbiohifi_clr_bytes: 6.9 TiB
 data_pacbiohifi_clr_coverage: 1077.79x
-data_pacbiohifi_fqgz-1_bases: 445.98 Gbp
-data_pacbiohifi_fqgz-1_bytes: 338.4 GiB
-data_pacbiohifi_fqgz-1_coverage: 123.41x
+data_pacbiohifi_fqgz-1_bases: 653.92 Gbp
+data_pacbiohifi_fqgz-1_bytes: 493.9 GiB
+data_pacbiohifi_fqgz-1_coverage: 180.95x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 1.2275
-data_pacbiohifi_fqgz_bases: 445.98 Gbp
-data_pacbiohifi_fqgz_bytes: 338.4 GiB
-data_pacbiohifi_fqgz_coverage: 123.41x
+data_pacbiohifi_fqgz-1_scale: 1.2331
+data_pacbiohifi_fqgz_bases: 653.92 Gbp
+data_pacbiohifi_fqgz_bytes: 493.9 GiB
+data_pacbiohifi_fqgz_coverage: 180.95x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
   Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 data_use_source: from-default
@@ -106,14 +106,14 @@ dip1version: assembly_verkko_1.4.1r
 genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT ancestral inferred
-last_raw_data: 1695314467
-last_updated: 1698165148
-mat1date: 2023-09-06
-mat1filesize: 732.6 MiB
-mat1length: '3206313600'
-mat1n50ctg: 141815014
-mat1n50scf: 141815014
-mat1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_verkko_1.4.1r/mPanPan1.mat.20230906.fasta.gz
+last_raw_data: 1698452288
+last_updated: 1698697619
+mat1date: 2023-10-31
+mat1filesize: 886.3 MiB
+mat1length: '3209559196'
+mat1n50ctg: 141815175
+mat1n50scf: 141815175
+mat1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.mat.cur.20231031.fasta.gz
 mat1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -133,10 +133,10 @@ mat1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 2 </td><td> 196.43 Mbp </td><td> 2 </td><td> 196.43 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 189.05 Mbp </td><td> 4 </td><td> 189.05 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 176.55 Mbp </td><td> 6 </td><td> 176.55 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 158.10 Mbp </td><td> 8 </td><td> 158.10 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 141.82 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 141.82 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 126.55 Mbp </td><td> 13 </td><td> 126.55 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 109.41 Mbp </td><td> 16 </td><td> 109.41 Mbp </td></tr><tr><td> 80 </td><td> 20 </td><td> 95.58 Mbp </td><td> 20 </td><td> 95.58 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.887x </th><th> 28 </th><th> 3.21 Gbp </th><th> 24 </th><th> 3.21 Gbp </th></tr>
+  <tr><th> 0.887x </th><th> 29 </th><th> 3.21 Gbp </th><th> 24 </th><th> 3.21 Gbp </th></tr>
   </tfoot>
   </table>
-mat1version: assembly_verkko_1.4.1r
+mat1version: assembly_curated
 metadata: |
   species:
     short_name: mPanPan
@@ -252,12 +252,12 @@ mito1sizes: |
 mito1version: assembly_verkko_1.4
 name: Pan paniscus
 name_: Pan_paniscus
-pat1date: 2023-09-06
-pat1filesize: 701.2 MiB
-pat1length: '3071033327'
-pat1n50ctg: 135750394
-pat1n50scf: 135750394
-pat1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_verkko_1.4.1r/mPanPan1.pat.20230906.fasta.gz
+pat1date: 2023-10-31
+pat1filesize: 848.6 MiB
+pat1length: '3075842091'
+pat1n50ctg: 135750398
+pat1n50scf: 135750398
+pat1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.pat.cur.20231031.fasta.gz
 pat1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -275,12 +275,12 @@ pat1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 196.68 Mbp </td><td> 2 </td><td> 196.68 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 188.61 Mbp </td><td> 4 </td><td> 188.61 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 176.62 Mbp </td><td> 6 </td><td> 176.62 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 150.73 Mbp </td><td> 8 </td><td> 150.73 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 135.75 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 135.75 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 113.36 Mbp </td><td> 14 </td><td> 115.14 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 100.43 Mbp </td><td> 17 </td><td> 100.43 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 70.72 Mbp </td><td> 21 </td><td> 70.72 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 196.68 Mbp </td><td> 2 </td><td> 196.68 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 188.61 Mbp </td><td> 4 </td><td> 188.61 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 176.62 Mbp </td><td> 6 </td><td> 176.62 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 150.73 Mbp </td><td> 8 </td><td> 150.73 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 135.75 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 135.75 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 113.36 Mbp </td><td> 14 </td><td> 116.13 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 100.43 Mbp </td><td> 17 </td><td> 100.43 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 70.72 Mbp </td><td> 21 </td><td> 70.72 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.850x </th><th> 29 </th><th> 3.07 Gbp </th><th> 24 </th><th> 3.07 Gbp </th></tr>
+  <tr><th> 0.850x </th><th> 29 </th><th> 3.07 Gbp </th><th> 24 </th><th> 3.08 Gbp </th></tr>
   </tfoot>
   </table>
-pat1version: assembly_verkko_1.4.1r
+pat1version: assembly_curated
 project:
 - t2t
 short_name: mPanPan

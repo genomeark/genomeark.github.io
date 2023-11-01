@@ -51,6 +51,16 @@ data_pacbiohifi_clr-1_scale: 0.5163
 data_pacbiohifi_clr_bases: 4619.95 Gbp
 data_pacbiohifi_clr_bytes: 8.1 TiB
 data_pacbiohifi_clr_coverage: 1430.32x
+data_pacbiohifi_fqgz-1_bases: 242.17 Gbp
+data_pacbiohifi_fqgz-1_bytes: 176.2 GiB
+data_pacbiohifi_fqgz-1_coverage: 74.98x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Hoolock_leuconedys/mHooLeu1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoolock_leuconedys/mHooLeu1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoolock_leuconedys/mHooLeu1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.2802
+data_pacbiohifi_fqgz_bases: 242.17 Gbp
+data_pacbiohifi_fqgz_bytes: 176.2 GiB
+data_pacbiohifi_fqgz_coverage: 74.98x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
   Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 data_use_source: from-default
@@ -60,8 +70,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 3230000000
 genome_size_display: 3.23 Gbp
 genome_size_method: GoaT ancestral inferred
-last_raw_data: 1686419831
-last_updated: 1686419831
+last_raw_data: 1698704705
+last_updated: 1698704705
 metadata: |
   species:
     short_name: mHooLeu
