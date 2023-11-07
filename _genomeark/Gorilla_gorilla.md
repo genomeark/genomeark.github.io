@@ -123,8 +123,8 @@ dip1version: assembly_verkko_1.4.1r
 genome_size: 3491460000
 genome_size_display: 3.49 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-last_raw_data: 1698531902
-last_updated: 1698697439
+last_raw_data: 1698868487
+last_updated: 1698868487
 mat1date: 2023-10-31
 mat1filesize: 0.9 GiB
 mat1length: '3507472575'

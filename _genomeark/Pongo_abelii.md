@@ -157,8 +157,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1698604770
-last_updated: 1698761421
+last_raw_data: 1698878823
+last_updated: 1698878823
 metadata: |
   species:
     short_name: mPonAbe

@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: horse
 data_dovetail-1_bases: 197.33 Gbp
 data_dovetail-1_bytes: 101.7 GiB
@@ -115,8 +115,66 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 3110000000
 genome_size_display: 3.11 Gbp
 genome_size_method: GoaT
+hpa1date: 2023-11-01
+hpa1filesize: 735.8 MiB
+hpa1length: '2596720901'
+hpa1n50ctg: 38355980
+hpa1n50scf: 86881770
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Equus_caballus/mEquCab1/assembly_curated/mEquCab1.hap1.cur.20231101.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 80.87 Mbp </td><td> 2 </td><td> 140.16 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 67.25 Mbp </td><td> 5 </td><td> 116.88 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 56.24 Mbp </td><td> 8 </td><td> 101.37 Mbp </td></tr><tr><td> 40 </td><td> 20 </td><td> 45.73 Mbp </td><td> 11 </td><td> 90.61 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 27 </td><td style="background-color:#88ff88;"> 38.36 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 86.88 Mbp </td></tr><tr><td> 60 </td><td> 36 </td><td> 29.33 Mbp </td><td> 19 </td><td> 61.87 Mbp </td></tr><tr><td> 70 </td><td> 50 </td><td> 17.98 Mbp </td><td> 24 </td><td> 49.99 Mbp </td></tr><tr><td> 80 </td><td> 98 </td><td> 1.97 Mbp </td><td> 31 </td><td> 30.43 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.835x </th><th> 715 </th><th> 2.60 Gbp </th><th> 601 </th><th> 2.60 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_curated
+hpb1date: 2023-11-01
+hpb1filesize: 658.8 MiB
+hpb1length: '2332407625'
+hpb1n50ctg: 23739290
+hpb1n50scf: 66743361
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Equus_caballus/mEquCab1/assembly_curated/mEquCab1.hap2.cur.20231101.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 71.71 Mbp </td><td> 2 </td><td> 121.96 Mbp </td></tr><tr><td> 20 </td><td> 9 </td><td> 57.16 Mbp </td><td> 5 </td><td> 99.60 Mbp </td></tr><tr><td> 30 </td><td> 15 </td><td> 46.00 Mbp </td><td> 9 </td><td> 94.22 Mbp </td></tr><tr><td> 40 </td><td> 23 </td><td> 31.77 Mbp </td><td> 12 </td><td> 85.76 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 35 </td><td style="background-color:#88ff88;"> 23.74 Mbp </td><td> 16 </td><td style="background-color:#88ff88;"> 66.74 Mbp </td></tr><tr><td> 60 </td><td> 52 </td><td> 11.91 Mbp </td><td> 21 </td><td> 49.30 Mbp </td></tr><tr><td> 70 </td><td> 136 </td><td> 1.38 Mbp </td><td> 29 </td><td> 26.95 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.750x </th><th> 1034 </th><th> 2.33 Gbp </th><th> 824 </th><th> 2.33 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_curated
 last_raw_data: 1693431724
-last_updated: 1693431724
+last_updated: 1698800864
 metadata: "species:\n  name: Equus caballus\n  short_name: mEquCab\n  common_name:
   horse\n  taxon_id: 9796\n  order:\n    name: Perissodactyla\n  family:\n    name:
   Equidae\n  individuals:\n  - \n    short_name: mEquCab1\n    biosample_id: null\n

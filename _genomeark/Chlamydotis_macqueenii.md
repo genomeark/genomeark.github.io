@@ -57,37 +57,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-10-10
-hpa1filesize: 334.4 MiB
-hpa1length: '1187776532'
-hpa1n50ctg: 23764681
-hpa1n50scf: 72825560
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Chlamydotis_macqueenii/bChlMac1/assembly_curated/bChlMac1.hap1.decon.20231010.fasta.gz
-hpa1sizes: |
-  <table class="sequence-sizes-table">
-  <thead>
-  <tr>
-  <th></th>
-  <th colspan=2 align=center>Contigs</th>
-  <th colspan=2 align=center>Scaffolds</th>
-  </tr>
-  <tr>
-  <th>NG</th>
-  <th>LG</th>
-  <th>Len</th>
-  <th>LG</th>
-  <th>Len</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 122.42 Mbp </td><td> 1 </td><td> 215.69 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 69.63 Mbp </td><td> 2 </td><td> 163.41 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 62.20 Mbp </td><td> 2 </td><td> 163.41 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 31.19 Mbp </td><td> 3 </td><td> 128.06 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 23.76 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 72.83 Mbp </td></tr><tr><td> 60 </td><td> 16 </td><td> 22.05 Mbp </td><td> 7 </td><td> 40.67 Mbp </td></tr><tr><td> 70 </td><td> 22 </td><td> 16.43 Mbp </td><td> 10 </td><td> 26.03 Mbp </td></tr><tr><td> 80 </td><td> 31 </td><td> 9.62 Mbp </td><td> 15 </td><td> 20.90 Mbp </td></tr><tr><td> 90 </td><td> 51 </td><td> 3.24 Mbp </td><td> 23 </td><td> 9.81 Mbp </td></tr><tr><td> 100 </td><td> 429 </td><td> 24.80 Kbp </td><td> 334 </td><td> 24.80 Kbp </td></tr></tbody>
-  <tfoot>
-  <tr><th> 1.000x </th><th> 429 </th><th> 1.19 Gbp </th><th> 334 </th><th> 1.19 Gbp </th></tr>
-  </tfoot>
-  </table>
-hpa1version: assembly_curated
 last_raw_data: 1674520403
-last_updated: 1696896168
+last_updated: 1698833874
 mat1date: 2023-10-10
 mat1filesize: 358.3 MiB
 mat1length: '1273916401'
@@ -148,6 +119,35 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Chlamydotis macqueenii
 name_: Chlamydotis_macqueenii
+pat1date: 2023-11-01
+pat1filesize: 313.1 MiB
+pat1length: '1106872023'
+pat1n50ctg: 29084237
+pat1n50scf: 84298225
+pat1seq: https://s3.amazonaws.com/genomeark/species/Chlamydotis_macqueenii/bChlMac1/assembly_curated/bChlMac1.pat.cur.20231101.fasta.gz
+pat1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 163.36 Mbp </td><td> 1 </td><td> 214.59 Mbp </td></tr><tr><td> 20 </td><td> 2 </td><td> 115.06 Mbp </td><td> 2 </td><td> 165.12 Mbp </td></tr><tr><td> 30 </td><td> 3 </td><td> 90.77 Mbp </td><td> 2 </td><td> 165.12 Mbp </td></tr><tr><td> 40 </td><td> 5 </td><td> 58.03 Mbp </td><td> 3 </td><td> 112.93 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 7 </td><td style="background-color:#88ff88;"> 29.08 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 84.30 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 22.59 Mbp </td><td> 6 </td><td> 47.95 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 18.86 Mbp </td><td> 8 </td><td> 39.02 Mbp </td></tr><tr><td> 80 </td><td> 25 </td><td> 11.61 Mbp </td><td> 13 </td><td> 21.28 Mbp </td></tr><tr><td> 90 </td><td> 41 </td><td> 4.02 Mbp </td><td> 20 </td><td> 10.37 Mbp </td></tr><tr><td> 100 </td><td> 428 </td><td> 13.92 Kbp </td><td> 344 </td><td> 13.92 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 428 </th><th> 1.11 Gbp </th><th> 344 </th><th> 1.11 Gbp </th></tr>
+  </tfoot>
+  </table>
+pat1version: assembly_curated
 project: ~
 short_name: bChlMac
 taxon_id: ''
