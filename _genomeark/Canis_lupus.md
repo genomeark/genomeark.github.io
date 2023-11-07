@@ -4,7 +4,7 @@ alt1filesize: 416.0 MiB
 alt1length: '1446594657'
 alt1n50ctg: '719346'
 alt1n50scf: '719346'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Canis_lupus_orion/mCanLor1/assembly_curated/mCanLor1.alt.cur.20210315.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Canis_lupus/mCanLor1/assembly_curated/mCanLor1.alt.cur.20210315.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -33,19 +33,29 @@ common_name: Greenland wolf
 data_10x-1_bases: 283.59 Gbp
 data_10x-1_bytes: 167.9 GiB
 data_10x-1_coverage: 115.87x
-data_10x-1_links: s3://genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/10x/<br>
-data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/10x/
-data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus_orion/mCanLor1/genomic_data/10x/
+data_10x-1_links: s3://genomeark/species/Canis_lupus/mCanLor1/genomic_data/10x/<br>
+data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Canis_lupus/mCanLor1/genomic_data/10x/
+data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLor1/genomic_data/10x/
 data_10x-1_scale: 1.5731
 data_10x_bases: 283.59 Gbp
 data_10x_bytes: 167.9 GiB
 data_10x_coverage: 115.87x
+data_arima:mCanLup2_bases: 343.87 Gbp
+data_arima:mCanLup2_bytes: 183.1 GiB
+data_arima:mCanLup2_coverage: 140.50x
+data_arima:mCanLup2_links: s3://genomeark/species/Canis_lupus/mCanLup2/genomic_data/arima/<br>
+data_arima:mCanLup2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Canis_lupus/mCanLup2/genomic_data/arima/
+data_arima:mCanLup2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup2/genomic_data/arima/
+data_arima:mCanLup2_scale: 1.7495
+data_arima_bases: 343.87 Gbp
+data_arima_bytes: 183.1 GiB
+data_arima_coverage: 140.50x
 data_dovetail-1_bases: 116.58 Gbp
 data_dovetail-1_bytes: 72.1 GiB
 data_dovetail-1_coverage: 47.63x
-data_dovetail-1_links: s3://genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/dovetail/<br>
-data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/dovetail/
-data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus_orion/mCanLor1/genomic_data/dovetail/
+data_dovetail-1_links: s3://genomeark/species/Canis_lupus/mCanLor1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Canis_lupus/mCanLor1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLor1/genomic_data/dovetail/
 data_dovetail-1_scale: 1.5050
 data_dovetail_bases: 116.58 Gbp
 data_dovetail_bytes: 72.1 GiB
@@ -53,15 +63,25 @@ data_dovetail_coverage: 47.63x
 data_pacbiohifi_bam-1_bases: 82.58 Gbp
 data_pacbiohifi_bam-1_bytes: 68.3 GiB
 data_pacbiohifi_bam-1_coverage: 33.74x
-data_pacbiohifi_bam-1_links: s3://genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Canis_lupus_orion/mCanLor1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus_orion/mCanLor1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Canis_lupus/mCanLor1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Canis_lupus/mCanLor1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLor1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 1.1253
 data_pacbiohifi_bam_bases: 82.58 Gbp
 data_pacbiohifi_bam_bytes: 68.3 GiB
 data_pacbiohifi_bam_coverage: 33.74x
+data_pacbiohifi_fqgz:mCanLup2_bases: 87.08 Gbp
+data_pacbiohifi_fqgz:mCanLup2_bytes: 43.2 GiB
+data_pacbiohifi_fqgz:mCanLup2_coverage: 35.58x
+data_pacbiohifi_fqgz:mCanLup2_links: s3://genomeark/species/Canis_lupus/mCanLup2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz:mCanLup2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Canis_lupus/mCanLup2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz:mCanLup2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz:mCanLup2_scale: 1.8785
+data_pacbiohifi_fqgz_bases: 87.08 Gbp
+data_pacbiohifi_fqgz_bytes: 43.2 GiB
+data_pacbiohifi_fqgz_coverage: 35.58x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em>
-  ::: <em style="color:forestgreen">Dovetail</em>'
+  ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Dovetail</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -71,12 +91,12 @@ genbank_pri: mCanLor1:GCA_905319855.2
 genome_size: 2447463909
 genome_size_display: 2.45 Gbp
 genome_size_method: ''
-last_raw_data: 1651605565
-last_updated: 1651605565
+last_raw_data: 1697146301
+last_updated: 1697146301
 metadata: |
   species:
     short_name: mCanLor
-    name: Canis lupus orion
+    name: Canis lupus
     taxon_id: 2605939
     common_name: Greenland wolf
     order:
@@ -88,15 +108,14 @@ metadata: |
     genome_size:
     genome_size_method:
     project: [ vgp ]
-name: Canis lupus orion
-name_: Canis_lupus_orion
+name: Canis lupus
+name_: Canis_lupus
 pri1date: 2021-03-15
 pri1filesize: 701.1 MiB
 pri1length: '2447463909'
 pri1n50ctg: 34375412
 pri1n50scf: 65778685
-pri1qual: 15.4 errors/Mb (QV=48.11)
-pri1seq: https://s3.amazonaws.com/genomeark/species/Canis_lupus_orion/mCanLor1/assembly_curated/mCanLor1.pri.cur.20210315.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Canis_lupus/mCanLor1/assembly_curated/mCanLor1.pri.cur.20210315.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
