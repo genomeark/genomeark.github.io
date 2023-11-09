@@ -1,4 +1,33 @@
 ---
+alt1date: 2023-10-31
+alt1filesize: 843.3 MiB
+alt1length: '3015864962'
+alt1n50ctg: '129472652'
+alt1n50scf: '132232842'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_curated/mPonAbe1.alt.cur.20231031.fasta.gz
+alt1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 212.22 Mbp </td><td> 2 </td><td> 212.22 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 189.72 Mbp </td><td> 4 </td><td> 189.72 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 165.38 Mbp </td><td> 6 </td><td> 165.38 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 143.46 Mbp </td><td> 8 </td><td> 145.71 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td> 129.47 Mbp </td><td> 11 </td><td> 132.23 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 102.46 Mbp </td><td> 13 </td><td> 124.96 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 90.13 Mbp </td><td> 17 </td><td> 101.03 Mbp </td></tr><tr><td> 80 </td><td> 22 </td><td> 51.98 Mbp </td><td> 21 </td><td> 68.78 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.840x </th><th> 35 </th><th> 3.01 Gbp </th><th> 23 </th><th> 3.02 Gbp </th></tr>
+  </tfoot>
+  </table>
+alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Sumatran orangutan
 data_dovetail-1_bases: 112.53 Gbp
@@ -67,12 +96,12 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-dip1date: 2023-09-06
-dip1filesize: 1.5 GiB
-dip1length: '6154532725'
-dip1n50ctg: 172605198
-dip1n50scf: 172605198
-dip1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_verkko_1.4.1r/mPonAbe1.dip.20230906.fasta.gz
+dip1date: 2023-10-31
+dip1filesize: 1.7 GiB
+dip1length: '6252322417'
+dip1n50ctg: 172605363
+dip1n50scf: 172605363
+dip1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_curated/mPonAbe1.dip.cur.20231031.fasta.gz
 dip1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -90,12 +119,12 @@ dip1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 233.81 Mbp </td><td> 2 </td><td> 233.81 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 212.22 Mbp </td><td> 4 </td><td> 212.22 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 209.61 Mbp </td><td> 5 </td><td> 209.61 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 190.38 Mbp </td><td> 7 </td><td> 190.38 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 172.61 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 172.61 Mbp </td></tr><tr><td> 60 </td><td> 11 </td><td> 165.37 Mbp </td><td> 11 </td><td> 165.37 Mbp </td></tr><tr><td> 70 </td><td> 13 </td><td> 161.63 Mbp </td><td> 13 </td><td> 161.63 Mbp </td></tr><tr><td> 80 </td><td> 16 </td><td> 146.20 Mbp </td><td> 16 </td><td> 146.20 Mbp </td></tr><tr><td> 90 </td><td> 18 </td><td> 140.60 Mbp </td><td> 18 </td><td> 140.60 Mbp </td></tr><tr><td> 100 </td><td> 21 </td><td> 132.23 Mbp </td><td> 21 </td><td> 132.28 Mbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 233.65 Mbp </td><td> 2 </td><td> 233.80 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 212.22 Mbp </td><td> 4 </td><td> 212.22 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 209.61 Mbp </td><td> 5 </td><td> 209.61 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 190.38 Mbp </td><td> 7 </td><td> 190.38 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 172.61 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 172.61 Mbp </td></tr><tr><td> 60 </td><td> 11 </td><td> 165.38 Mbp </td><td> 11 </td><td> 165.38 Mbp </td></tr><tr><td> 70 </td><td> 13 </td><td> 161.63 Mbp </td><td> 13 </td><td> 161.63 Mbp </td></tr><tr><td> 80 </td><td> 16 </td><td> 146.20 Mbp </td><td> 16 </td><td> 146.20 Mbp </td></tr><tr><td> 90 </td><td> 18 </td><td> 140.85 Mbp </td><td> 18 </td><td> 140.85 Mbp </td></tr><tr><td> 100 </td><td> 21 </td><td> 132.28 Mbp </td><td> 21 </td><td> 137.95 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.719x </th><th> 983 </th><th> 6.15 Gbp </th><th> 960 </th><th> 6.15 Gbp </th></tr>
+  <tr><th> 1.743x </th><th> 68 </th><th> 6.24 Gbp </th><th> 48 </th><th> 6.25 Gbp </th></tr>
   </tfoot>
   </table>
-dip1version: assembly_verkko_1.4.1r
+dip1version: assembly_curated
 genome_size: 3579480000
 genome_size_display: 3.58 Gbp
 genome_size_method: GoaT ancestral inferred
@@ -158,7 +187,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1698878823
-last_updated: 1698878823
+last_updated: 1699469256
 metadata: |
   species:
     short_name: mPonAbe

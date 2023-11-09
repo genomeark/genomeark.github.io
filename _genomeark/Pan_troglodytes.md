@@ -1,4 +1,33 @@
 ---
+alt3date: 2023-10-31
+alt3filesize: 832.8 MiB
+alt3length: '2998472176'
+alt3n50ctg: '136439545'
+alt3n50scf: '136439545'
+alt3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.alt.cur.20231031.fasta.gz
+alt3sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 200.34 Mbp </td><td> 2 </td><td> 200.34 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 180.08 Mbp </td><td> 4 </td><td> 180.08 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 168.85 Mbp </td><td> 6 </td><td> 168.85 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 147.43 Mbp </td><td> 8 </td><td> 147.43 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td> 136.44 Mbp </td><td> 11 </td><td> 136.44 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 115.41 Mbp </td><td> 14 </td><td> 118.00 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 97.71 Mbp </td><td> 17 </td><td> 97.71 Mbp </td></tr><tr><td> 80 </td><td> 22 </td><td> 52.30 Mbp </td><td> 21 </td><td> 73.83 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.828x </th><th> 28 </th><th> 2.99 Gbp </th><th> 23 </th><th> 3.00 Gbp </th></tr>
+  </tfoot>
+  </table>
+alt3version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: chimpanzee
 data_10x-1_bases: 248.16 Gbp
@@ -98,12 +127,12 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-dip3date: 2023-09-06
-dip3filesize: 1.4 GiB
-dip3length: '6170534084'
-dip3n50ctg: 178963970
-dip3n50scf: 178963970
-dip3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_verkko_1.4.1r/mPanTro3.dip.20230906.fasta.gz
+dip3date: 2023-10-31
+dip3filesize: 1.7 GiB
+dip3length: '6176211940'
+dip3n50ctg: 178964043
+dip3n50scf: 178964043
+dip3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.dip.cur.20231031.fasta.gz
 dip3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -123,10 +152,10 @@ dip3sizes: |
   <tbody>
   <tr><td> 10 </td><td> 2 </td><td> 231.30 Mbp </td><td> 2 </td><td> 231.30 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 200.34 Mbp </td><td> 4 </td><td> 200.34 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 191.67 Mbp </td><td> 6 </td><td> 191.67 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 180.08 Mbp </td><td> 8 </td><td> 180.08 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 178.96 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 178.96 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 168.85 Mbp </td><td> 12 </td><td> 168.85 Mbp </td></tr><tr><td> 70 </td><td> 14 </td><td> 155.69 Mbp </td><td> 14 </td><td> 155.69 Mbp </td></tr><tr><td> 80 </td><td> 16 </td><td> 147.43 Mbp </td><td> 16 </td><td> 147.43 Mbp </td></tr><tr><td> 90 </td><td> 19 </td><td> 140.84 Mbp </td><td> 19 </td><td> 140.84 Mbp </td></tr><tr><td> 100 </td><td> 21 </td><td> 138.75 Mbp </td><td> 21 </td><td> 138.75 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.708x </th><th> 89 </th><th> 6.17 Gbp </th><th> 79 </th><th> 6.17 Gbp </th></tr>
+  <tr><th> 1.706x </th><th> 58 </th><th> 6.17 Gbp </th><th> 48 </th><th> 6.18 Gbp </th></tr>
   </tfoot>
   </table>
-dip3version: assembly_verkko_1.4.1r
+dip3version: assembly_curated
 genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
@@ -189,7 +218,7 @@ hpb3sizes: |
   </table>
 hpb3version: assembly_curated
 last_raw_data: 1698873672
-last_updated: 1698873672
+last_updated: 1699469059
 metadata: |
   species:
     short_name: mPanTro

@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1698425406
-last_updated: 1699045044
+last_updated: 1699391233
 mito1date: 2023-11-03
 mito1filesize: 16.4 KiB
 mito1length: '0'

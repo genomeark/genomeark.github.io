@@ -1,4 +1,33 @@
 ---
+alt1date: 2023-10-31
+alt1filesize: 871.2 MiB
+alt1length: '3313494619'
+alt1n50ctg: '148884735'
+alt1n50scf: '151425642'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.alt.cur.20231031.fasta.gz
+alt1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 215.07 Mbp </td><td> 2 </td><td> 215.07 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 188.22 Mbp </td><td> 4 </td><td> 193.75 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 165.07 Mbp </td><td> 5 </td><td> 188.22 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 151.56 Mbp </td><td> 7 </td><td> 165.07 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td> 148.88 Mbp </td><td> 10 </td><td> 151.43 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 140.79 Mbp </td><td> 12 </td><td> 145.83 Mbp </td></tr><tr><td> 70 </td><td> 15 </td><td> 130.72 Mbp </td><td> 15 </td><td> 137.29 Mbp </td></tr><tr><td> 80 </td><td> 18 </td><td> 107.36 Mbp </td><td> 17 </td><td> 112.73 Mbp </td></tr><tr><td> 90 </td><td> 22 </td><td> 76.02 Mbp </td><td> 21 </td><td> 76.02 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.948x </th><th> 28 </th><th> 3.31 Gbp </th><th> 23 </th><th> 3.31 Gbp </th></tr>
+  </tfoot>
+  </table>
+alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: gorilla
 data_dovetail-1_bases: 148.47 Gbp
@@ -91,12 +120,12 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-dip1date: 2023-09-06
-dip1filesize: 1.4 GiB
-dip1length: '6929084181'
-dip1n50ctg: 188220270
-dip1n50scf: 193751962
-dip1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_verkko_1.4.1r/mGorGor1.dip.20230906.fasta.gz
+dip1date: 2023-10-31
+dip1filesize: 1.8 GiB
+dip1length: '6859328843'
+dip1n50ctg: 188221671
+dip1n50scf: 193752162
+dip1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.dip.cur.20231031.fasta.gz
 dip1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -116,15 +145,15 @@ dip1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 2 </td><td> 243.85 Mbp </td><td> 2 </td><td> 243.85 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 215.37 Mbp </td><td> 3 </td><td> 215.37 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 215.07 Mbp </td><td> 5 </td><td> 215.07 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 195.33 Mbp </td><td> 7 </td><td> 199.45 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 188.22 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 193.75 Mbp </td></tr><tr><td> 60 </td><td> 11 </td><td> 176.48 Mbp </td><td> 10 </td><td> 188.22 Mbp </td></tr><tr><td> 70 </td><td> 13 </td><td> 165.07 Mbp </td><td> 12 </td><td> 176.48 Mbp </td></tr><tr><td> 80 </td><td> 15 </td><td> 158.53 Mbp </td><td> 14 </td><td> 165.07 Mbp </td></tr><tr><td> 90 </td><td> 17 </td><td> 151.56 Mbp </td><td> 17 </td><td> 154.23 Mbp </td></tr><tr><td> 100 </td><td> 19 </td><td> 150.80 Mbp </td><td> 19 </td><td> 151.43 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.985x </th><th> 524 </th><th> 6.93 Gbp </th><th> 517 </th><th> 6.93 Gbp </th></tr>
+  <tr><th> 1.963x </th><th> 55 </th><th> 6.86 Gbp </th><th> 48 </th><th> 6.86 Gbp </th></tr>
   </tfoot>
   </table>
-dip1version: assembly_verkko_1.4.1r
+dip1version: assembly_curated
 genome_size: 3491460000
 genome_size_display: 3.49 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
 last_raw_data: 1698868487
-last_updated: 1698868487
+last_updated: 1699468025
 mat1date: 2023-10-31
 mat1filesize: 0.9 GiB
 mat1length: '3507472575'
@@ -302,6 +331,35 @@ pat1sizes: |
   </tfoot>
   </table>
 pat1version: assembly_curated
+pri1date: 2023-10-31
+pri1filesize: 0.9 GiB
+pri1length: '3545834224'
+pri1n50ctg: 150804130
+pri1n50scf: 150804130
+pri1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.pri.cur.20231031.fasta.gz
+pri1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 215.37 Mbp </td><td> 2 </td><td> 215.37 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 199.45 Mbp </td><td> 4 </td><td> 199.45 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 195.33 Mbp </td><td> 5 </td><td> 195.33 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 170.80 Mbp </td><td> 7 </td><td> 170.80 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 150.80 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 150.80 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 147.88 Mbp </td><td> 12 </td><td> 147.88 Mbp </td></tr><tr><td> 70 </td><td> 14 </td><td> 134.70 Mbp </td><td> 14 </td><td> 134.70 Mbp </td></tr><tr><td> 80 </td><td> 17 </td><td> 131.35 Mbp </td><td> 17 </td><td> 131.35 Mbp </td></tr><tr><td> 90 </td><td> 20 </td><td> 107.92 Mbp </td><td> 20 </td><td> 107.92 Mbp </td></tr><tr><td> 100 </td><td> 25 </td><td> 51.47 Mbp </td><td> 25 </td><td> 54.77 Mbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.015x </th><th> 27 </th><th> 3.54 Gbp </th><th> 25 </th><th> 3.55 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri1version: assembly_curated
 project:
 - t2t
 short_name: mGorGor
