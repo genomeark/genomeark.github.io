@@ -187,7 +187,7 @@ hpb2sizes: |
   </table>
 hpb2version: assembly_curated
 last_raw_data: 1698557990
-last_updated: 1699469510
+last_updated: 1699469494
 metadata: |
   species:
     short_name: mPonPyg

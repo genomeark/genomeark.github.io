@@ -88,7 +88,22 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1684420637
-last_updated: 1697824595
+last_updated: 1699903082
+mds:
+- data: "species: Anomaloglossus baeobatrachus\nspecimen: aAnoBae1\nprojects: \n  -
+    vgp\nassembled_by_group: Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate:
+    hap1\nhap1: s3://genomeark/species/Anomaloglossus_baeobatrachus/aAnoBae1/assembly_vgp_HiC_2.0/aAnoBae1.HiC.hap1.20230617.fasta.gz\nhap2:
+    s3://genomeark/species/Anomaloglossus_baeobatrachus/aAnoBae1/assembly_vgp_HiC_2.0/aAnoBae1.HiC.hap2.20230617.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Anomaloglossus_baeobatrachus/aAnoBae1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aAnoBae1_hap1_s2.pretext\npretext_hap2:
+    s3://genomeark/species/Anomaloglossus_baeobatrachus/aAnoBae1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aAnoBae1_hap2_s2.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Anomaloglossus_baeobatrachus/aAnoBae1/assembly_vgp_HiC_2.0/evaluation/merqury/aAnoBae1_png/\npacbio_read_dir:
+    s3://genomeark/species/Anomaloglossus_baeobatrachus/aAnoBae1/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Anomaloglossus_baeobatrachus/aAnoBae1/genomic_data/arima/\npipeline:
+    \n  - hifiasm (1.2a.2+galaxy1)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
+    assembly of aAnoBae1, resulting in two complete haplotypes. HiC scaffolding was
+    performed with YaHS.  The HiC prep kit used was Swift-IDT. \n"
+  ident: md2
+  title: assembly_vgp_HiC_2.0/aAnoBae1_hap1.yml
 name: Anomaloglossus baeobatrachus
 name_: Anomaloglossus_baeobatrachus
 project: ~

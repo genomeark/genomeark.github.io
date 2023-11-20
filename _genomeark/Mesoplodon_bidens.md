@@ -11,16 +11,16 @@ data_arima-2_scale: 3.3884
 data_arima_bases: 642.85 Gbp
 data_arima_bytes: 176.7 GiB
 data_arima_coverage: 199.79x
-data_pacbiohifi_bam-2_bases: 55.18 Gbp
-data_pacbiohifi_bam-2_bytes: 19.1 GiB
-data_pacbiohifi_bam-2_coverage: 17.15x
+data_pacbiohifi_bam-2_bases: 108.79 Gbp
+data_pacbiohifi_bam-2_bytes: 41.2 GiB
+data_pacbiohifi_bam-2_coverage: 33.81x
 data_pacbiohifi_bam-2_links: s3://genomeark/species/Mesoplodon_bidens/mMesBid2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mesoplodon_bidens/mMesBid2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mesoplodon_bidens/mMesBid2/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-2_scale: 2.6951
-data_pacbiohifi_bam_bases: 55.18 Gbp
-data_pacbiohifi_bam_bytes: 19.1 GiB
-data_pacbiohifi_bam_coverage: 17.15x
+data_pacbiohifi_bam-2_scale: 2.4570
+data_pacbiohifi_bam_bases: 108.79 Gbp
+data_pacbiohifi_bam_bytes: 41.2 GiB
+data_pacbiohifi_bam_coverage: 33.81x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 3217620000
 genome_size_display: 3.22 Gbp
 genome_size_method: GoaT
-last_raw_data: 1691528913
-last_updated: 1691528915
+last_raw_data: 1699888497
+last_updated: 1699888497
 metadata: |
   species:
     short_name: mMesBid

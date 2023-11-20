@@ -71,7 +71,21 @@ genome_size: 675000000
 genome_size_display: 0.68 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651608069
-last_updated: 1697570990
+last_updated: 1700085137
+mds:
+- data: "species: Osmerus mordax\nspecimen: fOsmMor3\nprojects: \n  - vgp\ndata_location:
+    S3\nrelease_to: S3\nprimary: s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/fOsmMor3.standard.pri.20231017.fasta.gz\nhaplotigs:
+    s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/fOsmMor3.standard.alt.20231017.fasta.gz\npretext:
+    s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/evaluation/pri/pretext/fOsmMor3_pri__s2.heatmap.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/evaluation/merqury/fOsmMor3_png/\npacbio_read_dir:
+    s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/arima/\nbionano_cmap_dir:
+    s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/bionano/\npipeline:\n
+    \ - hifiasm (0.18.8-r525)\n  - solve (3.7)\n  - yahs (1.2a.1)\nassembled_by_group:
+    Rockefeller\nnotes: This was a primary/alternate assembly of fOsmMor3. This individual
+    had bionano data. HiC scaffolding was performed with yahs. The HiC prep was Swift-IDT."
+  ident: md2
+  title: assembly_vgp_standard_2.0/fOsmMor3.yml
 metadata: |
   species:
     name: Osmerus mordax

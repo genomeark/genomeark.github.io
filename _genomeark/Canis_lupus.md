@@ -91,8 +91,101 @@ genbank_pri: mCanLor1:GCA_905319855.2
 genome_size: 2447463909
 genome_size_display: 2.45 Gbp
 genome_size_method: ''
+hpa2date: 2023-11-07
+hpa2filesize: 673.9 MiB
+hpa2length: '2363949293'
+hpa2n50ctg: 32880015
+hpa2n50scf: 65176629
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/mCanLup2.HiC.hap1.20231107.fasta.gz
+hpa2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 59.23 Mbp </td><td> 3 </td><td> 89.56 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 47.03 Mbp </td><td> 5 </td><td> 86.81 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 41.75 Mbp </td><td> 8 </td><td> 77.17 Mbp </td></tr><tr><td> 40 </td><td> 19 </td><td> 38.55 Mbp </td><td> 12 </td><td> 65.59 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 26 </td><td style="background-color:#88ff88;"> 32.88 Mbp </td><td> 15 </td><td style="background-color:#88ff88;"> 65.18 Mbp </td></tr><tr><td> 60 </td><td> 34 </td><td> 27.69 Mbp </td><td> 19 </td><td> 59.14 Mbp </td></tr><tr><td> 70 </td><td> 45 </td><td> 19.69 Mbp </td><td> 23 </td><td> 53.22 Mbp </td></tr><tr><td> 80 </td><td> 59 </td><td> 13.69 Mbp </td><td> 28 </td><td> 44.64 Mbp </td></tr><tr><td> 90 </td><td> 84 </td><td> 6.18 Mbp </td><td> 33 </td><td> 42.06 Mbp </td></tr><tr><td> 100 </td><td> 497 </td><td> 4.30 Kbp </td><td> 375 </td><td> 4.30 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 497 </th><th> 2.36 Gbp </th><th> 375 </th><th> 2.36 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa2version: assembly_vgp_HiC_2.0
+hpb2date: 2023-11-07
+hpb2filesize: 707.3 MiB
+hpb2length: '2472325077'
+hpb2n50ctg: 40446071
+hpb2n50scf: 65755526
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/mCanLup2.HiC.hap2.20231107.fasta.gz
+hpb2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 66.28 Mbp </td><td> 2 </td><td> 123.63 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 58.06 Mbp </td><td> 5 </td><td> 88.67 Mbp </td></tr><tr><td> 30 </td><td> 12 </td><td> 52.63 Mbp </td><td> 8 </td><td> 78.25 Mbp </td></tr><tr><td> 40 </td><td> 17 </td><td> 45.46 Mbp </td><td> 11 </td><td> 72.98 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 23 </td><td style="background-color:#88ff88;"> 40.45 Mbp </td><td> 15 </td><td style="background-color:#88ff88;"> 65.76 Mbp </td></tr><tr><td> 60 </td><td> 29 </td><td> 33.23 Mbp </td><td> 19 </td><td> 61.97 Mbp </td></tr><tr><td> 70 </td><td> 38 </td><td> 23.74 Mbp </td><td> 23 </td><td> 53.60 Mbp </td></tr><tr><td> 80 </td><td> 51 </td><td> 16.08 Mbp </td><td> 28 </td><td> 45.46 Mbp </td></tr><tr><td> 90 </td><td> 71 </td><td> 8.67 Mbp </td><td> 34 </td><td> 40.95 Mbp </td></tr><tr><td> 100 </td><td> 395 </td><td> 12.13 Kbp </td><td> 297 </td><td> 12.13 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 395 </th><th> 2.47 Gbp </th><th> 297 </th><th> 2.47 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb2version: assembly_vgp_HiC_2.0
 last_raw_data: 1697146301
-last_updated: 1697146301
+last_updated: 1699902776
+mds:
+- data: "species: Canis lupus\nspecimen: mCanLup2\nprojects: \n  - vgp\nassembled_by_group:
+    Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1:
+    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/mCanLup2.HiC.hap1.20231107.fasta.gz\nhap2:
+    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/mCanLup2.HiC.hap2.20231107.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mCanLup2_hap1_s2.pretext\npretext_hap2:
+    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mCanLup2_hap2_s2.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/merqury/mCanLup2_png/\npacbio_read_dir:
+    s3://genomeark/species/Canis_lupus/mCanLup2/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Canis_lupus/mCanLup2/genomic_data/arima/\nmito:
+    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_MT_rockefeller/mCanLup2.MT.20231113.fasta.gz\npipeline:
+    \n  - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
+    assembly of mCanLup2, resulting in two complete haplotypes. HiC scaffolding was
+    performed with YaHS.  The HiC prep kit used was Arima library prep. The HiC reads
+    needed to have 5 bp trimmed from the 5' end due to adapter left over from the
+    Arima library prep kit. \\n\n"
+  ident: md48
+  title: assembly_vgp_HiC_2.0/mCanLup2_hap1.yml
+- data: "species: Canis lupus\nspecimen: mCanLup2\nprojects: \n  - vgp\nassembled_by_group:
+    Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1:
+    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/mCanLup2.HiC.hap1.20231107.fasta.gz\nhap2:
+    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/mCanLup2.HiC.hap2.20231107.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mCanLup2_hap1_s2.pretext\npretext_hap2:
+    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mCanLup2_hap2_s2.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/merqury/mCanLup2_png/\npacbio_read_dir:
+    s3://genomeark/species/Canis_lupus/mCanLup2/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Canis_lupus/mCanLup2/genomic_data/arima/\nmito:
+    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_MT_rockefeller/mCanLup2.MT.20231113.fasta.gz\npipeline:
+    \n  - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
+    assembly of mCanLup2, resulting in two complete haplotypes. HiC scaffolding was
+    performed with YaHS.  The HiC prep kit used was Arima library prep. The HiC reads
+    needed to have 5 bp trimmed from the 5' end due to adapter left over from the
+    Arima library prep kit. \\n\n"
+  ident: md49
+  title: assembly_vgp_HiC_2.0/mCanLup2_hap2.yml
 metadata: |
   species:
     short_name: mCanLor
@@ -108,6 +201,35 @@ metadata: |
     genome_size:
     genome_size_method:
     project: [ vgp ]
+mito2date: 2023-11-13
+mito2filesize: 5.3 KiB
+mito2length: '16700'
+mito2n50ctg: 16700
+mito2n50scf: 16700
+mito2seq: https://s3.amazonaws.com/genomeark/species/Canis_lupus/mCanLup2/assembly_MT_rockefeller/mCanLup2.MT.20231113.fasta.gz
+mito2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.70 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.70 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.70 Kbp </td><td> 1 </td><td> 16.70 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.70 Kbp </th><th> 1 </th><th> 16.70 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito2version: assembly_MT_rockefeller
 name: Canis lupus
 name_: Canis_lupus
 pri1date: 2021-03-15

@@ -98,11 +98,10 @@ mds:
     s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bCotChi1_hap2_s2.pretext\nkmer_spectra_img:
     s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/evaluation/merqury/bCotChi1_png/\npacbio_read_dir:
     s3://genomeark/species/Coturnix_chinensis/bCotChi1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Coturnix_chinensis/bCotChi1/genomic_data/arima/\nmito:
-    s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_MT_rockefeller/bCotChi1.MT.20231004.fasta.gz\npipeline:
+    hifi\nhic_read_dir: s3://genomeark/species/Coturnix_chinensis/bCotChi1/genomic_data/arima/\npipeline:
     \n  - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
     assembly of bCotChi1, resulting in two complete haplotypes. HiC scaffolding was
-    performed with YaHS.  The HiC prep kit used was Swift-IDT.  \n\n"
+    performed with YaHS.  The HiC prep kit used was Arima.  \n\n"
   ident: md4
   title: assembly_vgp_HiC_2.0/bCotChi1_hap1.yml
 - data: "species: Coturnix chinensis\nspecimen: bCotChi1\nprojects: \n  - vgp\nassembled_by_group:
@@ -113,11 +112,10 @@ mds:
     s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bCotChi1_hap2_s2.pretext\nkmer_spectra_img:
     s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/evaluation/merqury/bCotChi1_png/\npacbio_read_dir:
     s3://genomeark/species/Coturnix_chinensis/bCotChi1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Coturnix_chinensis/bCotChi1/genomic_data/arima/\nmito:
-    s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_MT_rockefeller/bCotChi1.MT.20231004.fasta.gz\npipeline:
+    hifi\nhic_read_dir: s3://genomeark/species/Coturnix_chinensis/bCotChi1/genomic_data/arima/\npipeline:
     \n  - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
     assembly of bCotChi1, resulting in two complete haplotypes. HiC scaffolding was
-    performed with YaHS.  The HiC prep kit used was Swift-IDT. \n\n"
+    performed with YaHS.  The HiC prep kit used was Arima. \n\n"
   ident: md5
   title: assembly_vgp_HiC_2.0/bCotChi1_hap2.yml
 name: Coturnix chinensis
