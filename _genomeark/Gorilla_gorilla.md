@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-10-31
-alt1filesize: 871.2 MiB
-alt1length: '3313494619'
-alt1n50ctg: '148884735'
-alt1n50scf: '151425642'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.alt.cur.20231031.fasta.gz
+alt1date: 2023-11-20
+alt1filesize: 875.7 MiB
+alt1length: 0
+alt1n50ctg: 0
+alt1n50scf: 0
+alt1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.alt.cur.20231120.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,9 +22,9 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 215.07 Mbp </td><td> 2 </td><td> 215.07 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 188.22 Mbp </td><td> 4 </td><td> 193.75 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 165.07 Mbp </td><td> 5 </td><td> 188.22 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 151.56 Mbp </td><td> 7 </td><td> 165.07 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td> 148.88 Mbp </td><td> 10 </td><td> 151.43 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 140.79 Mbp </td><td> 12 </td><td> 145.83 Mbp </td></tr><tr><td> 70 </td><td> 15 </td><td> 130.72 Mbp </td><td> 15 </td><td> 137.29 Mbp </td></tr><tr><td> 80 </td><td> 18 </td><td> 107.36 Mbp </td><td> 17 </td><td> 112.73 Mbp </td></tr><tr><td> 90 </td><td> 22 </td><td> 76.02 Mbp </td><td> 21 </td><td> 76.02 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 0 </td><td> 0 </td><td> 0 </td><td> 0 </td><td> 0 </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr style="background-color:#cccccc;"><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.948x </th><th> 28 </th><th> 3.31 Gbp </th><th> 23 </th><th> 3.31 Gbp </th></tr>
+  <tr><th>  </th><th>  </th><th>  </th><th>  </th><th>  </th></tr>
   </tfoot>
   </table>
 alt1version: assembly_curated
@@ -120,12 +120,12 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-dip1date: 2023-10-31
+dip1date: 2023-11-20
 dip1filesize: 1.8 GiB
-dip1length: '6859328843'
-dip1n50ctg: 188221671
-dip1n50scf: 193752162
-dip1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.dip.cur.20231031.fasta.gz
+dip1length: 0
+dip1n50ctg: 0
+dip1n50scf: 0
+dip1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.dip.cur.20231120.fasta.gz
 dip1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -143,9 +143,9 @@ dip1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 243.85 Mbp </td><td> 2 </td><td> 243.85 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 215.37 Mbp </td><td> 3 </td><td> 215.37 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 215.07 Mbp </td><td> 5 </td><td> 215.07 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 195.33 Mbp </td><td> 7 </td><td> 199.45 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 188.22 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 193.75 Mbp </td></tr><tr><td> 60 </td><td> 11 </td><td> 176.48 Mbp </td><td> 10 </td><td> 188.22 Mbp </td></tr><tr><td> 70 </td><td> 13 </td><td> 165.07 Mbp </td><td> 12 </td><td> 176.48 Mbp </td></tr><tr><td> 80 </td><td> 15 </td><td> 158.53 Mbp </td><td> 14 </td><td> 165.07 Mbp </td></tr><tr><td> 90 </td><td> 17 </td><td> 151.56 Mbp </td><td> 17 </td><td> 154.23 Mbp </td></tr><tr><td> 100 </td><td> 19 </td><td> 150.80 Mbp </td><td> 19 </td><td> 151.43 Mbp </td></tr></tbody>
+  <tr><td> 0 </td><td> 0 </td><td> 0 </td><td> 0 </td><td> 0 </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr style="background-color:#cccccc;"><td>  </td><td>  </td><td style="background-color:#ff8888;">  </td><td>  </td><td style="background-color:#ff8888;">  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.963x </th><th> 55 </th><th> 6.86 Gbp </th><th> 48 </th><th> 6.86 Gbp </th></tr>
+  <tr><th>  </th><th>  </th><th>  </th><th>  </th><th>  </th></tr>
   </tfoot>
   </table>
 dip1version: assembly_curated
@@ -153,13 +153,13 @@ genome_size: 3491460000
 genome_size_display: 3.49 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
 last_raw_data: 1698868487
-last_updated: 1699467826
-mat1date: 2023-10-31
+last_updated: 1700538483
+mat1date: 2023-11-20
 mat1filesize: 0.9 GiB
-mat1length: '3507472575'
-mat1n50ctg: 151425642
-mat1n50scf: 151562521
-mat1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.mat.cur.20231031.fasta.gz
+mat1length: 0
+mat1n50ctg: 0
+mat1n50scf: 0
+mat1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.mat.cur.20231120.fasta.gz
 mat1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -177,9 +177,9 @@ mat1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 215.07 Mbp </td><td> 2 </td><td> 215.07 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 193.75 Mbp </td><td> 4 </td><td> 199.45 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 170.80 Mbp </td><td> 5 </td><td> 193.75 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 154.23 Mbp </td><td> 7 </td><td> 170.80 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 151.43 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 151.56 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 148.88 Mbp </td><td> 12 </td><td> 150.25 Mbp </td></tr><tr><td> 70 </td><td> 15 </td><td> 137.29 Mbp </td><td> 14 </td><td> 145.83 Mbp </td></tr><tr><td> 80 </td><td> 17 </td><td> 128.95 Mbp </td><td> 17 </td><td> 130.72 Mbp </td></tr><tr><td> 90 </td><td> 21 </td><td> 84.49 Mbp </td><td> 20 </td><td> 105.79 Mbp </td></tr><tr><td> 100 </td><td> 26 </td><td> 6.35 Mbp </td><td> 24 </td><td> 54.77 Mbp </td></tr></tbody>
+  <tr><td> 0 </td><td> 0 </td><td> 0 </td><td> 0 </td><td> 0 </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr style="background-color:#cccccc;"><td>  </td><td>  </td><td style="background-color:#ff8888;">  </td><td>  </td><td style="background-color:#ff8888;">  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.004x </th><th> 29 </th><th> 3.51 Gbp </th><th> 24 </th><th> 3.51 Gbp </th></tr>
+  <tr><th>  </th><th>  </th><th>  </th><th>  </th><th>  </th></tr>
   </tfoot>
   </table>
 mat1version: assembly_curated
