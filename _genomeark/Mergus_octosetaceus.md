@@ -106,7 +106,7 @@ mds:
     yahs. The HiC prep was Arima kit 2. The kmer spectra indicate a heterogametic
     specimen, and the sample metadata indicates a female bird. I am submitting both
     hap1 & hap2 for dual curation. This is the curation ticket for hap1. "
-  ident: md4
+  ident: md3
   title: assembly_vgp_HiC_2.0/bMerOct1_hap1.yml
 - data: "species: Mergus octosetaceus\nspecimen: bMerOct1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/bMerOct1.HiC.hap1.20230516.fasta.gz\nhap2:
@@ -124,7 +124,7 @@ mds:
     yahs. The HiC prep was Arima kit 2. The kmer spectra indicate a heterogametic
     specimen, and the sample metadata indicates a female bird. I am submitting both
     hap1 & hap2 for dual curation. This is the curation ticket for hap2. "
-  ident: md5
+  ident: md4
   title: assembly_vgp_HiC_2.0/bMerOct1_hap2.yml
 mito1date: 2023-05-12
 mito1filesize: 5.4 KiB

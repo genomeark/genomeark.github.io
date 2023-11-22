@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 174.42 Gbp
 data_arima-1_bytes: 90.9 GiB
@@ -30,11 +30,11 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 hpa1date: 2023-08-29
-hpa1filesize: 812.7 MiB
+hpa1filesize: 738.4 MiB
 hpa1length: '2976060568'
 hpa1n50ctg: 4050021
 hpa1n50scf: 346520350
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap1.20230829.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_curated/aMixFle1.hap1.decontam.20230829.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -57,13 +57,13 @@ hpa1sizes: |
   <tr><th> 1.000x </th><th> 4223 </th><th> 2.97 Gbp </th><th> 2822 </th><th> 2.98 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
+hpa1version: assembly_curated
 hpb1date: 2023-08-29
-hpb1filesize: 801.5 MiB
-hpb1length: '2871973373'
+hpb1filesize: 732.0 MiB
+hpb1length: '2871901899'
 hpb1n50ctg: 4482390
 hpb1n50scf: 332082691
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap2.20230829.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_curated/aMixFle1.hap2.decontam.20230829.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,12 +81,12 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 18 </td><td> 12.74 Mbp </td><td> 1 </td><td> 463.83 Mbp </td></tr><tr><td> 20 </td><td> 44 </td><td> 9.77 Mbp </td><td> 2 </td><td> 380.43 Mbp </td></tr><tr><td> 30 </td><td> 77 </td><td> 7.48 Mbp </td><td> 3 </td><td> 342.93 Mbp </td></tr><tr><td> 40 </td><td> 122 </td><td> 5.75 Mbp </td><td> 3 </td><td> 342.93 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 178 </td><td style="background-color:#88ff88;"> 4.48 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 332.08 Mbp </td></tr><tr><td> 60 </td><td> 250 </td><td> 3.52 Mbp </td><td> 5 </td><td> 279.22 Mbp </td></tr><tr><td> 70 </td><td> 346 </td><td> 2.62 Mbp </td><td> 6 </td><td> 228.91 Mbp </td></tr><tr><td> 80 </td><td> 481 </td><td> 1.67 Mbp </td><td> 8 </td><td> 143.42 Mbp </td></tr><tr><td> 90 </td><td> 725 </td><td> 0.85 Mbp </td><td> 11 </td><td> 99.51 Mbp </td></tr><tr><td> 100 </td><td> 2286 </td><td> 9.99 Kbp </td><td> 931 </td><td> 9.99 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 18 </td><td> 12.74 Mbp </td><td> 1 </td><td> 463.83 Mbp </td></tr><tr><td> 20 </td><td> 44 </td><td> 9.77 Mbp </td><td> 2 </td><td> 380.43 Mbp </td></tr><tr><td> 30 </td><td> 77 </td><td> 7.48 Mbp </td><td> 3 </td><td> 342.93 Mbp </td></tr><tr><td> 40 </td><td> 122 </td><td> 5.75 Mbp </td><td> 3 </td><td> 342.93 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 178 </td><td style="background-color:#88ff88;"> 4.48 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 332.08 Mbp </td></tr><tr><td> 60 </td><td> 250 </td><td> 3.52 Mbp </td><td> 5 </td><td> 279.22 Mbp </td></tr><tr><td> 70 </td><td> 346 </td><td> 2.62 Mbp </td><td> 6 </td><td> 228.91 Mbp </td></tr><tr><td> 80 </td><td> 481 </td><td> 1.67 Mbp </td><td> 8 </td><td> 143.42 Mbp </td></tr><tr><td> 90 </td><td> 725 </td><td> 0.85 Mbp </td><td> 11 </td><td> 99.51 Mbp </td></tr><tr><td> 100 </td><td> 2284 </td><td> 9.99 Kbp </td><td> 929 </td><td> 9.99 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 2286 </th><th> 2.87 Gbp </th><th> 931 </th><th> 2.87 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 2284 </th><th> 2.87 Gbp </th><th> 929 </th><th> 2.87 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1690217303
 last_updated: 1694212548
 mds:

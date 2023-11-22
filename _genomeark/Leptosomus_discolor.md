@@ -105,7 +105,7 @@ mds:
     yahs. The HiC prep was Arima kit 2. The kmer spectra indicate a homogametic specimen.
     I am submitting both hap1 & hap2 for dual curation. This is a VGP Phase 1 species.
     This is the curation ticket for hap1. "
-  ident: md10
+  ident: md9
   title: assembly_vgp_HiC_2.0/bLepDis1_hap1.yml
 - data: "species: Leptosomus discolor\nspecimen: bLepDis1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Leptosomus_discolor/bLepDis1/assembly_vgp_HiC_2.0/bLepDis1.HiC.hap1.20230617.fasta.gz\nhap2:
@@ -122,7 +122,7 @@ mds:
     yahs. The HiC prep was Arima kit 2. The kmer spectra indicate a homogametic specimen.
     I am submitting both hap1 & hap2 for dual curation. This is a VGP Phase 1 species.
     This is the curation ticket for hap2. "
-  ident: md11
+  ident: md10
   title: assembly_vgp_HiC_2.0/bLepDis1_hap2.yml
 mito1date: 2023-06-17
 mito1filesize: 5.7 KiB

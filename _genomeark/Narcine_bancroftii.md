@@ -49,7 +49,7 @@ mds:
     This individual did not have bionano data. HiC scaffolding was performed with
     yahs. The HiC prep was Arima kit 2. The assembly was performed on the Galaxy EU
     servers. "
-  ident: md10
+  ident: md7
   title: assembly_vgp_HiC_2.0/sNarBan1.yml
 mito1date: 2023-05-16
 mito1filesize: 5.7 KiB

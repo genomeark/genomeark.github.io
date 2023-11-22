@@ -116,7 +116,7 @@ mds:
     was performed with yahs. The HiC prep was Arima kit 2. The kmer spectra indicate
     a homogametic specimen. I am submitting both hap1 & hap2 for dual curation. This
     is the curation ticket for hap1. "
-  ident: md4
+  ident: md3
   title: assembly_vgp_HiC_2.0/fFunDia1_hap1.yml
 - data: "species: Fundulus diaphanus\nspecimen: fFunDia1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/fFunDia1.HiC.hap1.20230523.fasta.gz\nhap2:
@@ -134,7 +134,7 @@ mds:
     was performed with yahs. The HiC prep was Arima kit 2. The kmer spectra indicate
     a homogametic specimen. I am submitting both hap1 & hap2 for dual curation. This
     is the curation ticket for hap2. "
-  ident: md5
+  ident: md4
   title: assembly_vgp_HiC_2.0/fFunDia1_hap2.yml
 metadata: |
   species:

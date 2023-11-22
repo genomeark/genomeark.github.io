@@ -30,7 +30,7 @@ genome_size: 6288540000
 genome_size_display: 6.29 Gbp
 genome_size_method: GoaT
 last_raw_data: 1688548707
-last_updated: 1688548709
+last_updated: 1688548707
 metadata: |
   species:
     short_name: aPelLes

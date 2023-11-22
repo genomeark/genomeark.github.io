@@ -269,7 +269,7 @@ mds:
       tube_id: rGopFla2.BL1
     assembly:
     - no sw yaml file found
-  ident: md61
+  ident: md60
   title: rGopFla2_metadata.yml
 metadata: |
   species:
@@ -286,6 +286,35 @@ metadata: |
     short_name: rGopFla
     taxon_id: 286002
     project: [ vgp ]
+mgd2date: 2021-11-02
+mgd2filesize: 688.9 MiB
+mgd2length: '2460558587'
+mgd2n50ctg: 6571772
+mgd2n50scf: 162938067
+mgd2seq: https://s3.amazonaws.com/genomeark/species/Gopherus_flavomarginatus/rGopFla2/assembly_curated/rGopFla2.mat.Y.cur.20211102.fasta.gz
+mgd2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 9 </td><td> 20.04 Mbp </td><td> 0 </td><td> 380.50 Mbp </td></tr><tr><td> 20 </td><td> 24 </td><td> 14.55 Mbp </td><td> 1 </td><td> 303.24 Mbp </td></tr><tr><td> 30 </td><td> 44 </td><td> 10.72 Mbp </td><td> 2 </td><td> 288.98 Mbp </td></tr><tr><td> 40 </td><td> 70 </td><td> 8.31 Mbp </td><td> 3 </td><td> 218.34 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 104 </td><td style="background-color:#88ff88;"> 6.57 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 162.94 Mbp </td></tr><tr><td> 60 </td><td> 151 </td><td> 4.44 Mbp </td><td> 6 </td><td> 117.50 Mbp </td></tr><tr><td> 70 </td><td> 219 </td><td> 2.97 Mbp </td><td> 8 </td><td> 93.14 Mbp </td></tr><tr><td> 80 </td><td> 345 </td><td> 1.35 Mbp </td><td> 11 </td><td> 53.03 Mbp </td></tr><tr><td> 90 </td><td> 891 </td><td> 179.53 Kbp </td><td> 19 </td><td> 25.72 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.948x </th><th> 2488 </th><th> 2.37 Gbp </th><th> 622 </th><th> 2.46 Gbp </th></tr>
+  </tfoot>
+  </table>
+mgd2version: assembly_curated
 mito2date: 2019-12-16
 mito2filesize: 4.9 KiB
 mito2length: '16501'

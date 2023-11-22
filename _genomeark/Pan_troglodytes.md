@@ -315,12 +315,12 @@ mito1sizes: |
   </tfoot>
   </table>
 mito1version: assembly_MT_rockefeller
-mito3date: 2023-09-06
+mito3date: 2023-10-31
 mito3filesize: 5.3 KiB
-mito3length: '35190'
+mito3length: '16560'
 mito3n50ctg: 0
 mito3n50scf: 0
-mito3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_verkko_1.4/mPanTro3.mito.20230906.fasta.gz
+mito3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.MT.cur.20231031.fasta.gz
 mito3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -340,10 +340,10 @@ mito3sizes: |
   <tbody>
   <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.000x </th><th> 1 </th><th> 35.19 Kbp </th><th> 1 </th><th> 35.19 Kbp </th></tr>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.56 Kbp </th><th> 1 </th><th> 16.56 Kbp </th></tr>
   </tfoot>
   </table>
-mito3version: assembly_verkko_1.4
+mito3version: assembly_curated
 name: Pan troglodytes
 name_: Pan_troglodytes
 pri3date: 2023-10-31

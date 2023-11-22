@@ -30,7 +30,7 @@ genome_size: 24327750000
 genome_size_display: 24.33 Gbp
 genome_size_method: GoaT
 last_raw_data: 1698427278
-last_updated: 1698427280
+last_updated: 1698427278
 metadata: |
   species:
     short_name: aTriCri

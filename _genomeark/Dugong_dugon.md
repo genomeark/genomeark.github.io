@@ -89,7 +89,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1671552996
-last_updated: 1677018540
+last_updated: 1677018523
 mds:
 - data: "species: Dugong dugon\nspecimen: mDugDug1\nprojects: \n  - vgp\nhap1: s3://genomeark/species/Dugong_dugon/mDugDug1/assembly_vgp_HiC_2.0/mDugDug1.HiC.hap1.20221214.fasta.gz\nhap2:
     s3://genomeark/species/Dugong_dugon/mDugDug1/assembly_vgp_HiC_2.0/mDugDug1.HiC.hap2.20221214.fasta.gz\npretext_hap1:
@@ -104,7 +104,7 @@ mds:
     YAHS. The HiC prep was Dovetail OmniC. The kmer spectra indicates a homogametic
     specimen. We are submitting hap1 for curation, though file locations for hap2
     are included here in case it is useful. "
-  ident: md6
+  ident: md5
   title: assembly_vgp_HiC_2.0/mDugDug1.yaml
 mito1date: 2023-02-21
 mito1filesize: 5.3 KiB

@@ -71,7 +71,7 @@ mds:
     assemblhy of aRanImi1 produced at Stanford University, assembled by Dovetail using
     their assembly service. This is a Phase 1 sample that we are submitting for a
     curation."
-  ident: md12
+  ident: md11
   title: assembly_stanford_dovetail/aRanImi1.yml
 mito1date: 2023-06-15
 mito1filesize: 5.8 KiB

@@ -52,7 +52,7 @@ genome_size: 2109999999
 genome_size_display: 2.11 Gbp
 genome_size_method: ''
 last_raw_data: 1582490290
-last_updated: 1582492214
+last_updated: 1582490290
 metadata: |
   species:
     common_name: Egyptian fruit bat

@@ -102,14 +102,6 @@ mds:
       - salsa (v2.2)
   ident: md5
   title: fPanHyp1.yaml
-- data: "pacbio:\n  data:\n  - mean length: 12118\n    name: m64046_210616_125637.ccs.bam
-    \n    qual: Q33\n    reads: 1502072\n    yield: 18202312968\n  metadata:\n  -
-    BindingKit: Sequel II Binding Kit 2.0\n    CellPac: Sequel II SMRT Cell 8M (4/tray)\n
-    \   SequencingKitPlate: Sequel II Sequencing Plate 2.0 (4 rxn)\n    TemplatePrepKit:
-    SMRTbell Express Template Prep Kit 2.0\n    name: m64046_210616_125637.ccs.bam\n
-    \ total:\n    coverage: 22\n    reads: 1502072\n    yield: 18202312968\n"
-  ident: md6
-  title: fPanHyp1_pb_stats.yaml
 metadata: "species:\n  short_name: fPanHyp\n  name: Pangasianodon hypophthalmus \n
   \ taxon_id: 310915\n  common_name: Iridescent shark\n  order:\n    name: Siluriformes\n
   \ family:\n    name: Pangasiidae\n  individuals:\n    - short_name: fPanHyp1\n  project:

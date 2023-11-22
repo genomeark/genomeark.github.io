@@ -103,7 +103,7 @@ mds:
     This individual did not have bionano data. HiC scaffolding was performed with
     yahs. The HiC prep was Arima kit 2. The kmer spectra indicates a homogametic specimen.
     We are submitting haplotype 2 for curation."
-  ident: md7
+  ident: md6
   title: assembly_vgp_HiC_2.0/rCanAsp1_hap2.yml
 mito1date: 2023-02-10
 mito1filesize: 5.3 KiB

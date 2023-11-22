@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 196.60 Gbp
 data_arima-1_bytes: 100.2 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-08-15
-hpa1filesize: 162.2 MiB
-hpa1length: '572228477'
+hpa1date: 2023-08-28
+hpa1filesize: 149.0 MiB
+hpa1length: '572201698'
 hpa1n50ctg: 1967681
 hpa1n50scf: 23518535
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Pseudopleuronectes_americanus/fPseAme1/assembly_vgp_HiC_2.0/fPseAme1.HiC.hap1.20230815.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Pseudopleuronectes_americanus/fPseAme1/assembly_curated/fPseAme1.hap1.decontam.20230828.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 8 </td><td> 5.99 Mbp </td><td> 2 </td><td> 27.59 Mbp </td></tr><tr><td> 20 </td><td> 20 </td><td> 4.36 Mbp </td><td> 5 </td><td> 26.51 Mbp </td></tr><tr><td> 30 </td><td> 34 </td><td> 3.32 Mbp </td><td> 7 </td><td> 25.92 Mbp </td></tr><tr><td> 40 </td><td> 53 </td><td> 2.54 Mbp </td><td> 9 </td><td> 25.59 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 78 </td><td style="background-color:#88ff88;"> 1.97 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 23.52 Mbp </td></tr><tr><td> 60 </td><td> 111 </td><td> 1.49 Mbp </td><td> 14 </td><td> 22.78 Mbp </td></tr><tr><td> 70 </td><td> 163 </td><td> 0.83 Mbp </td><td> 16 </td><td> 21.59 Mbp </td></tr><tr><td> 80 </td><td> 260 </td><td> 423.72 Kbp </td><td> 19 </td><td> 19.84 Mbp </td></tr><tr><td> 90 </td><td> 453 </td><td> 204.12 Kbp </td><td> 22 </td><td> 16.25 Mbp </td></tr><tr><td> 100 </td><td> 1363 </td><td> 2.97 Kbp </td><td> 419 </td><td> 2.97 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 8 </td><td> 5.99 Mbp </td><td> 2 </td><td> 27.59 Mbp </td></tr><tr><td> 20 </td><td> 20 </td><td> 4.36 Mbp </td><td> 5 </td><td> 26.51 Mbp </td></tr><tr><td> 30 </td><td> 34 </td><td> 3.32 Mbp </td><td> 7 </td><td> 25.92 Mbp </td></tr><tr><td> 40 </td><td> 53 </td><td> 2.54 Mbp </td><td> 9 </td><td> 25.59 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 78 </td><td style="background-color:#88ff88;"> 1.97 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 23.52 Mbp </td></tr><tr><td> 60 </td><td> 111 </td><td> 1.49 Mbp </td><td> 14 </td><td> 22.78 Mbp </td></tr><tr><td> 70 </td><td> 163 </td><td> 0.83 Mbp </td><td> 16 </td><td> 21.59 Mbp </td></tr><tr><td> 80 </td><td> 260 </td><td> 423.72 Kbp </td><td> 19 </td><td> 19.84 Mbp </td></tr><tr><td> 90 </td><td> 453 </td><td> 204.12 Kbp </td><td> 22 </td><td> 16.25 Mbp </td></tr><tr><td> 100 </td><td> 1361 </td><td> 2.97 Kbp </td><td> 417 </td><td> 2.97 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1363 </th><th> 0.57 Gbp </th><th> 419 </th><th> 0.57 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 1361 </th><th> 0.57 Gbp </th><th> 417 </th><th> 0.57 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2023-08-15
-hpb1filesize: 160.8 MiB
-hpb1length: '564718372'
+hpa1version: assembly_curated
+hpb1date: 2023-08-28
+hpb1filesize: 147.9 MiB
+hpb1length: '564700661'
 hpb1n50ctg: 2088214
 hpb1n50scf: 25873033
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Pseudopleuronectes_americanus/fPseAme1/assembly_vgp_HiC_2.0/fPseAme1.HiC.hap2.20230815.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Pseudopleuronectes_americanus/fPseAme1/assembly_curated/fPseAme1.hap2.decontam.20230828.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,12 +81,12 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 7 </td><td> 6.93 Mbp </td><td> 2 </td><td> 41.42 Mbp </td></tr><tr><td> 20 </td><td> 17 </td><td> 5.12 Mbp </td><td> 4 </td><td> 27.66 Mbp </td></tr><tr><td> 30 </td><td> 30 </td><td> 3.69 Mbp </td><td> 6 </td><td> 26.38 Mbp </td></tr><tr><td> 40 </td><td> 47 </td><td> 2.75 Mbp </td><td> 8 </td><td> 26.19 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 70 </td><td style="background-color:#88ff88;"> 2.09 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 25.87 Mbp </td></tr><tr><td> 60 </td><td> 102 </td><td> 1.50 Mbp </td><td> 12 </td><td> 25.47 Mbp </td></tr><tr><td> 70 </td><td> 149 </td><td> 0.98 Mbp </td><td> 14 </td><td> 23.06 Mbp </td></tr><tr><td> 80 </td><td> 227 </td><td> 495.70 Kbp </td><td> 17 </td><td> 21.56 Mbp </td></tr><tr><td> 90 </td><td> 417 </td><td> 195.01 Kbp </td><td> 20 </td><td> 16.32 Mbp </td></tr><tr><td> 100 </td><td> 1274 </td><td> 3.19 Kbp </td><td> 337 </td><td> 3.19 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 7 </td><td> 6.93 Mbp </td><td> 2 </td><td> 41.42 Mbp </td></tr><tr><td> 20 </td><td> 17 </td><td> 5.12 Mbp </td><td> 4 </td><td> 27.66 Mbp </td></tr><tr><td> 30 </td><td> 30 </td><td> 3.69 Mbp </td><td> 6 </td><td> 26.38 Mbp </td></tr><tr><td> 40 </td><td> 47 </td><td> 2.75 Mbp </td><td> 8 </td><td> 26.19 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 70 </td><td style="background-color:#88ff88;"> 2.09 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 25.87 Mbp </td></tr><tr><td> 60 </td><td> 102 </td><td> 1.50 Mbp </td><td> 12 </td><td> 25.47 Mbp </td></tr><tr><td> 70 </td><td> 149 </td><td> 0.98 Mbp </td><td> 14 </td><td> 23.06 Mbp </td></tr><tr><td> 80 </td><td> 227 </td><td> 495.70 Kbp </td><td> 17 </td><td> 21.56 Mbp </td></tr><tr><td> 90 </td><td> 417 </td><td> 195.01 Kbp </td><td> 20 </td><td> 16.32 Mbp </td></tr><tr><td> 100 </td><td> 1273 </td><td> 3.19 Kbp </td><td> 336 </td><td> 3.19 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1274 </th><th> 0.56 Gbp </th><th> 337 </th><th> 0.56 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 1273 </th><th> 0.56 Gbp </th><th> 336 </th><th> 0.56 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1689871755
 last_updated: 1693273071
 mds:
@@ -106,7 +106,7 @@ mds:
     with yahs. The HiC prep was Arima kit 2. The HiC reads needed to have 5 bp trimmed
     from the 5' end due to adapter left over from the Arima library prep kit. We are
     submitting both haplotypes for dual curation, and this is the ticket for hap1. "
-  ident: md6
+  ident: md5
   title: assembly_vgp_HiC_2.0/fPseAme1_hap1.yml
 - data: "species: Pseudopleuronectes americanus\nspecimen: fPseAme1\nprojects: \n
     \ - vgp\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Pseudopleuronectes_americanus/fPseAme1/assembly_vgp_HiC_2.0/fPseAme1.HiC.hap1.20230815.fasta.gz\nhap2:
@@ -124,7 +124,7 @@ mds:
     with yahs. The HiC prep was Arima kit 2. The HiC reads needed to have 5 bp trimmed
     from the 5' end due to adapter left over from the Arima library prep kit. We are
     submitting both haplotypes for dual curation, and this is the ticket for hap2. "
-  ident: md7
+  ident: md6
   title: assembly_vgp_HiC_2.0/fPseAme1_hap2.yml
 mito1date: 2023-08-15
 mito1filesize: 5.6 KiB

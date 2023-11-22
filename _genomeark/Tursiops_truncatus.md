@@ -116,6 +116,35 @@ metadata: |
     short_name: mTurTru
     taxon_id: 9739
     project: [ vgp ]
+mgd1date: 2020-01-15
+mgd1filesize: 688.7 MiB
+mgd1length: '2378505825'
+mgd1n50ctg: 6845203
+mgd1n50scf: 89330967
+mgd1seq: https://s3.amazonaws.com/genomeark/species/Tursiops_truncatus/mTurTru1/assembly_curated/mTurTru1.mat.Y.cur.20200115.fasta.gz
+mgd1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 9 </td><td> 23.41 Mbp </td><td> 1 </td><td> 176.47 Mbp </td></tr><tr><td> 20 </td><td> 26 </td><td> 15.76 Mbp </td><td> 3 </td><td> 144.18 Mbp </td></tr><tr><td> 30 </td><td> 50 </td><td> 11.70 Mbp </td><td> 6 </td><td> 115.60 Mbp </td></tr><tr><td> 40 </td><td> 81 </td><td> 8.63 Mbp </td><td> 8 </td><td> 108.43 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 123 </td><td style="background-color:#88ff88;"> 6.85 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 89.33 Mbp </td></tr><tr><td> 60 </td><td> 184 </td><td> 3.75 Mbp </td><td> 15 </td><td> 86.29 Mbp </td></tr><tr><td> 70 </td><td> 317 </td><td> 1.30 Mbp </td><td> 19 </td><td> 58.64 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.741x </th><th> 1035 </th><th> 2.37 Gbp </th><th> 361 </th><th> 2.38 Gbp </th></tr>
+  </tfoot>
+  </table>
+mgd1version: assembly_curated
 mito1date: 2019-08-20
 mito1filesize: 4.9 KiB
 mito1length: '16389'

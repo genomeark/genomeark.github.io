@@ -105,7 +105,7 @@ mds:
     HiC scaffolding was performed with YaHS.  The HiC prep kit used was Arima library
     prep. The HiC reads needed to have 5 bp trimmed from the 5' end due to adapter
     left over from the Arima library prep kit. \n\n"
-  ident: md4
+  ident: md3
   title: assembly_vgp_HiC_2.0/aRhiDor1_hap1.yml
 - data: "species: Rhinophrynus dorsalis\nspecimen: aRhiDor1\nprojects: \n  - vgp\nassembled_by_group:
     Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1:
@@ -122,7 +122,7 @@ mds:
     HiC scaffolding was performed with YaHS.  The HiC prep kit used was Arima library
     prep. The HiC reads needed to have 5 bp trimmed from the 5' end due to adapter
     left over from the Arima library prep kit. \n\n"
-  ident: md5
+  ident: md4
   title: assembly_vgp_HiC_2.0/aRhiDor1_hap2.yml
 mito1date: 2023-10-16
 mito1filesize: 5.5 KiB

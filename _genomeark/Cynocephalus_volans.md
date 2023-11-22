@@ -81,7 +81,7 @@ genome_size: 3554000000
 genome_size_display: 3.55 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651601926
-last_updated: 1662580135
+last_updated: 1662580129
 mds:
 - data: |-
     species: Cynocephalus volans
@@ -97,7 +97,7 @@ mds:
       - hifiasm (0.16.1+galaxy2)
       - purge_dups (1.2.5+galaxy4)
       - salsa (2.3+galaxy2)
-  ident: md6
+  ident: md5
   title: assembly_vgp_standard_2.0/mCynVol1.yaml
 metadata: |
   species:

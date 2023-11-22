@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 77.08 Gbp
 data_arima-1_bytes: 40.2 GiB
@@ -30,11 +30,11 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 hpa1date: 2023-07-10
-hpa1filesize: 328.7 MiB
+hpa1filesize: 300.2 MiB
 hpa1length: '1209103888'
 hpa1n50ctg: 17616512
 hpa1n50scf: 86165597
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_vgp_HiC_2.0/bAmaOch1.HiC.hap1.20230710.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_curated/bAmaOch1.hap1.decontam.20230710.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -57,13 +57,13 @@ hpa1sizes: |
   <tr><th> 1.000x </th><th> 1803 </th><th> 1.21 Gbp </th><th> 1684 </th><th> 1.21 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
+hpa1version: assembly_curated
 hpb1date: 2023-07-10
-hpb1filesize: 381.8 MiB
+hpb1filesize: 343.9 MiB
 hpb1length: '1510116837'
 hpb1n50ctg: 12751415
 hpb1n50scf: 71335859
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_vgp_HiC_2.0/bAmaOch1.HiC.hap2.20230710.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_curated/bAmaOch1.hap2.decontam.20230710.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -86,7 +86,7 @@ hpb1sizes: |
   <tr><th> 1.000x </th><th> 2669 </th><th> 1.51 Gbp </th><th> 2508 </th><th> 1.51 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1684342555
 last_updated: 1688968175
 mds:
@@ -101,7 +101,7 @@ mds:
     This was a hifiasm-HiC assembly of bAmaOch1, resulting in two complete haplotypes.
     This individual did not bionano data. HiC scaffolding was performed with yahs.
     The HiC prep was Arima kit 2."
-  ident: md6
+  ident: md5
   title: assembly_vgp_HiC_2.0/bAmaOch1.yml
 mito1date: 2023-07-10
 mito1filesize: 5.7 KiB

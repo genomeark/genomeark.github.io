@@ -138,7 +138,7 @@ mds:
       tissue: Blood
       treatment: Flash Frozen
       tube_id: mDicBic1.BL4,mDicBic1.BL2,mDicBic1.BL1
-  ident: md43
+  ident: md42
   title: mDicBic1_metadata.yml
 metadata: |
   species:

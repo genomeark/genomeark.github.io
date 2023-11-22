@@ -30,7 +30,7 @@ genome_size: 723720000
 genome_size_display: 0.72 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675925818
-last_updated: 1675925820
+last_updated: 1675925818
 metadata: |
   species:
     short_name: kaStyClav

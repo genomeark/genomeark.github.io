@@ -147,6 +147,35 @@ metadata: |
     short_name: bFalNau
     taxon_id: 148594
     project: [ vgp ]
+mgd1date: 2020-07-14
+mgd1filesize: 354.2 MiB
+mgd1length: '1215702009'
+mgd1n50ctg: 12381245
+mgd1n50scf: 86597978
+mgd1seq: https://s3.amazonaws.com/genomeark/species/Falco_naumanni/bFalNau1/assembly_curated/bFalNau1.pat.W.cur.20200714.fasta.gz
+mgd1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 54.07 Mbp </td><td> 1 </td><td> 123.27 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 23.92 Mbp </td><td> 2 </td><td> 121.31 Mbp </td></tr><tr><td> 30 </td><td> 12 </td><td> 20.49 Mbp </td><td> 3 </td><td> 113.49 Mbp </td></tr><tr><td> 40 </td><td> 19 </td><td> 16.20 Mbp </td><td> 4 </td><td> 92.80 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 29 </td><td style="background-color:#88ff88;"> 12.38 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 86.60 Mbp </td></tr><tr><td> 60 </td><td> 41 </td><td> 9.70 Mbp </td><td> 7 </td><td> 72.77 Mbp </td></tr><tr><td> 70 </td><td> 59 </td><td> 5.90 Mbp </td><td> 9 </td><td> 53.80 Mbp </td></tr><tr><td> 80 </td><td> 90 </td><td> 3.09 Mbp </td><td> 13 </td><td> 30.44 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 221 </td><td> 22.28 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.897x </th><th> 588 </th><th> 1.21 Gbp </th><th> 290 </th><th> 1.22 Gbp </th></tr>
+  </tfoot>
+  </table>
+mgd1version: assembly_curated
 mito1date: 2019-12-04
 mito1filesize: 5.1 KiB
 mito1length: '17652'

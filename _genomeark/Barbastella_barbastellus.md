@@ -20,7 +20,7 @@ genome_size: 2151600000
 genome_size_display: 2.15 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687276011
-last_updated: 1687276013
+last_updated: 1687276011
 metadata: |
   species:
     short_name: mBarBar

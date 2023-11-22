@@ -27,7 +27,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1675927010
-last_updated: 1675927012
+last_updated: 1675927010
 metadata: |
   species:
     short_name: keSacKowa

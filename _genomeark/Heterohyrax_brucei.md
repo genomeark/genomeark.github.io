@@ -99,14 +99,6 @@ mds:
       - salsa (v2.2)
   ident: md26
   title: mHetBru1.yaml
-- data: |
-    pacbio:
-      total:
-        coverage: 35
-        reads: 9447801
-        yield: 122316025476
-  ident: md27
-  title: mHetBru1_pb_stats.yaml
 metadata: |
   species:
     short_name: mHetBru

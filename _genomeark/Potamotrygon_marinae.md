@@ -41,7 +41,7 @@ genome_size: 4500000000
 genome_size_display: 4.50 Gbp
 genome_size_method: ''
 last_raw_data: 1618858204
-last_updated: 1618858883
+last_updated: 1618858204
 metadata: |
   species:
     short_name: sPotMar

@@ -106,7 +106,7 @@ mds:
     yahs. The HiC prep was Arima kit 2. TThe kmer spectra indicate a homogametic specimen.
     I am submitting both hap1 & hap2 for dual curation. This is the curation ticket
     for hap1. "
-  ident: md10
+  ident: md9
   title: assembly_vgp_HiC_2.0/mTapInd1_hap1.yml
 - data: "species: Tapirus indicus\nspecimen: mTapInd1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Tapirus_indicus/mTapInd1/assembly_vgp_HiC_2.0/mTapInd1.HiC.hap1.20230427.fasta.gz\nhap2:
@@ -124,7 +124,7 @@ mds:
     yahs. The HiC prep was Arima kit 2. TThe kmer spectra indicate a homogametic specimen.
     I am submitting both hap1 & hap2 for dual curation. This is the curation ticket
     for hap2. "
-  ident: md11
+  ident: md10
   title: assembly_vgp_HiC_2.0/mTapInd1_hap2.yml
 mito1date: 2023-05-12
 mito1filesize: 5.3 KiB

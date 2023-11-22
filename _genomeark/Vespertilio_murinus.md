@@ -30,7 +30,7 @@ genome_size: 2288520000
 genome_size_display: 2.29 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687274542
-last_updated: 1687274544
+last_updated: 1687274542
 metadata: |
   species:
     short_name: mVesMur

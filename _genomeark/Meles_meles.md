@@ -126,6 +126,35 @@ metadata: |
     genome_size: 2802245436
     genome_size_method: genomescope (k=31)
     project: [ vgp ]
+mgd3date: 2021-12-10
+mgd3filesize: 780.0 MiB
+mgd3length: '2738678004'
+mgd3n50ctg: 70607720
+mgd3n50scf: 120130420
+mgd3seq: https://s3.amazonaws.com/genomeark/species/Meles_meles/mMelMel3/assembly_curated/mMelMel3.pat.X.cur.20211210.fasta.gz
+mgd3sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 151.14 Mbp </td><td> 1 </td><td> 210.73 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 126.20 Mbp </td><td> 2 </td><td> 184.30 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 118.71 Mbp </td><td> 4 </td><td> 158.03 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 87.85 Mbp </td><td> 6 </td><td> 151.14 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 70.61 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 120.13 Mbp </td></tr><tr><td> 60 </td><td> 16 </td><td> 49.81 Mbp </td><td> 10 </td><td> 109.97 Mbp </td></tr><tr><td> 70 </td><td> 23 </td><td> 31.94 Mbp </td><td> 13 </td><td> 87.85 Mbp </td></tr><tr><td> 80 </td><td> 33 </td><td> 21.11 Mbp </td><td> 16 </td><td> 82.95 Mbp </td></tr><tr><td> 90 </td><td> 59 </td><td> 4.06 Mbp </td><td> 21 </td><td> 45.12 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.977x </th><th> 638 </th><th> 2.74 Gbp </th><th> 537 </th><th> 2.74 Gbp </th></tr>
+  </tfoot>
+  </table>
+mgd3version: assembly_curated
 name: Meles meles
 name_: Meles_meles
 project:

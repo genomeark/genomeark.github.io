@@ -20,7 +20,7 @@ genome_size: 2180940000
 genome_size_display: 2.18 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687275816
-last_updated: 1687275818
+last_updated: 1687275816
 metadata: |
   species:
     short_name: mPleAus

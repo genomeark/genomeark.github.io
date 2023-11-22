@@ -81,7 +81,7 @@ genome_size: 1949000000
 genome_size_display: 1.95 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651594802
-last_updated: 1651594822
+last_updated: 1651594802
 mds:
 - data: |
     species: Podarcis raffonei

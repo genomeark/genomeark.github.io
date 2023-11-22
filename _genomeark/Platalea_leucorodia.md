@@ -30,7 +30,7 @@ genome_size: 1222500000
 genome_size_display: 1.22 Gbp
 genome_size_method: GoaT
 last_raw_data: 1688545181
-last_updated: 1688545182
+last_updated: 1688545181
 metadata: |
   species:
     short_name: bPlaLeu

@@ -30,7 +30,7 @@ genome_size: 645480000
 genome_size_display: 0.65 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675896236
-last_updated: 1675896237
+last_updated: 1675896236
 metadata: |
   species:
     short_name: fCilMus

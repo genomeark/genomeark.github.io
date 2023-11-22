@@ -91,7 +91,7 @@ genome_size: 2500000000
 genome_size_display: 2.50 Gbp
 genome_size_method: ''
 last_raw_data: 1651607858
-last_updated: 1659344659
+last_updated: 1657190712
 mds:
 - data: "species: Vipera latastei\r\nspecimen:  rVipLat1\r\nprojects: \r\n  -VGP\r\n
     \ -CBP\r\nprimary: s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/intermediates/rVipLat1_ragtag.fasta.gz\r\nhaplotigs:
@@ -102,7 +102,7 @@ mds:
     \r\n\t-hifiasm (0.13) \r\n\t-purge_dups (1.2.5) \r\n\t-bionano solve (3.6.1) \r\n\t-salsa
     (2.2) \r\n\t-ragtag (2.0.1) <[ flye (2.8.3) + hypo (2.4.1) + purge_dups (1.2.5)
     + bionano solve (3.6.1) + salsa (2.2)]\r\n"
-  ident: md5
+  ident: md2
   title: assembly_vgp_2.0_IBE/rVipLat1.yaml
 metadata: |
   species:

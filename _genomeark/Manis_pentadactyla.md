@@ -136,7 +136,7 @@ mds:
     was Dovetail OmniC. The kmer spectra indicates a heterogametic specimen. Becuase
     the sex chromosomes are split between the two haplotypes, we are including the
     file paths for both haplotypes in this single ticket."
-  ident: md7
+  ident: md6
   title: assembly_vgp_HiC_2.0/mManPen7.yaml
 metadata: |
   species:

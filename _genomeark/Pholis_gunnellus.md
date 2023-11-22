@@ -72,7 +72,7 @@ genome_size: 588696950
 genome_size_display: 0.59 Gbp
 genome_size_method: ''
 last_raw_data: 1675882608
-last_updated: 1675882609
+last_updated: 1675882608
 metadata: |
   species:
     short_name: fPhoGun

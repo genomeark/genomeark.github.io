@@ -56,7 +56,7 @@ mds:
     is bAmmMar1). This individual had bionano data. HiC scaffolding was performed
     with yahs. The HiC prep was Arima kit 2. This sample arrived with metadata indicating
     it is a female. "
-  ident: md4
+  ident: md3
   title: assembly_vgp_standard_2.0/bAmmMai1.yml
 metadata: |
   species:

@@ -20,7 +20,7 @@ genome_size: 107580000
 genome_size_display: 107.58 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675921419
-last_updated: 1675921421
+last_updated: 1675921419
 metadata: |
   species:
     short_name: kaAscAspe

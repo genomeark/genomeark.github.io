@@ -105,7 +105,7 @@ mds:
     The HiC prep was Arima kit 2. The kmer spectra indicate a homogametic specimen.
     I am submitting both hap1 & hap2 for dual curation. This is the curation ticket
     for hap1. "
-  ident: md7
+  ident: md6
   title: assembly_vgp_HiC_2.0/sHepPer1_hap1.yml
 - data: "species: Heptranchias perlo\nspecimen: sHepPer1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Heptranchias_perlo/sHepPer1/assembly_vgp_HiC_2.0/sHepPer1.HiC.hap1.20230606.fasta.gz\nhap2:
@@ -122,7 +122,7 @@ mds:
     The HiC prep was Arima kit 2. The kmer spectra indicate a homogametic specimen.
     I am submitting both hap1 & hap2 for dual curation. This is the curation ticket
     for hap2. "
-  ident: md8
+  ident: md7
   title: assembly_vgp_HiC_2.0/sHepPer1_hap2.yml
 mito1date: 2023-06-07
 mito1filesize: 5.7 KiB

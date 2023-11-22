@@ -113,6 +113,35 @@ metadata: |
     individuals:
       - short_name: mJacJac1
     project: [ vgp ]
+mgd1date: 2021-05-07
+mgd1filesize: 818.1 MiB
+mgd1length: '2863848715'
+mgd1n50ctg: 21929955
+mgd1n50scf: 158244790
+mgd1seq: https://s3.amazonaws.com/genomeark/species/Jaculus_jaculus/mJacJac1/assembly_curated/mJacJac1.mat.Y.cur.20210507.fasta.gz
+mgd1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 57.15 Mbp </td><td> 0 </td><td> 344.07 Mbp </td></tr><tr><td> 20 </td><td> 10 </td><td> 42.04 Mbp </td><td> 2 </td><td> 190.63 Mbp </td></tr><tr><td> 30 </td><td> 17 </td><td> 34.32 Mbp </td><td> 3 </td><td> 180.76 Mbp </td></tr><tr><td> 40 </td><td> 27 </td><td> 27.28 Mbp </td><td> 5 </td><td> 167.30 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 39 </td><td style="background-color:#88ff88;"> 21.93 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 158.24 Mbp </td></tr><tr><td> 60 </td><td> 53 </td><td> 17.33 Mbp </td><td> 8 </td><td> 142.03 Mbp </td></tr><tr><td> 70 </td><td> 73 </td><td> 11.50 Mbp </td><td> 11 </td><td> 113.41 Mbp </td></tr><tr><td> 80 </td><td> 106 </td><td> 6.69 Mbp </td><td> 13 </td><td> 94.33 Mbp </td></tr><tr><td> 90 </td><td> 166 </td><td> 3.32 Mbp </td><td> 17 </td><td> 69.84 Mbp </td></tr><tr><td> 100 </td><td> 719 </td><td> 210  bp </td><td> 158 </td><td> 724  bp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 720 </th><th> 2.85 Gbp </th><th> 159 </th><th> 2.86 Gbp </th></tr>
+  </tfoot>
+  </table>
+mgd1version: assembly_curated
 name: Jaculus jaculus
 name_: Jaculus_jaculus
 pat1date: 2021-05-07

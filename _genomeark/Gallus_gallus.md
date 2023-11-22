@@ -245,7 +245,7 @@ genome_size: 1210000000
 genome_size_display: 1.21 Gbp
 genome_size_method: ''
 last_raw_data: 1697153370
-last_updated: 1697154157
+last_updated: 1697153370
 mat1date: 2019-10-17
 mat1filesize: 285.8 MiB
 mat1length: '1050497396'
@@ -383,7 +383,7 @@ mds:
       tube_id: bGalGal4.BL1,bGalGal4.BL2,bGalGal4.BL3,bGalGal4.BL4
     assembly:
     - no sw yaml file found
-  ident: md2777
+  ident: md2279
   title: bGalGal4_metadata.yml
 - data: |
     species: Gallus gallus
@@ -404,7 +404,7 @@ mds:
       - salsa (2.2)
     assembled_by_group: BeGenDiv
     notes: This assembly was run with the standard hifiasm pipeline (ie, pseudohaplotype) with no hifiasm internal purging set. Smrt-bell adapter sequences removed from HiFi reads with cutadapt. Purge_dups was used instead for purging and phasing. No polishing has been performed. There was also no mitochondrial genome used, so alternate assembly is equivalent of q2 in pipeline. Kmer spectra analysis performed using 10x reads.
-  ident: md2826
+  ident: md2327
   title: vgp_assembly_2.0/bGalGal4.yaml
 - data: |
     data:
@@ -453,7 +453,7 @@ mds:
       tube_id: bGalGal5.BL1
     assembly:
     - no sw yaml file found
-  ident: md2830
+  ident: md2331
   title: bGalGal5_metadata.yml
 - data: |
     species: Gallus gallus
@@ -474,7 +474,7 @@ mds:
       - salsa (2.2)
     assembled_by_group: BeGenDiv
     notes: This assembly was run with the standard hifiasm pipeline (ie, pseudohaplotype) with no hifiasm internal purging set. Smrt-bell adapter sequences removed from HiFi reads with cutadapt. Purge_dups was used instead for purging and phasing. No polishing has been performed. There was also no mitochondrial genome used, so alternate assembly is equivalent of q2 in pipeline. Kmer spectra analysis performed using 10x reads.
-  ident: md2854
+  ident: md2354
   title: vgp_assembly_2.0/bGalGal5.yaml
 metadata: |
   species:

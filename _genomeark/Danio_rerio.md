@@ -88,7 +88,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1690685893
-last_updated: 1690698819
+last_updated: 1690685893
 mat1date: 2020-05-22
 mat1filesize: 387.1 MiB
 mat1length: '1360489499'

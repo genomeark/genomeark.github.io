@@ -102,7 +102,7 @@ mds:
     two complete haplotypes. This individual did have not bionano data. The hap1 and
     hap2 assemblies were purged with the purge_dups piepeline. HiC scaffolding was
     performed with yahs. The HiC prep was Arima kit 2."
-  ident: md6
+  ident: md5
   title: assembly_vgp_HiC_2.0/fCypVen1.yml
 mito1date: 2023-06-17
 mito1filesize: 5.4 KiB

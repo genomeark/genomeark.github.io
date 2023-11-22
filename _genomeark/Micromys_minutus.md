@@ -30,7 +30,7 @@ genome_size: 3110040000
 genome_size_display: 3.11 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687356896
-last_updated: 1687356898
+last_updated: 1687356896
 metadata: |
   species:
     short_name: mMicMin

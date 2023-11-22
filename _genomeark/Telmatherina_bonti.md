@@ -61,7 +61,7 @@ genome_size: 986039709
 genome_size_display: 0.99 Gbp
 genome_size_method: ''
 last_raw_data: 1675907098
-last_updated: 1675907100
+last_updated: 1675907098
 metadata: |
   species:
     short_name: fTelBon

@@ -68,7 +68,7 @@ mds:
     at diploid coverage in the merqury plots. The BUSCO values were troublesome, and
     likely indicate presence of many paralogs. We are submitting both haplotypes for
     trio curation, and this is the ticket for the maternal haplotype."
-  ident: md4
+  ident: md3
   title: assembly_vgp_trio_2.0/aXenPet1_mat.yml
 - data: "species: Xenopus petersii\nspecimen: aXenPet1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\npaternal: s3://genomeark/species/Xenopus_petersii/aXenPet1/assembly_vgp_HiC_2.0/aXenPet1.trio.pat.20230815.fasta.gz\npretext:
@@ -88,7 +88,7 @@ mds:
     at diploid coverage in the merqury plots. The BUSCO values were troublesome, and
     likely indicate presence of many paralogs. We are submitting both haplotypes for
     trio curation, and this is the ticket for the paternal haplotype."
-  ident: md5
+  ident: md4
   title: assembly_vgp_trio_2.0/aXenPet1_pat.yml
 mito1date: 2023-08-15
 mito1filesize: 5.7 KiB

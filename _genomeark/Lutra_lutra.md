@@ -72,7 +72,7 @@ genome_size: 2438442342
 genome_size_display: 2.44 Gbp
 genome_size_method: ''
 last_raw_data: 1591286244
-last_updated: 1632339071
+last_updated: 1591286244
 metadata: |
   species:
     short_name: mLutLut

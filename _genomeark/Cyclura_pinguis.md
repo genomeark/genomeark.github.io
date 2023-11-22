@@ -115,7 +115,7 @@ mds:
     This individual had bionano data. HiC scaffolding was not performed, as when it
     was attempted, it resulted in no new joins. So these assemblies have only Bionano
     scaffolding. The kmer spectra indicates a homogametic specimen. \n\n"
-  ident: md6
+  ident: md5
   title: assembly_vgp_HiC_2.0/rCycPin1.yml
 mito1date: 2023-02-10
 mito1filesize: 5.3 KiB

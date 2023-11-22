@@ -136,7 +136,7 @@ mds:
     yahs. Metadata and k-mer spectra indicate a heterogametic (male) specimen. The
     HiC prep was Arima kit 2. I am submitting both hap1 & hap2 for dual curation.
     This is the curation ticket for hap1. "
-  ident: md10
+  ident: md9
   title: assembly_vgp_HiC_2.0/mOchPri1_hap1.yml
 - data: "species: Ochotona princeps\nspecimen: mOchPri1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/mOchPri1.HiC.hap1.20230417.fasta.gz\nhap2:
@@ -153,7 +153,7 @@ mds:
     yahs. Metadata and k-mer spectra indicate a heterogametic (male) specimen. The
     HiC prep was Arima kit 2. I am submitting both hap1 & hap2 for dual curation.
     This is the curation ticket for hap2. "
-  ident: md11
+  ident: md10
   title: assembly_vgp_HiC_2.0/mOchPri1_hap2.yml
 mito1date: 2023-02-13
 mito1filesize: 5.4 KiB

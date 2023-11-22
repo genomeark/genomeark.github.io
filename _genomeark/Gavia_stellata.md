@@ -114,7 +114,7 @@ mds:
     This individual did not have bionano data. HiC scaffolding was performed with
     yahs. The HiC prep was Arima kit 2. I am submitting both hap1 & hap2 for dual
     curation. This is the curation ticket for hap1.\n"
-  ident: md10
+  ident: md9
   title: assembly_vgp_HiC_2.0/bGavSte3_hap1.yml
 - data: "species: Gavia stellata\nspecimen: bGavSte3\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Gavia_stellata/bGavSte3/assembly_vgp_HiC_2.0/bGavSte3.HiC.hap1.20230407.fasta.gz\nhap2:
@@ -130,7 +130,7 @@ mds:
     This individual did not have bionano data. HiC scaffolding was performed with
     yahs. The HiC prep was Arima kit 2. I am submitting both hap1 & hap2 for dual
     curation. This is the curation ticket for hap2.\n"
-  ident: md11
+  ident: md10
   title: assembly_vgp_HiC_2.0/bGavSte3_hap2.yml
 mito3date: 2023-04-07
 mito3filesize: 5.5 KiB

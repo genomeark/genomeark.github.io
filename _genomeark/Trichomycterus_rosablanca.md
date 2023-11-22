@@ -89,7 +89,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1666642654
-last_updated: 1676065943
+last_updated: 1676065909
 mds:
 - data: "species: Trichomycterus rosablanca\nspecimen: fTriRos1\nprojects: \n  - vgp\nhap1:
     s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/fTriRos1.HiC.hap1.20221115.fasta.gz\nhap2:
@@ -104,7 +104,7 @@ mds:
     two complete haplotypes. This individual did not have bionano data. HiC scaffolding
     was performed with YAHS. The kmer spectra indicates a homogametic specimen. We
     are submitting hap1 for curation."
-  ident: md6
+  ident: md5
   title: assembly_vgp_HiC_2.0/fTriRos1.yaml
 mito1date: 2023-02-10
 mito1filesize: 5.3 KiB

@@ -108,7 +108,7 @@ mds:
       - purge_dups (1.2.5)
       - solve (3.6.1)
       - salsa (2.2)
-  ident: md6
+  ident: md5
   title: assembly_vgp_standard_2.0/mNycCou1.yaml
 metadata: |
   species:

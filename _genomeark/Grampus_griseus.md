@@ -20,7 +20,7 @@ genome_size: 3080700000
 genome_size_display: 3.08 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687357035
-last_updated: 1687357037
+last_updated: 1687357035
 metadata: |
   species:
     short_name: mGraGri

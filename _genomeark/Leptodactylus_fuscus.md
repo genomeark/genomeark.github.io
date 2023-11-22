@@ -106,7 +106,7 @@ mds:
     performed with yahs. K-mer spectra indicates a homogametic specimen. The HiC prep
     was Arima kit 2. I am submitting both hap1 & hap2 for dual curation. This is the
     curation ticket for hap1. "
-  ident: md10
+  ident: md9
   title: assembly_vgp_HiC_2.0/aLepFus1_hap1.yml
 - data: "species: Leptodactylus fuscus\nspecimen: aLepFus1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/aLepFus1.HiC.hap1.20230421.fasta.gz\nhap2:
@@ -124,7 +124,7 @@ mds:
     performed with yahs. K-mer spectra indicates a homogametic specimen. The HiC prep
     was Arima kit 2. I am submitting both hap1 & hap2 for dual curation. This is the
     curation ticket for hap2. "
-  ident: md11
+  ident: md10
   title: assembly_vgp_HiC_2.0/aLepFus1_hap2.yml
 metadata: |
   species:

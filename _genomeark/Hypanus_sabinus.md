@@ -103,7 +103,7 @@ mds:
     mode, resulting in two complete haplotypes. Kmer spectra probably indicate a heterogametic
     specimen, likely will need fishing for the sex chromosomes between the two haplotypes,
     hence submitting both haplotypes.  \n"
-  ident: md10
+  ident: md9
   title: assembly_vgp_HiC_2.0/sHypSab1.yaml
 metadata: |
   species:

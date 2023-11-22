@@ -61,7 +61,7 @@ genome_size: 1584929904
 genome_size_display: 1.58 Gbp
 genome_size_method: ''
 last_raw_data: 1675880654
-last_updated: 1675880656
+last_updated: 1675880654
 metadata: |
   species:
     short_name: fBarBab

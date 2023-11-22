@@ -169,7 +169,7 @@ mds:
       tissue: Muscle
       treatment: Frozen
       tube_id: sHemOce1
-  ident: md43
+  ident: md42
   title: sHemOce1_metadata.yml
 - data: |
     samples:
@@ -195,7 +195,7 @@ mds:
       tissue: Whole blood
       treatment: EDTA collection tube; Flash Frozen
       tube_id: sHemOce2
-  ident: md53
+  ident: md51
   title: sHemOce2_metadata.yml
 - data: |
     samples:
@@ -221,7 +221,7 @@ mds:
       tissue: Whole blood
       treatment: EDTA collection tube; Flash Frozen
       tube_id: sHemOce3
-  ident: md63
+  ident: md60
   title: sHemOce3_metadata.yml
 metadata: |
   species:
@@ -238,6 +238,35 @@ metadata: |
     short_name: sHemOce
     taxon_id: 170820
     project: [ vgp ]
+mgd1date: 2021-05-28
+mgd1filesize: 1.1 GiB
+mgd1length: '3983466396'
+mgd1n50ctg: 2833298
+mgd1n50scf: 55856321
+mgd1seq: https://s3.amazonaws.com/genomeark/species/Hemiscyllium_ocellatum/sHemOce1/assembly_curated/sHemOce1.pat.X.cur.20210528.fasta.gz
+mgd1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 13 </td><td> 31.72 Mbp </td><td> 3 </td><td> 144.05 Mbp </td></tr><tr><td> 20 </td><td> 34 </td><td> 22.77 Mbp </td><td> 7 </td><td> 120.50 Mbp </td></tr><tr><td> 30 </td><td> 65 </td><td> 13.47 Mbp </td><td> 12 </td><td> 99.69 Mbp </td></tr><tr><td> 40 </td><td> 126 </td><td> 6.45 Mbp </td><td> 19 </td><td> 69.72 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 257 </td><td style="background-color:#88ff88;"> 2.83 Mbp </td><td> 28 </td><td style="background-color:#88ff88;"> 55.86 Mbp </td></tr><tr><td> 60 </td><td> 734 </td><td> 0.50 Mbp </td><td> 40 </td><td> 34.46 Mbp </td></tr><tr><td> 70 </td><td> 4148 </td><td> 71.17 Kbp </td><td> 374 </td><td> 361.69 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.710x </th><th> 5678 </th><th> 3.91 Gbp </th><th> 1962 </th><th> 3.98 Gbp </th></tr>
+  </tfoot>
+  </table>
+mgd1version: assembly_curated
 mito1date: 2021-03-04
 mito1filesize: 5.0 KiB
 mito1length: '16725'

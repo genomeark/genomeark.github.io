@@ -116,6 +116,35 @@ metadata: |
     short_name: bMelUnd
     taxon_id: 13146
     project: [ vgp ]
+mgd1date: 2020-02-04
+mgd1filesize: 335.5 MiB
+mgd1length: '1171617451'
+mgd1n50ctg: 15859735
+mgd1n50scf: 87083378
+mgd1seq: https://s3.amazonaws.com/genomeark/species/Melopsittacus_undulatus/bMelUnd1/assembly_curated/bMelUnd1.mat.Z.cur.20200204.fasta.gz
+mgd1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 46.70 Mbp </td><td> 0 </td><td> 155.07 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 37.80 Mbp </td><td> 1 </td><td> 121.02 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 36.32 Mbp </td><td> 2 </td><td> 118.16 Mbp </td></tr><tr><td> 40 </td><td> 13 </td><td> 21.98 Mbp </td><td> 3 </td><td> 112.75 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 15.86 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 87.08 Mbp </td></tr><tr><td> 60 </td><td> 30 </td><td> 9.30 Mbp </td><td> 6 </td><td> 86.48 Mbp </td></tr><tr><td> 70 </td><td> 45 </td><td> 6.55 Mbp </td><td> 8 </td><td> 57.50 Mbp </td></tr><tr><td> 80 </td><td> 74 </td><td> 2.79 Mbp </td><td> 10 </td><td> 35.28 Mbp </td></tr><tr><td> 90 </td><td> 179 </td><td> 350.52 Kbp </td><td> 25 </td><td> 2.06 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.950x </th><th> 1148 </th><th> 1.17 Gbp </th><th> 864 </th><th> 1.17 Gbp </th></tr>
+  </tfoot>
+  </table>
+mgd1version: assembly_curated
 mito1date: 2019-08-20
 mito1filesize: 5.1 KiB
 mito1length: '18200'

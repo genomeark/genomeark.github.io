@@ -20,7 +20,7 @@ genome_size: 1457000000
 genome_size_display: 1.46 Gbp
 genome_size_method: GoAT
 last_raw_data: 1633550753
-last_updated: 1633551299
+last_updated: 1633550753
 metadata: |
   species:
     name: Todiramphus cinnamominus

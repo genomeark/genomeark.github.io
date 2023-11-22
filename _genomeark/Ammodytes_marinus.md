@@ -61,7 +61,7 @@ genome_size: 613695000
 genome_size_display: 0.61 Gbp
 genome_size_method: GoaT
 last_raw_data: 1682200777
-last_updated: 1682200779
+last_updated: 1682200777
 metadata: |
   species:
     short_name: fAmmMar

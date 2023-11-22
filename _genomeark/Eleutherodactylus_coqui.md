@@ -111,7 +111,7 @@ mds:
     HiC reads needed to have 5 bp trimmed from the 5' end due to adapter left over
     from the Arima library prep kit. This is a phase 1 species. We are submitting
     both haplotypes for dual curation, and this is the ticket for hap1. "
-  ident: md10
+  ident: md9
   title: assembly_vgp_HiC_2.0/aEleCoq1_hap1.yml
 - data: "species: Eleutherodactylus coqui\nspecimen: aEleCoq1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Eleutherodactylus_coqui/aEleCoq1/assembly_vgp_HiC_2.0/aEleCoq1.HiC.hap1.20230815.fasta.gz\nhap2:
@@ -130,7 +130,7 @@ mds:
     HiC reads needed to have 5 bp trimmed from the 5' end due to adapter left over
     from the Arima library prep kit. This is a phase 1 species. We are submitting
     both haplotypes for dual curation, and this is the ticket for hap2. "
-  ident: md11
+  ident: md10
   title: assembly_vgp_HiC_2.0/aEleCoq1_hap2.yml
 mito1date: 2023-08-15
 mito1filesize: 5.3 KiB

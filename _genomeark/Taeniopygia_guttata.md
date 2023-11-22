@@ -352,7 +352,7 @@ mds:
       - purge_dups (1.2.5)
       - solve (3.6.1)
       - salsa (2.2, updated to commit ed76685)
-  ident: md427
+  ident: md429
   title: assembly_vgp_hic_2.0/bTaeGut2_hic.yaml
 - data: |+
     species: Taeniopygia_guttata
@@ -370,7 +370,7 @@ mds:
       - bionano_solve (3.6.1+galaxy2)
       - salsa (2.3+galaxy0)
 
-  ident: md432
+  ident: md434
   title: assembly_vgp_standard_2.0/bTaeGut2.yaml
 - data: |-
     species: Taeniopygia guttata
@@ -389,7 +389,7 @@ mds:
       - purge_dups (1.2.5)
       - solve (3.6.1)
       - salsa (2.2)
-  ident: md433
+  ident: md435
   title: assembly_vgp_trio_2.0/bTaeGut2_trio.yaml
 metadata: |
   species:
@@ -410,6 +410,35 @@ metadata: |
     genome_size: 1035611271
     genome_size_method:
     project: [ vgp ]
+mgd2date: 2022-09-05
+mgd2filesize: 327.9 MiB
+mgd2length: '1166567356'
+mgd2n50ctg: 8218280
+mgd2n50scf: 72811203
+mgd2seq: https://s3.amazonaws.com/genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_curated/bTaeGut2.hap1.W.cur.20220905.fasta.gz
+mgd2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 5 </td><td> 17.84 Mbp </td><td> 0 </td><td> 152.62 Mbp </td></tr><tr><td> 20 </td><td> 11 </td><td> 14.12 Mbp </td><td> 1 </td><td> 115.84 Mbp </td></tr><tr><td> 30 </td><td> 19 </td><td> 11.96 Mbp </td><td> 2 </td><td> 115.09 Mbp </td></tr><tr><td> 40 </td><td> 29 </td><td> 9.69 Mbp </td><td> 3 </td><td> 88.56 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 40 </td><td style="background-color:#88ff88;"> 8.22 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 72.81 Mbp </td></tr><tr><td> 60 </td><td> 55 </td><td> 5.82 Mbp </td><td> 6 </td><td> 61.99 Mbp </td></tr><tr><td> 70 </td><td> 76 </td><td> 4.23 Mbp </td><td> 8 </td><td> 37.49 Mbp </td></tr><tr><td> 80 </td><td> 105 </td><td> 3.05 Mbp </td><td> 11 </td><td> 26.18 Mbp </td></tr><tr><td> 90 </td><td> 146 </td><td> 1.97 Mbp </td><td> 16 </td><td> 18.52 Mbp </td></tr><tr><td> 100 </td><td> 216 </td><td> 1.05 Mbp </td><td> 24 </td><td> 7.91 Mbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.122x </th><th> 1091 </th><th> 1.16 Gbp </th><th> 572 </th><th> 1.17 Gbp </th></tr>
+  </tfoot>
+  </table>
+mgd2version: assembly_curated
 mito1date: 2019-10-03
 mito1filesize: 5.0 KiB
 mito1length: '16855'

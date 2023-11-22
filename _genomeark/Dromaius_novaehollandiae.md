@@ -109,7 +109,7 @@ mds:
     did not bionano data. HiC scaffolding was performed with yahs. The HiC prep was
     Arima kit 2. The HiC reads needed to have 5 bp trimmed from the 5' end due to
     adapter left over from the Arima library prep kit. "
-  ident: md10
+  ident: md9
   title: assembly_vgp_HiC_2.0/bDroNov1_hap1.yml
 - data: "species: Dromaius novehollandiae\nspecimen: bDroNov1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Dromaius_novehollandiae/bDroNov1/assembly_vgp_HiC_2.0/bDroNov1.HiC.hap1.20230719.fasta.gz\nhap2:
@@ -130,7 +130,7 @@ mds:
     did not bionano data. HiC scaffolding was performed with yahs. The HiC prep was
     Arima kit 2. The HiC reads needed to have 5 bp trimmed from the 5' end due to
     adapter left over from the Arima library prep kit. "
-  ident: md11
+  ident: md10
   title: assembly_vgp_HiC_2.0/bDroNov1_hap2.yml
 mito1date: 2023-07-19
 mito1filesize: 5.4 KiB

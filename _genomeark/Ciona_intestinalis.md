@@ -20,7 +20,7 @@ genome_size: 195600000
 genome_size_display: 195.60 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675922581
-last_updated: 1675922583
+last_updated: 1675922581
 metadata: |
   species:
     short_name: kaCioInte

@@ -20,7 +20,7 @@ genome_size: 782400000
 genome_size_display: 0.78 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675911631
-last_updated: 1675911632
+last_updated: 1675911631
 metadata: |
   species:
     short_name: fPagPag

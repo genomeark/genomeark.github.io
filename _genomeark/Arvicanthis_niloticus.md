@@ -115,6 +115,35 @@ metadata: |
     short_name: mArvNil
     taxon_id: 61156
     project: [ vgp ]
+mgd1date: 2020-01-16
+mgd1filesize: 713.3 MiB
+mgd1length: '2496761438'
+mgd1n50ctg: 5952844
+mgd1n50scf: 73423486
+mgd1seq: https://s3.amazonaws.com/genomeark/species/Arvicanthis_niloticus/mArvNil1/assembly_curated/mArvNil1.pat.X.cur.20200116.fasta.gz
+mgd1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 7 </td><td> 38.05 Mbp </td><td> 2 </td><td> 139.27 Mbp </td></tr><tr><td> 20 </td><td> 18 </td><td> 23.56 Mbp </td><td> 4 </td><td> 130.35 Mbp </td></tr><tr><td> 30 </td><td> 38 </td><td> 13.77 Mbp </td><td> 7 </td><td> 91.43 Mbp </td></tr><tr><td> 40 </td><td> 67 </td><td> 9.47 Mbp </td><td> 11 </td><td> 80.94 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 112 </td><td style="background-color:#88ff88;"> 5.95 Mbp </td><td> 16 </td><td style="background-color:#88ff88;"> 73.42 Mbp </td></tr><tr><td> 60 </td><td> 211 </td><td> 1.75 Mbp </td><td> 22 </td><td> 52.02 Mbp </td></tr><tr><td> 70 </td><td> 1193 </td><td> 91.15 Kbp </td><td> 32 </td><td> 6.38 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.728x </th><th> 3219 </th><th> 2.48 Gbp </th><th> 1595 </th><th> 2.50 Gbp </th></tr>
+  </tfoot>
+  </table>
+mgd1version: assembly_curated
 mito1date: 2019-08-20
 mito1filesize: 4.8 KiB
 mito1length: '16269'

@@ -30,7 +30,7 @@ genome_size: 3423000000
 genome_size_display: 3.42 Gbp
 genome_size_method: GoaT
 last_raw_data: 1688547199
-last_updated: 1688547200
+last_updated: 1688547199
 metadata: |
   species:
     short_name: sRajMic

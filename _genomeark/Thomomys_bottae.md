@@ -107,7 +107,7 @@ mds:
     two complete haplotypes. This individual did not have bionano data. HiC scaffolding
     was performed with yahs. The HiC prep was Arima kit 2. I am submitting both hap1
     & hap2 for dual curation. This is the curation ticket for hap1. "
-  ident: md10
+  ident: md9
   title: assembly_vgp_HiC_2.0/mThoBot2_hap1.yml
 - data: "species: Thomomys bottae\nspecimen: mThoBot2\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Thomomys_bottae/mThoBot2/assembly_vgp_HiC_2.0/mThoBot2.HiC.hap1.20230503.fasta.gz\nhap2:
@@ -124,7 +124,7 @@ mds:
     two complete haplotypes. This individual did not have bionano data. HiC scaffolding
     was performed with yahs. The HiC prep was Arima kit 2. I am submitting both hap1
     & hap2 for dual curation. This is the curation ticket for hap2. "
-  ident: md11
+  ident: md10
   title: assembly_vgp_HiC_2.0/mThoBot2_hap2.yml
 mito2date: 2023-05-04
 mito2filesize: 5.4 KiB

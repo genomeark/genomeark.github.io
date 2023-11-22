@@ -143,7 +143,7 @@ mds:
     based on statistics, but I am including both haplotypes here as we are unsure
     about if we should curate hap2 instead in order to address the misjoin in the
     largest scaffold (based on the pretext map). "
-  ident: md9
+  ident: md8
   title: assembly_vgp_HiC_2.0/aHylSar1.yml
 name: Hyla sarda
 name_: Hyla_sarda

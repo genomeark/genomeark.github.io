@@ -20,7 +20,7 @@ genome_size: 1193000000
 genome_size_display: 1.19 Gbp
 genome_size_method: GoAT
 last_raw_data: 1644267951
-last_updated: 1644268147
+last_updated: 1644267951
 metadata: |
   species:
     name: Sitta carolinensis

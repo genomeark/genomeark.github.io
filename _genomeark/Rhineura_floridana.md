@@ -118,7 +118,7 @@ mds:
     two complete haplotypes. This individual had bionano data. HiC scaffolding was
     performed with yahs. The HiC prep was Arima kit 2. We are submitting hap2 for
     curation."
-  ident: md7
+  ident: md6
   title: assembly_vgp_HiC_2.0/rRhiFlo1_hap2.yml
 metadata: |
   species:

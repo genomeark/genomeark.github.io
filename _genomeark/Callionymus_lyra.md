@@ -20,7 +20,7 @@ genome_size: 689490000
 genome_size_display: 0.69 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675890159
-last_updated: 1675890161
+last_updated: 1675890159
 metadata: |
   species:
     short_name: fCalLyr

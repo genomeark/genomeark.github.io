@@ -106,7 +106,7 @@ mds:
     with yahs. The HiC prep was Arima kit 2. There is bionano data available from
     external sequencing in the respective genomeark folder, but it was not used for
     this assembly."
-  ident: md6
+  ident: md5
   title: assembly_vgp_standard_2.0/bPelCri1.yml
 metadata: |
   species:

@@ -104,7 +104,7 @@ mds:
     Becuase the sex chromosomes are split between the two haplotypes, we are including
     the file paths for both haplotypes in this single ticket. This assembly was done
     by Cassidy Johnson."
-  ident: md10
+  ident: md9
   title: assembly_vgp_HiC_2.0/bDixPip1.yaml
 mito1date: 2023-02-13
 mito1filesize: 5.5 KiB

@@ -105,7 +105,7 @@ mds:
     two complete haplotypes. This individual had bionano data. HiC scaffolding was
     performed with yahs. The HiC prep was Arima kit 2. The kmer spectra indicates
     a homogametic specimen. We are submitting hap2 for curation.\n"
-  ident: md7
+  ident: md6
   title: assembly_vgp_HiC_2.0/fSalBra1_hap2.yml
 mito1date: 2023-02-10
 mito1filesize: 5.7 KiB

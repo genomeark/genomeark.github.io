@@ -30,7 +30,7 @@ genome_size: 2445000000
 genome_size_display: 2.45 Gbp
 genome_size_method: GoaT
 last_raw_data: 1689690803
-last_updated: 1689690805
+last_updated: 1689690803
 metadata: |
   species:
     short_name: mTalEur

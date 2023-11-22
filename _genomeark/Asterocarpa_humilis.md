@@ -20,7 +20,7 @@ genome_size: 723720000
 genome_size_display: 0.72 Gbp
 genome_size_method: GoaT
 last_raw_data: 1676887294
-last_updated: 1676887296
+last_updated: 1676887294
 metadata: |
   species:
     short_name: kaAstHumi

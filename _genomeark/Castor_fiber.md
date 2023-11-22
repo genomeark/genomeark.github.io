@@ -20,7 +20,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1639864056
-last_updated: 1639870138
+last_updated: 1639864056
 metadata: |
   species:
     short_name: mCasFib

@@ -20,7 +20,7 @@ genome_size: 738390000
 genome_size_display: 0.74 Gbp
 genome_size_method: GoaT
 last_raw_data: 1686685503
-last_updated: 1686685505
+last_updated: 1686685503
 metadata: |
   species:
     short_name: fPhrNor

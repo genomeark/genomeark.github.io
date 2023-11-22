@@ -32,7 +32,7 @@ genome_size: 8958480000
 genome_size_display: 8.96 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691529665
-last_updated: 1691529667
+last_updated: 1691529665
 metadata: |
   species:
     short_name: aBomVar

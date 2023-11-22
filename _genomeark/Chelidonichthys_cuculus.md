@@ -30,7 +30,7 @@ genome_size: 836190000
 genome_size_display: 0.84 Gbp
 genome_size_method: GoaT
 last_raw_data: 1686684827
-last_updated: 1686684828
+last_updated: 1686684827
 metadata: |
   species:
     short_name: fCheCuc

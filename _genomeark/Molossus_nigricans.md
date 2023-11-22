@@ -82,7 +82,7 @@ mds:
     \n  - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
     assembly of mMolNig1, resulting in two complete haplotypes. HiC scaffolding was
     performed with YaHS.  The HiC prep kit used was TruSeq. \n\n"
-  ident: md4
+  ident: md3
   title: assembly_vgp_HiC_2.0/mMolNig1_hap1.yml
 - data: "species: Molossus nigricans\nspecimen: mMolNig1\nprojects: \n  - vgp\nassembled_by_group:
     Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1:
@@ -97,7 +97,7 @@ mds:
     \n  - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
     assembly of mMolNig1, resulting in two complete haplotypes. HiC scaffolding was
     performed with YaHS.  The HiC prep kit used was TruSeq. \n\n"
-  ident: md5
+  ident: md4
   title: assembly_vgp_HiC_2.0/mMolNig1_hap2.yml
 mito1date: 2023-09-13
 mito1filesize: 5.3 KiB

@@ -93,7 +93,7 @@ hpb4sizes: |
   </table>
 hpb4version: assembly_curated
 last_raw_data: 1687891617
-last_updated: 1687891929
+last_updated: 1687891617
 mds:
 - data: "species: Stegostoma fasciatum\nspecimen: sSteFas4\nprojects: \n  - vgp\nhaplotype_to_curate:
     hap1\nhap1: s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/assembly_vgp_HiC_2.0/sSteFas4.HiC.hap1.20221121.fasta.gz\nhap2:
