@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-11-20
+alt1date: 2023-11-22
 alt1filesize: 875.7 MiB
-alt1length: '3360731992'
+alt1length: '3360731991'
 alt1n50ctg: '148884735'
 alt1n50scf: '151425642'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.alt.cur.20231120.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.alt.cur.20231122.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -120,12 +120,12 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-dip1date: 2023-11-20
+dip1date: 2023-11-22
 dip1filesize: 1.8 GiB
-dip1length: '6906566216'
+dip1length: '6906566215'
 dip1n50ctg: 188221671
 dip1n50scf: 193752162
-dip1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.dip.cur.20231120.fasta.gz
+dip1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.dip.cur.20231122.fasta.gz
 dip1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -153,13 +153,13 @@ genome_size: 3491460000
 genome_size_display: 3.49 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
 last_raw_data: 1698868487
-last_updated: 1700603160
-mat1date: 2023-11-20
+last_updated: 1700707590
+mat1date: 2023-11-22
 mat1filesize: 0.9 GiB
 mat1length: '3554709948'
 mat1n50ctg: 151425642
 mat1n50scf: 151562521
-mat1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.mat.cur.20231120.fasta.gz
+mat1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.mat.cur.20231122.fasta.gz
 mat1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -302,12 +302,12 @@ mito1sizes: |
 mito1version: assembly_curated
 name: Gorilla gorilla
 name_: Gorilla_gorilla
-pat1date: 2023-10-31
+pat1date: 2023-11-22
 pat1filesize: 879.9 MiB
-pat1length: '3351856268'
+pat1length: '3351856267'
 pat1n50ctg: 147876701
 pat1n50scf: 147876701
-pat1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.pat.cur.20231031.fasta.gz
+pat1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.pat.cur.20231122.fasta.gz
 pat1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -331,12 +331,12 @@ pat1sizes: |
   </tfoot>
   </table>
 pat1version: assembly_curated
-pri1date: 2023-10-31
+pri1date: 2023-11-22
 pri1filesize: 0.9 GiB
 pri1length: '3545834224'
 pri1n50ctg: 150804130
 pri1n50scf: 150804130
-pri1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.pri.cur.20231031.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.pri.cur.20231122.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>

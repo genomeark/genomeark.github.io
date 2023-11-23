@@ -21,6 +21,16 @@ data_pacbiohifi_bam-1_scale: 0.2612
 data_pacbiohifi_bam_bases: 125.02 Gbp
 data_pacbiohifi_bam_bytes: 445.8 GiB
 data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_fqgz-1_bases: 29.89 Gbp
+data_pacbiohifi_fqgz-1_bytes: 106.6 GiB
+data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinopoma_cystops/mRhiCys1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinopoma_cystops/mRhiCys1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 0.2611
+data_pacbiohifi_fqgz_bases: 29.89 Gbp
+data_pacbiohifi_fqgz_bytes: 106.6 GiB
+data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -29,8 +39,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1700593051
-last_updated: 1700593051
+last_raw_data: 1700708401
+last_updated: 1700708401
 name: Rhinopoma cystops
 name_: Rhinopoma_cystops
 project: ~

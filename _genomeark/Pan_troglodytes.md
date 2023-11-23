@@ -1,10 +1,10 @@
 ---
-alt3date: 2023-10-31
-alt3filesize: 832.8 MiB
-alt3length: '2998472176'
+alt3date: 2023-11-22
+alt3filesize: 832.7 MiB
+alt3length: '2998472174'
 alt3n50ctg: '136439545'
 alt3n50scf: '136439545'
-alt3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.alt.cur.20231031.fasta.gz
+alt3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.alt.cur.20231122.fasta.gz
 alt3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -127,12 +127,12 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-dip3date: 2023-10-31
+dip3date: 2023-11-22
 dip3filesize: 1.7 GiB
-dip3length: '6176211940'
+dip3length: '6176211936'
 dip3n50ctg: 178964043
 dip3n50scf: 178964043
-dip3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.dip.cur.20231031.fasta.gz
+dip3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.dip.cur.20231122.fasta.gz
 dip3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -159,12 +159,12 @@ dip3version: assembly_curated
 genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-hpa3date: 2023-10-31
+hpa3date: 2023-11-22
 hpa3filesize: 876.0 MiB
-hpa3length: '3141292470'
+hpa3length: '3141292468'
 hpa3n50ctg: 140160335
 hpa3n50scf: 140160335
-hpa3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.hap1.cur.20231031.fasta.gz
+hpa3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.hap1.cur.20231122.fasta.gz
 hpa3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -188,12 +188,12 @@ hpa3sizes: |
   </tfoot>
   </table>
 hpa3version: assembly_curated
-hpb3date: 2023-10-31
+hpb3date: 2023-11-22
 hpb3filesize: 842.1 MiB
-hpb3length: '3034919470'
+hpb3length: '3034919468'
 hpb3n50ctg: 136439545
 hpb3n50scf: 136439545
-hpb3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.hap2.cur.20231031.fasta.gz
+hpb3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.hap2.cur.20231122.fasta.gz
 hpb3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -218,7 +218,7 @@ hpb3sizes: |
   </table>
 hpb3version: assembly_curated
 last_raw_data: 1698873672
-last_updated: 1699469036
+last_updated: 1700707684
 metadata: |
   species:
     short_name: mPanTro
@@ -346,12 +346,12 @@ mito3sizes: |
 mito3version: assembly_curated
 name: Pan troglodytes
 name_: Pan_troglodytes
-pri3date: 2023-10-31
+pri3date: 2023-11-22
 pri3filesize: 885.3 MiB
-pri3length: '3177739764'
+pri3length: '3177739762'
 pri3n50ctg: 140160335
 pri3n50scf: 140160335
-pri3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.pri.cur.20231031.fasta.gz
+pri3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.pri.cur.20231122.fasta.gz
 pri3sizes: |
   <table class="sequence-sizes-table">
   <thead>

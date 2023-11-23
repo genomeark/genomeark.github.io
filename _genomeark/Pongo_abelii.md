@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-11-20
+alt1date: 2023-11-22
 alt1filesize: 843.4 MiB
-alt1length: '3018150228'
+alt1length: '3018150222'
 alt1n50ctg: '129472652'
 alt1n50scf: '132232842'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_curated/mPonAbe1.alt.cur.20231120.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_curated/mPonAbe1.alt.cur.20231122.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -96,12 +96,12 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-dip1date: 2023-11-20
+dip1date: 2023-11-22
 dip1filesize: 1.7 GiB
-dip1length: '6259953402'
+dip1length: '6260850239'
 dip1n50ctg: 172605363
 dip1n50scf: 172605363
-dip1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_curated/mPonAbe1.dip.cur.20231120.fasta.gz
+dip1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_curated/mPonAbe1.dip.cur.20231122.fasta.gz
 dip1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -121,19 +121,19 @@ dip1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 2 </td><td> 233.65 Mbp </td><td> 2 </td><td> 233.80 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 212.22 Mbp </td><td> 4 </td><td> 212.22 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 209.61 Mbp </td><td> 5 </td><td> 209.61 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 190.38 Mbp </td><td> 7 </td><td> 190.38 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 172.61 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 172.61 Mbp </td></tr><tr><td> 60 </td><td> 11 </td><td> 165.38 Mbp </td><td> 11 </td><td> 165.38 Mbp </td></tr><tr><td> 70 </td><td> 13 </td><td> 161.63 Mbp </td><td> 13 </td><td> 161.63 Mbp </td></tr><tr><td> 80 </td><td> 16 </td><td> 146.20 Mbp </td><td> 16 </td><td> 146.20 Mbp </td></tr><tr><td> 90 </td><td> 18 </td><td> 140.85 Mbp </td><td> 18 </td><td> 140.85 Mbp </td></tr><tr><td> 100 </td><td> 21 </td><td> 132.28 Mbp </td><td> 21 </td><td> 137.95 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.745x </th><th> 99 </th><th> 6.25 Gbp </th><th> 79 </th><th> 6.26 Gbp </th></tr>
+  <tr><th> 1.745x </th><th> 98 </th><th> 6.25 Gbp </th><th> 77 </th><th> 6.26 Gbp </th></tr>
   </tfoot>
   </table>
 dip1version: assembly_curated
 genome_size: 3579480000
 genome_size_display: 3.58 Gbp
 genome_size_method: GoaT ancestral inferred
-hpa1date: 2023-11-20
+hpa1date: 2023-11-22
 hpa1filesize: 888.9 MiB
-hpa1length: '3173975848'
+hpa1length: '3174872691'
 hpa1n50ctg: 138471021
 hpa1n50scf: 138471021
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_curated/mPonAbe1.hap1.cur.20231120.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_curated/mPonAbe1.hap1.cur.20231122.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -153,16 +153,16 @@ hpa1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 2 </td><td> 212.92 Mbp </td><td> 2 </td><td> 212.92 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 190.38 Mbp </td><td> 4 </td><td> 190.38 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 162.59 Mbp </td><td> 6 </td><td> 162.59 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 156.97 Mbp </td><td> 8 </td><td> 156.97 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 138.47 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 138.47 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 129.81 Mbp </td><td> 13 </td><td> 132.28 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 103.43 Mbp </td><td> 16 </td><td> 105.33 Mbp </td></tr><tr><td> 80 </td><td> 20 </td><td> 84.05 Mbp </td><td> 20 </td><td> 89.55 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.885x </th><th> 38 </th><th> 3.17 Gbp </th><th> 30 </th><th> 3.17 Gbp </th></tr>
+  <tr><th> 0.885x </th><th> 37 </th><th> 3.17 Gbp </th><th> 28 </th><th> 3.17 Gbp </th></tr>
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2023-11-20
-hpb1filesize: 859.4 MiB
-hpb1length: '3085977554'
+hpb1date: 2023-11-22
+hpb1filesize: 859.5 MiB
+hpb1length: '3085977548'
 hpb1n50ctg: 129472652
 hpb1n50scf: 132232842
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_curated/mPonAbe1.hap2.cur.20231120.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_curated/mPonAbe1.hap2.cur.20231122.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -187,7 +187,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1698878823
-last_updated: 1700535800
+last_updated: 1700708320
 metadata: |
   species:
     short_name: mPonAbe
@@ -269,12 +269,12 @@ mito1sizes: |
 mito1version: assembly_curated
 name: Pongo abelii
 name_: Pongo_abelii
-pri1date: 2023-11-20
+pri1date: 2023-11-22
 pri1filesize: 0.9 GiB
-pri1length: '3241803174'
+pri1length: '3242700017'
 pri1n50ctg: 138471021
 pri1n50scf: 138471021
-pri1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_curated/mPonAbe1.pri.cur.20231120.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_curated/mPonAbe1.pri.cur.20231122.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -294,7 +294,7 @@ pri1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 2 </td><td> 212.92 Mbp </td><td> 2 </td><td> 212.92 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 190.38 Mbp </td><td> 4 </td><td> 190.38 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 162.59 Mbp </td><td> 6 </td><td> 162.59 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 156.97 Mbp </td><td> 8 </td><td> 156.97 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 138.47 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 138.47 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 129.81 Mbp </td><td> 13 </td><td> 132.28 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 103.43 Mbp </td><td> 16 </td><td> 105.33 Mbp </td></tr><tr><td> 80 </td><td> 20 </td><td> 84.05 Mbp </td><td> 20 </td><td> 89.55 Mbp </td></tr><tr><td> 90 </td><td> 27 </td><td> 3.75 Mbp </td><td> 25 </td><td> 57.14 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.904x </th><th> 39 </th><th> 3.24 Gbp </th><th> 31 </th><th> 3.24 Gbp </th></tr>
+  <tr><th> 0.904x </th><th> 38 </th><th> 3.24 Gbp </th><th> 29 </th><th> 3.24 Gbp </th></tr>
   </tfoot>
   </table>
 pri1version: assembly_curated

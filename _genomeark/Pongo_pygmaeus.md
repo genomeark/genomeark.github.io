@@ -1,10 +1,10 @@
 ---
-alt2date: 2023-11-20
+alt2date: 2023-11-22
 alt2filesize: 845.4 MiB
-alt2length: '3007136166'
+alt2length: '3007136161'
 alt2n50ctg: '135214280'
-alt2n50scf: '137696484'
-alt2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_curated/mPonPyg2.alt.cur.20231120.fasta.gz
+alt2n50scf: '137696483'
+alt2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_curated/mPonPyg2.alt.cur.20231122.fasta.gz
 alt2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -96,12 +96,12 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-dip2date: 2023-11-20
+dip2date: 2023-11-22
 dip2filesize: 1.7 GiB
-dip2length: '6228071335'
+dip2length: '6228071324'
 dip2n50ctg: 172531923
 dip2n50scf: 172531923
-dip2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_curated/mPonPyg2.dip.cur.20231120.fasta.gz
+dip2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_curated/mPonPyg2.dip.cur.20231122.fasta.gz
 dip2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -128,12 +128,12 @@ dip2version: assembly_curated
 genome_size: 3579480000
 genome_size_display: 3.58 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-hpa2date: 2023-10-31
-hpa2filesize: 891.8 MiB
-hpa2length: '3171515771'
+hpa2date: 2023-11-22
+hpa2filesize: 891.9 MiB
+hpa2length: '3171515765'
 hpa2n50ctg: 137033130
 hpa2n50scf: 137033130
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_curated/mPonPyg2.hap1.cur.20231031.fasta.gz
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_curated/mPonPyg2.hap1.cur.20231122.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -157,12 +157,12 @@ hpa2sizes: |
   </tfoot>
   </table>
 hpa2version: assembly_curated
-hpb2date: 2023-11-20
+hpb2date: 2023-11-22
 hpb2filesize: 858.1 MiB
-hpb2length: '3056555564'
+hpb2length: '3056555559'
 hpb2n50ctg: 135214280
-hpb2n50scf: 137696484
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_curated/mPonPyg2.hap2.cur.20231120.fasta.gz
+hpb2n50scf: 137696483
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_curated/mPonPyg2.hap2.cur.20231122.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -187,7 +187,7 @@ hpb2sizes: |
   </table>
 hpb2version: assembly_curated
 last_raw_data: 1698557990
-last_updated: 1700534519
+last_updated: 1700708813
 metadata: |
   species:
     short_name: mPonPyg
@@ -271,12 +271,12 @@ mito2sizes: |
 mito2version: assembly_curated
 name: Pongo pygmaeus
 name_: Pongo_pygmaeus
-pri2date: 2023-10-31
+pri2date: 2023-11-22
 pri2filesize: 0.9 GiB
-pri2length: '3220935169'
+pri2length: '3220935163'
 pri2n50ctg: 137033130
 pri2n50scf: 137033130
-pri2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_curated/mPonPyg2.pri.cur.20231031.fasta.gz
+pri2seq: https://s3.amazonaws.com/genomeark/species/Pongo_pygmaeus/mPonPyg2/assembly_curated/mPonPyg2.pri.cur.20231122.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">
   <thead>

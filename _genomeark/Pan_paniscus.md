@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-11-20
+alt1date: 2023-11-22
 alt1filesize: 839.4 MiB
-alt1length: '3041877584'
+alt1length: '3041996913'
 alt1n50ctg: '136873591'
 alt1n50scf: '136873591'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.alt.cur.20231120.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.alt.cur.20231122.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -24,7 +24,7 @@ alt1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 2 </td><td> 196.68 Mbp </td><td> 2 </td><td> 196.68 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 188.96 Mbp </td><td> 4 </td><td> 188.96 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 176.62 Mbp </td><td> 6 </td><td> 176.62 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 150.73 Mbp </td><td> 8 </td><td> 150.73 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td> 136.87 Mbp </td><td> 11 </td><td> 136.87 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 115.37 Mbp </td><td> 14 </td><td> 118.00 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 104.93 Mbp </td><td> 17 </td><td> 104.93 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 70.55 Mbp </td><td> 21 </td><td> 70.55 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.841x </th><th> 46 </th><th> 3.04 Gbp </th><th> 41 </th><th> 3.04 Gbp </th></tr>
+  <tr><th> 0.841x </th><th> 46 </th><th> 3.04 Gbp </th><th> 40 </th><th> 3.04 Gbp </th></tr>
   </tfoot>
   </table>
 alt1version: assembly_curated
@@ -103,12 +103,12 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-dip1date: 2023-11-20
+dip1date: 2023-11-22
 dip1filesize: 1.7 GiB
-dip1length: '6286758220'
+dip1length: '6286885621'
 dip1n50ctg: 180450179
 dip1n50scf: 180450179
-dip1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.dip.cur.20231120.fasta.gz
+dip1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.dip.cur.20231122.fasta.gz
 dip1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -128,7 +128,7 @@ dip1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 2 </td><td> 226.40 Mbp </td><td> 2 </td><td> 226.40 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 196.43 Mbp </td><td> 4 </td><td> 196.43 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 191.15 Mbp </td><td> 6 </td><td> 191.15 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 188.96 Mbp </td><td> 8 </td><td> 188.96 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 180.45 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 180.45 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 176.55 Mbp </td><td> 12 </td><td> 176.55 Mbp </td></tr><tr><td> 70 </td><td> 14 </td><td> 160.24 Mbp </td><td> 14 </td><td> 160.24 Mbp </td></tr><tr><td> 80 </td><td> 16 </td><td> 150.73 Mbp </td><td> 16 </td><td> 150.73 Mbp </td></tr><tr><td> 90 </td><td> 18 </td><td> 147.03 Mbp </td><td> 18 </td><td> 147.03 Mbp </td></tr><tr><td> 100 </td><td> 21 </td><td> 139.82 Mbp </td><td> 21 </td><td> 139.82 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.737x </th><th> 83 </th><th> 6.28 Gbp </th><th> 73 </th><th> 6.29 Gbp </th></tr>
+  <tr><th> 1.737x </th><th> 82 </th><th> 6.28 Gbp </th><th> 70 </th><th> 6.29 Gbp </th></tr>
   </tfoot>
   </table>
 dip1version: assembly_curated
@@ -136,13 +136,13 @@ genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT ancestral inferred
 last_raw_data: 1698452288
-last_updated: 1700537703
-mat1date: 2023-11-20
+last_updated: 1700703770
+mat1date: 2023-11-22
 mat1filesize: 886.4 MiB
-mat1length: '3210032408'
+mat1length: '3210032406'
 mat1n50ctg: 141815175
 mat1n50scf: 141815175
-mat1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.mat.cur.20231120.fasta.gz
+mat1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.mat.cur.20231122.fasta.gz
 mat1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -281,12 +281,12 @@ mito1sizes: |
 mito1version: assembly_curated
 name: Pan paniscus
 name_: Pan_paniscus
-pat1date: 2023-11-20
-pat1filesize: 848.8 MiB
-pat1length: '3076725812'
+pat1date: 2023-11-22
+pat1filesize: 848.7 MiB
+pat1length: '3076853215'
 pat1n50ctg: 135750398
 pat1n50scf: 135750398
-pat1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.pat.cur.20231120.fasta.gz
+pat1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.pat.cur.20231122.fasta.gz
 pat1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -306,16 +306,16 @@ pat1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 2 </td><td> 196.68 Mbp </td><td> 2 </td><td> 196.68 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 188.61 Mbp </td><td> 4 </td><td> 188.61 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 176.62 Mbp </td><td> 6 </td><td> 176.62 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 150.73 Mbp </td><td> 8 </td><td> 150.73 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 135.75 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 135.75 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 113.36 Mbp </td><td> 14 </td><td> 116.13 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 100.43 Mbp </td><td> 17 </td><td> 100.43 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 70.72 Mbp </td><td> 21 </td><td> 70.72 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.850x </th><th> 46 </th><th> 3.07 Gbp </th><th> 41 </th><th> 3.08 Gbp </th></tr>
+  <tr><th> 0.850x </th><th> 45 </th><th> 3.07 Gbp </th><th> 38 </th><th> 3.08 Gbp </th></tr>
   </tfoot>
   </table>
 pat1version: assembly_curated
-pri1date: 2023-11-20
+pri1date: 2023-11-22
 pri1filesize: 895.8 MiB
-pri1length: '3244880636'
+pri1length: '3244888708'
 pri1n50ctg: 141815175
 pri1n50scf: 141815175
-pri1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.pri.cur.20231120.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.pri.cur.20231122.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -335,7 +335,7 @@ pri1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 2 </td><td> 196.43 Mbp </td><td> 2 </td><td> 196.43 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 191.15 Mbp </td><td> 4 </td><td> 191.15 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 176.55 Mbp </td><td> 6 </td><td> 176.55 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 160.24 Mbp </td><td> 8 </td><td> 160.24 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 141.82 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 141.82 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 126.55 Mbp </td><td> 13 </td><td> 126.55 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 105.85 Mbp </td><td> 16 </td><td> 108.45 Mbp </td></tr><tr><td> 80 </td><td> 20 </td><td> 91.86 Mbp </td><td> 20 </td><td> 91.86 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.897x </th><th> 37 </th><th> 3.24 Gbp </th><th> 32 </th><th> 3.24 Gbp </th></tr>
+  <tr><th> 0.897x </th><th> 36 </th><th> 3.24 Gbp </th><th> 30 </th><th> 3.24 Gbp </th></tr>
   </tfoot>
   </table>
 pri1version: assembly_curated
