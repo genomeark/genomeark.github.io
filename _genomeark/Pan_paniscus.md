@@ -136,7 +136,7 @@ genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT ancestral inferred
 last_raw_data: 1698452288
-last_updated: 1700703770
+last_updated: 1701106517
 mat1date: 2023-11-22
 mat1filesize: 886.4 MiB
 mat1length: '3210032406'
@@ -250,12 +250,12 @@ metadata: |
     genome_size: 3613710000
     genome_size_method: GoaT ancestral inferred
     project: [ t2t ]
-mito1date: 2023-10-31
+mito1date: 2023-11-22
 mito1filesize: 5.3 KiB
 mito1length: '16569'
 mito1n50ctg: 0
 mito1n50scf: 0
-mito1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.MT.cur.20231031.fasta.gz
+mito1seq: https://s3.amazonaws.com/genomeark/species/Pan_paniscus/mPanPan1/assembly_curated/mPanPan1.MT.cur.20231122.fasta.gz
 mito1sizes: |
   <table class="sequence-sizes-table">
   <thead>

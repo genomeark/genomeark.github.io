@@ -1,10 +1,10 @@
 ---
-alt2date: 2023-07-01
-alt2filesize: 108.0 MiB
-alt2length: '418365284'
-alt2n50ctg: '56057'
-alt2n50scf: '56057'
-alt2seq: https://s3.amazonaws.com/genomeark/species/Osmerus_eperlanus/fOsmEpe2/assembly_cambridge/fOsmEpe2.alt.asm.20230701.fasta.gz
+alt2date: 2023-11-24
+alt2filesize: 117.0 MiB
+alt2length: '420609216'
+alt2n50ctg: '57037'
+alt2n50scf: '57175'
+alt2seq: https://s3.amazonaws.com/genomeark/species/Osmerus_eperlanus/fOsmEpe2/assembly_curated/fOsmEpe2.alt.cur.20231124.fasta.gz
 alt2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 104 </td><td> 350.78 Kbp </td><td> 104 </td><td> 350.78 Kbp </td></tr><tr><td> 20 </td><td> 339 </td><td> 201.61 Kbp </td><td> 339 </td><td> 201.61 Kbp </td></tr><tr><td> 30 </td><td> 718 </td><td> 131.10 Kbp </td><td> 718 </td><td> 131.10 Kbp </td></tr><tr><td> 40 </td><td> 1292 </td><td> 86.29 Kbp </td><td> 1292 </td><td> 86.29 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 2166 </td><td> 56.06 Kbp </td><td> 2166 </td><td> 56.06 Kbp </td></tr><tr><td> 60 </td><td> 3565 </td><td> 33.90 Kbp </td><td> 3565 </td><td> 33.90 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 101 </td><td> 364.95 Kbp </td><td> 101 </td><td> 364.95 Kbp </td></tr><tr><td> 20 </td><td> 333 </td><td> 202.69 Kbp </td><td> 333 </td><td> 202.69 Kbp </td></tr><tr><td> 30 </td><td> 708 </td><td> 133.09 Kbp </td><td> 708 </td><td> 133.09 Kbp </td></tr><tr><td> 40 </td><td> 1275 </td><td> 87.20 Kbp </td><td> 1274 </td><td> 87.24 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 2136 </td><td> 57.04 Kbp </td><td> 2135 </td><td> 57.18 Kbp </td></tr><tr><td> 60 </td><td> 3510 </td><td> 34.56 Kbp </td><td> 3507 </td><td> 34.58 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.690x </th><th> 5987 </th><th> 418.37 Mbp </th><th> 5987 </th><th> 418.37 Mbp </th></tr>
+  <tr><th> 0.694x </th><th> 5998 </th><th> 420.61 Mbp </th><th> 5995 </th><th> 420.61 Mbp </th></tr>
   </tfoot>
   </table>
-alt2version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt2version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: European smelt
 data_arima-2_bases: 178.43 Gbp
 data_arima-2_bytes: 56.2 GiB
@@ -59,7 +59,7 @@ genome_size: 606360000
 genome_size_display: 0.61 Gbp
 genome_size_method: GoaT
 last_raw_data: 1686685784
-last_updated: 1688994620
+last_updated: 1700787671
 metadata: |
   species:
     short_name: fOsmEpe
@@ -108,12 +108,12 @@ mito2sizes: |
 mito2version: assembly_MT_cambridge
 name: Osmerus eperlanus
 name_: Osmerus_eperlanus
-pri2date: 2023-07-01
-pri2filesize: 139.8 MiB
-pri2length: '511067253'
-pri2n50ctg: 280415
-pri2n50scf: 17031346
-pri2seq: https://s3.amazonaws.com/genomeark/species/Osmerus_eperlanus/fOsmEpe2/assembly_cambridge/fOsmEpe2.pri.asm.20230701.fasta.gz
+pri2date: 2023-11-24
+pri2filesize: 139.2 MiB
+pri2length: '508737883'
+pri2n50ctg: 278672
+pri2n50scf: 17073968
+pri2seq: https://s3.amazonaws.com/genomeark/species/Osmerus_eperlanus/fOsmEpe2/assembly_curated/fOsmEpe2.pri.cur.20231124.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ pri2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 15 </td><td> 2.43 Mbp </td><td> 3 </td><td> 23.49 Mbp </td></tr><tr><td> 20 </td><td> 55 </td><td> 1.06 Mbp </td><td> 6 </td><td> 22.02 Mbp </td></tr><tr><td> 30 </td><td> 127 </td><td> 0.67 Mbp </td><td> 8 </td><td> 20.58 Mbp </td></tr><tr><td> 40 </td><td> 240 </td><td> 433.16 Kbp </td><td> 12 </td><td> 18.39 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 416 </td><td style="background-color:#ff8888;"> 280.42 Kbp </td><td> 15 </td><td style="background-color:#88ff88;"> 17.03 Mbp </td></tr><tr><td> 60 </td><td> 695 </td><td> 172.82 Kbp </td><td> 19 </td><td> 14.55 Mbp </td></tr><tr><td> 70 </td><td> 1174 </td><td> 92.10 Kbp </td><td> 23 </td><td> 11.14 Mbp </td></tr><tr><td> 80 </td><td> 2207 </td><td> 36.41 Kbp </td><td> 54 </td><td> 163.68 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 15 </td><td> 2.43 Mbp </td><td> 3 </td><td> 24.23 Mbp </td></tr><tr><td> 20 </td><td> 56 </td><td> 1.03 Mbp </td><td> 5 </td><td> 23.61 Mbp </td></tr><tr><td> 30 </td><td> 128 </td><td> 0.66 Mbp </td><td> 8 </td><td> 20.87 Mbp </td></tr><tr><td> 40 </td><td> 243 </td><td> 423.65 Kbp </td><td> 11 </td><td> 18.66 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 422 </td><td style="background-color:#ff8888;"> 278.67 Kbp </td><td> 15 </td><td style="background-color:#88ff88;"> 17.07 Mbp </td></tr><tr><td> 60 </td><td> 706 </td><td> 169.84 Kbp </td><td> 18 </td><td> 15.39 Mbp </td></tr><tr><td> 70 </td><td> 1194 </td><td> 90.36 Kbp </td><td> 22 </td><td> 13.45 Mbp </td></tr><tr><td> 80 </td><td> 2263 </td><td> 34.69 Kbp </td><td> 28 </td><td> 8.36 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.842x </th><th> 3480 </th><th> 0.51 Gbp </th><th> 1095 </th><th> 0.51 Gbp </th></tr>
+  <tr><th> 0.838x </th><th> 3470 </th><th> 0.51 Gbp </th><th> 1008 </th><th> 0.51 Gbp </th></tr>
   </tfoot>
   </table>
-pri2version: assembly_cambridge
+pri2version: assembly_curated
 project:
 - vgp
 short_name: fOsmEpe

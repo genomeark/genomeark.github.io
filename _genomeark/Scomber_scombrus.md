@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-11-14
-alt1filesize: 193.9 MiB
-alt1length: '730086156'
+alt1date: 2023-11-25
+alt1filesize: 207.7 MiB
+alt1length: '731363837'
 alt1n50ctg: '229310'
-alt1n50scf: '229310'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Scomber_scombrus/fScoSco1/assembly_cambridge/fScoSco1.alt.asm.20231114.fasta.gz
+alt1n50scf: '230803'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Scomber_scombrus/fScoSco1/assembly_curated/fScoSco1.alt.cur.20231125.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 73 </td><td> 0.96 Mbp </td><td> 73 </td><td> 0.96 Mbp </td></tr><tr><td> 20 </td><td> 191 </td><td> 0.68 Mbp </td><td> 191 </td><td> 0.68 Mbp </td></tr><tr><td> 30 </td><td> 355 </td><td> 0.50 Mbp </td><td> 355 </td><td> 0.50 Mbp </td></tr><tr><td> 40 </td><td> 584 </td><td> 343.83 Kbp </td><td> 584 </td><td> 343.83 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 922 </td><td> 229.31 Kbp </td><td> 922 </td><td> 229.31 Kbp </td></tr><tr><td> 60 </td><td> 1475 </td><td> 128.17 Kbp </td><td> 1475 </td><td> 128.17 Kbp </td></tr><tr><td> 70 </td><td> 2597 </td><td> 54.29 Kbp </td><td> 2597 </td><td> 54.29 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 73 </td><td> 0.96 Mbp </td><td> 73 </td><td> 0.96 Mbp </td></tr><tr><td> 20 </td><td> 191 </td><td> 0.68 Mbp </td><td> 191 </td><td> 0.68 Mbp </td></tr><tr><td> 30 </td><td> 355 </td><td> 0.50 Mbp </td><td> 355 </td><td> 0.50 Mbp </td></tr><tr><td> 40 </td><td> 584 </td><td> 343.83 Kbp </td><td> 584 </td><td> 344.23 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 922 </td><td> 229.31 Kbp </td><td> 921 </td><td> 230.80 Kbp </td></tr><tr><td> 60 </td><td> 1474 </td><td> 128.94 Kbp </td><td> 1471 </td><td> 129.79 Kbp </td></tr><tr><td> 70 </td><td> 2588 </td><td> 55.16 Kbp </td><td> 2579 </td><td> 55.37 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.770x </th><th> 4900 </th><th> 0.73 Gbp </th><th> 4900 </th><th> 0.73 Gbp </th></tr>
+  <tr><th> 0.771x </th><th> 4917 </th><th> 0.73 Gbp </th><th> 4905 </th><th> 0.73 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Atlantic mackerel
 data_arima-1_bases: 108.03 Gbp
 data_arima-1_bytes: 33.0 GiB
@@ -59,7 +59,7 @@ genome_size: 948660000
 genome_size_display: 0.95 Gbp
 genome_size_method: GoaT
 last_raw_data: 1699887419
-last_updated: 1699992626
+last_updated: 1700874171
 metadata: |
   species:
     short_name: fScoSco
@@ -108,12 +108,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Scomber scombrus
 name_: Scomber_scombrus
-pri1date: 2023-11-14
-pri1filesize: 216.6 MiB
-pri1length: '447895660'
-pri1n50ctg: 870055
-pri1n50scf: 0
-pri1seq: https://s3.amazonaws.com/genomeark/species/Scomber_scombrus/fScoSco1/assembly_cambridge/fScoSco1.pri.asm.20231114.fasta.gz
+pri1date: 2023-11-25
+pri1filesize: 213.6 MiB
+pri1length: '764157853'
+pri1n50ctg: 999310
+pri1n50scf: 29552344
+pri1seq: https://s3.amazonaws.com/genomeark/species/Scomber_scombrus/fScoSco1/assembly_curated/fScoSco1.pri.cur.20231125.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 20 </td><td> 3.62 Mbp </td><td> 3 </td><td> 35.80 Mbp </td></tr><tr><td> 20 </td><td> 49 </td><td> 2.80 Mbp </td><td> 6 </td><td> 33.76 Mbp </td></tr><tr><td> 30 </td><td> 89 </td><td> 2.07 Mbp </td><td> 9 </td><td> 32.93 Mbp </td></tr><tr><td> 40 </td><td> 146 </td><td> 1.37 Mbp </td><td> 12 </td><td> 30.40 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 233 </td><td style="background-color:#ff8888;"> 0.87 Mbp </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 381 </td><td> 429.61 Kbp </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 852 </td><td> 85.94 Kbp </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 19 </td><td> 3.81 Mbp </td><td> 3 </td><td> 35.80 Mbp </td></tr><tr><td> 20 </td><td> 48 </td><td> 2.87 Mbp </td><td> 6 </td><td> 33.76 Mbp </td></tr><tr><td> 30 </td><td> 86 </td><td> 2.13 Mbp </td><td> 9 </td><td> 33.07 Mbp </td></tr><tr><td> 40 </td><td> 139 </td><td> 1.50 Mbp </td><td> 12 </td><td> 31.10 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 216 </td><td style="background-color:#ff8888;"> 1.00 Mbp </td><td> 15 </td><td style="background-color:#88ff88;"> 29.55 Mbp </td></tr><tr><td> 60 </td><td> 337 </td><td> 0.61 Mbp </td><td> 18 </td><td> 28.78 Mbp </td></tr><tr><td> 70 </td><td> 591 </td><td> 222.72 Kbp </td><td> 21 </td><td> 25.33 Mbp </td></tr><tr><td> 80 </td><td> 1765 </td><td> 23.01 Kbp </td><td> 278 </td><td> 32.86 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.723x </th><th> 1333 </th><th> 0.69 Gbp </th><th> 14 </th><th> 447.90 Mbp </th></tr>
+  <tr><th> 0.805x </th><th> 2155 </th><th> 0.76 Gbp </th><th> 666 </th><th> 0.76 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: fScoSco

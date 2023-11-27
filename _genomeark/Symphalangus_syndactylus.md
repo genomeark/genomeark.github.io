@@ -187,7 +187,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1698640608
-last_updated: 1700702637
+last_updated: 1701107012
 metadata: |
   species:
     short_name: mSymSyn
@@ -216,12 +216,12 @@ metadata: |
     genome_size: 3295860000
     genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
     project: [ t2t ]
-mito1date: 2023-10-31
+mito1date: 2023-11-22
 mito1filesize: 5.3 KiB
-mito1length: '16509'
+mito1length: '16515'
 mito1n50ctg: 0
 mito1n50scf: 0
-mito1seq: https://s3.amazonaws.com/genomeark/species/Symphalangus_syndactylus/mSymSyn1/assembly_curated/mSymSyn1.MT.cur.20231031.fasta.gz
+mito1seq: https://s3.amazonaws.com/genomeark/species/Symphalangus_syndactylus/mSymSyn1/assembly_curated/mSymSyn1.MT.cur.20231122.fasta.gz
 mito1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -241,7 +241,7 @@ mito1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.000x </th><th> 1 </th><th> 16.51 Kbp </th><th> 1 </th><th> 16.51 Kbp </th></tr>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.52 Kbp </th><th> 1 </th><th> 16.52 Kbp </th></tr>
   </tfoot>
   </table>
 mito1version: assembly_curated

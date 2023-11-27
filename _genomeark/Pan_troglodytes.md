@@ -218,7 +218,7 @@ hpb3sizes: |
   </table>
 hpb3version: assembly_curated
 last_raw_data: 1698873672
-last_updated: 1700707684
+last_updated: 1701106831
 metadata: |
   species:
     short_name: mPanTro
@@ -315,12 +315,12 @@ mito1sizes: |
   </tfoot>
   </table>
 mito1version: assembly_MT_rockefeller
-mito3date: 2023-10-31
-mito3filesize: 5.3 KiB
+mito3date: 2023-11-22
+mito3filesize: 5.2 KiB
 mito3length: '16560'
 mito3n50ctg: 0
 mito3n50scf: 0
-mito3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.MT.cur.20231031.fasta.gz
+mito3seq: https://s3.amazonaws.com/genomeark/species/Pan_troglodytes/mPanTro3/assembly_curated/mPanTro3.MT.cur.20231122.fasta.gz
 mito3sizes: |
   <table class="sequence-sizes-table">
   <thead>

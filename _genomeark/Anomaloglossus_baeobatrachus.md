@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1684420637
-last_updated: 1699903082
+last_updated: 1701104045
 mds:
 - data: "species: Anomaloglossus baeobatrachus\nspecimen: aAnoBae1\nprojects: \n  -
     vgp\nassembled_by_group: Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate:
@@ -102,7 +102,7 @@ mds:
     \n  - hifiasm (1.2a.2+galaxy1)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
     assembly of aAnoBae1, resulting in two complete haplotypes. HiC scaffolding was
     performed with YaHS.  The HiC prep kit used was Swift-IDT. \n"
-  ident: md2
+  ident: md4
   title: assembly_vgp_HiC_2.0/aAnoBae1_hap1.yml
 name: Anomaloglossus baeobatrachus
 name_: Anomaloglossus_baeobatrachus

@@ -153,7 +153,7 @@ genome_size: 3491460000
 genome_size_display: 3.49 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
 last_raw_data: 1698868487
-last_updated: 1700707590
+last_updated: 1701103897
 mat1date: 2023-11-22
 mat1filesize: 0.9 GiB
 mat1length: '3554709948'
@@ -271,12 +271,12 @@ metadata: |
     genome_size: 3491460000
     genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
     project: [ t2t ]
-mito1date: 2023-10-31
+mito1date: 2023-11-22
 mito1filesize: 5.2 KiB
-mito1length: '16409'
+mito1length: '16407'
 mito1n50ctg: 0
 mito1n50scf: 0
-mito1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.MT.cur.20231031.fasta.gz
+mito1seq: https://s3.amazonaws.com/genomeark/species/Gorilla_gorilla/mGorGor1/assembly_curated/mGorGor1.MT.cur.20231122.fasta.gz
 mito1sizes: |
   <table class="sequence-sizes-table">
   <thead>

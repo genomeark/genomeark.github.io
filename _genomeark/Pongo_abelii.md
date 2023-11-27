@@ -187,7 +187,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1698878823
-last_updated: 1700708320
+last_updated: 1701106878
 metadata: |
   species:
     short_name: mPonAbe
@@ -238,12 +238,12 @@ metadata: |
     genome_size: 3579480000
     genome_size_method: GoaT ancestral inferred
     project: [ t2t ]
-mito1date: 2023-10-31
-mito1filesize: 5.3 KiB
-mito1length: '16499'
+mito1date: 2023-11-22
+mito1filesize: 5.2 KiB
+mito1length: '16496'
 mito1n50ctg: 0
 mito1n50scf: 0
-mito1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_curated/mPonAbe1.MT.cur.20231031.fasta.gz
+mito1seq: https://s3.amazonaws.com/genomeark/species/Pongo_abelii/mPonAbe1/assembly_curated/mPonAbe1.MT.cur.20231122.fasta.gz
 mito1sizes: |
   <table class="sequence-sizes-table">
   <thead>
