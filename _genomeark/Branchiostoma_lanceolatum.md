@@ -170,7 +170,40 @@ hpb5sizes: |
   </table>
 hpb5version: assembly_curated
 last_raw_data: 1687315206
-last_updated: 1696431370
+last_updated: 1701112048
+mds:
+- data: "species: Branchiostoma lanceolatum\nspecimen: klBraLanc5\nprojects: \n  -
+    vgp\nassembled_by_group: Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate:
+    hap1\nhap1: s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap1.20230620.fasta.gz\nhap2:
+    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap2.20230620.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/klBraLanc5_hap1_s2.pretext\npretext_hap2:
+    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/klBraLanc5_hap2_s2.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/merqury/klBraLanc5_png/\npacbio_read_dir:
+    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/arima/\npipeline:
+    \n  - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
+    assembly of klBraLanc5, resulting in two complete haplotypes. HiC scaffolding
+    was performed with YaHS.  The HiC prep kit used was Arima library prep. The HiC
+    reads needed to have 5 bp trimmed from the 5' end due to adapter left over from
+    the Arima library prep kit. \n"
+  ident: md12
+  title: assembly_vgp_HiC_2.0/klBraLanc5_hap1.yml
+- data: "species: Branchiostoma lanceolatum\nspecimen: klBraLanc5\nprojects: \n  -
+    vgp\nassembled_by_group: Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate:
+    hap2\nhap1: s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap1.20230620.fasta.gz\nhap2:
+    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap2.20230620.fasta.gz\npretext_hap1:
+    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/klBraLanc5_hap1_s2.pretext\npretext_hap2:
+    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/klBraLanc5_hap2_s2.pretext\nkmer_spectra_img:
+    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/merqury/klBraLanc5_png/\npacbio_read_dir:
+    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/pacbio_hifi/\npacbio_read_type:
+    hifi\nhic_read_dir: s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/arima/\npipeline:
+    \n  - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
+    assembly of klBraLanc5, resulting in two complete haplotypes. HiC scaffolding
+    was performed with YaHS.  The HiC prep kit used was Arima library prep. The HiC
+    reads needed to have 5 bp trimmed from the 5' end due to adapter left over from
+    the Arima library prep kit. \n"
+  ident: md13
+  title: assembly_vgp_HiC_2.0/klBraLanc5_hap2.yml
 metadata: |
   species:
     short_name: klBraLanc

@@ -92,7 +92,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1692138145
-last_updated: 1696637372
+last_updated: 1701302775
 mds:
 - data: "species: Eleutherodactylus coqui\nspecimen: aEleCoq1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Eleutherodactylus_coqui/aEleCoq1/assembly_vgp_HiC_2.0/aEleCoq1.HiC.hap1.20230815.fasta.gz\nhap2:

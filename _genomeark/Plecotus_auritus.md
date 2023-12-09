@@ -40,16 +40,16 @@ data_arima-1_scale: 3.1395
 data_arima_bases: 118.18 Gbp
 data_arima_bytes: 35.1 GiB
 data_arima_coverage: 54.19x
-data_pacbiohifi_bam-1_bases: 73.07 Gbp
-data_pacbiohifi_bam-1_bytes: 123.3 GiB
-data_pacbiohifi_bam-1_coverage: 33.51x
+data_pacbiohifi_bam-1_bases: 228.70 Gbp
+data_pacbiohifi_bam-1_bytes: 140.7 GiB
+data_pacbiohifi_bam-1_coverage: 104.86x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Plecotus_auritus/mPleAur1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Plecotus_auritus/mPleAur1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Plecotus_auritus/mPleAur1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.5520
-data_pacbiohifi_bam_bases: 73.07 Gbp
-data_pacbiohifi_bam_bytes: 123.3 GiB
-data_pacbiohifi_bam_coverage: 33.51x
+data_pacbiohifi_bam-1_scale: 1.5139
+data_pacbiohifi_bam_bases: 228.70 Gbp
+data_pacbiohifi_bam_bytes: 140.7 GiB
+data_pacbiohifi_bam_coverage: 104.86x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -58,8 +58,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2180940000
 genome_size_display: 2.18 Gbp
 genome_size_method: GoaT
-last_raw_data: 1691912638
-last_updated: 1694476890
+last_raw_data: 1701345341
+last_updated: 1701345341
 metadata: |
   species:
     short_name: mPleAur

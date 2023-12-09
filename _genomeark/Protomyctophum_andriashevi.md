@@ -1,16 +1,16 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: Andriashev's lanternfish
-data_pacbiohifi_bam-1_bases: 36.21 Gbp
-data_pacbiohifi_bam-1_bytes: 91.3 GiB
-data_pacbiohifi_bam-1_coverage: 18.99x
+data_pacbiohifi_bam-1_bases: 62.73 Gbp
+data_pacbiohifi_bam-1_bytes: 102.0 GiB
+data_pacbiohifi_bam-1_coverage: 32.89x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Protomyctophum_andriashevi/fProAnd1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Protomyctophum_andriashevi/fProAnd1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Protomyctophum_andriashevi/fProAnd1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.3695
-data_pacbiohifi_bam_bases: 36.21 Gbp
-data_pacbiohifi_bam_bytes: 91.3 GiB
-data_pacbiohifi_bam_coverage: 18.99x
+data_pacbiohifi_bam-1_scale: 0.5726
+data_pacbiohifi_bam_bases: 62.73 Gbp
+data_pacbiohifi_bam_bytes: 102.0 GiB
+data_pacbiohifi_bam_coverage: 32.89x
 data_status: <em style="color:forestgreen">PacBio HiFi</em>
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -19,8 +19,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1907100000
 genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
-last_raw_data: 1687784999
-last_updated: 1687784999
+last_raw_data: 1701344961
+last_updated: 1701344961
 metadata: |
   species:
     short_name: fProAnd

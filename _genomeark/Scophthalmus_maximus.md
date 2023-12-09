@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-11-14
-alt1filesize: 145.3 MiB
-alt1length: '539807636'
-alt1n50ctg: '177288'
-alt1n50scf: '177288'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Scophthalmus_maximus/fScoMax1/assembly_cambridge/fScoMax1.alt.asm.20231114.fasta.gz
+alt1date: 2023-12-02
+alt1filesize: 154.9 MiB
+alt1length: '540345941'
+alt1n50ctg: '177686'
+alt1n50scf: '177686'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Scophthalmus_maximus/fScoMax1/assembly_curated/fScoMax1.alt.cur.20231202.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 54 </td><td> 1.14 Mbp </td><td> 54 </td><td> 1.14 Mbp </td></tr><tr><td> 20 </td><td> 147 </td><td> 0.73 Mbp </td><td> 147 </td><td> 0.73 Mbp </td></tr><tr><td> 30 </td><td> 292 </td><td> 475.08 Kbp </td><td> 292 </td><td> 475.08 Kbp </td></tr><tr><td> 40 </td><td> 515 </td><td> 297.03 Kbp </td><td> 515 </td><td> 297.03 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 879 </td><td> 177.29 Kbp </td><td> 879 </td><td> 177.29 Kbp </td></tr><tr><td> 60 </td><td> 1631 </td><td> 63.50 Kbp </td><td> 1631 </td><td> 63.50 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 54 </td><td> 1.14 Mbp </td><td> 54 </td><td> 1.14 Mbp </td></tr><tr><td> 20 </td><td> 147 </td><td> 0.73 Mbp </td><td> 147 </td><td> 0.73 Mbp </td></tr><tr><td> 30 </td><td> 292 </td><td> 475.66 Kbp </td><td> 292 </td><td> 475.66 Kbp </td></tr><tr><td> 40 </td><td> 515 </td><td> 297.12 Kbp </td><td> 515 </td><td> 297.12 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 878 </td><td> 177.69 Kbp </td><td> 878 </td><td> 177.69 Kbp </td></tr><tr><td> 60 </td><td> 1624 </td><td> 64.09 Kbp </td><td> 1624 </td><td> 64.09 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.642x </th><th> 2721 </th><th> 0.54 Gbp </th><th> 2721 </th><th> 0.54 Gbp </th></tr>
+  <tr><th> 0.642x </th><th> 2723 </th><th> 0.54 Gbp </th><th> 2723 </th><th> 0.54 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: turbot
 data_arima-1_bases: 178.30 Gbp
 data_arima-1_bytes: 56.4 GiB
@@ -59,7 +59,7 @@ genome_size: 841080000
 genome_size_display: 0.84 Gbp
 genome_size_method: GoaT
 last_raw_data: 1699887398
-last_updated: 1699992662
+last_updated: 1701478912
 metadata: |
   species:
     short_name: fScoMax
@@ -108,12 +108,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Scophthalmus maximus
 name_: Scophthalmus_maximus
-pri1date: 2023-11-14
-pri1filesize: 159.1 MiB
-pri1length: '550873955'
-pri1n50ctg: 632831
-pri1n50scf: 22588839
-pri1seq: https://s3.amazonaws.com/genomeark/species/Scophthalmus_maximus/fScoMax1/assembly_cambridge/fScoMax1.pri.asm.20231114.fasta.gz
+pri1date: 2023-12-02
+pri1filesize: 156.7 MiB
+pri1length: '550297089'
+pri1n50ctg: 628472
+pri1n50scf: 22629160
+pri1seq: https://s3.amazonaws.com/genomeark/species/Scophthalmus_maximus/fScoMax1/assembly_curated/fScoMax1.pri.cur.20231202.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 19 </td><td> 3.33 Mbp </td><td> 3 </td><td> 31.21 Mbp </td></tr><tr><td> 20 </td><td> 51 </td><td> 2.25 Mbp </td><td> 6 </td><td> 26.74 Mbp </td></tr><tr><td> 30 </td><td> 96 </td><td> 1.64 Mbp </td><td> 9 </td><td> 26.07 Mbp </td></tr><tr><td> 40 </td><td> 161 </td><td> 1.06 Mbp </td><td> 13 </td><td> 25.44 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 262 </td><td style="background-color:#ff8888;"> 0.63 Mbp </td><td> 16 </td><td style="background-color:#88ff88;"> 22.59 Mbp </td></tr><tr><td> 60 </td><td> 453 </td><td> 280.14 Kbp </td><td> 20 </td><td> 20.78 Mbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 19 </td><td> 3.33 Mbp </td><td> 3 </td><td> 31.24 Mbp </td></tr><tr><td> 20 </td><td> 51 </td><td> 2.23 Mbp </td><td> 6 </td><td> 26.79 Mbp </td></tr><tr><td> 30 </td><td> 96 </td><td> 1.64 Mbp </td><td> 9 </td><td> 26.18 Mbp </td></tr><tr><td> 40 </td><td> 162 </td><td> 1.06 Mbp </td><td> 13 </td><td> 25.50 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 263 </td><td style="background-color:#ff8888;"> 0.63 Mbp </td><td> 16 </td><td style="background-color:#88ff88;"> 22.63 Mbp </td></tr><tr><td> 60 </td><td> 454 </td><td> 280.11 Kbp </td><td> 20 </td><td> 20.78 Mbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.655x </th><th> 914 </th><th> 0.55 Gbp </th><th> 129 </th><th> 0.55 Gbp </th></tr>
+  <tr><th> 0.654x </th><th> 913 </th><th> 0.55 Gbp </th><th> 108 </th><th> 0.55 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: fScoMax
