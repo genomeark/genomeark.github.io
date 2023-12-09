@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 210.05 Gbp
 data_arima-1_bytes: 113.3 GiB
@@ -48,7 +48,36 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1682106454
-last_updated: 1692382702
+last_updated: 1702051439
+mat1date: 2023-12-08
+mat1filesize: 658.6 MiB
+mat1length: '2336335064'
+mat1n50ctg: 6050851
+mat1n50scf: 142577404
+mat1seq: https://s3.amazonaws.com/genomeark/species/Xenopus_petersii/aXenPet1/assembly_curated/aXenPet1.mat.decon.20231208.fasta.gz
+mat1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 8 </td><td> 24.35 Mbp </td><td> 1 </td><td> 263.86 Mbp </td></tr><tr><td> 20 </td><td> 19 </td><td> 17.30 Mbp </td><td> 2 </td><td> 215.43 Mbp </td></tr><tr><td> 30 </td><td> 35 </td><td> 13.27 Mbp </td><td> 4 </td><td> 162.85 Mbp </td></tr><tr><td> 40 </td><td> 55 </td><td> 9.73 Mbp </td><td> 5 </td><td> 143.03 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 87 </td><td style="background-color:#88ff88;"> 6.05 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 142.58 Mbp </td></tr><tr><td> 60 </td><td> 131 </td><td> 4.71 Mbp </td><td> 9 </td><td> 108.52 Mbp </td></tr><tr><td> 70 </td><td> 193 </td><td> 3.02 Mbp </td><td> 11 </td><td> 101.71 Mbp </td></tr><tr><td> 80 </td><td> 291 </td><td> 1.88 Mbp </td><td> 14 </td><td> 53.10 Mbp </td></tr><tr><td> 90 </td><td> 476 </td><td> 0.83 Mbp </td><td> 19 </td><td> 34.99 Mbp </td></tr><tr><td> 100 </td><td> 1771 </td><td> 6.51 Kbp </td><td> 883 </td><td> 6.51 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1771 </th><th> 2.34 Gbp </th><th> 883 </th><th> 2.34 Gbp </th></tr>
+  </tfoot>
+  </table>
+mat1version: assembly_curated
 mds:
 - data: "species: Xenopus petersii\nspecimen: aXenPet1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nmaternal: s3://genomeark/species/Xenopus_petersii/aXenPet1/assembly_vgp_HiC_2.0/aXenPet1.trio.mat.20230815.fasta.gz\npretext:
@@ -68,7 +97,7 @@ mds:
     at diploid coverage in the merqury plots. The BUSCO values were troublesome, and
     likely indicate presence of many paralogs. We are submitting both haplotypes for
     trio curation, and this is the ticket for the maternal haplotype."
-  ident: md3
+  ident: md9
   title: assembly_vgp_trio_2.0/aXenPet1_mat.yml
 - data: "species: Xenopus petersii\nspecimen: aXenPet1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\npaternal: s3://genomeark/species/Xenopus_petersii/aXenPet1/assembly_vgp_HiC_2.0/aXenPet1.trio.pat.20230815.fasta.gz\npretext:
@@ -88,7 +117,7 @@ mds:
     at diploid coverage in the merqury plots. The BUSCO values were troublesome, and
     likely indicate presence of many paralogs. We are submitting both haplotypes for
     trio curation, and this is the ticket for the paternal haplotype."
-  ident: md4
+  ident: md10
   title: assembly_vgp_trio_2.0/aXenPet1_pat.yml
 mito1date: 2023-08-15
 mito1filesize: 5.7 KiB
@@ -121,6 +150,35 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Xenopus petersii
 name_: Xenopus_petersii
+pat1date: 2023-12-08
+pat1filesize: 802.5 MiB
+pat1length: '2820999512'
+pat1n50ctg: 12275648
+pat1n50scf: 158127948
+pat1seq: https://s3.amazonaws.com/genomeark/species/Xenopus_petersii/aXenPet1/assembly_curated/aXenPet1.pat.decon.20231208.fasta.gz
+pat1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 8 </td><td> 33.62 Mbp </td><td> 2 </td><td> 208.51 Mbp </td></tr><tr><td> 20 </td><td> 17 </td><td> 27.31 Mbp </td><td> 3 </td><td> 181.58 Mbp </td></tr><tr><td> 30 </td><td> 29 </td><td> 20.28 Mbp </td><td> 5 </td><td> 173.82 Mbp </td></tr><tr><td> 40 </td><td> 45 </td><td> 16.06 Mbp </td><td> 6 </td><td> 166.43 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 65 </td><td style="background-color:#88ff88;"> 12.28 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 158.13 Mbp </td></tr><tr><td> 60 </td><td> 90 </td><td> 10.37 Mbp </td><td> 10 </td><td> 143.89 Mbp </td></tr><tr><td> 70 </td><td> 123 </td><td> 7.24 Mbp </td><td> 12 </td><td> 142.46 Mbp </td></tr><tr><td> 80 </td><td> 171 </td><td> 4.69 Mbp </td><td> 14 </td><td> 137.61 Mbp </td></tr><tr><td> 90 </td><td> 251 </td><td> 2.52 Mbp </td><td> 16 </td><td> 118.77 Mbp </td></tr><tr><td> 100 </td><td> 609 </td><td> 17.67 Kbp </td><td> 58 </td><td> 17.67 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 609 </th><th> 2.82 Gbp </th><th> 58 </th><th> 2.82 Gbp </th></tr>
+  </tfoot>
+  </table>
+pat1version: assembly_curated
 project: ~
 short_name: aXenPet
 taxon_id: ''

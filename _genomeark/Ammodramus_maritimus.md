@@ -1,5 +1,34 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+alt1date: 2023-12-09
+alt1filesize: 370.0 MiB
+alt1length: '1368496753'
+alt1n50ctg: '1136627'
+alt1n50scf: '1136627'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Ammodramus_maritimus/bAmmMai1/assembly_curated/bAmmMai1.alt.cur.20231209.fasta.gz
+alt1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 26 </td><td> 3.60 Mbp </td><td> 26 </td><td> 3.60 Mbp </td></tr><tr><td> 20 </td><td> 70 </td><td> 2.54 Mbp </td><td> 70 </td><td> 2.54 Mbp </td></tr><tr><td> 30 </td><td> 130 </td><td> 1.86 Mbp </td><td> 130 </td><td> 1.86 Mbp </td></tr><tr><td> 40 </td><td> 208 </td><td> 1.50 Mbp </td><td> 208 </td><td> 1.50 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 309 </td><td> 1.14 Mbp </td><td> 309 </td><td> 1.14 Mbp </td></tr><tr><td> 60 </td><td> 440 </td><td> 0.87 Mbp </td><td> 440 </td><td> 0.87 Mbp </td></tr><tr><td> 70 </td><td> 615 </td><td> 0.64 Mbp </td><td> 615 </td><td> 0.64 Mbp </td></tr><tr><td> 80 </td><td> 871 </td><td> 409.21 Kbp </td><td> 871 </td><td> 409.21 Kbp </td></tr><tr><td> 90 </td><td> 1302 </td><td> 213.93 Kbp </td><td> 1302 </td><td> 214.11 Kbp </td></tr><tr><td> 100 </td><td> 2442 </td><td> 59.84 Kbp </td><td> 2440 </td><td> 59.86 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.048x </th><th> 4332 </th><th> 1.37 Gbp </th><th> 4329 </th><th> 1.37 Gbp </th></tr>
+  </tfoot>
+  </table>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: seaside sparrow
 data_arima-1_bases: 141.58 Gbp
 data_arima-1_bytes: 71.1 GiB
@@ -40,7 +69,7 @@ genome_size: 1306000000
 genome_size_display: 1.31 Gbp
 genome_size_method: GoAT
 last_raw_data: 1683389171
-last_updated: 1683913467
+last_updated: 1702083920
 mds:
 - data: "species: Ammodramus maritimus\nspecimen: bAmmMai1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nprimary: s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/assembly_vgp_standard_2.0/bAmmMai1.standard.pri.20230512.fasta.gz\nhaplotigs:
@@ -56,7 +85,7 @@ mds:
     is bAmmMar1). This individual had bionano data. HiC scaffolding was performed
     with yahs. The HiC prep was Arima kit 2. This sample arrived with metadata indicating
     it is a female. "
-  ident: md3
+  ident: md5
   title: assembly_vgp_standard_2.0/bAmmMai1.yml
 metadata: |
   species:
@@ -104,6 +133,35 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Ammodramus maritimus
 name_: Ammodramus_maritimus
+pri1date: 2023-12-09
+pri1filesize: 370.6 MiB
+pri1length: '1397839254'
+pri1n50ctg: 10064439
+pri1n50scf: 67791739
+pri1seq: https://s3.amazonaws.com/genomeark/species/Ammodramus_maritimus/bAmmMai1/assembly_curated/bAmmMai1.pri.cur.20231209.fasta.gz
+pri1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 5 </td><td> 25.06 Mbp </td><td> 1 </td><td> 160.94 Mbp </td></tr><tr><td> 20 </td><td> 11 </td><td> 19.26 Mbp </td><td> 2 </td><td> 118.53 Mbp </td></tr><tr><td> 30 </td><td> 18 </td><td> 16.39 Mbp </td><td> 3 </td><td> 115.88 Mbp </td></tr><tr><td> 40 </td><td> 27 </td><td> 14.31 Mbp </td><td> 5 </td><td> 78.28 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 38 </td><td style="background-color:#88ff88;"> 10.06 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 67.79 Mbp </td></tr><tr><td> 60 </td><td> 54 </td><td> 6.67 Mbp </td><td> 9 </td><td> 43.47 Mbp </td></tr><tr><td> 70 </td><td> 77 </td><td> 4.68 Mbp </td><td> 13 </td><td> 25.16 Mbp </td></tr><tr><td> 80 </td><td> 110 </td><td> 3.06 Mbp </td><td> 19 </td><td> 15.70 Mbp </td></tr><tr><td> 90 </td><td> 167 </td><td> 1.73 Mbp </td><td> 32 </td><td> 7.01 Mbp </td></tr><tr><td> 100 </td><td> 276 </td><td> 0.78 Mbp </td><td> 74 </td><td> 1.43 Mbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.069x </th><th> 865 </th><th> 1.40 Gbp </th><th> 500 </th><th> 1.40 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri1version: assembly_curated
 project:
 - vgp
 short_name: bAmmMai
