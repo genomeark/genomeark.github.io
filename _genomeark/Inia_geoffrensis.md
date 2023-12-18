@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_dovetail-1_bases: 148.27 Gbp
 data_dovetail-1_bytes: 78.8 GiB
@@ -29,8 +29,66 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
+hpa1date: 2023-12-11
+hpa1filesize: 741.9 MiB
+hpa1length: '2749359705'
+hpa1n50ctg: 40892022
+hpa1n50scf: 117431308
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_curated/mIniGeo1.hap1.cur.20231211.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 101.36 Mbp </td><td> 2 </td><td> 188.53 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 91.40 Mbp </td><td> 3 </td><td> 185.96 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 68.54 Mbp </td><td> 5 </td><td> 152.62 Mbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 46.02 Mbp </td><td> 7 </td><td> 134.57 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 40.89 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 117.43 Mbp </td></tr><tr><td> 60 </td><td> 28 </td><td> 31.47 Mbp </td><td> 12 </td><td> 106.87 Mbp </td></tr><tr><td> 70 </td><td> 38 </td><td> 22.21 Mbp </td><td> 14 </td><td> 100.65 Mbp </td></tr><tr><td> 80 </td><td> 53 </td><td> 14.65 Mbp </td><td> 17 </td><td> 88.88 Mbp </td></tr><tr><td> 90 </td><td> 104 </td><td> 1.69 Mbp </td><td> 21 </td><td> 63.99 Mbp </td></tr><tr><td> 100 </td><td> 1187 </td><td> 3.06 Kbp </td><td> 903 </td><td> 3.06 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1187 </th><th> 2.75 Gbp </th><th> 903 </th><th> 2.75 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_curated
+hpb1date: 2023-12-12
+hpb1filesize: 692.0 MiB
+hpb1length: '2540437634'
+hpb1n50ctg: 41942625
+hpb1n50scf: 109672245
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_curated/mIniGeo1.hap2.cur.20231212.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 124.46 Mbp </td><td> 2 </td><td> 187.29 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 96.08 Mbp </td><td> 3 </td><td> 185.87 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 67.77 Mbp </td><td> 5 </td><td> 154.65 Mbp </td></tr><tr><td> 40 </td><td> 13 </td><td> 47.05 Mbp </td><td> 7 </td><td> 120.47 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 19 </td><td style="background-color:#88ff88;"> 41.94 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 109.67 Mbp </td></tr><tr><td> 60 </td><td> 25 </td><td> 35.33 Mbp </td><td> 11 </td><td> 105.89 Mbp </td></tr><tr><td> 70 </td><td> 34 </td><td> 21.04 Mbp </td><td> 14 </td><td> 91.96 Mbp </td></tr><tr><td> 80 </td><td> 48 </td><td> 15.58 Mbp </td><td> 16 </td><td> 88.72 Mbp </td></tr><tr><td> 90 </td><td> 90 </td><td> 1.83 Mbp </td><td> 20 </td><td> 63.78 Mbp </td></tr><tr><td> 100 </td><td> 1040 </td><td> 1.00 Kbp </td><td> 800 </td><td> 1.00 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1040 </th><th> 2.54 Gbp </th><th> 800 </th><th> 2.54 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_curated
 last_raw_data: 1684335988
-last_updated: 1685488741
+last_updated: 1702380366
 mds:
 - data: "species: Inia geoffrensis\nspecimen: mIniGeo1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/HLiniGeo1A.fasta.gz\nhap2:

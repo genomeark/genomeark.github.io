@@ -11,16 +11,16 @@ data_arima-1_scale: 2.9630
 data_arima_bases: 383.02 Gbp
 data_arima_bytes: 120.4 GiB
 data_arima_coverage: 125.93x
-data_pacbiohifi_bam-1_bases: 37.58 Gbp
-data_pacbiohifi_bam-1_bytes: 96.7 GiB
-data_pacbiohifi_bam-1_coverage: 12.35x
+data_pacbiohifi_bam-1_bases: 106.44 Gbp
+data_pacbiohifi_bam-1_bytes: 117.9 GiB
+data_pacbiohifi_bam-1_coverage: 35.00x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Coregonus_lavaretus/fCorLav1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Coregonus_lavaretus/fCorLav1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Coregonus_lavaretus/fCorLav1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.3620
-data_pacbiohifi_bam_bases: 37.58 Gbp
-data_pacbiohifi_bam_bytes: 96.7 GiB
-data_pacbiohifi_bam_coverage: 12.35x
+data_pacbiohifi_bam-1_scale: 0.8411
+data_pacbiohifi_bam_bases: 106.44 Gbp
+data_pacbiohifi_bam_bytes: 117.9 GiB
+data_pacbiohifi_bam_coverage: 35.00x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 3041580000
 genome_size_display: 3.04 Gbp
 genome_size_method: GoaT
-last_raw_data: 1687190238
-last_updated: 1687190238
+last_raw_data: 1702400689
+last_updated: 1702400689
 metadata: |
   species:
     short_name: fCorLav

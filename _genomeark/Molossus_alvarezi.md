@@ -67,7 +67,7 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_vgp_HiC_2.0
-last_updated: 1694641455
+last_updated: 1702676582
 mds:
 - data: "species: Molossus alvarezi\nspecimen: mMolAlv2\nprojects: \n  - vgp\nassembled_by_group:
     Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1:
@@ -82,7 +82,7 @@ mds:
     \n  - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
     assembly of mMolAlv2, resulting in two complete haplotypes. HiC scaffolding was
     performed with YaHS.  The HiC prep kit used was TruSeq. \n\n"
-  ident: md3
+  ident: md5
   title: assembly_vgp_HiC_2.0/mMolAlv2_hap1.yml
 - data: "species: Molossus alvarezi\nspecimen: mMolAlv2\nprojects: \n  - vgp\nassembled_by_group:
     Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1:
@@ -97,7 +97,7 @@ mds:
     \n  - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
     assembly of mMolAlv2, resulting in two complete haplotypes. HiC scaffolding was
     performed with YaHS.  The HiC prep kit used was TruSeq. \n\n"
-  ident: md4
+  ident: md6
   title: assembly_vgp_HiC_2.0/mMolAlv2_hap2.yml
 mito2date: 2023-09-13
 mito2filesize: 5.3 KiB

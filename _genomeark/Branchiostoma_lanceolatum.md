@@ -170,7 +170,7 @@ hpb5sizes: |
   </table>
 hpb5version: assembly_curated
 last_raw_data: 1687315206
-last_updated: 1701112048
+last_updated: 1702664708
 mds:
 - data: "species: Branchiostoma lanceolatum\nspecimen: klBraLanc5\nprojects: \n  -
     vgp\nassembled_by_group: Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate:

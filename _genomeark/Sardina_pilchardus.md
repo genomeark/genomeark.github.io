@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-10-10
-alt1filesize: 207.9 MiB
-alt1length: '816415214'
-alt1n50ctg: '288008'
-alt1n50scf: '288008'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Sardina_pilchardus/fSarPil1/assembly_cambridge/fSarPil1.alt.asm.20231010.fasta.gz
+alt1date: 2023-12-12
+alt1filesize: 253.4 MiB
+alt1length: '935120696'
+alt1n50ctg: '377781'
+alt1n50scf: '32673891'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Sardina_pilchardus/fSarPil1/assembly_curated/fSarPil1.alt.cur.20231212.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 57 </td><td> 1.28 Mbp </td><td> 57 </td><td> 1.28 Mbp </td></tr><tr><td> 20 </td><td> 157 </td><td> 0.79 Mbp </td><td> 157 </td><td> 0.79 Mbp </td></tr><tr><td> 30 </td><td> 303 </td><td> 0.59 Mbp </td><td> 303 </td><td> 0.59 Mbp </td></tr><tr><td> 40 </td><td> 505 </td><td> 419.56 Kbp </td><td> 505 </td><td> 419.56 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 794 </td><td> 288.01 Kbp </td><td> 794 </td><td> 288.01 Kbp </td></tr><tr><td> 60 </td><td> 1216 </td><td> 188.62 Kbp </td><td> 1216 </td><td> 188.62 Kbp </td></tr><tr><td> 70 </td><td> 1954 </td><td> 94.65 Kbp </td><td> 1954 </td><td> 94.65 Kbp </td></tr><tr><td> 80 </td><td> 3933 </td><td> 26.35 Kbp </td><td> 3933 </td><td> 26.35 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 49 </td><td> 1.53 Mbp </td><td> 3 </td><td> 39.72 Mbp </td></tr><tr><td> 20 </td><td> 131 </td><td> 0.98 Mbp </td><td> 5 </td><td> 36.96 Mbp </td></tr><tr><td> 30 </td><td> 253 </td><td> 0.71 Mbp </td><td> 8 </td><td> 34.97 Mbp </td></tr><tr><td> 40 </td><td> 414 </td><td> 0.54 Mbp </td><td> 11 </td><td> 33.71 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 637 </td><td> 377.78 Kbp </td><td> 14 </td><td> 32.67 Mbp </td></tr><tr><td> 60 </td><td> 954 </td><td> 261.07 Kbp </td><td> 17 </td><td> 32.05 Mbp </td></tr><tr><td> 70 </td><td> 1437 </td><td> 158.99 Kbp </td><td> 20 </td><td> 30.95 Mbp </td></tr><tr><td> 80 </td><td> 2400 </td><td> 66.69 Kbp </td><td> 23 </td><td> 28.89 Mbp </td></tr><tr><td> 90 </td><td> 5152 </td><td> 22.51 Kbp </td><td> 1778 </td><td> 22.98 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.818x </th><th> 4867 </th><th> 0.82 Gbp </th><th> 4867 </th><th> 0.82 Gbp </th></tr>
+  <tr><th> 0.937x </th><th> 7438 </th><th> 0.93 Gbp </th><th> 4089 </th><th> 0.94 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: sardine
 data_arima-1_bases: 81.43 Gbp
 data_arima-1_bytes: 25.1 GiB
@@ -59,7 +59,7 @@ genome_size: 997560000
 genome_size_display: 1.00 Gbp
 genome_size_method: GoaT
 last_raw_data: 1696968833
-last_updated: 1696968833
+last_updated: 1702342838
 metadata: |
   species:
     short_name: fSarPil
@@ -108,12 +108,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Sardina pilchardus
 name_: Sardina_pilchardus
-pri1date: 2023-10-10
-pri1filesize: 255.5 MiB
-pri1length: '926830981'
-pri1n50ctg: 1113696
-pri1n50scf: 34567424
-pri1seq: https://s3.amazonaws.com/genomeark/species/Sardina_pilchardus/fSarPil1/assembly_cambridge/fSarPil1.pri.asm.20231010.fasta.gz
+pri1date: 2023-12-12
+pri1filesize: 237.1 MiB
+pri1length: '869414035'
+pri1n50ctg: 905398
+pri1n50scf: 34459529
+pri1seq: https://s3.amazonaws.com/genomeark/species/Sardina_pilchardus/fSarPil1/assembly_curated/fSarPil1.pri.cur.20231212.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 24 </td><td> 3.34 Mbp </td><td> 3 </td><td> 39.86 Mbp </td></tr><tr><td> 20 </td><td> 59 </td><td> 2.37 Mbp </td><td> 5 </td><td> 36.93 Mbp </td></tr><tr><td> 30 </td><td> 108 </td><td> 1.78 Mbp </td><td> 8 </td><td> 35.08 Mbp </td></tr><tr><td> 40 </td><td> 172 </td><td> 1.40 Mbp </td><td> 11 </td><td> 34.78 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 253 </td><td style="background-color:#88ff88;"> 1.11 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 34.57 Mbp </td></tr><tr><td> 60 </td><td> 358 </td><td> 0.81 Mbp </td><td> 17 </td><td> 33.97 Mbp </td></tr><tr><td> 70 </td><td> 501 </td><td> 0.59 Mbp </td><td> 20 </td><td> 32.04 Mbp </td></tr><tr><td> 80 </td><td> 714 </td><td> 361.17 Kbp </td><td> 23 </td><td> 30.20 Mbp </td></tr><tr><td> 90 </td><td> 1175 </td><td> 110.31 Kbp </td><td> 47 </td><td> 0.76 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 25 </td><td> 3.26 Mbp </td><td> 3 </td><td> 40.94 Mbp </td></tr><tr><td> 20 </td><td> 63 </td><td> 2.28 Mbp </td><td> 5 </td><td> 37.04 Mbp </td></tr><tr><td> 30 </td><td> 116 </td><td> 1.61 Mbp </td><td> 8 </td><td> 35.60 Mbp </td></tr><tr><td> 40 </td><td> 188 </td><td> 1.20 Mbp </td><td> 11 </td><td> 34.70 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 283 </td><td style="background-color:#ff8888;"> 0.91 Mbp </td><td> 13 </td><td style="background-color:#88ff88;"> 34.46 Mbp </td></tr><tr><td> 60 </td><td> 414 </td><td> 0.64 Mbp </td><td> 16 </td><td> 33.55 Mbp </td></tr><tr><td> 70 </td><td> 605 </td><td> 411.80 Kbp </td><td> 19 </td><td> 32.36 Mbp </td></tr><tr><td> 80 </td><td> 955 </td><td> 187.51 Kbp </td><td> 23 </td><td> 30.18 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.929x </th><th> 1737 </th><th> 0.93 Gbp </th><th> 308 </th><th> 0.93 Gbp </th></tr>
+  <tr><th> 0.871x </th><th> 1895 </th><th> 0.87 Gbp </th><th> 241 </th><th> 0.87 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: fSarPil

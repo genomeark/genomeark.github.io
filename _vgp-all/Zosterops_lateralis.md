@@ -1,0 +1,1 @@
+../_genomeark/Zosterops_lateralis.md

@@ -38,6 +38,16 @@ data_ont-1_scale: 1.1257
 data_ont_bases: 40.22 Gbp
 data_ont_bytes: 33.3 GiB
 data_ont_coverage: 24.01x
+data_pacbiohifi_clr-2_bases: 450.02 Gbp
+data_pacbiohifi_clr-2_bytes: 783.2 GiB
+data_pacbiohifi_clr-2_coverage: 268.67x
+data_pacbiohifi_clr-2_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_scale: 0.5351
+data_pacbiohifi_clr_bases: 450.02 Gbp
+data_pacbiohifi_clr_bytes: 783.2 GiB
+data_pacbiohifi_clr_coverage: 268.67x
 data_pacbiohifi_fqgz-1_bases: 56.08 Gbp
 data_pacbiohifi_fqgz-1_bytes: 44.7 GiB
 data_pacbiohifi_fqgz-1_coverage: 33.48x
@@ -45,9 +55,16 @@ data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli1/g
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Liasis_olivaceus/rLiaOli1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 1.1692
-data_pacbiohifi_fqgz_bases: 56.08 Gbp
-data_pacbiohifi_fqgz_bytes: 44.7 GiB
-data_pacbiohifi_fqgz_coverage: 33.48x
+data_pacbiohifi_fqgz-2_bases: 83.38 Gbp
+data_pacbiohifi_fqgz-2_bytes: 46.2 GiB
+data_pacbiohifi_fqgz-2_coverage: 49.78x
+data_pacbiohifi_fqgz-2_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-2_scale: 1.6808
+data_pacbiohifi_fqgz_bases: 139.46 Gbp
+data_pacbiohifi_fqgz_bytes: 90.9 GiB
+data_pacbiohifi_fqgz_coverage: 83.26x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
   Simplex</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
@@ -115,8 +132,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1680026288
-last_updated: 1687282488
+last_raw_data: 1702397271
+last_updated: 1702397271
 metadata: |
   species:
     name: Liasis olivaceus
