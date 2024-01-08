@@ -58,12 +58,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2023-07-07
-hpb1filesize: 293.9 MiB
-hpb1length: '1027647427'
+hpb1date: 2024-01-07
+hpb1filesize: 271.5 MiB
+hpb1length: '1027629516'
 hpb1n50ctg: 11116877
 hpb1n50scf: 75989417
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Dixiphia_pipra/bDixPip1/assembly_curated/bDixPip1.hap2.cur.20230707.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Dixiphia_pipra/bDixPip1/assembly_curated/bDixPip1.hap2.cur.20240107.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 30.72 Mbp </td><td> 1 </td><td> 156.44 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 20.33 Mbp </td><td> 2 </td><td> 120.04 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 17.57 Mbp </td><td> 3 </td><td> 117.35 Mbp </td></tr><tr><td> 40 </td><td> 19 </td><td> 14.40 Mbp </td><td> 4 </td><td> 76.19 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 28 </td><td style="background-color:#88ff88;"> 11.12 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 75.99 Mbp </td></tr><tr><td> 60 </td><td> 39 </td><td> 7.20 Mbp </td><td> 7 </td><td> 40.39 Mbp </td></tr><tr><td> 70 </td><td> 56 </td><td> 4.83 Mbp </td><td> 9 </td><td> 31.95 Mbp </td></tr><tr><td> 80 </td><td> 82 </td><td> 3.27 Mbp </td><td> 14 </td><td> 21.07 Mbp </td></tr><tr><td> 90 </td><td> 127 </td><td> 1.38 Mbp </td><td> 20 </td><td> 11.87 Mbp </td></tr><tr><td> 100 </td><td> 902 </td><td> 1.00 Kbp </td><td> 595 </td><td> 1.00 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 30.72 Mbp </td><td> 1 </td><td> 156.44 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 20.33 Mbp </td><td> 2 </td><td> 120.04 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 17.57 Mbp </td><td> 3 </td><td> 117.35 Mbp </td></tr><tr><td> 40 </td><td> 19 </td><td> 14.40 Mbp </td><td> 4 </td><td> 76.19 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 28 </td><td style="background-color:#88ff88;"> 11.12 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 75.99 Mbp </td></tr><tr><td> 60 </td><td> 39 </td><td> 7.20 Mbp </td><td> 7 </td><td> 40.39 Mbp </td></tr><tr><td> 70 </td><td> 56 </td><td> 4.83 Mbp </td><td> 9 </td><td> 31.95 Mbp </td></tr><tr><td> 80 </td><td> 82 </td><td> 3.27 Mbp </td><td> 14 </td><td> 21.07 Mbp </td></tr><tr><td> 90 </td><td> 127 </td><td> 1.38 Mbp </td><td> 20 </td><td> 11.87 Mbp </td></tr><tr><td> 100 </td><td> 901 </td><td> 1.00 Kbp </td><td> 594 </td><td> 1.00 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 902 </th><th> 1.03 Gbp </th><th> 595 </th><th> 1.03 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 901 </th><th> 1.03 Gbp </th><th> 594 </th><th> 1.03 Gbp </th></tr>
   </tfoot>
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1669237603
-last_updated: 1688688172
+last_updated: 1704682386
 mds:
 - data: "species: Dixiphia pipra\nspecimen: bDixPip1\nprojects: \n  - vgp\nhap1: s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/bDixPip1.HiC.hap1.20221214.fasta.gz\nhap2:
     s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/bDixPip1.HiC.hap2.20221214.fasta.gz\npretext_hap1:
@@ -104,7 +104,7 @@ mds:
     Becuase the sex chromosomes are split between the two haplotypes, we are including
     the file paths for both haplotypes in this single ticket. This assembly was done
     by Cassidy Johnson."
-  ident: md9
+  ident: md10
   title: assembly_vgp_HiC_2.0/bDixPip1.yaml
 mito1date: 2023-02-13
 mito1filesize: 5.5 KiB

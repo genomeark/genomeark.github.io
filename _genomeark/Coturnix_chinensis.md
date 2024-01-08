@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1684343908
-last_updated: 1697495147
+last_updated: 1704492186
 mds:
 - data: "species: Coturnix chinensis\nspecimen: bCotChi1\nprojects: \n  - vgp\nassembled_by_group:
     Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1:
@@ -102,7 +102,7 @@ mds:
     \n  - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
     assembly of bCotChi1, resulting in two complete haplotypes. HiC scaffolding was
     performed with YaHS.  The HiC prep kit used was Arima.  \n\n"
-  ident: md4
+  ident: md5
   title: assembly_vgp_HiC_2.0/bCotChi1_hap1.yml
 - data: "species: Coturnix chinensis\nspecimen: bCotChi1\nprojects: \n  - vgp\nassembled_by_group:
     Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1:
@@ -116,8 +116,37 @@ mds:
     \n  - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
     assembly of bCotChi1, resulting in two complete haplotypes. HiC scaffolding was
     performed with YaHS.  The HiC prep kit used was Arima. \n\n"
-  ident: md5
+  ident: md6
   title: assembly_vgp_HiC_2.0/bCotChi1_hap2.yml
+mito1date: 2024-01-05
+mito1filesize: 5.4 KiB
+mito1length: '16692'
+mito1n50ctg: 16692
+mito1n50scf: 16692
+mito1seq: https://s3.amazonaws.com/genomeark/species/Coturnix_chinensis/bCotChi1/assembly_MT_rockefeller/bCotChi1.MT.20240105.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.69 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.69 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.69 Kbp </td><td> 1 </td><td> 16.69 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.69 Kbp </th><th> 1 </th><th> 16.69 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Coturnix chinensis
 name_: Coturnix_chinensis
 project: ~

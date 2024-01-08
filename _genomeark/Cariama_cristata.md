@@ -40,16 +40,16 @@ data_10x-1_scale: 1.9828
 data_10x_bases: 154.31 Gbp
 data_10x_bytes: 72.5 GiB
 data_10x_coverage: 102.87x
-data_arima-1_bases: 244.42 Gbp
-data_arima-1_bytes: 124.2 GiB
-data_arima-1_coverage: 162.95x
+data_arima-1_bases: 122.21 Gbp
+data_arima-1_bytes: 62.1 GiB
+data_arima-1_coverage: 81.47x
 data_arima-1_links: s3://genomeark/species/Cariama_cristata/bCarCri1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cariama_cristata/bCarCri1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cariama_cristata/bCarCri1/genomic_data/arima/
 data_arima-1_scale: 1.8328
-data_arima_bases: 244.42 Gbp
-data_arima_bytes: 124.2 GiB
-data_arima_coverage: 162.95x
+data_arima_bases: 122.21 Gbp
+data_arima_bytes: 62.1 GiB
+data_arima_coverage: 81.47x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 1.3 GiB
 data_bionano-1_coverage: 550.73x

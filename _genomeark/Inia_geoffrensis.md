@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-12-11
-hpa1filesize: 741.9 MiB
-hpa1length: '2749359705'
+hpa1date: 2024-01-07
+hpa1filesize: 671.5 MiB
+hpa1length: '2749345781'
 hpa1n50ctg: 40892022
 hpa1n50scf: 117431308
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_curated/mIniGeo1.hap1.cur.20231211.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_curated/mIniGeo1.hap1.cur.20240107.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,9 +52,9 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 101.36 Mbp </td><td> 2 </td><td> 188.53 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 91.40 Mbp </td><td> 3 </td><td> 185.96 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 68.54 Mbp </td><td> 5 </td><td> 152.62 Mbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 46.02 Mbp </td><td> 7 </td><td> 134.57 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 40.89 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 117.43 Mbp </td></tr><tr><td> 60 </td><td> 28 </td><td> 31.47 Mbp </td><td> 12 </td><td> 106.87 Mbp </td></tr><tr><td> 70 </td><td> 38 </td><td> 22.21 Mbp </td><td> 14 </td><td> 100.65 Mbp </td></tr><tr><td> 80 </td><td> 53 </td><td> 14.65 Mbp </td><td> 17 </td><td> 88.88 Mbp </td></tr><tr><td> 90 </td><td> 104 </td><td> 1.69 Mbp </td><td> 21 </td><td> 63.99 Mbp </td></tr><tr><td> 100 </td><td> 1187 </td><td> 3.06 Kbp </td><td> 903 </td><td> 3.06 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 101.36 Mbp </td><td> 2 </td><td> 188.53 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 91.40 Mbp </td><td> 3 </td><td> 185.96 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 68.54 Mbp </td><td> 5 </td><td> 152.62 Mbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 46.02 Mbp </td><td> 7 </td><td> 134.57 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 40.89 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 117.43 Mbp </td></tr><tr><td> 60 </td><td> 28 </td><td> 31.47 Mbp </td><td> 12 </td><td> 106.87 Mbp </td></tr><tr><td> 70 </td><td> 38 </td><td> 22.21 Mbp </td><td> 14 </td><td> 100.65 Mbp </td></tr><tr><td> 80 </td><td> 53 </td><td> 14.65 Mbp </td><td> 17 </td><td> 88.88 Mbp </td></tr><tr><td> 90 </td><td> 104 </td><td> 1.69 Mbp </td><td> 21 </td><td> 63.99 Mbp </td></tr><tr><td> 100 </td><td> 1186 </td><td> 3.06 Kbp </td><td> 902 </td><td> 3.06 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1187 </th><th> 2.75 Gbp </th><th> 903 </th><th> 2.75 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 1186 </th><th> 2.75 Gbp </th><th> 902 </th><th> 2.75 Gbp </th></tr>
   </tfoot>
   </table>
 hpa1version: assembly_curated
@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1684335988
-last_updated: 1702380366
+last_updated: 1704681663
 mds:
 - data: "species: Inia geoffrensis\nspecimen: mIniGeo1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/HLiniGeo1A.fasta.gz\nhap2:

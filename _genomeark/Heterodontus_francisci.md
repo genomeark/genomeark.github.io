@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1677532285
-last_updated: 1684778619
+last_updated: 1704571239
 mds:
 - data: "species: Heterodontus francisci\nspecimen: sHetFra1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Heterodontus_francisci/sHetFra1/assembly_vgp_HiC_2.0/sHetFra1.HiC.hap1.20230522.fasta.gz\nhap2:
@@ -106,7 +106,7 @@ mds:
     filter. HiC scaffolding was performed with yahs. The HiC prep was Arima kit 2.
     The kmer spectra indicate a homogametic specimen. I am submitting both hap1 &
     hap2 for dual curation. This is the curation ticket for hap1. "
-  ident: md2
+  ident: md3
   title: assembly_vgp_HiC_2.0/sHetFra1_hap1.yml
 - data: "species: Heterodontus francisci\nspecimen: sHetFra1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Heterodontus_francisci/sHetFra1/assembly_vgp_HiC_2.0/sHetFra1.HiC.hap1.20230522.fasta.gz\nhap2:
@@ -124,8 +124,37 @@ mds:
     filter. HiC scaffolding was performed with yahs. The HiC prep was Arima kit 2.
     The kmer spectra indicate a homogametic specimen. I am submitting both hap1 &
     hap2 for dual curation. This is the curation ticket for hap2. "
-  ident: md3
+  ident: md4
   title: assembly_vgp_HiC_2.0/sHetFra1_hap2.yml
+mito1date: 2024-01-06
+mito1filesize: 5.3 KiB
+mito1length: '16714'
+mito1n50ctg: 16714
+mito1n50scf: 16714
+mito1seq: https://s3.amazonaws.com/genomeark/species/Heterodontus_francisci/sHetFra1/assembly_MT_rockefeller/sHetFra1.MT.20240106.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.71 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.71 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.71 Kbp </td><td> 1 </td><td> 16.71 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.71 Kbp </th><th> 1 </th><th> 16.71 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Heterodontus francisci
 name_: Heterodontus_francisci
 project: ~

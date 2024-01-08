@@ -160,7 +160,7 @@ hpb2sizes: |
   </table>
 hpb2version: assembly_curated
 last_raw_data: 1684347101
-last_updated: 1687056117
+last_updated: 1704492958
 mds:
 - data: "species: Haplochromis burtoni\nspecimen: fHapBur1\nprojects: \n  - vgp\nhap1:
     s3://genomeark/species/Haplochromis_burtoni/fHapBur1/assembly_vgp_HiC_2.0/fHapBur1.HiC.hap1.20230617.fasta.gz\nhap2:
@@ -173,7 +173,7 @@ mds:
     This was a hifiasm-HiC assembly of fHapBur1, resulting in two complete haplotypes.
     This individual did have not bionano data. HiC scaffolding was performed with
     yahs. The HiC prep was Arima kit 2."
-  ident: md4
+  ident: md5
   title: assembly_vgp_HiC_2.0/fHapBur1.yml
 - data: "species: Haplochromis burtoni\nspecimen: fHapBur2\nprojects: \n  - vgp\nhap1:
     s3://genomeark/species/Haplochromis_burtoni/fHapBur2/assembly_vgp_HiC_2.0/fHapBur2.HiC.hap1.20230615.fasta.gz\nhap2:
@@ -186,8 +186,37 @@ mds:
     This was a hifiasm-HiC assembly of fHapBur2, resulting in two complete haplotypes.
     This individual did have not bionano data. HiC scaffolding was performed with
     yahs. The HiC prep was Arima kit 2."
-  ident: md14
+  ident: md15
   title: assembly_vgp_HiC_2.0/fHapBur2.yml
+mito1date: 2024-01-05
+mito1filesize: 5.4 KiB
+mito1length: '16964'
+mito1n50ctg: 16964
+mito1n50scf: 16964
+mito1seq: https://s3.amazonaws.com/genomeark/species/Haplochromis_burtoni/fHapBur1/assembly_MT_rockefeller/fHapBur1.MT.20240105.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.96 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.96 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.96 Kbp </td><td> 1 </td><td> 16.96 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.96 Kbp </th><th> 1 </th><th> 16.96 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 mito2date: 2023-06-15
 mito2filesize: 5.4 KiB
 mito2length: '16964'

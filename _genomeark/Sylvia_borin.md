@@ -30,16 +30,16 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: garden warbler
-data_10x-1_bases: 105.80 Gbp
-data_10x-1_bytes: 55.2 GiB
-data_10x-1_coverage: 88.16x
+data_10x-1_bases: 52.90 Gbp
+data_10x-1_bytes: 27.6 GiB
+data_10x-1_coverage: 44.08x
 data_10x-1_links: s3://genomeark/species/Sylvia_borin/bSylBor1/genomic_data/10x/<br>
 data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sylvia_borin/bSylBor1/genomic_data/10x/
 data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_borin/bSylBor1/genomic_data/10x/
 data_10x-1_scale: 1.7850
-data_10x_bases: 105.80 Gbp
-data_10x_bytes: 55.2 GiB
-data_10x_coverage: 88.16x
+data_10x_bases: 52.90 Gbp
+data_10x_bytes: 27.6 GiB
+data_10x_coverage: 44.08x
 data_arima-2_bases: 95.65 Gbp
 data_arima-2_bytes: 57.6 GiB
 data_arima-2_coverage: 79.71x

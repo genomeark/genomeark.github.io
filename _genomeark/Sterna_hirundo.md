@@ -30,16 +30,16 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common tern
-data_10x-1_bases: 240.03 Gbp
-data_10x-1_bytes: 123.4 GiB
-data_10x-1_coverage: 171.45x
+data_10x-1_bases: 120.02 Gbp
+data_10x-1_bytes: 61.7 GiB
+data_10x-1_coverage: 85.73x
 data_10x-1_links: s3://genomeark/species/Sterna_hirundo/bSteHir1/genomic_data/10x/<br>
 data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sterna_hirundo/bSteHir1/genomic_data/10x/
 data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sterna_hirundo/bSteHir1/genomic_data/10x/
 data_10x-1_scale: 1.8123
-data_10x_bases: 240.03 Gbp
-data_10x_bytes: 123.4 GiB
-data_10x_coverage: 171.45x
+data_10x_bases: 120.02 Gbp
+data_10x_bytes: 61.7 GiB
+data_10x_coverage: 85.73x
 data_arima-1_bases: 111.42 Gbp
 data_arima-1_bytes: 57.1 GiB
 data_arima-1_coverage: 79.59x

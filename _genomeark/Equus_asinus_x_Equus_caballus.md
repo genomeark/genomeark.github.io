@@ -87,8 +87,11 @@ metadata: "species:\n  name: Equus asinus x Equus caballus\n  short_name: mEquAc
   \   name: Perissodactyla\n  family:\n    name: Equidae\n  individuals:\n  - \n    short_name:
   mEquAca1\n    biosample_id: null\n    strain: null\n    alt_ids:\n    - 4285\n    sex:
   male\n    description: null\n    provider: Ted Kalbfleisch (University of Kentucky)\n
-  \   mother: mEquCab4\n    father: mEquAsi1\n  genome_size: 2600000000\n  genome_size_method:
-  non-computational, expert estimation\n  project: [ t2t ]\n"
+  \   father:\n    -\n      short_name: mEquAsi1\n      name: Equus asinus\n      common_name:
+  ass (donkey)\n      taxon_id: 9793\n    mother:\n    -\n      short_name: mEquCab4\n
+  \     name: Equus caballas\n      common_name: horse\n      taxon_id: 9796\n  genome_size:
+  2600000000\n  genome_size_method: non-computational, expert estimation\n  project:
+  [ t2t ]\n"
 name: Equus asinus x Equus caballus
 name_: Equus_asinus_x_Equus_caballus
 project:

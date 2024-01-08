@@ -70,6 +70,13 @@ data_illumina-3_scale: 1.8301
 data_illumina_bases: 176.42 Gbp
 data_illumina_bytes: 89.8 GiB
 data_illumina_coverage: 48.82x
+data_ont-1_bases: 327.43 Gbp
+data_ont-1_bytes: 253.7 GiB
+data_ont-1_coverage: 90.61x
+data_ont-1_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/ont/<br>
+data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/ont/
+data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro1/genomic_data/ont/
+data_ont-1_scale: 1.2018
 data_ont-3_bases: 794.25 Gbp
 data_ont-3_bytes: 646.4 GiB
 data_ont-3_coverage: 219.79x
@@ -77,9 +84,9 @@ data_ont-3_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/o
 data_ont-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/ont/
 data_ont-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro3/genomic_data/ont/
 data_ont-3_scale: 1.1444
-data_ont_bases: 794.25 Gbp
-data_ont_bytes: 646.4 GiB
-data_ont_coverage: 219.79x
+data_ont_bases: 1121.68 Gbp
+data_ont_bytes: 0.9 TiB
+data_ont_coverage: 310.39x
 data_pacbio-1_bases: 398.91 Gbp
 data_pacbio-1_bytes: 1.4 TiB
 data_pacbio-1_coverage: 110.39x
@@ -90,6 +97,13 @@ data_pacbio-1_scale: 0.2594
 data_pacbio_bases: 398.91 Gbp
 data_pacbio_bytes: 1.4 TiB
 data_pacbio_coverage: 110.39x
+data_pacbiohifi_bam-1_bases: 424.07 Gbp
+data_pacbiohifi_bam-1_bytes: 0.9 TiB
+data_pacbiohifi_bam-1_coverage: 117.35x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.4314
 data_pacbiohifi_bam-3_bases: 734.38 Gbp
 data_pacbiohifi_bam-3_bytes: 775.5 GiB
 data_pacbiohifi_bam-3_coverage: 203.22x
@@ -97,9 +111,16 @@ data_pacbiohifi_bam-3_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/gen
 data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-3_scale: 0.8819
-data_pacbiohifi_bam_bases: 734.38 Gbp
-data_pacbiohifi_bam_bytes: 775.5 GiB
-data_pacbiohifi_bam_coverage: 203.22x
+data_pacbiohifi_bam_bases: 1158.44 Gbp
+data_pacbiohifi_bam_bytes: 1.7 TiB
+data_pacbiohifi_bam_coverage: 320.57x
+data_pacbiohifi_clr-1_bases: 4884.92 Gbp
+data_pacbiohifi_clr-1_bytes: 8.3 TiB
+data_pacbiohifi_clr-1_coverage: 1351.77x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5331
 data_pacbiohifi_clr-3_bases: 3799.28 Gbp
 data_pacbiohifi_clr-3_bytes: 6.7 TiB
 data_pacbiohifi_clr-3_coverage: 1051.35x
@@ -107,9 +128,16 @@ data_pacbiohifi_clr-3_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/gen
 data_pacbiohifi_clr-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
 data_pacbiohifi_clr-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
 data_pacbiohifi_clr-3_scale: 0.5167
-data_pacbiohifi_clr_bases: 3799.28 Gbp
-data_pacbiohifi_clr_bytes: 6.7 TiB
-data_pacbiohifi_clr_coverage: 1051.35x
+data_pacbiohifi_clr_bases: 8684.20 Gbp
+data_pacbiohifi_clr_bytes: 15.0 TiB
+data_pacbiohifi_clr_coverage: 2403.13x
+data_pacbiohifi_fqgz-1_bases: 229.20 Gbp
+data_pacbiohifi_fqgz-1_bytes: 178.5 GiB
+data_pacbiohifi_fqgz-1_coverage: 63.43x
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.1956
 data_pacbiohifi_fqgz-3_bases: 429.26 Gbp
 data_pacbiohifi_fqgz-3_bytes: 312.6 GiB
 data_pacbiohifi_fqgz-3_coverage: 118.79x
@@ -117,9 +145,19 @@ data_pacbiohifi_fqgz-3_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/ge
 data_pacbiohifi_fqgz-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-3_scale: 1.2788
-data_pacbiohifi_fqgz_bases: 429.26 Gbp
-data_pacbiohifi_fqgz_bytes: 312.6 GiB
-data_pacbiohifi_fqgz_coverage: 118.79x
+data_pacbiohifi_fqgz_bases: 658.46 Gbp
+data_pacbiohifi_fqgz_bytes: 491.2 GiB
+data_pacbiohifi_fqgz_coverage: 182.21x
+data_pacbiohifi_q2fqgz-1_bases: 139.53 Gbp
+data_pacbiohifi_q2fqgz-1_bytes: 95.5 GiB
+data_pacbiohifi_q2fqgz-1_coverage: 38.61x
+data_pacbiohifi_q2fqgz-1_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/pacbiohifi_q2fqgz/<br>
+data_pacbiohifi_q2fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/pacbiohifi_q2fqgz/
+data_pacbiohifi_q2fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro1/genomic_data/pacbiohifi_q2fqgz/
+data_pacbiohifi_q2fqgz-1_scale: 1.3602
+data_pacbiohifi_q2fqgz_bases: 139.53 Gbp
+data_pacbiohifi_q2fqgz_bytes: 95.5 GiB
+data_pacbiohifi_q2fqgz_coverage: 38.61x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
   HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em>
   ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
@@ -217,8 +255,8 @@ hpb3sizes: |
   </tfoot>
   </table>
 hpb3version: assembly_curated
-last_raw_data: 1698873672
-last_updated: 1701106831
+last_raw_data: 1702946292
+last_updated: 1702946292
 metadata: |
   species:
     short_name: mPanTro

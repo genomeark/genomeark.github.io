@@ -40,16 +40,16 @@ data_10x-1_scale: 1.9478
 data_10x_bases: 105.59 Gbp
 data_10x_bytes: 50.5 GiB
 data_10x_coverage: 93.23x
-data_arima-1_bases: 283.78 Gbp
-data_arima-1_bytes: 146.8 GiB
-data_arima-1_coverage: 250.56x
+data_arima-1_bases: 191.47 Gbp
+data_arima-1_bytes: 97.8 GiB
+data_arima-1_coverage: 169.05x
 data_arima-1_links: s3://genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bucorvus_abyssinicus/bBucAby1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bucorvus_abyssinicus/bBucAby1/genomic_data/arima/
-data_arima-1_scale: 1.8009
-data_arima_bases: 283.78 Gbp
-data_arima_bytes: 146.8 GiB
-data_arima_coverage: 250.56x
+data_arima-1_scale: 1.8226
+data_arima_bases: 191.47 Gbp
+data_arima_bytes: 97.8 GiB
+data_arima_coverage: 169.05x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 2.0 GiB
 data_bionano-1_coverage: 1079.16x

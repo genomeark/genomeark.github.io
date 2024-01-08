@@ -1,0 +1,1 @@
+../_genomeark/Ovis_canadensis_x_aries.md

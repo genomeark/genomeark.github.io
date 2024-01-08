@@ -47,9 +47,16 @@ data_pacbiohifi_bam-1_links: s3://genomeark/species/Falco_punctatus/bFalPun1/gen
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_punctatus/bFalPun1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_punctatus/bFalPun1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 0.3442
-data_pacbiohifi_bam_bases: 42.72 Gbp
-data_pacbiohifi_bam_bytes: 115.6 GiB
-data_pacbiohifi_bam_coverage: 30.44x
+data_pacbiohifi_bam-2_bases: 81.80 Gbp
+data_pacbiohifi_bam-2_bytes: 32.3 GiB
+data_pacbiohifi_bam-2_coverage: 58.28x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Falco_punctatus/bFalPun2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_punctatus/bFalPun2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_punctatus/bFalPun2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 2.3607
+data_pacbiohifi_bam_bases: 124.52 Gbp
+data_pacbiohifi_bam_bytes: 147.9 GiB
+data_pacbiohifi_bam_coverage: 88.73x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -58,8 +65,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1403430000
 genome_size_display: 1.40 Gbp
 genome_size_method: GoaT
-last_raw_data: 1678698421
-last_updated: 1691625662
+last_raw_data: 1703330823
+last_updated: 1703330823
 metadata: |
   species:
     short_name: bFalPun

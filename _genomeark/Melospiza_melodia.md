@@ -65,7 +65,7 @@ genome_size: 1399000000
 genome_size_display: 1.40 Gbp
 genome_size_method: GoAT
 last_raw_data: 1678302432
-last_updated: 1692623721
+last_updated: 1704227562
 mds:
 - data: "species: Melospiza melodia\nspecimen: bMelMel2\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nprimary: s3://genomeark/species/Melospiza_melodia/bMelMel2/assembly_vgp_standard_2.0/bMelMel2.standard.pri.20230308.fasta.gz\nhaplotigs:
@@ -130,7 +130,7 @@ mito2version: assembly_MT_rockefeller
 name: Melospiza melodia
 name_: Melospiza_melodia
 pri2date: 2023-08-21
-pri2filesize: 408.1 MiB
+pri2filesize: 407.3 MiB
 pri2length: '1546848304'
 pri2n50ctg: 23122349
 pri2n50scf: 82359851

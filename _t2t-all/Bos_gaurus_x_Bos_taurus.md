@@ -1,0 +1,1 @@
+../_genomeark/Bos_gaurus_x_Bos_taurus.md

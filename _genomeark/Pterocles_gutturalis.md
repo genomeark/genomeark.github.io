@@ -30,26 +30,26 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: yellow-throated sandgrouse
-data_10x-1_bases: 165.59 Gbp
-data_10x-1_bytes: 85.1 GiB
-data_10x-1_coverage: 154.75x
+data_10x-1_bases: 82.79 Gbp
+data_10x-1_bytes: 42.6 GiB
+data_10x-1_coverage: 77.38x
 data_10x-1_links: s3://genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/10x/<br>
 data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/10x/
 data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pterocles_gutturalis/bPteGut1/genomic_data/10x/
 data_10x-1_scale: 1.8114
-data_10x_bases: 165.59 Gbp
-data_10x_bytes: 85.1 GiB
-data_10x_coverage: 154.75x
-data_arima-1_bases: 198.08 Gbp
-data_arima-1_bytes: 103.9 GiB
-data_arima-1_coverage: 185.12x
+data_10x_bases: 82.79 Gbp
+data_10x_bytes: 42.6 GiB
+data_10x_coverage: 77.38x
+data_arima-1_bases: 99.04 Gbp
+data_arima-1_bytes: 52.0 GiB
+data_arima-1_coverage: 92.56x
 data_arima-1_links: s3://genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pterocles_gutturalis/bPteGut1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pterocles_gutturalis/bPteGut1/genomic_data/arima/
 data_arima-1_scale: 1.7749
-data_arima_bases: 198.08 Gbp
-data_arima_bytes: 103.9 GiB
-data_arima_coverage: 185.12x
+data_arima_bases: 99.04 Gbp
+data_arima_bytes: 52.0 GiB
+data_arima_coverage: 92.56x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 286.3 MiB
 data_bionano-1_coverage: 167.74x
