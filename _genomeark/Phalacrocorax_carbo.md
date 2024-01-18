@@ -1,10 +1,10 @@
 ---
-alt2date: 2023-12-02
-alt2filesize: 334.4 MiB
-alt2length: '1166034942'
+alt2date: 2024-01-10
+alt2filesize: 334.6 MiB
+alt2length: '1164897548'
 alt2n50ctg: '1011256'
 alt2n50scf: '1011256'
-alt2seq: https://s3.amazonaws.com/genomeark/species/Phalacrocorax_carbo/bPhaCar2/assembly_cambridge/bPhaCar2.alt.asm.20231202.fasta.gz
+alt2seq: https://s3.amazonaws.com/genomeark/species/Phalacrocorax_carbo/bPhaCar2/assembly_curated/bPhaCar2.alt.cur.20240110.fasta.gz
 alt2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 38 </td><td> 2.85 Mbp </td><td> 38 </td><td> 2.85 Mbp </td></tr><tr><td> 20 </td><td> 95 </td><td> 2.20 Mbp </td><td> 95 </td><td> 2.20 Mbp </td></tr><tr><td> 30 </td><td> 170 </td><td> 1.62 Mbp </td><td> 170 </td><td> 1.62 Mbp </td></tr><tr><td> 40 </td><td> 267 </td><td> 1.30 Mbp </td><td> 267 </td><td> 1.30 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 388 </td><td> 1.01 Mbp </td><td> 388 </td><td> 1.01 Mbp </td></tr><tr><td> 60 </td><td> 552 </td><td> 0.72 Mbp </td><td> 552 </td><td> 0.72 Mbp </td></tr><tr><td> 70 </td><td> 807 </td><td> 421.96 Kbp </td><td> 807 </td><td> 421.96 Kbp </td></tr><tr><td> 80 </td><td> 1444 </td><td> 76.57 Kbp </td><td> 1444 </td><td> 76.57 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 38 </td><td> 2.85 Mbp </td><td> 38 </td><td> 2.85 Mbp </td></tr><tr><td> 20 </td><td> 95 </td><td> 2.20 Mbp </td><td> 95 </td><td> 2.20 Mbp </td></tr><tr><td> 30 </td><td> 170 </td><td> 1.62 Mbp </td><td> 170 </td><td> 1.62 Mbp </td></tr><tr><td> 40 </td><td> 267 </td><td> 1.30 Mbp </td><td> 267 </td><td> 1.30 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 388 </td><td> 1.01 Mbp </td><td> 388 </td><td> 1.01 Mbp </td></tr><tr><td> 60 </td><td> 552 </td><td> 0.72 Mbp </td><td> 552 </td><td> 0.72 Mbp </td></tr><tr><td> 70 </td><td> 807 </td><td> 421.96 Kbp </td><td> 807 </td><td> 421.96 Kbp </td></tr><tr><td> 80 </td><td> 1444 </td><td> 76.54 Kbp </td><td> 1444 </td><td> 76.54 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.834x </th><th> 3155 </th><th> 1.17 Gbp </th><th> 3155 </th><th> 1.17 Gbp </th></tr>
+  <tr><th> 0.833x </th><th> 3116 </th><th> 1.16 Gbp </th><th> 3116 </th><th> 1.16 Gbp </th></tr>
   </tfoot>
   </table>
-alt2version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt2version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: great cormorant
 data_arima-3_bases: 76.69 Gbp
 data_arima-3_bytes: 23.0 GiB
@@ -59,7 +59,7 @@ genome_size: 1398540000
 genome_size_display: 1.40 Gbp
 genome_size_method: GoaT
 last_raw_data: 1701345213
-last_updated: 1701508376
+last_updated: 1704848736
 metadata: |
   species:
     short_name: bPhaCar
@@ -111,12 +111,12 @@ mito2sizes: |
 mito2version: assembly_MT_cambridge
 name: Phalacrocorax carbo
 name_: Phalacrocorax_carbo
-pri2date: 2023-12-02
-pri2filesize: 373.2 MiB
-pri2length: '1285862552'
+pri2date: 2024-01-10
+pri2filesize: 367.5 MiB
+pri2length: '1283643005'
 pri2n50ctg: 4055713
 pri2n50scf: 72237540
-pri2seq: https://s3.amazonaws.com/genomeark/species/Phalacrocorax_carbo/bPhaCar2/assembly_cambridge/bPhaCar2.pri.asm.20231202.fasta.gz
+pri2seq: https://s3.amazonaws.com/genomeark/species/Phalacrocorax_carbo/bPhaCar2/assembly_curated/bPhaCar2.pri.cur.20240110.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -134,12 +134,12 @@ pri2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 10 </td><td> 11.66 Mbp </td><td> 1 </td><td> 218.91 Mbp </td></tr><tr><td> 20 </td><td> 24 </td><td> 9.16 Mbp </td><td> 2 </td><td> 166.98 Mbp </td></tr><tr><td> 30 </td><td> 42 </td><td> 6.61 Mbp </td><td> 3 </td><td> 129.28 Mbp </td></tr><tr><td> 40 </td><td> 67 </td><td> 5.11 Mbp </td><td> 4 </td><td> 85.78 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 97 </td><td style="background-color:#88ff88;"> 4.06 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 72.24 Mbp </td></tr><tr><td> 60 </td><td> 136 </td><td> 3.13 Mbp </td><td> 8 </td><td> 55.33 Mbp </td></tr><tr><td> 70 </td><td> 191 </td><td> 2.20 Mbp </td><td> 11 </td><td> 26.94 Mbp </td></tr><tr><td> 80 </td><td> 271 </td><td> 1.35 Mbp </td><td> 18 </td><td> 13.92 Mbp </td></tr><tr><td> 90 </td><td> 482 </td><td> 222.56 Kbp </td><td> 86 </td><td> 389.97 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 10 </td><td> 11.66 Mbp </td><td> 1 </td><td> 218.91 Mbp </td></tr><tr><td> 20 </td><td> 24 </td><td> 9.16 Mbp </td><td> 2 </td><td> 168.49 Mbp </td></tr><tr><td> 30 </td><td> 42 </td><td> 6.61 Mbp </td><td> 3 </td><td> 129.75 Mbp </td></tr><tr><td> 40 </td><td> 67 </td><td> 5.11 Mbp </td><td> 4 </td><td> 85.78 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 97 </td><td style="background-color:#88ff88;"> 4.06 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 72.24 Mbp </td></tr><tr><td> 60 </td><td> 136 </td><td> 3.13 Mbp </td><td> 8 </td><td> 55.33 Mbp </td></tr><tr><td> 70 </td><td> 191 </td><td> 2.20 Mbp </td><td> 11 </td><td> 26.94 Mbp </td></tr><tr><td> 80 </td><td> 271 </td><td> 1.35 Mbp </td><td> 18 </td><td> 13.92 Mbp </td></tr><tr><td> 90 </td><td> 482 </td><td> 222.56 Kbp </td><td> 64 </td><td> 0.54 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.919x </th><th> 934 </th><th> 1.29 Gbp </th><th> 484 </th><th> 1.29 Gbp </th></tr>
+  <tr><th> 0.918x </th><th> 844 </th><th> 1.28 Gbp </th><th> 351 </th><th> 1.28 Gbp </th></tr>
   </tfoot>
   </table>
-pri2version: assembly_cambridge
+pri2version: assembly_curated
 project:
 - vgp
 short_name: bPhaCar

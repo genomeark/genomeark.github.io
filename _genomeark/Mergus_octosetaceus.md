@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 133.38 Gbp
 data_arima-1_bytes: 70.3 GiB
@@ -30,11 +30,11 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 hpa1date: 2023-05-16
-hpa1filesize: 316.0 MiB
-hpa1length: '1139160956'
-hpa1n50ctg: 11940016
-hpa1n50scf: 78016438
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/bMerOct1.HiC.hap1.20230516.fasta.gz
+hpa1filesize: 345.2 MiB
+hpa1length: '1245774584'
+hpa1n50ctg: 10800487
+hpa1n50scf: 83836255
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_curated/bMerOct1.hap1.cur.20230516.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 29.48 Mbp </td><td> 1 </td><td> 209.26 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 22.93 Mbp </td><td> 2 </td><td> 161.66 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 20.21 Mbp </td><td> 2 </td><td> 161.66 Mbp </td></tr><tr><td> 40 </td><td> 20 </td><td> 15.68 Mbp </td><td> 3 </td><td> 121.88 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 29 </td><td style="background-color:#88ff88;"> 11.94 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 78.02 Mbp </td></tr><tr><td> 60 </td><td> 39 </td><td> 9.68 Mbp </td><td> 7 </td><td> 37.41 Mbp </td></tr><tr><td> 70 </td><td> 53 </td><td> 7.26 Mbp </td><td> 10 </td><td> 28.29 Mbp </td></tr><tr><td> 80 </td><td> 74 </td><td> 3.84 Mbp </td><td> 15 </td><td> 18.78 Mbp </td></tr><tr><td> 90 </td><td> 122 </td><td> 1.23 Mbp </td><td> 25 </td><td> 6.10 Mbp </td></tr><tr><td> 100 </td><td> 791 </td><td> 12.91 Kbp </td><td> 621 </td><td> 12.91 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 5 </td><td> 25.97 Mbp </td><td> 1 </td><td> 216.68 Mbp </td></tr><tr><td> 20 </td><td> 10 </td><td> 21.83 Mbp </td><td> 2 </td><td> 170.47 Mbp </td></tr><tr><td> 30 </td><td> 16 </td><td> 17.21 Mbp </td><td> 2 </td><td> 170.47 Mbp </td></tr><tr><td> 40 </td><td> 24 </td><td> 13.22 Mbp </td><td> 3 </td><td> 125.30 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 34 </td><td style="background-color:#88ff88;"> 10.80 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 83.84 Mbp </td></tr><tr><td> 60 </td><td> 48 </td><td> 8.17 Mbp </td><td> 6 </td><td> 66.85 Mbp </td></tr><tr><td> 70 </td><td> 66 </td><td> 5.63 Mbp </td><td> 10 </td><td> 29.22 Mbp </td></tr><tr><td> 80 </td><td> 97 </td><td> 2.64 Mbp </td><td> 15 </td><td> 21.83 Mbp </td></tr><tr><td> 90 </td><td> 171 </td><td> 0.93 Mbp </td><td> 22 </td><td> 11.94 Mbp </td></tr><tr><td> 100 </td><td> 895 </td><td> 671  bp </td><td> 568 </td><td> 12.91 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 791 </th><th> 1.14 Gbp </th><th> 621 </th><th> 1.14 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 895 </th><th> 1.25 Gbp </th><th> 568 </th><th> 1.25 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
+hpa1version: assembly_curated
 hpb1date: 2023-05-16
-hpb1filesize: 354.7 MiB
-hpb1length: '1321329656'
-hpb1n50ctg: 10041119
+hpb1filesize: 294.7 MiB
+hpb1length: '1213885900'
+hpb1n50ctg: 10490917
 hpb1n50scf: 77730658
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/bMerOct1.HiC.hap2.20230516.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_curated/bMerOct1.hap2.cur.20230516.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 4 </td><td> 30.07 Mbp </td><td> 1 </td><td> 210.30 Mbp </td></tr><tr><td> 20 </td><td> 9 </td><td> 24.26 Mbp </td><td> 2 </td><td> 163.40 Mbp </td></tr><tr><td> 30 </td><td> 16 </td><td> 17.65 Mbp </td><td> 3 </td><td> 123.45 Mbp </td></tr><tr><td> 40 </td><td> 25 </td><td> 13.13 Mbp </td><td> 4 </td><td> 87.08 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 36 </td><td style="background-color:#88ff88;"> 10.04 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 77.73 Mbp </td></tr><tr><td> 60 </td><td> 52 </td><td> 7.53 Mbp </td><td> 8 </td><td> 38.20 Mbp </td></tr><tr><td> 70 </td><td> 72 </td><td> 5.35 Mbp </td><td> 12 </td><td> 28.62 Mbp </td></tr><tr><td> 80 </td><td> 112 </td><td> 2.27 Mbp </td><td> 18 </td><td> 18.94 Mbp </td></tr><tr><td> 90 </td><td> 214 </td><td> 0.72 Mbp </td><td> 53 </td><td> 1.14 Mbp </td></tr><tr><td> 100 </td><td> 1035 </td><td> 17.06 Kbp </td><td> 781 </td><td> 17.06 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 28.23 Mbp </td><td> 1 </td><td> 221.79 Mbp </td></tr><tr><td> 20 </td><td> 9 </td><td> 24.26 Mbp </td><td> 2 </td><td> 178.44 Mbp </td></tr><tr><td> 30 </td><td> 14 </td><td> 19.39 Mbp </td><td> 2 </td><td> 178.44 Mbp </td></tr><tr><td> 40 </td><td> 22 </td><td> 13.45 Mbp </td><td> 3 </td><td> 131.79 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 32 </td><td style="background-color:#88ff88;"> 10.49 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 77.73 Mbp </td></tr><tr><td> 60 </td><td> 45 </td><td> 8.37 Mbp </td><td> 7 </td><td> 38.20 Mbp </td></tr><tr><td> 70 </td><td> 62 </td><td> 6.17 Mbp </td><td> 10 </td><td> 28.62 Mbp </td></tr><tr><td> 80 </td><td> 89 </td><td> 3.20 Mbp </td><td> 16 </td><td> 18.05 Mbp </td></tr><tr><td> 90 </td><td> 171 </td><td> 0.72 Mbp </td><td> 28 </td><td> 3.20 Mbp </td></tr><tr><td> 100 </td><td> 964 </td><td> 1.57 Kbp </td><td> 720 </td><td> 17.06 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1035 </th><th> 1.32 Gbp </th><th> 781 </th><th> 1.32 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 964 </th><th> 1.21 Gbp </th><th> 720 </th><th> 1.21 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1683912442
-last_updated: 1684270610
+last_updated: 1704823601
 mds:
 - data: "species: Mergus octosetaceus\nspecimen: bMerOct1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/bMerOct1.HiC.hap1.20230516.fasta.gz\nhap2:
@@ -106,7 +106,7 @@ mds:
     yahs. The HiC prep was Arima kit 2. The kmer spectra indicate a heterogametic
     specimen, and the sample metadata indicates a female bird. I am submitting both
     hap1 & hap2 for dual curation. This is the curation ticket for hap1. "
-  ident: md3
+  ident: md7
   title: assembly_vgp_HiC_2.0/bMerOct1_hap1.yml
 - data: "species: Mergus octosetaceus\nspecimen: bMerOct1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/bMerOct1.HiC.hap1.20230516.fasta.gz\nhap2:
@@ -124,7 +124,7 @@ mds:
     yahs. The HiC prep was Arima kit 2. The kmer spectra indicate a heterogametic
     specimen, and the sample metadata indicates a female bird. I am submitting both
     hap1 & hap2 for dual curation. This is the curation ticket for hap2. "
-  ident: md4
+  ident: md8
   title: assembly_vgp_HiC_2.0/bMerOct1_hap2.yml
 mito1date: 2023-05-12
 mito1filesize: 5.4 KiB

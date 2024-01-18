@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 122.66 Gbp
 data_arima-1_bytes: 63.0 GiB
@@ -48,7 +48,65 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1697140581
-last_updated: 1703275253
+last_updated: 1704836785
+mat1date: 2023-11-14
+mat1filesize: 325.4 MiB
+mat1length: '1181506259'
+mat1n50ctg: 17433930
+mat1n50scf: 68652091
+mat1seq: https://s3.amazonaws.com/genomeark/species/Columba_livia/bColLiv1/assembly_curated/bColLiv1.mat.cur.20231114.fasta.gz
+mat1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 47.12 Mbp </td><td> 1 </td><td> 212.75 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 34.65 Mbp </td><td> 2 </td><td> 160.37 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 22.43 Mbp </td><td> 2 </td><td> 160.37 Mbp </td></tr><tr><td> 40 </td><td> 15 </td><td> 20.61 Mbp </td><td> 3 </td><td> 121.99 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 22 </td><td style="background-color:#88ff88;"> 17.43 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 68.65 Mbp </td></tr><tr><td> 60 </td><td> 30 </td><td> 12.09 Mbp </td><td> 7 </td><td> 39.94 Mbp </td></tr><tr><td> 70 </td><td> 42 </td><td> 7.10 Mbp </td><td> 11 </td><td> 22.43 Mbp </td></tr><tr><td> 80 </td><td> 62 </td><td> 4.33 Mbp </td><td> 17 </td><td> 14.46 Mbp </td></tr><tr><td> 90 </td><td> 108 </td><td> 1.32 Mbp </td><td> 36 </td><td> 2.79 Mbp </td></tr><tr><td> 100 </td><td> 842 </td><td> 14.45 Kbp </td><td> 650 </td><td> 15.17 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 842 </th><th> 1.18 Gbp </th><th> 650 </th><th> 1.18 Gbp </th></tr>
+  </tfoot>
+  </table>
+mat1version: assembly_curated
+mgd1date: 2023-11-14
+mgd1filesize: 363.1 MiB
+mgd1length: '1325565926'
+mgd1n50ctg: 14042120
+mgd1n50scf: 68980706
+mgd1seq: https://s3.amazonaws.com/genomeark/species/Columba_livia/bColLiv1/assembly_curated/bColLiv1.pat.W.cur.20231114.fasta.gz
+mgd1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 40.52 Mbp </td><td> 1 </td><td> 212.39 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 29.35 Mbp </td><td> 2 </td><td> 163.73 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 21.50 Mbp </td><td> 3 </td><td> 122.09 Mbp </td></tr><tr><td> 40 </td><td> 20 </td><td> 17.18 Mbp </td><td> 4 </td><td> 84.82 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 28 </td><td style="background-color:#88ff88;"> 14.04 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 68.98 Mbp </td></tr><tr><td> 60 </td><td> 40 </td><td> 8.85 Mbp </td><td> 8 </td><td> 41.45 Mbp </td></tr><tr><td> 70 </td><td> 59 </td><td> 5.96 Mbp </td><td> 13 </td><td> 22.35 Mbp </td></tr><tr><td> 80 </td><td> 89 </td><td> 3.22 Mbp </td><td> 20 </td><td> 14.04 Mbp </td></tr><tr><td> 90 </td><td> 173 </td><td> 0.87 Mbp </td><td> 44 </td><td> 1.55 Mbp </td></tr><tr><td> 100 </td><td> 1117 </td><td> 12.90 Kbp </td><td> 869 </td><td> 12.90 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1117 </th><th> 1.33 Gbp </th><th> 869 </th><th> 1.33 Gbp </th></tr>
+  </tfoot>
+  </table>
+mgd1version: assembly_curated
 mito1date: 2023-11-14
 mito1filesize: 5.4 KiB
 mito1length: '17285'

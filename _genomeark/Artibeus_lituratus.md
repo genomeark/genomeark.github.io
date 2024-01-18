@@ -78,7 +78,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1698696210
-last_updated: 1698696210
+last_updated: 1705503027
 name: Artibeus lituratus
 name_: Artibeus_lituratus
 project: ~

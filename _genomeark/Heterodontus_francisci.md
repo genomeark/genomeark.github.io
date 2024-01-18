@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 642.00 Gbp
 data_arima-1_bytes: 301.2 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-05-22
+hpa1date: 2024-01-09
 hpa1filesize: 1.4 GiB
-hpa1length: '6032111740'
-hpa1n50ctg: 3433973
-hpa1n50scf: 75288251
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Heterodontus_francisci/sHetFra1/assembly_vgp_HiC_2.0/sHetFra1.HiC.hap1.20230522.fasta.gz
+hpa1length: '6013048672'
+hpa1n50ctg: 3418954
+hpa1n50scf: 90140832
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Heterodontus_francisci/sHetFra1/assembly_curated/sHetFra1.hap1.cur.20240109.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 47 </td><td> 9.93 Mbp </td><td> 3 </td><td> 203.70 Mbp </td></tr><tr><td> 20 </td><td> 119 </td><td> 7.05 Mbp </td><td> 6 </td><td> 157.07 Mbp </td></tr><tr><td> 30 </td><td> 215 </td><td> 5.63 Mbp </td><td> 11 </td><td> 120.80 Mbp </td></tr><tr><td> 40 </td><td> 338 </td><td> 4.28 Mbp </td><td> 16 </td><td> 101.77 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 495 </td><td style="background-color:#88ff88;"> 3.43 Mbp </td><td> 23 </td><td style="background-color:#88ff88;"> 75.29 Mbp </td></tr><tr><td> 60 </td><td> 698 </td><td> 2.60 Mbp </td><td> 33 </td><td> 47.37 Mbp </td></tr><tr><td> 70 </td><td> 973 </td><td> 1.87 Mbp </td><td> 61 </td><td> 10.29 Mbp </td></tr><tr><td> 80 </td><td> 1363 </td><td> 1.25 Mbp </td><td> 150 </td><td> 4.72 Mbp </td></tr><tr><td> 90 </td><td> 2009 </td><td> 0.68 Mbp </td><td> 354 </td><td> 1.95 Mbp </td></tr><tr><td> 100 </td><td> 5189 </td><td> 13.35 Kbp </td><td> 2453 </td><td> 13.35 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 47 </td><td> 10.00 Mbp </td><td> 3 </td><td> 214.64 Mbp </td></tr><tr><td> 20 </td><td> 120 </td><td> 7.03 Mbp </td><td> 6 </td><td> 163.05 Mbp </td></tr><tr><td> 30 </td><td> 217 </td><td> 5.55 Mbp </td><td> 10 </td><td> 126.46 Mbp </td></tr><tr><td> 40 </td><td> 341 </td><td> 4.22 Mbp </td><td> 15 </td><td> 107.91 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 500 </td><td style="background-color:#88ff88;"> 3.42 Mbp </td><td> 21 </td><td style="background-color:#88ff88;"> 90.14 Mbp </td></tr><tr><td> 60 </td><td> 704 </td><td> 2.60 Mbp </td><td> 29 </td><td> 74.47 Mbp </td></tr><tr><td> 70 </td><td> 975 </td><td> 1.89 Mbp </td><td> 39 </td><td> 44.09 Mbp </td></tr><tr><td> 80 </td><td> 1360 </td><td> 1.25 Mbp </td><td> 77 </td><td> 7.53 Mbp </td></tr><tr><td> 90 </td><td> 1993 </td><td> 0.70 Mbp </td><td> 246 </td><td> 2.08 Mbp </td></tr><tr><td> 100 </td><td> 5087 </td><td> 13.35 Kbp </td><td> 2306 </td><td> 13.35 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 5189 </th><th> 6.00 Gbp </th><th> 2453 </th><th> 6.03 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 5087 </th><th> 5.98 Gbp </th><th> 2306 </th><th> 6.01 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2023-05-22
+hpa1version: assembly_curated
+hpb1date: 2024-01-09
 hpb1filesize: 1.3 GiB
-hpb1length: '5182132348'
-hpb1n50ctg: 3484749
-hpb1n50scf: 92485380
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Heterodontus_francisci/sHetFra1/assembly_vgp_HiC_2.0/sHetFra1.HiC.hap2.20230522.fasta.gz
+hpb1length: '5196885747'
+hpb1n50ctg: 3485302
+hpb1n50scf: 97904885
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Heterodontus_francisci/sHetFra1/assembly_curated/sHetFra1.hap2.cur.20240109.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 42 </td><td> 9.78 Mbp </td><td> 2 </td><td> 227.09 Mbp </td></tr><tr><td> 20 </td><td> 105 </td><td> 7.01 Mbp </td><td> 5 </td><td> 199.92 Mbp </td></tr><tr><td> 30 </td><td> 190 </td><td> 5.45 Mbp </td><td> 8 </td><td> 123.70 Mbp </td></tr><tr><td> 40 </td><td> 298 </td><td> 4.21 Mbp </td><td> 13 </td><td> 111.34 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 434 </td><td style="background-color:#88ff88;"> 3.48 Mbp </td><td> 18 </td><td style="background-color:#88ff88;"> 92.49 Mbp </td></tr><tr><td> 60 </td><td> 607 </td><td> 2.58 Mbp </td><td> 24 </td><td> 69.23 Mbp </td></tr><tr><td> 70 </td><td> 846 </td><td> 1.82 Mbp </td><td> 34 </td><td> 46.39 Mbp </td></tr><tr><td> 80 </td><td> 1195 </td><td> 1.19 Mbp </td><td> 56 </td><td> 10.33 Mbp </td></tr><tr><td> 90 </td><td> 1766 </td><td> 0.67 Mbp </td><td> 164 </td><td> 2.72 Mbp </td></tr><tr><td> 100 </td><td> 4215 </td><td> 13.81 Kbp </td><td> 1599 </td><td> 13.81 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 42 </td><td> 9.55 Mbp </td><td> 2 </td><td> 232.73 Mbp </td></tr><tr><td> 20 </td><td> 106 </td><td> 6.85 Mbp </td><td> 5 </td><td> 208.07 Mbp </td></tr><tr><td> 30 </td><td> 192 </td><td> 5.41 Mbp </td><td> 8 </td><td> 129.45 Mbp </td></tr><tr><td> 40 </td><td> 300 </td><td> 4.21 Mbp </td><td> 13 </td><td> 119.98 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 435 </td><td style="background-color:#88ff88;"> 3.49 Mbp </td><td> 17 </td><td style="background-color:#88ff88;"> 97.90 Mbp </td></tr><tr><td> 60 </td><td> 610 </td><td> 2.52 Mbp </td><td> 23 </td><td> 78.62 Mbp </td></tr><tr><td> 70 </td><td> 855 </td><td> 1.79 Mbp </td><td> 31 </td><td> 62.63 Mbp </td></tr><tr><td> 80 </td><td> 1213 </td><td> 1.17 Mbp </td><td> 41 </td><td> 35.59 Mbp </td></tr><tr><td> 90 </td><td> 1802 </td><td> 0.64 Mbp </td><td> 97 </td><td> 3.28 Mbp </td></tr><tr><td> 100 </td><td> 4286 </td><td> 13.81 Kbp </td><td> 1496 </td><td> 13.81 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 4215 </th><th> 5.15 Gbp </th><th> 1599 </th><th> 5.18 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 4286 </th><th> 5.17 Gbp </th><th> 1496 </th><th> 5.20 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1677532285
-last_updated: 1704571239
+last_updated: 1704836487
 mds:
 - data: "species: Heterodontus francisci\nspecimen: sHetFra1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Heterodontus_francisci/sHetFra1/assembly_vgp_HiC_2.0/sHetFra1.HiC.hap1.20230522.fasta.gz\nhap2:
@@ -106,7 +106,7 @@ mds:
     filter. HiC scaffolding was performed with yahs. The HiC prep was Arima kit 2.
     The kmer spectra indicate a homogametic specimen. I am submitting both hap1 &
     hap2 for dual curation. This is the curation ticket for hap1. "
-  ident: md3
+  ident: md9
   title: assembly_vgp_HiC_2.0/sHetFra1_hap1.yml
 - data: "species: Heterodontus francisci\nspecimen: sHetFra1\nprojects: \n  - vgp\ndata_location:
     S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Heterodontus_francisci/sHetFra1/assembly_vgp_HiC_2.0/sHetFra1.HiC.hap1.20230522.fasta.gz\nhap2:
@@ -124,7 +124,7 @@ mds:
     filter. HiC scaffolding was performed with yahs. The HiC prep was Arima kit 2.
     The kmer spectra indicate a homogametic specimen. I am submitting both hap1 &
     hap2 for dual curation. This is the curation ticket for hap2. "
-  ident: md4
+  ident: md10
   title: assembly_vgp_HiC_2.0/sHetFra1_hap2.yml
 mito1date: 2024-01-06
 mito1filesize: 5.3 KiB

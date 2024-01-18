@@ -11,16 +11,16 @@ data_arima-1_scale: 3.0629
 data_arima_bases: 124.42 Gbp
 data_arima_bytes: 37.8 GiB
 data_arima_coverage: 97.62x
-data_pacbiohifi_bam-1_bases: 30.72 Gbp
-data_pacbiohifi_bam-1_bytes: 70.8 GiB
-data_pacbiohifi_bam-1_coverage: 24.10x
+data_pacbiohifi_bam-1_bases: 55.96 Gbp
+data_pacbiohifi_bam-1_bytes: 86.2 GiB
+data_pacbiohifi_bam-1_coverage: 43.91x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Benthalbella_elongata/fBenEln1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Benthalbella_elongata/fBenEln1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Benthalbella_elongata/fBenEln1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.4042
-data_pacbiohifi_bam_bases: 30.72 Gbp
-data_pacbiohifi_bam_bytes: 70.8 GiB
-data_pacbiohifi_bam_coverage: 24.10x
+data_pacbiohifi_bam-1_scale: 0.6047
+data_pacbiohifi_bam_bases: 55.96 Gbp
+data_pacbiohifi_bam_bytes: 86.2 GiB
+data_pacbiohifi_bam_coverage: 43.91x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1274456250
 genome_size_display: 1.27 Gbp
 genome_size_method: GoaT
-last_raw_data: 1692608354
-last_updated: 1692608354
+last_raw_data: 1705164342
+last_updated: 1705164342
 metadata: |
   species:
     short_name: fBenEln

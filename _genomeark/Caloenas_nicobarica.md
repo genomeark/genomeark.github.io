@@ -11,6 +11,16 @@ data_arima-1_scale: 1.7612
 data_arima_bases: 114.95 Gbp
 data_arima_bytes: 60.8 GiB
 data_arima_coverage: N/A
+data_dovetail-1_bases: 55.44 Gbp
+data_dovetail-1_bytes: 29.7 GiB
+data_dovetail-1_coverage: N/A
+data_dovetail-1_links: s3://genomeark/species/Caloenas_nicobarica/bCalNic1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Caloenas_nicobarica/bCalNic1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Caloenas_nicobarica/bCalNic1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.7397
+data_dovetail_bases: 55.44 Gbp
+data_dovetail_bytes: 29.7 GiB
+data_dovetail_coverage: N/A
 data_pacbiohifi_bam-1_bases: 706.42 Gbp
 data_pacbiohifi_bam-1_bytes: 338.3 GiB
 data_pacbiohifi_bam-1_coverage: N/A
@@ -31,7 +41,8 @@ data_pacbiohifi_fqgz-1_scale: 1.9450
 data_pacbiohifi_fqgz_bases: 81.63 Gbp
 data_pacbiohifi_fqgz_bytes: 39.1 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>
+  ::: <em style="color:forestgreen">Dovetail</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -97,8 +108,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1694788818
-last_updated: 1704393787
+last_raw_data: 1704741891
+last_updated: 1704741891
 mds:
 - data: "species: Caloenas nicobarica\nspecimen: bCalNic1\nprojects: \n  - vgp\nassembled_by_group:
     Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1:

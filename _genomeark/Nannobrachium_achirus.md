@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-11-14
-alt1filesize: 433.7 MiB
-alt1length: '1528422496'
-alt1n50ctg: '211725'
-alt1n50scf: '211725'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Nannobrachium_achirus/fNanAch1/assembly_cambridge/fNanAch1.alt.asm.20231114.fasta.gz
+alt1date: 2024-01-10
+alt1filesize: 452.0 MiB
+alt1length: '1620255849'
+alt1n50ctg: '248175'
+alt1n50scf: '253054'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Nannobrachium_achirus/fNanAch1/assembly_curated/fNanAch1.alt.cur.20240110.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 179 </td><td> 0.83 Mbp </td><td> 179 </td><td> 0.83 Mbp </td></tr><tr><td> 20 </td><td> 465 </td><td> 0.57 Mbp </td><td> 465 </td><td> 0.57 Mbp </td></tr><tr><td> 30 </td><td> 866 </td><td> 419.66 Kbp </td><td> 866 </td><td> 419.66 Kbp </td></tr><tr><td> 40 </td><td> 1407 </td><td> 308.33 Kbp </td><td> 1407 </td><td> 308.33 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 2168 </td><td> 211.73 Kbp </td><td> 2168 </td><td> 211.73 Kbp </td></tr><tr><td> 60 </td><td> 3297 </td><td> 140.09 Kbp </td><td> 3297 </td><td> 140.09 Kbp </td></tr><tr><td> 70 </td><td> 5231 </td><td> 70.93 Kbp </td><td> 5231 </td><td> 70.93 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 168 </td><td> 0.86 Mbp </td><td> 157 </td><td> 0.89 Mbp </td></tr><tr><td> 20 </td><td> 438 </td><td> 0.61 Mbp </td><td> 418 </td><td> 0.64 Mbp </td></tr><tr><td> 30 </td><td> 814 </td><td> 450.52 Kbp </td><td> 783 </td><td> 461.92 Kbp </td></tr><tr><td> 40 </td><td> 1310 </td><td> 345.16 Kbp </td><td> 1269 </td><td> 352.12 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1981 </td><td> 248.18 Kbp </td><td> 1926 </td><td> 253.05 Kbp </td></tr><tr><td> 60 </td><td> 2942 </td><td> 170.41 Kbp </td><td> 2869 </td><td> 172.83 Kbp </td></tr><tr><td> 70 </td><td> 4413 </td><td> 101.73 Kbp </td><td> 4322 </td><td> 102.78 Kbp </td></tr><tr><td> 80 </td><td> 7670 </td><td> 31.58 Kbp </td><td> 7562 </td><td> 31.62 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.781x </th><th> 9825 </th><th> 1.53 Gbp </th><th> 9825 </th><th> 1.53 Gbp </th></tr>
+  <tr><th> 0.828x </th><th> 10094 </th><th> 1.62 Gbp </th><th> 9986 </th><th> 1.62 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: lantern fish
 data_arima-1_bases: 216.76 Gbp
 data_arima-1_bytes: 67.0 GiB
@@ -59,7 +59,7 @@ genome_size: 1956000000
 genome_size_display: 1.96 Gbp
 genome_size_method: GoaT
 last_raw_data: 1693579015
-last_updated: 1699992565
+last_updated: 1704848564
 metadata: |
   species:
     short_name: fNanAch
@@ -108,12 +108,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Nannobrachium achirus
 name_: Nannobrachium_achirus
-pri1date: 2023-11-14
-pri1filesize: 491.4 MiB
-pri1length: '1750959654'
-pri1n50ctg: 1137271
-pri1n50scf: 66199198
-pri1seq: https://s3.amazonaws.com/genomeark/species/Nannobrachium_achirus/fNanAch1/assembly_cambridge/fNanAch1.pri.asm.20231114.fasta.gz
+pri1date: 2024-01-10
+pri1filesize: 459.8 MiB
+pri1length: '1658848640'
+pri1n50ctg: 1098159
+pri1n50scf: 65383627
+pri1seq: https://s3.amazonaws.com/genomeark/species/Nannobrachium_achirus/fNanAch1/assembly_curated/fNanAch1.pri.cur.20240110.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -131,12 +131,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 48 </td><td> 3.05 Mbp </td><td> 3 </td><td> 81.06 Mbp </td></tr><tr><td> 20 </td><td> 122 </td><td> 2.30 Mbp </td><td> 5 </td><td> 76.78 Mbp </td></tr><tr><td> 30 </td><td> 218 </td><td> 1.77 Mbp </td><td> 8 </td><td> 71.50 Mbp </td></tr><tr><td> 40 </td><td> 340 </td><td> 1.41 Mbp </td><td> 11 </td><td> 69.02 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 495 </td><td style="background-color:#88ff88;"> 1.14 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 66.20 Mbp </td></tr><tr><td> 60 </td><td> 696 </td><td> 0.82 Mbp </td><td> 17 </td><td> 63.06 Mbp </td></tr><tr><td> 70 </td><td> 983 </td><td> 0.56 Mbp </td><td> 20 </td><td> 61.19 Mbp </td></tr><tr><td> 80 </td><td> 1455 </td><td> 292.08 Kbp </td><td> 23 </td><td> 52.41 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 49 </td><td> 3.01 Mbp </td><td> 3 </td><td> 77.57 Mbp </td></tr><tr><td> 20 </td><td> 126 </td><td> 2.25 Mbp </td><td> 5 </td><td> 76.11 Mbp </td></tr><tr><td> 30 </td><td> 223 </td><td> 1.75 Mbp </td><td> 8 </td><td> 70.19 Mbp </td></tr><tr><td> 40 </td><td> 350 </td><td> 1.38 Mbp </td><td> 11 </td><td> 66.58 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 509 </td><td style="background-color:#88ff88;"> 1.10 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 65.38 Mbp </td></tr><tr><td> 60 </td><td> 723 </td><td> 0.77 Mbp </td><td> 17 </td><td> 62.85 Mbp </td></tr><tr><td> 70 </td><td> 1040 </td><td> 493.80 Kbp </td><td> 20 </td><td> 60.60 Mbp </td></tr><tr><td> 80 </td><td> 1677 </td><td> 170.69 Kbp </td><td> 24 </td><td> 49.42 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.895x </th><th> 3310 </th><th> 1.75 Gbp </th><th> 796 </th><th> 1.75 Gbp </th></tr>
+  <tr><th> 0.848x </th><th> 3070 </th><th> 1.66 Gbp </th><th> 673 </th><th> 1.66 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: fNanAch
