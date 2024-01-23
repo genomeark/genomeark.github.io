@@ -392,6 +392,9 @@ The following specifications for assembly folders apply to the VGP pipeline vers
     └── {Genus_species}
         └── {ToLID}
             └── assembly_vgp_HiC_2.0
+                ├── {genome_id}.HiC.hap1.YYYYMMDD.fasta.gz                              Scaffolded draft assembly of hap1 that goes to curation
+                ├── {genome_id}.HiC.hap2.YYYYMMDD.fasta.gz                              Scaffolded draft assembly of hap2 that goes to curation
+                ├── {genome_id}.yml                                                     Assembly metadata file that is used for curation submission to Sanger
                 ├── evaluation
                 │   ├── busco
                 │   │   └── c
@@ -429,9 +432,6 @@ The following specifications for assembly folders apply to the VGP pipeline vers
                 │   │   ├── {genome_id}_png                                             Folder has same content as described in the primary/alternate guide
                 │   │   ├── {genome_id}_qv                                              Folder has same content as described in the primary/alternate guide
                 │   │   └── {genome_id}_stats                                           Folder has same content as described in the primary/alternate guide
-                │   ├── {genome_id}.HiC.hap1.YYYYMMDD.fasta.gz                          Scaffolded draft assembly of hap1 that goes to curation
-                │   ├── {genome_id}.HiC.hap2.YYYYMMDD.fasta.gz                          Scaffolded draft assembly of hap2 that goes to curation
-                │   └── {genome_id}.yml                                                 Assembly metadata file that is used for curation submission to Sanger
                 └── intermediates
                     ├── hap1
                     │   ├── bionano
