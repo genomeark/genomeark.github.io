@@ -31,23 +31,7 @@ genome_size_display: 1.83 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687191625
 last_updated: 1687191625
-metadata: |
-  species:
-    short_name: fNerLum
-    name: Nerophis lumbriciformis
-    taxon_id: 546530
-    common_name: worm pipefish
-    order:
-      name: Syngnathiformes
-    family:
-      name: Syngnathidae
-    individuals:
-      - short_name: fNerLum1
-        biosample_id: SAMEA12231801
-        sex:
-    genome_size: 1833750000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fNerLum<br>&nbsp;&nbsp;name:&nbsp;Nerophis&nbsp;lumbriciformis<br>&nbsp;&nbsp;taxon_id:&nbsp;546530<br>&nbsp;&nbsp;common_name:&nbsp;worm&nbsp;pipefish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Syngnathiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Syngnathidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fNerLum1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12231801<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1833750000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Nerophis lumbriciformis
 name_: Nerophis_lumbriciformis
 project:

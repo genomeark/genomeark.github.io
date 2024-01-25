@@ -73,23 +73,7 @@ genome_size_display: 0.78 Gbp
 genome_size_method: ''
 last_raw_data: 1651600358
 last_updated: 1691668929
-metadata: |
-  species:
-    short_name: fThuMac
-    name: Thunnus maccoyii
-    taxon_id: 8240
-    common_name: Southern bluefin tuna
-    order:
-      name: Perciformes
-    family:
-      name: Scombridae
-    individuals:
-      - short_name: fThuMac1
-        biosample_id: SAMEA8654747
-        sex: male
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fThuMac<br>&nbsp;&nbsp;name:&nbsp;Thunnus&nbsp;maccoyii<br>&nbsp;&nbsp;taxon_id:&nbsp;8240<br>&nbsp;&nbsp;common_name:&nbsp;Southern&nbsp;bluefin&nbsp;tuna<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scombridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fThuMac1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8654747<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2021-01-29
 mito1filesize: 5.4 KiB
 mito1length: '16525'

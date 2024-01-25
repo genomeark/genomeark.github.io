@@ -93,39 +93,10 @@ genome_size_method: GoAT
 last_raw_data: 1651598084
 last_updated: 1671824777
 mds:
-- data: |
-    species: Neoarius graeffei
-    specimen: fNeoGra1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_vgp_standard_2.0/fNeoGra1.pri.asm.20211203.fasta.gz
-    haplotigs: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_vgp_standard_2.0/fNeoGra1.alt.asm.20211203.fasta.gz
-    hic_bam: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_vgp_standard_2.0/evaluation/pretext/s2/fNeoGra1_s2.bam
-    pretext: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_vgp_standard_2.0/evaluation/pretext/s2/fNeoGra1_s2.pretext
-    kmer_spectra_img: s3://genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_vgp_standard_2.0/evaluation/merqury/p/fNeoGra1_images/
-    pipeline:
-      - hifiasm (0.15.4+galaxy0)
-      - purge_dups (1.2.5+galaxy3)
-      - bionano scaffold (3.6.1+galaxy2)
-      - salsa (2.3+galaxy1)
-    notes: smudgeplot images at s3://genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_vgp_standard_2.0/evaluation/smudgeplot/
+- data: species:&nbsp;Neoarius&nbsp;graeffei<br>specimen:&nbsp;fNeoGra1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_vgp_standard_2.0/fNeoGra1.pri.asm.20211203.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_vgp_standard_2.0/fNeoGra1.alt.asm.20211203.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_vgp_standard_2.0/evaluation/pretext/s2/fNeoGra1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_vgp_standard_2.0/evaluation/pretext/s2/fNeoGra1_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_vgp_standard_2.0/evaluation/merqury/p/fNeoGra1_images/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;bionano&nbsp;scaffold&nbsp;(3.6.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy1)<br>notes:&nbsp;smudgeplot&nbsp;images&nbsp;at&nbsp;s3://genomeark/species/Neoarius_graeffei/fNeoGra1/assembly_vgp_standard_2.0/evaluation/smudgeplot/<br>
   ident: md6
   title: assembly_vgp_standard_2.0/fNeoGra1.yaml
-metadata: |
-  species:
-    name: Neoarius graeffei
-    individuals:
-    - short_name: fNeoGra1
-    short_name: fNeoGra
-    taxon_id: '443677'
-    common_name: lesser salmon catfish
-    genome_size: 2416000000
-    genome_size_method: GoAT
-    order:
-      name: Siluriformes
-    family:
-      name: Ariidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Neoarius&nbsp;graeffei<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fNeoGra1<br>&nbsp;&nbsp;short_name:&nbsp;fNeoGra<br>&nbsp;&nbsp;taxon_id:&nbsp;'443677'<br>&nbsp;&nbsp;common_name:&nbsp;lesser&nbsp;salmon&nbsp;catfish<br>&nbsp;&nbsp;genome_size:&nbsp;2416000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Siluriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Ariidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Neoarius graeffei
 name_: Neoarius_graeffei
 pri1date: 2022-03-11

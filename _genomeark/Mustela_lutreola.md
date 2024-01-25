@@ -61,19 +61,7 @@ genome_size_method: ''
 last_raw_data: 1686586379
 last_updated: 1686586379
 mds:
-- data: "species: Mustela lutreola\nspecimen: mMusLut2\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nprimary: s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_vgp_standard_2.0/mMusLut2.standard.pri.20230320.fasta.gz\nhaplotigs:
-    s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_vgp_standard_2.0/mMusLut2.standard.alt.20230320.fasta.gz\npretext:
-    s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_vgp_standard_2.0/evaluation/pri/pretext/mMusLut2_pri__s2.heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_vgp_standard_2.0/evaluation/merqury/mMusLut2_png/\nmito:
-    s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_MT_rockefeller/mMusLut2.MT.20230321.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Mustela_lutreola/mMusLut2/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Mustela_lutreola/mMusLut3/genomic_data/dovetail/\npipeline:\n
-    \ - hifiasm (0.18.8+galaxy1)\n  - purge_dups\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group:
-    Rockefeller\nnotes: This was a primary/alternate assembly of mMusLut2 (VGL-mMusLut1).
-    There was no bionano data. HiC scaffolding was performed with yahs. The HiC prep
-    was Arima kit 2. HiC data was generated from a different individual (ToLID: mMusLut3,
-    internal ID VGL-mMusLut2). Both individuals are indicated as male in the metadata. "
+- data: species:&nbsp;Mustela&nbsp;lutreola<br>specimen:&nbsp;mMusLut2<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_vgp_standard_2.0/mMusLut2.standard.pri.20230320.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_vgp_standard_2.0/mMusLut2.standard.alt.20230320.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_vgp_standard_2.0/evaluation/pri/pretext/mMusLut2_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_vgp_standard_2.0/evaluation/merqury/mMusLut2_png/<br>mito:&nbsp;s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_MT_rockefeller/mMusLut2.MT.20230321.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Mustela_lutreola/mMusLut2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Mustela_lutreola/mMusLut3/genomic_data/dovetail/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;purge_dups<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;mMusLut2&nbsp;(VGL-mMusLut1).&nbsp;There&nbsp;was&nbsp;no&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;HiC&nbsp;data&nbsp;was&nbsp;generated&nbsp;from&nbsp;a&nbsp;different&nbsp;individual&nbsp;(ToLID:&nbsp;mMusLut3,&nbsp;internal&nbsp;ID&nbsp;VGL-mMusLut2).&nbsp;Both&nbsp;individuals&nbsp;are&nbsp;indicated&nbsp;as&nbsp;male&nbsp;in&nbsp;the&nbsp;metadata.&nbsp;
   ident: md5
   title: assembly_vgp_standard_2.0/mMusLut2.yml
 mito2date: 2023-03-21

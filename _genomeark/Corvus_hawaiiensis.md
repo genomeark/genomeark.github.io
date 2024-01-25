@@ -93,48 +93,13 @@ genome_size_method: ''
 last_raw_data: 1651598796
 last_updated: 1651598796
 mds:
-- data: |-
-    species: Corvus_hawaiiensis
-    specimen: bCorHaw1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Corvus_hawaiiensis/bCorHaw1/assembly_vgp_standard_2.0/bCorHaw1.pri.asm.20212907.fasta
-    haplotigs: s3://genomeark/species/Corvus_hawaiiensis/bCorHaw1/assembly_vgp_standard_2.0/bCorHaw1.alt.asm.20212707.fasta
-    pipeline:
-      - hifiasm (0.15.4+galaxy)
-      - purge_dups (1.2.5+galaxy3)
-      - bionano_solve (3.6.1+galaxy2)
-      - salsa (2.3+galaxy0)
+- data: species:&nbsp;Corvus_hawaiiensis<br>specimen:&nbsp;bCorHaw1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Corvus_hawaiiensis/bCorHaw1/assembly_vgp_standard_2.0/bCorHaw1.pri.asm.20212907.fasta<br>haplotigs:&nbsp;s3://genomeark/species/Corvus_hawaiiensis/bCorHaw1/assembly_vgp_standard_2.0/bCorHaw1.alt.asm.20212707.fasta<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(3.6.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy0)
   ident: md4
   title: assembly_vgp_standard_2.0/bCorHaw1.yaml
-- data: |
-    samples:
-    - Sample Source: University of Hawaii
-      VGP_Id: bCorHaw1
-      birth_date: 07/05/2018
-      collected_by: Bryce Masuda
-      collection_date: 08/08/2020
-      common_name: hawaiian crow
-      description: "Jolene Sutton (U. Hawai'i), Bruce Robertson and Stefanie Gro\xDFer\
-        \ (U. Otago) "
-      dev_stage: adult
-      geo_loc_name: Hawai'i, USA
-      individual_id: ''
-      lat_lon: 21.297467,-157.818261
-      scientific_name: Corvus hawaiiensis
-      sex: female
-      store_cond: -80C
-      taxon_Id: '134902'
-      tissue: Blood
-      treatment: 99% ethanol
-      tube_id: bCorHaw1.BL1,bCorHaw1.BL2
+- data: samples:<br>-&nbsp;Sample&nbsp;Source:&nbsp;University&nbsp;of&nbsp;Hawaii<br>&nbsp;&nbsp;VGP_Id:&nbsp;bCorHaw1<br>&nbsp;&nbsp;birth_date:&nbsp;07/05/2018<br>&nbsp;&nbsp;collected_by:&nbsp;Bryce&nbsp;Masuda<br>&nbsp;&nbsp;collection_date:&nbsp;08/08/2020<br>&nbsp;&nbsp;common_name:&nbsp;hawaiian&nbsp;crow<br>&nbsp;&nbsp;description:&nbsp;"Jolene&nbsp;Sutton&nbsp;(U.&nbsp;Hawai'i),&nbsp;Bruce&nbsp;Robertson&nbsp;and&nbsp;Stefanie&nbsp;Gro\xDFer\<br>&nbsp;&nbsp;&nbsp;&nbsp;\&nbsp;(U.&nbsp;Otago)&nbsp;"<br>&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;geo_loc_name:&nbsp;Hawai'i,&nbsp;USA<br>&nbsp;&nbsp;individual_id:&nbsp;''<br>&nbsp;&nbsp;lat_lon:&nbsp;21.297467,-157.818261<br>&nbsp;&nbsp;scientific_name:&nbsp;Corvus&nbsp;hawaiiensis<br>&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'134902'<br>&nbsp;&nbsp;tissue:&nbsp;Blood<br>&nbsp;&nbsp;treatment:&nbsp;99%&nbsp;ethanol<br>&nbsp;&nbsp;tube_id:&nbsp;bCorHaw1.BL1,bCorHaw1.BL2<br>
   ident: md5
   title: bCorHaw1_metadata.yml
-metadata: "species:\n  short_name: bCorHaw\n  name: Corvus hawaiiensis\n  taxon_id:
-  134902\n  common_name: hawaiian crow\n  order:\n    name: Passeriformes\n  family:\n
-  \   name: Corvidae\n  individuals:\n    - short_name: bCorHaw1\n      sex: female\n
-  \     provider: Jolene Sutton, Stefanie GroÃ\x9Fer\n  genome_size: 1200000000\n
-  \ genome_size_method:\n  project: [ vgp ]\n"
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bCorHaw<br>&nbsp;&nbsp;name:&nbsp;Corvus&nbsp;hawaiiensis<br>&nbsp;&nbsp;taxon_id:&nbsp;134902<br>&nbsp;&nbsp;common_name:&nbsp;hawaiian&nbsp;crow<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Corvidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCorHaw1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Jolene&nbsp;Sutton,&nbsp;Stefanie&nbsp;Großer<br>&nbsp;&nbsp;genome_size:&nbsp;1200000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Corvus hawaiiensis
 name_: Corvus_hawaiiensis
 pri1date: 2021-09-20

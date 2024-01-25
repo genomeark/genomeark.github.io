@@ -101,32 +101,10 @@ hpb1version: assembly_curated
 last_raw_data: 1680815709
 last_updated: 1680815709
 mds:
-- data: "species: Mobula birostris\nspecimen: sMobBir1\nprojects:\n  - vgp\nhap1:
-    s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/sMobGio1.HiC.hap1.20220921.fasta.gz\nhap1_pretext:
-    s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/sMobGio1_hap1__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/evaluation/merqury/sMobGio1_png/\npacbio_read_dir:
-    s3://genomeark/species/Mobula_giorna/sMobGio1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Mobula_giorna/sMobGio1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy2)\n  - yahs (1.2a+galaxy1)\nassembled_by_group: Rockefeller\nnotes:
-    This is sMobBir1 (VGL-sMobGio1). This individual did not have bionano data. This
-    assembly was done with Hifiasm-HiC mode, resulting in two complete haplotypes.
-    Kmer spectra probably indicate a heterogametic specimen, so there might be a need
-    for fishing for the sex chromosomes between the two haplotypes, so I am submitting
-    both haplotypes as separate tikets.    \n"
+- data: species:&nbsp;Mobula&nbsp;birostris<br>specimen:&nbsp;sMobBir1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/sMobGio1.HiC.hap1.20220921.fasta.gz<br>hap1_pretext:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/sMobGio1_hap1__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/evaluation/merqury/sMobGio1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;is&nbsp;sMobBir1&nbsp;(VGL-sMobGio1).&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;This&nbsp;assembly&nbsp;was&nbsp;done&nbsp;with&nbsp;Hifiasm-HiC&nbsp;mode,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;Kmer&nbsp;spectra&nbsp;probably&nbsp;indicate&nbsp;a&nbsp;heterogametic&nbsp;specimen,&nbsp;so&nbsp;there&nbsp;might&nbsp;be&nbsp;a&nbsp;need&nbsp;for&nbsp;fishing&nbsp;for&nbsp;the&nbsp;sex&nbsp;chromosomes&nbsp;between&nbsp;the&nbsp;two&nbsp;haplotypes,&nbsp;so&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;haplotypes&nbsp;as&nbsp;separate&nbsp;tikets.&nbsp;&nbsp;&nbsp;&nbsp;<br>
   ident: md6
   title: assembly_vgp_hic_2.0/sMobBir1_hap1.yaml
-- data: "species: Mobula birostris\nspecimen: sMobBir1\nprojects:\n  - vgp\nhap2:
-    s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/sMobGio1.HiC.hap2.20220921.fasta.gz\nhap2_pretext:
-    s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/sMobGio1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/evaluation/merqury/sMobGio1_png/\npacbio_read_dir:
-    s3://genomeark/species/Mobula_giorna/sMobGio1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Mobula_giorna/sMobGio1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy2)\n  - yahs (1.2a+galaxy1)\nassembled_by_group: Rockefeller\nnotes:
-    This is sMobBir1 (VGL-sMobGio1). This individual did not have bionano data. This
-    assembly was done with Hifiasm-HiC mode, resulting in two complete haplotypes.
-    Kmer spectra probably indicate a heterogametic specimen, so there might be a need
-    for fishing for the sex chromosomes between the two haplotypes, so I am submitting
-    both haplotypes as separate tikets.  \n"
+- data: species:&nbsp;Mobula&nbsp;birostris<br>specimen:&nbsp;sMobBir1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap2:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/sMobGio1.HiC.hap2.20220921.fasta.gz<br>hap2_pretext:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/sMobGio1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/evaluation/merqury/sMobGio1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;is&nbsp;sMobBir1&nbsp;(VGL-sMobGio1).&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;This&nbsp;assembly&nbsp;was&nbsp;done&nbsp;with&nbsp;Hifiasm-HiC&nbsp;mode,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;Kmer&nbsp;spectra&nbsp;probably&nbsp;indicate&nbsp;a&nbsp;heterogametic&nbsp;specimen,&nbsp;so&nbsp;there&nbsp;might&nbsp;be&nbsp;a&nbsp;need&nbsp;for&nbsp;fishing&nbsp;for&nbsp;the&nbsp;sex&nbsp;chromosomes&nbsp;between&nbsp;the&nbsp;two&nbsp;haplotypes,&nbsp;so&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;haplotypes&nbsp;as&nbsp;separate&nbsp;tikets.&nbsp;&nbsp;<br>
   ident: md7
   title: assembly_vgp_hic_2.0/sMobBir1_hap2.yaml
 name: Mobula birostris

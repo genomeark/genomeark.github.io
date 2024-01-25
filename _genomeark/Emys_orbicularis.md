@@ -150,36 +150,10 @@ hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1651623575
 last_updated: 1662125160
 mds:
-- data: "species: Emys orbicularis\nspecimen: rEmyOrb1\nprojects: \n  - vgp\nhap1:
-    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/rEmyOrb1.HiC.hap1.20220501.fasta.gz\nhap2:
-    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/rEmyOrb1.HiC.hap2.20220501.fasta.gz\nhap1_hic_bam:
-    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rEmyOrb1_hap1__s2.bam\nhap2_hic_bam:
-    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rEmyOrb1_hap2__s2.bam\nhap1_pretext:
-    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/hap1/rEmyOrb1_hap1__s2_heatmap.pretext\nhap2_pretext:
-    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/hap2/rEmyOrb1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/rEmyOrb1_png/\npacbio_read_dir:
-    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/arima/\nbionano_cmap_dir:
-    s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/bionano/\npipeline:
-    \n  - hifiasm (0.16.1+galaxy2)\n  - solve (3.7.0+galaxy0)\n  - salsa (2.3+galaxy2)\nassembled_by_group:
-    University of Florence\n\n"
+- data: species:&nbsp;Emys&nbsp;orbicularis<br>specimen:&nbsp;rEmyOrb1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/rEmyOrb1.HiC.hap1.20220501.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/rEmyOrb1.HiC.hap2.20220501.fasta.gz<br>hap1_hic_bam:&nbsp;s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rEmyOrb1_hap1__s2.bam<br>hap2_hic_bam:&nbsp;s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rEmyOrb1_hap2__s2.bam<br>hap1_pretext:&nbsp;s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/hap1/rEmyOrb1_hap1__s2_heatmap.pretext<br>hap2_pretext:&nbsp;s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/hap2/rEmyOrb1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Emys_orbicularis/rEmyOrb1/assembly_vgp_HiC_2.0/evaluation/rEmyOrb1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/bionano/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)<br>assembled_by_group:&nbsp;University&nbsp;of&nbsp;Florence<br><br>
   ident: md4
   title: assembly_vgp_HiC_2.0/rEmyOrb1.yaml
-metadata: |
-  species:
-    name: Emys orbicularis
-    individuals:
-    - short_name: rEmyOrb1
-    short_name: rEmyOrb
-    taxon_id: 82168
-    common_name: European pond turtle
-    genome_size: 2543000000
-    genome_size_method: GoAT
-    order:
-      name: Testudines
-    family:
-      name: Emydidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Emys&nbsp;orbicularis<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rEmyOrb1<br>&nbsp;&nbsp;short_name:&nbsp;rEmyOrb<br>&nbsp;&nbsp;taxon_id:&nbsp;82168<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;pond&nbsp;turtle<br>&nbsp;&nbsp;genome_size:&nbsp;2543000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Testudines<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Emydidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Emys orbicularis
 name_: Emys_orbicularis
 pri1date: 2022-09-02

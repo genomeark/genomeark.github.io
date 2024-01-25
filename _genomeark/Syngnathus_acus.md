@@ -123,26 +123,7 @@ genome_size_display: 324.33 Mbp
 genome_size_method: ''
 last_raw_data: 1675913668
 last_updated: 1678289846
-metadata: |
-  species:
-    short_name: fSynAcu
-    name: Syngnathus acus
-    taxon_id: 161584
-    common_name: greater pipefish
-    order:
-      name: Syngnathiformes
-    family:
-      name: Syngnathidae
-    individuals:
-      - short_name: fSynAcu1
-        biosample_id: SAMEA104381750
-        sex:
-      - short_name: fSynAcu2
-        biosample_id: SAMEA13854528
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fSynAcu<br>&nbsp;&nbsp;name:&nbsp;Syngnathus&nbsp;acus<br>&nbsp;&nbsp;taxon_id:&nbsp;161584<br>&nbsp;&nbsp;common_name:&nbsp;greater&nbsp;pipefish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Syngnathiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Syngnathidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fSynAcu1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA104381750<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fSynAcu2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA13854528<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 5.0 KiB
 mito1length: '16454'

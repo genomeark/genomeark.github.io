@@ -21,23 +21,7 @@ genome_size_display: 4.21 Gbp
 genome_size_method: GoaT
 last_raw_data: 1703330135
 last_updated: 1703330135
-metadata: |
-  species:
-    short_name: sMusAst
-    name: Mustelus asterias
-    taxon_id: 112232
-    common_name: starry smooth-hound
-    order:
-      name: Carcharhiniformes
-    family:
-      name: Triakidae
-    individuals:
-      - short_name: sMusAst1
-        biosample_id: SAMEA114298637
-        sex:
-    genome_size: 4205400000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;sMusAst<br>&nbsp;&nbsp;name:&nbsp;Mustelus&nbsp;asterias<br>&nbsp;&nbsp;taxon_id:&nbsp;112232<br>&nbsp;&nbsp;common_name:&nbsp;starry&nbsp;smooth-hound<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carcharhiniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Triakidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sMusAst1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114298637<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;4205400000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Mustelus asterias
 name_: Mustelus_asterias
 project:

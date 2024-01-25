@@ -90,36 +90,10 @@ hpb1version: assembly_curated
 last_raw_data: 1681233646
 last_updated: 1698192181
 mds:
-- data: "species: Hydrolagus colliei\nspecimen: sHydCol1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/sHydCol1.HiC.hap1.20230731.fasta.gz\nhap2:
-    s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/sHydCol1.HiC.hap2.20230731.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/sHydCol1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/sHydCol1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/evaluation/merqury/sHydCol1_png/\npacbio_read_dir:
-    s3://genomeark/species/Hydrolagus_colliei/sHydCol1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Hydrolagus_colliei/sHydCol1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group: Rockefeller\nnotes:
-    This was a hifiasm-HiC assembly of sHydCol1, resulting in two complete haplotypes.
-    This individual did not bionano data. HiC scaffolding was performed with yahs.
-    The HiC prep was Arima kit 2. The HiC reads needed to have 5 bp trimmed from the
-    5' end due to adapter left over from the Arima library prep kit. MitoHiFi did
-    not assemble a mitogenome for this sample. "
+- data: species:&nbsp;Hydrolagus&nbsp;colliei<br>specimen:&nbsp;sHydCol1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/sHydCol1.HiC.hap1.20230731.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/sHydCol1.HiC.hap2.20230731.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/sHydCol1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/sHydCol1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/evaluation/merqury/sHydCol1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Hydrolagus_colliei/sHydCol1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Hydrolagus_colliei/sHydCol1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;sHydCol1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;MitoHiFi&nbsp;did&nbsp;not&nbsp;assemble&nbsp;a&nbsp;mitogenome&nbsp;for&nbsp;this&nbsp;sample.&nbsp;
   ident: md8
   title: assembly_vgp_HiC_2.0/sHydCol1_hap1.yml
-- data: "species: Hydrolagus colliei\nspecimen: sHydCol1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/sHydCol1.HiC.hap1.20230731.fasta.gz\nhap2:
-    s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/sHydCol1.HiC.hap2.20230731.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/sHydCol1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/sHydCol1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/evaluation/merqury/sHydCol1_png/\npacbio_read_dir:
-    s3://genomeark/species/Hydrolagus_colliei/sHydCol1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Hydrolagus_colliei/sHydCol1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group: Rockefeller\nnotes:
-    This was a hifiasm-HiC assembly of sHydCol1, resulting in two complete haplotypes.
-    This individual did not bionano data. HiC scaffolding was performed with yahs.
-    The HiC prep was Arima kit 2. The HiC reads needed to have 5 bp trimmed from the
-    5' end due to adapter left over from the Arima library prep kit. MitoHiFi did
-    not assemble a mitogenome for this sample. "
+- data: species:&nbsp;Hydrolagus&nbsp;colliei<br>specimen:&nbsp;sHydCol1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/sHydCol1.HiC.hap1.20230731.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/sHydCol1.HiC.hap2.20230731.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/sHydCol1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/sHydCol1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Hydrolagus_colliei/sHydCol1/assembly_vgp_HiC_2.0/evaluation/merqury/sHydCol1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Hydrolagus_colliei/sHydCol1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Hydrolagus_colliei/sHydCol1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;sHydCol1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;MitoHiFi&nbsp;did&nbsp;not&nbsp;assemble&nbsp;a&nbsp;mitogenome&nbsp;for&nbsp;this&nbsp;sample.&nbsp;
   ident: md9
   title: assembly_vgp_HiC_2.0/sHydCol1_hap2.yml
 name: Hydrolagus colliei

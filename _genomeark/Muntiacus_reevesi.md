@@ -60,26 +60,7 @@ genome_size_display: 2.92 Gbp
 genome_size_method: GoaT
 last_raw_data: 1702666833
 last_updated: 1703328837
-metadata: |
-  species:
-    short_name: mMunRee
-    name: Muntiacus reevesi
-    taxon_id: 9886
-    common_name: Reeves' muntjac
-    order:
-      name: Artiodactyla
-    family:
-      name: Cervidae
-    individuals:
-      - short_name: mMunRee1
-        biosample_id: SAMEA110690972
-        sex: female
-      - short_name: mMunRee2
-        biosample_id: SAMEA110690973
-        sex: male
-    genome_size: 2924220000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMunRee<br>&nbsp;&nbsp;name:&nbsp;Muntiacus&nbsp;reevesi<br>&nbsp;&nbsp;taxon_id:&nbsp;9886<br>&nbsp;&nbsp;common_name:&nbsp;Reeves'&nbsp;muntjac<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Artiodactyla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cervidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMunRee1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110690972<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMunRee2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110690973<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2924220000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-12-19
 mito1filesize: 5.2 KiB
 mito1length: '16352'

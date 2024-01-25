@@ -100,21 +100,7 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
-metadata: |
-  species:
-    common_name: African grass rat
-    family:
-      name: Muridae
-    genome_size: 3400000000
-    genome_size_method: null
-    individuals:
-    - short_name: mArvNil1
-    name: Arvicanthis niloticus
-    order:
-      name: Rodentia
-    short_name: mArvNil
-    taxon_id: 61156
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;African&nbsp;grass&nbsp;rat<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Muridae<br>&nbsp;&nbsp;genome_size:&nbsp;3400000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mArvNil1<br>&nbsp;&nbsp;name:&nbsp;Arvicanthis&nbsp;niloticus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;short_name:&nbsp;mArvNil<br>&nbsp;&nbsp;taxon_id:&nbsp;61156<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mgd1date: 2020-01-16
 mgd1filesize: 713.3 MiB
 mgd1length: '2496761438'

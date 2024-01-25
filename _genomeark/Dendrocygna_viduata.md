@@ -52,21 +52,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1638999952
 last_updated: 1638999952
-metadata: |
-  species:
-    short_name: bDenVid
-    name: Dendrocygna viduata
-    taxon_id: 8876
-    common_name: white-faced whistling-duck
-    order:
-      name: Anseriformes
-    family:
-      name: Anatidae
-    individuals:
-      - short_name: bDenVid1
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bDenVid<br>&nbsp;&nbsp;name:&nbsp;Dendrocygna&nbsp;viduata<br>&nbsp;&nbsp;taxon_id:&nbsp;8876<br>&nbsp;&nbsp;common_name:&nbsp;white-faced&nbsp;whistling-duck<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bDenVid1<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Dendrocygna viduata
 name_: Dendrocygna_viduata
 project:

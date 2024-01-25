@@ -91,51 +91,7 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
-metadata: |
-  species:
-    short_name: mBosTau
-    name: Bos taurus
-    common_name: cattle
-    taxon_id: 9913
-    order:
-      name: Artiodactyla
-    family:
-      name: Bovidae
-    individuals:
-    -
-        short_name: mBosTau1
-        name: null
-        biosample_id: null
-        strain: null
-        alt_ids: null
-        sex: null
-        birth_date: null
-        birth_location: null
-        birth_type: null
-        description: null
-        provider: null
-        mother: null
-        father: null
-        project: [ vgp ]
-    -
-        short_name: mBosTau2
-        name: null
-        biosample_id: null
-        strain: null
-        alt_ids:
-        - LVC_Rachael_25X
-        sex: female
-        birth_date: null
-        birth_location: null
-        birth_type: null
-        description: This is the dam of mBosGat1 (Bos gaurus x Bos taurus).
-        provider: null
-        mother: null
-        father: null
-        project: [ t2t ]
-    genome_size: 2700000000
-    genome_size_method: null
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mBosTau<br>&nbsp;&nbsp;name:&nbsp;Bos&nbsp;taurus<br>&nbsp;&nbsp;common_name:&nbsp;cattle<br>&nbsp;&nbsp;taxon_id:&nbsp;9913<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Artiodactyla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Bovidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mBosTau1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;birth_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;birth_location:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;birth_type:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mBosTau2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;LVC_Rachael_25X<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;birth_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;birth_location:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;birth_type:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;This&nbsp;is&nbsp;the&nbsp;dam&nbsp;of&nbsp;mBosGat1&nbsp;(Bos&nbsp;gaurus&nbsp;x&nbsp;Bos&nbsp;taurus).<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>&nbsp;&nbsp;genome_size:&nbsp;2700000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-07
 mito1filesize: 5.2 KiB
 mito1length: '16339'

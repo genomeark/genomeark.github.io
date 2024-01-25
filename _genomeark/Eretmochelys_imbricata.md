@@ -41,22 +41,7 @@ genome_size_display: 2.58 Gbp
 genome_size_method: GoaT
 last_raw_data: 1677808359
 last_updated: 1677808359
-metadata: |
-  species:
-    short_name: rEreImb
-    name: Eretmochelys imbricata
-    common_name: Hawksbill sea turtle
-    taxon_id: 27787
-    order:
-      name: Testudines
-    family:
-      name: Cheloniidae
-    individuals:
-    -
-          short_name: rEreImb1
-    genome_size: 2581920000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;rEreImb<br>&nbsp;&nbsp;name:&nbsp;Eretmochelys&nbsp;imbricata<br>&nbsp;&nbsp;common_name:&nbsp;Hawksbill&nbsp;sea&nbsp;turtle<br>&nbsp;&nbsp;taxon_id:&nbsp;27787<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Testudines<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cheloniidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;rEreImb1<br>&nbsp;&nbsp;genome_size:&nbsp;2581920000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Eretmochelys imbricata
 name_: Eretmochelys_imbricata
 project:

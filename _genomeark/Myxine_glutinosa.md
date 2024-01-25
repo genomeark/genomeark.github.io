@@ -60,23 +60,7 @@ genome_size_display: 4.20 Gbp
 genome_size_method: GoaT
 last_raw_data: 1699354632
 last_updated: 1699992718
-metadata: |
-  species:
-    short_name: kmMyxGlut
-    name: Myxine glutinosa
-    taxon_id: 7769
-    common_name: Atlantic hagfish
-    order:
-      name: Myxiniformes
-    family:
-      name: Myxinidae
-    individuals:
-      - short_name: kmMyxGlut1
-        biosample_id: SAMEA12790223
-        sex:
-    genome_size: 4195620000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;kmMyxGlut<br>&nbsp;&nbsp;name:&nbsp;Myxine&nbsp;glutinosa<br>&nbsp;&nbsp;taxon_id:&nbsp;7769<br>&nbsp;&nbsp;common_name:&nbsp;Atlantic&nbsp;hagfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myxiniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myxinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;kmMyxGlut1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12790223<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;4195620000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-11-14
 mito1filesize: 5.8 KiB
 mito1length: '19651'

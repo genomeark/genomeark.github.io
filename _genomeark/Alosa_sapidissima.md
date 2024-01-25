@@ -83,26 +83,7 @@ genome_size_display: 0.90 Gbp
 genome_size_method: ''
 last_raw_data: 1653517348
 last_updated: 1653517348
-metadata: |
-  species:
-    short_name: fAloSap
-    name: Alosa sapidissima
-    taxon_id: 34773
-    common_name: American shad
-    order:
-      name: Clupeiformes
-    family:
-      name: Clupeidae
-    individuals:
-      - short_name: fAloSap1
-        sex: male
-        provider: Reid Hyle, Nina Overgaard Therkildsen
-      - short_name: fAloSap2
-        sex: male
-        provider: Reid Hyle, Nina Overgaard Therkildsen
-    genome_size: 900000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fAloSap<br>&nbsp;&nbsp;name:&nbsp;Alosa&nbsp;sapidissima<br>&nbsp;&nbsp;taxon_id:&nbsp;34773<br>&nbsp;&nbsp;common_name:&nbsp;American&nbsp;shad<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Clupeiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Clupeidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fAloSap1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Reid&nbsp;Hyle,&nbsp;Nina&nbsp;Overgaard&nbsp;Therkildsen<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fAloSap2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Reid&nbsp;Hyle,&nbsp;Nina&nbsp;Overgaard&nbsp;Therkildsen<br>&nbsp;&nbsp;genome_size:&nbsp;900000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Alosa sapidissima
 name_: Alosa_sapidissima
 pri1date: 2021-04-21

@@ -91,19 +91,7 @@ hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1666642654
 last_updated: 1676065909
 mds:
-- data: "species: Trichomycterus rosablanca\nspecimen: fTriRos1\nprojects: \n  - vgp\nhap1:
-    s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/fTriRos1.HiC.hap1.20221115.fasta.gz\nhap2:
-    s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/fTriRos1.HiC.hap2.20221115.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fTriRos1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fTriRos1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/evaluation/fTriRos1_png/\npacbio_read_dir:
-    s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/genomic_data/arima/\nhic_kit:
-    Arima2\npipeline:\n  - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group:
-    Rockefeller\nnotes: This was a hifiasm-HiC assembly of fTriRos1, resulting in
-    two complete haplotypes. This individual did not have bionano data. HiC scaffolding
-    was performed with YAHS. The kmer spectra indicates a homogametic specimen. We
-    are submitting hap1 for curation."
+- data: species:&nbsp;Trichomycterus&nbsp;rosablanca<br>specimen:&nbsp;fTriRos1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/fTriRos1.HiC.hap1.20221115.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/fTriRos1.HiC.hap2.20221115.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fTriRos1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fTriRos1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/evaluation/fTriRos1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/genomic_data/arima/<br>hic_kit:&nbsp;Arima2<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fTriRos1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YAHS.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;hap1&nbsp;for&nbsp;curation.
   ident: md5
   title: assembly_vgp_HiC_2.0/fTriRos1.yaml
 mito1date: 2023-02-10

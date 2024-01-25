@@ -83,21 +83,7 @@ genome_size_display: 0.55 Gbp
 genome_size_method: ''
 last_raw_data: 1535575225
 last_updated: 1576512992
-metadata: |
-  species:
-    short_name: fParRan
-    name: Parambassis ranga
-    taxon_id: 210632
-    common_name: Indian glassy fish
-    order:
-      name: Ovalentaria
-    family:
-      name: Ambassidae
-    individuals:
-      - short_name: fParRan2
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fParRan<br>&nbsp;&nbsp;name:&nbsp;Parambassis&nbsp;ranga<br>&nbsp;&nbsp;taxon_id:&nbsp;210632<br>&nbsp;&nbsp;common_name:&nbsp;Indian&nbsp;glassy&nbsp;fish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Ovalentaria<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Ambassidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fParRan2<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2019-12-16
 mito2filesize: 5.0 KiB
 mito2length: '17024'

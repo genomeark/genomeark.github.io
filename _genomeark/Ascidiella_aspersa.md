@@ -60,26 +60,7 @@ genome_size_display: 107.58 Mbp
 genome_size_method: GoaT
 last_raw_data: 1701286431
 last_updated: 1703328860
-metadata: |
-  species:
-    short_name: kaAscAspe
-    name: Ascidiella aspersa
-    taxon_id: 201961
-    common_name: A solitary sea squirt
-    order:
-      name: Phlebobranchia
-    family:
-      name: Ascidiidae
-    individuals:
-      - short_name: kaAscAspe10
-        biosample_id: SAMEA110449820
-        sex:
-      - short_name: kaAscAspe2
-        biosample_id: SAMEA7536462
-        sex:
-    genome_size: 107580000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;kaAscAspe<br>&nbsp;&nbsp;name:&nbsp;Ascidiella&nbsp;aspersa<br>&nbsp;&nbsp;taxon_id:&nbsp;201961<br>&nbsp;&nbsp;common_name:&nbsp;A&nbsp;solitary&nbsp;sea&nbsp;squirt<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phlebobranchia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Ascidiidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;kaAscAspe10<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110449820<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;kaAscAspe2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7536462<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;107580000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito10date: 2023-12-07
 mito10filesize: 7.4 KiB
 mito10length: '36093'

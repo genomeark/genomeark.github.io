@@ -62,23 +62,7 @@ genome_size_display: 0.65 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675920421
 last_updated: 1692211768
-metadata: |
-  species:
-    short_name: fPlaFle
-    name: Platichthys flesus
-    taxon_id: 8260
-    common_name: European flounder
-    order:
-      name: Pleuronectiformes
-    family:
-      name: Pleuronectidae
-    individuals:
-      - short_name: fPlaFle2
-        biosample_id: SAMEA110026475
-        sex:
-    genome_size: 645480000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fPlaFle<br>&nbsp;&nbsp;name:&nbsp;Platichthys&nbsp;flesus<br>&nbsp;&nbsp;taxon_id:&nbsp;8260<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;flounder<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pleuronectiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pleuronectidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fPlaFle2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110026475<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;645480000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-02-09
 mito2filesize: 5.5 KiB
 mito2length: '17525'

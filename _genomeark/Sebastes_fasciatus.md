@@ -32,20 +32,7 @@ genome_size_method: ''
 last_raw_data: 1699563249
 last_updated: 1700085857
 mds:
-- data: "species: Sebastes fasciatus\nspecimen: fSebFas1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nprimary: s3://genomeark/species/Sebastes_fasciatus/fSebFas1/assembly_vgp_standard_2.0/fSebFas1.standard.pri.20231115.fasta.gz\nhaplotigs:
-    s3://genomeark/species/Sebastes_fasciatus/fSebFas1/assembly_vgp_standard_2.0/fSebFas1.standard.alt.20231115.fasta.gz\npretext:
-    s3://genomeark/species/Sebastes_fasciatus/fSebFas1/assembly_vgp_standard_2.0/evaluation/pri/pretext/fSebFas1_pri__s2.heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Sebastes_fasciatus/fSebFas1/assembly_vgp_standard_2.0/evaluation/merqury/fSebFas1_png/\npacbio_read_dir:
-    s3://genomeark/species/Sebastes_fasciatus/fSebFas1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Sebastes_fasciatus/fSebFas4/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.18.8+galaxy1)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group: Rockefeller\nnotes:
-    This was a primary/alternate assembly of fSebFas1. This individual did not have
-    bionano data. The HiC data came from a different individual, fSebFas4. HiC scaffolding
-    was performed with yahs. The HiC prep was Arima. After purging, merqury plots
-    show some potential false duplications in the alternate assembly. These were not
-    removed even after a second round of purging on the alternate assembly, so the
-    original alternate assembly (i.e., not twice-purged) is uploaded. "
+- data: species:&nbsp;Sebastes&nbsp;fasciatus<br>specimen:&nbsp;fSebFas1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Sebastes_fasciatus/fSebFas1/assembly_vgp_standard_2.0/fSebFas1.standard.pri.20231115.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Sebastes_fasciatus/fSebFas1/assembly_vgp_standard_2.0/fSebFas1.standard.alt.20231115.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Sebastes_fasciatus/fSebFas1/assembly_vgp_standard_2.0/evaluation/pri/pretext/fSebFas1_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Sebastes_fasciatus/fSebFas1/assembly_vgp_standard_2.0/evaluation/merqury/fSebFas1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Sebastes_fasciatus/fSebFas1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Sebastes_fasciatus/fSebFas4/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;fSebFas1.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;The&nbsp;HiC&nbsp;data&nbsp;came&nbsp;from&nbsp;a&nbsp;different&nbsp;individual,&nbsp;fSebFas4.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima.&nbsp;After&nbsp;purging,&nbsp;merqury&nbsp;plots&nbsp;show&nbsp;some&nbsp;potential&nbsp;false&nbsp;duplications&nbsp;in&nbsp;the&nbsp;alternate&nbsp;assembly.&nbsp;These&nbsp;were&nbsp;not&nbsp;removed&nbsp;even&nbsp;after&nbsp;a&nbsp;second&nbsp;round&nbsp;of&nbsp;purging&nbsp;on&nbsp;the&nbsp;alternate&nbsp;assembly,&nbsp;so&nbsp;the&nbsp;original&nbsp;alternate&nbsp;assembly&nbsp;(i.e.,&nbsp;not&nbsp;twice-purged)&nbsp;is&nbsp;uploaded.&nbsp;
   ident: md1
   title: assembly_vgp_standard_2.0/fSebFas1.yml
 name: Sebastes fasciatus

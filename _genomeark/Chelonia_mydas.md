@@ -83,9 +83,7 @@ genome_size_display: 2.13 Gbp
 genome_size_method: ''
 last_raw_data: 1566994409
 last_updated: 1622211426
-metadata: "species:\n  common_name: Green sea turtle \n  family:\n    name: Cheloniidae\n
-  \ individuals:\n  - short_name: rCheMyd1\n  name: Chelonia mydas\n  order:\n    name:
-  Testudines\n  short_name: rCheMyd\n  taxon_id: 8469\n  project: [ vgp ]\n"
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;Green&nbsp;sea&nbsp;turtle&nbsp;<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cheloniidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rCheMyd1<br>&nbsp;&nbsp;name:&nbsp;Chelonia&nbsp;mydas<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Testudines<br>&nbsp;&nbsp;short_name:&nbsp;rCheMyd<br>&nbsp;&nbsp;taxon_id:&nbsp;8469<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Chelonia mydas
 name_: Chelonia_mydas
 pri1date: 2021-05-28

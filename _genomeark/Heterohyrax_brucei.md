@@ -83,35 +83,10 @@ genome_size_method: ''
 last_raw_data: 1651620730
 last_updated: 1659976604
 mds:
-- data: |
-    species: Heterohyrax_brucei
-    specimen: mHetBru1
-    projects:
-      - VGP orders
-    primary:
-    s3://genomeark/species/Heterohyrax_brucei/mHetBru1/assembly_vgp_standard_2.1/mHetBru1.pri.20211110.fasta.gz
-    haplotigs:
-    s3://genomeark/species/Heterohyrax_brucei/mHetBru1/assembly_vgp_standard_2.1/mHetBru1.alt.20211110.fasta.gz
-    pipeline:
-      - hifiasm (0.15.5-r352)
-      - purge_dups (1.2.3)
-      - bionano_solve (Solve3.6.1_11162020)
-      - salsa (v2.2)
+- data: species:&nbsp;Heterohyrax_brucei<br>specimen:&nbsp;mHetBru1<br>projects:<br>&nbsp;&nbsp;-&nbsp;VGP&nbsp;orders<br>primary:<br>s3://genomeark/species/Heterohyrax_brucei/mHetBru1/assembly_vgp_standard_2.1/mHetBru1.pri.20211110.fasta.gz<br>haplotigs:<br>s3://genomeark/species/Heterohyrax_brucei/mHetBru1/assembly_vgp_standard_2.1/mHetBru1.alt.20211110.fasta.gz<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.5-r352)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.3)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(Solve3.6.1_11162020)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(v2.2)<br>
   ident: md26
   title: mHetBru1.yaml
-metadata: |
-  species:
-    short_name: mHetBru
-    name: Heterohyrax brucei
-    taxon_id: 77598
-    common_name: Yellow-spotted hyrax
-    order:
-      name: Hyracoidea
-    family:
-      name: Procaviidae
-    individuals:
-      - short_name: mHetBru1
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mHetBru<br>&nbsp;&nbsp;name:&nbsp;Heterohyrax&nbsp;brucei<br>&nbsp;&nbsp;taxon_id:&nbsp;77598<br>&nbsp;&nbsp;common_name:&nbsp;Yellow-spotted&nbsp;hyrax<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hyracoidea<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Procaviidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mHetBru1<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Heterohyrax brucei
 name_: Heterohyrax_brucei
 pri1date: 2022-08-08

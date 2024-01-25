@@ -95,25 +95,10 @@ hpb4version: assembly_curated
 last_raw_data: 1687891617
 last_updated: 1687891617
 mds:
-- data: "species: Stegostoma fasciatum\nspecimen: sSteFas4\nprojects: \n  - vgp\nhaplotype_to_curate:
-    hap1\nhap1: s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/assembly_vgp_HiC_2.0/sSteFas4.HiC.hap1.20221121.fasta.gz\nhap2:
-    s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/assembly_vgp_HiC_2.0/sSteFas4.HiC.hap2.20221121.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/sSteFas4_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/sSteFas4_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/assembly_vgp_HiC_2.0/evaluation/merqury/sSteFas4_png/\npacbio_read_dir:
-    s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy3)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group: Rockefeller\nnotes:
-    This was a hifiasm-HiC assembly of sSteFas4 (VGL ID: sSteTig2), resulting in two
-    complete haplotypes. This individual did not have bionano data. HiC scaffolding
-    was performed with yahs. The HiC prep was Arima kit 2. The kmer spectra indicates
-    a homogametic specimen. We are submitting haplotype 1 for curation."
+- data: species:&nbsp;Stegostoma&nbsp;fasciatum<br>specimen:&nbsp;sSteFas4<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/assembly_vgp_HiC_2.0/sSteFas4.HiC.hap1.20221121.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/assembly_vgp_HiC_2.0/sSteFas4.HiC.hap2.20221121.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/sSteFas4_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/sSteFas4_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/assembly_vgp_HiC_2.0/evaluation/merqury/sSteFas4_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Stegostoma_fasciatum/sSteFas4/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy3)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;sSteFas4&nbsp;(VGL&nbsp;ID:&nbsp;sSteTig2),&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;haplotype&nbsp;1&nbsp;for&nbsp;curation.
   ident: md5
   title: assembly_vgp_HiC_2.0/sSteFas4.yml
-metadata: "species:\n  common_name: zebra shark\n  name: Stegostoma fasciatum\n  short_name:
-  sSteFas\n  taxon_id: 378071\n  order:\n    name: Orectolobiformes\n  family:\n    name:
-  Stegostomatidae\n  individuals:\n  - short_name: sSteFas4\n  genome_size: 3157655626\n
-  \ genome_size_method: \n  project: [ ]\n"
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;zebra&nbsp;shark<br>&nbsp;&nbsp;name:&nbsp;Stegostoma&nbsp;fasciatum<br>&nbsp;&nbsp;short_name:&nbsp;sSteFas<br>&nbsp;&nbsp;taxon_id:&nbsp;378071<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Orectolobiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Stegostomatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sSteFas4<br>&nbsp;&nbsp;genome_size:&nbsp;3157655626<br>&nbsp;&nbsp;genome_size_method:&nbsp;<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;]<br>
 name: Stegostoma fasciatum
 name_: Stegostoma_fasciatum
 project: []

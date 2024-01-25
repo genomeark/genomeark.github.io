@@ -101,40 +101,10 @@ hpb4version: assembly_curated
 last_raw_data: 1651005170
 last_updated: 1676585844
 mds:
-- data: |+
-    species: Colius striatus
-    specimen: bColStr4
-    projects:
-      - vgp
-    hap1: s3://genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/bColStr4.HiC.hap1.20220601.fasta.gz
-    hap2: s3://genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/bColStr4.HiC.hap2.20220601.fasta.gz
-    hap1_hic_bam: s3://genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bColStr4_hap1__s2.bam
-    hap2_hic_bam: s3://genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bColStr4_hap2__s2.bam
-    hap1_pretext: s3://genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bColStr4_hap1__s2_heatmap.pretext
-    hap2_pretext: s3://genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bColStr4_hap2__s2_heatmap.pretext
-    kmer_spectra_img: s3://genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/evaluation/merqury/bColStr4_png/
-    pipeline:
-      - hifiasm (0.16.1+galaxy2)
-      - solve (3.7)
-      - salsa (2.3+galaxy2)
-
+- data: species:&nbsp;Colius&nbsp;striatus<br>specimen:&nbsp;bColStr4<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/bColStr4.HiC.hap1.20220601.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/bColStr4.HiC.hap2.20220601.fasta.gz<br>hap1_hic_bam:&nbsp;s3://genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bColStr4_hap1__s2.bam<br>hap2_hic_bam:&nbsp;s3://genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bColStr4_hap2__s2.bam<br>hap1_pretext:&nbsp;s3://genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bColStr4_hap1__s2_heatmap.pretext<br>hap2_pretext:&nbsp;s3://genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bColStr4_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Colius_striatus/bColStr4/assembly_vgp_HiC_2.0/evaluation/merqury/bColStr4_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)<br><br>
   ident: md6
   title: assembly_vgp_HiC_2.0/bColStr4.yaml
-metadata: |
-  species:
-    name: Colius striatus
-    individuals:
-    - short_name: bColStr4
-    short_name: bColStr
-    taxon_id: 57412
-    common_name: speckled mousebird
-    genome_size: 1438000000
-    genome_size_method: GoAT
-    order:
-      name: Coliiformes
-    family:
-      name: Coliidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Colius&nbsp;striatus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bColStr4<br>&nbsp;&nbsp;short_name:&nbsp;bColStr<br>&nbsp;&nbsp;taxon_id:&nbsp;57412<br>&nbsp;&nbsp;common_name:&nbsp;speckled&nbsp;mousebird<br>&nbsp;&nbsp;genome_size:&nbsp;1438000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Coliiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Coliidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Colius striatus
 name_: Colius_striatus
 project:

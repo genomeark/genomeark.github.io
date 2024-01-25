@@ -28,26 +28,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1675927010
 last_updated: 1675927010
-metadata: |
-  species:
-    short_name: keSacKowa
-    name: Saccoglossus kowalevskii
-    taxon_id: 10224
-    common_name: acorn worm
-    order:
-      name: Enteropneusta
-    family:
-      name: Harrimaniidae
-    individuals:
-      - short_name: keSacKowa1
-        biosample_id: SAMEA8748971
-        sex:
-      - short_name: keSacKowa2
-        biosample_id: SAMEA8748972
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;keSacKowa<br>&nbsp;&nbsp;name:&nbsp;Saccoglossus&nbsp;kowalevskii<br>&nbsp;&nbsp;taxon_id:&nbsp;10224<br>&nbsp;&nbsp;common_name:&nbsp;acorn&nbsp;worm<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Enteropneusta<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Harrimaniidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;keSacKowa1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8748971<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;keSacKowa2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8748972<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Saccoglossus kowalevskii
 name_: Saccoglossus_kowalevskii
 project:

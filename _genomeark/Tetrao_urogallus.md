@@ -62,23 +62,7 @@ genome_size_display: 1.29 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675915718
 last_updated: 1683763307
-metadata: |
-  species:
-    short_name: bTetUro
-    name: Tetrao urogallus
-    taxon_id: 100830
-    common_name: western capercaillie
-    order:
-      name: Galliformes
-    family:
-      name: Phasianidae
-    individuals:
-      - short_name: bTetUro1
-        biosample_id: SAMEA9654429
-        sex: male
-    genome_size: 1290960000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bTetUro<br>&nbsp;&nbsp;name:&nbsp;Tetrao&nbsp;urogallus<br>&nbsp;&nbsp;taxon_id:&nbsp;100830<br>&nbsp;&nbsp;common_name:&nbsp;western&nbsp;capercaillie<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Galliformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phasianidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bTetUro1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA9654429<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1290960000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Tetrao urogallus
 name_: Tetrao_urogallus
 pri1date: 2023-05-11

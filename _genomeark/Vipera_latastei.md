@@ -93,33 +93,10 @@ genome_size_method: ''
 last_raw_data: 1651607858
 last_updated: 1657190712
 mds:
-- data: "species: Vipera latastei\r\nspecimen:  rVipLat1\r\nprojects: \r\n  -VGP\r\n
-    \ -CBP\r\nprimary: s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/intermediates/rVipLat1_ragtag.fasta.gz\r\nhaplotigs:
-    s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/intermediates/rVipLat1_q2.fasta.gz\r\nhic_bam:
-    \ s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/evaluation/bam_to_create_pretext_rVipLat1.bam\r\npretext:
-    s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/evaluation/assembly_FullMap.png\r\nkmer_spectra_img:
-    s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/evaluation/p/Merqury/pacbio/plot_pacbio_cutadapt_rVipLat1_plot.fl.png\r\npipeline:
-    \r\n\t-hifiasm (0.13) \r\n\t-purge_dups (1.2.5) \r\n\t-bionano solve (3.6.1) \r\n\t-salsa
-    (2.2) \r\n\t-ragtag (2.0.1) <[ flye (2.8.3) + hypo (2.4.1) + purge_dups (1.2.5)
-    + bionano solve (3.6.1) + salsa (2.2)]\r\n"
+- data: species:&nbsp;Vipera&nbsp;latastei&nbsp;<br>specimen:&nbsp;&nbsp;rVipLat1&nbsp;<br>projects:&nbsp;&nbsp;<br>&nbsp;&nbsp;-VGP&nbsp;<br>&nbsp;&nbsp;-CBP&nbsp;<br>primary:&nbsp;s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/intermediates/rVipLat1_ragtag.fasta.gz&nbsp;<br>haplotigs:&nbsp;s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/intermediates/rVipLat1_q2.fasta.gz&nbsp;<br>hic_bam:&nbsp;&nbsp;s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/evaluation/bam_to_create_pretext_rVipLat1.bam&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/evaluation/assembly_FullMap.png&nbsp;<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Vipera_latastei/rVipLat1/assembly_vgp_2.0_IBE/evaluation/p/Merqury/pacbio/plot_pacbio_cutadapt_rVipLat1_plot.fl.png&nbsp;<br>pipeline:&nbsp;&nbsp;<br>&nbsp;-hifiasm&nbsp;(0.13)&nbsp;&nbsp;<br>&nbsp;-purge_dups&nbsp;(1.2.5)&nbsp;&nbsp;<br>&nbsp;-bionano&nbsp;solve&nbsp;(3.6.1)&nbsp;&nbsp;<br>&nbsp;-salsa&nbsp;(2.2)&nbsp;&nbsp;<br>&nbsp;-ragtag&nbsp;(2.0.1)&nbsp;<[&nbsp;flye&nbsp;(2.8.3)&nbsp;+&nbsp;hypo&nbsp;(2.4.1)&nbsp;+&nbsp;purge_dups&nbsp;(1.2.5)&nbsp;+&nbsp;bionano&nbsp;solve&nbsp;(3.6.1)&nbsp;+&nbsp;salsa&nbsp;(2.2)]&nbsp;<br>
   ident: md2
   title: assembly_vgp_2.0_IBE/rVipLat1.yaml
-metadata: |
-  species:
-    short_name: rVipLat
-    name: Vipera latastei
-    taxon_id: 246179
-    common_name: snub-nosed viper
-    order:
-      name: Squamata
-    family:
-      name: Viperidae
-    individuals:
-      - short_name: rVipLat1
-        provider: TomÃ s MarquÃ©s
-    genome_size: 2500000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;rVipLat<br>&nbsp;&nbsp;name:&nbsp;Vipera&nbsp;latastei<br>&nbsp;&nbsp;taxon_id:&nbsp;246179<br>&nbsp;&nbsp;common_name:&nbsp;snub-nosed&nbsp;viper<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Viperidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rVipLat1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Tomàs&nbsp;Marqués<br>&nbsp;&nbsp;genome_size:&nbsp;2500000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Vipera latastei
 name_: Vipera_latastei
 pri1date: 2021-12-08

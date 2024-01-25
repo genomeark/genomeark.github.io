@@ -60,23 +60,7 @@ genome_size_display: 1.21 Gbp
 genome_size_method: ''
 last_raw_data: 1682197928
 last_updated: 1695686452
-metadata: |
-  species:
-    short_name: bFriCoe
-    name: Fringilla coelebs
-    taxon_id: 37598
-    common_name: chaffinch
-    order:
-      name: Passeriformes
-    family:
-      name: Fringillidae
-    individuals:
-      - short_name: bFriCoe1
-        biosample_id: SAMEA9359753
-        sex: male
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bFriCoe<br>&nbsp;&nbsp;name:&nbsp;Fringilla&nbsp;coelebs<br>&nbsp;&nbsp;taxon_id:&nbsp;37598<br>&nbsp;&nbsp;common_name:&nbsp;chaffinch<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Fringillidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFriCoe1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA9359753<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-05-05
 mito1filesize: 5.3 KiB
 mito1length: '16799'

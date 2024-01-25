@@ -84,67 +84,10 @@ genome_size_method: ''
 last_raw_data: 1622235347
 last_updated: 1635455353
 mds:
-- data: |
-    samples:
-    - biomaterial_provider: Dalhousie University
-      bioproject_accession: PRJNA516733
-      birth_date: ''
-      birth_location: ''
-      breed: ''
-      collected_by: Tony Einfeldt
-      collection_date: 08/12/2019
-      common_name: cunner
-      description: ''
-      dev_stage: adult
-      geo_loc_name: Canada - Alderney Landing, Halifax
-      isolate: fTauAds1
-      lat_lon: 44.66 N, 63.57 W
-      organism: Tautogolabrus adspersus
-      sex: male
-      specimen_voucher: ''
-      store_cond: -80C
-      taxon_Id: '34787'
-      tissue: Muscle
-      treatment: ''
-      tube_id: fTauAds1.MS1
-    - biomaterial_provider: Dalhousie University
-      bioproject_accession: PRJNA516733
-      birth_date: ''
-      birth_location: ''
-      breed: ''
-      collected_by: Tony Einfeldt
-      collection_date: 08/12/2019
-      common_name: cunner
-      description: ''
-      dev_stage: adult
-      geo_loc_name: Canada - Alderney Landing, Halifax
-      isolate: fTauAds1
-      lat_lon: 44.66 N, 63.57 W
-      organism: Tautogolabrus adspersus
-      sex: male
-      specimen_voucher: ''
-      store_cond: -80C
-      taxon_Id: '34787'
-      tissue: Gill
-      treatment: ''
-      tube_id: fTauAds1.MC1
+- data: samples:<br>-&nbsp;biomaterial_provider:&nbsp;Dalhousie&nbsp;University<br>&nbsp;&nbsp;bioproject_accession:&nbsp;PRJNA516733<br>&nbsp;&nbsp;birth_date:&nbsp;''<br>&nbsp;&nbsp;birth_location:&nbsp;''<br>&nbsp;&nbsp;breed:&nbsp;''<br>&nbsp;&nbsp;collected_by:&nbsp;Tony&nbsp;Einfeldt<br>&nbsp;&nbsp;collection_date:&nbsp;08/12/2019<br>&nbsp;&nbsp;common_name:&nbsp;cunner<br>&nbsp;&nbsp;description:&nbsp;''<br>&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;geo_loc_name:&nbsp;Canada&nbsp;-&nbsp;Alderney&nbsp;Landing,&nbsp;Halifax<br>&nbsp;&nbsp;isolate:&nbsp;fTauAds1<br>&nbsp;&nbsp;lat_lon:&nbsp;44.66&nbsp;N,&nbsp;63.57&nbsp;W<br>&nbsp;&nbsp;organism:&nbsp;Tautogolabrus&nbsp;adspersus<br>&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;specimen_voucher:&nbsp;''<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'34787'<br>&nbsp;&nbsp;tissue:&nbsp;Muscle<br>&nbsp;&nbsp;treatment:&nbsp;''<br>&nbsp;&nbsp;tube_id:&nbsp;fTauAds1.MS1<br>-&nbsp;biomaterial_provider:&nbsp;Dalhousie&nbsp;University<br>&nbsp;&nbsp;bioproject_accession:&nbsp;PRJNA516733<br>&nbsp;&nbsp;birth_date:&nbsp;''<br>&nbsp;&nbsp;birth_location:&nbsp;''<br>&nbsp;&nbsp;breed:&nbsp;''<br>&nbsp;&nbsp;collected_by:&nbsp;Tony&nbsp;Einfeldt<br>&nbsp;&nbsp;collection_date:&nbsp;08/12/2019<br>&nbsp;&nbsp;common_name:&nbsp;cunner<br>&nbsp;&nbsp;description:&nbsp;''<br>&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;geo_loc_name:&nbsp;Canada&nbsp;-&nbsp;Alderney&nbsp;Landing,&nbsp;Halifax<br>&nbsp;&nbsp;isolate:&nbsp;fTauAds1<br>&nbsp;&nbsp;lat_lon:&nbsp;44.66&nbsp;N,&nbsp;63.57&nbsp;W<br>&nbsp;&nbsp;organism:&nbsp;Tautogolabrus&nbsp;adspersus<br>&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;specimen_voucher:&nbsp;''<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'34787'<br>&nbsp;&nbsp;tissue:&nbsp;Gill<br>&nbsp;&nbsp;treatment:&nbsp;''<br>&nbsp;&nbsp;tube_id:&nbsp;fTauAds1.MC1<br>
   ident: md6
   title: fTauAds1_metadata.yml
-metadata: |
-  species:
-    common_name: cunner
-    family:
-      name: Labridae
-    genome_size: 1000000000
-    genome_size_method: null
-    individuals:
-    - short_name: fTauAds1
-    name: Tautogolabrus adspersus
-    order:
-      name: Perciformes
-    short_name: fTauAds
-    taxon_id: 34787
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;cunner<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Labridae<br>&nbsp;&nbsp;genome_size:&nbsp;1000000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fTauAds1<br>&nbsp;&nbsp;name:&nbsp;Tautogolabrus&nbsp;adspersus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;short_name:&nbsp;fTauAds<br>&nbsp;&nbsp;taxon_id:&nbsp;34787<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2021-05-28
 mito1filesize: 5.0 KiB
 mito1length: '16494'

@@ -83,22 +83,7 @@ genome_size_display: 2.80 Gbp
 genome_size_method: ''
 last_raw_data: 1566356326
 last_updated: 1608058951
-metadata: |
-  species:
-    common_name: smalltooth sawfish
-    family:
-      name: Pristidae
-    genome_size: 2800000000
-    genome_size_method: null
-    individuals:
-    - short_name: sPriPec1
-    - short_name: sPriPec2
-    name: Pristis pectinata
-    order:
-      name: Pristiformes
-    short_name: sPriPec
-    taxon_id: 685728
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;smalltooth&nbsp;sawfish<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pristidae<br>&nbsp;&nbsp;genome_size:&nbsp;2800000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sPriPec1<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sPriPec2<br>&nbsp;&nbsp;name:&nbsp;Pristis&nbsp;pectinata<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pristiformes<br>&nbsp;&nbsp;short_name:&nbsp;sPriPec<br>&nbsp;&nbsp;taxon_id:&nbsp;685728<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2019-08-21
 mito2filesize: 5.0 KiB
 mito2length: '16803'

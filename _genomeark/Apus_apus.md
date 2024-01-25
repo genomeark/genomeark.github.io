@@ -84,29 +84,10 @@ genome_size_method: ''
 last_raw_data: 1623939532
 last_updated: 1634554847
 mds:
-- data: "species: Apus apus\nspecimen: bApuApu2\nprojects: VGP orders\nrelease_to:
-    S3\ndata_location: S3\nprimary: s3://genomeark/species/Apus_apus/bApuApu2/assembly_vgp_standard_1.6/bApuApu2.pri.asm.20210617.fasta.gz\nhaplotigs:
-    s3://genomeark/species/Apus_apus/bApuApu2/assembly_vgp_standard_1.6/bApuApu2.alt.asm.20210617.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Apus_apus/bApuApu2/pacbio/\n10x_read_dir: s3://genomeark/species/Apus_apus/bApuApu2/10x/\nhic_read_dir:
-    s3://genomeark/species/Apus_apus/bApuApu2/arima/\nhic_kit: Arima1\npipeline:\n
-    \ - falcon-kit (1.8.1)\n  - falcon-unzip (1.3.7) \n  - purge-dups (0.0.3)\n  -
-    Longranger (2.2.2)\n  - scaff10x (4.2)\n  - Bionano solve (3.5.1)\n  - salsa2
-    (2.2)\n  - dentist (1.0.0)\n  - Freebayes (1.3.2)\n"
+- data: species:&nbsp;Apus&nbsp;apus<br>specimen:&nbsp;bApuApu2<br>projects:&nbsp;VGP&nbsp;orders<br>release_to:&nbsp;S3<br>data_location:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Apus_apus/bApuApu2/assembly_vgp_standard_1.6/bApuApu2.pri.asm.20210617.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Apus_apus/bApuApu2/assembly_vgp_standard_1.6/bApuApu2.alt.asm.20210617.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Apus_apus/bApuApu2/pacbio/<br>10x_read_dir:&nbsp;s3://genomeark/species/Apus_apus/bApuApu2/10x/<br>hic_read_dir:&nbsp;s3://genomeark/species/Apus_apus/bApuApu2/arima/<br>hic_kit:&nbsp;Arima1<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;falcon-kit&nbsp;(1.8.1)<br>&nbsp;&nbsp;-&nbsp;falcon-unzip&nbsp;(1.3.7)&nbsp;<br>&nbsp;&nbsp;-&nbsp;purge-dups&nbsp;(0.0.3)<br>&nbsp;&nbsp;-&nbsp;Longranger&nbsp;(2.2.2)<br>&nbsp;&nbsp;-&nbsp;scaff10x&nbsp;(4.2)<br>&nbsp;&nbsp;-&nbsp;Bionano&nbsp;solve&nbsp;(3.5.1)<br>&nbsp;&nbsp;-&nbsp;salsa2&nbsp;(2.2)<br>&nbsp;&nbsp;-&nbsp;dentist&nbsp;(1.0.0)<br>&nbsp;&nbsp;-&nbsp;Freebayes&nbsp;(1.3.2)<br>
   ident: md4
   title: bApuApu2.yaml
-metadata: |
-  species:
-    short_name: bApuApu
-    name: Apus apus
-    taxon_id: 8895
-    common_name: Common swift
-    order:
-      name: Apodiformes
-    family:
-      name: Apodidae
-    individuals:
-      - short_name: bApuApu2
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bApuApu<br>&nbsp;&nbsp;name:&nbsp;Apus&nbsp;apus<br>&nbsp;&nbsp;taxon_id:&nbsp;8895<br>&nbsp;&nbsp;common_name:&nbsp;Common&nbsp;swift<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Apodiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Apodidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bApuApu2<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Apus apus
 name_: Apus_apus
 pri2date: 2021-10-18

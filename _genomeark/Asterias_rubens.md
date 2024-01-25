@@ -73,21 +73,7 @@ genome_size_display: 417.60 Mbp
 genome_size_method: ''
 last_raw_data: 1565272838
 last_updated: 1575763686
-metadata: |
-  species:
-    short_name: eAstRub
-    name: Asterias rubens
-    taxon_id: 7604
-    common_name: common starfish
-    order:
-      name: Forcipulatida
-    family:
-      name: Asteriidae
-    individuals:
-      - short_name: eAstRub1
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;eAstRub<br>&nbsp;&nbsp;name:&nbsp;Asterias&nbsp;rubens<br>&nbsp;&nbsp;taxon_id:&nbsp;7604<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;starfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Forcipulatida<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Asteriidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;eAstRub1<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-12-07
 mito1filesize: 4.9 KiB
 mito1length: '16418'

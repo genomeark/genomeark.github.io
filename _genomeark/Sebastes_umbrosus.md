@@ -93,21 +93,7 @@ genome_size_display: 1.00 Gbp
 genome_size_method: ''
 last_raw_data: 1574794326
 last_updated: 1628608526
-metadata: |
-  species:
-    common_name: honeycomb rockfish
-    family:
-      name: Sebastidae
-    genome_size: 1000000000
-    genome_size_method: null
-    individuals:
-    - short_name: fSebUmb1
-    name: Sebastes umbrosus
-    order:
-      name: Scorpaeniformes
-    short_name: fSebUmb
-    taxon_id: 72105
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;honeycomb&nbsp;rockfish<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Sebastidae<br>&nbsp;&nbsp;genome_size:&nbsp;1000000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fSebUmb1<br>&nbsp;&nbsp;name:&nbsp;Sebastes&nbsp;umbrosus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scorpaeniformes<br>&nbsp;&nbsp;short_name:&nbsp;fSebUmb<br>&nbsp;&nbsp;taxon_id:&nbsp;72105<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-12-03
 mito1filesize: 5.0 KiB
 mito1length: '17611'

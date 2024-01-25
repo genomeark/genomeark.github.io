@@ -100,18 +100,7 @@ hpb1version: assembly_curated
 last_raw_data: 1684351286
 last_updated: 1691452970
 mds:
-- data: "species: Passer domesticus\nspecimen: bPasDom1\nprojects:\n  - erga       \n
-    \ - vgp\nhap1: s3://genomeark/species/Passer_domesticus/bPasDom1/assembly_vgp_HiC_2.0/bPasDom1.HiC.hap1.20230510.fasta.gz\nhap2:
-    s3://genomeark/species/Passer_domesticus/bPasDom1/assembly_vgp_HiC_2.0/bPasDom1.HiC.hap2.20230510.fasta.gz\nprimary:
-    \npretext_hap1: s3://genomeark/species/Passer_domesticus/bPasDom1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bPasDom1_hap1_s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Passer_domesticus/bPasDom1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bPasDom1_hap2_s2_heatmap.pretext\npretext_primary:\nkmer_spectra_img:
-    s3://genomeark/species/Passer_domesticus/bPasDom1/assembly_vgp_HiC_2.0/evaluation/merqury/bPasDom1_png/\npacbio_read_dir:
-    s3://genomeark/species/Passer_domesticus/bPasDom1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Passer_domesticus/bPasDom1/genomic_data/dovetail/\nhic_kit:
-    Dovetail OmniC\npipeline:\n  - hifiasm (0.19.3-r575)\n  - yahs (1.2a.1)\nnotes:
-    This was a hifiasm-HiC assembly of bPasDom1, resulting in two complete haplotypes.
-    This assembly was done by Gabriel David, Uppsala university, Sweden. contact:
-    gbdnorden@gmail.com\n"
+- data: species:&nbsp;Passer&nbsp;domesticus<br>specimen:&nbsp;bPasDom1<br>projects:<br>&nbsp;&nbsp;-&nbsp;erga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Passer_domesticus/bPasDom1/assembly_vgp_HiC_2.0/bPasDom1.HiC.hap1.20230510.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Passer_domesticus/bPasDom1/assembly_vgp_HiC_2.0/bPasDom1.HiC.hap2.20230510.fasta.gz<br>primary:&nbsp;<br>pretext_hap1:&nbsp;s3://genomeark/species/Passer_domesticus/bPasDom1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bPasDom1_hap1_s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Passer_domesticus/bPasDom1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bPasDom1_hap2_s2_heatmap.pretext<br>pretext_primary:<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Passer_domesticus/bPasDom1/assembly_vgp_HiC_2.0/evaluation/merqury/bPasDom1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Passer_domesticus/bPasDom1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Passer_domesticus/bPasDom1/genomic_data/dovetail/<br>hic_kit:&nbsp;Dovetail&nbsp;OmniC<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3-r575)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bPasDom1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;assembly&nbsp;was&nbsp;done&nbsp;by&nbsp;Gabriel&nbsp;David,&nbsp;Uppsala&nbsp;university,&nbsp;Sweden.&nbsp;contact:&nbsp;gbdnorden@gmail.com<br>
   ident: md8
   title: assembly_vgp_HiC_2.0/bPasDom1.yaml
 name: Passer domesticus

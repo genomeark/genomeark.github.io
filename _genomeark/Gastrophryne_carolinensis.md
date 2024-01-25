@@ -112,39 +112,10 @@ hpb1version: assembly_curated
 last_raw_data: 1651607852
 last_updated: 1657710094
 mds:
-- data: |+
-    species: Gastrophryne carolinensis
-    specimen: aGasCar1
-    projects:
-      - vgp
-    hap1: s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_vgp_HiC_2.0/aGasCar1.HiC.hap1.s2.fasta.gz
-    hap2: s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_vgp_HiC_2.0/aGasCar1.HiC.hap2.s2.fasta.gz
-    hap1_hic_bam: s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_vgp_HiC_2.0/evaluation/pretext/aGasCar1.HiC.hap1.s2.bam
-    hap2_hic_bam: s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_vgp_HiC_2.0/evaluation/pretext/aGasCar1.HiC.hap2.s2.bam
-    hap1_pretext: s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_vgp_HiC_2.0/evaluation/pretext/aGasCar1.HiC.hap1.s2.pretext
-    hap2_pretext: s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_vgp_HiC_2.0/evaluation/pretext/aGasCar1.HiC.hap2.s2.pretext
-    kmer_spectra_img: s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_vgp_HiC_2.0/evaluation/merqury/aGasCar1_png/
-    pipeline:
-      - hifiasm (0.16.1+galaxy2)
-      - yahs (1.1a)
-
+- data: species:&nbsp;Gastrophryne&nbsp;carolinensis<br>specimen:&nbsp;aGasCar1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_vgp_HiC_2.0/aGasCar1.HiC.hap1.s2.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_vgp_HiC_2.0/aGasCar1.HiC.hap2.s2.fasta.gz<br>hap1_hic_bam:&nbsp;s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_vgp_HiC_2.0/evaluation/pretext/aGasCar1.HiC.hap1.s2.bam<br>hap2_hic_bam:&nbsp;s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_vgp_HiC_2.0/evaluation/pretext/aGasCar1.HiC.hap2.s2.bam<br>hap1_pretext:&nbsp;s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_vgp_HiC_2.0/evaluation/pretext/aGasCar1.HiC.hap1.s2.pretext<br>hap2_pretext:&nbsp;s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_vgp_HiC_2.0/evaluation/pretext/aGasCar1.HiC.hap2.s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Gastrophryne_carolinensis/aGasCar1/assembly_vgp_HiC_2.0/evaluation/merqury/aGasCar1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.1a)<br><br>
   ident: md2
   title: assembly_vgp_HiC_2.0/aGasCar1.yaml
-metadata: |
-  species:
-    name: Gastrophryne carolinensis
-    individuals:
-    - short_name: aGasCar1
-    short_name: aGasCar
-    taxon_id: 8429
-    common_name: eastern narrow-mouthed toad
-    genome_size: 4548000000
-    genome_size_method: GoAT
-    order:
-      name: Anura
-    family:
-      name: Microhylidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Gastrophryne&nbsp;carolinensis<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aGasCar1<br>&nbsp;&nbsp;short_name:&nbsp;aGasCar<br>&nbsp;&nbsp;taxon_id:&nbsp;8429<br>&nbsp;&nbsp;common_name:&nbsp;eastern&nbsp;narrow-mouthed&nbsp;toad<br>&nbsp;&nbsp;genome_size:&nbsp;4548000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anura<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Microhylidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Gastrophryne carolinensis
 name_: Gastrophryne_carolinensis
 project:

@@ -83,21 +83,7 @@ genome_size_display: 1.40 Gbp
 genome_size_method: ''
 last_raw_data: 1559739259
 last_updated: 1569703950
-metadata: |
-  species:
-    common_name: common tern
-    family:
-      name: Laridae
-    genome_size: 1400000000
-    genome_size_method: null
-    individuals:
-    - short_name: bSteHir1
-    name: Sterna hirundo
-    order:
-      name: Charadriiformes
-    short_name: bSteHir
-    taxon_id: 108405
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;tern<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Laridae<br>&nbsp;&nbsp;genome_size:&nbsp;1400000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bSteHir1<br>&nbsp;&nbsp;name:&nbsp;Sterna&nbsp;hirundo<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;short_name:&nbsp;bSteHir<br>&nbsp;&nbsp;taxon_id:&nbsp;108405<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-09-18
 mito1filesize: 5.7 KiB
 mito1length: '19053'

@@ -83,21 +83,7 @@ genome_size_display: 1.18 Gbp
 genome_size_method: ''
 last_raw_data: 1523524486
 last_updated: 1570719802
-metadata: |
-  species:
-    short_name: fGouWil
-    name: Gouania willdenowi
-    taxon_id: 441366
-    common_name: blunt-snouted clingfish
-    order:
-      name: Blenniiformes
-    family:
-      name: Gobiesocidae
-    individuals:
-      - short_name: fGouWil2
-    genome_size: 1182215999
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fGouWil<br>&nbsp;&nbsp;name:&nbsp;Gouania&nbsp;willdenowi<br>&nbsp;&nbsp;taxon_id:&nbsp;441366<br>&nbsp;&nbsp;common_name:&nbsp;blunt-snouted&nbsp;clingfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Blenniiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gobiesocidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fGouWil2<br>&nbsp;&nbsp;genome_size:&nbsp;1182215999<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2019-10-02
 mito2filesize: 5.3 KiB
 mito2length: '19076'

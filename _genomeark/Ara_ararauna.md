@@ -101,40 +101,10 @@ hpb1version: assembly_curated
 last_raw_data: 1651611545
 last_updated: 1674673262
 mds:
-- data: |+
-    species: Ara ararauna
-    specimen: bAraAra1
-    projects:
-      - vgp
-    hap1: s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/bAraAra1.HiC.hap1.20220601.fasta.gz
-    hap2: s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/bAraAra1.HiC.hap2.20220601.fasta.gz
-    hap1_hic_bam: s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bAraAra1_hap1__s2.bam
-    hap2_hic_bam: s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bAraAra1_hap2__s2.bam
-    hap1_pretext: s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bAraAra1_hap1__s2_heatmap.pretext
-    hap2_pretext: s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bAraAra1_hap2__s2_heatmap.pretext
-    kmer_spectra_img: s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/merqury/bAraAra1_png/
-    pipeline:
-      - hifiasm (0.16.1+galaxy2)
-      - solve (3.7)
-      - salsa (2.3+galaxy2)
-
+- data: species:&nbsp;Ara&nbsp;ararauna<br>specimen:&nbsp;bAraAra1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/bAraAra1.HiC.hap1.20220601.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/bAraAra1.HiC.hap2.20220601.fasta.gz<br>hap1_hic_bam:&nbsp;s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bAraAra1_hap1__s2.bam<br>hap2_hic_bam:&nbsp;s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bAraAra1_hap2__s2.bam<br>hap1_pretext:&nbsp;s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bAraAra1_hap1__s2_heatmap.pretext<br>hap2_pretext:&nbsp;s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bAraAra1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/merqury/bAraAra1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)<br><br>
   ident: md4
   title: assembly_vgp_HiC_2.0/bAraAra1.yaml
-metadata: |
-  species:
-    name: Ara ararauna
-    individuals:
-    - short_name: bAraAra1
-    short_name: bAraAra
-    taxon_id: 9226
-    common_name: blue-and-yellow macaw
-    genome_size: 1412000000
-    genome_size_method: GoAT
-    order:
-      name: Psittaciformes
-    family:
-      name: Psittacidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Ara&nbsp;ararauna<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAraAra1<br>&nbsp;&nbsp;short_name:&nbsp;bAraAra<br>&nbsp;&nbsp;taxon_id:&nbsp;9226<br>&nbsp;&nbsp;common_name:&nbsp;blue-and-yellow&nbsp;macaw<br>&nbsp;&nbsp;genome_size:&nbsp;1412000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Psittaciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Psittacidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Ara ararauna
 name_: Ara_ararauna
 project:

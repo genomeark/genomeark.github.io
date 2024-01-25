@@ -60,26 +60,7 @@ genome_size_display: 1.40 Gbp
 genome_size_method: GoaT
 last_raw_data: 1701345213
 last_updated: 1704848736
-metadata: |
-  species:
-    short_name: bPhaCar
-    name: Phalacrocorax carbo
-    taxon_id: 9209
-    common_name: great cormorant
-    order:
-      name: Suliformes
-    family:
-      name: Phalacrocoracidae
-    individuals:
-      - short_name: bPhaCar2
-        biosample_id: SAMEA8228692
-        sex: female
-      - short_name: bPhaCar3
-        biosample_id: SAMEA112468128
-        sex: male
-    genome_size: 1398540000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bPhaCar<br>&nbsp;&nbsp;name:&nbsp;Phalacrocorax&nbsp;carbo<br>&nbsp;&nbsp;taxon_id:&nbsp;9209<br>&nbsp;&nbsp;common_name:&nbsp;great&nbsp;cormorant<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Suliformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phalacrocoracidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPhaCar2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8228692<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPhaCar3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468128<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1398540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-12-02
 mito2filesize: 5.7 KiB
 mito2length: '19046'

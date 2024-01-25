@@ -21,23 +21,7 @@ genome_size_display: 3.37 Gbp
 genome_size_method: GoaT
 last_raw_data: 1702721362
 last_updated: 1702721362
-metadata: |
-  species:
-    short_name: sRajMon
-    name: Raja montagui
-    taxon_id: 27588
-    common_name: spotted ray
-    order:
-      name: Rajiformes
-    family:
-      name: Rajidae
-    individuals:
-      - short_name: sRajMon1
-        biosample_id: SAMEA114298640
-        sex:
-    genome_size: 3374100000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;sRajMon<br>&nbsp;&nbsp;name:&nbsp;Raja&nbsp;montagui<br>&nbsp;&nbsp;taxon_id:&nbsp;27588<br>&nbsp;&nbsp;common_name:&nbsp;spotted&nbsp;ray<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rajiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rajidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sRajMon1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114298640<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;3374100000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Raja montagui
 name_: Raja_montagui
 project:

@@ -121,21 +121,7 @@ genome_size_display: 2.07 Gbp
 genome_size_method: ''
 last_raw_data: 1574700572
 last_updated: 1608059563
-metadata: |
-  species:
-    short_name: sAmbRad
-    name: Amblyraja radiata
-    taxon_id: 386614
-    common_name: Thorny skate
-    order:
-      name: Rajiformes
-    family:
-      name: Rajidae
-    individuals:
-      - short_name: sAmbRad1
-    genome_size: 2072923533
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;sAmbRad<br>&nbsp;&nbsp;name:&nbsp;Amblyraja&nbsp;radiata<br>&nbsp;&nbsp;taxon_id:&nbsp;386614<br>&nbsp;&nbsp;common_name:&nbsp;Thorny&nbsp;skate<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rajiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rajidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sAmbRad1<br>&nbsp;&nbsp;genome_size:&nbsp;2072923533<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2020-04-15
 mito1filesize: 5.0 KiB
 mito1length: '16785'

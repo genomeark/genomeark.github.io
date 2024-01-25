@@ -62,23 +62,7 @@ genome_size_display: 1.25 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675912662
 last_updated: 1678289759
-metadata: |
-  species:
-    short_name: fSilAri
-    name: Silurus aristotelis
-    taxon_id: 933932
-    common_name: Aristotle's catfish
-    order:
-      name: Siluriformes
-    family:
-      name: Siluridae
-    individuals:
-      - short_name: fSilAri3
-        biosample_id: SAMEA12595289
-        sex: male
-    genome_size: 1251840000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fSilAri<br>&nbsp;&nbsp;name:&nbsp;Silurus&nbsp;aristotelis<br>&nbsp;&nbsp;taxon_id:&nbsp;933932<br>&nbsp;&nbsp;common_name:&nbsp;Aristotle's&nbsp;catfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Siluriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Siluridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fSilAri3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12595289<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1251840000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Silurus aristotelis
 name_: Silurus_aristotelis
 pri3date: 2023-03-08

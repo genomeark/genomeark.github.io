@@ -31,23 +31,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1651598048
 last_updated: 1651598048
-metadata: |
-  species:
-    short_name: mApoFla
-    name: Apodemus flavicollis
-    taxon_id: 54292
-    common_name: yellow-necked mouse
-    order:
-      name: Rodentia
-    family:
-      name: Muridae
-    individuals:
-      - short_name: mApoFla1
-        biosample_id: SAMEA7702025
-        sex: male
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mApoFla<br>&nbsp;&nbsp;name:&nbsp;Apodemus&nbsp;flavicollis<br>&nbsp;&nbsp;taxon_id:&nbsp;54292<br>&nbsp;&nbsp;common_name:&nbsp;yellow-necked&nbsp;mouse<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Muridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mApoFla1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7702025<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Apodemus flavicollis
 name_: Apodemus_flavicollis
 project:

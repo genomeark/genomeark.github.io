@@ -60,23 +60,7 @@ genome_size_display: 25.76 Gbp
 genome_size_method: GoaT
 last_raw_data: 1703330674
 last_updated: 1703943798
-metadata: |
-  species:
-    short_name: aLisHel
-    name: Lissotriton helveticus
-    taxon_id: 256425
-    common_name: palmate newt
-    order:
-      name: Caudata
-    family:
-      name: Salamandridae
-    individuals:
-      - short_name: aLisHel1
-        biosample_id: SAMEA110240860
-        sex: male
-    genome_size: 25760520000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;aLisHel<br>&nbsp;&nbsp;name:&nbsp;Lissotriton&nbsp;helveticus<br>&nbsp;&nbsp;taxon_id:&nbsp;256425<br>&nbsp;&nbsp;common_name:&nbsp;palmate&nbsp;newt<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Caudata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Salamandridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aLisHel1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110240860<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;25760520000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-12-30
 mito1filesize: 5.2 KiB
 mito1length: '16340'

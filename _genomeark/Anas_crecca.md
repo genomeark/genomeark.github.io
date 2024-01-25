@@ -31,23 +31,7 @@ genome_size_display: 1.38 Gbp
 genome_size_method: GoaT
 last_raw_data: 1702401107
 last_updated: 1702401107
-metadata: |
-  species:
-    short_name: bAnaCre
-    name: Anas crecca
-    taxon_id: 75839
-    common_name: Common teal
-    order:
-      name: Anseriformes
-    family:
-      name: Anatidae
-    individuals:
-      - short_name: bAnaCre1
-        biosample_id: SAMEA112468121
-        sex: male
-    genome_size: 1378980000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bAnaCre<br>&nbsp;&nbsp;name:&nbsp;Anas&nbsp;crecca<br>&nbsp;&nbsp;taxon_id:&nbsp;75839<br>&nbsp;&nbsp;common_name:&nbsp;Common&nbsp;teal<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAnaCre1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468121<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1378980000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Anas crecca
 name_: Anas_crecca
 project:

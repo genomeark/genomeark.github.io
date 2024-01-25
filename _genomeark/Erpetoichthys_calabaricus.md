@@ -83,23 +83,7 @@ genome_size_display: 3.81 Gbp
 genome_size_method: ''
 last_raw_data: 1675874607
 last_updated: 1675874607
-metadata: |
-  species:
-    short_name: fErpCal
-    name: Erpetoichthys calabaricus
-    taxon_id: 27687
-    common_name: reedfish
-    order:
-      name: Polypteriformes
-    family:
-      name: Polypteridae
-    individuals:
-      - short_name: fErpCal1
-        biosample_id: SAMEA104026374
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fErpCal<br>&nbsp;&nbsp;name:&nbsp;Erpetoichthys&nbsp;calabaricus<br>&nbsp;&nbsp;taxon_id:&nbsp;27687<br>&nbsp;&nbsp;common_name:&nbsp;reedfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Polypteriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Polypteridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fErpCal1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA104026374<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-02
 mito1filesize: 5.0 KiB
 mito1length: '16619'

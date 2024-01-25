@@ -60,23 +60,7 @@ genome_size_display: 0.71 Gbp
 genome_size_method: GoaT
 last_raw_data: 1686682147
 last_updated: 1694649697
-metadata: |
-  species:
-    short_name: fMicVar
-    name: Microchirus variegatus
-    taxon_id: 90074
-    common_name: thickback sole
-    order:
-      name: Pleuronectiformes
-    family:
-      name: Soleidae
-    individuals:
-      - short_name: fMicVar1
-        biosample_id: SAMEA12219470
-        sex: female
-    genome_size: 713940000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fMicVar<br>&nbsp;&nbsp;name:&nbsp;Microchirus&nbsp;variegatus<br>&nbsp;&nbsp;taxon_id:&nbsp;90074<br>&nbsp;&nbsp;common_name:&nbsp;thickback&nbsp;sole<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pleuronectiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Soleidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fMicVar1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12219470<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;713940000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-07-01
 mito1filesize: 5.5 KiB
 mito1length: '17421'

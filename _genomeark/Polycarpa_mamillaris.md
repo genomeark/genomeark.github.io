@@ -21,23 +21,7 @@ genome_size_display: 0.72 Gbp
 genome_size_method: GoaT
 last_raw_data: 1698418508
 last_updated: 1698418508
-metadata: |
-  species:
-    short_name: kaPolMami
-    name: Polycarpa mamillaris
-    taxon_id: 2170621
-    common_name: (A sea squirt)
-    order:
-      name: Stolidobranchia
-    family:
-      name: Styelidae
-    individuals:
-      - short_name: kaPolMami1
-        biosample_id: SAMEA112789121
-        sex:
-    genome_size: 723720000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;kaPolMami<br>&nbsp;&nbsp;name:&nbsp;Polycarpa&nbsp;mamillaris<br>&nbsp;&nbsp;taxon_id:&nbsp;2170621<br>&nbsp;&nbsp;common_name:&nbsp;(A&nbsp;sea&nbsp;squirt)<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Stolidobranchia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Styelidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;kaPolMami1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112789121<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;723720000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Polycarpa mamillaris
 name_: Polycarpa_mamillaris
 project:

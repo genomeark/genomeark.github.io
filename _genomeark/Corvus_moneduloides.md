@@ -83,21 +83,7 @@ genome_size_display: 1.25 Gbp
 genome_size_method: ''
 last_raw_data: 1564251926
 last_updated: 1569703784
-metadata: |
-  species:
-    common_name: New Caledonian crow
-    family:
-      name: Corvidae
-    genome_size: 1250000000
-    genome_size_method: null
-    individuals:
-    - short_name: bCorMon1
-    name: Corvus moneduloides
-    order:
-      name: Passeriformes
-    short_name: bCorMon
-    taxon_id: 1196302
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;New&nbsp;Caledonian&nbsp;crow<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Corvidae<br>&nbsp;&nbsp;genome_size:&nbsp;1250000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCorMon1<br>&nbsp;&nbsp;name:&nbsp;Corvus&nbsp;moneduloides<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;short_name:&nbsp;bCorMon<br>&nbsp;&nbsp;taxon_id:&nbsp;1196302<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-09-18
 mito1filesize: 5.1 KiB
 mito1length: '16895'

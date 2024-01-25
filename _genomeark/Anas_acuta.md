@@ -60,23 +60,7 @@ genome_size_display: 1.38 Gbp
 genome_size_method: GoaT
 last_raw_data: 1689690433
 last_updated: 1691520488
-metadata: |
-  species:
-    short_name: bAnaAcu
-    name: Anas acuta
-    taxon_id: 28680
-    common_name: northern pintail
-    order:
-      name: Anseriformes
-    family:
-      name: Anatidae
-    individuals:
-      - short_name: bAnaAcu1
-        biosample_id: SAMEA112468036
-        sex: male
-    genome_size: 1378980000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bAnaAcu<br>&nbsp;&nbsp;name:&nbsp;Anas&nbsp;acuta<br>&nbsp;&nbsp;taxon_id:&nbsp;28680<br>&nbsp;&nbsp;common_name:&nbsp;northern&nbsp;pintail<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAnaAcu1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468036<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1378980000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-07-29
 mito1filesize: 5.3 KiB
 mito1length: '16601'

@@ -62,23 +62,7 @@ genome_size_display: 1.40 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675878155
 last_updated: 1676381754
-metadata: |
-  species:
-    short_name: bHalAlb
-    name: Haliaeetus albicilla
-    taxon_id: 8969
-    common_name: white-tailed eagle
-    order:
-      name: Accipitriformes
-    family:
-      name: Accipitridae
-    individuals:
-      - short_name: bHalAlb1
-        biosample_id: SAMEA12857288
-        sex: female
-    genome_size: 1398540000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bHalAlb<br>&nbsp;&nbsp;name:&nbsp;Haliaeetus&nbsp;albicilla<br>&nbsp;&nbsp;taxon_id:&nbsp;8969<br>&nbsp;&nbsp;common_name:&nbsp;white-tailed&nbsp;eagle<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Accipitriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Accipitridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bHalAlb1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12857288<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1398540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Haliaeetus albicilla
 name_: Haliaeetus_albicilla
 pri1date: 2023-02-14

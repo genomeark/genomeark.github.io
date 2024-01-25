@@ -51,21 +51,7 @@ genome_size_display: 0.82 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651598130
 last_updated: 1651598130
-metadata: |
-  species:
-    name: Spirinchus thaleichthys
-    individuals:
-    - short_name: fSpiTha1
-    short_name: fSpiTha
-    taxon_id: 260508
-    common_name: longfin smelt
-    genome_size: 822000000
-    genome_size_method: GoAT
-    order:
-      name: Osmeriformes
-    family:
-      name: Osmeridae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Spirinchus&nbsp;thaleichthys<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fSpiTha1<br>&nbsp;&nbsp;short_name:&nbsp;fSpiTha<br>&nbsp;&nbsp;taxon_id:&nbsp;260508<br>&nbsp;&nbsp;common_name:&nbsp;longfin&nbsp;smelt<br>&nbsp;&nbsp;genome_size:&nbsp;822000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Osmeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Osmeridae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Spirinchus thaleichthys
 name_: Spirinchus_thaleichthys
 project:

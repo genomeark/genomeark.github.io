@@ -61,16 +61,7 @@ genome_size_method: ''
 last_raw_data: 1684791179
 last_updated: 1694197176
 mds:
-- data: "species: Ranitomeya imitator\nspecimen: aRanImi1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nprimary: s3://genomeark/species/Ranitomeya_imitator/aRanImi1/assembly_stanford_dovetail/aRanImi1.stanford.pri.fasta.gz\npretext:
-    s3://genomeark/species/Ranitomeya_imitator/aRanImi1/assembly_stanford_dovetail/evaluation/aRanImi1_pri.pretext\nmito:
-    s3://genomeark/species/Ranitomeya_imitator/aRanImi1/assembly_MT_rockefeller/aRanImi1.MT.20230615.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Ranitomeya_imitator/aRanImi1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Ranitomeya_imitator/aRanImi1/genomic_data/dovetail/\npipeline:\n
-    \ - hifiasm\n  - hirise\nassembled_by_group: Stanford\nnotes: This was a primary
-    assemblhy of aRanImi1 produced at Stanford University, assembled by Dovetail using
-    their assembly service. This is a Phase 1 sample that we are submitting for a
-    curation."
+- data: species:&nbsp;Ranitomeya&nbsp;imitator<br>specimen:&nbsp;aRanImi1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Ranitomeya_imitator/aRanImi1/assembly_stanford_dovetail/aRanImi1.stanford.pri.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Ranitomeya_imitator/aRanImi1/assembly_stanford_dovetail/evaluation/aRanImi1_pri.pretext<br>mito:&nbsp;s3://genomeark/species/Ranitomeya_imitator/aRanImi1/assembly_MT_rockefeller/aRanImi1.MT.20230615.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Ranitomeya_imitator/aRanImi1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Ranitomeya_imitator/aRanImi1/genomic_data/dovetail/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm<br>&nbsp;&nbsp;-&nbsp;hirise<br>assembled_by_group:&nbsp;Stanford<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary&nbsp;assemblhy&nbsp;of&nbsp;aRanImi1&nbsp;produced&nbsp;at&nbsp;Stanford&nbsp;University,&nbsp;assembled&nbsp;by&nbsp;Dovetail&nbsp;using&nbsp;their&nbsp;assembly&nbsp;service.&nbsp;This&nbsp;is&nbsp;a&nbsp;Phase&nbsp;1&nbsp;sample&nbsp;that&nbsp;we&nbsp;are&nbsp;submitting&nbsp;for&nbsp;a&nbsp;curation.
   ident: md11
   title: assembly_stanford_dovetail/aRanImi1.yml
 mito1date: 2023-06-15

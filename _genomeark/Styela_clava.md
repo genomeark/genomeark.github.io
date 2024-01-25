@@ -31,23 +31,7 @@ genome_size_display: 0.72 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675925818
 last_updated: 1675925818
-metadata: |
-  species:
-    short_name: kaStyClav
-    name: Styela clava
-    taxon_id: 7725
-    common_name: A solitary sea squirt
-    order:
-      name: Stolidobranchia
-    family:
-      name: Styelidae
-    individuals:
-      - short_name: kaStyClav1
-        biosample_id: SAMEA7536473
-        sex:
-    genome_size: 723720000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;kaStyClav<br>&nbsp;&nbsp;name:&nbsp;Styela&nbsp;clava<br>&nbsp;&nbsp;taxon_id:&nbsp;7725<br>&nbsp;&nbsp;common_name:&nbsp;A&nbsp;solitary&nbsp;sea&nbsp;squirt<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Stolidobranchia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Styelidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;kaStyClav1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7536473<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;723720000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Styela clava
 name_: Styela_clava
 project:

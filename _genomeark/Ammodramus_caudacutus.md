@@ -93,38 +93,10 @@ genome_size_method: GoAT
 last_raw_data: 1651595293
 last_updated: 1651595293
 mds:
-- data: |-
-    species: Ammodramus caudacutus
-    specimen: bAmmCau1
-    projects:
-     - vgp
-    primary: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/bAmmCau1.pri.asm.20220223.fasta.gz
-    haplotigs: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/bAmmCau1.alt.asm.20220223.fasta.gz
-    hic_bam: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bAmmCau1_s2.bam
-    pretext: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bAmmCau1_heatmap.pretext
-    kmer_spectra_img: s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/evaluation/merqury/p/bAmmCau1_png/
-    pipeline:
-      - hifiasm (0.15.4+galaxy0)
-      - purge_dups (1.2.5+galaxy3)
-      - solve (3.6.1+galaxy2)
-      - salsa (2.3+galaxy2)
+- data: species:&nbsp;Ammodramus&nbsp;caudacutus<br>specimen:&nbsp;bAmmCau1<br>projects:<br>&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/bAmmCau1.pri.asm.20220223.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/bAmmCau1.alt.asm.20220223.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bAmmCau1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bAmmCau1_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/evaluation/merqury/p/bAmmCau1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.6.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)
   ident: md4
   title: assembly_vgp_standard_2.0/bAmmCau1.yaml
-metadata: |
-  species:
-    name: Ammodramus caudacutus
-    individuals:
-    - short_name: bAmmCau1
-    short_name: bAmmCau
-    taxon_id: 69262
-    common_name: saltmarsh sparrow
-    genome_size: 1306000000
-    genome_size_method: GoAT
-    order:
-      name: Passeriformes
-    family:
-      name: Passerellidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Ammodramus&nbsp;caudacutus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAmmCau1<br>&nbsp;&nbsp;short_name:&nbsp;bAmmCau<br>&nbsp;&nbsp;taxon_id:&nbsp;69262<br>&nbsp;&nbsp;common_name:&nbsp;saltmarsh&nbsp;sparrow<br>&nbsp;&nbsp;genome_size:&nbsp;1306000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passerellidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Ammodramus caudacutus
 name_: Ammodramus_caudacutus
 pri1date: 2022-04-22

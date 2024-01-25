@@ -175,17 +175,7 @@ hpb1sizes: |
 hpb1version: assembly_curated
 last_raw_data: 1693431724
 last_updated: 1698800864
-metadata: "species:\n  name: Equus caballus\n  short_name: mEquCab\n  common_name:
-  horse\n  taxon_id: 9796\n  order:\n    name: Perissodactyla\n  family:\n    name:
-  Equidae\n  individuals:\n  - \n    short_name: mEquCab1\n    biosample_id: null\n
-  \   description: null\n    provider: null\n  - \n    short_name: mEquCab2\n    biosample_id:
-  null\n    description: null\n    provider: null\n  - \n    short_name: mEquCab3\n
-  \   biosample_id: null\n    description: null\n    provider: null\n  - \n    short_name:
-  mEquCab4\n    biosample_id: null\n    strain: null\n    alt_ids:\n    - 3958\n    sex:
-  female\n    description: >\n      This individual is the dam for a mule trio (mEquAca1).\n
-  \     The sire for the trio is mEquAsi1.\n    provider: Ted Kalbfleisch (University
-  of Kentucky)\n    mother: null\n    father: null\n  genome_size: 3110000000\n  genome_size_method:
-  GoaT\n  project: [ ]\n"
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Equus&nbsp;caballus<br>&nbsp;&nbsp;short_name:&nbsp;mEquCab<br>&nbsp;&nbsp;common_name:&nbsp;horse<br>&nbsp;&nbsp;taxon_id:&nbsp;9796<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perissodactyla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Equidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mEquCab1<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;null<br>&nbsp;&nbsp;-&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mEquCab2<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;null<br>&nbsp;&nbsp;-&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mEquCab3<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;null<br>&nbsp;&nbsp;-&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mEquCab4<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;3958<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;individual&nbsp;is&nbsp;the&nbsp;dam&nbsp;for&nbsp;a&nbsp;mule&nbsp;trio&nbsp;(mEquAca1).<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The&nbsp;sire&nbsp;for&nbsp;the&nbsp;trio&nbsp;is&nbsp;mEquAsi1.<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Ted&nbsp;Kalbfleisch&nbsp;(University&nbsp;of&nbsp;Kentucky)<br>&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;genome_size:&nbsp;3110000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;]<br>
 mito1date: 2023-02-10
 mito1filesize: 5.3 KiB
 mito1length: '16605'

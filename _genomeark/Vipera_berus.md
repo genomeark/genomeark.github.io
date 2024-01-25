@@ -21,23 +21,7 @@ genome_size_display: 2.33 Gbp
 genome_size_method: GoaT
 last_raw_data: 1702994436
 last_updated: 1702994436
-metadata: |
-  species:
-    short_name: rVipBer
-    name: Vipera berus
-    taxon_id: 31155
-    common_name: adder
-    order:
-      name: Squamata
-    family:
-      name: Viperidae
-    individuals:
-      - short_name: rVipBer3
-        biosample_id: SAMEA114293681
-        sex: female
-    genome_size: 2327640000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;rVipBer<br>&nbsp;&nbsp;name:&nbsp;Vipera&nbsp;berus<br>&nbsp;&nbsp;taxon_id:&nbsp;31155<br>&nbsp;&nbsp;common_name:&nbsp;adder<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Viperidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rVipBer3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114293681<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;2327640000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Vipera berus
 name_: Vipera_berus
 project:

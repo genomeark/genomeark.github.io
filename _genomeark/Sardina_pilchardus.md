@@ -60,23 +60,7 @@ genome_size_display: 1.00 Gbp
 genome_size_method: GoaT
 last_raw_data: 1696968833
 last_updated: 1702342838
-metadata: |
-  species:
-    short_name: fSarPil
-    name: Sardina pilchardus
-    taxon_id: 27697
-    common_name: sardine
-    order:
-      name: Clupeiformes
-    family:
-      name: Clupeidae
-    individuals:
-      - short_name: fSarPil1
-        biosample_id: SAMEA111562172
-        sex:
-    genome_size: 997560000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fSarPil<br>&nbsp;&nbsp;name:&nbsp;Sardina&nbsp;pilchardus<br>&nbsp;&nbsp;taxon_id:&nbsp;27697<br>&nbsp;&nbsp;common_name:&nbsp;sardine<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Clupeiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Clupeidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fSarPil1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111562172<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;997560000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-10-10
 mito1filesize: 5.7 KiB
 mito1length: '17568'

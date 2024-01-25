@@ -101,143 +101,16 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mds:
-- data: |
-    samples:
-    - biomaterial_provider: ARMI Monash University
-      bioproject_accession: PRJNA516733
-      birth_date: ''
-      birth_location: ''
-      breed: ''
-      collected_by: Frank Tulenko
-      collection_date: 02/01/2019
-      common_name: epaulette shark
-      description: Tissue samples from laboratory-raised pre-hatchling Epaulette shark.
-        Frozen tissue was dissected on dry ice on 5-Sept-2019 at VGL.
-      dev_stage: juvenile
-      geo_loc_name: 'Australia '
-      isolate: sHemOce1
-      lat_lon: -37.915047 S, 145.129272 E
-      organism: Hemiscyllium ocellatum
-      sex: male
-      specimen_voucher: '1654'
-      store_cond: -80C
-      taxon_Id: '170820'
-      tissue: Spleen
-      treatment: Frozen
-      tube_id: sHemOce1
-    - biomaterial_provider: ARMI Monash University
-      bioproject_accession: PRJNA516733
-      birth_date: ''
-      birth_location: ''
-      breed: ''
-      collected_by: 'Frank Tulenko '
-      collection_date: 02/01/2019
-      common_name: epaulette shark
-      description: Tissue samples from laboratory-raised pre-hatchling Epaulette sharks.
-        Frozen tissue was dissected on dry ice on 5-Sept-2019 at VGL.
-      dev_stage: juvenile
-      geo_loc_name: Australia
-      isolate: sHemOce1
-      lat_lon: -37.915047 S, 145.129272 E
-      organism: Hemiscyllium ocellatum
-      sex: male
-      specimen_voucher: ''
-      store_cond: -80C
-      taxon_Id: '170820'
-      tissue: Heart
-      treatment: Frozen
-      tube_id: sHemOce1
-    - biomaterial_provider: ARMI Monash University
-      bioproject_accession: PRJNA516733
-      birth_date: ''
-      birth_location: ''
-      breed: ''
-      collected_by: Frank Tulenko
-      collection_date: 02/01/2019
-      common_name: epaulette shark
-      description: Tissue samples from laboratory-raised pre-hatchling Epaulette sharks.
-        Frozen tissue was dissected on dry ice on 5-Sept-2019 at VGL.
-      dev_stage: juvenile
-      geo_loc_name: Australia
-      isolate: sHemOce1
-      lat_lon: -37.915047 S, 145.129272 E
-      organism: Hemiscyllium ocellatum
-      sex: male
-      specimen_voucher: ''
-      store_cond: -80C
-      taxon_Id: '170820'
-      tissue: Muscle
-      treatment: Frozen
-      tube_id: sHemOce1
+- data: samples:<br>-&nbsp;biomaterial_provider:&nbsp;ARMI&nbsp;Monash&nbsp;University<br>&nbsp;&nbsp;bioproject_accession:&nbsp;PRJNA516733<br>&nbsp;&nbsp;birth_date:&nbsp;''<br>&nbsp;&nbsp;birth_location:&nbsp;''<br>&nbsp;&nbsp;breed:&nbsp;''<br>&nbsp;&nbsp;collected_by:&nbsp;Frank&nbsp;Tulenko<br>&nbsp;&nbsp;collection_date:&nbsp;02/01/2019<br>&nbsp;&nbsp;common_name:&nbsp;epaulette&nbsp;shark<br>&nbsp;&nbsp;description:&nbsp;Tissue&nbsp;samples&nbsp;from&nbsp;laboratory-raised&nbsp;pre-hatchling&nbsp;Epaulette&nbsp;shark.<br>&nbsp;&nbsp;&nbsp;&nbsp;Frozen&nbsp;tissue&nbsp;was&nbsp;dissected&nbsp;on&nbsp;dry&nbsp;ice&nbsp;on&nbsp;5-Sept-2019&nbsp;at&nbsp;VGL.<br>&nbsp;&nbsp;dev_stage:&nbsp;juvenile<br>&nbsp;&nbsp;geo_loc_name:&nbsp;'Australia&nbsp;'<br>&nbsp;&nbsp;isolate:&nbsp;sHemOce1<br>&nbsp;&nbsp;lat_lon:&nbsp;-37.915047&nbsp;S,&nbsp;145.129272&nbsp;E<br>&nbsp;&nbsp;organism:&nbsp;Hemiscyllium&nbsp;ocellatum<br>&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;specimen_voucher:&nbsp;'1654'<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'170820'<br>&nbsp;&nbsp;tissue:&nbsp;Spleen<br>&nbsp;&nbsp;treatment:&nbsp;Frozen<br>&nbsp;&nbsp;tube_id:&nbsp;sHemOce1<br>-&nbsp;biomaterial_provider:&nbsp;ARMI&nbsp;Monash&nbsp;University<br>&nbsp;&nbsp;bioproject_accession:&nbsp;PRJNA516733<br>&nbsp;&nbsp;birth_date:&nbsp;''<br>&nbsp;&nbsp;birth_location:&nbsp;''<br>&nbsp;&nbsp;breed:&nbsp;''<br>&nbsp;&nbsp;collected_by:&nbsp;'Frank&nbsp;Tulenko&nbsp;'<br>&nbsp;&nbsp;collection_date:&nbsp;02/01/2019<br>&nbsp;&nbsp;common_name:&nbsp;epaulette&nbsp;shark<br>&nbsp;&nbsp;description:&nbsp;Tissue&nbsp;samples&nbsp;from&nbsp;laboratory-raised&nbsp;pre-hatchling&nbsp;Epaulette&nbsp;sharks.<br>&nbsp;&nbsp;&nbsp;&nbsp;Frozen&nbsp;tissue&nbsp;was&nbsp;dissected&nbsp;on&nbsp;dry&nbsp;ice&nbsp;on&nbsp;5-Sept-2019&nbsp;at&nbsp;VGL.<br>&nbsp;&nbsp;dev_stage:&nbsp;juvenile<br>&nbsp;&nbsp;geo_loc_name:&nbsp;Australia<br>&nbsp;&nbsp;isolate:&nbsp;sHemOce1<br>&nbsp;&nbsp;lat_lon:&nbsp;-37.915047&nbsp;S,&nbsp;145.129272&nbsp;E<br>&nbsp;&nbsp;organism:&nbsp;Hemiscyllium&nbsp;ocellatum<br>&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;specimen_voucher:&nbsp;''<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'170820'<br>&nbsp;&nbsp;tissue:&nbsp;Heart<br>&nbsp;&nbsp;treatment:&nbsp;Frozen<br>&nbsp;&nbsp;tube_id:&nbsp;sHemOce1<br>-&nbsp;biomaterial_provider:&nbsp;ARMI&nbsp;Monash&nbsp;University<br>&nbsp;&nbsp;bioproject_accession:&nbsp;PRJNA516733<br>&nbsp;&nbsp;birth_date:&nbsp;''<br>&nbsp;&nbsp;birth_location:&nbsp;''<br>&nbsp;&nbsp;breed:&nbsp;''<br>&nbsp;&nbsp;collected_by:&nbsp;Frank&nbsp;Tulenko<br>&nbsp;&nbsp;collection_date:&nbsp;02/01/2019<br>&nbsp;&nbsp;common_name:&nbsp;epaulette&nbsp;shark<br>&nbsp;&nbsp;description:&nbsp;Tissue&nbsp;samples&nbsp;from&nbsp;laboratory-raised&nbsp;pre-hatchling&nbsp;Epaulette&nbsp;sharks.<br>&nbsp;&nbsp;&nbsp;&nbsp;Frozen&nbsp;tissue&nbsp;was&nbsp;dissected&nbsp;on&nbsp;dry&nbsp;ice&nbsp;on&nbsp;5-Sept-2019&nbsp;at&nbsp;VGL.<br>&nbsp;&nbsp;dev_stage:&nbsp;juvenile<br>&nbsp;&nbsp;geo_loc_name:&nbsp;Australia<br>&nbsp;&nbsp;isolate:&nbsp;sHemOce1<br>&nbsp;&nbsp;lat_lon:&nbsp;-37.915047&nbsp;S,&nbsp;145.129272&nbsp;E<br>&nbsp;&nbsp;organism:&nbsp;Hemiscyllium&nbsp;ocellatum<br>&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;specimen_voucher:&nbsp;''<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'170820'<br>&nbsp;&nbsp;tissue:&nbsp;Muscle<br>&nbsp;&nbsp;treatment:&nbsp;Frozen<br>&nbsp;&nbsp;tube_id:&nbsp;sHemOce1<br>
   ident: md42
   title: sHemOce1_metadata.yml
-- data: |
-    samples:
-    - biomaterial_provider: ARMI Monash University
-      bioproject_accession: PRJNA516733
-      birth_date: ''
-      birth_location: ''
-      breed: ''
-      collected_by: Frank Tulenko
-      collection_date: 02/13/2019
-      common_name: epaulette shark
-      description: Blood samples were collected from wild caught, laboratory reared adult;
-        Mother of sHemOce1
-      dev_stage: adult
-      geo_loc_name: 'Australia '
-      isolate: sHemOce2
-      lat_lon: -37.915047 S, 145.129272 E
-      organism: Hemiscyllium ocellatum
-      sex: female
-      specimen_voucher: ''
-      store_cond: -80C
-      taxon_Id: '170820'
-      tissue: Whole blood
-      treatment: EDTA collection tube; Flash Frozen
-      tube_id: sHemOce2
+- data: samples:<br>-&nbsp;biomaterial_provider:&nbsp;ARMI&nbsp;Monash&nbsp;University<br>&nbsp;&nbsp;bioproject_accession:&nbsp;PRJNA516733<br>&nbsp;&nbsp;birth_date:&nbsp;''<br>&nbsp;&nbsp;birth_location:&nbsp;''<br>&nbsp;&nbsp;breed:&nbsp;''<br>&nbsp;&nbsp;collected_by:&nbsp;Frank&nbsp;Tulenko<br>&nbsp;&nbsp;collection_date:&nbsp;02/13/2019<br>&nbsp;&nbsp;common_name:&nbsp;epaulette&nbsp;shark<br>&nbsp;&nbsp;description:&nbsp;Blood&nbsp;samples&nbsp;were&nbsp;collected&nbsp;from&nbsp;wild&nbsp;caught,&nbsp;laboratory&nbsp;reared&nbsp;adult;<br>&nbsp;&nbsp;&nbsp;&nbsp;Mother&nbsp;of&nbsp;sHemOce1<br>&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;geo_loc_name:&nbsp;'Australia&nbsp;'<br>&nbsp;&nbsp;isolate:&nbsp;sHemOce2<br>&nbsp;&nbsp;lat_lon:&nbsp;-37.915047&nbsp;S,&nbsp;145.129272&nbsp;E<br>&nbsp;&nbsp;organism:&nbsp;Hemiscyllium&nbsp;ocellatum<br>&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;specimen_voucher:&nbsp;''<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'170820'<br>&nbsp;&nbsp;tissue:&nbsp;Whole&nbsp;blood<br>&nbsp;&nbsp;treatment:&nbsp;EDTA&nbsp;collection&nbsp;tube;&nbsp;Flash&nbsp;Frozen<br>&nbsp;&nbsp;tube_id:&nbsp;sHemOce2<br>
   ident: md51
   title: sHemOce2_metadata.yml
-- data: |
-    samples:
-    - biomaterial_provider: ARMI Monash University
-      bioproject_accession: PRJNA516733
-      birth_date: ''
-      birth_location: ''
-      breed: ''
-      collected_by: Frank Tulenko
-      collection_date: 02/13/2019
-      common_name: epaulette shark
-      description: Blood samples were collected from wild-caught, laboratory-reared adult.
-        Father of sHemOce1.
-      dev_stage: adult
-      geo_loc_name: 'Australia '
-      isolate: sHemOce3
-      lat_lon: -37.915047 S, 145.129272 E
-      organism: Hemiscyllium ocellatum
-      sex: male
-      specimen_voucher: ''
-      store_cond: -80C
-      taxon_Id: '170820'
-      tissue: Whole blood
-      treatment: EDTA collection tube; Flash Frozen
-      tube_id: sHemOce3
+- data: samples:<br>-&nbsp;biomaterial_provider:&nbsp;ARMI&nbsp;Monash&nbsp;University<br>&nbsp;&nbsp;bioproject_accession:&nbsp;PRJNA516733<br>&nbsp;&nbsp;birth_date:&nbsp;''<br>&nbsp;&nbsp;birth_location:&nbsp;''<br>&nbsp;&nbsp;breed:&nbsp;''<br>&nbsp;&nbsp;collected_by:&nbsp;Frank&nbsp;Tulenko<br>&nbsp;&nbsp;collection_date:&nbsp;02/13/2019<br>&nbsp;&nbsp;common_name:&nbsp;epaulette&nbsp;shark<br>&nbsp;&nbsp;description:&nbsp;Blood&nbsp;samples&nbsp;were&nbsp;collected&nbsp;from&nbsp;wild-caught,&nbsp;laboratory-reared&nbsp;adult.<br>&nbsp;&nbsp;&nbsp;&nbsp;Father&nbsp;of&nbsp;sHemOce1.<br>&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;geo_loc_name:&nbsp;'Australia&nbsp;'<br>&nbsp;&nbsp;isolate:&nbsp;sHemOce3<br>&nbsp;&nbsp;lat_lon:&nbsp;-37.915047&nbsp;S,&nbsp;145.129272&nbsp;E<br>&nbsp;&nbsp;organism:&nbsp;Hemiscyllium&nbsp;ocellatum<br>&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;specimen_voucher:&nbsp;''<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'170820'<br>&nbsp;&nbsp;tissue:&nbsp;Whole&nbsp;blood<br>&nbsp;&nbsp;treatment:&nbsp;EDTA&nbsp;collection&nbsp;tube;&nbsp;Flash&nbsp;Frozen<br>&nbsp;&nbsp;tube_id:&nbsp;sHemOce3<br>
   ident: md60
   title: sHemOce3_metadata.yml
-metadata: |
-  species:
-    common_name: epaulette shark
-    family:
-      name: Hemiscylliidae
-    genome_size: 5500000000
-    genome_size_method: null
-    individuals:
-    - short_name: sHemOce1
-    name: Hemiscyllium ocellatum
-    order:
-      name: Orectolobiformes
-    short_name: sHemOce
-    taxon_id: 170820
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;epaulette&nbsp;shark<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hemiscylliidae<br>&nbsp;&nbsp;genome_size:&nbsp;5500000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sHemOce1<br>&nbsp;&nbsp;name:&nbsp;Hemiscyllium&nbsp;ocellatum<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Orectolobiformes<br>&nbsp;&nbsp;short_name:&nbsp;sHemOce<br>&nbsp;&nbsp;taxon_id:&nbsp;170820<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mgd1date: 2021-05-28
 mgd1filesize: 1.1 GiB
 mgd1length: '3983466396'

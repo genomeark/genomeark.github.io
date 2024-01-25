@@ -93,43 +93,10 @@ genome_size_method: GoAT
 last_raw_data: 1651622311
 last_updated: 1672769874
 mds:
-- data: |
-    species: Monodelphis_domestica
-    specimen: mMonDom1
-    projects:
-    -vgp
-    primary:
-    s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/https://genomeark.s3.amazonaws.com/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/mMonDom1.pri.asm.20220212.fasta.gz
-    haplotigs:
-    s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/mMonDom1.alt.asm.20211231.fasta.gz
-    hic_bam:
-    s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMonDom1_s2.bam
-    pretext:
-    s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMonDom1_heatmap.pretext
-    kmer_spectra_img:
-    s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/evaluation/merqury/p/mMonDom1_png/
-    pipeline:
-      - hifiasm (0.15.4+galaxy)
-      - purge_dups (1.2.5+galaxy3)
-      - bionano_solve (3.6.1+galaxy2)
-      - salsa (2.3+galaxy0)
+- data: species:&nbsp;Monodelphis_domestica<br>specimen:&nbsp;mMonDom1<br>projects:<br>-vgp<br>primary:<br>s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/https://genomeark.s3.amazonaws.com/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/mMonDom1.pri.asm.20220212.fasta.gz<br>haplotigs:<br>s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/mMonDom1.alt.asm.20211231.fasta.gz<br>hic_bam:<br>s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMonDom1_s2.bam<br>pretext:<br>s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMonDom1_heatmap.pretext<br>kmer_spectra_img:<br>s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/evaluation/merqury/p/mMonDom1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(3.6.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy0)<br>
   ident: md6
   title: assembly_vgp_standard_2.0/mMonDom1.yaml
-metadata: |
-  species:
-    name: Monodelphis domestica
-    individuals:
-    - short_name: mMonDom1
-    short_name: mMonDom
-    taxon_id: 13616
-    common_name: gray short-tailed opossum
-    genome_size: 4592000000
-    genome_size_method: GoAT
-    order:
-      name: Didelphimorphia
-    family:
-      name: Didelphidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Monodelphis&nbsp;domestica<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMonDom1<br>&nbsp;&nbsp;short_name:&nbsp;mMonDom<br>&nbsp;&nbsp;taxon_id:&nbsp;13616<br>&nbsp;&nbsp;common_name:&nbsp;gray&nbsp;short-tailed&nbsp;opossum<br>&nbsp;&nbsp;genome_size:&nbsp;4592000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Didelphimorphia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Didelphidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2022-06-17
 mito1filesize: 5.0 KiB
 mito1length: '17106'

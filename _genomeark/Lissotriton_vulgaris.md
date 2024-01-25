@@ -60,23 +60,7 @@ genome_size_display: 24.65 Gbp
 genome_size_method: GoaT
 last_raw_data: 1701509200
 last_updated: 1704279926
-metadata: |
-  species:
-    short_name: aLisVul
-    name: Lissotriton vulgaris
-    taxon_id: 8324
-    common_name: common newt
-    order:
-      name: Caudata
-    family:
-      name: Salamandridae
-    individuals:
-      - short_name: aLisVul1
-        biosample_id: SAMEA110240861
-        sex: female
-    genome_size: 24650490000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;aLisVul<br>&nbsp;&nbsp;name:&nbsp;Lissotriton&nbsp;vulgaris<br>&nbsp;&nbsp;taxon_id:&nbsp;8324<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;newt<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Caudata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Salamandridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aLisVul1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110240861<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;24650490000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-01-02
 mito1filesize: 5.2 KiB
 mito1length: '16369'

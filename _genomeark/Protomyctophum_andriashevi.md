@@ -21,23 +21,7 @@ genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1701344961
 last_updated: 1701344961
-metadata: |
-  species:
-    short_name: fProAnd
-    name: Protomyctophum andriashevi
-    taxon_id: 443713
-    common_name: Andriashev's lanternfish
-    order:
-      name: Myctophiformes
-    family:
-      name: Myctophidae
-    individuals:
-      - short_name: fProAnd1
-        biosample_id: SAMEA12815433
-        sex: male
-    genome_size: 1907100000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fProAnd<br>&nbsp;&nbsp;name:&nbsp;Protomyctophum&nbsp;andriashevi<br>&nbsp;&nbsp;taxon_id:&nbsp;443713<br>&nbsp;&nbsp;common_name:&nbsp;Andriashev's&nbsp;lanternfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fProAnd1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12815433<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1907100000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Protomyctophum andriashevi
 name_: Protomyctophum_andriashevi
 project:

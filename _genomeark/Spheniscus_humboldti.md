@@ -93,38 +93,10 @@ genome_size_method: GoAT
 last_raw_data: 1651597110
 last_updated: 1651597110
 mds:
-- data: |-
-    species: Spheniscus humboldti
-    specimen: bSphHub1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/assembly_vgp_standard_2.0/bSphHub1.pri.asm.20220209.fasta.gz
-    haplotigs: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/assembly_vgp_standard_2.0/bSphHub1.alt.asm.20220209.fasta.gz
-    hic_bam: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bSphHub1_s2.bam
-    pretext: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bSphHub1_heatmap.pretext
-    kmer_spectra_img: s3://genomeark/species/Spheniscus_humboldti/bSphHub1/assembly_vgp_standard_2.0/evaluation/merqury/p/bSphHub1_png/
-    pipeline:
-      - hifiasm (0.16.1+galaxy1)
-      - purge_dups (1.2.5+galaxy3)
-      - solve (3.7.0+galaxy0)
-      - salsa (2.3+galaxy2)
+- data: species:&nbsp;Spheniscus&nbsp;humboldti<br>specimen:&nbsp;bSphHub1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Spheniscus_humboldti/bSphHub1/assembly_vgp_standard_2.0/bSphHub1.pri.asm.20220209.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Spheniscus_humboldti/bSphHub1/assembly_vgp_standard_2.0/bSphHub1.alt.asm.20220209.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Spheniscus_humboldti/bSphHub1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bSphHub1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Spheniscus_humboldti/bSphHub1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bSphHub1_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Spheniscus_humboldti/bSphHub1/assembly_vgp_standard_2.0/evaluation/merqury/p/bSphHub1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy1)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)
   ident: md4
   title: assembly_vgp_standard_2.0/bSphHub1.yaml
-metadata: |
-  species:
-    name: Spheniscus humboldti
-    individuals:
-    - short_name: bSphHub1
-    short_name: bSphHub
-    taxon_id: '9240'
-    common_name: Humboldt's penguin
-    genome_size: 1594000000
-    genome_size_method: GoAT
-    order:
-      name: Sphenisciformes
-    family:
-      name: Spheniscidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Spheniscus&nbsp;humboldti<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bSphHub1<br>&nbsp;&nbsp;short_name:&nbsp;bSphHub<br>&nbsp;&nbsp;taxon_id:&nbsp;'9240'<br>&nbsp;&nbsp;common_name:&nbsp;Humboldt's&nbsp;penguin<br>&nbsp;&nbsp;genome_size:&nbsp;1594000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Sphenisciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Spheniscidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Spheniscus humboldti
 name_: Spheniscus_humboldti
 pri1date: 2022-03-22

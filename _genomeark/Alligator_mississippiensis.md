@@ -96,38 +96,10 @@ hpb1version: assembly_curated
 last_raw_data: 1683936202
 last_updated: 1683936202
 mds:
-- data: "species: Sternotherus odoratus\nspecimen: rSteOdo1\nprojects: \n  - vgp\nhaplotype_to_curate:
-    hap2\nhap1: s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/rSteOdo1.HiC.hap1.20230208.fasta.gz\nhap2:
-    s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/rSteOdo1.HiC.hap2.20230208.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rSteOdo1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rSteOdo1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/evaluation/merqury/rSteOdo1_png/\npacbio_read_dir:
-    s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nbionano_cmap_dir: s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/genomic_data/bionano/\nhic_read_dir:
-    s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy4)\n  - solve (3.7)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group:
-    Rockefeller\nnotes: This was a hifiasm-HiC assembly of rSteOdo1, resulting in
-    two complete haplotypes. This individual had bionano data. HiC scaffolding was
-    performed with yahs. The HiC prep was Arima kit 2. The kmer spectra indicates
-    a homogametic specimen. We are submitting haplotype 2 for curation. MitoHiFi was
-    run on the raw reads, but a full mitogenome could not be recovered. "
+- data: species:&nbsp;Sternotherus&nbsp;odoratus<br>specimen:&nbsp;rSteOdo1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/rSteOdo1.HiC.hap1.20230208.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/rSteOdo1.HiC.hap2.20230208.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rSteOdo1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rSteOdo1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/evaluation/merqury/rSteOdo1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rSteOdo1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;haplotype&nbsp;2&nbsp;for&nbsp;curation.&nbsp;MitoHiFi&nbsp;was&nbsp;run&nbsp;on&nbsp;the&nbsp;raw&nbsp;reads,&nbsp;but&nbsp;a&nbsp;full&nbsp;mitogenome&nbsp;could&nbsp;not&nbsp;be&nbsp;recovered.&nbsp;
   ident: md5
   title: assembly_vgp_HiC_2.0/rSteOdo1_hap2.yml
-metadata: |
-  species:
-    name: Alligator mississippiensis
-    individuals:
-    - short_name: rAllMis1
-    short_name: rAllMis
-    taxon_id: 8496
-    common_name: American alligator
-    genome_size: 2518000000
-    genome_size_method: GoAT
-    order:
-      name: Crocodylia
-    family:
-      name: Alligatoridae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Alligator&nbsp;mississippiensis<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rAllMis1<br>&nbsp;&nbsp;short_name:&nbsp;rAllMis<br>&nbsp;&nbsp;taxon_id:&nbsp;8496<br>&nbsp;&nbsp;common_name:&nbsp;American&nbsp;alligator<br>&nbsp;&nbsp;genome_size:&nbsp;2518000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Crocodylia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Alligatoridae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Alligator mississippiensis
 name_: Alligator_mississippiensis
 project:

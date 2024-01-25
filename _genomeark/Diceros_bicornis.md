@@ -102,81 +102,13 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mds:
-- data: |
-    species: Diceros_bicornis
-    specimen: mDicBic1
-    projects:
-      - vgp
-    mat: s3://genomeark/species/Diceros_bicornis/mDicBic1/assembly_vgp_hifi/mDicBic1.mat.asm.20210507.fasta.gz
-    pat: s3://genomeark/species/Diceros_bicornis/mDicBic1/assembly_vgp_hifi/mDicBic1.pat.asm.20210507.fasta.gz
-    mat_hic_bam: s3://genomeark/species/Diceros_bicornis/mDicBic1/assembly_vgp_hifi/evaluation/pretext/mat_s2/mDicBic1_mat_s2.bam
-    pat_hic_bam: s3://genomeark/species/Diceros_bicornis/mDicBic1/assembly_vgp_hifi/evaluation/pretext/pat_s2/mDicBic1_pat_s2.bam
-    pipeline:
-      - hifiasm (0.15.1-r329)
-      - bionano_solve (Solve3.6.1_11162020)
-      - salsa (v2.2)
+- data: species:&nbsp;Diceros_bicornis<br>specimen:&nbsp;mDicBic1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>mat:&nbsp;s3://genomeark/species/Diceros_bicornis/mDicBic1/assembly_vgp_hifi/mDicBic1.mat.asm.20210507.fasta.gz<br>pat:&nbsp;s3://genomeark/species/Diceros_bicornis/mDicBic1/assembly_vgp_hifi/mDicBic1.pat.asm.20210507.fasta.gz<br>mat_hic_bam:&nbsp;s3://genomeark/species/Diceros_bicornis/mDicBic1/assembly_vgp_hifi/evaluation/pretext/mat_s2/mDicBic1_mat_s2.bam<br>pat_hic_bam:&nbsp;s3://genomeark/species/Diceros_bicornis/mDicBic1/assembly_vgp_hifi/evaluation/pretext/pat_s2/mDicBic1_pat_s2.bam<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.1-r329)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(Solve3.6.1_11162020)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(v2.2)<br>
   ident: md5
   title: assembly_vgp_hifi/mDicBic1.yaml
-- data: |
-    samples:
-    - Sample Source: Smithsonian Conservation Biology Institute
-      VGP_Id: mDicBic1
-      birth_date: ''
-      collected_by: Budhan Pukazhenthi
-      collection_date: 03/20/2016
-      common_name: black rhinoceros
-      description: 'For VGP sequencing - trio binning. This is the DAUGHTER.; subspecies:
-        Diceros bicornis bicornis'
-      dev_stage: juvenile
-      geo_loc_name: USA
-      individual_id: ''
-      lat_lon: ''
-      scientific_name: Diceros bicornis
-      sex: female
-      store_cond: -80C
-      taxon_Id: '9805'
-      tissue: Blood
-      treatment: Flash Frozen
-      tube_id: mDicBic1.BL4,mDicBic1.BL2,mDicBic1.BL1
+- data: samples:<br>-&nbsp;Sample&nbsp;Source:&nbsp;Smithsonian&nbsp;Conservation&nbsp;Biology&nbsp;Institute<br>&nbsp;&nbsp;VGP_Id:&nbsp;mDicBic1<br>&nbsp;&nbsp;birth_date:&nbsp;''<br>&nbsp;&nbsp;collected_by:&nbsp;Budhan&nbsp;Pukazhenthi<br>&nbsp;&nbsp;collection_date:&nbsp;03/20/2016<br>&nbsp;&nbsp;common_name:&nbsp;black&nbsp;rhinoceros<br>&nbsp;&nbsp;description:&nbsp;'For&nbsp;VGP&nbsp;sequencing&nbsp;-&nbsp;trio&nbsp;binning.&nbsp;This&nbsp;is&nbsp;the&nbsp;DAUGHTER.;&nbsp;subspecies:<br>&nbsp;&nbsp;&nbsp;&nbsp;Diceros&nbsp;bicornis&nbsp;bicornis'<br>&nbsp;&nbsp;dev_stage:&nbsp;juvenile<br>&nbsp;&nbsp;geo_loc_name:&nbsp;USA<br>&nbsp;&nbsp;individual_id:&nbsp;''<br>&nbsp;&nbsp;lat_lon:&nbsp;''<br>&nbsp;&nbsp;scientific_name:&nbsp;Diceros&nbsp;bicornis<br>&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'9805'<br>&nbsp;&nbsp;tissue:&nbsp;Blood<br>&nbsp;&nbsp;treatment:&nbsp;Flash&nbsp;Frozen<br>&nbsp;&nbsp;tube_id:&nbsp;mDicBic1.BL4,mDicBic1.BL2,mDicBic1.BL1<br>
   ident: md42
   title: mDicBic1_metadata.yml
-metadata: |
-  species:
-    short_name: mDicBic
-    name: Diceros bicornis
-    taxon_id: 9805
-    common_name: black rhinoceros
-    order:
-      name: Perissodactyla
-    family:
-      name: Rhinocerotidae
-    individuals:
-      - short_name: mDicBic1
-        provider: Budhan Pukazhenthi, Klaus Koepfli
-        sex: female
-        mother: mDicBic2
-        father: mDicBic3
-        subspecies:
-          name: Diceros bicornis bicornis
-          common_name: southern black rhinoceros
-          taxon_id: 1081385
-      - short_name: mDicBic2
-        provider: Budhan Pukazhenthi, Klaus Koepfli
-        sex: female
-        subspecies:
-          name: Diceros bicornis bicornis
-          common_name: southern black rhinoceros
-          taxon_id: 1081385
-      - short_name: mDicBic3
-        provider: Budhan Pukazhenthi, Klaus Koepfli
-        sex: male
-        subspecies:
-          name: Diceros bicornis bicornis
-          common_name: southern black rhinoceros
-          taxon_id: 1081385
-    genome_size: 3000000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mDicBic<br>&nbsp;&nbsp;name:&nbsp;Diceros&nbsp;bicornis<br>&nbsp;&nbsp;taxon_id:&nbsp;9805<br>&nbsp;&nbsp;common_name:&nbsp;black&nbsp;rhinoceros<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perissodactyla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhinocerotidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mDicBic1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Budhan&nbsp;Pukazhenthi,&nbsp;Klaus&nbsp;Koepfli<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;mDicBic2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;mDicBic3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Diceros&nbsp;bicornis&nbsp;bicornis<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common_name:&nbsp;southern&nbsp;black&nbsp;rhinoceros<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taxon_id:&nbsp;1081385<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mDicBic2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Budhan&nbsp;Pukazhenthi,&nbsp;Klaus&nbsp;Koepfli<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Diceros&nbsp;bicornis&nbsp;bicornis<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common_name:&nbsp;southern&nbsp;black&nbsp;rhinoceros<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taxon_id:&nbsp;1081385<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mDicBic3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Budhan&nbsp;Pukazhenthi,&nbsp;Klaus&nbsp;Koepfli<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Diceros&nbsp;bicornis&nbsp;bicornis<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common_name:&nbsp;southern&nbsp;black&nbsp;rhinoceros<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taxon_id:&nbsp;1081385<br>&nbsp;&nbsp;genome_size:&nbsp;3000000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Diceros bicornis
 name_: Diceros_bicornis
 pat1date: 2021-07-16

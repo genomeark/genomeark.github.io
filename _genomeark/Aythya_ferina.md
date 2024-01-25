@@ -31,23 +31,7 @@ genome_size_display: 1.35 Gbp
 genome_size_method: GoaT
 last_raw_data: 1689689825
 last_updated: 1689689825
-metadata: |
-  species:
-    short_name: bAytFer
-    name: Aythya ferina
-    taxon_id: 219593
-    common_name: common pochard
-    order:
-      name: Anseriformes
-    family:
-      name: Anatidae
-    individuals:
-      - short_name: bAytFer1
-        biosample_id: SAMEA112468034
-        sex: female
-    genome_size: 1349640000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bAytFer<br>&nbsp;&nbsp;name:&nbsp;Aythya&nbsp;ferina<br>&nbsp;&nbsp;taxon_id:&nbsp;219593<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;pochard<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAytFer1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468034<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1349640000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Aythya ferina
 name_: Aythya_ferina
 project:

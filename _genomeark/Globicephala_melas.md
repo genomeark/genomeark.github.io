@@ -60,23 +60,7 @@ genome_size_display: 3.08 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691523566
 last_updated: 1694476891
-metadata: |
-  species:
-    short_name: mGloMel
-    name: Globicephala melas
-    taxon_id: 9731
-    common_name: long-finned pilot whale
-    order:
-      name: Cetacea
-    family:
-      name: Delphinidae
-    individuals:
-      - short_name: mGloMel1
-        biosample_id: SAMEA111380538
-        sex: male
-    genome_size: 3080700000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mGloMel<br>&nbsp;&nbsp;name:&nbsp;Globicephala&nbsp;melas<br>&nbsp;&nbsp;taxon_id:&nbsp;9731<br>&nbsp;&nbsp;common_name:&nbsp;long-finned&nbsp;pilot&nbsp;whale<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cetacea<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Delphinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mGloMel1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111380538<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;3080700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-08-08
 mito1filesize: 5.2 KiB
 mito1length: '16390'

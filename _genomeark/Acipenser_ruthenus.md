@@ -111,13 +111,7 @@ mat3sizes: |
   </tfoot>
   </table>
 mat3version: assembly_curated
-metadata: "species:\n  short_name: fAciRut\n  name: Acipenser ruthenus\n  taxon_id:
-  7906\n  common_name: sterlet\n  order:\n    name: Acipenseriformes\n  family:\n
-  \   name: Acipenseridae\n  individuals:\n    - short_name: fAciRut1\n      biosample_id:
-  SAMEA5572860\n      sex: female\n    - short_name: fAciRut2\n      biosample_id:
-  SAMEA5572861\n      sex: male\n    - short_name: fAciRut3\n      biosample_id: SAMEA5572864\n
-  \     mother: fAciRut1\n      father: fAciRut2\n  genome_size: \n  genome_size_method:\n
-  \ project: [ vgp ]\n"
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fAciRut<br>&nbsp;&nbsp;name:&nbsp;Acipenser&nbsp;ruthenus<br>&nbsp;&nbsp;taxon_id:&nbsp;7906<br>&nbsp;&nbsp;common_name:&nbsp;sterlet<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Acipenseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Acipenseridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fAciRut1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA5572860<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fAciRut2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA5572861<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fAciRut3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA5572864<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;fAciRut1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;fAciRut2<br>&nbsp;&nbsp;genome_size:&nbsp;<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito3date: 2019-10-02
 mito3filesize: 5.0 KiB
 mito3length: '16706'

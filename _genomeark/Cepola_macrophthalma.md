@@ -21,23 +21,7 @@ genome_size_display: 0.80 Gbp
 genome_size_method: GoaT
 last_raw_data: 1692284926
 last_updated: 1692284926
-metadata: |
-  species:
-    short_name: fCepMac
-    name: Cepola macrophthalma
-    taxon_id: 334382
-    common_name: red bandfish
-    order:
-      name: Perciformes
-    family:
-      name: Cepolidae
-    individuals:
-      - short_name: fCepMac1
-        biosample_id: SAMEA112788985
-        sex:
-    genome_size: 797070000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fCepMac<br>&nbsp;&nbsp;name:&nbsp;Cepola&nbsp;macrophthalma<br>&nbsp;&nbsp;taxon_id:&nbsp;334382<br>&nbsp;&nbsp;common_name:&nbsp;red&nbsp;bandfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cepolidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCepMac1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112788985<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;797070000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Cepola macrophthalma
 name_: Cepola_macrophthalma
 project:

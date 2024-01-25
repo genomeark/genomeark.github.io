@@ -62,23 +62,7 @@ genome_size_display: 1.30 Gbp
 genome_size_method: GoaT
 last_raw_data: 1676136421
 last_updated: 1692211698
-metadata: |
-  species:
-    short_name: fSquCep
-    name: Squalius cephalus
-    taxon_id: 8284
-    common_name: European chub
-    order:
-      name: Cypriniformes
-    family:
-      name: Cyprinidae
-    individuals:
-      - short_name: fSquCep2
-        biosample_id: SAMEA11296547
-        sex:
-    genome_size: 1300740000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fSquCep<br>&nbsp;&nbsp;name:&nbsp;Squalius&nbsp;cephalus<br>&nbsp;&nbsp;taxon_id:&nbsp;8284<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;chub<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cypriniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyprinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fSquCep2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA11296547<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1300740000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-02-12
 mito2filesize: 5.4 KiB
 mito2length: '16610'

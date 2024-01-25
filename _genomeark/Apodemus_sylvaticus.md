@@ -73,26 +73,7 @@ genome_size_display: 2.89 Gbp
 genome_size_method: ''
 last_raw_data: 1651598199
 last_updated: 1678366862
-metadata: |
-  species:
-    short_name: mApoSyl
-    name: Apodemus sylvaticus
-    taxon_id: 10129
-    common_name: wood mouse
-    order:
-      name: Rodentia
-    family:
-      name: Muridae
-    individuals:
-      - short_name: mApoSyl1
-        biosample_id: SAMEA7702024
-        sex: male
-      - short_name: mApoSyl2
-        biosample_id: SAMEA7702026
-        sex: female
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mApoSyl<br>&nbsp;&nbsp;name:&nbsp;Apodemus&nbsp;sylvaticus<br>&nbsp;&nbsp;taxon_id:&nbsp;10129<br>&nbsp;&nbsp;common_name:&nbsp;wood&nbsp;mouse<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Muridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mApoSyl1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7702024<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mApoSyl2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7702026<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Apodemus sylvaticus
 name_: Apodemus_sylvaticus
 pri1date: 2023-03-09

@@ -71,40 +71,10 @@ genome_size_method: ''
 last_raw_data: 1692822278
 last_updated: 1692822278
 mds:
-- data: |-
-    species: Rhinolophus_sinicus
-    specimen: mRhiSin1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/assembly_vgp_2.0/mRhiSin1.pri.asm.20210801.fasta.gz
-    haplotigs: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/assembly_vgp_2.0/mRhiSin1.alt.asm.20210801.fasta.gz
-    hic_bam: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/assembly_vgp_2.0/evaluation/pretext/s2/mRhiSin1_s2.bam
-    pretext: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/assembly_vgp_2.0/evaluation/pretext/s2/mRhiSin1_s2.pretext
-    kmer_spectra_img: s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/assembly_vgp_2.0/evaluation/merqury/p1q2_hifi/p1q2.hifi.spectra-cn.fl.png
-    pipeline:
-      - hifiasm (0.12-r304)
-      - purge_dups (1.2.5)
-      - bionano_solve (Solve3.6.1_11162020)
-      - salsa (v2.2)
+- data: species:&nbsp;Rhinolophus_sinicus<br>specimen:&nbsp;mRhiSin1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/assembly_vgp_2.0/mRhiSin1.pri.asm.20210801.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/assembly_vgp_2.0/mRhiSin1.alt.asm.20210801.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/assembly_vgp_2.0/evaluation/pretext/s2/mRhiSin1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/assembly_vgp_2.0/evaluation/pretext/s2/mRhiSin1_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Rhinolophus_sinicus/mRhiSin1/assembly_vgp_2.0/evaluation/merqury/p1q2_hifi/p1q2.hifi.spectra-cn.fl.png<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.12-r304)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(Solve3.6.1_11162020)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(v2.2)
   ident: md4
   title: assembly_vgp_2.0/mRhiSin1.yaml
-metadata: |
-  species:
-    short_name: mHipLar
-    name: Hipposideros larvatus
-    taxon_id: 175524
-    common_name: intermediate roundleaf bat
-    order:
-      name: Chiroptera
-    family:
-      name: Hipposideridae
-    individuals:
-      - short_name: mHipLar1
-        provider: Jianguo Lu
-        sex: male
-    genome_size: 2900000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mHipLar<br>&nbsp;&nbsp;name:&nbsp;Hipposideros&nbsp;larvatus<br>&nbsp;&nbsp;taxon_id:&nbsp;175524<br>&nbsp;&nbsp;common_name:&nbsp;intermediate&nbsp;roundleaf&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hipposideridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mHipLar1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Jianguo&nbsp;Lu<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2900000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Hipposideros larvatus
 name_: Hipposideros_larvatus
 pri1date: 2021-09-20

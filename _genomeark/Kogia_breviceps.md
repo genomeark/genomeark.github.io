@@ -111,24 +111,7 @@ hpb1version: assembly_curated
 last_raw_data: 1651598014
 last_updated: 1667504411
 mds:
-- data: |+
-    species: Kogia_breviceps
-    specimen: mKogBre1
-    projects:
-      - vgp
-    mat: s3://genomeark/species/Kogia_breviceps/mKogBre1/assembly_vgp_standard_2.0/mKogBre1.20220510.hap1.s2.fasta
-    pat: s3://genomeark/species/Kogia_breviceps/mKogBre1/assembly_vgp_standard_2.0/mKogBre1.20220510.hap2.s2.fasta
-    mat_hic_bam: s3://genomeark/species/Kogia_breviceps/mKogBre1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mKogBre1.hap1.s2.bam
-    pat_hic_bam: s3://genomeark/species/Kogia_breviceps/mKogBre1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mKogBre1.hap2.s2.bam
-    mat_pretext: s3://genomeark/species/Kogia_breviceps/mKogBre1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mKogBre1.hap1.s2.pretext
-    pat_pretext: s3://genomeark/species/Kogia_breviceps/mKogBre1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mKogBre1.hap2.s2.pretext
-    kmer_spectra_img: currently NA.
-    pipeline:
-      - hifiasm (0.16.1-r375)
-      - solve (3.7)
-      - salsa (2.3)
-
-
+- data: species:&nbsp;Kogia_breviceps<br>specimen:&nbsp;mKogBre1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>mat:&nbsp;s3://genomeark/species/Kogia_breviceps/mKogBre1/assembly_vgp_standard_2.0/mKogBre1.20220510.hap1.s2.fasta<br>pat:&nbsp;s3://genomeark/species/Kogia_breviceps/mKogBre1/assembly_vgp_standard_2.0/mKogBre1.20220510.hap2.s2.fasta<br>mat_hic_bam:&nbsp;s3://genomeark/species/Kogia_breviceps/mKogBre1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mKogBre1.hap1.s2.bam<br>pat_hic_bam:&nbsp;s3://genomeark/species/Kogia_breviceps/mKogBre1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mKogBre1.hap2.s2.bam<br>mat_pretext:&nbsp;s3://genomeark/species/Kogia_breviceps/mKogBre1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mKogBre1.hap1.s2.pretext<br>pat_pretext:&nbsp;s3://genomeark/species/Kogia_breviceps/mKogBre1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mKogBre1.hap2.s2.pretext<br>kmer_spectra_img:&nbsp;currently&nbsp;NA.<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1-r375)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3)<br><br><br>
   ident: md4
   title: assembly_vgp_standard_2.0/mKogBre1.yaml
 name: Kogia breviceps
@@ -136,5 +119,4 @@ name_: Kogia_breviceps
 project: ~
 short_name: mKogBre
 taxon_id: ''
-...
 ---

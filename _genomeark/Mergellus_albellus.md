@@ -31,23 +31,7 @@ genome_size_display: 1.38 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687193268
 last_updated: 1687193268
-metadata: |
-  species:
-    short_name: bMerAlb
-    name: Mergellus albellus
-    taxon_id: 107026
-    common_name: Smew
-    order:
-      name: Anseriformes
-    family:
-      name: Anatidae
-    individuals:
-      - short_name: bMerAlb1
-        biosample_id: SAMEA112468122
-        sex: female
-    genome_size: 1378980000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bMerAlb<br>&nbsp;&nbsp;name:&nbsp;Mergellus&nbsp;albellus<br>&nbsp;&nbsp;taxon_id:&nbsp;107026<br>&nbsp;&nbsp;common_name:&nbsp;Smew<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bMerAlb1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468122<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1378980000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Mergellus albellus
 name_: Mergellus_albellus
 project:

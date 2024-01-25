@@ -257,73 +257,7 @@ hpb3sizes: |
 hpb3version: assembly_curated
 last_raw_data: 1702946292
 last_updated: 1702946292
-metadata: |
-  species:
-    short_name: mPanTro
-    name: Pan troglodytes
-    common_name: chimpanzee
-    taxon_id: 9598
-    order:
-      name: Primates
-    family:
-      name: Hominidae
-    individuals:
-    -
-        short_name: mPanTro1
-        name: Clint
-        biosample_id: null
-        strain: null
-        subspecies: null
-        alt_ids:
-        - Clint_PTR
-        - Clint_PTR_HFSS
-        - S006007
-        sex: male
-        description: >
-          The 'reference' genome chimp;
-          Yerkes chimp pedigree #C0471 (Clint);
-        provider: Evan Eichler (University of Washington), Coriell
-        father: null
-        mother: null
-    -
-        short_name: mPanTro3
-        name: null
-        biosample_id: SAMN30216104
-        strain: null
-        subspecies: null
-        alt_ids:
-        - AG18354
-        - AG18354_PTR
-        - non-Clint
-        sex: male
-        description: null
-        provider: Laura Carrel (The Pennsylvania State University), originally acquired from Coriell
-        father: null
-        mother: null
-    -
-        short_name: mPanTro4
-        name: null
-        biosample_id: null
-        strain: null
-        subspecies: null
-        alt_ids:
-        - PTR_8720-2
-        - Ptr 8720-2
-        - 8720
-        sex: male
-        description: null
-        provider: University of Texas, MD Anderson Cancer Center, Michael E. Keeling Center for Comparative Medicine and Research
-        father: null
-        mother: null
-        samples:
-        -
-           sample_id: mPanTro4.testis1
-           tissue: testis
-           dev_stage: adult
-           sample_biosample_id: SAMN31975257
-    genome_size: 3613710000
-    genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-    project: [ vgp, t2t ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPanTro<br>&nbsp;&nbsp;name:&nbsp;Pan&nbsp;troglodytes<br>&nbsp;&nbsp;common_name:&nbsp;chimpanzee<br>&nbsp;&nbsp;taxon_id:&nbsp;9598<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hominidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mPanTro1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Clint<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Clint_PTR<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Clint_PTR_HFSS<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;S006007<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The&nbsp;'reference'&nbsp;genome&nbsp;chimp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yerkes&nbsp;chimp&nbsp;pedigree&nbsp;#C0471&nbsp;(Clint);<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Evan&nbsp;Eichler&nbsp;(University&nbsp;of&nbsp;Washington),&nbsp;Coriell<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mPanTro3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMN30216104<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;AG18354<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;AG18354_PTR<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;non-Clint<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Laura&nbsp;Carrel&nbsp;(The&nbsp;Pennsylvania&nbsp;State&nbsp;University),&nbsp;originally&nbsp;acquired&nbsp;from&nbsp;Coriell<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mPanTro4<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;PTR_8720-2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Ptr&nbsp;8720-2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;8720<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;University&nbsp;of&nbsp;Texas,&nbsp;MD&nbsp;Anderson&nbsp;Cancer&nbsp;Center,&nbsp;Michael&nbsp;E.&nbsp;Keeling&nbsp;Center&nbsp;for&nbsp;Comparative&nbsp;Medicine&nbsp;and&nbsp;Research<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;mPanTro4.testis1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;testis<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;SAMN31975257<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mPanTro5<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMN29543730<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;C8861<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;C8861_PTR<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Yoav&nbsp;Gilad&nbsp;(The&nbsp;University&nbsp;of&nbsp;Chicago)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;genome_size:&nbsp;3613710000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;Fuelgen&nbsp;Densitometry/Flow&nbsp;Cytometry<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp,&nbsp;t2t&nbsp;]<br>
 mito1date: 2020-06-25
 mito1filesize: 4.9 KiB
 mito1length: '16556'

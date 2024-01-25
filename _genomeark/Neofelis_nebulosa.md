@@ -93,38 +93,10 @@ genome_size_method: GoAT
 last_raw_data: 1651601208
 last_updated: 1667318819
 mds:
-- data: |-
-    species: Neofelis nebulosa
-    specimen: mNeoNeb1
-    projects:
-     - vgp
-    primary: s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/assembly_vgp_standard_2.0/mNeoNeb1.pri.asm.20220405.fasta.gz
-    haplotigs: s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/assembly_vgp_standard_2.0/mNeoNeb1.alt.asm.20220405.fasta.gz
-    hic_bam: s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mNeoNeb1_s2.bam
-    pretext: s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mNeoNeb1_heatmap.pretext
-    kmer_spectra_img: s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/assembly_vgp_standard_2.0/evaluation/merqury/p/mNeoNeb1_png/
-    pipeline:
-      - hifiasm (0.16.1+galaxy2)
-      - purge_dups (1.2.5+galaxy4)
-      - solve (3.7.0+galaxy0)
-      - salsa (2.3+galaxy2)
+- data: species:&nbsp;Neofelis&nbsp;nebulosa<br>specimen:&nbsp;mNeoNeb1<br>projects:<br>&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/assembly_vgp_standard_2.0/mNeoNeb1.pri.asm.20220405.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/assembly_vgp_standard_2.0/mNeoNeb1.alt.asm.20220405.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mNeoNeb1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mNeoNeb1_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Neofelis_nebulosa/mNeoNeb1/assembly_vgp_standard_2.0/evaluation/merqury/p/mNeoNeb1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy4)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)
   ident: md5
   title: assembly_vgp_standard_2.0/mNeoNeb1.yaml
-metadata: |
-  species:
-    name: Neofelis nebulosa
-    individuals:
-    - short_name: mNeoNeb1
-    short_name: mNeoNeb
-    taxon_id: '61452'
-    common_name: Clouded leopard
-    genome_size: 2709000000
-    genome_size_method: GoAT
-    order:
-      name: Carnivora
-    family:
-      name: Felidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Neofelis&nbsp;nebulosa<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mNeoNeb1<br>&nbsp;&nbsp;short_name:&nbsp;mNeoNeb<br>&nbsp;&nbsp;taxon_id:&nbsp;'61452'<br>&nbsp;&nbsp;common_name:&nbsp;Clouded&nbsp;leopard<br>&nbsp;&nbsp;genome_size:&nbsp;2709000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carnivora<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Felidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2022-06-15
 mito1filesize: 5.0 KiB
 mito1length: '16839'

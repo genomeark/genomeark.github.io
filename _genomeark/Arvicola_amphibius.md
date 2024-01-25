@@ -83,23 +83,7 @@ genome_size_display: 2.30 Gbp
 genome_size_method: ''
 last_raw_data: 1580658763
 last_updated: 1597303643
-metadata: |
-  species:
-    short_name: mArvAmp
-    name: Arvicola amphibius
-    taxon_id: 1047088
-    common_name: European water vole
-    order:
-      name: Rodentia
-    family:
-      name: Cricetidae
-    individuals:
-      - short_name: mArvAmp1
-        biosample_id: SAMEA994740
-        sex: male
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mArvAmp<br>&nbsp;&nbsp;name:&nbsp;Arvicola&nbsp;amphibius<br>&nbsp;&nbsp;taxon_id:&nbsp;1047088<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;water&nbsp;vole<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cricetidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mArvAmp1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA994740<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Arvicola amphibius
 name_: Arvicola_amphibius
 pri1date: 2020-07-24

@@ -83,10 +83,7 @@ genome_size_display: 1.09 Gbp
 genome_size_method: genomescope
 last_raw_data: 1570701747
 last_updated: 1589471718
-metadata: "species:\n  common_name: Indo-Pacific tarpon\n  family:\n    name: Megalopidae\n
-  \ genome_size: 1093257451 \n  genome_size_method: genomescope\n  individuals:\n
-  \ - short_name: fMegCyp1\n  name: Megalops cyprinoides\n  order:\n    name: Elopiformes\n
-  \ short_name: fMegCyp\n  taxon_id: 118141\n  project: [ vgp ]\n"
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;Indo-Pacific&nbsp;tarpon<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Megalopidae<br>&nbsp;&nbsp;genome_size:&nbsp;1093257451&nbsp;<br>&nbsp;&nbsp;genome_size_method:&nbsp;genomescope<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fMegCyp1<br>&nbsp;&nbsp;name:&nbsp;Megalops&nbsp;cyprinoides<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Elopiformes<br>&nbsp;&nbsp;short_name:&nbsp;fMegCyp<br>&nbsp;&nbsp;taxon_id:&nbsp;118141<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-02
 mito1filesize: 4.9 KiB
 mito1length: '17143'

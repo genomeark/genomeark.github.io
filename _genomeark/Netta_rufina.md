@@ -60,23 +60,7 @@ genome_size_display: 1.35 Gbp
 genome_size_method: GoaT
 last_raw_data: 1705164126
 last_updated: 1705338008
-metadata: |
-  species:
-    short_name: bNetRuf
-    name: Netta rufina
-    taxon_id: 30387
-    common_name: red-crested pochard
-    order:
-      name: Anseriformes
-    family:
-      name: Anatidae
-    individuals:
-      - short_name: bNetRuf1
-        biosample_id: SAMEA112468124
-        sex: female
-    genome_size: 1349640000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bNetRuf<br>&nbsp;&nbsp;name:&nbsp;Netta&nbsp;rufina<br>&nbsp;&nbsp;taxon_id:&nbsp;30387<br>&nbsp;&nbsp;common_name:&nbsp;red-crested&nbsp;pochard<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bNetRuf1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468124<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1349640000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-01-15
 mito1filesize: 5.3 KiB
 mito1length: '16625'

@@ -31,23 +31,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1651605195
 last_updated: 1651605195
-metadata: |
-  species:
-    short_name: bCalBor
-    name: Calonectris borealis
-    taxon_id: 1323832
-    common_name: Cory's Shearwater
-    order:
-      name: Procellariiformes
-    family:
-      name: Procellariidae
-    individuals:
-      - short_name: bCalBor6
-        biosample_id: SAMEA8228670
-        sex: female
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bCalBor<br>&nbsp;&nbsp;name:&nbsp;Calonectris&nbsp;borealis<br>&nbsp;&nbsp;taxon_id:&nbsp;1323832<br>&nbsp;&nbsp;common_name:&nbsp;Cory's&nbsp;Shearwater<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Procellariiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Procellariidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCalBor6<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8228670<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Calonectris borealis
 name_: Calonectris_borealis
 project:

@@ -31,21 +31,7 @@ genome_size_display: 4.29 Gbp
 genome_size_method: GoAT
 last_raw_data: 1653683047
 last_updated: 1653683047
-metadata: |
-  species:
-    name: Hyperolius riggenbachi
-    individuals:
-    - short_name: aHypRig1
-    short_name: aHypRig
-    taxon_id: 752182
-    common_name: Riggenbach's reed frog
-    genome_size: 4287000000
-    genome_size_method: GoAT
-    order:
-      name: Anura
-    family:
-      name: Hyperoliidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Hyperolius&nbsp;riggenbachi<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aHypRig1<br>&nbsp;&nbsp;short_name:&nbsp;aHypRig<br>&nbsp;&nbsp;taxon_id:&nbsp;752182<br>&nbsp;&nbsp;common_name:&nbsp;Riggenbach's&nbsp;reed&nbsp;frog<br>&nbsp;&nbsp;genome_size:&nbsp;4287000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anura<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hyperoliidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Hyperolius riggenbachi
 name_: Hyperolius_riggenbachi
 project:

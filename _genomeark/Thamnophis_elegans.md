@@ -83,21 +83,7 @@ genome_size_display: 1.90 Gbp
 genome_size_method: ''
 last_raw_data: 1557292636
 last_updated: 1566486524
-metadata: |
-  species:
-    common_name: Western terrestrial garter snake
-    family:
-      name: Colubridae
-    genome_size: 1900000000
-    genome_size_method: null
-    individuals:
-    - short_name: rThaEle1
-    name: Thamnophis elegans
-    order:
-      name: Squamata
-    short_name: rThaEle
-    taxon_id: 35005
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;Western&nbsp;terrestrial&nbsp;garter&nbsp;snake<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Colubridae<br>&nbsp;&nbsp;genome_size:&nbsp;1900000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rThaEle1<br>&nbsp;&nbsp;name:&nbsp;Thamnophis&nbsp;elegans<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;short_name:&nbsp;rThaEle<br>&nbsp;&nbsp;taxon_id:&nbsp;35005<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Thamnophis elegans
 name_: Thamnophis_elegans
 pri1date: 2019-08-20

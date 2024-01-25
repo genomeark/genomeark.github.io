@@ -21,23 +21,7 @@ genome_size_display: 3.08 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687357035
 last_updated: 1687357035
-metadata: |
-  species:
-    short_name: mGraGri
-    name: Grampus griseus
-    taxon_id: 83653
-    common_name: Risso's dolphin
-    order:
-      name: Cetacea
-    family:
-      name: Delphinidae
-    individuals:
-      - short_name: mGraGri1
-        biosample_id: SAMEA111380541
-        sex: male
-    genome_size: 3080700000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mGraGri<br>&nbsp;&nbsp;name:&nbsp;Grampus&nbsp;griseus<br>&nbsp;&nbsp;taxon_id:&nbsp;83653<br>&nbsp;&nbsp;common_name:&nbsp;Risso's&nbsp;dolphin<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cetacea<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Delphinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mGraGri1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111380541<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;3080700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Grampus griseus
 name_: Grampus_griseus
 project:

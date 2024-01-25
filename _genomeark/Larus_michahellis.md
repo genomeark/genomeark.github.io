@@ -21,23 +21,7 @@ genome_size_display: 1.43 Gbp
 genome_size_method: GoaT
 last_raw_data: 1702721602
 last_updated: 1702721602
-metadata: |
-  species:
-    short_name: bLarMic
-    name: Larus michahellis
-    taxon_id: 119627
-    common_name: yellow-legged gull
-    order:
-      name: Charadriiformes
-    family:
-      name: Laridae
-    individuals:
-      - short_name: bLarMic1
-        biosample_id: SAMEA114211328
-        sex: female
-    genome_size: 1432770000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bLarMic<br>&nbsp;&nbsp;name:&nbsp;Larus&nbsp;michahellis<br>&nbsp;&nbsp;taxon_id:&nbsp;119627<br>&nbsp;&nbsp;common_name:&nbsp;yellow-legged&nbsp;gull<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Laridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bLarMic1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114211328<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1432770000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Larus michahellis
 name_: Larus_michahellis
 project:

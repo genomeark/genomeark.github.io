@@ -31,21 +31,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1537988708
 last_updated: 1537988708
-metadata: |
-  species:
-    short_name: bSpaCya
-    name: Spatula cyanoptera
-    taxon_id: 75840
-    common_name: cinnamon teal
-    order:
-      name: Anseriformes
-    family:
-      name: Anatidae
-    individuals:
-      - short_name: bSpaCya1
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bSpaCya<br>&nbsp;&nbsp;name:&nbsp;Spatula&nbsp;cyanoptera<br>&nbsp;&nbsp;taxon_id:&nbsp;75840<br>&nbsp;&nbsp;common_name:&nbsp;cinnamon&nbsp;teal<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bSpaCya1<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Spatula cyanoptera
 name_: Spatula_cyanoptera
 project:

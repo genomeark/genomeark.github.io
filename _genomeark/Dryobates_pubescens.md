@@ -83,21 +83,7 @@ genome_size_display: 1.40 Gbp
 genome_size_method: ''
 last_raw_data: 1571155873
 last_updated: 1594895381
-metadata: |
-  species:
-    common_name: downy woodpecker
-    family:
-      name: Picidae
-    genome_size: 1400000000
-    genome_size_method: null
-    individuals:
-    - short_name: bDryPub1
-    name: Dryobates pubescens
-    order:
-      name: Piciformes
-    short_name: bDryPub
-    taxon_id: 118200
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;downy&nbsp;woodpecker<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Picidae<br>&nbsp;&nbsp;genome_size:&nbsp;1400000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bDryPub1<br>&nbsp;&nbsp;name:&nbsp;Dryobates&nbsp;pubescens<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Piciformes<br>&nbsp;&nbsp;short_name:&nbsp;bDryPub<br>&nbsp;&nbsp;taxon_id:&nbsp;118200<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-05
 mito1filesize: 5.0 KiB
 mito1length: '16842'

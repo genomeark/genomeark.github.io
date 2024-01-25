@@ -101,21 +101,7 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
-metadata: |
-  species:
-    common_name: budgerigar
-    family:
-      name: Psittaculidae
-    genome_size: 1230000000
-    genome_size_method: null
-    individuals:
-    - short_name: bMelUnd1
-    name: Melopsittacus undulatus
-    order:
-      name: Psittaciformes
-    short_name: bMelUnd
-    taxon_id: 13146
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;budgerigar<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Psittaculidae<br>&nbsp;&nbsp;genome_size:&nbsp;1230000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bMelUnd1<br>&nbsp;&nbsp;name:&nbsp;Melopsittacus&nbsp;undulatus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Psittaciformes<br>&nbsp;&nbsp;short_name:&nbsp;bMelUnd<br>&nbsp;&nbsp;taxon_id:&nbsp;13146<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mgd1date: 2020-02-04
 mgd1filesize: 335.5 MiB
 mgd1length: '1171617451'

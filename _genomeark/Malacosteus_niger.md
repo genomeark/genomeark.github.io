@@ -42,23 +42,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1580033667
 last_updated: 1580033667
-metadata: |
-  species:
-    short_name: fMalNig
-    name: Malacosteus niger
-    taxon_id: 76143
-    common_name: stoplight loosejaw
-    order:
-      name: Stomiiformes
-    family:
-      name: Stomiidae
-    individuals:
-      - short_name: fMalNig1
-        biosample_id: SAMEA7524395
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fMalNig<br>&nbsp;&nbsp;name:&nbsp;Malacosteus&nbsp;niger<br>&nbsp;&nbsp;taxon_id:&nbsp;76143<br>&nbsp;&nbsp;common_name:&nbsp;stoplight&nbsp;loosejaw<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Stomiiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Stomiidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fMalNig1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7524395<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Malacosteus niger
 name_: Malacosteus_niger
 project:

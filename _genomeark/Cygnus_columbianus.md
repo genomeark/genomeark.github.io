@@ -60,23 +60,7 @@ genome_size_display: 1.47 Gbp
 genome_size_method: GoaT
 last_raw_data: 1692020521
 last_updated: 1692210259
-metadata: |
-  species:
-    short_name: bCygCol
-    name: Cygnus columbianus
-    taxon_id: 110926
-    common_name: tundra swan
-    order:
-      name: Anseriformes
-    family:
-      name: Anatidae
-    individuals:
-      - short_name: bCygCol1
-        biosample_id: SAMEA112468031
-        sex: female
-    genome_size: 1471890000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bCygCol<br>&nbsp;&nbsp;name:&nbsp;Cygnus&nbsp;columbianus<br>&nbsp;&nbsp;taxon_id:&nbsp;110926<br>&nbsp;&nbsp;common_name:&nbsp;tundra&nbsp;swan<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCygCol1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468031<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1471890000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-08-15
 mito1filesize: 5.3 KiB
 mito1length: '16731'

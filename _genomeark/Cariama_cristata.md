@@ -83,21 +83,7 @@ genome_size_display: 1.50 Gbp
 genome_size_method: ''
 last_raw_data: 1563354348
 last_updated: 1569703670
-metadata: |
-  species:
-    short_name: bCarCri
-    name: Cariama cristata
-    taxon_id: 54380
-    common_name: red-legged seriema
-    order:
-      name: Cariamiformes
-    family:
-      name: Cariamidae
-    individuals:
-      - short_name: bCarCri1
-    genome_size: 1500000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bCarCri<br>&nbsp;&nbsp;name:&nbsp;Cariama&nbsp;cristata<br>&nbsp;&nbsp;taxon_id:&nbsp;54380<br>&nbsp;&nbsp;common_name:&nbsp;red-legged&nbsp;seriema<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cariamiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cariamidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCarCri1<br>&nbsp;&nbsp;genome_size:&nbsp;1500000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-09-18
 mito1filesize: 5.3 KiB
 mito1length: '21618'

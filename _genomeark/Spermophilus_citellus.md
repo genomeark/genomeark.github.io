@@ -31,23 +31,7 @@ genome_size_display: 3.88 Gbp
 genome_size_method: GoaT
 last_raw_data: 1699020960
 last_updated: 1699020960
-metadata: |
-  species:
-    short_name: mSpeCit
-    name: Spermophilus citellus
-    taxon_id: 9997
-    common_name: European suslik
-    order:
-      name: Rodentia
-    family:
-      name: Sciuridae
-    individuals:
-      - short_name: mSpeCit2
-        biosample_id: SAMEA10332751
-        sex: female
-    genome_size: 3882659999.5
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mSpeCit<br>&nbsp;&nbsp;name:&nbsp;Spermophilus&nbsp;citellus<br>&nbsp;&nbsp;taxon_id:&nbsp;9997<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;suslik<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Sciuridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mSpeCit2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA10332751<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;3882659999.5<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Spermophilus citellus
 name_: Spermophilus_citellus
 project:

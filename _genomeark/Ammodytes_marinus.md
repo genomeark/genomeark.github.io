@@ -62,23 +62,7 @@ genome_size_display: 0.61 Gbp
 genome_size_method: GoaT
 last_raw_data: 1682200777
 last_updated: 1682200777
-metadata: |
-  species:
-    short_name: fAmmMar
-    name: Ammodytes marinus
-    taxon_id: 146480
-    common_name: lesser sand-eel
-    order:
-      name: Perciformes
-    family:
-      name: Ammodytidae
-    individuals:
-      - short_name: fAmmMar1
-        biosample_id: SAMEA110137622
-        sex: female
-    genome_size: 613695000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fAmmMar<br>&nbsp;&nbsp;name:&nbsp;Ammodytes&nbsp;marinus<br>&nbsp;&nbsp;taxon_id:&nbsp;146480<br>&nbsp;&nbsp;common_name:&nbsp;lesser&nbsp;sand-eel<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Ammodytidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fAmmMar1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110137622<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;613695000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Ammodytes marinus
 name_: Ammodytes_marinus
 pri1date: 2023-04-21

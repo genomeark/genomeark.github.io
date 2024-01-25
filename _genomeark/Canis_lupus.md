@@ -152,55 +152,13 @@ hpb2version: assembly_curated
 last_raw_data: 1697146301
 last_updated: 1699902776
 mds:
-- data: "species: Canis lupus\nspecimen: mCanLup2\nprojects: \n  - vgp\nassembled_by_group:
-    Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1:
-    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/mCanLup2.HiC.hap1.20231107.fasta.gz\nhap2:
-    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/mCanLup2.HiC.hap2.20231107.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mCanLup2_hap1_s2.pretext\npretext_hap2:
-    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mCanLup2_hap2_s2.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/merqury/mCanLup2_png/\npacbio_read_dir:
-    s3://genomeark/species/Canis_lupus/mCanLup2/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Canis_lupus/mCanLup2/genomic_data/arima/\nmito:
-    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_MT_rockefeller/mCanLup2.MT.20231113.fasta.gz\npipeline:
-    \n  - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
-    assembly of mCanLup2, resulting in two complete haplotypes. HiC scaffolding was
-    performed with YaHS.  The HiC prep kit used was Arima library prep. The HiC reads
-    needed to have 5 bp trimmed from the 5' end due to adapter left over from the
-    Arima library prep kit. \\n\n"
+- data: species:&nbsp;Canis&nbsp;lupus<br>specimen:&nbsp;mCanLup2<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/mCanLup2.HiC.hap1.20231107.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/mCanLup2.HiC.hap2.20231107.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mCanLup2_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mCanLup2_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/merqury/mCanLup2_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/assembly_MT_rockefeller/mCanLup2.MT.20231113.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mCanLup2,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;\n<br>
   ident: md47
   title: assembly_vgp_HiC_2.0/mCanLup2_hap1.yml
-- data: "species: Canis lupus\nspecimen: mCanLup2\nprojects: \n  - vgp\nassembled_by_group:
-    Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1:
-    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/mCanLup2.HiC.hap1.20231107.fasta.gz\nhap2:
-    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/mCanLup2.HiC.hap2.20231107.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mCanLup2_hap1_s2.pretext\npretext_hap2:
-    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mCanLup2_hap2_s2.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/merqury/mCanLup2_png/\npacbio_read_dir:
-    s3://genomeark/species/Canis_lupus/mCanLup2/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Canis_lupus/mCanLup2/genomic_data/arima/\nmito:
-    s3://genomeark/species/Canis_lupus/mCanLup2/assembly_MT_rockefeller/mCanLup2.MT.20231113.fasta.gz\npipeline:
-    \n  - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
-    assembly of mCanLup2, resulting in two complete haplotypes. HiC scaffolding was
-    performed with YaHS.  The HiC prep kit used was Arima library prep. The HiC reads
-    needed to have 5 bp trimmed from the 5' end due to adapter left over from the
-    Arima library prep kit. \\n\n"
+- data: species:&nbsp;Canis&nbsp;lupus<br>specimen:&nbsp;mCanLup2<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/mCanLup2.HiC.hap1.20231107.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/mCanLup2.HiC.hap2.20231107.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mCanLup2_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mCanLup2_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/assembly_vgp_HiC_2.0/evaluation/merqury/mCanLup2_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Canis_lupus/mCanLup2/assembly_MT_rockefeller/mCanLup2.MT.20231113.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mCanLup2,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;\n<br>
   ident: md48
   title: assembly_vgp_HiC_2.0/mCanLup2_hap2.yml
-metadata: |
-  species:
-    short_name: mCanLor
-    name: Canis lupus
-    taxon_id: 2605939
-    common_name: Greenland wolf
-    order:
-      name: Carnivora
-    family:
-      name: Canidae
-    individuals:
-      - short_name: mCanLor1
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mCanLor<br>&nbsp;&nbsp;name:&nbsp;Canis&nbsp;lupus<br>&nbsp;&nbsp;taxon_id:&nbsp;2605939<br>&nbsp;&nbsp;common_name:&nbsp;Greenland&nbsp;wolf<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carnivora<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Canidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mCanLor1<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-11-13
 mito2filesize: 5.3 KiB
 mito2length: '16700'

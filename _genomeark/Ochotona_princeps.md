@@ -121,38 +121,10 @@ hpb1version: assembly_curated
 last_raw_data: 1680895682
 last_updated: 1687219607
 mds:
-- data: "species: Ochotona princeps\nspecimen: mOchPri1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/mOchPri1.HiC.hap1.20230417.fasta.gz\nhap2:
-    s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/mOchPri1.HiC.hap2.20230417.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mOchPri1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mOchPri1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/merqury/mOchPri1_png/\nmito:
-    s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_MT_rockefeller/mOchPri1.MT.20230213.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group: Rockefeller\nnotes:
-    This was a hifiasm-HiC assembly of mOchPri1, resulting in two complete haplotypes.
-    This individual did not have bionano data. HiC scaffolding was performed with
-    yahs. Metadata and k-mer spectra indicate a heterogametic (male) specimen. The
-    HiC prep was Arima kit 2. I am submitting both hap1 & hap2 for dual curation.
-    This is the curation ticket for hap1. "
+- data: species:&nbsp;Ochotona&nbsp;princeps<br>specimen:&nbsp;mOchPri1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/mOchPri1.HiC.hap1.20230417.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/mOchPri1.HiC.hap2.20230417.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mOchPri1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mOchPri1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/merqury/mOchPri1_png/<br>mito:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_MT_rockefeller/mOchPri1.MT.20230213.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mOchPri1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;Metadata&nbsp;and&nbsp;k-mer&nbsp;spectra&nbsp;indicate&nbsp;a&nbsp;heterogametic&nbsp;(male)&nbsp;specimen.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;
   ident: md9
   title: assembly_vgp_HiC_2.0/mOchPri1_hap1.yml
-- data: "species: Ochotona princeps\nspecimen: mOchPri1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/mOchPri1.HiC.hap1.20230417.fasta.gz\nhap2:
-    s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/mOchPri1.HiC.hap2.20230417.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mOchPri1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mOchPri1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/merqury/mOchPri1_png/\nmito:
-    s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_MT_rockefeller/mOchPri1.MT.20230213.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group: Rockefeller\nnotes:
-    This was a hifiasm-HiC assembly of mOchPri1, resulting in two complete haplotypes.
-    This individual did not have bionano data. HiC scaffolding was performed with
-    yahs. Metadata and k-mer spectra indicate a heterogametic (male) specimen. The
-    HiC prep was Arima kit 2. I am submitting both hap1 & hap2 for dual curation.
-    This is the curation ticket for hap2. "
+- data: species:&nbsp;Ochotona&nbsp;princeps<br>specimen:&nbsp;mOchPri1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/mOchPri1.HiC.hap1.20230417.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/mOchPri1.HiC.hap2.20230417.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mOchPri1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mOchPri1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/merqury/mOchPri1_png/<br>mito:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_MT_rockefeller/mOchPri1.MT.20230213.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mOchPri1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;Metadata&nbsp;and&nbsp;k-mer&nbsp;spectra&nbsp;indicate&nbsp;a&nbsp;heterogametic&nbsp;(male)&nbsp;specimen.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap2.&nbsp;
   ident: md10
   title: assembly_vgp_HiC_2.0/mOchPri1_hap2.yml
 mito1date: 2023-02-13

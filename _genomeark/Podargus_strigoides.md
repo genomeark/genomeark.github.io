@@ -104,38 +104,10 @@ genome_size_method: GoAT
 last_raw_data: 1673804529
 last_updated: 1673804529
 mds:
-- data: |-
-    species: Podargus strigoides
-    specimen: bPodStr1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Podargus_strigoides/bPodStr1/assembly_vgp_standard_2.0/bPodStr1.pri.asm.20220217.fasta.gz
-    haplotigs: s3://genomeark/species/Podargus_strigoides/bPodStr1/assembly_vgp_standard_2.0/bPodStr1.alt.asm.20220217.fasta.gz
-    hic_bam: s3://genomeark/species/Podargus_strigoides/bPodStr1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bPodStr1_s2.bam
-    pretext: s3://genomeark/species/Podargus_strigoides/bPodStr1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bPodStr1_heatmap.pretext
-    kmer_spectra_img: s3://genomeark/species/Podargus_strigoides/bPodStr1/assembly_vgp_standard_2.0/evaluation/merqury/p/bPodStr1_png/
-    pipeline:
-      - hifiasm (0.16.1+galaxy2)
-      - purge_dups (1.2.5+galaxy4)
-      - solve (3.7.0+galaxy0)
-      - salsa (2.3+galaxy2)
+- data: species:&nbsp;Podargus&nbsp;strigoides<br>specimen:&nbsp;bPodStr1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Podargus_strigoides/bPodStr1/assembly_vgp_standard_2.0/bPodStr1.pri.asm.20220217.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Podargus_strigoides/bPodStr1/assembly_vgp_standard_2.0/bPodStr1.alt.asm.20220217.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Podargus_strigoides/bPodStr1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bPodStr1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Podargus_strigoides/bPodStr1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bPodStr1_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Podargus_strigoides/bPodStr1/assembly_vgp_standard_2.0/evaluation/merqury/p/bPodStr1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy4)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)
   ident: md4
   title: assembly_vgp_standard_2.0/bPodStr1.yaml
-metadata: |
-  species:
-    name: Podargus strigoides
-    individuals:
-    - short_name: bPodStr1
-    short_name: bPodStr
-    taxon_id: 8905
-    common_name: tawny frogmouth
-    genome_size: 1367000000
-    genome_size_method: GoAT
-    order:
-      name: Caprimulgiformes
-    family:
-      name: Podargidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Podargus&nbsp;strigoides<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPodStr1<br>&nbsp;&nbsp;short_name:&nbsp;bPodStr<br>&nbsp;&nbsp;taxon_id:&nbsp;8905<br>&nbsp;&nbsp;common_name:&nbsp;tawny&nbsp;frogmouth<br>&nbsp;&nbsp;genome_size:&nbsp;1367000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Caprimulgiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Podargidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Podargus strigoides
 name_: Podargus_strigoides
 pri1date: 2022-03-18

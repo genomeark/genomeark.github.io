@@ -94,41 +94,10 @@ genome_size_method: ''
 last_raw_data: 1687903561
 last_updated: 1687903561
 mds:
-- data: |
-    species: Bombina bombina
-    specimen: aBomBom1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Bombina_bombina/aBomBom1/assembly_vgp_standard_1.6/aBomBom1.pri.20210531.fasta.gz
-    haplotigs: s3://genomeark/species/Bombina_bombina/aBomBom1/assembly_vgp_standard_1.6/aBomBom1.alt.20210531.fasta.gz
-    pacbio_read_dir: s3://genomearkspecies/Bombina_bombina/aBomBom1/genomic_data/pacbio/
-    pacbio_read_type: clr
-    pipeline:
-      - Falcon-kit (1.8.1)
-      - falcon_unzip (1.3.7)
-      - purge_dups (1.2.3)
-      - scaff10x (4.2a)
-      - bionano_solve (Solve3.6.1_11162020)
-      - salsa2  (2.2)
-      - longranger (2.2.2)
-      - gcpp (2.0.2)
-      - freebayes (1.3.2)
-    assembled_by_group: Dresden
+- data: species:&nbsp;Bombina&nbsp;bombina<br>specimen:&nbsp;aBomBom1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Bombina_bombina/aBomBom1/assembly_vgp_standard_1.6/aBomBom1.pri.20210531.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Bombina_bombina/aBomBom1/assembly_vgp_standard_1.6/aBomBom1.alt.20210531.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomearkspecies/Bombina_bombina/aBomBom1/genomic_data/pacbio/<br>pacbio_read_type:&nbsp;clr<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;Falcon-kit&nbsp;(1.8.1)<br>&nbsp;&nbsp;-&nbsp;falcon_unzip&nbsp;(1.3.7)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.3)<br>&nbsp;&nbsp;-&nbsp;scaff10x&nbsp;(4.2a)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(Solve3.6.1_11162020)<br>&nbsp;&nbsp;-&nbsp;salsa2&nbsp;&nbsp;(2.2)<br>&nbsp;&nbsp;-&nbsp;longranger&nbsp;(2.2.2)<br>&nbsp;&nbsp;-&nbsp;gcpp&nbsp;(2.0.2)<br>&nbsp;&nbsp;-&nbsp;freebayes&nbsp;(1.3.2)<br>assembled_by_group:&nbsp;Dresden<br>
   ident: md0
   title: aBomBom1.yaml
-metadata: |
-  species:
-    short_name: aBomBom
-    name: Bombina bombina
-    taxon_id: 8345
-    common_name: European fire-bellied toad
-    order:
-      name: Anura
-    family:
-      name: Bombinatoridae
-    individuals:
-      - short_name: aBomBom1
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;aBomBom<br>&nbsp;&nbsp;name:&nbsp;Bombina&nbsp;bombina<br>&nbsp;&nbsp;taxon_id:&nbsp;8345<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;fire-bellied&nbsp;toad<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anura<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Bombinatoridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aBomBom1<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2022-11-24
 mito1filesize: 5.1 KiB
 mito1length: '17451'

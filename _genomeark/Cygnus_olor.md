@@ -83,21 +83,7 @@ genome_size_display: 1.48 Gbp
 genome_size_method: ''
 last_raw_data: 1564200622
 last_updated: 1606748870
-metadata: |
-  species:
-    common_name: mute swan
-    family:
-      name: Anatidae
-    genome_size: 1480000000
-    genome_size_method: null
-    individuals:
-    - short_name: bCygOlo1
-    name: Cygnus olor
-    order:
-      name: Anseriformes
-    short_name: bCygOlo
-    taxon_id: 8869
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;mute&nbsp;swan<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;genome_size:&nbsp;1480000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCygOlo1<br>&nbsp;&nbsp;name:&nbsp;Cygnus&nbsp;olor<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;short_name:&nbsp;bCygOlo<br>&nbsp;&nbsp;taxon_id:&nbsp;8869<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-09-28
 mito1filesize: 5.4 KiB
 mito1length: '16733'

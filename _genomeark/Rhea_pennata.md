@@ -93,38 +93,10 @@ genome_size_method: GoAT
 last_raw_data: 1651617038
 last_updated: 1672722848
 mds:
-- data: |
-    pecies: Rhea pennata
-    specimen: bPtePen1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/bPtePen1.pri.asm.20220228.fasta.gz
-    haplotigs: s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/bPtePen1.alt.asm.20220228.fasta.gz
-    hic_bam: s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bPtePen1_s2.bam
-    pretext: s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bPtePen1_heatmap.pretext
-    kmer_spectra_img: s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/evaluation/merqury/p/bPtePen1_png/
-    pipeline:
-      - hifiasm (0.16.1+galaxy2)
-      - purge_dups (1.2.5+galaxy3)
-      - solve (3.7.0+galaxy0)
-      - salsa (2.3+galaxy2)
+- data: pecies:&nbsp;Rhea&nbsp;pennata<br>specimen:&nbsp;bPtePen1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/bPtePen1.pri.asm.20220228.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/bPtePen1.alt.asm.20220228.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bPtePen1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bPtePen1_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Rhea_pennata/bPtePen1/assembly_vgp_standard_2.0/evaluation/merqury/p/bPtePen1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)<br>
   ident: md5
   title: assembly_vgp_standard_2.0/bPtePen1.yaml
-metadata: |
-  species:
-    name: Rhea pennata
-    individuals:
-    - short_name: bPtePen1
-    short_name: bPtePen
-    taxon_id: 8795
-    common_name: lesser rhea
-    genome_size: 1645000000
-    genome_size_method: GoAT
-    order:
-      name: Rheiformes
-    family:
-      name: Rheidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Rhea&nbsp;pennata<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPtePen1<br>&nbsp;&nbsp;short_name:&nbsp;bPtePen<br>&nbsp;&nbsp;taxon_id:&nbsp;8795<br>&nbsp;&nbsp;common_name:&nbsp;lesser&nbsp;rhea<br>&nbsp;&nbsp;genome_size:&nbsp;1645000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rheiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rheidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Rhea pennata
 name_: Rhea_pennata
 pri1date: 2022-06-17

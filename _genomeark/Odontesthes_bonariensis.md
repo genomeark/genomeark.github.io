@@ -120,28 +120,7 @@ hpb6version: assembly_vgp_HiC_2.0
 last_raw_data: 1651607976
 last_updated: 1657191606
 mds:
-- data: |
-    species: Odontesthes bonariensis
-    specimen: fOdoBon6
-    projects:
-      - vgp
-    hap1: s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_vgp_HiC_2.0/fOdoBon6.20220607.hap1.fasta.gz
-    hap2: s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_vgp_HiC_2.0/fOdoBon6.20220607.hap2.fasta.gz
-    hap1_hic_bam: s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fOdoBon6_hap1__s2.bam
-    hap2_hic_bam: s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fOdoBon6_hap2__s2.bam
-    hap1_pretext: s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fOdoBon6_hap1__s2_heatmap.pretext
-    hap2_pretext: s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fOdoBon6_hap2__s2_heatmap.pretext
-    kmer_spectra_img: s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_vgp_HiC_2.0/evaluation/merqury/fOdoBon6_png/
-    pacbio_read_dir: s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/genomic_data/pacbio_hifi/
-    pacbio_read_type: hifi
-    hic_read_dir: s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/genomic_data/arima/
-    assembled_by_group: Rockefeller
-
-    pipeline:
-      - hifiasm (0.16.1+galaxy3)
-      - salsa (2.3+galaxy2)
-
-    notes: There was no Bionano data available. We are submitting hap1 for curation. Information for both hap1 and hap2 are listed here in case it would be useful.
+- data: species:&nbsp;Odontesthes&nbsp;bonariensis<br>specimen:&nbsp;fOdoBon6<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_vgp_HiC_2.0/fOdoBon6.20220607.hap1.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_vgp_HiC_2.0/fOdoBon6.20220607.hap2.fasta.gz<br>hap1_hic_bam:&nbsp;s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fOdoBon6_hap1__s2.bam<br>hap2_hic_bam:&nbsp;s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fOdoBon6_hap2__s2.bam<br>hap1_pretext:&nbsp;s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fOdoBon6_hap1__s2_heatmap.pretext<br>hap2_pretext:&nbsp;s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fOdoBon6_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/assembly_vgp_HiC_2.0/evaluation/merqury/fOdoBon6_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Odontesthes_bonariensis/fOdoBon6/genomic_data/arima/<br>assembled_by_group:&nbsp;Rockefeller<br><br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy3)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)<br><br>notes:&nbsp;There&nbsp;was&nbsp;no&nbsp;Bionano&nbsp;data&nbsp;available.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;hap1&nbsp;for&nbsp;curation.&nbsp;Information&nbsp;for&nbsp;both&nbsp;hap1&nbsp;and&nbsp;hap2&nbsp;are&nbsp;listed&nbsp;here&nbsp;in&nbsp;case&nbsp;it&nbsp;would&nbsp;be&nbsp;useful.<br>
   ident: md4
   title: assembly_vgp_HiC_2.0/fOdoBon6.yaml
 name: Odontesthes bonariensis

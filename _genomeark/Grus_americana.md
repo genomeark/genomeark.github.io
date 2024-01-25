@@ -101,39 +101,13 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mds:
-- data: "species: Grus Americana\nspecimen: bGruAme1\nprojects:\n  - vgp\nmat: s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/bGruAme1.mat.asm.20220516.fasta.gz\nmat_hic_bam:
-    s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/qc/pretext/mat/bGruAme1.mat.asm.20220516.bam
-    \nmat_pretext: s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/qc/pretext/mat/bGruAme1.mat.asm.20220516.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/qc/merqury/longranger_freebayes_2/fb1_t3.spectra-asm.fl.png\npipeline:\n
-    \n- TrioCanu v. 2.1 \n- purge_dups v. 1.0.0; \n- Scaff 10x v. 4.1.0; \n- bionano
-    Solve v. 3.6.1_11162020 \n- Salsa2 HiC v. 2.2; \n- gcpp (Arrow polishing) v. 2.0.2-2.0.2\n-
-    merfin v. 1.0\n- Freebayes v. 1.3.1; \n "
+- data: species:&nbsp;Grus&nbsp;Americana<br>specimen:&nbsp;bGruAme1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>mat:&nbsp;s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/bGruAme1.mat.asm.20220516.fasta.gz<br>mat_hic_bam:&nbsp;s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/qc/pretext/mat/bGruAme1.mat.asm.20220516.bam&nbsp;<br>mat_pretext:&nbsp;s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/qc/pretext/mat/bGruAme1.mat.asm.20220516.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/qc/merqury/longranger_freebayes_2/fb1_t3.spectra-asm.fl.png<br>pipeline:<br>&nbsp;<br>-&nbsp;TrioCanu&nbsp;v.&nbsp;2.1&nbsp;<br>-&nbsp;purge_dups&nbsp;v.&nbsp;1.0.0;&nbsp;<br>-&nbsp;Scaff&nbsp;10x&nbsp;v.&nbsp;4.1.0;&nbsp;<br>-&nbsp;bionano&nbsp;Solve&nbsp;v.&nbsp;3.6.1_11162020&nbsp;<br>-&nbsp;Salsa2&nbsp;HiC&nbsp;v.&nbsp;2.2;&nbsp;<br>-&nbsp;gcpp&nbsp;(Arrow&nbsp;polishing)&nbsp;v.&nbsp;2.0.2-2.0.2<br>-&nbsp;merfin&nbsp;v.&nbsp;1.0<br>-&nbsp;Freebayes&nbsp;v.&nbsp;1.3.1;&nbsp;<br>&nbsp;
   ident: md8
   title: assembly_vgp_trio_1.7/bGruAme1_mat.yaml
-- data: "species: Grus Americana\nspecimen: bGruAme1\nprojects:\n  - vgp\npat: s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/bGruAme1.pat.asm.20220516.fasta.gz\npat_hic_bam:
-    s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/qc/pretext/pat/bGruAme1.pat.asm.20220516.bam
-    \npat_pretext: s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/qc/pretext/pat/bGruAme1.pat.asm.20220516.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/qc/merqury/longranger_freebayes_2/fb1_t3.spectra-asm.fl.png\npipeline:\n
-    \n- TrioCanu v. 2.1 \n- purge_dups v. 1.0.0; \n- Scaff 10x v. 4.1.0; \n- bionano
-    Solve v. 3.6.1_11162020 \n- Salsa2 HiC v. 2.2; \n- gcpp (Arrow polishing) v. 2.0.2-2.0.2\n-
-    merfin v. 1.0\n- Freebayes v. 1.3.1; \n "
+- data: species:&nbsp;Grus&nbsp;Americana<br>specimen:&nbsp;bGruAme1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>pat:&nbsp;s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/bGruAme1.pat.asm.20220516.fasta.gz<br>pat_hic_bam:&nbsp;s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/qc/pretext/pat/bGruAme1.pat.asm.20220516.bam&nbsp;<br>pat_pretext:&nbsp;s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/qc/pretext/pat/bGruAme1.pat.asm.20220516.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Grus_americana/bGruAme1/assembly_vgp_trio_1.7/qc/merqury/longranger_freebayes_2/fb1_t3.spectra-asm.fl.png<br>pipeline:<br>&nbsp;<br>-&nbsp;TrioCanu&nbsp;v.&nbsp;2.1&nbsp;<br>-&nbsp;purge_dups&nbsp;v.&nbsp;1.0.0;&nbsp;<br>-&nbsp;Scaff&nbsp;10x&nbsp;v.&nbsp;4.1.0;&nbsp;<br>-&nbsp;bionano&nbsp;Solve&nbsp;v.&nbsp;3.6.1_11162020&nbsp;<br>-&nbsp;Salsa2&nbsp;HiC&nbsp;v.&nbsp;2.2;&nbsp;<br>-&nbsp;gcpp&nbsp;(Arrow&nbsp;polishing)&nbsp;v.&nbsp;2.0.2-2.0.2<br>-&nbsp;merfin&nbsp;v.&nbsp;1.0<br>-&nbsp;Freebayes&nbsp;v.&nbsp;1.3.1;&nbsp;<br>&nbsp;
   ident: md9
   title: assembly_vgp_trio_1.7/bGruAme1_pat.yaml
-metadata: |
-  species:
-    short_name: bGruAme
-    name: Grus americana
-    taxon_id: 9117
-    common_name: Whooping crane
-    order:
-      name: Gruiformes
-    family:
-      name: Gruidae
-    individuals:
-      - short_name: bGruAme1
-    genome_size: 1000000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bGruAme<br>&nbsp;&nbsp;name:&nbsp;Grus&nbsp;americana<br>&nbsp;&nbsp;taxon_id:&nbsp;9117<br>&nbsp;&nbsp;common_name:&nbsp;Whooping&nbsp;crane<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gruiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gruidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bGruAme1<br>&nbsp;&nbsp;genome_size:&nbsp;1000000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Grus americana
 name_: Grus_americana
 pat1date: 2023-02-16

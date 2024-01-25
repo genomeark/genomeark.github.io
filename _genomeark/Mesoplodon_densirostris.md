@@ -83,42 +83,10 @@ genome_size_method: GoAT
 last_raw_data: 1651616843
 last_updated: 1667318720
 mds:
-- data: |
-    species: Mesoplopdon_densirostris
-    specimen: mMesDen1
-    projects:
-    - vgp
-    primary:
-        s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/assembly_vgp_standard_2.0/mMesDen1.pri.asm.20220215.fasta.gz
-    haplotigs:
-        s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/assembly_vgp_standard_2.0/mMesDen1.alt.asm.20220127.fasta.gz
-    hic_bam:
-        s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMesDen1_s2.bam
-    pretext:
-        s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMesDen1_heatmap.pretext
-    kmer_spectra_img:
-        s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/assembly_vgp_standard_2..0/evaluation/merqury/p/mMesDen1_png/output_merqury.spectra-cn.fl.png
-    pipeline:
-      - hifiasm (0.16.1+galaxy1)
-      - purge_dups (1.2.5+galaxy3)
-      - solve (3.7.0+galaxy0)
+- data: species:&nbsp;Mesoplopdon_densirostris<br>specimen:&nbsp;mMesDen1<br>projects:<br>-&nbsp;vgp<br>primary:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/assembly_vgp_standard_2.0/mMesDen1.pri.asm.20220215.fasta.gz<br>haplotigs:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/assembly_vgp_standard_2.0/mMesDen1.alt.asm.20220127.fasta.gz<br>hic_bam:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMesDen1_s2.bam<br>pretext:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMesDen1_heatmap.pretext<br>kmer_spectra_img:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Mesoplodon_densirostris/mMesDen1/assembly_vgp_standard_2..0/evaluation/merqury/p/mMesDen1_png/output_merqury.spectra-cn.fl.png<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy1)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>
   ident: md5
   title: assembly_vgp_standard_2.0/mMesDen1.yaml
-metadata: |
-  species:
-    name: Mesoplodon densirostris
-    individuals:
-    - short_name: mMesDen1
-    short_name: mMesDen
-    taxon_id: 48708
-    common_name: Blainville's beaked whale
-    genome_size: 3377000000
-    genome_size_method: GoAT
-    order:
-      name: Artiodactyla
-    family:
-      name: Ziphiidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Mesoplodon&nbsp;densirostris<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMesDen1<br>&nbsp;&nbsp;short_name:&nbsp;mMesDen<br>&nbsp;&nbsp;taxon_id:&nbsp;48708<br>&nbsp;&nbsp;common_name:&nbsp;Blainville's&nbsp;beaked&nbsp;whale<br>&nbsp;&nbsp;genome_size:&nbsp;3377000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Artiodactyla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Ziphiidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2022-06-17
 mito1filesize: 4.9 KiB
 mito1length: '16347'

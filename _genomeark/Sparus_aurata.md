@@ -73,21 +73,7 @@ genome_size_display: 0.83 Gbp
 genome_size_method: ''
 last_raw_data: 1523525722
 last_updated: 1570719804
-metadata: |
-  species:
-    short_name: fSpaAur
-    name: Sparus aurata
-    taxon_id: 8175
-    common_name: gilthead seabream
-    order:
-      name: Spariformes
-    family:
-      name: Sparidae
-    individuals:
-      - short_name: fSpaAur1
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fSpaAur<br>&nbsp;&nbsp;name:&nbsp;Sparus&nbsp;aurata<br>&nbsp;&nbsp;taxon_id:&nbsp;8175<br>&nbsp;&nbsp;common_name:&nbsp;gilthead&nbsp;seabream<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Spariformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Sparidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fSpaAur1<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 5.0 KiB
 mito1length: '16652'

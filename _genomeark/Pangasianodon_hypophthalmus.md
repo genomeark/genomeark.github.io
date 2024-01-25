@@ -83,29 +83,10 @@ genome_size_method: ''
 last_raw_data: 1651608637
 last_updated: 1671140480
 mds:
-- data: |
-    species: Pangasianodon_hypophthalmus
-    specimen: fPanHyp1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/assembly_vgp_standard_2.1/
-    haplotigs: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/assembly_vgp_standard_2.1/
-    release_to: S3
-    data_location: S3
-    pacbio_read_dir: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/pacbio/
-    hic_read_dir: s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/arima/
-    hic_kit: Arima2
-    pipeline:
-      - hifiasm (0.15.3)
-      - purge_dups (1.2.3)
-      - bionano_solve (Solve3.6.1_11162020)
-      - salsa (v2.2)
+- data: species:&nbsp;Pangasianodon_hypophthalmus<br>specimen:&nbsp;fPanHyp1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/assembly_vgp_standard_2.1/<br>haplotigs:&nbsp;s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/assembly_vgp_standard_2.1/<br>release_to:&nbsp;S3<br>data_location:&nbsp;S3<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/pacbio/<br>hic_read_dir:&nbsp;s3://genomeark/species/Pangasianodon_hypophthalmus/fPanHyp1/arima/<br>hic_kit:&nbsp;Arima2<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.3)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.3)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(Solve3.6.1_11162020)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(v2.2)<br>
   ident: md5
   title: fPanHyp1.yaml
-metadata: "species:\n  short_name: fPanHyp\n  name: Pangasianodon hypophthalmus \n
-  \ taxon_id: 310915\n  common_name: Iridescent shark\n  order:\n    name: Siluriformes\n
-  \ family:\n    name: Pangasiidae\n  individuals:\n    - short_name: fPanHyp1\n  project:
-  [ vgp ]\n"
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fPanHyp<br>&nbsp;&nbsp;name:&nbsp;Pangasianodon&nbsp;hypophthalmus&nbsp;<br>&nbsp;&nbsp;taxon_id:&nbsp;310915<br>&nbsp;&nbsp;common_name:&nbsp;Iridescent&nbsp;shark<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Siluriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pangasiidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fPanHyp1<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2022-12-13
 mito1filesize: 5.0 KiB
 mito1length: '16523'

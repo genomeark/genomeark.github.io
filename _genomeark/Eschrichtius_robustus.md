@@ -63,37 +63,10 @@ genome_size_method: GoaT ancestral inferred
 last_raw_data: 1656686407
 last_updated: 1669853600
 mds:
-- data: "species: Eschrichtius robustus\nspecimen: mEscRob2\nprojects:\n  - vgp\nprimary:
-    s3://genomeark/species/Eschrichtius_robustus/mEscRob2/assembly_vgp_standard_2.0/mEscRob2.standard.pri.20221005.fasta.gz\npretext:
-    s3://genomeark/species/Eschrichtius_robustus/mEscRob2/assembly_vgp_standard_2.0/evaluation/pretext/mEscRob2_hap2__s2_heatmap.pretext\nhaplotigs:
-    s3://genomeark/species/Eschrichtius_robustus/mEscRob2/assembly_vgp_standard_2.0/intermediates/mEscRob2_c2.fasta.gz\nkmer_spectra_img:
-    s3://genomeark/species/Eschrichtius_robustus/mEscRob2/assembly_vgp_standard_2.0/evaluation/merqury/mEscRob2_png\npacbio_read_dir:
-    s3://genomeark/species/Eschrichtius_robustus/mEscRob2/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: SRR12437598\npipeline:\n  - hifiasm (0.16.1+galaxy3)\n  -
-    yahs (1.2a+galaxy1)\nassembled_by_group: Rockefeller\nnotes: This assembly was
-    run with the standard hifiasm pipeline (ie, pseudohaplotype) with hifiasm internal
-    purging set at intermediate. There was no bionano data. Hi-C reads were generated
-    from a different indvidual than the HiFi reads. For Hi-C reads we put the SRR
-    accession number as they were from DNAzoo. \n\n"
+- data: species:&nbsp;Eschrichtius&nbsp;robustus<br>specimen:&nbsp;mEscRob2<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Eschrichtius_robustus/mEscRob2/assembly_vgp_standard_2.0/mEscRob2.standard.pri.20221005.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Eschrichtius_robustus/mEscRob2/assembly_vgp_standard_2.0/evaluation/pretext/mEscRob2_hap2__s2_heatmap.pretext<br>haplotigs:&nbsp;s3://genomeark/species/Eschrichtius_robustus/mEscRob2/assembly_vgp_standard_2.0/intermediates/mEscRob2_c2.fasta.gz<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Eschrichtius_robustus/mEscRob2/assembly_vgp_standard_2.0/evaluation/merqury/mEscRob2_png<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Eschrichtius_robustus/mEscRob2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;SRR12437598<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy3)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;assembly&nbsp;was&nbsp;run&nbsp;with&nbsp;the&nbsp;standard&nbsp;hifiasm&nbsp;pipeline&nbsp;(ie,&nbsp;pseudohaplotype)&nbsp;with&nbsp;hifiasm&nbsp;internal&nbsp;purging&nbsp;set&nbsp;at&nbsp;intermediate.&nbsp;There&nbsp;was&nbsp;no&nbsp;bionano&nbsp;data.&nbsp;Hi-C&nbsp;reads&nbsp;were&nbsp;generated&nbsp;from&nbsp;a&nbsp;different&nbsp;indvidual&nbsp;than&nbsp;the&nbsp;HiFi&nbsp;reads.&nbsp;For&nbsp;Hi-C&nbsp;reads&nbsp;we&nbsp;put&nbsp;the&nbsp;SRR&nbsp;accession&nbsp;number&nbsp;as&nbsp;they&nbsp;were&nbsp;from&nbsp;DNAzoo.&nbsp;<br><br>
   ident: md5
   title: assembly_vgp_standard_2.0/mEscRob2.yaml
-metadata: |
-  species:
-    short_name: mEscRob
-    name: Eschrichtius robustus
-    taxon_id: 9764
-    common_name: grey whale
-    order:
-      name: Artiodactyla
-    family:
-      name: Eschrichtiidae
-    individuals:
-      - short_name: mEscRob1
-        provider: Marlys Houck, Phillip Morin
-        sex: male
-    genome_size: 2870000000
-    genome_size_method: GoaT ancestral inferred
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mEscRob<br>&nbsp;&nbsp;name:&nbsp;Eschrichtius&nbsp;robustus<br>&nbsp;&nbsp;taxon_id:&nbsp;9764<br>&nbsp;&nbsp;common_name:&nbsp;grey&nbsp;whale<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Artiodactyla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Eschrichtiidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mEscRob1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Marlys&nbsp;Houck,&nbsp;Phillip&nbsp;Morin<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2870000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;ancestral&nbsp;inferred<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2022-11-21
 mito2filesize: 4.9 KiB
 mito2length: '16413'

@@ -60,23 +60,7 @@ genome_size_display: 1.10 Gbp
 genome_size_method: ''
 last_raw_data: 1691522304
 last_updated: 1691528135
-metadata: |
-  species:
-    short_name: fNanAnt
-    name: Nansenia antarctica
-    taxon_id: 443705
-    common_name:
-    order:
-      name: Argentiniformes
-    family:
-      name: Microstomatidae
-    individuals:
-      - short_name: fNanAnt1
-        biosample_id: SAMEA8748805
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fNanAnt<br>&nbsp;&nbsp;name:&nbsp;Nansenia&nbsp;antarctica<br>&nbsp;&nbsp;taxon_id:&nbsp;443705<br>&nbsp;&nbsp;common_name:<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Argentiniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Microstomatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fNanAnt1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8748805<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-08-03
 mito1filesize: 5.3 KiB
 mito1length: '16688'

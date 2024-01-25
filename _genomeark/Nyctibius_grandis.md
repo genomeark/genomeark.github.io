@@ -83,21 +83,7 @@ genome_size_display: 1.00 Gbp
 genome_size_method: ''
 last_raw_data: 1572448610
 last_updated: 1589468600
-metadata: |
-  species:
-    common_name: great potoo
-    family:
-      name: Nyctibiidae
-    genome_size: 1000000000
-    genome_size_method: null
-    individuals:
-    - short_name: bNycGra1
-    name: Nyctibius grandis
-    order:
-      name: Caprimulgiformes
-    short_name: bNycGra
-    taxon_id: 48427
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;great&nbsp;potoo<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Nyctibiidae<br>&nbsp;&nbsp;genome_size:&nbsp;1000000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bNycGra1<br>&nbsp;&nbsp;name:&nbsp;Nyctibius&nbsp;grandis<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Caprimulgiformes<br>&nbsp;&nbsp;short_name:&nbsp;bNycGra<br>&nbsp;&nbsp;taxon_id:&nbsp;48427<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-02
 mito1filesize: 5.2 KiB
 mito1length: '21413'

@@ -60,23 +60,7 @@ genome_size_display: 3.11 Gbp
 genome_size_method: GoaT
 last_raw_data: 1702993888
 last_updated: 1703328700
-metadata: |
-  species:
-    short_name: mMicMin
-    name: Micromys minutus
-    taxon_id: 13151
-    common_name: European harvest mouse
-    order:
-      name: Rodentia
-    family:
-      name: Muridae
-    individuals:
-      - short_name: mMicMin1
-        biosample_id: SAMEA112468042
-        sex: female
-    genome_size: 3110040000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMicMin<br>&nbsp;&nbsp;name:&nbsp;Micromys&nbsp;minutus<br>&nbsp;&nbsp;taxon_id:&nbsp;13151<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;harvest&nbsp;mouse<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Muridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMicMin1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468042<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;3110040000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-12-22
 mito1filesize: 5.1 KiB
 mito1length: '16238'

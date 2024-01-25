@@ -83,21 +83,7 @@ genome_size_display: 1.20 Gbp
 genome_size_method: ''
 last_raw_data: 1565190400
 last_updated: 1568989010
-metadata: |
-  species:
-    common_name: tufted duck
-    family:
-      name: Anatidae
-    genome_size: 1200000000
-    genome_size_method: null
-    individuals:
-    - short_name: bAytFul2
-    name: Aythya fuligula
-    order:
-      name: Anseriformes
-    short_name: bAytFul
-    taxon_id: 219594
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;tufted&nbsp;duck<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;genome_size:&nbsp;1200000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAytFul2<br>&nbsp;&nbsp;name:&nbsp;Aythya&nbsp;fuligula<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;short_name:&nbsp;bAytFul<br>&nbsp;&nbsp;taxon_id:&nbsp;219594<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Aythya fuligula
 name_: Aythya_fuligula
 pri2date: 2019-09-20

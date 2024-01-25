@@ -21,23 +21,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1639864056
 last_updated: 1639864056
-metadata: |
-  species:
-    short_name: mCasFib
-    name: Castor fiber
-    taxon_id: 10185
-    common_name: Eurasian beaver
-    order:
-      name: Rodentia
-    family:
-      name: Castoridae
-    individuals:
-      - short_name: mCasFib2
-        biosample_id: SAMEA9654422
-        sex: male
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mCasFib<br>&nbsp;&nbsp;name:&nbsp;Castor&nbsp;fiber<br>&nbsp;&nbsp;taxon_id:&nbsp;10185<br>&nbsp;&nbsp;common_name:&nbsp;Eurasian&nbsp;beaver<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Castoridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mCasFib2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA9654422<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Castor fiber
 name_: Castor_fiber
 project:

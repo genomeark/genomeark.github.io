@@ -21,23 +21,7 @@ genome_size_display: 1.17 Gbp
 genome_size_method: GoaT
 last_raw_data: 1688544562
 last_updated: 1688544562
-metadata: |
-  species:
-    short_name: fScaEry
-    name: Scardinius erythrophthalmus
-    taxon_id: 58319
-    common_name: rudd
-    order:
-      name: Cypriniformes
-    family:
-      name: Cyprinidae
-    individuals:
-      - short_name: fScaEry2
-        biosample_id: SAMEA11296541
-        sex: female
-    genome_size: 1168710000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fScaEry<br>&nbsp;&nbsp;name:&nbsp;Scardinius&nbsp;erythrophthalmus<br>&nbsp;&nbsp;taxon_id:&nbsp;58319<br>&nbsp;&nbsp;common_name:&nbsp;rudd<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cypriniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyprinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fScaEry2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA11296541<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1168710000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Scardinius erythrophthalmus
 name_: Scardinius_erythrophthalmus
 project:

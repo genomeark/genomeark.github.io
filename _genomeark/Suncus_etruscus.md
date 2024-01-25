@@ -84,35 +84,10 @@ genome_size_method: ''
 last_raw_data: 1622136717
 last_updated: 1637843882
 mds:
-- data: "species: Suncus_etruscus\nspecimen: mSunEtr1\nprojects:\n  - vgp\nprimary:
-    s3://genomeark/species/Suncus_etruscus/mSunEtr1/assembly_vgp_standard_1.7/mSunEtr1.pri.asm.20210809.fasta.gz\nhaplotigs:
-    s3://genomeark/species/Suncus_etruscus/mSunEtr1/assembly_vgp_standard_1.7/mSunEtr1.alt.asm.20210809.fasta.gz\nmito:
-    s3://genomeark/species/Suncus_etruscus/mSunEtr1/assembly_MT_rockefeller/mSunEtr1.MT.20210527.fasta.gz\nhic_bam:
-    s3://genomeark/species/Suncus_etruscus/mSunEtr1/assembly_vgp_standard_1.7/evaluation/pretext/mSunEtr1.pri.asm.20210809.fasta.gz.bam\npretext:
-    s3://genomeark/species/Suncus_etruscus/mSunEtr1/assembly_vgp_standard_1.7/evaluation/pretext/mSunEtr1.pri.asm.20210809.fasta.gz.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Suncus_etruscus/mSunEtr1/assembly_vgp_standard_1.7/evaluation/merqury/\npipeline:\n
-    \ - falcon (2.0.2)\n  - falcon_unzip (8.0.1)\n  - purge_dups (1.0.0)\n  - scaff10x
-    (2.0.3)\n  - bionano_solve (Solve3.4.0)\n  - salsa (v2.2)\n  - gcpp (2.0.2)\n
-    \ - merfin (1.0)\n  - freebayes (1.3.1)\n  "
+- data: species:&nbsp;Suncus_etruscus<br>specimen:&nbsp;mSunEtr1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Suncus_etruscus/mSunEtr1/assembly_vgp_standard_1.7/mSunEtr1.pri.asm.20210809.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Suncus_etruscus/mSunEtr1/assembly_vgp_standard_1.7/mSunEtr1.alt.asm.20210809.fasta.gz<br>mito:&nbsp;s3://genomeark/species/Suncus_etruscus/mSunEtr1/assembly_MT_rockefeller/mSunEtr1.MT.20210527.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Suncus_etruscus/mSunEtr1/assembly_vgp_standard_1.7/evaluation/pretext/mSunEtr1.pri.asm.20210809.fasta.gz.bam<br>pretext:&nbsp;s3://genomeark/species/Suncus_etruscus/mSunEtr1/assembly_vgp_standard_1.7/evaluation/pretext/mSunEtr1.pri.asm.20210809.fasta.gz.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Suncus_etruscus/mSunEtr1/assembly_vgp_standard_1.7/evaluation/merqury/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;falcon&nbsp;(2.0.2)<br>&nbsp;&nbsp;-&nbsp;falcon_unzip&nbsp;(8.0.1)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.0.0)<br>&nbsp;&nbsp;-&nbsp;scaff10x&nbsp;(2.0.3)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(Solve3.4.0)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(v2.2)<br>&nbsp;&nbsp;-&nbsp;gcpp&nbsp;(2.0.2)<br>&nbsp;&nbsp;-&nbsp;merfin&nbsp;(1.0)<br>&nbsp;&nbsp;-&nbsp;freebayes&nbsp;(1.3.1)<br>&nbsp;&nbsp;
   ident: md5
   title: assembly_vgp_standard_1.7/mSunEtr1.yaml
-metadata: |
-  species:
-    short_name: mSunEtr
-    name: Suncus etruscus
-    taxon_id: 109475
-    common_name: white-toothed pygmy shrew
-    order:
-      name: Eulipotyphla
-    family:
-      name: Soricidae
-    individuals:
-      - short_name: mSunEtr1
-        sex: male
-        provider: Susanne Meyer, Jessica Antosiewicz-Bourget, Yury Bukhman
-    genome_size: 3000000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mSunEtr<br>&nbsp;&nbsp;name:&nbsp;Suncus&nbsp;etruscus<br>&nbsp;&nbsp;taxon_id:&nbsp;109475<br>&nbsp;&nbsp;common_name:&nbsp;white-toothed&nbsp;pygmy&nbsp;shrew<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Eulipotyphla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Soricidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mSunEtr1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Susanne&nbsp;Meyer,&nbsp;Jessica&nbsp;Antosiewicz-Bourget,&nbsp;Yury&nbsp;Bukhman<br>&nbsp;&nbsp;genome_size:&nbsp;3000000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2021-05-27
 mito1filesize: 5.0 KiB
 mito1length: '16982'

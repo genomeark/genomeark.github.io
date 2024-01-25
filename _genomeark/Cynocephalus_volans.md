@@ -83,37 +83,10 @@ genome_size_method: GoAT
 last_raw_data: 1651601926
 last_updated: 1662580129
 mds:
-- data: |-
-    species: Cynocephalus volans
-    specimen: mCynVol1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/mCynVol1.pri.asm.20220324.fasta.gz
-    haplotigs: s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/mCynVol1.alt.asm.20220324.fasta.gz
-    hic_bam: s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mCynVol1_s2.bam
-    pretext: s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mCynVol1_heatmap.pretext
-    kmer_spectra_img: s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/evaluation/merqury/p/mCynVol1_png/
-    pipeline:
-      - hifiasm (0.16.1+galaxy2)
-      - purge_dups (1.2.5+galaxy4)
-      - salsa (2.3+galaxy2)
+- data: species:&nbsp;Cynocephalus&nbsp;volans<br>specimen:&nbsp;mCynVol1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/mCynVol1.pri.asm.20220324.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/mCynVol1.alt.asm.20220324.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mCynVol1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mCynVol1_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Cynocephalus_volans/mCynVol1/assembly_vgp_standard_2.0/evaluation/merqury/p/mCynVol1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy4)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)
   ident: md5
   title: assembly_vgp_standard_2.0/mCynVol1.yaml
-metadata: |
-  species:
-    name: Cynocephalus volans
-    individuals:
-    - short_name: mCynVol1
-    short_name: mCynVol
-    taxon_id: 110931
-    common_name: Philippine flying lemur
-    genome_size: 3554000000
-    genome_size_method: GoAT
-    order:
-      name: Dermoptera
-    family:
-      name: Cynocephalidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Cynocephalus&nbsp;volans<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mCynVol1<br>&nbsp;&nbsp;short_name:&nbsp;mCynVol<br>&nbsp;&nbsp;taxon_id:&nbsp;110931<br>&nbsp;&nbsp;common_name:&nbsp;Philippine&nbsp;flying&nbsp;lemur<br>&nbsp;&nbsp;genome_size:&nbsp;3554000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Dermoptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cynocephalidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Cynocephalus volans
 name_: Cynocephalus_volans
 pri1date: 2022-05-20

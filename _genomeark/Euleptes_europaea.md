@@ -111,33 +111,10 @@ hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1658863208
 last_updated: 1675974730
 mds:
-- data: "species: Euleptes europaea\nspecimen: rEulEur1\nprojects: \n  - vgp\nhap1:
-    s3://genomeark/species/Euleptes_europaea/rEulEur1/assembly_vgp_HiC_2.0/rEulEur1.HiC.hap1.20220731.fasta.gz\nhap2:
-    s3://genomeark/species/Euleptes_europaea/rEulEur1/assembly_vgp_HiC_2.0/rEulEur1.HiC.hap2.20220731.fasta.gz\nkmer_spectra_img:
-    s3://genomeark/species/Euleptes_europaea/rEulEur1/assembly_vgp_HiC_2.0/evaluation/rEulEur1_png/\npacbio_read_dir:
-    s3://genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/arima/\nbionano_cmap_dir:
-    s3://genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/bionano/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy2)\n  - solve (3.7.0+galaxy0)\n  - yahs (1.2a+galaxy1)\nassembled_by_group:
-    Rockefeller\nnotes: Please curate hap2 ( rEulEur1.HiC.hap2.20220731.fasta.gz ),
-    hap1 is linked here in case it is useful as well"
+- data: species:&nbsp;Euleptes&nbsp;europaea<br>specimen:&nbsp;rEulEur1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Euleptes_europaea/rEulEur1/assembly_vgp_HiC_2.0/rEulEur1.HiC.hap1.20220731.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Euleptes_europaea/rEulEur1/assembly_vgp_HiC_2.0/rEulEur1.HiC.hap2.20220731.fasta.gz<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Euleptes_europaea/rEulEur1/assembly_vgp_HiC_2.0/evaluation/rEulEur1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;Please&nbsp;curate&nbsp;hap2&nbsp;(&nbsp;rEulEur1.HiC.hap2.20220731.fasta.gz&nbsp;),&nbsp;hap1&nbsp;is&nbsp;linked&nbsp;here&nbsp;in&nbsp;case&nbsp;it&nbsp;is&nbsp;useful&nbsp;as&nbsp;well
   ident: md5
   title: assembly_vgp_HiC_2.0/rEulEur1_hap2.yaml
-metadata: |
-  species:
-    name: Euleptes europaea
-    individuals:
-    - short_name: rEulEur1
-    short_name: rEulEur
-    taxon_id: 460621
-    common_name: tarantolino
-    genome_size: 2533000000
-    genome_size_method: GoAT
-    order:
-      name: Squamata
-    family:
-      name: Sphaerodactylidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Euleptes&nbsp;europaea<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rEulEur1<br>&nbsp;&nbsp;short_name:&nbsp;rEulEur<br>&nbsp;&nbsp;taxon_id:&nbsp;460621<br>&nbsp;&nbsp;common_name:&nbsp;tarantolino<br>&nbsp;&nbsp;genome_size:&nbsp;2533000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Sphaerodactylidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2022-11-21
 mito1filesize: 5.0 KiB
 mito1length: '17541'

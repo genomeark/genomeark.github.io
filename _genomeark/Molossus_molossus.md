@@ -53,10 +53,7 @@ genome_size_display: 2.32 Gbp
 genome_size_method: DAmar assembly
 last_raw_data: 1582495898
 last_updated: 1582495898
-metadata: "species:\n  short_name: mMolMol\n  name: Molossus molossus\n  taxon_id:
-  27622\n  common_name: Pallas's mastiff bat\n  order:\n    name: Chiroptera\n  family:\n
-  \   name: Molossidae\n  individuals:\n    - short_name: mMolMol1\n  genome_size:
-  2319008189\n  genome_size_method: DAmar assembly \n  project: [ vgp ]\n"
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMolMol<br>&nbsp;&nbsp;name:&nbsp;Molossus&nbsp;molossus<br>&nbsp;&nbsp;taxon_id:&nbsp;27622<br>&nbsp;&nbsp;common_name:&nbsp;Pallas's&nbsp;mastiff&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Molossidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMolMol1<br>&nbsp;&nbsp;genome_size:&nbsp;2319008189<br>&nbsp;&nbsp;genome_size_method:&nbsp;DAmar&nbsp;assembly&nbsp;<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Molossus molossus
 name_: Molossus_molossus
 pri1date: 2019-04-18

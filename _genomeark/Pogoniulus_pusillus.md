@@ -83,21 +83,7 @@ genome_size_display: 1.00 Gbp
 genome_size_method: ''
 last_raw_data: 1579788702
 last_updated: 1589472340
-metadata: |
-  species:
-    common_name: Red-fronted tinkerbird
-    family:
-      name: Lybiidae
-    genome_size: 1000000000
-    genome_size_method: null
-    individuals:
-    - short_name: bPogPus1
-    name: Pogoniulus pusillus
-    order:
-      name: Piciformes
-    short_name: bPogPus
-    taxon_id: 488313
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;Red-fronted&nbsp;tinkerbird<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lybiidae<br>&nbsp;&nbsp;genome_size:&nbsp;1000000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPogPus1<br>&nbsp;&nbsp;name:&nbsp;Pogoniulus&nbsp;pusillus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Piciformes<br>&nbsp;&nbsp;short_name:&nbsp;bPogPus<br>&nbsp;&nbsp;taxon_id:&nbsp;488313<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2020-01-24
 mito1filesize: 5.2 KiB
 mito1length: '19935'

@@ -72,39 +72,7 @@ genome_size_display: 3.23 Gbp
 genome_size_method: GoaT ancestral inferred
 last_raw_data: 1698704705
 last_updated: 1698704705
-metadata: |
-  species:
-    short_name: mHooLeu
-    name: Hoolock leuconedys
-    common_name: eastern hoolock gibbon
-    taxon_id: 593543
-    order:
-      name: Primates
-    family:
-      name: Hominidae
-    individuals:
-    -
-        short_name: mHooLeu1
-        name: Arthur
-        biosample_id: SAMN33424221
-        strain: null
-        alt_ids:
-        - Arthur_HLE
-        - HLE304
-        sex: male
-        description: null
-        provider: Lucia Carbone (Oregon Health & Science University)
-        mother: null
-        father: null
-        samples:
-        -
-           sample_id: mHooLeu1.LCL1
-           tissue: lymphoblastoid cell line
-           dev_stage: adult
-           sample_biosample_id: null
-    genome_size: 3230000000
-    genome_size_method: GoaT ancestral inferred
-    project: [ ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mHooLeu<br>&nbsp;&nbsp;name:&nbsp;Hoolock&nbsp;leuconedys<br>&nbsp;&nbsp;common_name:&nbsp;eastern&nbsp;hoolock&nbsp;gibbon<br>&nbsp;&nbsp;taxon_id:&nbsp;593543<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hominidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mHooLeu1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Arthur<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMN33424221<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Arthur_HLE<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HLE304<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone&nbsp;(Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;mHooLeu1.LCL1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;lymphoblastoid&nbsp;cell&nbsp;line<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;null<br>&nbsp;&nbsp;genome_size:&nbsp;3230000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;ancestral&nbsp;inferred<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;]<br>
 name: Hoolock leuconedys
 name_: Hoolock_leuconedys
 project: []

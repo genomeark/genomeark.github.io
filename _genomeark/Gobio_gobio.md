@@ -62,23 +62,7 @@ genome_size_display: 1.61 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675871884
 last_updated: 1677589428
-metadata: |
-  species:
-    short_name: fGobGob
-    name: Gobio gobio
-    taxon_id: 27704
-    common_name: gudgeon
-    order:
-      name: Cypriniformes
-    family:
-      name: Cyprinidae
-    individuals:
-      - short_name: fGobGob1
-        biosample_id: SAMEA11296538
-        sex:
-    genome_size: 1613700000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fGobGob<br>&nbsp;&nbsp;name:&nbsp;Gobio&nbsp;gobio<br>&nbsp;&nbsp;taxon_id:&nbsp;27704<br>&nbsp;&nbsp;common_name:&nbsp;gudgeon<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cypriniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyprinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fGobGob1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA11296538<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1613700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Gobio gobio
 name_: Gobio_gobio
 pri1date: 2023-02-28

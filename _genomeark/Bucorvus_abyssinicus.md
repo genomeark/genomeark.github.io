@@ -83,21 +83,7 @@ genome_size_display: 1.13 Gbp
 genome_size_method: ''
 last_raw_data: 1562595330
 last_updated: 1565897614
-metadata: |
-  species:
-    short_name: bBucAby
-    name: Bucorvus abyssinicus
-    taxon_id: 153643
-    common_name: Abyssinian ground-hornbill
-    order:
-      name: Bucerotiformes
-    family:
-      name: Bucorvidae
-    individuals:
-      - short_name: bBucAby1
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bBucAby<br>&nbsp;&nbsp;name:&nbsp;Bucorvus&nbsp;abyssinicus<br>&nbsp;&nbsp;taxon_id:&nbsp;153643<br>&nbsp;&nbsp;common_name:&nbsp;Abyssinian&nbsp;ground-hornbill<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Bucerotiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Bucorvidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bBucAby1<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Bucorvus abyssinicus
 name_: Bucorvus_abyssinicus
 pri1date: 2019-08-12

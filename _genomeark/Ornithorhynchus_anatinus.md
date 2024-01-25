@@ -93,22 +93,7 @@ genome_size_display: 2.13 Gbp
 genome_size_method: ''
 last_raw_data: 1536347587
 last_updated: 1582640034
-metadata: |
-  species:
-    short_name: mOrnAna
-    name: Ornithorhynchus anatinus
-    taxon_id: 9258
-    common_name: platypus
-    order:
-      name: Monotremata
-    family:
-      name: Ornithorhynchidae
-    individuals:
-      - short_name: mOrnAna1
-      - short_name: mOrnAna2
-    genome_size: 2128226567
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mOrnAna<br>&nbsp;&nbsp;name:&nbsp;Ornithorhynchus&nbsp;anatinus<br>&nbsp;&nbsp;taxon_id:&nbsp;9258<br>&nbsp;&nbsp;common_name:&nbsp;platypus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Monotremata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Ornithorhynchidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mOrnAna1<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mOrnAna2<br>&nbsp;&nbsp;genome_size:&nbsp;2128226567<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2018-11-16
 mito1filesize: 5.3 KiB
 mito1length: '16374'

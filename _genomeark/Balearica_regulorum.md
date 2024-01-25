@@ -83,21 +83,7 @@ genome_size_display: 1.45 Gbp
 genome_size_method: ''
 last_raw_data: 1571157581
 last_updated: 1576514397
-metadata: |
-  species:
-    common_name: grey crowned-crane
-    family:
-      name: Gruidae
-    genome_size: 1450000000
-    genome_size_method: null
-    individuals:
-    - short_name: bBalReg1
-    name: Balearica regulorum
-    order:
-      name: Gruiformes
-    short_name: bBalReg
-    taxon_id: 925459
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;grey&nbsp;crowned-crane<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gruidae<br>&nbsp;&nbsp;genome_size:&nbsp;1450000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bBalReg1<br>&nbsp;&nbsp;name:&nbsp;Balearica&nbsp;regulorum<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gruiformes<br>&nbsp;&nbsp;short_name:&nbsp;bBalReg<br>&nbsp;&nbsp;taxon_id:&nbsp;925459<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-12-16
 mito1filesize: 5.2 KiB
 mito1length: '19234'

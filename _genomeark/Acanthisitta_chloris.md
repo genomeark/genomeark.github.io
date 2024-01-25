@@ -83,21 +83,7 @@ genome_size_display: 1.05 Gbp
 genome_size_method: ''
 last_raw_data: 1568758968
 last_updated: 1622050157
-metadata: |
-  species:
-    short_name: bAcaChl
-    name: Acanthisitta chloris
-    taxon_id: 57068
-    common_name: rifleman
-    order:
-      name: Passeriformes
-    family:
-      name: Acanthisittidae
-    individuals:
-      - short_name: bAcaChl1
-    genome_size: 1050000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bAcaChl<br>&nbsp;&nbsp;name:&nbsp;Acanthisitta&nbsp;chloris<br>&nbsp;&nbsp;taxon_id:&nbsp;57068<br>&nbsp;&nbsp;common_name:&nbsp;rifleman<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Acanthisittidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAcaChl1<br>&nbsp;&nbsp;genome_size:&nbsp;1050000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-04
 mito1filesize: 5.2 KiB
 mito1length: '19029'

@@ -31,23 +31,7 @@ genome_size_display: 1.23 Gbp
 genome_size_method: GoaT
 last_raw_data: 1693579021
 last_updated: 1693579021
-metadata: |
-  species:
-    short_name: bFicHyp
-    name: Ficedula hypoleuca
-    taxon_id: 46689
-    common_name: Pied Flycatcher
-    order:
-      name: Passeriformes
-    family:
-      name: Muscicapidae
-    individuals:
-      - short_name: bFicHyp2
-        biosample_id: SAMEA112468131
-        sex: female
-    genome_size: 1234725000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bFicHyp<br>&nbsp;&nbsp;name:&nbsp;Ficedula&nbsp;hypoleuca<br>&nbsp;&nbsp;taxon_id:&nbsp;46689<br>&nbsp;&nbsp;common_name:&nbsp;Pied&nbsp;Flycatcher<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Muscicapidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFicHyp2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468131<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1234725000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Ficedula hypoleuca
 name_: Ficedula_hypoleuca
 project:

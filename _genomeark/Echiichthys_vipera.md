@@ -60,23 +60,7 @@ genome_size_display: 1.04 Gbp
 genome_size_method: GoaT
 last_raw_data: 1699887524
 last_updated: 1700874166
-metadata: |
-  species:
-    short_name: fEchVip
-    name: Echiichthys vipera
-    taxon_id: 94984
-    common_name: lesser weever
-    order:
-      name: Perciformes
-    family:
-      name: Trachinidae
-    individuals:
-      - short_name: fEchVip8
-        biosample_id: SAMEA112765695
-        sex:
-    genome_size: 1036680000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fEchVip<br>&nbsp;&nbsp;name:&nbsp;Echiichthys&nbsp;vipera<br>&nbsp;&nbsp;taxon_id:&nbsp;94984<br>&nbsp;&nbsp;common_name:&nbsp;lesser&nbsp;weever<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Trachinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fEchVip8<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112765695<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1036680000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito8date: 2023-11-13
 mito8filesize: 5.4 KiB
 mito8length: '16923'

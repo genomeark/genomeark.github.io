@@ -73,23 +73,7 @@ genome_size_display: 1.09 Gbp
 genome_size_method: ''
 last_raw_data: 1576664929
 last_updated: 1591259911
-metadata: |
-  species:
-    short_name: bEriRub
-    name: Erithacus rubecula
-    taxon_id: 37610
-    common_name: European robin
-    order:
-      name: Passeriformes
-    family:
-      name: Muscicapidae
-    individuals:
-      - short_name: bEriRub2
-        biosample_id: SAMEA4760689
-        sex: female
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bEriRub<br>&nbsp;&nbsp;name:&nbsp;Erithacus&nbsp;rubecula<br>&nbsp;&nbsp;taxon_id:&nbsp;37610<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;robin<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Muscicapidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bEriRub2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA4760689<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Erithacus rubecula
 name_: Erithacus_rubecula
 pri2date: 2020-06-03

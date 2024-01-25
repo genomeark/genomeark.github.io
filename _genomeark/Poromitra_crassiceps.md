@@ -31,23 +31,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1691521974
 last_updated: 1691521974
-metadata: |
-  species:
-    short_name: fPorCra
-    name: Poromitra crassiceps
-    taxon_id: 88708
-    common_name: crested bigscale
-    order:
-      name: Stephanoberyciformes
-    family:
-      name: Melamphaidae
-    individuals:
-      - short_name: fPorCra3
-        biosample_id: SAMEA8748810
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fPorCra<br>&nbsp;&nbsp;name:&nbsp;Poromitra&nbsp;crassiceps<br>&nbsp;&nbsp;taxon_id:&nbsp;88708<br>&nbsp;&nbsp;common_name:&nbsp;crested&nbsp;bigscale<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Stephanoberyciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Melamphaidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fPorCra3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8748810<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Poromitra crassiceps
 name_: Poromitra_crassiceps
 project:

@@ -60,23 +60,7 @@ genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687784953
 last_updated: 1688994585
-metadata: |
-  species:
-    short_name: fEleSub
-    name: Electrona subaspera
-    taxon_id: 948024
-    common_name: rough lanternfish
-    order:
-      name: Myctophiformes
-    family:
-      name: Myctophidae
-    individuals:
-      - short_name: fEleSub1
-        biosample_id: SAMEA12815436
-        sex: female
-    genome_size: 1907100000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fEleSub<br>&nbsp;&nbsp;name:&nbsp;Electrona&nbsp;subaspera<br>&nbsp;&nbsp;taxon_id:&nbsp;948024<br>&nbsp;&nbsp;common_name:&nbsp;rough&nbsp;lanternfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fEleSub1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12815436<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1907100000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-06-26
 mito1filesize: 5.7 KiB
 mito1length: '18098'

@@ -83,21 +83,7 @@ genome_size_display: 1.40 Gbp
 genome_size_method: ''
 last_raw_data: 1578071543
 last_updated: 1629346092
-metadata: |
-  species:
-    common_name: gyrfalcon
-    family:
-      name: Falconidae
-    genome_size: 1400000000
-    genome_size_method: null
-    individuals:
-    - short_name: bFalRus1
-    name: Falco rusticolus
-    order:
-      name: Falconiformes
-    short_name: bFalRus
-    taxon_id: 120794
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;gyrfalcon<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconidae<br>&nbsp;&nbsp;genome_size:&nbsp;1400000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFalRus1<br>&nbsp;&nbsp;name:&nbsp;Falco&nbsp;rusticolus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconiformes<br>&nbsp;&nbsp;short_name:&nbsp;bFalRus<br>&nbsp;&nbsp;taxon_id:&nbsp;120794<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-12-16
 mito1filesize: 5.6 KiB
 mito1length: '18488'

@@ -62,26 +62,7 @@ genome_size_display: 3.22 Gbp
 genome_size_method: GoaT
 last_raw_data: 1676309796
 last_updated: 1679533943
-metadata: |
-  species:
-    short_name: mHypAmp
-    name: Hyperoodon ampullatus
-    taxon_id: 48744
-    common_name: northern bottlenose whale
-    order:
-      name: Cetacea
-    family:
-      name: Hyperoodontidae
-    individuals:
-      - short_name: mHypAmp1
-        biosample_id: SAMEA10839124
-        sex: female
-      - short_name: mHypAmp2
-        biosample_id: SAMEA10839125
-        sex: female
-    genome_size: 3217620000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mHypAmp<br>&nbsp;&nbsp;name:&nbsp;Hyperoodon&nbsp;ampullatus<br>&nbsp;&nbsp;taxon_id:&nbsp;48744<br>&nbsp;&nbsp;common_name:&nbsp;northern&nbsp;bottlenose&nbsp;whale<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cetacea<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hyperoodontidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mHypAmp1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA10839124<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mHypAmp2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA10839125<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;3217620000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Hyperoodon ampullatus
 name_: Hyperoodon_ampullatus
 pri2date: 2023-03-23

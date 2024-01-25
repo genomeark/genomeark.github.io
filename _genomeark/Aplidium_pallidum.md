@@ -21,23 +21,7 @@ genome_size_display: 437.66 Mbp
 genome_size_method: GoaT
 last_raw_data: 1693578946
 last_updated: 1693578946
-metadata: |
-  species:
-    short_name: kaAplPall
-    name: Aplidium pallidum
-    taxon_id: 2980188
-    common_name: Red sea pork
-    order:
-      name: Aplousobranchia
-    family:
-      name: Polyclinidae
-    individuals:
-      - short_name: kaAplPall1
-        biosample_id: SAMEA112788962
-        sex:
-    genome_size: 437655000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;kaAplPall<br>&nbsp;&nbsp;name:&nbsp;Aplidium&nbsp;pallidum<br>&nbsp;&nbsp;taxon_id:&nbsp;2980188<br>&nbsp;&nbsp;common_name:&nbsp;Red&nbsp;sea&nbsp;pork<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Aplousobranchia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Polyclinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;kaAplPall1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112788962<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;437655000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Aplidium pallidum
 name_: Aplidium_pallidum
 project:

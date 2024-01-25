@@ -107,21 +107,7 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
-metadata: |
-  species:
-    common_name: hourglass treefrog
-    family:
-      name: Hylidae
-    genome_size: 2520000000
-    genome_size_method: null
-    individuals:
-    - short_name: aDenEbr1
-    name: Dendropsophus ebraccatus
-    order:
-      name: Anura
-    short_name: aDenEbr
-    taxon_id: 150705
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;hourglass&nbsp;treefrog<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hylidae<br>&nbsp;&nbsp;genome_size:&nbsp;2520000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aDenEbr1<br>&nbsp;&nbsp;name:&nbsp;Dendropsophus&nbsp;ebraccatus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anura<br>&nbsp;&nbsp;short_name:&nbsp;aDenEbr<br>&nbsp;&nbsp;taxon_id:&nbsp;150705<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2021-04-22
 mito1filesize: 5.3 KiB
 mito1length: '19215'

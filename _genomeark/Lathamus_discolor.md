@@ -90,34 +90,10 @@ hpb1version: assembly_curated
 last_raw_data: 1681236827
 last_updated: 1688968262
 mds:
-- data: "species: Lathamus discolor\nspecimen: bLatDis1\nprojects: \n  - vgp\nhap1:
-    s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/bLatDis1.HiC.hap1.20230710.fasta.gz\nhap2:
-    s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/bLatDis1.HiC.hap2.20230710.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bLatDis1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bLatDis1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/evaluation/merqury/bLatDis1_png/\nmito:
-    s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_MT_rockefeller/bLatDis1.MT.20230710.fasta.gz\npipeline:\n
-    \ - hifiasm (0.19.3+galaxy0)\n  - solve (3.7)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group:
-    Rockefeller\nnotes: This was a hifiasm-HiC assembly of bLatDis1, resulting in
-    two complete haplotypes. This individual did bionano data. HiC scaffolding was
-    performed with yahs. The HiC prep was Arima kit 2."
+- data: species:&nbsp;Lathamus&nbsp;discolor<br>specimen:&nbsp;bLatDis1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/bLatDis1.HiC.hap1.20230710.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/bLatDis1.HiC.hap2.20230710.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bLatDis1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bLatDis1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/evaluation/merqury/bLatDis1_png/<br>mito:&nbsp;s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_MT_rockefeller/bLatDis1.MT.20230710.fasta.gz<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bLatDis1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.
   ident: md5
   title: assembly_vgp_HiC_2.0/bLatDis1.yml
-metadata: |
-  species:
-    name: Lathamus discolor
-    individuals:
-    - short_name: bLatDis1
-    short_name: bLatDis
-    taxon_id: 678569
-    common_name: Swift parrot
-    genome_size: 1385000000
-    genome_size_method: GoAT
-    order:
-      name: Psittaciformes
-    family:
-      name: Psittacidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Lathamus&nbsp;discolor<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bLatDis1<br>&nbsp;&nbsp;short_name:&nbsp;bLatDis<br>&nbsp;&nbsp;taxon_id:&nbsp;678569<br>&nbsp;&nbsp;common_name:&nbsp;Swift&nbsp;parrot<br>&nbsp;&nbsp;genome_size:&nbsp;1385000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Psittaciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Psittacidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-07-10
 mito1filesize: 5.7 KiB
 mito1length: '19498'

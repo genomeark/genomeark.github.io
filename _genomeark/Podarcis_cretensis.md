@@ -69,26 +69,7 @@ genome_size_display: 1.93 Gbp
 genome_size_method: GoaT
 last_raw_data: 1682198680
 last_updated: 1692198602
-metadata: |
-  species:
-    short_name: rPodCre
-    name: Podarcis cretensis
-    taxon_id: 1330250
-    common_name: cretan wall lizard
-    order:
-      name: Squamata
-    family:
-      name: Lacertidae
-    individuals:
-      - short_name: rPodCre1
-        biosample_id: SAMEA12110018
-        sex: male
-      - short_name: rPodCre2
-        biosample_id: SAMEA12110019
-        sex: male
-    genome_size: 1932772500
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;rPodCre<br>&nbsp;&nbsp;name:&nbsp;Podarcis&nbsp;cretensis<br>&nbsp;&nbsp;taxon_id:&nbsp;1330250<br>&nbsp;&nbsp;common_name:&nbsp;cretan&nbsp;wall&nbsp;lizard<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lacertidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rPodCre1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12110018<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rPodCre2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12110019<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1932772500<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-05-03
 mito2filesize: 5.3 KiB
 mito2length: '17088'

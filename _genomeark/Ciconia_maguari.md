@@ -83,21 +83,7 @@ genome_size_display: 1.00 Gbp
 genome_size_method: ''
 last_raw_data: 1583245111
 last_updated: 1594836847
-metadata: |
-  species:
-    common_name: maguari stork
-    family:
-      name: Ciconiidae
-    genome_size: 1000000000
-    genome_size_method: null
-    individuals:
-    - short_name: bCicMag1
-    name: Ciconia maguari
-    order:
-      name: Ciconiiformes
-    short_name: bCicMag
-    taxon_id: 52777
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;maguari&nbsp;stork<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Ciconiidae<br>&nbsp;&nbsp;genome_size:&nbsp;1000000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCicMag1<br>&nbsp;&nbsp;name:&nbsp;Ciconia&nbsp;maguari<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Ciconiiformes<br>&nbsp;&nbsp;short_name:&nbsp;bCicMag<br>&nbsp;&nbsp;taxon_id:&nbsp;52777<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2020-02-26
 mito1filesize: 5.2 KiB
 mito1length: '21477'

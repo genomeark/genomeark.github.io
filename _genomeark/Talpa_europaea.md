@@ -60,23 +60,7 @@ genome_size_display: 2.45 Gbp
 genome_size_method: GoaT
 last_raw_data: 1702993675
 last_updated: 1703328733
-metadata: |
-  species:
-    short_name: mTalEur
-    name: Talpa europaea
-    taxon_id: 9375
-    common_name: European mole
-    order:
-      name: Soricomorpha
-    family:
-      name: Talpidae
-    individuals:
-      - short_name: mTalEur1
-        biosample_id: SAMEA112468127
-        sex: male
-    genome_size: 2445000000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mTalEur<br>&nbsp;&nbsp;name:&nbsp;Talpa&nbsp;europaea<br>&nbsp;&nbsp;taxon_id:&nbsp;9375<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;mole<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Soricomorpha<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Talpidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mTalEur1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468127<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2445000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-12-22
 mito1filesize: 5.3 KiB
 mito1length: '16932'

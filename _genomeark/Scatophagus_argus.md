@@ -84,44 +84,10 @@ genome_size_method: genomescope
 last_raw_data: 1585955244
 last_updated: 1628608234
 mds:
-- data: |
-    species: Scatophagus_argus
-    specimen: fScaArg1
-    projects:
-     - vgp
-    pri: s3://genomeark/species/Scatophagus_argus/fScaArg1/assembly_vgp_standard_1.7/fScaArg1.pri.20210531.fa.gz
-    alt: s3://genomeark/species/Scatophagus_argus/fScaArg1/assembly_vgp_standard_1.7/fScaArg1.alt.20210531.fa.gz
-    mito: s3://genomeark/species/Scatophagus_argus/fScaArg1/Scatophagus_argus/fScaArg1/assembly_MT_rockefeller/fScaArg1.MT.20200331.fasta.gz
-    pipeline:
-     - falcon-kit (v1.3.0)
-     - falcon-unzip (v1.2.0)
-     - purge_dups (v1.2.3)
-     - scaff10x (v4.2)
-     - bionano_solve (Solve3.5_12162019)
-     - salsa (v2.2)
-     - longranger (v2.2.2)
-     - pbmm2 (v1.4.0)
-     - gcpp (v1.0.0-1807624)
-     - bcftools (v1.12-21-ga865a16)
-     - merfin (09c026d)
-     - deepvariant (v1.1.0)
+- data: species:&nbsp;Scatophagus_argus<br>specimen:&nbsp;fScaArg1<br>projects:<br>&nbsp;-&nbsp;vgp<br>pri:&nbsp;s3://genomeark/species/Scatophagus_argus/fScaArg1/assembly_vgp_standard_1.7/fScaArg1.pri.20210531.fa.gz<br>alt:&nbsp;s3://genomeark/species/Scatophagus_argus/fScaArg1/assembly_vgp_standard_1.7/fScaArg1.alt.20210531.fa.gz<br>mito:&nbsp;s3://genomeark/species/Scatophagus_argus/fScaArg1/Scatophagus_argus/fScaArg1/assembly_MT_rockefeller/fScaArg1.MT.20200331.fasta.gz<br>pipeline:<br>&nbsp;-&nbsp;falcon-kit&nbsp;(v1.3.0)<br>&nbsp;-&nbsp;falcon-unzip&nbsp;(v1.2.0)<br>&nbsp;-&nbsp;purge_dups&nbsp;(v1.2.3)<br>&nbsp;-&nbsp;scaff10x&nbsp;(v4.2)<br>&nbsp;-&nbsp;bionano_solve&nbsp;(Solve3.5_12162019)<br>&nbsp;-&nbsp;salsa&nbsp;(v2.2)<br>&nbsp;-&nbsp;longranger&nbsp;(v2.2.2)<br>&nbsp;-&nbsp;pbmm2&nbsp;(v1.4.0)<br>&nbsp;-&nbsp;gcpp&nbsp;(v1.0.0-1807624)<br>&nbsp;-&nbsp;bcftools&nbsp;(v1.12-21-ga865a16)<br>&nbsp;-&nbsp;merfin&nbsp;(09c026d)<br>&nbsp;-&nbsp;deepvariant&nbsp;(v1.1.0)<br>
   ident: md5
   title: assembly_vgp_standard_1.7/fScaArg1.yaml
-metadata: |
-  species:
-    common_name: spotted scat
-    family:
-      name: Scatophagidae
-    genome_size: 647966298
-    genome_size_method: genomescope
-    individuals:
-    - short_name: fScaArg1
-    name: Scatophagus argus
-    order:
-      name: Perciformes
-    short_name: fScaArg
-    taxon_id: 75038
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;spotted&nbsp;scat<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scatophagidae<br>&nbsp;&nbsp;genome_size:&nbsp;647966298<br>&nbsp;&nbsp;genome_size_method:&nbsp;genomescope<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fScaArg1<br>&nbsp;&nbsp;name:&nbsp;Scatophagus&nbsp;argus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;short_name:&nbsp;fScaArg<br>&nbsp;&nbsp;taxon_id:&nbsp;75038<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2020-03-31
 mito1filesize: 5.0 KiB
 mito1length: '16771'

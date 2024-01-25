@@ -83,22 +83,7 @@ genome_size_display: 0.70 Gbp
 genome_size_method: ''
 last_raw_data: 1523523546
 last_updated: 1547563550
-metadata: |
-  species:
-    short_name: fCotGob
-    name: Cottoperca gobio
-    taxon_id: 56716
-    common_name: channel bull blenny
-    order:
-      name: Perciformes
-    family:
-      name: Bovichtidae
-    individuals:
-      - short_name: fCotGob2
-      - short_name: fCotGob3
-    genome_size: 700000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fCotGob<br>&nbsp;&nbsp;name:&nbsp;Cottoperca&nbsp;gobio<br>&nbsp;&nbsp;taxon_id:&nbsp;56716<br>&nbsp;&nbsp;common_name:&nbsp;channel&nbsp;bull&nbsp;blenny<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Bovichtidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCotGob2<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCotGob3<br>&nbsp;&nbsp;genome_size:&nbsp;700000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Cottoperca gobio
 name_: Cottoperca_gobio
 pri3date: 2018-10-26

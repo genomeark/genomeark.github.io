@@ -93,27 +93,10 @@ genome_size_method: GoAT
 last_raw_data: 1651618147
 last_updated: 1655389936
 mds:
-- data: "species: Elephas maximus\nspecimen: mEleMax1\nprojects:\n  - vgp\nprimary:
-    s3://genomeark/species/Elephas_maximus/mEleMax1/assembly_vgp_standard_2.0/mEleMax1.pri.asm.20220318.fasta.gz\nhaplotigs:
-    s3://genomeark/species/Elephas_maximus/mEleMax1/assembly_vgp_standard_2.0/mEleMax1.alt.asm.20220318.fasta.gz\nmito:
-    \n"
+- data: species:&nbsp;Elephas&nbsp;maximus<br>specimen:&nbsp;mEleMax1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Elephas_maximus/mEleMax1/assembly_vgp_standard_2.0/mEleMax1.pri.asm.20220318.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Elephas_maximus/mEleMax1/assembly_vgp_standard_2.0/mEleMax1.alt.asm.20220318.fasta.gz<br>mito:&nbsp;<br>
   ident: md3
   title: assembly_curated/mEleMax1.yaml
-metadata: |
-  species:
-    name: Elephas maximus
-    individuals:
-    - short_name: mEleMax1
-    short_name: mEleMax
-    taxon_id: 9783
-    common_name: Asiatic elephant
-    genome_size: 3941000000
-    genome_size_method: GoAT
-    order:
-      name: Proboscidea
-    family:
-      name: Elephantidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Elephas&nbsp;maximus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mEleMax1<br>&nbsp;&nbsp;short_name:&nbsp;mEleMax<br>&nbsp;&nbsp;taxon_id:&nbsp;9783<br>&nbsp;&nbsp;common_name:&nbsp;Asiatic&nbsp;elephant<br>&nbsp;&nbsp;genome_size:&nbsp;3941000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Proboscidea<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Elephantidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Elephas maximus
 name_: Elephas_maximus
 pri1date: 2022-06-16

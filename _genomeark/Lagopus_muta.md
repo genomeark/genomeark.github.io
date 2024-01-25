@@ -73,16 +73,7 @@ genome_size_method: ''
 last_raw_data: 1651598755
 last_updated: 1651598755
 mds:
-- data: "species: Lagomus_muta\nspecimen: bLagMut1\nprojects:\n  - vgp\nrelease_to:
-    S3\ndata_location: S3\nprimary: s3://genomeark/species/Lagopus_muta/bLagMut1/assembly_vgp_standard_2.0/bLagMut1.pri.asm.20210815.fasta.gz\nhaplotigs:
-    s3://genomeark/species/Lagopus_muta/bLagMut1/assembly_vgp_standard_2.0/bLagMut1.alt.asm.20210815.fasta.gz\nhic_bam:
-    s3://genomeark/species/Lagopus_muta/bLagMut1/assembly_vgp_standard_2.0/evaluation/LagMut1.pri.asm_pretext/LagMut1.pri.asm.bam\npretext:
-    s3://genomeark/species/Lagopus_muta/bLagMut1/assembly_vgp_standard_2.0/evaluation/LagMut1.pri.asm_pretext/LagMut1.pri.asm.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Lagopus_muta/bLagMut1/assembly_vgp_standard_2.0/evaluation/p/Merqury/\npacbio_read_dir:
-    s3://genomeark/species/Lagopus_muta/bLagMut1/genomic_data/\nhic_read_dir: s3://genomeark/species/Lagopus_muta/bLagMut1/genomic_data/\nrna_seq_read_dir:
-    s3://genomeark/species/Lagopus_muta/bLagMut1/transcriptomic_data/\npacbio_read_type:
-    hifi\nhic_kit: dovetail\npipeline:\n  - hifiasm (0.15.1-r334)\n  - purge_dups
-    (1.2.5)\n  - salsa (2.3)\nnotes:\n  No mitogenome has been assembled.\n \n\n"
+- data: species:&nbsp;Lagomus_muta<br>specimen:&nbsp;bLagMut1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>release_to:&nbsp;S3<br>data_location:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Lagopus_muta/bLagMut1/assembly_vgp_standard_2.0/bLagMut1.pri.asm.20210815.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Lagopus_muta/bLagMut1/assembly_vgp_standard_2.0/bLagMut1.alt.asm.20210815.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Lagopus_muta/bLagMut1/assembly_vgp_standard_2.0/evaluation/LagMut1.pri.asm_pretext/LagMut1.pri.asm.bam<br>pretext:&nbsp;s3://genomeark/species/Lagopus_muta/bLagMut1/assembly_vgp_standard_2.0/evaluation/LagMut1.pri.asm_pretext/LagMut1.pri.asm.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Lagopus_muta/bLagMut1/assembly_vgp_standard_2.0/evaluation/p/Merqury/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Lagopus_muta/bLagMut1/genomic_data/<br>hic_read_dir:&nbsp;s3://genomeark/species/Lagopus_muta/bLagMut1/genomic_data/<br>rna_seq_read_dir:&nbsp;s3://genomeark/species/Lagopus_muta/bLagMut1/transcriptomic_data/<br>pacbio_read_type:&nbsp;hifi<br>hic_kit:&nbsp;dovetail<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.1-r334)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3)<br>notes:<br>&nbsp;&nbsp;No&nbsp;mitogenome&nbsp;has&nbsp;been&nbsp;assembled.<br>&nbsp;<br><br>
   ident: md4
   title: assembly_vgp_standard_2.0/bLagMut1.yaml
 name: Lagopus muta

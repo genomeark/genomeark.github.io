@@ -62,23 +62,7 @@ genome_size_display: 0.99 Gbp
 genome_size_method: ''
 last_raw_data: 1675907098
 last_updated: 1675907098
-metadata: |
-  species:
-    short_name: fTelBon
-    name: Telmatherina bonti
-    taxon_id: 446457
-    common_name:
-    order:
-      name: Atheriniformes
-    family:
-      name: Telmatherinidae
-    individuals:
-      - short_name: fTelBon1
-        biosample_id: SAMEA8592627
-        sex: male
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fTelBon<br>&nbsp;&nbsp;name:&nbsp;Telmatherina&nbsp;bonti<br>&nbsp;&nbsp;taxon_id:&nbsp;446457<br>&nbsp;&nbsp;common_name:<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Atheriniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Telmatherinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fTelBon1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8592627<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Telmatherina bonti
 name_: Telmatherina_bonti
 pri1date: 2022-03-07

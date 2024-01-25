@@ -81,25 +81,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1687784994
 last_updated: 1692198070
-metadata: |
-  species:
-    short_name: fZeuFab
-    name: Zeus faber
-    taxon_id: 64108
-    common_name: John Dory
-    order:
-      name: Zeiformes
-    family:
-      name: Zeidae
-    individuals:
-      - short_name: fZeuFab1
-        biosample_id: SAMEA104384836
-      - short_name: fZeuFab8
-        biosample_id: SAMEA111562156
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fZeuFab<br>&nbsp;&nbsp;name:&nbsp;Zeus&nbsp;faber<br>&nbsp;&nbsp;taxon_id:&nbsp;64108<br>&nbsp;&nbsp;common_name:&nbsp;John&nbsp;Dory<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Zeiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Zeidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fZeuFab1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA104384836<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fZeuFab8<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111562156<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 5.1 KiB
 mito1length: '16722'

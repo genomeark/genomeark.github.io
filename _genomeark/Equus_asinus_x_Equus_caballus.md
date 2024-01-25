@@ -82,16 +82,7 @@ genome_size_display: 2.60 Gbp
 genome_size_method: non-computational, expert estimation
 last_raw_data: 1693431724
 last_updated: 1693431724
-metadata: "species:\n  name: Equus asinus x Equus caballus\n  short_name: mEquAca\n
-  \ common_name: hybrid of male donkey and female horse\n  taxon_id: 319699\n  order:\n
-  \   name: Perissodactyla\n  family:\n    name: Equidae\n  individuals:\n  - \n    short_name:
-  mEquAca1\n    biosample_id: null\n    strain: null\n    alt_ids:\n    - 4285\n    sex:
-  male\n    description: null\n    provider: Ted Kalbfleisch (University of Kentucky)\n
-  \   father:\n    -\n      short_name: mEquAsi1\n      name: Equus asinus\n      common_name:
-  ass (donkey)\n      taxon_id: 9793\n    mother:\n    -\n      short_name: mEquCab4\n
-  \     name: Equus caballas\n      common_name: horse\n      taxon_id: 9796\n  genome_size:
-  2600000000\n  genome_size_method: non-computational, expert estimation\n  project:
-  [ t2t ]\n"
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Equus&nbsp;asinus&nbsp;x&nbsp;Equus&nbsp;caballus<br>&nbsp;&nbsp;short_name:&nbsp;mEquAca<br>&nbsp;&nbsp;common_name:&nbsp;hybrid&nbsp;of&nbsp;male&nbsp;donkey&nbsp;and&nbsp;female&nbsp;horse<br>&nbsp;&nbsp;taxon_id:&nbsp;319699<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perissodactyla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Equidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mEquAca1<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;4285<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Ted&nbsp;Kalbfleisch&nbsp;(University&nbsp;of&nbsp;Kentucky)<br>&nbsp;&nbsp;&nbsp;&nbsp;father:<br>&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mEquAsi1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Equus&nbsp;asinus<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common_name:&nbsp;ass&nbsp;(donkey)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taxon_id:&nbsp;9793<br>&nbsp;&nbsp;&nbsp;&nbsp;mother:<br>&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mEquCab4<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Equus&nbsp;caballas<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common_name:&nbsp;horse<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taxon_id:&nbsp;9796<br>&nbsp;&nbsp;genome_size:&nbsp;2600000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;non-computational,&nbsp;expert&nbsp;estimation<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>
 name: Equus asinus x Equus caballus
 name_: Equus_asinus_x_Equus_caballus
 project:

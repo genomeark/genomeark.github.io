@@ -91,36 +91,10 @@ genome_size_method: ''
 last_raw_data: 1675714678
 last_updated: 1687276574
 mds:
-- data: "species: Pelecanus crispus\nspecimen: bPelCri1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nprimary: s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.0/bPelCri1.standard.pri.20230327.fasta.gz\nhaplotigs:
-    s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.0/bPelCri1.standard.alt.20230327.fasta.gz\npretext:
-    s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.0/evaluation/pri/pretext/bPelCri1_pri__s2.heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.0/evaluation/merqury/bPelCri1_png/\nmito:
-    s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_MT_rockefeller/bPelCri1.MT.20230407.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Pelecanus_crispus/bPelCri1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Pelecanus_crispus/bPelCri1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.18.8+galaxy1)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group: Rockefeller\nnotes:
-    This was a primary/alternate assembly of bPelCri1, done using hifiasm with internal
-    purging turned on to default level. This assembly did not use bionano data, and
-    the HiC data came from another individual (bPelCri2). HiC scaffolding was performed
-    with yahs. The HiC prep was Arima kit 2. There is bionano data available from
-    external sequencing in the respective genomeark folder, but it was not used for
-    this assembly."
+- data: species:&nbsp;Pelecanus&nbsp;crispus<br>specimen:&nbsp;bPelCri1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.0/bPelCri1.standard.pri.20230327.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.0/bPelCri1.standard.alt.20230327.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.0/evaluation/pri/pretext/bPelCri1_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.0/evaluation/merqury/bPelCri1_png/<br>mito:&nbsp;s3://genomeark/species/Pelecanus_crispus/bPelCri1/assembly_MT_rockefeller/bPelCri1.MT.20230407.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Pelecanus_crispus/bPelCri1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Pelecanus_crispus/bPelCri1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;bPelCri1,&nbsp;done&nbsp;using&nbsp;hifiasm&nbsp;with&nbsp;internal&nbsp;purging&nbsp;turned&nbsp;on&nbsp;to&nbsp;default&nbsp;level.&nbsp;This&nbsp;assembly&nbsp;did&nbsp;not&nbsp;use&nbsp;bionano&nbsp;data,&nbsp;and&nbsp;the&nbsp;HiC&nbsp;data&nbsp;came&nbsp;from&nbsp;another&nbsp;individual&nbsp;(bPelCri2).&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;There&nbsp;is&nbsp;bionano&nbsp;data&nbsp;available&nbsp;from&nbsp;external&nbsp;sequencing&nbsp;in&nbsp;the&nbsp;respective&nbsp;genomeark&nbsp;folder,&nbsp;but&nbsp;it&nbsp;was&nbsp;not&nbsp;used&nbsp;for&nbsp;this&nbsp;assembly.
   ident: md5
   title: assembly_vgp_standard_2.0/bPelCri1.yml
-metadata: |
-  species:
-    short_name: bPelCri
-    name: Pelecanus crispus
-    taxon_id: 36300
-    common_name: Dalmatian pelican
-    order:
-      name: Pelecaniformes
-    family:
-      name: Pelecanidae
-    individuals:
-      - short_name: bPelCri1
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bPelCri<br>&nbsp;&nbsp;name:&nbsp;Pelecanus&nbsp;crispus<br>&nbsp;&nbsp;taxon_id:&nbsp;36300<br>&nbsp;&nbsp;common_name:&nbsp;Dalmatian&nbsp;pelican<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pelecaniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pelecanidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPelCri1<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-04-07
 mito1filesize: 5.7 KiB
 mito1length: '19483'

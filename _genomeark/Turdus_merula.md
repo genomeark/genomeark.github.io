@@ -31,21 +31,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1523481808
 last_updated: 1523481808
-metadata: |
-  species:
-    short_name: bTurMer
-    name: Turdus merula
-    taxon_id: 9187
-    common_name: blackbird
-    order:
-      name: Passeriformes
-    family:
-      name: Turdidae
-    individuals:
-      - short_name: bTurMer1
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bTurMer<br>&nbsp;&nbsp;name:&nbsp;Turdus&nbsp;merula<br>&nbsp;&nbsp;taxon_id:&nbsp;9187<br>&nbsp;&nbsp;common_name:&nbsp;blackbird<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Turdidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bTurMer1<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Turdus merula
 name_: Turdus_merula
 project:

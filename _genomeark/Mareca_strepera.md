@@ -31,23 +31,7 @@ genome_size_display: 1.38 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687353441
 last_updated: 1687353441
-metadata: |
-  species:
-    short_name: bMarStr
-    name: Mareca strepera
-    taxon_id: 75861
-    common_name: gadwall
-    order:
-      name: Anseriformes
-    family:
-      name: Anatidae
-    individuals:
-      - short_name: bMarStr1
-        biosample_id: SAMEA112468030
-        sex: female
-    genome_size: 1378980000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bMarStr<br>&nbsp;&nbsp;name:&nbsp;Mareca&nbsp;strepera<br>&nbsp;&nbsp;taxon_id:&nbsp;75861<br>&nbsp;&nbsp;common_name:&nbsp;gadwall<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bMarStr1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468030<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1378980000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Mareca strepera
 name_: Mareca_strepera
 project:

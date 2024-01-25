@@ -93,41 +93,13 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mds:
-- data: "species: Rissa tridactyla\nspecimen: bRisTri1\nprojects: \n  - vgp\npaternal:
-    s3://genomeark/species/Rissa_tridactyla/bRisTri1/assembly_vgp_trio_2.0/bRisTri1.trio.hap1.20220720.fasta.gz\npretext:
-    s3://genomeark/species/Rissa_tridactyla/bRisTri1/assembly_vgp_trio_2.0/evaluation/hap1/pretext/bRisTri1_hap1__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Rissa_tridactyla/bRisTri1/assembly_vgp_trio_2.0/evaluation/Rissa_tridactyla_png/\npacbio_read_dir:
-    s3://genomeark/species/Rissa_tridactyla/bRisTri1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Rissa_tridactyla/bRisTri1/genomic_data/arima/\nbionano_cmap_dir:
-    s3://genomeark/species/Rissa_tridactyla/bRisTri1/genomic_data/bionano/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy2)\n  - solve (3.7.0+galaxy0)\n  - salsa (2.3+galaxy2)\nassembled_by_group:
-    University of Milan\n"
+- data: species:&nbsp;Rissa&nbsp;tridactyla<br>specimen:&nbsp;bRisTri1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>paternal:&nbsp;s3://genomeark/species/Rissa_tridactyla/bRisTri1/assembly_vgp_trio_2.0/bRisTri1.trio.hap1.20220720.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Rissa_tridactyla/bRisTri1/assembly_vgp_trio_2.0/evaluation/hap1/pretext/bRisTri1_hap1__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Rissa_tridactyla/bRisTri1/assembly_vgp_trio_2.0/evaluation/Rissa_tridactyla_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Rissa_tridactyla/bRisTri1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Rissa_tridactyla/bRisTri1/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Rissa_tridactyla/bRisTri1/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)<br>assembled_by_group:&nbsp;University&nbsp;of&nbsp;Milan<br>
   ident: md2
   title: assembly_vgp_trio_2.0/bRisTri1_hap1.yaml
-- data: "species: Rissa tridactyla\nspecimen: bRisTri1\nprojects: \n  - vgp\nmaternal:
-    s3://genomeark/species/Rissa_tridactyla/bRisTri1/assembly_vgp_trio_2.0/bRisTri1.trio.hap2.20220720.fasta.gz\npretext:
-    s3://genomeark/species/Rissa_tridactyla/bRisTri1/assembly_vgp_trio_2.0/evaluation/hap2/pretext/bRisTri1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Rissa_tridactyla/bRisTri1/assembly_vgp_trio_2.0/evaluation/merqury/Rissa_tridactyla_png/\npacbio_read_dir:
-    s3://genomeark/species/Rissa_tridactyla/bRisTri1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Rissa_tridactyla/bRisTri1/genomic_data/arima/\nbionano_cmap_dir:
-    s3://genomeark/species/Rissa_tridactyla/bRisTri1/genomic_data/bionano/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy2)\n  - solve (3.7.0+galaxy0)\n  - salsa (2.3+galaxy2)\nassembled_by_group:
-    University of Milan\n"
+- data: species:&nbsp;Rissa&nbsp;tridactyla<br>specimen:&nbsp;bRisTri1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>maternal:&nbsp;s3://genomeark/species/Rissa_tridactyla/bRisTri1/assembly_vgp_trio_2.0/bRisTri1.trio.hap2.20220720.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Rissa_tridactyla/bRisTri1/assembly_vgp_trio_2.0/evaluation/hap2/pretext/bRisTri1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Rissa_tridactyla/bRisTri1/assembly_vgp_trio_2.0/evaluation/merqury/Rissa_tridactyla_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Rissa_tridactyla/bRisTri1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Rissa_tridactyla/bRisTri1/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Rissa_tridactyla/bRisTri1/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)<br>assembled_by_group:&nbsp;University&nbsp;of&nbsp;Milan<br>
   ident: md3
   title: assembly_vgp_trio_2.0/bRisTri1_hap2.yaml
-metadata: |
-  species:
-    short_name: bRisTri
-    name: Rissa tridactyla
-    taxon_id: 75485
-    common_name: Black-legged kittiwake
-    order:
-      name: Charadriiformes
-    family:
-      name: Laridae
-    individuals:
-      - short_name: bRisTri1
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bRisTri<br>&nbsp;&nbsp;name:&nbsp;Rissa&nbsp;tridactyla<br>&nbsp;&nbsp;taxon_id:&nbsp;75485<br>&nbsp;&nbsp;common_name:&nbsp;Black-legged&nbsp;kittiwake<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Laridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bRisTri1<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Rissa tridactyla
 name_: Rissa_tridactyla
 pat1date: 2022-11-30

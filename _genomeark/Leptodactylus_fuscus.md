@@ -90,57 +90,13 @@ hpb1version: assembly_curated
 last_raw_data: 1680105268
 last_updated: 1689693738
 mds:
-- data: "species: Leptodactylus fuscus\nspecimen: aLepFus1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/aLepFus1.HiC.hap1.20230421.fasta.gz\nhap2:
-    s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/aLepFus1.HiC.hap2.20230421.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aLepFus1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aLepFus1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/evaluation/merqury/aLepFus1_png/\npacbio_read_dir:
-    s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/arima/\nbionano_cmap_dir:
-    s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/bionano/\nmito:
-    s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_MT_rockefeller/aLepFus1.MT.20230409.fasta.gz\npipeline:\n
-    \ - hifiasm (0.18.8+galaxy1)\n  - solve (3.7)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group:
-    Rockefeller\nnotes: This was a hifiasm-HiC assembly of aLepFus1, resulting in
-    two complete haplotypes. This individual had bionano data. HiC scaffolding was
-    performed with yahs. K-mer spectra indicates a homogametic specimen. The HiC prep
-    was Arima kit 2. I am submitting both hap1 & hap2 for dual curation. This is the
-    curation ticket for hap1. "
+- data: species:&nbsp;Leptodactylus&nbsp;fuscus<br>specimen:&nbsp;aLepFus1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/aLepFus1.HiC.hap1.20230421.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/aLepFus1.HiC.hap2.20230421.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aLepFus1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aLepFus1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/evaluation/merqury/aLepFus1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/bionano/<br>mito:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_MT_rockefeller/aLepFus1.MT.20230409.fasta.gz<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;aLepFus1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;K-mer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;
   ident: md9
   title: assembly_vgp_HiC_2.0/aLepFus1_hap1.yml
-- data: "species: Leptodactylus fuscus\nspecimen: aLepFus1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/aLepFus1.HiC.hap1.20230421.fasta.gz\nhap2:
-    s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/aLepFus1.HiC.hap2.20230421.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aLepFus1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aLepFus1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/evaluation/merqury/aLepFus1_png/\npacbio_read_dir:
-    s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/arima/\nbionano_cmap_dir:
-    s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/bionano/\nmito:
-    s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_MT_rockefeller/aLepFus1.MT.20230409.fasta.gz\npipeline:\n
-    \ - hifiasm (0.18.8+galaxy1)\n  - solve (3.7)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group:
-    Rockefeller\nnotes: This was a hifiasm-HiC assembly of aLepFus1, resulting in
-    two complete haplotypes. This individual had bionano data. HiC scaffolding was
-    performed with yahs. K-mer spectra indicates a homogametic specimen. The HiC prep
-    was Arima kit 2. I am submitting both hap1 & hap2 for dual curation. This is the
-    curation ticket for hap2. "
+- data: species:&nbsp;Leptodactylus&nbsp;fuscus<br>specimen:&nbsp;aLepFus1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/aLepFus1.HiC.hap1.20230421.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/aLepFus1.HiC.hap2.20230421.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aLepFus1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aLepFus1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_vgp_HiC_2.0/evaluation/merqury/aLepFus1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/genomic_data/bionano/<br>mito:&nbsp;s3://genomeark/species/Leptodactylus_fuscus/aLepFus1/assembly_MT_rockefeller/aLepFus1.MT.20230409.fasta.gz<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;aLepFus1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;K-mer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap2.&nbsp;
   ident: md10
   title: assembly_vgp_HiC_2.0/aLepFus1_hap2.yml
-metadata: |
-  species:
-    name: Leptodactylus fuscus
-    individuals:
-    - short_name: aLepFus1
-    short_name: aLepFus
-    taxon_id: 238119
-    common_name: rufous frog
-    genome_size: 2592000000
-    genome_size_method: GoAT
-    order:
-      name: Anura
-    family:
-      name: Leptodactylidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Leptodactylus&nbsp;fuscus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aLepFus1<br>&nbsp;&nbsp;short_name:&nbsp;aLepFus<br>&nbsp;&nbsp;taxon_id:&nbsp;238119<br>&nbsp;&nbsp;common_name:&nbsp;rufous&nbsp;frog<br>&nbsp;&nbsp;genome_size:&nbsp;2592000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anura<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Leptodactylidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-04-09
 mito1filesize: 5.6 KiB
 mito1length: '17473'

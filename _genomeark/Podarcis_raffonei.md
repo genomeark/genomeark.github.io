@@ -83,38 +83,10 @@ genome_size_method: GoAT
 last_raw_data: 1651594802
 last_updated: 1651594802
 mds:
-- data: |
-    species: Podarcis raffonei
-    specimen: rPodRaf1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/rPodRaf1.pri.asm.20211118.fasta.gz
-    haplotigs: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/rPodRaf1.alt.asm.20211118.fasta.gz
-    hic_bam: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/evaluation/pretext/s2/rPodRaf1.bam
-    pretext: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/evaluation/pretext/s2/rPodRaf1.pretext
-    kmer_spectra_img: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/evaluation/merqury/p1q2_hifi/p1q2.hifi.spectra-cn.fl.png
-    pipeline:
-      - hifiasm (0.16.1-r375)
-      - purge_dups (1.2.5)
-      - bionano_solve (3.6.1)
-      - salsa (2.3)
+- data: species:&nbsp;Podarcis&nbsp;raffonei<br>specimen:&nbsp;rPodRaf1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/rPodRaf1.pri.asm.20211118.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/rPodRaf1.alt.asm.20211118.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/evaluation/pretext/s2/rPodRaf1.bam<br>pretext:&nbsp;s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/evaluation/pretext/s2/rPodRaf1.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/evaluation/merqury/p1q2_hifi/p1q2.hifi.spectra-cn.fl.png<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1-r375)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(3.6.1)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3)<br>
   ident: md4
   title: assembly_vgp_standard_2.0/rPodRaf1.yaml
-metadata: |
-  species:
-    name: Podarcis raffonei
-    individuals:
-    - short_name: rPodRaf1
-    short_name: rPodRaf
-    taxon_id: 65483
-    common_name: Aeolian wall lizard
-    genome_size: 1949000000
-    genome_size_method: GoAT
-    order:
-      name: Squamata
-    family:
-      name: Lacertidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Podarcis&nbsp;raffonei<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rPodRaf1<br>&nbsp;&nbsp;short_name:&nbsp;rPodRaf<br>&nbsp;&nbsp;taxon_id:&nbsp;65483<br>&nbsp;&nbsp;common_name:&nbsp;Aeolian&nbsp;wall&nbsp;lizard<br>&nbsp;&nbsp;genome_size:&nbsp;1949000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lacertidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Podarcis raffonei
 name_: Podarcis_raffonei
 pri1date: 2022-01-26

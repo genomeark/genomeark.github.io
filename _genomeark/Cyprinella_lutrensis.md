@@ -90,20 +90,7 @@ hpb1version: assembly_curated
 last_raw_data: 1689116109
 last_updated: 1702684981
 mds:
-- data: "species: Cyprinella lutrensis\nspecimen: fCypLut1\nprojects: \n  - vgp\nassembled_by_group:
-    Rockefeller\ndata_location: S3\nrelease_to: S3\nhap1: s3://genomeark/species/Cyprinella_lutrensis/fCypLut1/assembly_vgp_HiC_2.0/fCypLut1.HiC.hap1.20231215.fasta.gz\nhap2:
-    s3://genomeark/species/Cyprinella_lutrensis/fCypLut1/assembly_vgp_HiC_2.0/fCypLut1.HiC.hap2.20231215.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Cyprinella_lutrensis/fCypLut1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fCypLut1_hap1_s2.pretext\npretext_hap2:
-    s3://genomeark/species/Cyprinella_lutrensis/fCypLut1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fCypLut1_hap2_s2.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Cyprinella_lutrensis/fCypLut1/assembly_vgp_HiC_2.0/evaluation/merqury_postpurge/fCypLut1_png/\npacbio_read_dir:
-    s3://genomeark/species/Cyprinella_lutrensis/fCypLut1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Cyprinella_lutrensis/fCypLut1/genomic_data/arima/\npipeline:
-    \n  - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
-    assembly of fCypLut1, resulting in two complete haplotypes. HiC scaffolding was
-    performed with YaHS. The HiC prep kit used was Arima library prep. The HiC reads
-    needed to have 5 bp trimmed from the 5' end due to adapter left over from the
-    Arima library prep kit. This sample did not have bionano data. This sample needed
-    to have purging performed on the contigs, before scaffolding. "
+- data: species:&nbsp;Cyprinella&nbsp;lutrensis<br>specimen:&nbsp;fCypLut1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>hap1:&nbsp;s3://genomeark/species/Cyprinella_lutrensis/fCypLut1/assembly_vgp_HiC_2.0/fCypLut1.HiC.hap1.20231215.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Cyprinella_lutrensis/fCypLut1/assembly_vgp_HiC_2.0/fCypLut1.HiC.hap2.20231215.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Cyprinella_lutrensis/fCypLut1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fCypLut1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Cyprinella_lutrensis/fCypLut1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fCypLut1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Cyprinella_lutrensis/fCypLut1/assembly_vgp_HiC_2.0/evaluation/merqury_postpurge/fCypLut1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Cyprinella_lutrensis/fCypLut1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Cyprinella_lutrensis/fCypLut1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fCypLut1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;This&nbsp;sample&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;This&nbsp;sample&nbsp;needed&nbsp;to&nbsp;have&nbsp;purging&nbsp;performed&nbsp;on&nbsp;the&nbsp;contigs,&nbsp;before&nbsp;scaffolding.&nbsp;
   ident: md5
   title: assembly_vgp_HiC_2.0/fCypLut1.yml
 mito1date: 2023-12-15

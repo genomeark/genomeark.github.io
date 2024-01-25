@@ -21,23 +21,7 @@ genome_size_display: 2.88 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687192470
 last_updated: 1687192470
-metadata: |
-  species:
-    short_name: mNeoVis
-    name: Neovison vison
-    taxon_id: 452646
-    common_name: American mink
-    order:
-      name: Carnivora
-    family:
-      name: Mustelidae
-    individuals:
-      - short_name: mNeoVis2
-        biosample_id: SAMEA112468126
-        sex: female
-    genome_size: 2880210000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mNeoVis<br>&nbsp;&nbsp;name:&nbsp;Neovison&nbsp;vison<br>&nbsp;&nbsp;taxon_id:&nbsp;452646<br>&nbsp;&nbsp;common_name:&nbsp;American&nbsp;mink<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carnivora<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Mustelidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mNeoVis2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468126<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;2880210000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Neovison vison
 name_: Neovison_vison
 project:

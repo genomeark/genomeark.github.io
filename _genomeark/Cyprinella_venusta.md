@@ -90,18 +90,7 @@ hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1685047674
 last_updated: 1687057067
 mds:
-- data: "species: Cyprinella venusta\nspecimen: fCypVen1\nprojects: \n  - vgp\nhap1:
-    s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/fCypVen1.HiC.hap1.20230613.fasta.gz\nhap2:
-    s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/fCypVen1.HiC.hap2.20230613.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fCypVen1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fCypVen1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/evaluation/purge_dups/merqury/fCypVen1_png/\nmito:
-    s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_MT_rockefeller/fCypVen1.MT.20230617.fasta.gz\npipeline:\n
-    \ - hifiasm (0.19.3+galaxy0)\n  - purge_dups (1.2.6+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group:
-    Rockefeller\nnotes: This was a hifiasm-HiC assembly of fCypVen1, resulting in
-    two complete haplotypes. This individual did have not bionano data. The hap1 and
-    hap2 assemblies were purged with the purge_dups piepeline. HiC scaffolding was
-    performed with yahs. The HiC prep was Arima kit 2."
+- data: species:&nbsp;Cyprinella&nbsp;venusta<br>specimen:&nbsp;fCypVen1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/fCypVen1.HiC.hap1.20230613.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/fCypVen1.HiC.hap2.20230613.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fCypVen1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fCypVen1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/evaluation/purge_dups/merqury/fCypVen1_png/<br>mito:&nbsp;s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_MT_rockefeller/fCypVen1.MT.20230617.fasta.gz<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.6+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fCypVen1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;have&nbsp;not&nbsp;bionano&nbsp;data.&nbsp;The&nbsp;hap1&nbsp;and&nbsp;hap2&nbsp;assemblies&nbsp;were&nbsp;purged&nbsp;with&nbsp;the&nbsp;purge_dups&nbsp;piepeline.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.
   ident: md5
   title: assembly_vgp_HiC_2.0/fCypVen1.yml
 mito1date: 2023-06-17

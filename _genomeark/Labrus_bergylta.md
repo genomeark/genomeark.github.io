@@ -60,23 +60,7 @@ genome_size_display: 1.41 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691522064
 last_updated: 1691522064
-metadata: |
-  species:
-    short_name: fLabBer
-    name: Labrus bergylta
-    taxon_id: 56723
-    common_name: ballan wrasse
-    order:
-      name: Perciformes
-    family:
-      name: Labridae
-    individuals:
-      - short_name: fLabBer1
-        biosample_id: SAMEA111562158
-        sex: female
-    genome_size: 1408320000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fLabBer<br>&nbsp;&nbsp;name:&nbsp;Labrus&nbsp;bergylta<br>&nbsp;&nbsp;taxon_id:&nbsp;56723<br>&nbsp;&nbsp;common_name:&nbsp;ballan&nbsp;wrasse<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Labridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fLabBer1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111562158<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1408320000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-08-04
 mito1filesize: 5.4 KiB
 mito1length: '17320'

@@ -21,23 +21,7 @@ genome_size_display: 1.39 Gbp
 genome_size_method: GoaT
 last_raw_data: 1682197135
 last_updated: 1682197135
-metadata: |
-  species:
-    short_name: bOtiTar
-    name: Otis tarda
-    taxon_id: 73107
-    common_name: great bustard
-    order:
-      name: Otidiformes
-    family:
-      name: Otididae
-    individuals:
-      - short_name: bOtiTar3
-        biosample_id: SAMEA9850966
-        sex: female
-    genome_size: 1388760000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bOtiTar<br>&nbsp;&nbsp;name:&nbsp;Otis&nbsp;tarda<br>&nbsp;&nbsp;taxon_id:&nbsp;73107<br>&nbsp;&nbsp;common_name:&nbsp;great&nbsp;bustard<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Otidiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Otididae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bOtiTar3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA9850966<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1388760000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Otis tarda
 name_: Otis_tarda
 project:

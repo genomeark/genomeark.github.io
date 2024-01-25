@@ -50,38 +50,10 @@ genome_size_method: ''
 last_raw_data: 1689690031
 last_updated: 1703274659
 mds:
-- data: "species: Anolis sagrei\nspecimen: rAnoSag1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nmaternal: s3://genomeark/species/Anolis_sagrei/rAnoSag1/assembly_vgp_trio_2.0/rAnoSag1.trio.mat.20231222.fasta.gz\npretext:
-    s3://genomeark/species/Anolis_sagrei/rAnoSag1/assembly_vgp_trio_2.0/evaluation/hap2/pretext/rAnoSag1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Anolis_sagrei/rAnoSag1/assembly_vgp_trio_2.0/evaluation/merqury/rAnoSag1_png/\npacbio_read_dir:
-    s3://genomeark/species/Anolis_sagrei/rAnoSag1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Anolis_sagrei/rAnoSag1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.19.7+galaxy1), with trio-dual parameter on\n  - purge_dups (2.2)\n
-    \ - yahs (1.2a.2+galaxy1)\nassembled_by_group: Rockefeller\nnotes: This was a
-    trio assembly of rAnoSag1 (internal ID: VGL-rAnoSag4) using parental illumina
-    data and hifiasm in trio mode with the \"trio-dual\" parameter on. Sample metadata
-    says a female specimen. This individual did not have bionano data. HiC scaffolding
-    was performed with yahs. The HiC prep was Arima kit 2. In the intermediate files,
-    hap1 is the paternal haplotype and hap2 is the maternal haplotype. Both haplotypes
-    individually went through a round of purge_dups. We are submitting both haplotypes
-    for trio curation, and this is the ticket for the maternal haplotype (hap2)."
+- data: species:&nbsp;Anolis&nbsp;sagrei<br>specimen:&nbsp;rAnoSag1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>maternal:&nbsp;s3://genomeark/species/Anolis_sagrei/rAnoSag1/assembly_vgp_trio_2.0/rAnoSag1.trio.mat.20231222.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Anolis_sagrei/rAnoSag1/assembly_vgp_trio_2.0/evaluation/hap2/pretext/rAnoSag1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Anolis_sagrei/rAnoSag1/assembly_vgp_trio_2.0/evaluation/merqury/rAnoSag1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Anolis_sagrei/rAnoSag1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Anolis_sagrei/rAnoSag1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.7+galaxy1),&nbsp;with&nbsp;trio-dual&nbsp;parameter&nbsp;on<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(2.2)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;trio&nbsp;assembly&nbsp;of&nbsp;rAnoSag1&nbsp;(internal&nbsp;ID:&nbsp;VGL-rAnoSag4)&nbsp;using&nbsp;parental&nbsp;illumina&nbsp;data&nbsp;and&nbsp;hifiasm&nbsp;in&nbsp;trio&nbsp;mode&nbsp;with&nbsp;the&nbsp;"trio-dual"&nbsp;parameter&nbsp;on.&nbsp;Sample&nbsp;metadata&nbsp;says&nbsp;a&nbsp;female&nbsp;specimen.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;In&nbsp;the&nbsp;intermediate&nbsp;files,&nbsp;hap1&nbsp;is&nbsp;the&nbsp;paternal&nbsp;haplotype&nbsp;and&nbsp;hap2&nbsp;is&nbsp;the&nbsp;maternal&nbsp;haplotype.&nbsp;Both&nbsp;haplotypes&nbsp;individually&nbsp;went&nbsp;through&nbsp;a&nbsp;round&nbsp;of&nbsp;purge_dups.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;both&nbsp;haplotypes&nbsp;for&nbsp;trio&nbsp;curation,&nbsp;and&nbsp;this&nbsp;is&nbsp;the&nbsp;ticket&nbsp;for&nbsp;the&nbsp;maternal&nbsp;haplotype&nbsp;(hap2).
   ident: md2
   title: assembly_vgp_trio_2.0/rAnoSag1_mat.yml
-- data: "species: Anolis sagrei\nspecimen: rAnoSag1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\npaternal: s3://genomeark/species/Anolis_sagrei/rAnoSag1/assembly_vgp_trio_2.0/rAnoSag1.trio.pat.20231222.fasta.gz\npretext:
-    s3://genomeark/species/Anolis_sagrei/rAnoSag1/assembly_vgp_trio_2.0/evaluation/hap2/pretext/rAnoSag1_hap1__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Anolis_sagrei/rAnoSag1/assembly_vgp_trio_2.0/evaluation/merqury/rAnoSag1_png/\npacbio_read_dir:
-    s3://genomeark/species/Anolis_sagrei/rAnoSag1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Anolis_sagrei/rAnoSag1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.19.7+galaxy1), with trio-dual parameter on\n  - purge_dups (2.2)\n
-    \ - yahs (1.2a.2+galaxy1)\nassembled_by_group: Rockefeller\nnotes: This was a
-    trio assembly of rAnoSag1 (internal ID: VGL-rAnoSag4) using parental illumina
-    data and hifiasm in trio mode with the \"trio-dual\" parameter on. Sample metadata
-    says a female specimen. This individual did not have bionano data. HiC scaffolding
-    was performed with yahs. The HiC prep was Arima kit 2. In the intermediate files,
-    hap1 is the paternal haplotype and hap2 is the maternal haplotype. Both haplotypes
-    individually went through a round of purge_dups. We are submitting both haplotypes
-    for trio curation, and this is the ticket for the paternal haplotype (hap1)."
+- data: species:&nbsp;Anolis&nbsp;sagrei<br>specimen:&nbsp;rAnoSag1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>paternal:&nbsp;s3://genomeark/species/Anolis_sagrei/rAnoSag1/assembly_vgp_trio_2.0/rAnoSag1.trio.pat.20231222.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Anolis_sagrei/rAnoSag1/assembly_vgp_trio_2.0/evaluation/hap2/pretext/rAnoSag1_hap1__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Anolis_sagrei/rAnoSag1/assembly_vgp_trio_2.0/evaluation/merqury/rAnoSag1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Anolis_sagrei/rAnoSag1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Anolis_sagrei/rAnoSag1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.7+galaxy1),&nbsp;with&nbsp;trio-dual&nbsp;parameter&nbsp;on<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(2.2)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;trio&nbsp;assembly&nbsp;of&nbsp;rAnoSag1&nbsp;(internal&nbsp;ID:&nbsp;VGL-rAnoSag4)&nbsp;using&nbsp;parental&nbsp;illumina&nbsp;data&nbsp;and&nbsp;hifiasm&nbsp;in&nbsp;trio&nbsp;mode&nbsp;with&nbsp;the&nbsp;"trio-dual"&nbsp;parameter&nbsp;on.&nbsp;Sample&nbsp;metadata&nbsp;says&nbsp;a&nbsp;female&nbsp;specimen.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;In&nbsp;the&nbsp;intermediate&nbsp;files,&nbsp;hap1&nbsp;is&nbsp;the&nbsp;paternal&nbsp;haplotype&nbsp;and&nbsp;hap2&nbsp;is&nbsp;the&nbsp;maternal&nbsp;haplotype.&nbsp;Both&nbsp;haplotypes&nbsp;individually&nbsp;went&nbsp;through&nbsp;a&nbsp;round&nbsp;of&nbsp;purge_dups.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;both&nbsp;haplotypes&nbsp;for&nbsp;trio&nbsp;curation,&nbsp;and&nbsp;this&nbsp;is&nbsp;the&nbsp;ticket&nbsp;for&nbsp;the&nbsp;paternal&nbsp;haplotype&nbsp;(hap1).
   ident: md3
   title: assembly_vgp_trio_2.0/rAnoSag1_pat.yml
 name: Anolis sagrei

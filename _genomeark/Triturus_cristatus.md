@@ -31,23 +31,7 @@ genome_size_display: 24.33 Gbp
 genome_size_method: GoaT
 last_raw_data: 1702995592
 last_updated: 1702995592
-metadata: |
-  species:
-    short_name: aTriCri
-    name: Triturus cristatus
-    taxon_id: 8323
-    common_name: warty newt
-    order:
-      name: Caudata
-    family:
-      name: Salamandridae
-    individuals:
-      - short_name: aTriCri1
-        biosample_id: SAMEA112468129
-        sex: female
-    genome_size: 24327750000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;aTriCri<br>&nbsp;&nbsp;name:&nbsp;Triturus&nbsp;cristatus<br>&nbsp;&nbsp;taxon_id:&nbsp;8323<br>&nbsp;&nbsp;common_name:&nbsp;warty&nbsp;newt<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Caudata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Salamandridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aTriCri1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468129<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;24327750000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Triturus cristatus
 name_: Triturus_cristatus
 project:

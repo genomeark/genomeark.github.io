@@ -93,38 +93,10 @@ genome_size_method: GoAT
 last_raw_data: 1651611675
 last_updated: 1653077080
 mds:
-- data: |
-    species: Melospiza georgiana
-    specimen: bMelGeo1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Melospiza_georgiana/bMelGeo1/assembly_vgp_standard_2.0/bMelGeo1.pri.asm.20220411.fasta.gz
-    haplotigs: s3://genomeark/species/Melospiza_georgiana/bMelGeo1/assembly_vgp_standard_2.0/bMelGeo1.alt.asm.220220411.fasta.gz
-    hic_bam: s3://genomeark/species/Melospiza_georgiana/bMelGeo1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bMelGeo1_s2.bam
-    pretext: s3://genomeark/species/Melospiza_georgiana/bMelGeo1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bMelGeo1_heatmap.pretext
-    kmer_spectra_img: s3://genomeark/species/Melospiza_georgiana/bMelGeo1/assembly_vgp_standard_2.0/evaluation/merqury/p/bMelGeo1_png/
-    pipeline:
-      - hifiasm (0.15.4+galaxy0)
-      - purge_dups (1.2.5+galaxy3)
-      - solve (3.6.1+galaxy3)
-      - salsa (2.3+galaxy2)
+- data: species:&nbsp;Melospiza&nbsp;georgiana<br>specimen:&nbsp;bMelGeo1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Melospiza_georgiana/bMelGeo1/assembly_vgp_standard_2.0/bMelGeo1.pri.asm.20220411.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Melospiza_georgiana/bMelGeo1/assembly_vgp_standard_2.0/bMelGeo1.alt.asm.220220411.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Melospiza_georgiana/bMelGeo1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bMelGeo1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Melospiza_georgiana/bMelGeo1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bMelGeo1_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Melospiza_georgiana/bMelGeo1/assembly_vgp_standard_2.0/evaluation/merqury/p/bMelGeo1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.6.1+galaxy3)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)<br>
   ident: md4
   title: assembly_vgp_standard_2.0/bMelGeo1.yaml
-metadata: |
-  species:
-    name: Melospiza georgiana
-    individuals:
-    - short_name: bMelGeo1
-    short_name: bMelGeo
-    taxon_id: 44398
-    common_name: Swamp sparrow
-    genome_size: 1457000000
-    genome_size_method: GoAT
-    order:
-      name: Passeriformes
-    family:
-      name: Passerellidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Melospiza&nbsp;georgiana<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bMelGeo1<br>&nbsp;&nbsp;short_name:&nbsp;bMelGeo<br>&nbsp;&nbsp;taxon_id:&nbsp;44398<br>&nbsp;&nbsp;common_name:&nbsp;Swamp&nbsp;sparrow<br>&nbsp;&nbsp;genome_size:&nbsp;1457000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passerellidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Melospiza georgiana
 name_: Melospiza_georgiana
 pri1date: 2022-05-20

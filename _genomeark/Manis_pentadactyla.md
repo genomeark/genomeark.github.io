@@ -121,40 +121,10 @@ hpb7version: assembly_curated
 last_raw_data: 1669233016
 last_updated: 1680800650
 mds:
-- data: "species: Manis pentadactyla\nspecimen: mManPen7\nprojects: \n  - vgp\nhap1:
-    s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/mManPen7.HiC.hap1.20221222.fasta.gz\nhap2:
-    s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/mManPen7.HiC.hap2.20221222.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mManPen7_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mManPen7_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/evaluation/merqury/mManPen7_png/\npacbio_read_dir:
-    s3://genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nbionano_cmap_dir: s3://genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/bionano/\nhic_read_dir:
-    s3://genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/dovetail/\nhic_kit:
-    OmniC\npipeline:\n  - hifiasm (0.16.1+galaxy3)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group:
-    Rockefeller\nnotes: This was a hifiasm-HiC assembly of mManPen7, resulting in
-    two complete haplotypes. HiC scaffolding was performed with YAHS. The HiC prep
-    was Dovetail OmniC. The kmer spectra indicates a heterogametic specimen. Becuase
-    the sex chromosomes are split between the two haplotypes, we are including the
-    file paths for both haplotypes in this single ticket."
+- data: species:&nbsp;Manis&nbsp;pentadactyla<br>specimen:&nbsp;mManPen7<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/mManPen7.HiC.hap1.20221222.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/mManPen7.HiC.hap2.20221222.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mManPen7_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mManPen7_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Manis_pentadactyla/mManPen7/assembly_vgp_HiC_2.0/evaluation/merqury/mManPen7_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/dovetail/<br>hic_kit:&nbsp;OmniC<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy3)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mManPen7,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YAHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Dovetail&nbsp;OmniC.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;heterogametic&nbsp;specimen.&nbsp;Becuase&nbsp;the&nbsp;sex&nbsp;chromosomes&nbsp;are&nbsp;split&nbsp;between&nbsp;the&nbsp;two&nbsp;haplotypes,&nbsp;we&nbsp;are&nbsp;including&nbsp;the&nbsp;file&nbsp;paths&nbsp;for&nbsp;both&nbsp;haplotypes&nbsp;in&nbsp;this&nbsp;single&nbsp;ticket.
   ident: md6
   title: assembly_vgp_HiC_2.0/mManPen7.yaml
-metadata: |
-  species:
-    short_name: mManPen
-    name: Manis pentadactyla
-    taxon_id: 143292
-    common_name: Chinese pangolin
-    order:
-      name: Pholidota
-    family:
-      name: Manidae
-    individuals:
-      - short_name: mManPen7
-        provider: Shujin Luo, Bill Murphy
-        sex: male
-    genome_size: 2800000000
-    genome_size_method: GoaT ancestral inferred
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mManPen<br>&nbsp;&nbsp;name:&nbsp;Manis&nbsp;pentadactyla<br>&nbsp;&nbsp;taxon_id:&nbsp;143292<br>&nbsp;&nbsp;common_name:&nbsp;Chinese&nbsp;pangolin<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pholidota<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Manidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mManPen7<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Shujin&nbsp;Luo,&nbsp;Bill&nbsp;Murphy<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2800000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;ancestral&nbsp;inferred<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito7date: 2023-02-10
 mito7filesize: 5.3 KiB
 mito7length: '16571'

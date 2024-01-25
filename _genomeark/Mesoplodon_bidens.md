@@ -31,23 +31,7 @@ genome_size_display: 3.22 Gbp
 genome_size_method: GoaT
 last_raw_data: 1702400268
 last_updated: 1702400268
-metadata: |
-  species:
-    short_name: mMesBid
-    name: Mesoplodon bidens
-    taxon_id: 48745
-    common_name: Sowerby's beaked whale
-    order:
-      name: Cetacea
-    family:
-      name: Hyperoodontidae
-    individuals:
-      - short_name: mMesBid2
-        biosample_id: SAMEA112165298
-        sex: male
-    genome_size: 3217620000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMesBid<br>&nbsp;&nbsp;name:&nbsp;Mesoplodon&nbsp;bidens<br>&nbsp;&nbsp;taxon_id:&nbsp;48745<br>&nbsp;&nbsp;common_name:&nbsp;Sowerby's&nbsp;beaked&nbsp;whale<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cetacea<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hyperoodontidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMesBid2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112165298<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;3217620000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Mesoplodon bidens
 name_: Mesoplodon_bidens
 project:

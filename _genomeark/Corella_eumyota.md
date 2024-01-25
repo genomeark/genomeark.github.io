@@ -60,23 +60,7 @@ genome_size_display: 151.59 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675923172
 last_updated: 1691193729
-metadata: |
-  species:
-    short_name: kaCorEumy
-    name: Corella eumyota
-    taxon_id: 431183
-    common_name: Orange-tipped sea squirt
-    order:
-      name: Enterogona
-    family:
-      name: Corellidae
-    individuals:
-      - short_name: kaCorEumy4
-        biosample_id: SAMEA7536466
-        sex:
-    genome_size: 151590000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;kaCorEumy<br>&nbsp;&nbsp;name:&nbsp;Corella&nbsp;eumyota<br>&nbsp;&nbsp;taxon_id:&nbsp;431183<br>&nbsp;&nbsp;common_name:&nbsp;Orange-tipped&nbsp;sea&nbsp;squirt<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Enterogona<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Corellidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;kaCorEumy4<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7536466<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;151590000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito4date: 2023-02-10
 mito4filesize: 3.8 KiB
 mito4length: '14526'

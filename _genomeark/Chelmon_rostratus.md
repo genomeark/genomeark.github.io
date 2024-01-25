@@ -83,21 +83,7 @@ genome_size_display: 0.73 Gbp
 genome_size_method: GoAT
 last_raw_data: 1606990153
 last_updated: 1617106884
-metadata: |
-  species:
-    name: Chelmon rostratus
-    individuals:
-    - short_name: fCheRos1
-    short_name: fCheRos
-    taxon_id: 109905
-    common_name: copperband butterflyfish
-    genome_size: 734000000
-    genome_size_method: GoAT
-    order:
-      name: Chaetodontiformes
-    family:
-      name: Chaetodontidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Chelmon&nbsp;rostratus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCheRos1<br>&nbsp;&nbsp;short_name:&nbsp;fCheRos<br>&nbsp;&nbsp;taxon_id:&nbsp;109905<br>&nbsp;&nbsp;common_name:&nbsp;copperband&nbsp;butterflyfish<br>&nbsp;&nbsp;genome_size:&nbsp;734000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chaetodontiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chaetodontidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-01
 mito1filesize: 5.0 KiB
 mito1length: '16523'

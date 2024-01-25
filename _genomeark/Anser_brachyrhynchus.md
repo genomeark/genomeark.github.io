@@ -60,23 +60,7 @@ genome_size_display: 1.38 Gbp
 genome_size_method: GoaT
 last_raw_data: 1699354831
 last_updated: 1699363839
-metadata: |
-  species:
-    short_name: bAnsBra
-    name: Anser brachyrhynchus
-    taxon_id: 132585
-    common_name: Pink-footed goose
-    order:
-      name: Anseriformes
-    family:
-      name: Anatidae
-    individuals:
-      - short_name: bAnsBra1
-        biosample_id: SAMEA112468040
-        sex: female
-    genome_size: 1378980000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bAnsBra<br>&nbsp;&nbsp;name:&nbsp;Anser&nbsp;brachyrhynchus<br>&nbsp;&nbsp;taxon_id:&nbsp;132585<br>&nbsp;&nbsp;common_name:&nbsp;Pink-footed&nbsp;goose<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAnsBra1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468040<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1378980000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-11-07
 mito1filesize: 5.4 KiB
 mito1length: '16743'

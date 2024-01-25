@@ -60,23 +60,7 @@ genome_size_display: 0.77 Gbp
 genome_size_method: GoaT
 last_raw_data: 1686683100
 last_updated: 1695772864
-metadata: |
-  species:
-    short_name: fCheLab
-    name: Chelon labrosus
-    taxon_id: 48171
-    common_name: thicklip grey mullet
-    order:
-      name: Mugiliformes
-    family:
-      name: Mugilidae
-    individuals:
-      - short_name: fCheLab1
-        biosample_id: SAMEA111562027
-        sex:
-    genome_size: 772620000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fCheLab<br>&nbsp;&nbsp;name:&nbsp;Chelon&nbsp;labrosus<br>&nbsp;&nbsp;taxon_id:&nbsp;48171<br>&nbsp;&nbsp;common_name:&nbsp;thicklip&nbsp;grey&nbsp;mullet<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Mugiliformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Mugilidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCheLab1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111562027<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;772620000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-06-23
 mito1filesize: 5.4 KiB
 mito1length: '16903'

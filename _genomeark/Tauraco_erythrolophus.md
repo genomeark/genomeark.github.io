@@ -83,21 +83,7 @@ genome_size_display: 1.17 Gbp
 genome_size_method: ''
 last_raw_data: 1588867679
 last_updated: 1588867679
-metadata: |
-  species:
-    common_name: red-crested turaco
-    family:
-      name: Musophagidae
-    genome_size: 1170000000
-    genome_size_method: null
-    individuals:
-    - short_name: bTauEry1
-    name: Tauraco erythrolophus
-    order:
-      name: Musophagiformes
-    short_name: bTauEry
-    taxon_id: 121530
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;red-crested&nbsp;turaco<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Musophagidae<br>&nbsp;&nbsp;genome_size:&nbsp;1170000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bTauEry1<br>&nbsp;&nbsp;name:&nbsp;Tauraco&nbsp;erythrolophus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Musophagiformes<br>&nbsp;&nbsp;short_name:&nbsp;bTauEry<br>&nbsp;&nbsp;taxon_id:&nbsp;121530<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Tauraco erythrolophus
 name_: Tauraco_erythrolophus
 pri1date: 2019-08-16

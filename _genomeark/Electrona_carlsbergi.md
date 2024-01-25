@@ -60,23 +60,7 @@ genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687517285
 last_updated: 1688994558
-metadata: |
-  species:
-    short_name: fEleCar
-    name: Electrona carlsbergi
-    taxon_id: 123328
-    common_name: Electron subantarctic
-    order:
-      name: Myctophiformes
-    family:
-      name: Myctophidae
-    individuals:
-      - short_name: fEleCar1
-        biosample_id: SAMEA12815493
-        sex: female
-    genome_size: 1907100000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fEleCar<br>&nbsp;&nbsp;name:&nbsp;Electrona&nbsp;carlsbergi<br>&nbsp;&nbsp;taxon_id:&nbsp;123328<br>&nbsp;&nbsp;common_name:&nbsp;Electron&nbsp;subantarctic<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fEleCar1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12815493<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1907100000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-06-23
 mito1filesize: 5.7 KiB
 mito1length: '18473'

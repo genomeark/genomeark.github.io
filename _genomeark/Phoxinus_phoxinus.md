@@ -62,23 +62,7 @@ genome_size_display: 1.12 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675871169
 last_updated: 1678289451
-metadata: |
-  species:
-    short_name: fPhoPho
-    name: Phoxinus phoxinus
-    taxon_id: 58324
-    common_name: Eurasian minnow
-    order:
-      name: Cypriniformes
-    family:
-      name: Cyprinidae
-    individuals:
-      - short_name: fPhoPho1
-        biosample_id: SAMEA11296539
-        sex: female
-    genome_size: 1124700000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fPhoPho<br>&nbsp;&nbsp;name:&nbsp;Phoxinus&nbsp;phoxinus<br>&nbsp;&nbsp;taxon_id:&nbsp;58324<br>&nbsp;&nbsp;common_name:&nbsp;Eurasian&nbsp;minnow<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cypriniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyprinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fPhoPho1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA11296539<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1124700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Phoxinus phoxinus
 name_: Phoxinus_phoxinus
 pri1date: 2023-03-08

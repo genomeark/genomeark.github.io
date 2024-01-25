@@ -62,23 +62,7 @@ genome_size_display: 0.90 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675871265
 last_updated: 1679360489
-metadata: |
-  species:
-    short_name: fMelGel
-    name: Melanostigma gelatinosum
-    taxon_id: 1091424
-    common_name: limp eelpout
-    order:
-      name: Perciformes
-    family:
-      name: Zoarcidae
-    individuals:
-      - short_name: fMelGel1
-        biosample_id: SAMEA12815492
-        sex:
-    genome_size: 899760000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fMelGel<br>&nbsp;&nbsp;name:&nbsp;Melanostigma&nbsp;gelatinosum<br>&nbsp;&nbsp;taxon_id:&nbsp;1091424<br>&nbsp;&nbsp;common_name:&nbsp;limp&nbsp;eelpout<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Zoarcidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fMelGel1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12815492<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;899760000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Melanostigma gelatinosum
 name_: Melanostigma_gelatinosum
 pri1date: 2023-03-21

@@ -188,58 +188,7 @@ hpb2sizes: |
 hpb2version: assembly_curated
 last_raw_data: 1698557990
 last_updated: 1701106974
-metadata: |
-  species:
-    short_name: mPonPyg
-    name: Pongo pygmaeus
-    common_name: Bornean orangutan
-    taxon_id: 9600
-    order:
-      name: Primates
-    family:
-      name: Hominidae
-    individuals:
-    -
-        short_name: mPonPyg2
-        name: null
-        biosample_id: SAMN10521809
-        strain: null
-        subspecies: null
-        alt_ids:
-        - AG05252
-        - AG05252_PPY
-        sex: male
-        description: null
-        provider: Coriell
-        father: null
-        mother: null
-    -
-        short_name: mPonPyg3
-        subspecies:
-          name: Pongo pygmaeus pygmaeus
-          common_name: Northwest Bornean orangutan
-          taxon_id: 9602
-        name: null
-        biosample_id: null
-        strain: null
-        alt_ids:
-        - PPY_3405
-        - Ppypy 3405
-        - 3405
-        sex: male
-        description: null
-        provider: Oliver Ryder (San Diego Zoo Wildlife Alliance)
-        mother: null
-        father: null
-        samples:
-        -
-           sample_id: mPonPyg3.testis1
-           tissue: testis
-           dev_stage: adult
-           sample_biosample_id: SAMN13178639
-    genome_size: 3579480000
-    genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-    project: [ t2t ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPonPyg<br>&nbsp;&nbsp;name:&nbsp;Pongo&nbsp;pygmaeus<br>&nbsp;&nbsp;common_name:&nbsp;Bornean&nbsp;orangutan<br>&nbsp;&nbsp;taxon_id:&nbsp;9600<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hominidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mPonPyg2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMN10521809<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;AG05252<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;AG05252_PPY<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Coriell<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mPonPyg3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pongo&nbsp;pygmaeus&nbsp;pygmaeus<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common_name:&nbsp;Northwest&nbsp;Bornean&nbsp;orangutan<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taxon_id:&nbsp;9602<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;PPY_3405<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Ppypy&nbsp;3405<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;3405<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Oliver&nbsp;Ryder&nbsp;(San&nbsp;Diego&nbsp;Zoo&nbsp;Wildlife&nbsp;Alliance)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;mPonPyg3.testis1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;testis<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;SAMN13178639<br>&nbsp;&nbsp;genome_size:&nbsp;3579480000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;Fuelgen&nbsp;Densitometry/Flow&nbsp;Cytometry<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>
 mito2date: 2023-11-22
 mito2filesize: 5.3 KiB
 mito2length: '16461'

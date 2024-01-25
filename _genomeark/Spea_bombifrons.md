@@ -93,65 +93,13 @@ genome_size_method: GoAT
 last_raw_data: 1651594550
 last_updated: 1671631700
 mds:
-- data: |
-    species: Spea_bombifrons
-    specimen: aSpeBom1
-    projects:
-    - vgp
-    primary:
-        s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/aSpeBom1.pri.asm.20220205.fasta.gz
-    haplotigs:
-        s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/aSpeBom1.alt.asm.20220125.fasta.gz
-    hic_bam:
-        s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/evaluation/pretext/s2/aSpeBom1_s2.bam
-    pretext:
-        s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/evaluation/pretext/s2/aSpeBom1_heatmap.pretext
-    kmer_spectra_img:
-        s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/evaluation/merqury/p/aSpeBom1_png/output_merqury.spectra-cn.fl.png
-    pipeline:
-      - hifiasm (0.16.1+galaxy1)
-      - purge_dups (1.2.5+galaxy3)
-      - solve (3.7.0+galaxy0)
-      - salsa (2.3+galaxy2)
+- data: species:&nbsp;Spea_bombifrons<br>specimen:&nbsp;aSpeBom1<br>projects:<br>-&nbsp;vgp<br>primary:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/aSpeBom1.pri.asm.20220205.fasta.gz<br>haplotigs:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/aSpeBom1.alt.asm.20220125.fasta.gz<br>hic_bam:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/evaluation/pretext/s2/aSpeBom1_s2.bam<br>pretext:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/evaluation/pretext/s2/aSpeBom1_heatmap.pretext<br>kmer_spectra_img:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/evaluation/merqury/p/aSpeBom1_png/output_merqury.spectra-cn.fl.png<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy1)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)<br>
   ident: md0
   title: aSpeBom1.yaml
-- data: |
-    species: Spea_bombifrons
-    specimen: aSpeBom1
-    projects:
-    - vgp
-    primary:
-        s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/aSpeBom1.pri.asm.20220205.fasta.gz
-    haplotigs:
-        s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/aSpeBom1.alt.asm.20220125.fasta.gz
-    hic_bam:
-        s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/evaluation/pretext/s2/aSpeBom1_s2.bam
-    pretext:
-        s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/evaluation/pretext/s2/aSpeBom1_heatmap.pretext
-    kmer_spectra_img:
-        s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/evaluation/merqury/p/aSpeBom1_png/output_merqury.spectra-cn.fl.png
-    pipeline:
-      - hifiasm (0.16.1+galaxy1)
-      - purge_dups (1.2.5+galaxy3)
-      - solve (3.7.0+galaxy0)
-      - salsa (2.3+galaxy2)
+- data: species:&nbsp;Spea_bombifrons<br>specimen:&nbsp;aSpeBom1<br>projects:<br>-&nbsp;vgp<br>primary:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/aSpeBom1.pri.asm.20220205.fasta.gz<br>haplotigs:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/aSpeBom1.alt.asm.20220125.fasta.gz<br>hic_bam:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/evaluation/pretext/s2/aSpeBom1_s2.bam<br>pretext:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/evaluation/pretext/s2/aSpeBom1_heatmap.pretext<br>kmer_spectra_img:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Spea_bombifrons/aSpeBom1/assembly_vgp_standard_2.0/evaluation/merqury/p/aSpeBom1_png/output_merqury.spectra-cn.fl.png<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy1)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)<br>
   ident: md5
   title: assembly_vgp_standard_2.0/aSpeBom1.yaml
-metadata: |
-  species:
-    name: Spea bombifrons
-    individuals:
-    - short_name: aSpeBom1
-    short_name: aSpeBom
-    taxon_id: 233779
-    common_name: plains spadefoot toad
-    genome_size: 1208000000
-    genome_size_method: GoAT
-    order:
-      name: Anura
-    family:
-      name: Pelobatidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Spea&nbsp;bombifrons<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aSpeBom1<br>&nbsp;&nbsp;short_name:&nbsp;aSpeBom<br>&nbsp;&nbsp;taxon_id:&nbsp;233779<br>&nbsp;&nbsp;common_name:&nbsp;plains&nbsp;spadefoot&nbsp;toad<br>&nbsp;&nbsp;genome_size:&nbsp;1208000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anura<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pelobatidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Spea bombifrons
 name_: Spea_bombifrons
 pri1date: 2022-04-01

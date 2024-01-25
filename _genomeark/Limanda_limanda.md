@@ -60,23 +60,7 @@ genome_size_display: 0.79 Gbp
 genome_size_method: GoaT
 last_raw_data: 1692285037
 last_updated: 1698800543
-metadata: |
-  species:
-    short_name: fLimLim
-    name: Limanda limanda
-    taxon_id: 27771
-    common_name: common dab
-    order:
-      name: Pleuronectiformes
-    family:
-      name: Pleuronectidae
-    individuals:
-      - short_name: fLimLim1
-        biosample_id: SAMEA112765706
-        sex:
-    genome_size: 792180000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fLimLim<br>&nbsp;&nbsp;name:&nbsp;Limanda&nbsp;limanda<br>&nbsp;&nbsp;taxon_id:&nbsp;27771<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;dab<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pleuronectiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pleuronectidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fLimLim1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112765706<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;792180000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-08-20
 mito1filesize: 5.6 KiB
 mito1length: '17193'

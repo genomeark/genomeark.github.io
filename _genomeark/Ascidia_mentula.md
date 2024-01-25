@@ -62,23 +62,7 @@ genome_size_display: 107.58 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675927468
 last_updated: 1678383257
-metadata: |
-  species:
-    short_name: kaAscMent
-    name: Ascidia mentula
-    taxon_id: 38561
-    common_name: (A solitary sea squirt)
-    order:
-      name: Phlebobranchia
-    family:
-      name: Ascidiidae
-    individuals:
-      - short_name: kaAscMent1
-        biosample_id: SAMEA8724667
-        sex:
-    genome_size: 107580000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;kaAscMent<br>&nbsp;&nbsp;name:&nbsp;Ascidia&nbsp;mentula<br>&nbsp;&nbsp;taxon_id:&nbsp;38561<br>&nbsp;&nbsp;common_name:&nbsp;(A&nbsp;solitary&nbsp;sea&nbsp;squirt)<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phlebobranchia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Ascidiidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;kaAscMent1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8724667<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;107580000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Ascidia mentula
 name_: Ascidia_mentula
 pri1date: 2023-03-09

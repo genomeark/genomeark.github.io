@@ -83,21 +83,7 @@ genome_size_display: 1.44 Gbp
 genome_size_method: Feulgen Image Analysis Densitometry
 last_raw_data: 1570134727
 last_updated: 1576521593
-metadata: |
-  species:
-    short_name: bGeoTri
-    name: Geothlypis trichas
-    taxon_id: 135433
-    common_name: common yellowthroat
-    order:
-      name: Passeriformes
-    family:
-      name: Parulidae
-    individuals:
-      - short_name: bGeoTri1
-    genome_size: 1440000000
-    genome_size_method: Feulgen Image Analysis Densitometry
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bGeoTri<br>&nbsp;&nbsp;name:&nbsp;Geothlypis&nbsp;trichas<br>&nbsp;&nbsp;taxon_id:&nbsp;135433<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;yellowthroat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Parulidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bGeoTri1<br>&nbsp;&nbsp;genome_size:&nbsp;1440000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;Feulgen&nbsp;Image&nbsp;Analysis&nbsp;Densitometry<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-12-16
 mito1filesize: 5.0 KiB
 mito1length: '16814'

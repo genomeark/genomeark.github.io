@@ -60,23 +60,7 @@ genome_size_display: 0.61 Gbp
 genome_size_method: GoaT
 last_raw_data: 1686685784
 last_updated: 1700787671
-metadata: |
-  species:
-    short_name: fOsmEpe
-    name: Osmerus eperlanus
-    taxon_id: 29151
-    common_name: European smelt
-    order:
-      name: Osmeriformes
-    family:
-      name: Osmeridae
-    individuals:
-      - short_name: fOsmEpe2
-        biosample_id: SAMEA14448128
-        sex:
-    genome_size: 606360000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fOsmEpe<br>&nbsp;&nbsp;name:&nbsp;Osmerus&nbsp;eperlanus<br>&nbsp;&nbsp;taxon_id:&nbsp;29151<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;smelt<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Osmeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Osmeridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fOsmEpe2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA14448128<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;606360000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-07-01
 mito2filesize: 5.3 KiB
 mito2length: '16611'

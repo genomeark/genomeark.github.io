@@ -21,23 +21,7 @@ genome_size_display: 1.32 Gbp
 genome_size_method: GoaT
 last_raw_data: 1702666269
 last_updated: 1702666269
-metadata: |
-  species:
-    short_name: bZosLat
-    name: Zosterops lateralis
-    taxon_id: 43581
-    common_name: silver-eye
-    order:
-      name: Passeriformes
-    family:
-      name: Zosteropidae
-    individuals:
-      - short_name: bZosLat1
-        biosample_id: SAMEA112953925
-        sex: female
-    genome_size: 1320300000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bZosLat<br>&nbsp;&nbsp;name:&nbsp;Zosterops&nbsp;lateralis<br>&nbsp;&nbsp;taxon_id:&nbsp;43581<br>&nbsp;&nbsp;common_name:&nbsp;silver-eye<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Zosteropidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bZosLat1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112953925<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1320300000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Zosterops lateralis
 name_: Zosterops_lateralis
 project:

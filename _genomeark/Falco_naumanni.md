@@ -130,23 +130,7 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
-metadata: |
-  species:
-    common_name: lesser kestrel
-    family:
-      name: Falconidae
-    genome_size: 1350000000
-    genome_size_method: kmers
-    individuals:
-    - short_name: bFalNau1
-    - short_name: bFalNau2
-    - short_name: bFalNau3
-    name: Falco naumanni
-    order:
-      name: Falconiformes
-    short_name: bFalNau
-    taxon_id: 148594
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;lesser&nbsp;kestrel<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconidae<br>&nbsp;&nbsp;genome_size:&nbsp;1350000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;kmers<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFalNau1<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFalNau2<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFalNau3<br>&nbsp;&nbsp;name:&nbsp;Falco&nbsp;naumanni<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconiformes<br>&nbsp;&nbsp;short_name:&nbsp;bFalNau<br>&nbsp;&nbsp;taxon_id:&nbsp;148594<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mgd1date: 2020-07-14
 mgd1filesize: 354.2 MiB
 mgd1length: '1215702009'

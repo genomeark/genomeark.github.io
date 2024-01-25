@@ -83,23 +83,7 @@ genome_size_display: 0.54 Gbp
 genome_size_method: ''
 last_raw_data: 1549384902
 last_updated: 1570719802
-metadata: |
-  species:
-    short_name: fEcheNa
-    name: Echeneis naucrates
-    taxon_id: 173247
-    common_name: live sharksucker
-    order:
-      name: Carangiformes
-    family:
-      name: Echeneidae
-    individuals:
-      - short_name: fEcheNa1
-        biosample_id: SAMEA4966390
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fEcheNa<br>&nbsp;&nbsp;name:&nbsp;Echeneis&nbsp;naucrates<br>&nbsp;&nbsp;taxon_id:&nbsp;173247<br>&nbsp;&nbsp;common_name:&nbsp;live&nbsp;sharksucker<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carangiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Echeneidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fEcheNa1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA4966390<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-02
 mito1filesize: 5.0 KiB
 mito1length: '16610'

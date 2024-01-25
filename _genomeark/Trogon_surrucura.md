@@ -84,59 +84,13 @@ genome_size_method: ''
 last_raw_data: 1618859438
 last_updated: 1633376443
 mds:
-- data: |-
-    species: Trogon surrucura
-    specimen: bTroSur1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Trogon_surrucura/bTroSur1/assembly_vgp_standard_1.6/bTroSur1.pri.asm.20210407.fasta.gz
-    haplotigs: s3://genomeark/species/Trogon_surrucura/bTroSur1/assembly_vgp_standard_1.6/bTroSur1.alt.asm.20210407.fasta.gz
-    mito: s3://genomeark/species/Trogon_surrucura/bTroSur1/assembly_MT_rockefeller/bTroSur1.MT.20210121.fasta.gz
+- data: species:&nbsp;Trogon&nbsp;surrucura<br>specimen:&nbsp;bTroSur1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Trogon_surrucura/bTroSur1/assembly_vgp_standard_1.6/bTroSur1.pri.asm.20210407.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Trogon_surrucura/bTroSur1/assembly_vgp_standard_1.6/bTroSur1.alt.asm.20210407.fasta.gz<br>mito:&nbsp;s3://genomeark/species/Trogon_surrucura/bTroSur1/assembly_MT_rockefeller/bTroSur1.MT.20210121.fasta.gz
   ident: md5
   title: assembly_vgp_standard_1.6/bTroSur1.yaml
-- data: |
-    samples:
-    - Sample Source: Smithsonian
-      VGP_Id: bTroSur1
-      birth_date: ''
-      collected_by: Banin  D. A.
-      collection_date: 10/29/1995
-      common_name: Suruca trogon
-      description: 'Family #: 2010; Family: Trogonidae; State/Province: Misiones; Precise
-        Location: Posadas  45 km N  80 km E; Latitude: 26 57 19 S; Longitude: 55 05 16
-        W; Elevation: 250 m; Field #(s): BKS 2847; Tissue #: B05987; Preparation: Skeleton:
-        Whole; Weight: 69.8 g; Preparator: Brian K. Schmidt BKS 2847; Fat: little; Bursa:
-        none; Reproduction: Ovary: 12 x 6 mm  largest ova 2 mm; Oviduct: 5 mm  at cloaca;
-        Molt: whole bird: none; Habitat: mosaic of humid forest with second growth at
-        edges ; Status: Collection'
-      dev_stage: ''
-      geo_loc_name: Argentina
-      individual_id: ''
-      lat_lon: 26 57 19 S; 55 05 16 W
-      scientific_name: Trogon surrucura
-      sex: female
-      store_cond: -80C
-      taxon_Id: '297711'
-      tissue: Unknown
-      treatment: ''
-      tube_id: bTroSur1.Uk1
+- data: samples:<br>-&nbsp;Sample&nbsp;Source:&nbsp;Smithsonian<br>&nbsp;&nbsp;VGP_Id:&nbsp;bTroSur1<br>&nbsp;&nbsp;birth_date:&nbsp;''<br>&nbsp;&nbsp;collected_by:&nbsp;Banin&nbsp;&nbsp;D.&nbsp;A.<br>&nbsp;&nbsp;collection_date:&nbsp;10/29/1995<br>&nbsp;&nbsp;common_name:&nbsp;Suruca&nbsp;trogon<br>&nbsp;&nbsp;description:&nbsp;'Family&nbsp;#:&nbsp;2010;&nbsp;Family:&nbsp;Trogonidae;&nbsp;State/Province:&nbsp;Misiones;&nbsp;Precise<br>&nbsp;&nbsp;&nbsp;&nbsp;Location:&nbsp;Posadas&nbsp;&nbsp;45&nbsp;km&nbsp;N&nbsp;&nbsp;80&nbsp;km&nbsp;E;&nbsp;Latitude:&nbsp;26&nbsp;57&nbsp;19&nbsp;S;&nbsp;Longitude:&nbsp;55&nbsp;05&nbsp;16<br>&nbsp;&nbsp;&nbsp;&nbsp;W;&nbsp;Elevation:&nbsp;250&nbsp;m;&nbsp;Field&nbsp;#(s):&nbsp;BKS&nbsp;2847;&nbsp;Tissue&nbsp;#:&nbsp;B05987;&nbsp;Preparation:&nbsp;Skeleton:<br>&nbsp;&nbsp;&nbsp;&nbsp;Whole;&nbsp;Weight:&nbsp;69.8&nbsp;g;&nbsp;Preparator:&nbsp;Brian&nbsp;K.&nbsp;Schmidt&nbsp;BKS&nbsp;2847;&nbsp;Fat:&nbsp;little;&nbsp;Bursa:<br>&nbsp;&nbsp;&nbsp;&nbsp;none;&nbsp;Reproduction:&nbsp;Ovary:&nbsp;12&nbsp;x&nbsp;6&nbsp;mm&nbsp;&nbsp;largest&nbsp;ova&nbsp;2&nbsp;mm;&nbsp;Oviduct:&nbsp;5&nbsp;mm&nbsp;&nbsp;at&nbsp;cloaca;<br>&nbsp;&nbsp;&nbsp;&nbsp;Molt:&nbsp;whole&nbsp;bird:&nbsp;none;&nbsp;Habitat:&nbsp;mosaic&nbsp;of&nbsp;humid&nbsp;forest&nbsp;with&nbsp;second&nbsp;growth&nbsp;at<br>&nbsp;&nbsp;&nbsp;&nbsp;edges&nbsp;;&nbsp;Status:&nbsp;Collection'<br>&nbsp;&nbsp;dev_stage:&nbsp;''<br>&nbsp;&nbsp;geo_loc_name:&nbsp;Argentina<br>&nbsp;&nbsp;individual_id:&nbsp;''<br>&nbsp;&nbsp;lat_lon:&nbsp;26&nbsp;57&nbsp;19&nbsp;S;&nbsp;55&nbsp;05&nbsp;16&nbsp;W<br>&nbsp;&nbsp;scientific_name:&nbsp;Trogon&nbsp;surrucura<br>&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'297711'<br>&nbsp;&nbsp;tissue:&nbsp;Unknown<br>&nbsp;&nbsp;treatment:&nbsp;''<br>&nbsp;&nbsp;tube_id:&nbsp;bTroSur1.Uk1<br>
   ident: md6
   title: bTroSur1_metadata.yml
-metadata: |
-  species:
-    short_name: bTroSur
-    name: Trogon surrucura
-    taxon_id: 297711
-    common_name: Suruca trogon
-    order:
-      name: Trogoniformes
-    family:
-      name: Trogonidae
-    individuals:
-      - short_name: bTroSur1
-    genome_size: 1000000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bTroSur<br>&nbsp;&nbsp;name:&nbsp;Trogon&nbsp;surrucura<br>&nbsp;&nbsp;taxon_id:&nbsp;297711<br>&nbsp;&nbsp;common_name:&nbsp;Suruca&nbsp;trogon<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Trogoniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Trogonidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bTroSur1<br>&nbsp;&nbsp;genome_size:&nbsp;1000000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2021-01-21
 mito1filesize: 5.2 KiB
 mito1length: '22126'

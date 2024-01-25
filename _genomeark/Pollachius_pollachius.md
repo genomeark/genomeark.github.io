@@ -62,23 +62,7 @@ genome_size_display: 0.86 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678520038
 last_updated: 1682084491
-metadata: |
-  species:
-    short_name: fPolPol
-    name: Pollachius pollachius
-    taxon_id: 185739
-    common_name: pollack
-    order:
-      name: Gadiformes
-    family:
-      name: Gadidae
-    individuals:
-      - short_name: fPolPol2
-        biosample_id: SAMEA111562038
-        sex:
-    genome_size: 860640000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fPolPol<br>&nbsp;&nbsp;name:&nbsp;Pollachius&nbsp;pollachius<br>&nbsp;&nbsp;taxon_id:&nbsp;185739<br>&nbsp;&nbsp;common_name:&nbsp;pollack<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gadiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gadidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fPolPol2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111562038<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;860640000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Pollachius pollachius
 name_: Pollachius_pollachius
 pri2date: 2023-04-21

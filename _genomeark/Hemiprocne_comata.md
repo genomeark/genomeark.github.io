@@ -84,47 +84,10 @@ genome_size_method: ''
 last_raw_data: 1594744121
 last_updated: 1635254097
 mds:
-- data: |
-    samples:
-    - biomaterial_provider: Smithsonian
-      bioproject_accession: PRJNA516733
-      birth_date: ''
-      birth_location: ''
-      breed: ''
-      collected_by: Ross  C. A.; Et Al.
-      collection_date: 05/10/1989
-      common_name: whiskered_treeswift
-      description: 'Field #(s): HERP 181149; Tissue #: B03790; Preparation: Skin: Whole;
-        Skeleton: Partial: trunk; Weight: 25 g; Status: Collection'
-      dev_stage: adult
-      geo_loc_name: Barrio Via  Sitio Hot Springs  Baggao Mun., Luzon; Cagayan, Philippines
-      isolate: bHemCom1
-      lat_lon: 17.85 N 121.98 E
-      organism: Hemiprocne comata
-      sex: female
-      specimen_voucher: '607338'
-      store_cond: -80C
-      taxon_Id: '243314'
-      tissue: Unknown
-      treatment: ''
-      tube_id: bHemCom1.Uk1
+- data: samples:<br>-&nbsp;biomaterial_provider:&nbsp;Smithsonian<br>&nbsp;&nbsp;bioproject_accession:&nbsp;PRJNA516733<br>&nbsp;&nbsp;birth_date:&nbsp;''<br>&nbsp;&nbsp;birth_location:&nbsp;''<br>&nbsp;&nbsp;breed:&nbsp;''<br>&nbsp;&nbsp;collected_by:&nbsp;Ross&nbsp;&nbsp;C.&nbsp;A.;&nbsp;Et&nbsp;Al.<br>&nbsp;&nbsp;collection_date:&nbsp;05/10/1989<br>&nbsp;&nbsp;common_name:&nbsp;whiskered_treeswift<br>&nbsp;&nbsp;description:&nbsp;'Field&nbsp;#(s):&nbsp;HERP&nbsp;181149;&nbsp;Tissue&nbsp;#:&nbsp;B03790;&nbsp;Preparation:&nbsp;Skin:&nbsp;Whole;<br>&nbsp;&nbsp;&nbsp;&nbsp;Skeleton:&nbsp;Partial:&nbsp;trunk;&nbsp;Weight:&nbsp;25&nbsp;g;&nbsp;Status:&nbsp;Collection'<br>&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;geo_loc_name:&nbsp;Barrio&nbsp;Via&nbsp;&nbsp;Sitio&nbsp;Hot&nbsp;Springs&nbsp;&nbsp;Baggao&nbsp;Mun.,&nbsp;Luzon;&nbsp;Cagayan,&nbsp;Philippines<br>&nbsp;&nbsp;isolate:&nbsp;bHemCom1<br>&nbsp;&nbsp;lat_lon:&nbsp;17.85&nbsp;N&nbsp;121.98&nbsp;E<br>&nbsp;&nbsp;organism:&nbsp;Hemiprocne&nbsp;comata<br>&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;specimen_voucher:&nbsp;'607338'<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'243314'<br>&nbsp;&nbsp;tissue:&nbsp;Unknown<br>&nbsp;&nbsp;treatment:&nbsp;''<br>&nbsp;&nbsp;tube_id:&nbsp;bHemCom1.Uk1<br>
   ident: md5
   title: bHemCom1_metadata.yml
-metadata: |
-  species:
-    common_name: whiskered treeswift
-    family:
-      name: Apodidae
-    genome_size: 1000000000
-    genome_size_method: null
-    individuals:
-    - short_name: bHemCom1
-    name: Hemiprocne comata
-    order:
-      name: Apodiformes
-    short_name: bHemCom
-    taxon_id: 243314
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;whiskered&nbsp;treeswift<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Apodidae<br>&nbsp;&nbsp;genome_size:&nbsp;1000000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bHemCom1<br>&nbsp;&nbsp;name:&nbsp;Hemiprocne&nbsp;comata<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Apodiformes<br>&nbsp;&nbsp;short_name:&nbsp;bHemCom<br>&nbsp;&nbsp;taxon_id:&nbsp;243314<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-12-04
 mito1filesize: 5.1 KiB
 mito1length: '19122'

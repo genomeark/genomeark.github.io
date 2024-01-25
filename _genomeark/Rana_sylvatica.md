@@ -32,27 +32,10 @@ genome_size_method: GoAT
 last_raw_data: 1643302608
 last_updated: 1685026967
 mds:
-- data: "species: Rana sylvatica\nspecimen: aRanSyl1\nprojects:\n  - vgp\npipeline:\n-
-    RedBean (wtdbg2) v2.5\n- Racon v1.4.20\n- 3D-DNA software version 180922\n- Bionano
-    Solve v. 3.6.1_11162020\n- Salsa2 HiC v. 2.2;\n- gcpp (Arrow polishing) v. 2.0.2-2.0.2\n-
-    merfin v. 1.0\n- Freebayes v. 1.3.1\n \n"
+- data: species:&nbsp;Rana&nbsp;sylvatica<br>specimen:&nbsp;aRanSyl1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>pipeline:<br>-&nbsp;RedBean&nbsp;(wtdbg2)&nbsp;v2.5<br>-&nbsp;Racon&nbsp;v1.4.20<br>-&nbsp;3D-DNA&nbsp;software&nbsp;version&nbsp;180922<br>-&nbsp;Bionano&nbsp;Solve&nbsp;v.&nbsp;3.6.1_11162020<br>-&nbsp;Salsa2&nbsp;HiC&nbsp;v.&nbsp;2.2;<br>-&nbsp;gcpp&nbsp;(Arrow&nbsp;polishing)&nbsp;v.&nbsp;2.0.2-2.0.2<br>-&nbsp;merfin&nbsp;v.&nbsp;1.0<br>-&nbsp;Freebayes&nbsp;v.&nbsp;1.3.1<br>&nbsp;<br>
   ident: md2
   title: assembly_curated/aRanSyl1.yaml
-metadata: |
-  species:
-    name: Rana sylvatica
-    individuals:
-    - short_name: aRanSyl1
-    short_name: aRanSyl
-    taxon_id: 45438
-    common_name: wood frog
-    genome_size: 6000000000
-    genome_size_method: GoAT
-    order:
-      name: Anura
-    family:
-      name: Ranidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Rana&nbsp;sylvatica<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aRanSyl1<br>&nbsp;&nbsp;short_name:&nbsp;aRanSyl<br>&nbsp;&nbsp;taxon_id:&nbsp;45438<br>&nbsp;&nbsp;common_name:&nbsp;wood&nbsp;frog<br>&nbsp;&nbsp;genome_size:&nbsp;6000000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anura<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Ranidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Rana sylvatica
 name_: Rana_sylvatica
 project:

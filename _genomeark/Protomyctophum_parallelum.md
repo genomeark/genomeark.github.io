@@ -60,23 +60,7 @@ genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687193600
 last_updated: 1688994646
-metadata: |
-  species:
-    short_name: fProPar
-    name: Protomyctophum parallelum
-    taxon_id: 1091426
-    common_name: parallel lanternfish
-    order:
-      name: Myctophiformes
-    family:
-      name: Myctophidae
-    individuals:
-      - short_name: fProPar1
-        biosample_id: SAMEA12815440
-        sex:
-    genome_size: 1907100000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fProPar<br>&nbsp;&nbsp;name:&nbsp;Protomyctophum&nbsp;parallelum<br>&nbsp;&nbsp;taxon_id:&nbsp;1091426<br>&nbsp;&nbsp;common_name:&nbsp;parallel&nbsp;lanternfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fProPar1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12815440<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1907100000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-06-22
 mito1filesize: 5.8 KiB
 mito1length: '18305'

@@ -104,38 +104,10 @@ genome_size_method: ''
 last_raw_data: 1673804297
 last_updated: 1673804297
 mds:
-- data: |-
-    species: Scomber japonicus
-    specimen: fScoJap1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/fScoJap1.pri.asm.20211026.fasta.gz
-    haplotigs: s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/fScoJap1.alt.asm.20211026.fasta.gz
-    hic_bam: s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/evaluation/pretext/s2/fScoJap1_s2.bam
-    pretext: s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/evaluation/pretext/s2/fScoJap1_s2.pretext
-    kmer_spectra_img: s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/evaluation/merqury/p/fScoJap1_images/
-    pipeline:
-      - hifiasm (0.15.4-r343)
-      - purge_dups (1.2.5)
-      - salsa (2.3)
+- data: species:&nbsp;Scomber&nbsp;japonicus<br>specimen:&nbsp;fScoJap1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/fScoJap1.pri.asm.20211026.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/fScoJap1.alt.asm.20211026.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/evaluation/pretext/s2/fScoJap1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/evaluation/pretext/s2/fScoJap1_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/evaluation/merqury/p/fScoJap1_images/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4-r343)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3)
   ident: md5
   title: assembly_vgp_standard_2.0/fScoJap1.yaml
-metadata: |
-  species:
-    short_name: fScoJap
-    name: Scomber japonicus
-    taxon_id: 13676
-    common_name: chub mackerel
-    order:
-      name: Scombriformes
-    family:
-      name: Scombridae
-    individuals:
-      - short_name: fScoJap1
-        provider: Chul Lee
-    genome_size: 900000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fScoJap<br>&nbsp;&nbsp;name:&nbsp;Scomber&nbsp;japonicus<br>&nbsp;&nbsp;taxon_id:&nbsp;13676<br>&nbsp;&nbsp;common_name:&nbsp;chub&nbsp;mackerel<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scombriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scombridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fScoJap1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Chul&nbsp;Lee<br>&nbsp;&nbsp;genome_size:&nbsp;900000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2022-06-17
 mito1filesize: 5.0 KiB
 mito1length: '16568'

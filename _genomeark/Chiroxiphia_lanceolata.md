@@ -83,21 +83,7 @@ genome_size_display: 1.23 Gbp
 genome_size_method: ''
 last_raw_data: 1564251086
 last_updated: 1570556404
-metadata: |
-  species:
-    common_name: lance-tailed manakin
-    family:
-      name: Pipridae
-    genome_size: 1230000000
-    genome_size_method: null
-    individuals:
-    - short_name: bChiLan1
-    name: Chiroxiphia lanceolata
-    order:
-      name: Passeriformes
-    short_name: bChiLan
-    taxon_id: 296741
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;lance-tailed&nbsp;manakin<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pipridae<br>&nbsp;&nbsp;genome_size:&nbsp;1230000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bChiLan1<br>&nbsp;&nbsp;name:&nbsp;Chiroxiphia&nbsp;lanceolata<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;short_name:&nbsp;bChiLan<br>&nbsp;&nbsp;taxon_id:&nbsp;296741<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Chiroxiphia lanceolata
 name_: Chiroxiphia_lanceolata
 pri1date: 2019-10-08

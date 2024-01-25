@@ -83,21 +83,7 @@ genome_size_display: 1.30 Gbp
 genome_size_method: ''
 last_raw_data: 1568491387
 last_updated: 1569703895
-metadata: |
-  species:
-    common_name: carmine bee-eater
-    family:
-      name: Meropidae
-    genome_size: 1300000000
-    genome_size_method: null
-    individuals:
-    - short_name: bMerNub1
-    name: Merops nubicus
-    order:
-      name: Coraciiformes
-    short_name: bMerNub
-    taxon_id: 57421
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;carmine&nbsp;bee-eater<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Meropidae<br>&nbsp;&nbsp;genome_size:&nbsp;1300000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bMerNub1<br>&nbsp;&nbsp;name:&nbsp;Merops&nbsp;nubicus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Coraciiformes<br>&nbsp;&nbsp;short_name:&nbsp;bMerNub<br>&nbsp;&nbsp;taxon_id:&nbsp;57421<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-09-18
 mito1filesize: 5.2 KiB
 mito1length: '18687'

@@ -31,23 +31,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1679174049
 last_updated: 1679174049
-metadata: |
-  species:
-    short_name: fStoBoa
-    name: Stomias boa
-    taxon_id: 472766
-    common_name: boa dragonfish
-    order:
-      name: Stomiiformes
-    family:
-      name: Stomiidae
-    individuals:
-      - short_name: fStoBoa2
-        biosample_id: SAMEA8748811
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fStoBoa<br>&nbsp;&nbsp;name:&nbsp;Stomias&nbsp;boa<br>&nbsp;&nbsp;taxon_id:&nbsp;472766<br>&nbsp;&nbsp;common_name:&nbsp;boa&nbsp;dragonfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Stomiiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Stomiidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fStoBoa2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8748811<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Stomias boa
 name_: Stomias_boa
 project:

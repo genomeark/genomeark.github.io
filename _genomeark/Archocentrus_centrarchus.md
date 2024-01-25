@@ -83,21 +83,7 @@ genome_size_display: 0.99 Gbp
 genome_size_method: ''
 last_raw_data: 1537873439
 last_updated: 1570719699
-metadata: |
-  species:
-    short_name: fArcCen
-    name: Archocentrus centrarchus
-    taxon_id: 63155
-    common_name: flier cichlid
-    order:
-      name: Cichliformes
-    family:
-      name: Cichlidae
-    individuals:
-      - short_name: fArcCen1
-    genome_size: 988048114
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fArcCen<br>&nbsp;&nbsp;name:&nbsp;Archocentrus&nbsp;centrarchus<br>&nbsp;&nbsp;taxon_id:&nbsp;63155<br>&nbsp;&nbsp;common_name:&nbsp;flier&nbsp;cichlid<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cichliformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cichlidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fArcCen1<br>&nbsp;&nbsp;genome_size:&nbsp;988048114<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-01
 mito1filesize: 5.0 KiB
 mito1length: '16663'

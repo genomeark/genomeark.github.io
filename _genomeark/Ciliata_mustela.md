@@ -60,23 +60,7 @@ genome_size_display: 0.65 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675896236
 last_updated: 1701285328
-metadata: |
-  species:
-    short_name: fCilMus
-    name: Ciliata mustela
-    taxon_id: 348443
-    common_name: fivebeard rockling
-    order:
-      name: Gadiformes
-    family:
-      name: Lotidae
-    individuals:
-      - short_name: fCilMus1
-        biosample_id: SAMEA12231779
-        sex:
-    genome_size: 645480000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fCilMus<br>&nbsp;&nbsp;name:&nbsp;Ciliata&nbsp;mustela<br>&nbsp;&nbsp;taxon_id:&nbsp;348443<br>&nbsp;&nbsp;common_name:&nbsp;fivebeard&nbsp;rockling<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gadiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lotidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCilMus1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12231779<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;645480000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-11-28
 mito1filesize: 5.5 KiB
 mito1length: '17444'

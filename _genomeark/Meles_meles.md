@@ -101,31 +101,7 @@ mat3sizes: |
   </tfoot>
   </table>
 mat3version: assembly_curated
-metadata: |
-  species:
-    short_name: mMelMel
-    name: Meles meles
-    taxon_id: 9662
-    common_name: European badger
-    order:
-      name: Carnivora
-    family:
-      name: Mustelidae
-    individuals:
-      - short_name: mMelMel1
-        biosample_id: SAMEA5962962
-        sex: male
-      - short_name: mMelMel2
-        biosample_id: SAMEA5962963
-        sex: female
-      - short_name: mMelMel3
-        biosample_id: SAMEA5962964
-        sex: male
-        father: mMelMel1
-        mother: mMelMel2
-    genome_size: 2802245436
-    genome_size_method: genomescope (k=31)
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMelMel<br>&nbsp;&nbsp;name:&nbsp;Meles&nbsp;meles<br>&nbsp;&nbsp;taxon_id:&nbsp;9662<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;badger<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carnivora<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Mustelidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMelMel1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA5962962<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMelMel2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA5962963<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMelMel3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA5962964<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;mMelMel1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;mMelMel2<br>&nbsp;&nbsp;genome_size:&nbsp;2802245436<br>&nbsp;&nbsp;genome_size_method:&nbsp;genomescope&nbsp;(k=31)<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mgd3date: 2021-12-10
 mgd3filesize: 780.0 MiB
 mgd3length: '2738678004'

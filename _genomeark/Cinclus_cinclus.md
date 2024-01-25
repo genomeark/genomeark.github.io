@@ -60,26 +60,7 @@ genome_size_display: 1.17 Gbp
 genome_size_method: ''
 last_raw_data: 1687195224
 last_updated: 1699493137
-metadata: |
-  species:
-    short_name: bCinCin
-    name: Cinclus cinclus
-    taxon_id: 127875
-    common_name: white-throated dipper
-    order:
-      name: Passeriformes
-    family:
-      name: Cinclidae
-    individuals:
-      - short_name: bCinCin1
-        biosample_id: SAMEA9679959
-        sex:
-      - short_name: bCinCin2
-        biosample_id: SAMEA9679961
-        sex: male
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bCinCin<br>&nbsp;&nbsp;name:&nbsp;Cinclus&nbsp;cinclus<br>&nbsp;&nbsp;taxon_id:&nbsp;127875<br>&nbsp;&nbsp;common_name:&nbsp;white-throated&nbsp;dipper<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cinclidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCinCin1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA9679959<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCinCin2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA9679961<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-05-09
 mito1filesize: 5.4 KiB
 mito1length: '18668'

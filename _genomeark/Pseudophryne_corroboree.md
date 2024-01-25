@@ -168,36 +168,10 @@ hpb3version: assembly_curated
 last_raw_data: 1678825205
 last_updated: 1678825205
 mds:
-- data: "species: Pseudophryne corroboree\nspecimen: aPseCor3\nprojects: \n  - vgp\nhap1:
-    s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/assembly_vgp_HiC_2.0/aPseCor3.HiC.hap1.20220806.fasta.gz\nhap2:
-    s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/assembly_vgp_HiC_2.0/aPseCor3.HiC.hap2.20220806.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aPseCor3_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aPseCor3_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/assembly_vgp_HiC_2.0/evaluation/aPseCor3_png/\npacbio_read_dir:
-    s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/arima/\nbionano_cmap_dir:
-    s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/bionano/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy2)\n  - solve (3.7.0+galaxy0)\n  - yahs (1.2a+galaxy1)\nassembled_by_group:
-    Rockefeller\nnotes: Please curate hap2 ( aPseCor3.HiC.hap2.20220806.fasta.gz ),
-    as it looks like the more complete assembly between the two of them. I am including
-    the hap1 paths here in case they would be useful. "
+- data: species:&nbsp;Pseudophryne&nbsp;corroboree<br>specimen:&nbsp;aPseCor3<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/assembly_vgp_HiC_2.0/aPseCor3.HiC.hap1.20220806.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/assembly_vgp_HiC_2.0/aPseCor3.HiC.hap2.20220806.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aPseCor3_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aPseCor3_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/assembly_vgp_HiC_2.0/evaluation/aPseCor3_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;Please&nbsp;curate&nbsp;hap2&nbsp;(&nbsp;aPseCor3.HiC.hap2.20220806.fasta.gz&nbsp;),&nbsp;as&nbsp;it&nbsp;looks&nbsp;like&nbsp;the&nbsp;more&nbsp;complete&nbsp;assembly&nbsp;between&nbsp;the&nbsp;two&nbsp;of&nbsp;them.&nbsp;I&nbsp;am&nbsp;including&nbsp;the&nbsp;hap1&nbsp;paths&nbsp;here&nbsp;in&nbsp;case&nbsp;they&nbsp;would&nbsp;be&nbsp;useful.&nbsp;
   ident: md8
   title: assembly_vgp_HiC_2.0/aPseCor3_hap2.yaml
-metadata: |
-  species:
-    name: Pseudophryne corroboree
-    individuals:
-    - short_name: aPseCor3
-    short_name: aPseCor
-    taxon_id: 495146
-    common_name: corroboree frog
-    genome_size: 8557000000
-    genome_size_method: GoAT
-    order:
-      name: Anura
-    family:
-      name: Myobatrachidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Pseudophryne&nbsp;corroboree<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aPseCor3<br>&nbsp;&nbsp;short_name:&nbsp;aPseCor<br>&nbsp;&nbsp;taxon_id:&nbsp;495146<br>&nbsp;&nbsp;common_name:&nbsp;corroboree&nbsp;frog<br>&nbsp;&nbsp;genome_size:&nbsp;8557000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anura<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myobatrachidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Pseudophryne corroboree
 name_: Pseudophryne_corroboree
 project:

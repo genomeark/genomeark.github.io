@@ -41,21 +41,7 @@ genome_size_display: 3.47 Gbp
 genome_size_method: GoAT
 last_raw_data: 1655138860
 last_updated: 1655138860
-metadata: |
-  species:
-    name: Acipenser naccarii
-    individuals:
-    - short_name: fAciNac1
-    short_name: fAciNac
-    taxon_id: 42330
-    common_name: Adriatic sturgeon
-    genome_size: 3467000000
-    genome_size_method: GoAT
-    order:
-      name: Acipenseriformes
-    family:
-      name: Acipenseridae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Acipenser&nbsp;naccarii<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fAciNac1<br>&nbsp;&nbsp;short_name:&nbsp;fAciNac<br>&nbsp;&nbsp;taxon_id:&nbsp;42330<br>&nbsp;&nbsp;common_name:&nbsp;Adriatic&nbsp;sturgeon<br>&nbsp;&nbsp;genome_size:&nbsp;3467000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Acipenseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Acipenseridae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Acipenser naccarii
 name_: Acipenser_naccarii
 project:

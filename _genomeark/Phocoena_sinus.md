@@ -83,21 +83,7 @@ genome_size_display: 3.00 Gbp
 genome_size_method: ''
 last_raw_data: 1557360444
 last_updated: 1570720575
-metadata: |
-  species:
-    common_name: vaquita
-    family:
-      name: Phocoenidae
-    genome_size: 3000000000
-    genome_size_method: null
-    individuals:
-    - short_name: mPhoSin1
-    name: Phocoena sinus
-    order:
-      name: Artiodactyla
-    short_name: mPhoSin
-    taxon_id: 42100
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;vaquita<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phocoenidae<br>&nbsp;&nbsp;genome_size:&nbsp;3000000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPhoSin1<br>&nbsp;&nbsp;name:&nbsp;Phocoena&nbsp;sinus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Artiodactyla<br>&nbsp;&nbsp;short_name:&nbsp;mPhoSin<br>&nbsp;&nbsp;taxon_id:&nbsp;42100<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 4.9 KiB
 mito1length: '16370'

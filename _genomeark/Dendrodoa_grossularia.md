@@ -21,23 +21,7 @@ genome_size_display: 0.72 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675924282
 last_updated: 1675924282
-metadata: |
-  species:
-    short_name: kaDenGros
-    name: Dendrodoa grossularia
-    taxon_id: 30295
-    common_name: Baked bean ascidian
-    order:
-      name: Stolidobranchia
-    family:
-      name: Styelidae
-    individuals:
-      - short_name: kaDenGros1
-        biosample_id: SAMEA8712112
-        sex:
-    genome_size: 723720000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;kaDenGros<br>&nbsp;&nbsp;name:&nbsp;Dendrodoa&nbsp;grossularia<br>&nbsp;&nbsp;taxon_id:&nbsp;30295<br>&nbsp;&nbsp;common_name:&nbsp;Baked&nbsp;bean&nbsp;ascidian<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Stolidobranchia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Styelidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;kaDenGros1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8712112<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;723720000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Dendrodoa grossularia
 name_: Dendrodoa_grossularia
 project:

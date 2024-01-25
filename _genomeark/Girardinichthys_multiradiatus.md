@@ -81,32 +81,7 @@ genome_size_display: 1.15 Gbp
 genome_size_method: GOAT
 last_raw_data: 1667944576
 last_updated: 1667981918
-metadata: |
-  species:
-    common_name: dark-edged splitfin
-    name: Girardinichthys multiradiatus
-    order:
-      name: Cyprinodontiformes
-    family:
-      name: Goodeidae
-    short_name: fGirMul
-    taxon_id: 208333
-    individuals:
-    -
-      short_name: fGirMul3
-      sex: male
-      provider: Manfred Schartl
-    -
-      short_name: fGirMul4
-      sex: male
-      provider: Manfred Schartl
-    -
-      short_name: fGirMul5
-      sex: male
-      provider: Manfred Schartl
-    genome_size: 1150000000
-    genome_size_method: GOAT
-    project: [ ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;dark-edged&nbsp;splitfin<br>&nbsp;&nbsp;name:&nbsp;Girardinichthys&nbsp;multiradiatus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyprinodontiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Goodeidae<br>&nbsp;&nbsp;short_name:&nbsp;fGirMul<br>&nbsp;&nbsp;taxon_id:&nbsp;208333<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;fGirMul3<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Manfred&nbsp;Schartl<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;fGirMul4<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Manfred&nbsp;Schartl<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;fGirMul5<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Manfred&nbsp;Schartl<br>&nbsp;&nbsp;genome_size:&nbsp;1150000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GOAT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;]<br>
 name: Girardinichthys multiradiatus
 name_: Girardinichthys_multiradiatus
 pri3date: 2020-12-15

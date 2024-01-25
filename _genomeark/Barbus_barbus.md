@@ -62,26 +62,7 @@ genome_size_display: 1.58 Gbp
 genome_size_method: ''
 last_raw_data: 1675880654
 last_updated: 1675880654
-metadata: |
-  species:
-    short_name: fBarBab
-    name: Barbus barbus
-    taxon_id: 40830
-    common_name: barbel
-    order:
-      name: Cypriniformes
-    family:
-      name: Cyprinidae
-    individuals:
-      - short_name: fBarBab1
-        biosample_id: SAMEA13335783
-        sex: male
-      - short_name: fBarBab2
-        biosample_id: SAMEA11296535
-        sex: male
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fBarBab<br>&nbsp;&nbsp;name:&nbsp;Barbus&nbsp;barbus<br>&nbsp;&nbsp;taxon_id:&nbsp;40830<br>&nbsp;&nbsp;common_name:&nbsp;barbel<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cypriniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyprinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fBarBab1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA13335783<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fBarBab2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA11296535<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Barbus barbus
 name_: Barbus_barbus
 pri1date: 2022-03-28

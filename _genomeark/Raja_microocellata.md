@@ -60,23 +60,7 @@ genome_size_display: 3.42 Gbp
 genome_size_method: GoaT
 last_raw_data: 1705164307
 last_updated: 1705338144
-metadata: |
-  species:
-    short_name: sRajMic
-    name: Raja microocellata
-    taxon_id: 223863
-    common_name: small-eyed ray
-    order:
-      name: Rajiformes
-    family:
-      name: Rajidae
-    individuals:
-      - short_name: sRajMic1
-        biosample_id: SAMEA110450104
-        sex: female
-    genome_size: 3423000000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;sRajMic<br>&nbsp;&nbsp;name:&nbsp;Raja&nbsp;microocellata<br>&nbsp;&nbsp;taxon_id:&nbsp;223863<br>&nbsp;&nbsp;common_name:&nbsp;small-eyed&nbsp;ray<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rajiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rajidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sRajMic1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110450104<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;3423000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-01-15
 mito1filesize: 5.4 KiB
 mito1length: '16929'

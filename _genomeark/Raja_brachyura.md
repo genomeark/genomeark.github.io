@@ -60,23 +60,7 @@ genome_size_display: 3.42 Gbp
 genome_size_method: GoaT
 last_raw_data: 1682198252
 last_updated: 1695686461
-metadata: |
-  species:
-    short_name: sRajBra
-    name: Raja brachyura
-    taxon_id: 223862
-    common_name: blonde ray
-    order:
-      name: Rajiformes
-    family:
-      name: Rajidae
-    individuals:
-      - short_name: sRajBra1
-        biosample_id: SAMEA110450105
-        sex: female
-    genome_size: 3423000000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;sRajBra<br>&nbsp;&nbsp;name:&nbsp;Raja&nbsp;brachyura<br>&nbsp;&nbsp;taxon_id:&nbsp;223862<br>&nbsp;&nbsp;common_name:&nbsp;blonde&nbsp;ray<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rajiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rajidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sRajBra1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110450105<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;3423000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-04-24
 mito1filesize: 5.4 KiB
 mito1length: '17121'

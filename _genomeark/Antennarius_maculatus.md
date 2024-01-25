@@ -83,21 +83,7 @@ genome_size_display: 0.60 Gbp
 genome_size_method: meryl
 last_raw_data: 1562750508
 last_updated: 1581331796
-metadata: |
-  species:
-    common_name: warty frogfish
-    family:
-      name: Antennariidae
-    genome_size: 604861782
-    genome_size_method: meryl
-    individuals:
-    - short_name: fAntMac1
-    name: Antennarius maculatus
-    order:
-      name: Lophiiformes
-    short_name: fAntMac
-    taxon_id: 882753
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;warty&nbsp;frogfish<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Antennariidae<br>&nbsp;&nbsp;genome_size:&nbsp;604861782<br>&nbsp;&nbsp;genome_size_method:&nbsp;meryl<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fAntMac1<br>&nbsp;&nbsp;name:&nbsp;Antennarius&nbsp;maculatus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lophiiformes<br>&nbsp;&nbsp;short_name:&nbsp;fAntMac<br>&nbsp;&nbsp;taxon_id:&nbsp;882753<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-05
 mito1filesize: 5.2 KiB
 mito1length: '19188'

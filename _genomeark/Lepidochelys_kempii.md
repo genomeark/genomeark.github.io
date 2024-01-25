@@ -31,22 +31,7 @@ genome_size_display: 2.58 Gbp
 genome_size_method: GoaT
 last_raw_data: 1677698611
 last_updated: 1677698611
-metadata: |
-  species:
-    short_name: rLepKem
-    name: Lepidochelys kempii
-    common_name: Kemp's ridley sea turtle
-    taxon_id: 8472
-    order:
-      name: Testudines
-    family:
-      name: Cheloniidae
-    individuals:
-    -
-          short_name: rLepKem1
-    genome_size: 2581920000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;rLepKem<br>&nbsp;&nbsp;name:&nbsp;Lepidochelys&nbsp;kempii<br>&nbsp;&nbsp;common_name:&nbsp;Kemp's&nbsp;ridley&nbsp;sea&nbsp;turtle<br>&nbsp;&nbsp;taxon_id:&nbsp;8472<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Testudines<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cheloniidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;rLepKem1<br>&nbsp;&nbsp;genome_size:&nbsp;2581920000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Lepidochelys kempii
 name_: Lepidochelys_kempii
 project:

@@ -149,40 +149,10 @@ hpb1version: assembly_curated
 last_raw_data: 1651627264
 last_updated: 1690320592
 mds:
-- data: "species: Erythrolamprus reginae\nspecimen: rEryReg1\nprojects: \n  - vgp\nhap2:
-    s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/assembly_vgp_HiC_2.0/rEryReg1.HiC.hap2.20220929.fasta.gz\npretext_hap2:
-    s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rEryReg1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/assembly_vgp_HiC_2.0/evaluation/rEryReg1_png/\npacbio_read_dir:
-    s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy3)\n  - yahs (1.2a+galaxy1)\nassembled_by_group: Rockefeller\nnotes:
-    GenomeScope exploration of the raw data indicates this specimen is likely to be
-    triploid (model fits well at p=3); smudgeplot also results in \"proposed triploid\",
-    with a strong AAB signal on the smudgeplot. Hifiasm-HiC assembly resulted in hap1
-    and hap2 assemblies, with hap1 looking to have two copies of the genome based
-    on QC metrics, while hap2 has one un-duplicated copy of the genome. This is supported
-    by largely unduplicated BUSCO results (3189 complete genes out of 3354, with 3099
-    single copy and 90 dupes), a largely 1-copy kmer-cn spectrum, and the length of
-    the assembly being near to the expected genome size based on the triploid genomescope
-    model. This hap2 was scaffolded with HiC data using YAHS, and is what we are submitting
-    for curation. "
+- data: species:&nbsp;Erythrolamprus&nbsp;reginae<br>specimen:&nbsp;rEryReg1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap2:&nbsp;s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/assembly_vgp_HiC_2.0/rEryReg1.HiC.hap2.20220929.fasta.gz<br>pretext_hap2:&nbsp;s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rEryReg1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/assembly_vgp_HiC_2.0/evaluation/rEryReg1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Erythrolamprus_reginae/rEryReg1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy3)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;GenomeScope&nbsp;exploration&nbsp;of&nbsp;the&nbsp;raw&nbsp;data&nbsp;indicates&nbsp;this&nbsp;specimen&nbsp;is&nbsp;likely&nbsp;to&nbsp;be&nbsp;triploid&nbsp;(model&nbsp;fits&nbsp;well&nbsp;at&nbsp;p=3);&nbsp;smudgeplot&nbsp;also&nbsp;results&nbsp;in&nbsp;"proposed&nbsp;triploid",&nbsp;with&nbsp;a&nbsp;strong&nbsp;AAB&nbsp;signal&nbsp;on&nbsp;the&nbsp;smudgeplot.&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;resulted&nbsp;in&nbsp;hap1&nbsp;and&nbsp;hap2&nbsp;assemblies,&nbsp;with&nbsp;hap1&nbsp;looking&nbsp;to&nbsp;have&nbsp;two&nbsp;copies&nbsp;of&nbsp;the&nbsp;genome&nbsp;based&nbsp;on&nbsp;QC&nbsp;metrics,&nbsp;while&nbsp;hap2&nbsp;has&nbsp;one&nbsp;un-duplicated&nbsp;copy&nbsp;of&nbsp;the&nbsp;genome.&nbsp;This&nbsp;is&nbsp;supported&nbsp;by&nbsp;largely&nbsp;unduplicated&nbsp;BUSCO&nbsp;results&nbsp;(3189&nbsp;complete&nbsp;genes&nbsp;out&nbsp;of&nbsp;3354,&nbsp;with&nbsp;3099&nbsp;single&nbsp;copy&nbsp;and&nbsp;90&nbsp;dupes),&nbsp;a&nbsp;largely&nbsp;1-copy&nbsp;kmer-cn&nbsp;spectrum,&nbsp;and&nbsp;the&nbsp;length&nbsp;of&nbsp;the&nbsp;assembly&nbsp;being&nbsp;near&nbsp;to&nbsp;the&nbsp;expected&nbsp;genome&nbsp;size&nbsp;based&nbsp;on&nbsp;the&nbsp;triploid&nbsp;genomescope&nbsp;model.&nbsp;This&nbsp;hap2&nbsp;was&nbsp;scaffolded&nbsp;with&nbsp;HiC&nbsp;data&nbsp;using&nbsp;YAHS,&nbsp;and&nbsp;is&nbsp;what&nbsp;we&nbsp;are&nbsp;submitting&nbsp;for&nbsp;curation.&nbsp;
   ident: md8
   title: assembly_vgp_HiC_2.0/rEryReg1_hap2.yaml
-metadata: |
-  species:
-    name: Erythrolamprus reginae
-    individuals:
-    - short_name: rEryReg1
-    short_name: rEryReg
-    taxon_id: 121349
-    common_name: royal ground snake
-    genome_size: 1966000000
-    genome_size_method: GoAT
-    order:
-      name: Squamata
-    family:
-      name: Dipsadidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Erythrolamprus&nbsp;reginae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rEryReg1<br>&nbsp;&nbsp;short_name:&nbsp;rEryReg<br>&nbsp;&nbsp;taxon_id:&nbsp;121349<br>&nbsp;&nbsp;common_name:&nbsp;royal&nbsp;ground&nbsp;snake<br>&nbsp;&nbsp;genome_size:&nbsp;1966000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Dipsadidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Erythrolamprus reginae
 name_: Erythrolamprus_reginae
 pri1date: 2023-01-05

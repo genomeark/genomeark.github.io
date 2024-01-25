@@ -93,38 +93,10 @@ genome_size_method: GoAT
 last_raw_data: 1651620235
 last_updated: 1655384912
 mds:
-- data: |-
-    species: Rhynochetos jubatus
-    specimen: bRhyJub1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Rhynochetos_jubatus/bRhyJub1/assembly_vgp_standard_2.0/bRhyJub1.pri.asm.20220317.fasta.gz
-    haplotigs: s3://genomeark/species/Rhynochetos_jubatus/bRhyJub1/assembly_vgp_standard_2.0/bRhyJub1.alt.asm.20220317.fasta.gz
-    hic_bam: s3://genomeark/species/Rhynochetos_jubatus/bRhyJub1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bRhyJub1_s2.bam
-    pretext: s3://genomeark/species/Rhynochetos_jubatus/bRhyJub1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bRhyJub1_heatmap.pretext
-    kmer_spectra_img: s3://genomeark/species/Rhynochetos_jubatus/bRhyJub1/assembly_vgp_standard_2.0/evaluation/merqury/p/bRhyJub1_png/
-    pipeline:
-      - hifiasm (0.16.1+galaxy2)
-      - purge_dups (1.2.5+galaxy4)
-      - solve (3.7.0+galaxy0)
-      - salsa (2.3+galaxy2)
+- data: species:&nbsp;Rhynochetos&nbsp;jubatus<br>specimen:&nbsp;bRhyJub1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Rhynochetos_jubatus/bRhyJub1/assembly_vgp_standard_2.0/bRhyJub1.pri.asm.20220317.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Rhynochetos_jubatus/bRhyJub1/assembly_vgp_standard_2.0/bRhyJub1.alt.asm.20220317.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Rhynochetos_jubatus/bRhyJub1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bRhyJub1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Rhynochetos_jubatus/bRhyJub1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bRhyJub1_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Rhynochetos_jubatus/bRhyJub1/assembly_vgp_standard_2.0/evaluation/merqury/p/bRhyJub1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy4)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)
   ident: md4
   title: assembly_vgp_standard_2.0/bRhyJub1.yaml
-metadata: |
-  species:
-    name: Rhynochetos jubatus
-    individuals:
-    - short_name: bRhyJub1
-    short_name: bRhyJub
-    taxon_id: 54386
-    common_name: kagu
-    genome_size: 1424000000
-    genome_size_method: GoAT
-    order:
-      name: Gruiformes
-    family:
-      name: Rhynochetidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Rhynochetos&nbsp;jubatus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bRhyJub1<br>&nbsp;&nbsp;short_name:&nbsp;bRhyJub<br>&nbsp;&nbsp;taxon_id:&nbsp;54386<br>&nbsp;&nbsp;common_name:&nbsp;kagu<br>&nbsp;&nbsp;genome_size:&nbsp;1424000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gruiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhynochetidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Rhynochetos jubatus
 name_: Rhynochetos_jubatus
 pri1date: 2022-06-16

@@ -100,49 +100,10 @@ hpb3version: assembly_curated
 last_raw_data: 1690921471
 last_updated: 1694722461
 mds:
-- data: "species: Salvelinus alpinus\nspecimen: fSalAlp3\nprojects: \n  - vgp\nassembled_by_group:
-    Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/fSalAlp3.HiC.hap1.20230829.fasta.gz\nhap2:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/fSalAlp3.HiC.hap2.20230829.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fSalAlp3_hap1_s2.pretext\npretext_hap2:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fSalAlp3_hap2_s2.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/merqury/fSalAlp3_png/\npacbio_read_dir:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/genomic_data/arima/\nmito:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_MT_rockefeller/fSalAlp3.MT.20230914.fasta.gz\npipeline:
-    \n  - hifiasm (0.19.3+galaxy0)\n  - purge_dups\n  - yahs (1.2a.2+galaxy1)\nnotes:
-    This was a Hifiasm-HiC assembly of fSalAlp3, resulting in two complete haplotypes.
-    HiC scaffolding was performed with YaHS.  The HiC prep kit used was Swift-IDT.
-    \n\n"
+- data: species:&nbsp;Salvelinus&nbsp;alpinus<br>specimen:&nbsp;fSalAlp3<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/fSalAlp3.HiC.hap1.20230829.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/fSalAlp3.HiC.hap2.20230829.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fSalAlp3_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fSalAlp3_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/merqury/fSalAlp3_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_MT_rockefeller/fSalAlp3.MT.20230914.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fSalAlp3,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;<br><br>
   ident: md5
   title: assembly_vgp_HiC_2.0/fSalAlp3_hap1.yml
-- data: "species: Salvelinus alpinus\nspecimen: fSalAlp3\nprojects: \n  - vgp\nassembled_by_group:
-    Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/fSalAlp3.HiC.hap1.20230913.fasta.gz\nhap2:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/fSalAlp3.HiC.hap2.20230913.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fSalAlp3_hap1_s2.pretext\npretext_hap2:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fSalAlp3_hap2_s2.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/merqury/fSalAlp3_png/\npacbio_read_dir:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/genomic_data/arima/\nmito:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_MT_rockefeller/fSalAlp3.MT.20230913.fasta.gz\npipeline:
-    \n  - hifiasm (0.19.3+galaxy0)\n  - purge_dups\n  - yahs (1.2a.2+galaxy1)\nnotes:
-    This was a Hifiasm-HiC assembly of fSalAlp3, resulting in two complete haplotypes.
-    HiC scaffolding was performed with YaHS.  The HiC prep kit used was Swift-IDT.
-    \n\nspecies: Salvelinus alpinus\nspecimen: fSalAlp3\nprojects: \n  - vgp\nassembled_by_group:
-    Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/fSalAlp3.HiC.hap1.20230829.fasta.gz\nhap2:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/fSalAlp3.HiC.hap2.20230829.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fSalAlp3_hap1_s2.pretext\npretext_hap2:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fSalAlp3_hap2_s2.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/merqury/fSalAlp3_png/\npacbio_read_dir:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/genomic_data/arima/\nmito:
-    s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_MT_rockefeller/fSalAlp3.MT.20230914.fasta.gz\npipeline:
-    \n  - hifiasm (0.19.3+galaxy0)\n  - purge_dups\n  - yahs (1.2a.2+galaxy1)\nnotes:
-    This was a Hifiasm-HiC assembly of fSalAlp3, resulting in two complete haplotypes.
-    HiC scaffolding was performed with YaHS.  The HiC prep kit used was Swift-IDT.
-    \n\n"
+- data: species:&nbsp;Salvelinus&nbsp;alpinus<br>specimen:&nbsp;fSalAlp3<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/fSalAlp3.HiC.hap1.20230913.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/fSalAlp3.HiC.hap2.20230913.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fSalAlp3_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fSalAlp3_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/merqury/fSalAlp3_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_MT_rockefeller/fSalAlp3.MT.20230913.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fSalAlp3,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;<br><br>species:&nbsp;Salvelinus&nbsp;alpinus<br>specimen:&nbsp;fSalAlp3<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/fSalAlp3.HiC.hap1.20230829.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/fSalAlp3.HiC.hap2.20230829.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fSalAlp3_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fSalAlp3_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_vgp_HiC_2.0/evaluation/merqury/fSalAlp3_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Salvelinus_alpinus/fSalAlp3/assembly_MT_rockefeller/fSalAlp3.MT.20230914.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fSalAlp3,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;<br><br>
   ident: md6
   title: assembly_vgp_HiC_2.0/fSalAlp3_hap2.yml
 mito3date: 2023-09-14

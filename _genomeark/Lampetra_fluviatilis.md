@@ -60,23 +60,7 @@ genome_size_display: 1.34 Gbp
 genome_size_method: GoaT
 last_raw_data: 1699355170
 last_updated: 1699385358
-metadata: |
-  species:
-    short_name: kcLamFluv
-    name: Lampetra fluviatilis
-    taxon_id: 7748
-    common_name: European river lamprey
-    order:
-      name: Petromyzontiformes
-    family:
-      name: Petromyzontidae
-    individuals:
-      - short_name: kcLamFluv1
-        biosample_id: SAMEA111528664
-        sex: female
-    genome_size: 1339860000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;kcLamFluv<br>&nbsp;&nbsp;name:&nbsp;Lampetra&nbsp;fluviatilis<br>&nbsp;&nbsp;taxon_id:&nbsp;7748<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;river&nbsp;lamprey<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Petromyzontiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Petromyzontidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;kcLamFluv1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111528664<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1339860000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-11-07
 mito1filesize: 5.2 KiB
 mito1length: '16202'

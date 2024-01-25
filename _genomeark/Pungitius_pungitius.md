@@ -62,23 +62,7 @@ genome_size_display: 0.63 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675917579
 last_updated: 1692211751
-metadata: |
-  species:
-    short_name: fPunPun
-    name: Pungitius pungitius
-    taxon_id: 134920
-    common_name: ninespine stickleback
-    order:
-      name: Gasterosteiformes
-    family:
-      name: Gasterosteidae
-    individuals:
-      - short_name: fPunPun2
-        biosample_id: SAMEA11296545
-        sex: male
-    genome_size: 625920000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fPunPun<br>&nbsp;&nbsp;name:&nbsp;Pungitius&nbsp;pungitius<br>&nbsp;&nbsp;taxon_id:&nbsp;134920<br>&nbsp;&nbsp;common_name:&nbsp;ninespine&nbsp;stickleback<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gasterosteiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gasterosteidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fPunPun2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA11296545<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;625920000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-01-26
 mito2filesize: 5.3 KiB
 mito2length: '16574'

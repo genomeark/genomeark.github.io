@@ -103,40 +103,10 @@ hpb1version: assembly_curated
 last_raw_data: 1651607585
 last_updated: 1657297450
 mds:
-- data: |+
-    species: Malaclemys terrapin
-    specimen: rMalTer1
-    projects:
-      - vgp
-    hap1: s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/rMalTer1.HiC.hap1.20220601.fasta.gz
-    hap2: s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/rMalTer1.HiC.hap2.20220601.fasta.gz
-    hap1_hic_bam: s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rMalTer1_hap1__s2.bam
-    hap2_hic_bam: s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rMalTer1_hap2__s2.bam
-    hap1_pretext: s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rMalTer1_hap1__s2_heatmap.pretext
-    hap2_pretext: s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rMalTer1_hap2__s2_heatmap.pretext
-    kmer_spectra_img: s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/merqury/rMalTer1_png/
-    pipeline:
-      - hifiasm (0.16.1+galaxy2)
-      - solve (3.7)
-      - salsa (2.3+galaxy2)
-
+- data: species:&nbsp;Malaclemys&nbsp;terrapin<br>specimen:&nbsp;rMalTer1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/rMalTer1.HiC.hap1.20220601.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/rMalTer1.HiC.hap2.20220601.fasta.gz<br>hap1_hic_bam:&nbsp;s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rMalTer1_hap1__s2.bam<br>hap2_hic_bam:&nbsp;s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rMalTer1_hap2__s2.bam<br>hap1_pretext:&nbsp;s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rMalTer1_hap1__s2_heatmap.pretext<br>hap2_pretext:&nbsp;s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rMalTer1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/merqury/rMalTer1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)<br><br>
   ident: md4
   title: assembly_vgp_HiC_2.0/rMalTer1.yaml
-metadata: |
-  species:
-    name: Malaclemys terrapin
-    individuals:
-    - short_name: rMalTer1
-    short_name: rMalTer
-    taxon_id: 8485
-    common_name: diamondback terrapin
-    genome_size: 2670000000
-    genome_size_method: GoAT
-    order:
-      name: Testudines
-    family:
-      name: Emydidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Malaclemys&nbsp;terrapin<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rMalTer1<br>&nbsp;&nbsp;short_name:&nbsp;rMalTer<br>&nbsp;&nbsp;taxon_id:&nbsp;8485<br>&nbsp;&nbsp;common_name:&nbsp;diamondback&nbsp;terrapin<br>&nbsp;&nbsp;genome_size:&nbsp;2670000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Testudines<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Emydidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Malaclemys terrapin
 name_: Malaclemys_terrapin
 project:

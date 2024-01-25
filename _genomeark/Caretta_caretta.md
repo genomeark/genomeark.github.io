@@ -93,22 +93,7 @@ hpb2sizes: |
 hpb2version: assembly_vgp_HiC_2.0
 last_raw_data: 1686771919
 last_updated: 1686771919
-metadata: |
-  species:
-    short_name: rCarCar
-    name: Caretta caretta
-    common_name: Loggerhead turtle
-    taxon_id: 8467
-    order:
-      name: Testudines
-    family:
-      name: Cheloniidae
-    individuals:
-    -
-          short_name: rCarCar2
-    genome_size: 2581920000
-    genome_size_method: GoAT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;rCarCar<br>&nbsp;&nbsp;name:&nbsp;Caretta&nbsp;caretta<br>&nbsp;&nbsp;common_name:&nbsp;Loggerhead&nbsp;turtle<br>&nbsp;&nbsp;taxon_id:&nbsp;8467<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Testudines<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cheloniidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;rCarCar2<br>&nbsp;&nbsp;genome_size:&nbsp;2581920000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Caretta caretta
 name_: Caretta_caretta
 project:

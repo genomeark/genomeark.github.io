@@ -62,23 +62,7 @@ genome_size_display: 1.40 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675919162
 last_updated: 1678445016
-metadata: |
-  species:
-    short_name: bGulAri
-    name: Gulosus aristotelis
-    taxon_id: 126867
-    common_name: European shag
-    order:
-      name: Pelecaniformes
-    family:
-      name: Phalacrocoracidae
-    individuals:
-      - short_name: bGulAri2
-        biosample_id: SAMEA10059652
-        sex: female
-    genome_size: 1398540000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bGulAri<br>&nbsp;&nbsp;name:&nbsp;Gulosus&nbsp;aristotelis<br>&nbsp;&nbsp;taxon_id:&nbsp;126867<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;shag<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pelecaniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phalacrocoracidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bGulAri2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA10059652<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1398540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Gulosus aristotelis
 name_: Gulosus_aristotelis
 pri2date: 2023-03-10

@@ -31,23 +31,7 @@ genome_size_display: 6.29 Gbp
 genome_size_method: GoaT
 last_raw_data: 1703329987
 last_updated: 1703329987
-metadata: |
-  species:
-    short_name: aPelLes
-    name: Pelophylax lessonae
-    taxon_id: 45623
-    common_name: pool frog
-    order:
-      name: Anura
-    family:
-      name: Ranidae
-    individuals:
-      - short_name: aPelLes1
-        biosample_id: SAMEA112468029
-        sex: female
-    genome_size: 6288540000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;aPelLes<br>&nbsp;&nbsp;name:&nbsp;Pelophylax&nbsp;lessonae<br>&nbsp;&nbsp;taxon_id:&nbsp;45623<br>&nbsp;&nbsp;common_name:&nbsp;pool&nbsp;frog<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anura<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Ranidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aPelLes1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468029<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;6288540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Pelophylax lessonae
 name_: Pelophylax_lessonae
 project:

@@ -84,33 +84,10 @@ genome_size_method: ''
 last_raw_data: 1627391464
 last_updated: 1674233374
 mds:
-- data: "species: Erethizon dorsatum\nspecimen: mEreDor1\nprojects:\n  - vgp\nprimary:
-    s3://genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_vgp_standard_1.7/mEreDor1.pri.asm.20210907.fasta.gz\nhaplotigs:
-    s3://genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_vgp_standard_1.7/mEreDor1.alt.asm.20210907.fasta.gz\nmito:
-    s3://genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_MT_rockefeller/mEreDor1.MT.20210727.fasta.gz\nhic_bam:
-    s3://genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_vgp_standard_1.7/evaluation/pretext/pri/mEreDor1.pri.asm.20210907.bam\npretext:
-    s3://genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_vgp_standard_1.7/evaluation/pretext/pri/mEreDor1.pri.asm.20210907.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_vgp_standard_1.7/evaluation/merqury/\npipeline:\n
-    \ - falcon-kit (1.8.1)\n  - falcon_unzip (1.3.7)\n  - purge_dups (1.2.5)\n  -
-    scaff10x (2.0.3)\n  - salsa (2.2)\n  - gcpp (2.0.2)\n  - merfin (1.0)\n  - freebayes
-    (1.3.1)\n  "
+- data: species:&nbsp;Erethizon&nbsp;dorsatum<br>specimen:&nbsp;mEreDor1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_vgp_standard_1.7/mEreDor1.pri.asm.20210907.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_vgp_standard_1.7/mEreDor1.alt.asm.20210907.fasta.gz<br>mito:&nbsp;s3://genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_MT_rockefeller/mEreDor1.MT.20210727.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_vgp_standard_1.7/evaluation/pretext/pri/mEreDor1.pri.asm.20210907.bam<br>pretext:&nbsp;s3://genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_vgp_standard_1.7/evaluation/pretext/pri/mEreDor1.pri.asm.20210907.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Erethizon_dorsatum/mEreDor1/assembly_vgp_standard_1.7/evaluation/merqury/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;falcon-kit&nbsp;(1.8.1)<br>&nbsp;&nbsp;-&nbsp;falcon_unzip&nbsp;(1.3.7)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5)<br>&nbsp;&nbsp;-&nbsp;scaff10x&nbsp;(2.0.3)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.2)<br>&nbsp;&nbsp;-&nbsp;gcpp&nbsp;(2.0.2)<br>&nbsp;&nbsp;-&nbsp;merfin&nbsp;(1.0)<br>&nbsp;&nbsp;-&nbsp;freebayes&nbsp;(1.3.1)<br>&nbsp;&nbsp;
   ident: md7
   title: assembly_vgp_standard_1.7/mEreDor1.yaml
-metadata: |
-  species:
-    common_name: North American porcupine
-    family:
-      name: Erethizontidae
-    genome_size: 2900000000
-    genome_size_method: null
-    individuals:
-    - short_name: mEreDor1
-    name: Erethizon dorsatum
-    order:
-      name: Rodentia
-    short_name: mEreDor
-    taxon_id: 34844
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;North&nbsp;American&nbsp;porcupine<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Erethizontidae<br>&nbsp;&nbsp;genome_size:&nbsp;2900000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mEreDor1<br>&nbsp;&nbsp;name:&nbsp;Erethizon&nbsp;dorsatum<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;short_name:&nbsp;mEreDor<br>&nbsp;&nbsp;taxon_id:&nbsp;34844<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2021-07-27
 mito1filesize: 5.0 KiB
 mito1length: '16828'

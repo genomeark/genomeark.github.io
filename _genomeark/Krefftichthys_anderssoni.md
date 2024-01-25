@@ -31,23 +31,7 @@ genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687193793
 last_updated: 1687193793
-metadata: |
-  species:
-    short_name: fKreAnd
-    name: Krefftichthys anderssoni
-    taxon_id: 123330
-    common_name: Rhombic lanternfish
-    order:
-      name: Myctophiformes
-    family:
-      name: Myctophidae
-    individuals:
-      - short_name: fKreAnd1
-        biosample_id: SAMEA12815431
-        sex: female
-    genome_size: 1907100000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fKreAnd<br>&nbsp;&nbsp;name:&nbsp;Krefftichthys&nbsp;anderssoni<br>&nbsp;&nbsp;taxon_id:&nbsp;123330<br>&nbsp;&nbsp;common_name:&nbsp;Rhombic&nbsp;lanternfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fKreAnd1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12815431<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1907100000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Krefftichthys anderssoni
 name_: Krefftichthys_anderssoni
 project:

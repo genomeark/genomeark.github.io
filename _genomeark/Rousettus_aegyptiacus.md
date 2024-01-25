@@ -53,21 +53,7 @@ genome_size_display: 2.11 Gbp
 genome_size_method: ''
 last_raw_data: 1582490290
 last_updated: 1582490290
-metadata: |
-  species:
-    common_name: Egyptian fruit bat
-    family:
-      name: Pteropodidae
-    genome_size: 2109999999
-    genome_size_method: null
-    individuals:
-    - short_name: mRouAeg1
-    name: Rousettus aegyptiacus
-    order:
-      name: Chiroptera
-    short_name: mRouAeg
-    taxon_id: 9407
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;Egyptian&nbsp;fruit&nbsp;bat<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pteropodidae<br>&nbsp;&nbsp;genome_size:&nbsp;2109999999<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mRouAeg1<br>&nbsp;&nbsp;name:&nbsp;Rousettus&nbsp;aegyptiacus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;short_name:&nbsp;mRouAeg<br>&nbsp;&nbsp;taxon_id:&nbsp;9407<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Rousettus aegyptiacus
 name_: Rousettus_aegyptiacus
 pri1date: 2019-04-27

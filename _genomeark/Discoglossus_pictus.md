@@ -94,38 +94,10 @@ genome_size_method: ''
 last_raw_data: 1628250249
 last_updated: 1671740337
 mds:
-- data: |
-    species: Discoglossus_pictus
-    specimen: aDisPic1
-    projects:
-      - vgp
-    pri: s3://genomeark/species/Discoglossus_pictus/aDisPic1/assembly_vgp_standard_1.6/aDisPic1.pri.20210803.fasta.gz
-    alt: s3://genomeark/species/Discoglossus_pictus/aDisPic1/assembly_vgp_standard_1.6/aDisPic1.alt.20210803.fasta.gz
-    pipeline:
-      - falcon_kit (1.8.1)
-      - falonc_unzip (1.3.7)
-      - purge_dups (1.2.3)
-      - scaff10x (4.2)
-      - bionano_solve (Solve3.6.1_11162020)
-      - salsa (v2.2)
-      - gcpp (2.0.2)
-      - longranger(2.2.2)
-      - freebayes (1.3.2)
+- data: species:&nbsp;Discoglossus_pictus<br>specimen:&nbsp;aDisPic1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>pri:&nbsp;s3://genomeark/species/Discoglossus_pictus/aDisPic1/assembly_vgp_standard_1.6/aDisPic1.pri.20210803.fasta.gz<br>alt:&nbsp;s3://genomeark/species/Discoglossus_pictus/aDisPic1/assembly_vgp_standard_1.6/aDisPic1.alt.20210803.fasta.gz<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;falcon_kit&nbsp;(1.8.1)<br>&nbsp;&nbsp;-&nbsp;falonc_unzip&nbsp;(1.3.7)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.3)<br>&nbsp;&nbsp;-&nbsp;scaff10x&nbsp;(4.2)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(Solve3.6.1_11162020)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(v2.2)<br>&nbsp;&nbsp;-&nbsp;gcpp&nbsp;(2.0.2)<br>&nbsp;&nbsp;-&nbsp;longranger(2.2.2)<br>&nbsp;&nbsp;-&nbsp;freebayes&nbsp;(1.3.2)<br>
   ident: md0
   title: aDisPic1.yaml
-metadata: |
-  species:
-    short_name: aDisPic
-    name: Discoglossus pictus
-    taxon_id: 8351
-    common_name: painted frog
-    order:
-      name: Anura
-    family:
-      name: Alytidae
-    individuals:
-      - short_name: aDisPic1
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;aDisPic<br>&nbsp;&nbsp;name:&nbsp;Discoglossus&nbsp;pictus<br>&nbsp;&nbsp;taxon_id:&nbsp;8351<br>&nbsp;&nbsp;common_name:&nbsp;painted&nbsp;frog<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anura<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Alytidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aDisPic1<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2022-12-22
 mito1filesize: 5.2 KiB
 mito1length: '20250'

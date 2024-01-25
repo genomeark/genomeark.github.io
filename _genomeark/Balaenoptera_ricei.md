@@ -110,16 +110,7 @@ hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1661446271
 last_updated: 1669334759
 mds:
-- data: "species: Balaenoptera ricei\nspecimen: mBalRic1\nprojects:\n  - vgp\nhap2:
-    s3://genomeark/species/Balaenoptera_ricei/mBalRic1/assembly_vgp_HiC_2.0/mBalRic1.HiC.hap2.20220925.fasta.gz\nhap2_pretext:
-    s3://genomeark/species/Balaenoptera_ricei/mBalRic1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mBalRic1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Balaenoptera_ricei/mBalRic1/assembly_vgp_HiC_2.0/evaluation/merqury/mBalRic1_png\npacbio_read_dir:
-    s3://genomeark/species/Balaenoptera_ricei/mBalRic1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nbionano_cmap_dir: s3://genomeark/species/Balaenoptera_ricei/mBalRic1/genomic_data/bionano/\nhic_read_dir:
-    SRR10331558\npipeline:\n  - hifiasm (0.16.1+galaxy3)\n  - yahs (1.2a+galaxy1)\nassembled_by_group:
-    Rockefeller\nnotes: Since mBalRic1 seems to be a homogametic specimen we only
-    submit hap2 for manual curation, but hap1 is also uploaded in case it is needed.
-    For Hi-C reads we put the SRR accession number as they were from DNAzoo. \n\n"
+- data: species:&nbsp;Balaenoptera&nbsp;ricei<br>specimen:&nbsp;mBalRic1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap2:&nbsp;s3://genomeark/species/Balaenoptera_ricei/mBalRic1/assembly_vgp_HiC_2.0/mBalRic1.HiC.hap2.20220925.fasta.gz<br>hap2_pretext:&nbsp;s3://genomeark/species/Balaenoptera_ricei/mBalRic1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mBalRic1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Balaenoptera_ricei/mBalRic1/assembly_vgp_HiC_2.0/evaluation/merqury/mBalRic1_png<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Balaenoptera_ricei/mBalRic1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Balaenoptera_ricei/mBalRic1/genomic_data/bionano/<br>hic_read_dir:&nbsp;SRR10331558<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy3)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;Since&nbsp;mBalRic1&nbsp;seems&nbsp;to&nbsp;be&nbsp;a&nbsp;homogametic&nbsp;specimen&nbsp;we&nbsp;only&nbsp;submit&nbsp;hap2&nbsp;for&nbsp;manual&nbsp;curation,&nbsp;but&nbsp;hap1&nbsp;is&nbsp;also&nbsp;uploaded&nbsp;in&nbsp;case&nbsp;it&nbsp;is&nbsp;needed.&nbsp;For&nbsp;Hi-C&nbsp;reads&nbsp;we&nbsp;put&nbsp;the&nbsp;SRR&nbsp;accession&nbsp;number&nbsp;as&nbsp;they&nbsp;were&nbsp;from&nbsp;DNAzoo.&nbsp;<br><br>
   ident: md4
   title: assembly_vgp_HiC_2.0/mBalRic1.yaml
 name: Balaenoptera ricei

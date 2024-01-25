@@ -83,23 +83,7 @@ genome_size_display: 0.67 Gbp
 genome_size_method: ''
 last_raw_data: 1556739326
 last_updated: 1562780932
-metadata: |
-  species:
-    short_name: fGadMor
-    name: Gadus morhua
-    taxon_id: 8049
-    common_name: Atlantic cod
-    order:
-      name: Gadiformes
-    family:
-      name: Gadidae
-    individuals:
-      - short_name: fGadMor1
-        biosample_id: SAMEA5574046
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fGadMor<br>&nbsp;&nbsp;name:&nbsp;Gadus&nbsp;morhua<br>&nbsp;&nbsp;taxon_id:&nbsp;8049<br>&nbsp;&nbsp;common_name:&nbsp;Atlantic&nbsp;cod<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gadiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gadidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fGadMor1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA5574046<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Gadus morhua
 name_: Gadus_morhua
 pri1date: 2019-07-10

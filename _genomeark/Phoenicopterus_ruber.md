@@ -83,21 +83,7 @@ genome_size_display: 1.25 Gbp
 genome_size_method: ''
 last_raw_data: 1547232348
 last_updated: 1565898027
-metadata: |
-  species:
-    common_name: American flamingo
-    family:
-      name: Phoenicopteridae
-    genome_size: 1250000000
-    genome_size_method: null
-    individuals:
-    - short_name: bPhoRub1
-    name: Phoenicopterus ruber
-    order:
-      name: Phoenicopteriformes
-    short_name: bPhoRub
-    taxon_id: 9217
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;American&nbsp;flamingo<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phoenicopteridae<br>&nbsp;&nbsp;genome_size:&nbsp;1250000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPhoRub1<br>&nbsp;&nbsp;name:&nbsp;Phoenicopterus&nbsp;ruber<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phoenicopteriformes<br>&nbsp;&nbsp;short_name:&nbsp;bPhoRub<br>&nbsp;&nbsp;taxon_id:&nbsp;9217<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Phoenicopterus ruber
 name_: Phoenicopterus_ruber
 pri1date: 2019-08-13

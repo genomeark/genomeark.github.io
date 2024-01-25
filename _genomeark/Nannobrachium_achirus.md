@@ -60,23 +60,7 @@ genome_size_display: 1.96 Gbp
 genome_size_method: GoaT
 last_raw_data: 1693579015
 last_updated: 1704848564
-metadata: |
-  species:
-    short_name: fNanAch
-    name: Nannobrachium achirus
-    taxon_id: 473322
-    common_name: lantern fish
-    order:
-      name: Myctophiformes
-    family:
-      name: Myctophidae
-    individuals:
-      - short_name: fNanAch1
-        biosample_id: SAMEA12815432
-        sex:
-    genome_size: 1956000000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fNanAch<br>&nbsp;&nbsp;name:&nbsp;Nannobrachium&nbsp;achirus<br>&nbsp;&nbsp;taxon_id:&nbsp;473322<br>&nbsp;&nbsp;common_name:&nbsp;lantern&nbsp;fish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fNanAch1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12815432<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1956000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-11-14
 mito1filesize: 5.7 KiB
 mito1length: '17708'

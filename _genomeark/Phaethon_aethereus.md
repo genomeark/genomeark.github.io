@@ -49,29 +49,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1675823326
 last_updated: 1675823326
-metadata: |
-  species:
-    short_name: bPhaAeh
-    name: Phaethon aethereus
-    taxon_id: 37045
-    common_name: red-billed tropicbird
-    order:
-      name: Pelecaniformes
-    family:
-      name: Phaethontidae
-    individuals:
-      - short_name: bPhaAeh1
-        biosample_id: SAMEA8228671
-        sex: female
-      - short_name: bPhaAeh3
-        biosample_id: SAMEA8228673
-        sex: female
-      - short_name: bPhaAeh6
-        biosample_id: SAMEA8228676
-        sex: female
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bPhaAeh<br>&nbsp;&nbsp;name:&nbsp;Phaethon&nbsp;aethereus<br>&nbsp;&nbsp;taxon_id:&nbsp;37045<br>&nbsp;&nbsp;common_name:&nbsp;red-billed&nbsp;tropicbird<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pelecaniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phaethontidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPhaAeh1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8228671<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPhaAeh3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8228673<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPhaAeh6<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8228676<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Phaethon aethereus
 name_: Phaethon_aethereus
 project:

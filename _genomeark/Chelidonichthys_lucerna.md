@@ -31,23 +31,7 @@ genome_size_display: 0.84 Gbp
 genome_size_method: GoaT
 last_raw_data: 1692285077
 last_updated: 1692285077
-metadata: |
-  species:
-    short_name: fCheLuc
-    name: Chelidonichthys lucerna
-    taxon_id: 2576622
-    common_name: Tub gurnard
-    order:
-      name: Scorpaeniformes
-    family:
-      name: Triglidae
-    individuals:
-      - short_name: fCheLuc1
-        biosample_id: SAMEA112765707
-        sex:
-    genome_size: 836190000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fCheLuc<br>&nbsp;&nbsp;name:&nbsp;Chelidonichthys&nbsp;lucerna<br>&nbsp;&nbsp;taxon_id:&nbsp;2576622<br>&nbsp;&nbsp;common_name:&nbsp;Tub&nbsp;gurnard<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scorpaeniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Triglidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCheLuc1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112765707<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;836190000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Chelidonichthys lucerna
 name_: Chelidonichthys_lucerna
 project:

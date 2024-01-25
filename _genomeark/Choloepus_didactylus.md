@@ -83,21 +83,7 @@ genome_size_display: 3.40 Gbp
 genome_size_method: ''
 last_raw_data: 1547217154
 last_updated: 1600171198
-metadata: |
-  species:
-    short_name: mChoDid
-    name: Choloepus didactylus
-    taxon_id: 27675
-    common_name: southern two-toed sloth
-    order:
-      name: Folivora
-    family:
-      name: Megalonychidae
-    individuals:
-      - short_name: mChoDid1
-    genome_size: 3400000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mChoDid<br>&nbsp;&nbsp;name:&nbsp;Choloepus&nbsp;didactylus<br>&nbsp;&nbsp;taxon_id:&nbsp;27675<br>&nbsp;&nbsp;common_name:&nbsp;southern&nbsp;two-toed&nbsp;sloth<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Folivora<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Megalonychidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mChoDid1<br>&nbsp;&nbsp;genome_size:&nbsp;3400000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-08-20
 mito1filesize: 4.9 KiB
 mito1length: '16499'

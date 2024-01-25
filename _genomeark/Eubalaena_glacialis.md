@@ -111,48 +111,10 @@ hpb1version: assembly_curated
 last_raw_data: 1651668699
 last_updated: 1674053840
 mds:
-- data: |
-    species: Eubalaena glacialis
-    specimen: mEubGla1
-    projects:
-        - vgp
-    hap1:
-        s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/mEubGla1.HiC.hap1.20220517.fasta.gz
-    hap2:
-        s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/mEubGla1.HiC.hap2.20220517.fasta.gz
-    pretext_hap1:
-        s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mEubGla1_hap1__s2_heatmap.pretext
-    pretext_hap2:
-        s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mEubGla1_hap2__s2_heatmap.pretext
-    kmer_spectra)img:
-        s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/evaluation/merqury/png/
-    pacbio_read_dir: s3://genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/pacbio_hifi/
-    pacbio_read_type: hifi
-    hic_read_dir: N/A
-    bionano_cmap_dir: s3://genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/bionano/
-    pipeline:
-     - hifiasm (0.16.1+galaxy2)
-     - solve (3.7.0+galaxy0)
-     - salsa (2.3+galaxy3)
-    assembled_by_group:Rockefeller
-    notes: Specimen is male, so both haplotypes are included. HiC reads sequenced by DNAzoo are from the same individual ( https://www.ncbi.nlm.nih.gov/sra/SRX7735938[accn]).
+- data: species:&nbsp;Eubalaena&nbsp;glacialis<br>specimen:&nbsp;mEubGla1<br>projects:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;vgp<br>hap1:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/mEubGla1.HiC.hap1.20220517.fasta.gz<br>hap2:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/mEubGla1.HiC.hap2.20220517.fasta.gz<br>pretext_hap1:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mEubGla1_hap1__s2_heatmap.pretext<br>pretext_hap2:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mEubGla1_hap2__s2_heatmap.pretext<br>kmer_spectra)img:<br>&nbsp;&nbsp;&nbsp;&nbsp;s3://genomeark/species/Eubalaena_glacialis/mEubGla1/assembly_vgp_HiC_2.0/evaluation/merqury/png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;N/A<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/bionano/<br>pipeline:<br>&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy3)<br>assembled_by_group:Rockefeller<br>notes:&nbsp;Specimen&nbsp;is&nbsp;male,&nbsp;so&nbsp;both&nbsp;haplotypes&nbsp;are&nbsp;included.&nbsp;HiC&nbsp;reads&nbsp;sequenced&nbsp;by&nbsp;DNAzoo&nbsp;are&nbsp;from&nbsp;the&nbsp;same&nbsp;individual&nbsp;(&nbsp;https://www.ncbi.nlm.nih.gov/sra/SRX7735938[accn]).<br>
   ident: md4
   title: assembly_vgp_HiC_2.0/mEubGla1.yml
-metadata: |
-  species:
-    name: Eubalaena glacialis
-    individuals:
-    - short_name: mEubGla1
-    short_name: mEubGla
-    taxon_id: 27606
-    common_name: North Atlantic right whale
-    genome_size: 2866000000
-    genome_size_method: GoAT
-    order:
-      name: Artiodactyla
-    family:
-      name: Balaenidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Eubalaena&nbsp;glacialis<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mEubGla1<br>&nbsp;&nbsp;short_name:&nbsp;mEubGla<br>&nbsp;&nbsp;taxon_id:&nbsp;27606<br>&nbsp;&nbsp;common_name:&nbsp;North&nbsp;Atlantic&nbsp;right&nbsp;whale<br>&nbsp;&nbsp;genome_size:&nbsp;2866000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Artiodactyla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Balaenidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Eubalaena glacialis
 name_: Eubalaena_glacialis
 project:

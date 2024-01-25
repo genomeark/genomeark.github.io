@@ -83,21 +83,7 @@ genome_size_display: 384.11 Mbp
 genome_size_method: ''
 last_raw_data: 1535574792
 last_updated: 1570719805
-metadata: |
-  species:
-    short_name: fTakRub
-    name: Takifugu rubripes
-    taxon_id: 31033
-    common_name: torafugu
-    order:
-      name: Tetraodontiformes
-    family:
-      name: Tetraodontidae
-    individuals:
-      - short_name: fTakRub1
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fTakRub<br>&nbsp;&nbsp;name:&nbsp;Takifugu&nbsp;rubripes<br>&nbsp;&nbsp;taxon_id:&nbsp;31033<br>&nbsp;&nbsp;common_name:&nbsp;torafugu<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Tetraodontiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Tetraodontidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fTakRub1<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 5.0 KiB
 mito1length: '16448'

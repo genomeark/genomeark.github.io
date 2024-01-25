@@ -90,36 +90,10 @@ hpb1version: assembly_curated
 last_raw_data: 1690217303
 last_updated: 1694212548
 mds:
-- data: "species: Mixophyes fleayi\r\nspecimen: aMixFle1\r\nprojects: \r\n  - vgp\r\ndata_location:
-    S3\r\nrelease_to: S3\r\nhaplotype_to_curate: hap1\r\nhap1: s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap1.20230828.fasta.gz\r\nhap2:
-    s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap2.20230828.fasta.gz\r\npretext_hap1:
-    s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aMixFle1_hap1_s2.pretext\r\npretext_hap2:
-    s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aMixFle1_hap2_s2.pretext\r\nkmer_spectra_img:
-    s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/evaluation/merqury/aMixFle1_png/\r\npacbio_read_dir:
-    s3://genomeark/species/Mixophyes_fleayi/aMixFle1/genomic_data/pacbio_hifi/\r\npacbio_read_type:
-    hifi\r\nbionano_cmap_dir: s3://genomeark/species/Mixophyes_fleayi/aMixFle1/genomic_data/bionano/\r\nhic_read_dir:
-    s3://genomeark/species/Mixophyes_fleayi/aMixFle1/genomic_data/arima/\r\npipeline:\r\n
-    \ - hifiasm (0.19.3+galaxy0)\r\n  - solve (3.7)\r\n  - yahs (1.2a.2+galaxy1)\r\nassembled_by_group:
-    Rockefeller\r\nnotes: This was a hifiasm-HiC assembly of aMixFle1, resulting in
-    two complete haplotypes. Kmer spectra indicate a homogametic specimen. This individual
-    had bionano data. HiC scaffolding was performed with yahs. The HiC prep was Arima
-    kit 2. MitoHiFi failed on the reads. "
+- data: species:&nbsp;Mixophyes&nbsp;fleayi&nbsp;<br>specimen:&nbsp;aMixFle1&nbsp;<br>projects:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp&nbsp;<br>data_location:&nbsp;S3&nbsp;<br>release_to:&nbsp;S3&nbsp;<br>haplotype_to_curate:&nbsp;hap1&nbsp;<br>hap1:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap1.20230828.fasta.gz&nbsp;<br>hap2:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap2.20230828.fasta.gz&nbsp;<br>pretext_hap1:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aMixFle1_hap1_s2.pretext&nbsp;<br>pretext_hap2:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aMixFle1_hap2_s2.pretext&nbsp;<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/evaluation/merqury/aMixFle1_png/&nbsp;<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/genomic_data/pacbio_hifi/&nbsp;<br>pacbio_read_type:&nbsp;hifi&nbsp;<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/genomic_data/bionano/&nbsp;<br>hic_read_dir:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/genomic_data/arima/&nbsp;<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)&nbsp;<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)&nbsp;<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)&nbsp;<br>assembled_by_group:&nbsp;Rockefeller&nbsp;<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;aMixFle1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;Kmer&nbsp;spectra&nbsp;indicate&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;MitoHiFi&nbsp;failed&nbsp;on&nbsp;the&nbsp;reads.&nbsp;
   ident: md4
   title: assembly_vgp_HiC_2.0/aMixFle1_hap1.yml
-- data: "species: Mixophyes fleayi\r\nspecimen: aMixFle1\r\nprojects: \r\n  - vgp\r\ndata_location:
-    S3\r\nrelease_to: S3\r\nhaplotype_to_curate: hap2\r\nhap1: s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap1.20230828.fasta.gz\r\nhap2:
-    s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap2.20230828.fasta.gz\r\npretext_hap1:
-    s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aMixFle1_hap1_s2.pretext\r\npretext_hap2:
-    s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aMixFle1_hap2_s2.pretext\r\nkmer_spectra_img:
-    s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/evaluation/merqury/aMixFle1_png/\r\npacbio_read_dir:
-    s3://genomeark/species/Mixophyes_fleayi/aMixFle1/genomic_data/pacbio_hifi/\r\npacbio_read_type:
-    hifi\r\nbionano_cmap_dir: s3://genomeark/species/Mixophyes_fleayi/aMixFle1/genomic_data/bionano/\r\nhic_read_dir:
-    s3://genomeark/species/Mixophyes_fleayi/aMixFle1/genomic_data/arima/\r\npipeline:\r\n
-    \ - hifiasm (0.19.3+galaxy0)\r\n  - solve (3.7)\r\n  - yahs (1.2a.2+galaxy1)\r\nassembled_by_group:
-    Rockefeller\r\nnotes: This was a hifiasm-HiC assembly of aMixFle1, resulting in
-    two complete haplotypes. Kmer spectra indicate a homogametic specimen. This individual
-    had bionano data. HiC scaffolding was performed with yahs. The HiC prep was Arima
-    kit 2. MitoHiFi failed on the reads. "
+- data: species:&nbsp;Mixophyes&nbsp;fleayi&nbsp;<br>specimen:&nbsp;aMixFle1&nbsp;<br>projects:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp&nbsp;<br>data_location:&nbsp;S3&nbsp;<br>release_to:&nbsp;S3&nbsp;<br>haplotype_to_curate:&nbsp;hap2&nbsp;<br>hap1:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap1.20230828.fasta.gz&nbsp;<br>hap2:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/aMixFle1.HiC.hap2.20230828.fasta.gz&nbsp;<br>pretext_hap1:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aMixFle1_hap1_s2.pretext&nbsp;<br>pretext_hap2:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aMixFle1_hap2_s2.pretext&nbsp;<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/assembly_vgp_HiC_2.0/evaluation/merqury/aMixFle1_png/&nbsp;<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/genomic_data/pacbio_hifi/&nbsp;<br>pacbio_read_type:&nbsp;hifi&nbsp;<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/genomic_data/bionano/&nbsp;<br>hic_read_dir:&nbsp;s3://genomeark/species/Mixophyes_fleayi/aMixFle1/genomic_data/arima/&nbsp;<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)&nbsp;<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)&nbsp;<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)&nbsp;<br>assembled_by_group:&nbsp;Rockefeller&nbsp;<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;aMixFle1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;Kmer&nbsp;spectra&nbsp;indicate&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;MitoHiFi&nbsp;failed&nbsp;on&nbsp;the&nbsp;reads.&nbsp;
   ident: md5
   title: assembly_vgp_HiC_2.0/aMixFle1_hap2.yml
 name: Mixophyes fleayi

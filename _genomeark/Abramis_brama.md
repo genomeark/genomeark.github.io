@@ -60,23 +60,7 @@ genome_size_display: 1.27 Gbp
 genome_size_method: GoaT
 last_raw_data: 1703330582
 last_updated: 1703855751
-metadata: |
-  species:
-    short_name: fAbrBra
-    name: Abramis brama
-    taxon_id: 38527
-    common_name: common bream
-    order:
-      name: Cypriniformes
-    family:
-      name: Cyprinidae
-    individuals:
-      - short_name: fAbrBra2
-        biosample_id: SAMEA11296536
-        sex:
-    genome_size: 1271400000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fAbrBra<br>&nbsp;&nbsp;name:&nbsp;Abramis&nbsp;brama<br>&nbsp;&nbsp;taxon_id:&nbsp;38527<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;bream<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cypriniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyprinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fAbrBra2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA11296536<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1271400000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-12-29
 mito2filesize: 5.4 KiB
 mito2length: '16607'

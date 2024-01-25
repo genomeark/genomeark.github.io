@@ -100,16 +100,7 @@ hpb1version: assembly_curated
 last_raw_data: 1680692663
 last_updated: 1687529433
 mds:
-- data: "species: Pelobates fuscus\nspecimen: aPelFus1\nprojects:\n  - VGP\nrelease_to:
-    S3\ndata_location: S3\nhap1: s3://genomeark/species/Pelobates_fuscus/aPelFus1/assembly_vgp_HiC_2.0/aPelFus1.HiC.hap1.20230308.fasta.gz\nhap2:
-    s3://genomeark/species/Pelobates_fuscus/aPelFus1/assembly_vgp_HiC_2.0/aPelFus1.HiC.hap2.20230308.fasta.gz\nprimary:
-    s3://genomeark/species/Pelobates_fuscus/aPelFus1/assembly_vgp_HiC_2.0/aPelFus1.HiC.pctg.20230308.fasta.gz\nmito:
-    s3://genomeark/species/Pelobates_fuscus/aPelFus1/assembly_vgp_HiC_2.0/aPelFus1.mito.20230308.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Pelobates_fuscus/aPelFus1/genomic_data/pacbio/ \nhic_read_dir:
-    s3://genomeark/species/Pelobates_fuscus/aPelFus1/genomic_data/arima/\npipeline:\n
-    \ - deepconsensus (1.1)\n  - hifiasm (0.18.7-r519)\n  - purge_dups (1.2.5)\n  -
-    yahs (1.2a.2)\n  - deepVariant polishing (1.4)\n  - MitoHiFi (3.0.0)\nassembled_by_group:
-    MPI-CBG\n"
+- data: species:&nbsp;Pelobates&nbsp;fuscus<br>specimen:&nbsp;aPelFus1<br>projects:<br>&nbsp;&nbsp;-&nbsp;VGP<br>release_to:&nbsp;S3<br>data_location:&nbsp;S3<br>hap1:&nbsp;s3://genomeark/species/Pelobates_fuscus/aPelFus1/assembly_vgp_HiC_2.0/aPelFus1.HiC.hap1.20230308.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Pelobates_fuscus/aPelFus1/assembly_vgp_HiC_2.0/aPelFus1.HiC.hap2.20230308.fasta.gz<br>primary:&nbsp;s3://genomeark/species/Pelobates_fuscus/aPelFus1/assembly_vgp_HiC_2.0/aPelFus1.HiC.pctg.20230308.fasta.gz<br>mito:&nbsp;s3://genomeark/species/Pelobates_fuscus/aPelFus1/assembly_vgp_HiC_2.0/aPelFus1.mito.20230308.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Pelobates_fuscus/aPelFus1/genomic_data/pacbio/&nbsp;<br>hic_read_dir:&nbsp;s3://genomeark/species/Pelobates_fuscus/aPelFus1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;deepconsensus&nbsp;(1.1)<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.7-r519)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2)<br>&nbsp;&nbsp;-&nbsp;deepVariant&nbsp;polishing&nbsp;(1.4)<br>&nbsp;&nbsp;-&nbsp;MitoHiFi&nbsp;(3.0.0)<br>assembled_by_group:&nbsp;MPI-CBG<br>
   ident: md7
   title: assembly_vgp_HiC_2.0/aPelFus1.yaml
 mito1date: 2023-03-08

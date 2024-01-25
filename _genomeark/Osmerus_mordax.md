@@ -73,34 +73,10 @@ genome_size_method: GoAT
 last_raw_data: 1651608069
 last_updated: 1705504710
 mds:
-- data: "species: Osmerus mordax\nspecimen: fOsmMor3\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nprimary: s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/fOsmMor3.standard.pri.20231017.fasta.gz\nhaplotigs:
-    s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/fOsmMor3.standard.alt.20231017.fasta.gz\npretext:
-    s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/evaluation/pri/pretext/fOsmMor3_pri__s2.heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/evaluation/merqury/fOsmMor3_png/\npacbio_read_dir:
-    s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/arima/\nbionano_cmap_dir:
-    s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/bionano/\npipeline:\n
-    \ - hifiasm (0.18.8-r525)\n  - solve (3.7)\n  - yahs (1.2a.1)\nassembled_by_group:
-    Rockefeller\nnotes: This was a primary/alternate assembly of fOsmMor3. This individual
-    had bionano data. HiC scaffolding was performed with yahs. The HiC prep was Swift-IDT."
+- data: species:&nbsp;Osmerus&nbsp;mordax<br>specimen:&nbsp;fOsmMor3<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/fOsmMor3.standard.pri.20231017.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/fOsmMor3.standard.alt.20231017.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/evaluation/pri/pretext/fOsmMor3_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/evaluation/merqury/fOsmMor3_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8-r525)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;fOsmMor3.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Swift-IDT.
   ident: md4
   title: assembly_vgp_standard_2.0/fOsmMor3.yml
-metadata: |
-  species:
-    name: Osmerus mordax
-    individuals:
-    - short_name: fOsmMor3
-    short_name: fOsmMor
-    taxon_id: 8014
-    common_name: rainbow smelt
-    genome_size: 675000000
-    genome_size_method: GoAT
-    order:
-      name: Osmeriformes
-    family:
-      name: Osmeridae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Osmerus&nbsp;mordax<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fOsmMor3<br>&nbsp;&nbsp;short_name:&nbsp;fOsmMor<br>&nbsp;&nbsp;taxon_id:&nbsp;8014<br>&nbsp;&nbsp;common_name:&nbsp;rainbow&nbsp;smelt<br>&nbsp;&nbsp;genome_size:&nbsp;675000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Osmeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Osmeridae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Osmerus mordax
 name_: Osmerus_mordax
 pri3date: 2024-01-16

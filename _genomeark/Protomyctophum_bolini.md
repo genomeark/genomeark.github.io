@@ -60,23 +60,7 @@ genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1693578608
 last_updated: 1693594174
-metadata: |
-  species:
-    short_name: fProBol
-    name: Protomyctophum bolini
-    taxon_id: 443714
-    common_name: Bolin's lanternfish
-    order:
-      name: Myctophiformes
-    family:
-      name: Myctophidae
-    individuals:
-      - short_name: fProBol1
-        biosample_id: SAMEA12815434
-        sex: male
-    genome_size: 1907100000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fProBol<br>&nbsp;&nbsp;name:&nbsp;Protomyctophum&nbsp;bolini<br>&nbsp;&nbsp;taxon_id:&nbsp;443714<br>&nbsp;&nbsp;common_name:&nbsp;Bolin's&nbsp;lanternfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fProBol1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12815434<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1907100000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-09-01
 mito1filesize: 5.8 KiB
 mito1length: '18161'

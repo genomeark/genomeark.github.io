@@ -60,23 +60,7 @@ genome_size_display: 3.19 Gbp
 genome_size_method: GoaT
 last_raw_data: 1699888496
 last_updated: 1700598359
-metadata: |
-  species:
-    short_name: mOryCun
-    name: Oryctolagus cuniculus
-    taxon_id: 9986
-    common_name: rabbit
-    order:
-      name: Lagomorpha
-    family:
-      name: Leporidae
-    individuals:
-      - short_name: mOryCun1
-        biosample_id: SAMEA112468037
-        sex: female
-    genome_size: 3188280000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mOryCun<br>&nbsp;&nbsp;name:&nbsp;Oryctolagus&nbsp;cuniculus<br>&nbsp;&nbsp;taxon_id:&nbsp;9986<br>&nbsp;&nbsp;common_name:&nbsp;rabbit<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lagomorpha<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Leporidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mOryCun1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468037<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;3188280000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-11-21
 mito1filesize: 5.4 KiB
 mito1length: '17444'

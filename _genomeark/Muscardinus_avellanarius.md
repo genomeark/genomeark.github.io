@@ -60,23 +60,7 @@ genome_size_display: 3.88 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691528639
 last_updated: 1692662447
-metadata: |
-  species:
-    short_name: mMusAve
-    name: Muscardinus avellanarius
-    taxon_id: 39082
-    common_name: hazel dormouse
-    order:
-      name: Rodentia
-    family:
-      name: Gliridae
-    individuals:
-      - short_name: mMusAve1
-        biosample_id: SAMEA110180654
-        sex: female
-    genome_size: 3882659999.5
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMusAve<br>&nbsp;&nbsp;name:&nbsp;Muscardinus&nbsp;avellanarius<br>&nbsp;&nbsp;taxon_id:&nbsp;39082<br>&nbsp;&nbsp;common_name:&nbsp;hazel&nbsp;dormouse<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gliridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMusAve1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110180654<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;3882659999.5<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-08-04
 mito1filesize: 5.3 KiB
 mito1length: '16727'

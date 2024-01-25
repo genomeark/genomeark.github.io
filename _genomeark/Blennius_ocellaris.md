@@ -60,23 +60,7 @@ genome_size_display: 0.84 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691912637
 last_updated: 1693612886
-metadata: |
-  species:
-    short_name: fBleOce
-    name: Blennius ocellaris
-    taxon_id: 195075
-    common_name: butterfly blenny
-    order:
-      name: Perciformes
-    family:
-      name: Blenniidae
-    individuals:
-      - short_name: fBleOce1
-        biosample_id: SAMEA112788961
-        sex:
-    genome_size: 841080000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fBleOce<br>&nbsp;&nbsp;name:&nbsp;Blennius&nbsp;ocellaris<br>&nbsp;&nbsp;taxon_id:&nbsp;195075<br>&nbsp;&nbsp;common_name:&nbsp;butterfly&nbsp;blenny<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Blenniidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fBleOce1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112788961<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;841080000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-08-14
 mito1filesize: 5.3 KiB
 mito1length: '16499'

@@ -83,23 +83,7 @@ genome_size_display: 3.78 Gbp
 genome_size_method: ''
 last_raw_data: 1556224643
 last_updated: 1570719802
-metadata: |
-  species:
-    short_name: aGeoSer
-    name: Geotrypetes seraphini
-    taxon_id: 260995
-    common_name: Gaboon caecilian
-    order:
-      name: Apoda
-    family:
-      name: Dermophiidae
-    individuals:
-      - short_name: aGeoSer1
-        biosample_id: SAMEA104387963
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;aGeoSer<br>&nbsp;&nbsp;name:&nbsp;Geotrypetes&nbsp;seraphini<br>&nbsp;&nbsp;taxon_id:&nbsp;260995<br>&nbsp;&nbsp;common_name:&nbsp;Gaboon&nbsp;caecilian<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Apoda<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Dermophiidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aGeoSer1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA104387963<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 4.8 KiB
 mito1length: '16291'

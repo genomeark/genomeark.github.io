@@ -130,25 +130,10 @@ hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1674766851
 last_updated: 1674766851
 mds:
-- data: "species: Lycodopsis pacificus\nspecimen: fLycPai1\nprojects: \n  - vgp\nhap2:
-    s3://genomeark/species/Lycodopsis_pacificus/fLycPac1/assembly_vgp_HiC_2.0/fLycPac1.HiC.hap2.20221008.fasta.gz\npretext_hap2:
-    s3://genomeark/species/Lycodopsis_pacificus/fLycPac1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fLycPac1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Lycodopsis_pacificus/fLycPac1/assembly_vgp_HiC_2.0/evaluation/fLycPac1_png/\npacbio_read_dir:
-    s3://genomeark/species/Lycodopsis_pacificus/fLycPac1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Lycodopsis_pacificus/fLycPac1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy2)\n  - yahs (1.2a+galaxy1)\nassembled_by_group: Rockefeller\nnotes:
-    This was a Hifiasm-HiC assembly of fLycPai1 (VGL-fLycPac1), which produced phased
-    hap1 and hap2 assemblies. Both haplotypes are uploaded to genomeark, but Please
-    curate hap2 ( fLycPac1.HiC.hap2.20221008.fasta.gz ), as it looks like the more
-    complete assembly between the two of them. This individual did not have bionano
-    data. Scaffolding was done with YAHS. Merqury spectra plots of contigs indicate
-    a homogametic specimen. "
+- data: species:&nbsp;Lycodopsis&nbsp;pacificus<br>specimen:&nbsp;fLycPai1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap2:&nbsp;s3://genomeark/species/Lycodopsis_pacificus/fLycPac1/assembly_vgp_HiC_2.0/fLycPac1.HiC.hap2.20221008.fasta.gz<br>pretext_hap2:&nbsp;s3://genomeark/species/Lycodopsis_pacificus/fLycPac1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fLycPac1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Lycodopsis_pacificus/fLycPac1/assembly_vgp_HiC_2.0/evaluation/fLycPac1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Lycodopsis_pacificus/fLycPac1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Lycodopsis_pacificus/fLycPac1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fLycPai1&nbsp;(VGL-fLycPac1),&nbsp;which&nbsp;produced&nbsp;phased&nbsp;hap1&nbsp;and&nbsp;hap2&nbsp;assemblies.&nbsp;Both&nbsp;haplotypes&nbsp;are&nbsp;uploaded&nbsp;to&nbsp;genomeark,&nbsp;but&nbsp;Please&nbsp;curate&nbsp;hap2&nbsp;(&nbsp;fLycPac1.HiC.hap2.20221008.fasta.gz&nbsp;),&nbsp;as&nbsp;it&nbsp;looks&nbsp;like&nbsp;the&nbsp;more&nbsp;complete&nbsp;assembly&nbsp;between&nbsp;the&nbsp;two&nbsp;of&nbsp;them.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;Scaffolding&nbsp;was&nbsp;done&nbsp;with&nbsp;YAHS.&nbsp;Merqury&nbsp;spectra&nbsp;plots&nbsp;of&nbsp;contigs&nbsp;indicate&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;
   ident: md4
   title: assembly_vgp_HiC_2.0/fLycPai1_hap2.yaml
-metadata: "species:\n  common_name: blackbelly eelpout\n  name: Lycodopsis pacificus\n
-  \ short_name: fLycPai\n  taxon_id: 1772091\n  order:\n    name: Scorpaeniformes\n
-  \ family:\n    name: Zoarcidae\n  individuals:\n  - short_name: fLycPai1\n  genome_size:
-  649712992\n  genome_size_method: \n  project: [ ]\n"
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;blackbelly&nbsp;eelpout<br>&nbsp;&nbsp;name:&nbsp;Lycodopsis&nbsp;pacificus<br>&nbsp;&nbsp;short_name:&nbsp;fLycPai<br>&nbsp;&nbsp;taxon_id:&nbsp;1772091<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scorpaeniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Zoarcidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fLycPai1<br>&nbsp;&nbsp;genome_size:&nbsp;649712992<br>&nbsp;&nbsp;genome_size_method:&nbsp;<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;]<br>
 name: Lycodopsis pacificus
 name_: Lycodopsis_pacificus
 pri1date: 2022-12-16

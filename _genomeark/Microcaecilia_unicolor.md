@@ -93,23 +93,7 @@ genome_size_display: 4.69 Gbp
 genome_size_method: ''
 last_raw_data: 1548859097
 last_updated: 1570719802
-metadata: |
-  species:
-    short_name: aMicUni
-    name: Microcaecilia unicolor
-    taxon_id: 1415580
-    common_name: tiny Cayenne caecilian
-    order:
-      name: Apoda
-    family:
-      name: Siphonopidae
-    individuals:
-      - short_name: aMicUni1
-        biosample_id: SAMEA104387962
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;aMicUni<br>&nbsp;&nbsp;name:&nbsp;Microcaecilia&nbsp;unicolor<br>&nbsp;&nbsp;taxon_id:&nbsp;1415580<br>&nbsp;&nbsp;common_name:&nbsp;tiny&nbsp;Cayenne&nbsp;caecilian<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Apoda<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Siphonopidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aMicUni1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA104387962<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 5.1 KiB
 mito1length: '16008'

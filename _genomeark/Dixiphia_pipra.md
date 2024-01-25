@@ -90,20 +90,7 @@ hpb1version: assembly_curated
 last_raw_data: 1669237603
 last_updated: 1705429024
 mds:
-- data: "species: Dixiphia pipra\nspecimen: bDixPip1\nprojects: \n  - vgp\nhap1: s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/bDixPip1.HiC.hap1.20221214.fasta.gz\nhap2:
-    s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/bDixPip1.HiC.hap2.20221214.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bDixPip1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bDixPip1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/evaluation/merqury/bDixPip1_png/\npacbio_read_dir:
-    s3://genomeark/species/Dixiphia_pipra/bDixPip1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Dixiphia_pipra/bDixPip1/genomic_data/arima/\nhic_kit:
-    Arima2\npipeline:\n  - hifiasm (0.16.1+galaxy3)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group:
-    Rockefeller\nnotes: This was a hifiasm-HiC assembly of bDixPip1, resulting in
-    two complete haplotypes. This individual did not have bionano data. HiC scaffolding
-    was performed with YAHS. The kmer spectra indicates a heterogametic specimen.
-    Becuase the sex chromosomes are split between the two haplotypes, we are including
-    the file paths for both haplotypes in this single ticket. This assembly was done
-    by Cassidy Johnson."
+- data: species:&nbsp;Dixiphia&nbsp;pipra<br>specimen:&nbsp;bDixPip1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/bDixPip1.HiC.hap1.20221214.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/bDixPip1.HiC.hap2.20221214.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bDixPip1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bDixPip1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/evaluation/merqury/bDixPip1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Dixiphia_pipra/bDixPip1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Dixiphia_pipra/bDixPip1/genomic_data/arima/<br>hic_kit:&nbsp;Arima2<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy3)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bDixPip1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YAHS.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;heterogametic&nbsp;specimen.&nbsp;Becuase&nbsp;the&nbsp;sex&nbsp;chromosomes&nbsp;are&nbsp;split&nbsp;between&nbsp;the&nbsp;two&nbsp;haplotypes,&nbsp;we&nbsp;are&nbsp;including&nbsp;the&nbsp;file&nbsp;paths&nbsp;for&nbsp;both&nbsp;haplotypes&nbsp;in&nbsp;this&nbsp;single&nbsp;ticket.&nbsp;This&nbsp;assembly&nbsp;was&nbsp;done&nbsp;by&nbsp;Cassidy&nbsp;Johnson.
   ident: md11
   title: assembly_vgp_HiC_2.0/bDixPip1.yaml
 mito1date: 2023-02-13

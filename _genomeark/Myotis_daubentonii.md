@@ -60,23 +60,7 @@ genome_size_display: 2.21 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691522053
 last_updated: 1692210725
-metadata: |
-  species:
-    short_name: mMyoDau
-    name: Myotis daubentonii
-    taxon_id: 98922
-    common_name: Daubenton's bat
-    order:
-      name: Chiroptera
-    family:
-      name: Vespertilionidae
-    individuals:
-      - short_name: mMyoDau2
-        biosample_id: SAMEA9921455
-        sex: male
-    genome_size: 2210280000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoDau<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;daubentonii<br>&nbsp;&nbsp;taxon_id:&nbsp;98922<br>&nbsp;&nbsp;common_name:&nbsp;Daubenton's&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoDau2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA9921455<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2210280000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-07-27
 mito2filesize: 5.3 KiB
 mito2length: '17343'

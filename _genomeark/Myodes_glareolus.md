@@ -42,26 +42,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1651593803
 last_updated: 1651593803
-metadata: |
-  species:
-    short_name: mMyoGla
-    name: Myodes glareolus
-    taxon_id: 447135
-    common_name: bank vole
-    order:
-      name: Rodentia
-    family:
-      name: Cricetidae
-    individuals:
-      - short_name: mMyoGla1
-        biosample_id: SAMEA7702027
-        sex: female
-      - short_name: mMyoGla2
-        biosample_id: SAMEA7702028
-        sex: male
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoGla<br>&nbsp;&nbsp;name:&nbsp;Myodes&nbsp;glareolus<br>&nbsp;&nbsp;taxon_id:&nbsp;447135<br>&nbsp;&nbsp;common_name:&nbsp;bank&nbsp;vole<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cricetidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoGla1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7702027<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoGla2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7702028<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Myodes glareolus
 name_: Myodes_glareolus
 project:

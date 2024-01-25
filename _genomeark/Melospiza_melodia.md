@@ -67,37 +67,10 @@ genome_size_method: GoAT
 last_raw_data: 1678302432
 last_updated: 1704227562
 mds:
-- data: "species: Melospiza melodia\nspecimen: bMelMel2\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nprimary: s3://genomeark/species/Melospiza_melodia/bMelMel2/assembly_vgp_standard_2.0/bMelMel2.standard.pri.20230308.fasta.gz\nhaplotigs:
-    s3://genomeark/species/Melospiza_melodia/bMelMel2/assembly_vgp_standard_2.0/bMelMel2.standard.alt.20230308.fasta.gz\npretext:
-    s3://genomeark/species/Melospiza_melodia/bMelMel2/assembly_vgp_standard_2.0/evaluation/pri/pretext/bMelMel2_pri__s2.heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Melospiza_melodia/bMelMel2/assembly_vgp_standard_2.0/evaluation/merqury/bMelMel2_png/\nmito:
-    s3://genomeark/species/Melospiza_melodia/bMelMel2/assembly_MT_rockefeller/bMelMel2.MT.20230307.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Melospiza_melodia/bMelMel2/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Melospiza_melodia/bMelMel2/genomic_data/arima/\nbionano_cmap_dir:
-    s3://genomeark/species/Melospiza_melodia/bMelMel2/genomic_data/bionano/\npipeline:\n
-    \ - hifiasm (0.18.8+galaxy1)\n  - solve (3.7)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group:
-    Rockefeller\nnotes: This was a primary/alternate assembly of bMelMel2 (VGL-bMelMel1).
-    This individual had bionano data. HiC scaffolding was performed with yahs. The
-    HiC prep was Arima kit 2. This sample arrived with metadata indicating it is a
-    female. "
+- data: species:&nbsp;Melospiza&nbsp;melodia<br>specimen:&nbsp;bMelMel2<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Melospiza_melodia/bMelMel2/assembly_vgp_standard_2.0/bMelMel2.standard.pri.20230308.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Melospiza_melodia/bMelMel2/assembly_vgp_standard_2.0/bMelMel2.standard.alt.20230308.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Melospiza_melodia/bMelMel2/assembly_vgp_standard_2.0/evaluation/pri/pretext/bMelMel2_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Melospiza_melodia/bMelMel2/assembly_vgp_standard_2.0/evaluation/merqury/bMelMel2_png/<br>mito:&nbsp;s3://genomeark/species/Melospiza_melodia/bMelMel2/assembly_MT_rockefeller/bMelMel2.MT.20230307.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Melospiza_melodia/bMelMel2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Melospiza_melodia/bMelMel2/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Melospiza_melodia/bMelMel2/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;bMelMel2&nbsp;(VGL-bMelMel1).&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;This&nbsp;sample&nbsp;arrived&nbsp;with&nbsp;metadata&nbsp;indicating&nbsp;it&nbsp;is&nbsp;a&nbsp;female.&nbsp;
   ident: md5
   title: assembly_vgp_standard_2.0/bMelMel2.yml
-metadata: |
-  species:
-    name: Melospiza melodia
-    individuals:
-    - short_name: bMelMel1
-    short_name: bMelMel
-    taxon_id: '44397'
-    common_name: song sparrow
-    genome_size: 1399000000
-    genome_size_method: GoAT
-    order:
-      name: Passeriformes
-    family:
-      name: Passerellidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Melospiza&nbsp;melodia<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bMelMel1<br>&nbsp;&nbsp;short_name:&nbsp;bMelMel<br>&nbsp;&nbsp;taxon_id:&nbsp;'44397'<br>&nbsp;&nbsp;common_name:&nbsp;song&nbsp;sparrow<br>&nbsp;&nbsp;genome_size:&nbsp;1399000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passerellidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-03-07
 mito2filesize: 5.4 KiB
 mito2length: '16779'

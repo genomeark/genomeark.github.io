@@ -61,21 +61,7 @@ genome_size_method: ''
 last_raw_data: 1702397217
 last_updated: 1704798062
 mds:
-- data: "species: Latimeria chalumnae\nspecimen: fLatCha1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nprimary: s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/fLatCha1.standard.pri.20231215.fasta.gz\nhaplotigs:
-    s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/fLatCha1.standard.alt.20231215.fasta.gz\npretext:
-    s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/evaluation/pri/pretext/fLatCha1_pri__s2.heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/evaluation/merqury_purgedalt/fLatCha1_png/\nmito:
-    s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_MT_rockefeller/fLatCha1.MT.20231215.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Latimeria_chalumnae/fLatCha1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Latimeria_chalumnae/fLatCha1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.18.8+galaxy1)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group: Rockefeller\nnotes:
-    This was a primary/alternate assembly of fLatCha1. This is a VGP Phase 1 species.
-    This individual did not have bionano data. HiC scaffolding was performed with
-    yahs. The HiC prep was Arima kit 2. The HiC library kit was Arima. The HiC data
-    came from a different individual, fLatCha2.  Purge_dups was used on the alternate
-    assembly, but not on the primary assembly. The only purging on the primary assembly
-    was Hifiasm's default purging when running in pseudohaplotype mode. "
+- data: species:&nbsp;Latimeria&nbsp;chalumnae<br>specimen:&nbsp;fLatCha1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/fLatCha1.standard.pri.20231215.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/fLatCha1.standard.alt.20231215.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/evaluation/pri/pretext/fLatCha1_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/evaluation/merqury_purgedalt/fLatCha1_png/<br>mito:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_MT_rockefeller/fLatCha1.MT.20231215.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;fLatCha1.&nbsp;This&nbsp;is&nbsp;a&nbsp;VGP&nbsp;Phase&nbsp;1&nbsp;species.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;HiC&nbsp;library&nbsp;kit&nbsp;was&nbsp;Arima.&nbsp;The&nbsp;HiC&nbsp;data&nbsp;came&nbsp;from&nbsp;a&nbsp;different&nbsp;individual,&nbsp;fLatCha2.&nbsp;&nbsp;Purge_dups&nbsp;was&nbsp;used&nbsp;on&nbsp;the&nbsp;alternate&nbsp;assembly,&nbsp;but&nbsp;not&nbsp;on&nbsp;the&nbsp;primary&nbsp;assembly.&nbsp;The&nbsp;only&nbsp;purging&nbsp;on&nbsp;the&nbsp;primary&nbsp;assembly&nbsp;was&nbsp;Hifiasm's&nbsp;default&nbsp;purging&nbsp;when&nbsp;running&nbsp;in&nbsp;pseudohaplotype&nbsp;mode.&nbsp;
   ident: md5
   title: assembly_vgp_standard_2.0/fLatCha1.yml
 mito1date: 2023-12-15

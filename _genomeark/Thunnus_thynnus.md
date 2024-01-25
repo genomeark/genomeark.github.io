@@ -31,26 +31,7 @@ genome_size_display: 0.78 Gbp
 genome_size_method: GoaT
 last_raw_data: 1702665927
 last_updated: 1702665927
-metadata: |
-  species:
-    short_name: fThuThy
-    name: Thunnus thynnus
-    taxon_id: 8237
-    common_name: Atlantic bluefin tuna
-    order:
-      name: Perciformes
-    family:
-      name: Scombridae
-    individuals:
-      - short_name: fThuThy2
-        biosample_id: SAMEA111406335
-        sex:
-      - short_name: fThuThy3
-        biosample_id: SAMEA111406336
-        sex:
-    genome_size: 782400000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fThuThy<br>&nbsp;&nbsp;name:&nbsp;Thunnus&nbsp;thynnus<br>&nbsp;&nbsp;taxon_id:&nbsp;8237<br>&nbsp;&nbsp;common_name:&nbsp;Atlantic&nbsp;bluefin&nbsp;tuna<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scombridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fThuThy2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111406335<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fThuThy3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111406336<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;782400000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Thunnus thynnus
 name_: Thunnus_thynnus
 project:

@@ -100,19 +100,7 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
-metadata: |
-  species:
-    short_name: mJacJac
-    name: Jaculus jaculus
-    taxon_id: 51337
-    common_name: lesser Egyptian jerboa
-    order:
-      name: Rodentia
-    family:
-      name: Dipodidae
-    individuals:
-      - short_name: mJacJac1
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mJacJac<br>&nbsp;&nbsp;name:&nbsp;Jaculus&nbsp;jaculus<br>&nbsp;&nbsp;taxon_id:&nbsp;51337<br>&nbsp;&nbsp;common_name:&nbsp;lesser&nbsp;Egyptian&nbsp;jerboa<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Dipodidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mJacJac1<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mgd1date: 2021-05-07
 mgd1filesize: 818.1 MiB
 mgd1length: '2863848715'

@@ -21,23 +21,7 @@ genome_size_display: 6.02 Gbp
 genome_size_method: GoaT
 last_raw_data: 1703329737
 last_updated: 1703329737
-metadata: |
-  species:
-    short_name: sCetMax
-    name: Cetorhinus maximus
-    taxon_id: 57982
-    common_name: Basking shark
-    order:
-      name: Lamniformes
-    family:
-      name: Cetorhinidae
-    individuals:
-      - short_name: sCetMax3
-        biosample_id: SAMEA113902670
-        sex: female
-    genome_size: 6019590000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;sCetMax<br>&nbsp;&nbsp;name:&nbsp;Cetorhinus&nbsp;maximus<br>&nbsp;&nbsp;taxon_id:&nbsp;57982<br>&nbsp;&nbsp;common_name:&nbsp;Basking&nbsp;shark<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lamniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cetorhinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sCetMax3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113902670<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;6019590000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Cetorhinus maximus
 name_: Cetorhinus_maximus
 project:

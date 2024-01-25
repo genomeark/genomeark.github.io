@@ -81,23 +81,7 @@ genome_size_display: 2.65 Gbp
 genome_size_method: ''
 last_raw_data: 1580668926
 last_updated: 1608199961
-metadata: |
-  species:
-    short_name: mRatNor
-    name: Rattus norvegicus
-    taxon_id: 10116
-    common_name: Norway rat
-    order:
-      name: Rodentia
-    family:
-      name: Muridae
-    individuals:
-      - short_name: mRatNor1
-        biosample_id: SAMEA7524397
-        sex: male
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mRatNor<br>&nbsp;&nbsp;name:&nbsp;Rattus&nbsp;norvegicus<br>&nbsp;&nbsp;taxon_id:&nbsp;10116<br>&nbsp;&nbsp;common_name:&nbsp;Norway&nbsp;rat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Muridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mRatNor1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7524397<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-12-04
 mito1filesize: 4.9 KiB
 mito1length: '16313'

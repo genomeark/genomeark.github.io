@@ -62,26 +62,7 @@ genome_size_display: 1.43 Gbp
 genome_size_method: ''
 last_raw_data: 1678368091
 last_updated: 1683072076
-metadata: |
-  species:
-    short_name: fEleAnt
-    name: Electrona antarctica
-    taxon_id: 206093
-    common_name: Antarctic lanternfish
-    order:
-      name: Myctophiformes
-    family:
-      name: Myctophidae
-    individuals:
-      - short_name: fEleAnt2
-        biosample_id: SAMEA8748807
-        sex: female
-      - short_name: fEleAnt3
-        biosample_id: SAMEA8748808
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fEleAnt<br>&nbsp;&nbsp;name:&nbsp;Electrona&nbsp;antarctica<br>&nbsp;&nbsp;taxon_id:&nbsp;206093<br>&nbsp;&nbsp;common_name:&nbsp;Antarctic&nbsp;lanternfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fEleAnt2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8748807<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fEleAnt3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8748808<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Electrona antarctica
 name_: Electrona_antarctica
 pri2date: 2023-05-03

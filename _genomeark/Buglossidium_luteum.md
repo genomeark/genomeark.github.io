@@ -31,23 +31,7 @@ genome_size_display: 0.71 Gbp
 genome_size_method: GoaT
 last_raw_data: 1696598075
 last_updated: 1696598075
-metadata: |
-  species:
-    short_name: fBugLut
-    name: Buglossidium luteum
-    taxon_id: 90071
-    common_name: solenette
-    order:
-      name: Pleuronectiformes
-    family:
-      name: Soleidae
-    individuals:
-      - short_name: fBugLut1
-        biosample_id: SAMEA110450066
-        sex:
-    genome_size: 713940000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fBugLut<br>&nbsp;&nbsp;name:&nbsp;Buglossidium&nbsp;luteum<br>&nbsp;&nbsp;taxon_id:&nbsp;90071<br>&nbsp;&nbsp;common_name:&nbsp;solenette<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pleuronectiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Soleidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fBugLut1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110450066<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;713940000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Buglossidium luteum
 name_: Buglossidium_luteum
 project:

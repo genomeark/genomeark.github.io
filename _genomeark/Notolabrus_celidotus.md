@@ -83,21 +83,7 @@ genome_size_display: 1.00 Gbp
 genome_size_method: ''
 last_raw_data: 1570122122
 last_updated: 1587251203
-metadata: |
-  species:
-    common_name: spotty wrasse
-    family:
-      name: Labridae
-    genome_size: 1000000000
-    genome_size_method: null
-    individuals:
-    - short_name: fNotCel1
-    name: Notolabrus celidotus
-    order:
-      name: Perciformes
-    short_name: fNotCel
-    taxon_id: 1203425
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;spotty&nbsp;wrasse<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Labridae<br>&nbsp;&nbsp;genome_size:&nbsp;1000000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fNotCel1<br>&nbsp;&nbsp;name:&nbsp;Notolabrus&nbsp;celidotus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;short_name:&nbsp;fNotCel<br>&nbsp;&nbsp;taxon_id:&nbsp;1203425<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-12-14
 mito1filesize: 5.0 KiB
 mito1length: '16525'

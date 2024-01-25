@@ -31,23 +31,7 @@ genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1701345020
 last_updated: 1701345020
-metadata: |
-  species:
-    short_name: fLamMac
-    name: Lampanyctus macdonaldi
-    taxon_id: 521416
-    common_name: rakery beaconlamp
-    order:
-      name: Myctophiformes
-    family:
-      name: Myctophidae
-    individuals:
-      - short_name: fLamMac1
-        biosample_id: SAMEA12815438
-        sex:
-    genome_size: 1907100000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fLamMac<br>&nbsp;&nbsp;name:&nbsp;Lampanyctus&nbsp;macdonaldi<br>&nbsp;&nbsp;taxon_id:&nbsp;521416<br>&nbsp;&nbsp;common_name:&nbsp;rakery&nbsp;beaconlamp<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fLamMac1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12815438<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1907100000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Lampanyctus macdonaldi
 name_: Lampanyctus_macdonaldi
 project:

@@ -104,21 +104,7 @@ genome_size_display: 1.12 Gbp
 genome_size_method: ''
 last_raw_data: 1531244296
 last_updated: 1570719801
-metadata: |
-  species:
-    short_name: bCalAnn
-    name: Calypte anna
-    taxon_id: 9244
-    common_name: Anna's hummingbird
-    order:
-      name: Apodiformes
-    family:
-      name: Trochilidae
-    individuals:
-      - short_name: bCalAnn1
-    genome_size: 1116472572
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bCalAnn<br>&nbsp;&nbsp;name:&nbsp;Calypte&nbsp;anna<br>&nbsp;&nbsp;taxon_id:&nbsp;9244<br>&nbsp;&nbsp;common_name:&nbsp;Anna's&nbsp;hummingbird<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Apodiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Trochilidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCalAnn1<br>&nbsp;&nbsp;genome_size:&nbsp;1116472572<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-02
 mito1filesize: 5.0 KiB
 mito1length: '18982'

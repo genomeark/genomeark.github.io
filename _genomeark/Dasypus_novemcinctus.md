@@ -100,38 +100,10 @@ hpb1version: assembly_curated
 last_raw_data: 1651006024
 last_updated: 1685146203
 mds:
-- data: "species: Dasypus novemcinctus\nspecimen: mDasNov1\nprojects: \n  - vgp\nhap1:
-    s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/assembly_vgp_HiC_2.0/evaluation/mDasNov1.HiC.hap1.20221115.fasta.gz\nhap2:
-    s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/assembly_vgp_HiC_2.0/evaluation/mDasNov1.HiC.hap2.20221115.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mDasNov1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mDasNov1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/assembly_vgp_HiC_2.0/evaluation/mDasNov1_png/\npacbio_read_dir:
-    s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/genomic_data/arima/\nhic_kit:
-    Arima2\nbionano_cmap_dir: s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/genomic_data/bionano/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy2)\n  - solve (3.7.0+galaxy0)\n  - salsa (2.3+galaxy3)\nassembled_by_group:
-    Rockefeller\nnotes: This was a hifiasm-HiC assembly of mDasNov1, resulting in
-    two complete haplotypes. The kmer spectra indicates a heterogametic specimen,
-    consistent with sample metadata that this is a male. Because the sex chromosomes
-    are split between the two haplotypes, we are including the file paths for both
-    haplotypes in this single ticket. This assembly was done by Simona Secomandi."
+- data: species:&nbsp;Dasypus&nbsp;novemcinctus<br>specimen:&nbsp;mDasNov1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/assembly_vgp_HiC_2.0/evaluation/mDasNov1.HiC.hap1.20221115.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/assembly_vgp_HiC_2.0/evaluation/mDasNov1.HiC.hap2.20221115.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mDasNov1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mDasNov1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/assembly_vgp_HiC_2.0/evaluation/mDasNov1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/genomic_data/arima/<br>hic_kit:&nbsp;Arima2<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Dasypus_novemcinctus/mDasNov1/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy3)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mDasNov1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;heterogametic&nbsp;specimen,&nbsp;consistent&nbsp;with&nbsp;sample&nbsp;metadata&nbsp;that&nbsp;this&nbsp;is&nbsp;a&nbsp;male.&nbsp;Because&nbsp;the&nbsp;sex&nbsp;chromosomes&nbsp;are&nbsp;split&nbsp;between&nbsp;the&nbsp;two&nbsp;haplotypes,&nbsp;we&nbsp;are&nbsp;including&nbsp;the&nbsp;file&nbsp;paths&nbsp;for&nbsp;both&nbsp;haplotypes&nbsp;in&nbsp;this&nbsp;single&nbsp;ticket.&nbsp;This&nbsp;assembly&nbsp;was&nbsp;done&nbsp;by&nbsp;Simona&nbsp;Secomandi.
   ident: md12
   title: assembly_vgp_HiC_2.0/mDasNov1.yaml
-metadata: |
-  species:
-    name: Dasypus novemcinctus
-    individuals:
-    - short_name: mDasNov1
-    short_name: mDasNov
-    taxon_id: 9361
-    common_name: nine-banded armadillo
-    genome_size: 5291000000
-    genome_size_method: GoAT
-    order:
-      name: Cingulata
-    family:
-      name: Dasypodidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Dasypus&nbsp;novemcinctus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mDasNov1<br>&nbsp;&nbsp;short_name:&nbsp;mDasNov<br>&nbsp;&nbsp;taxon_id:&nbsp;9361<br>&nbsp;&nbsp;common_name:&nbsp;nine-banded&nbsp;armadillo<br>&nbsp;&nbsp;genome_size:&nbsp;5291000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cingulata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Dasypodidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2022-11-22
 mito1filesize: 5.0 KiB
 mito1length: '17231'

@@ -172,55 +172,13 @@ hpb5version: assembly_curated
 last_raw_data: 1687315206
 last_updated: 1702664708
 mds:
-- data: "species: Branchiostoma lanceolatum\nspecimen: klBraLanc5\nprojects: \n  -
-    vgp\nassembled_by_group: Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate:
-    hap1\nhap1: s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap1.20230620.fasta.gz\nhap2:
-    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap2.20230620.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/klBraLanc5_hap1_s2.pretext\npretext_hap2:
-    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/klBraLanc5_hap2_s2.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/merqury/klBraLanc5_png/\npacbio_read_dir:
-    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/arima/\npipeline:
-    \n  - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
-    assembly of klBraLanc5, resulting in two complete haplotypes. HiC scaffolding
-    was performed with YaHS.  The HiC prep kit used was Arima library prep. The HiC
-    reads needed to have 5 bp trimmed from the 5' end due to adapter left over from
-    the Arima library prep kit. \n"
+- data: species:&nbsp;Branchiostoma&nbsp;lanceolatum<br>specimen:&nbsp;klBraLanc5<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap1.20230620.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap2.20230620.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/klBraLanc5_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/klBraLanc5_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/merqury/klBraLanc5_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;klBraLanc5,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;<br>
   ident: md12
   title: assembly_vgp_HiC_2.0/klBraLanc5_hap1.yml
-- data: "species: Branchiostoma lanceolatum\nspecimen: klBraLanc5\nprojects: \n  -
-    vgp\nassembled_by_group: Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate:
-    hap2\nhap1: s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap1.20230620.fasta.gz\nhap2:
-    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap2.20230620.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/klBraLanc5_hap1_s2.pretext\npretext_hap2:
-    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/klBraLanc5_hap2_s2.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/merqury/klBraLanc5_png/\npacbio_read_dir:
-    s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/arima/\npipeline:
-    \n  - hifiasm (0.19.3+galaxy0)\n  - yahs (1.2a.2+galaxy1)\nnotes: This was a Hifiasm-HiC
-    assembly of klBraLanc5, resulting in two complete haplotypes. HiC scaffolding
-    was performed with YaHS.  The HiC prep kit used was Arima library prep. The HiC
-    reads needed to have 5 bp trimmed from the 5' end due to adapter left over from
-    the Arima library prep kit. \n"
+- data: species:&nbsp;Branchiostoma&nbsp;lanceolatum<br>specimen:&nbsp;klBraLanc5<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap1.20230620.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap2.20230620.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/klBraLanc5_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/klBraLanc5_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/merqury/klBraLanc5_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;klBraLanc5,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;<br>
   ident: md13
   title: assembly_vgp_HiC_2.0/klBraLanc5_hap2.yml
-metadata: |
-  species:
-    short_name: klBraLanc
-    name: Branchiostoma lanceolatum
-    taxon_id: 7740
-    common_name: amphioxus
-    order:
-      name: Amphioxiformes
-    family:
-      name: Branchiostomatidae
-    individuals:
-      - short_name: klBraLanc2
-        biosample_id: SAMEA111562176
-        sex:
-    genome_size: 577020000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;klBraLanc<br>&nbsp;&nbsp;name:&nbsp;Branchiostoma&nbsp;lanceolatum<br>&nbsp;&nbsp;taxon_id:&nbsp;7740<br>&nbsp;&nbsp;common_name:&nbsp;amphioxus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Amphioxiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Branchiostomatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;klBraLanc2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111562176<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;577020000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Branchiostoma lanceolatum
 name_: Branchiostoma_lanceolatum
 project:

@@ -83,11 +83,7 @@ genome_size_display: 0.94 Gbp
 genome_size_method: 10X Genomics Supernova assembly
 last_raw_data: 1563553434
 last_updated: 1589472768
-metadata: "species:\n  short_name: fAnaAna\n  name: Anableps anableps\n  taxon_id:
-  195821\n  common_name: largescale foureyes\n  order:\n    name: Cyprinodontiformes\n
-  \ family:\n    name: Anablepidae\n  individuals:\n    - short_name: fAnaAna1\n  genome_size:
-  939460000\n  genome_size_method: 10X Genomics Supernova assembly \n  project: [
-  vgp ]\n"
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fAnaAna<br>&nbsp;&nbsp;name:&nbsp;Anableps&nbsp;anableps<br>&nbsp;&nbsp;taxon_id:&nbsp;195821<br>&nbsp;&nbsp;common_name:&nbsp;largescale&nbsp;foureyes<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyprinodontiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anablepidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fAnaAna1<br>&nbsp;&nbsp;genome_size:&nbsp;939460000<br>&nbsp;&nbsp;genome_size_method:&nbsp;10X&nbsp;Genomics&nbsp;Supernova&nbsp;assembly&nbsp;<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-01
 mito1filesize: 5.0 KiB
 mito1length: '16511'

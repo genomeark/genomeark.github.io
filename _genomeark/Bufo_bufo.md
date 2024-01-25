@@ -83,23 +83,7 @@ genome_size_display: 5.04 Gbp
 genome_size_method: ''
 last_raw_data: 1584379221
 last_updated: 1608197105
-metadata: |
-  species:
-    short_name: aBufBuf
-    name: Bufo bufo
-    taxon_id: 8384
-    common_name: common toad
-    order:
-      name: Anura
-    family:
-      name: Bufonidae
-    individuals:
-      - short_name: aBufBuf1
-        biosample_id: SAMEA7521636
-        sex: male
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;aBufBuf<br>&nbsp;&nbsp;name:&nbsp;Bufo&nbsp;bufo<br>&nbsp;&nbsp;taxon_id:&nbsp;8384<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;toad<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anura<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Bufonidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aBufBuf1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7521636<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-05
 mito1filesize: 5.2 KiB
 mito1length: '17865'

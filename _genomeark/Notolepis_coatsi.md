@@ -60,23 +60,7 @@ genome_size_display: 3.43 Gbp
 genome_size_method: ''
 last_raw_data: 1692002505
 last_updated: 1700557029
-metadata: |
-  species:
-    short_name: fNotCoa
-    name: Notolepis coatsi
-    taxon_id: 948063
-    common_name: Antarctic jonasfish
-    order:
-      name: Aulopiformes
-    family:
-      name: Paralepididae
-    individuals:
-      - short_name: fNotCoa1
-        biosample_id: SAMEA8748806
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fNotCoa<br>&nbsp;&nbsp;name:&nbsp;Notolepis&nbsp;coatsi<br>&nbsp;&nbsp;taxon_id:&nbsp;948063<br>&nbsp;&nbsp;common_name:&nbsp;Antarctic&nbsp;jonasfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Aulopiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Paralepididae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fNotCoa1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8748806<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-11-20
 mito1filesize: 6.4 KiB
 mito1length: '22906'

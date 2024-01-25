@@ -134,21 +134,7 @@ hpb1sizes: |
 hpb1version: assembly_curated
 last_raw_data: 1702397271
 last_updated: 1702397271
-metadata: |
-  species:
-    name: Liasis olivaceus
-    individuals:
-    - short_name: rLiaOli1
-    short_name: rLiaOli
-    taxon_id: 283338
-    common_name: olive python
-    genome_size: 1675000000
-    genome_size_method: GoAT
-    order:
-      name: Squamata
-    family:
-      name: Pythonidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Liasis&nbsp;olivaceus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rLiaOli1<br>&nbsp;&nbsp;short_name:&nbsp;rLiaOli<br>&nbsp;&nbsp;taxon_id:&nbsp;283338<br>&nbsp;&nbsp;common_name:&nbsp;olive&nbsp;python<br>&nbsp;&nbsp;genome_size:&nbsp;1675000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pythonidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Liasis olivaceus
 name_: Liasis_olivaceus
 project:

@@ -100,38 +100,10 @@ hpb1version: assembly_curated
 last_raw_data: 1659459029
 last_updated: 1685456998
 mds:
-- data: "species: Poecile atricapillus\nspecimen: bPoeAtr1\nprojects: \n  - vgp\nhaplotype_to_curate:
-    hap1\nhap1: s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap1.20220821.fasta.gz\nhap2:
-    s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap2.20220821.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bPoeAtr1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bPoeAtr1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/evaluation/merqury/bPoeAtr1_png/\npacbio_read_dir:
-    s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nbionano_cmap_dir: s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/genomic_data/bionano/\nhic_read_dir:
-    s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.16.1-r375)\n  - solve (3.7)\n  - salsa2\nassembled_by_group: Rockefeller\nnotes:
-    This was a hifiasm-HiC assembly of bPoeAtr1, resulting in two complete haplotypes.
-    This individual did have bionano data. HiC scaffolding was performed with SALSA2.
-    The HiC prep was Arima kit 2. The kmer spectra indicates a heterogametic specimen,
-    so we are submitting both haplotypes as tickets, in case the sex chromosomes need
-    to be fished out between the haplotypes. This is the curation ticket for hap1."
+- data: species:&nbsp;Poecile&nbsp;atricapillus<br>specimen:&nbsp;bPoeAtr1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap1.20220821.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap2.20220821.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bPoeAtr1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bPoeAtr1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/evaluation/merqury/bPoeAtr1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1-r375)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;salsa2<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bPoeAtr1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;SALSA2.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;heterogametic&nbsp;specimen,&nbsp;so&nbsp;we&nbsp;are&nbsp;submitting&nbsp;both&nbsp;haplotypes&nbsp;as&nbsp;tickets,&nbsp;in&nbsp;case&nbsp;the&nbsp;sex&nbsp;chromosomes&nbsp;need&nbsp;to&nbsp;be&nbsp;fished&nbsp;out&nbsp;between&nbsp;the&nbsp;haplotypes.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.
   ident: md15
   title: assembly_vgp_HiC_2.0/bPoeAtr1_hap1.yml
-- data: "species: Poecile atricapillus\nspecimen: bPoeAtr1\nprojects: \n  - vgp\nhaplotype_to_curate:
-    hap2\nhap1: s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap1.20220821.fasta.gz\nhap2:
-    s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap2.20220821.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bPoeAtr1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bPoeAtr1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/evaluation/merqury/bPoeAtr1_png/\npacbio_read_dir:
-    s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nbionano_cmap_dir: s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/genomic_data/bionano/\nhic_read_dir:
-    s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.16.1-r375)\n  - solve (3.7)\n  - salsa2\nassembled_by_group: Rockefeller\nnotes:
-    This was a hifiasm-HiC assembly of bPoeAtr1, resulting in two complete haplotypes.
-    This individual did have bionano data. HiC scaffolding was performed with SALSA2.
-    The HiC prep was Arima kit 2. The kmer spectra indicates a heterogametic specimen,
-    so we are submitting both haplotypes as tickets, in case the sex chromosomes need
-    to be fished out between the haplotypes. This is the curation ticket for hap2."
+- data: species:&nbsp;Poecile&nbsp;atricapillus<br>specimen:&nbsp;bPoeAtr1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap1.20220821.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/bPoeAtr1.HiC.hap2.20220821.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bPoeAtr1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bPoeAtr1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/assembly_vgp_HiC_2.0/evaluation/merqury/bPoeAtr1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Poecile_atricapillus/bPoeAtr1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1-r375)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;salsa2<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bPoeAtr1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;SALSA2.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;heterogametic&nbsp;specimen,&nbsp;so&nbsp;we&nbsp;are&nbsp;submitting&nbsp;both&nbsp;haplotypes&nbsp;as&nbsp;tickets,&nbsp;in&nbsp;case&nbsp;the&nbsp;sex&nbsp;chromosomes&nbsp;need&nbsp;to&nbsp;be&nbsp;fished&nbsp;out&nbsp;between&nbsp;the&nbsp;haplotypes.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap2.
   ident: md16
   title: assembly_vgp_HiC_2.0/bPoeAtr1_hap2.yml
 name: Poecile atricapillus

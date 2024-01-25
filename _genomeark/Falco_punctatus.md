@@ -67,26 +67,7 @@ genome_size_display: 1.40 Gbp
 genome_size_method: GoaT
 last_raw_data: 1703330823
 last_updated: 1703330823
-metadata: |
-  species:
-    short_name: bFalPun
-    name: Falco punctatus
-    taxon_id: 148596
-    common_name: Mauritius kestrel
-    order:
-      name: Falconiformes
-    family:
-      name: Falconidae
-    individuals:
-      - short_name: bFalPun1
-        biosample_id: SAMEA14356472
-        sex:
-      - short_name: bFalPun2
-        biosample_id: SAMEA14356473
-        sex: female
-    genome_size: 1403430000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bFalPun<br>&nbsp;&nbsp;name:&nbsp;Falco&nbsp;punctatus<br>&nbsp;&nbsp;taxon_id:&nbsp;148596<br>&nbsp;&nbsp;common_name:&nbsp;Mauritius&nbsp;kestrel<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFalPun1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA14356472<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFalPun2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA14356473<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1403430000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-03-28
 mito1filesize: 5.4 KiB
 mito1length: '17340'

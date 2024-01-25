@@ -93,38 +93,10 @@ genome_size_method: GoAT
 last_raw_data: 1651605637
 last_updated: 1667318869
 mds:
-- data: |-
-    species: Nycticebus coucang
-    specimen: mNycCou1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Nycticebus_coucang/mNycCou1/assembly_vgp_standard_2.0/mNycCou1.pri.asm.20220201.fasta.gz
-    haplotigs: s3://genomeark/species/Nycticebus_coucang/mNycCou1/assembly_vgp_standard_2.0/mNycCou1.alt.asm.20220201.fasta.gz
-    hic_bam: s3://genomeark/species/Nycticebus_coucang/mNycCou1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mNycCou1_s2.bam
-    pretext: s3://genomeark/species/Nycticebus_coucang/mNycCou1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mNycCou1_s2.pretext
-    kmer_spectra_img: s3://genomeark/species/Nycticebus_coucang/mNycCou1/assembly_vgp_standard_2.0/evaluation/merqury/p/mNycCou1_p1p2_images/
-    pipeline:
-      - hifiasm (0.16.1-r375)
-      - purge_dups (1.2.5)
-      - solve (3.6.1)
-      - salsa (2.2)
+- data: species:&nbsp;Nycticebus&nbsp;coucang<br>specimen:&nbsp;mNycCou1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Nycticebus_coucang/mNycCou1/assembly_vgp_standard_2.0/mNycCou1.pri.asm.20220201.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Nycticebus_coucang/mNycCou1/assembly_vgp_standard_2.0/mNycCou1.alt.asm.20220201.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Nycticebus_coucang/mNycCou1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mNycCou1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Nycticebus_coucang/mNycCou1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mNycCou1_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Nycticebus_coucang/mNycCou1/assembly_vgp_standard_2.0/evaluation/merqury/p/mNycCou1_p1p2_images/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1-r375)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.6.1)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.2)
   ident: md5
   title: assembly_vgp_standard_2.0/mNycCou1.yaml
-metadata: |
-  species:
-    name: Nycticebus coucang
-    individuals:
-    - short_name: mNycCou1
-    short_name: mNycCou
-    taxon_id: 9470
-    common_name: slow loris
-    genome_size: 3501000000
-    genome_size_method: GoAT
-    order:
-      name: Primates
-    family:
-      name: Lorisidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Nycticebus&nbsp;coucang<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mNycCou1<br>&nbsp;&nbsp;short_name:&nbsp;mNycCou<br>&nbsp;&nbsp;taxon_id:&nbsp;9470<br>&nbsp;&nbsp;common_name:&nbsp;slow&nbsp;loris<br>&nbsp;&nbsp;genome_size:&nbsp;3501000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lorisidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2022-06-15
 mito1filesize: 5.0 KiB
 mito1length: '16752'

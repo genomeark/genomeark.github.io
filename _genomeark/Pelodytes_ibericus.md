@@ -100,22 +100,7 @@ hpb1version: assembly_curated
 last_raw_data: 1680695760
 last_updated: 1681495825
 mds:
-- data: |
-    species: Pelodytes ibericus
-    specimen: aPelIbe1
-    projects:
-      - vgp
-    hap1: s3://genomeark/species/Pelodytes_ibericus/aPelIbe1/assembly_vgp_HiC_2.0/aPelIbe1.HiC.hap1.20230308.fasta.gz
-    hap2: s3://genomeark/species/Pelodytes_ibericus/aPelIbe1/assembly_vgp_HiC_2.0/aPelIbe1.HiC.hap2.20230308.fasta.gz
-    pctg: s3://genomeark/species/Pelodytes_ibericus/aPelIbe1/assembly_vgp_HiC_2.0/aPelIbe1.HiC.pctg.20230308.fasta.gz
-    mito: s3://genomeark/species/Pelodytes_ibericus/aPelIbe1/assembly_vgp_HiC_2.0/aPelIbe1.mito.20230308.fasta.gz
-    pipeline:
-      - deepconsensus (1.1)
-      - hifiasm (0.18.7-r519)
-      - purge_dups (1.2.5)
-      - yahs (1.2a.2)
-      - deepVariant polishing (1.4)
-      - MitoHiFi (3.0.0)
+- data: species:&nbsp;Pelodytes&nbsp;ibericus<br>specimen:&nbsp;aPelIbe1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Pelodytes_ibericus/aPelIbe1/assembly_vgp_HiC_2.0/aPelIbe1.HiC.hap1.20230308.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Pelodytes_ibericus/aPelIbe1/assembly_vgp_HiC_2.0/aPelIbe1.HiC.hap2.20230308.fasta.gz<br>pctg:&nbsp;s3://genomeark/species/Pelodytes_ibericus/aPelIbe1/assembly_vgp_HiC_2.0/aPelIbe1.HiC.pctg.20230308.fasta.gz<br>mito:&nbsp;s3://genomeark/species/Pelodytes_ibericus/aPelIbe1/assembly_vgp_HiC_2.0/aPelIbe1.mito.20230308.fasta.gz<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;deepconsensus&nbsp;(1.1)<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.7-r519)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2)<br>&nbsp;&nbsp;-&nbsp;deepVariant&nbsp;polishing&nbsp;(1.4)<br>&nbsp;&nbsp;-&nbsp;MitoHiFi&nbsp;(3.0.0)<br>
   ident: md8
   title: assembly_vgp_HiC_2.0/aPelIbe1.yaml
 mito1date: 2023-03-08

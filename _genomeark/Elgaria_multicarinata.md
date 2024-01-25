@@ -63,16 +63,7 @@ genome_size_method: ''
 last_raw_data: 1686603490
 last_updated: 1689984588
 mds:
-- data: "species: Elgaria multicarinata\nspecimen: rElgMul1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nprimary: s3://genomeark/species/Elgaria_multicarinata/rElgMul1/assembly_CCGP_standard/rElgMul1.pri.asm.20220419.fasta.gz\nhaplotigs:
-    s3://genomeark/species/Elgaria_multicarinata/rElgMul1/assembly_CCGP_standard/rElgMul1.alt.asm.20220419.fasta.gz\npretext:
-    s3://genomeark/species/Elgaria_multicarinata/rElgMul1/assembly_CCGP_standard/evaluation/pretext/rElgMul1.pri.asm.20220419.pretext\nmito:
-    s3://genomeark/species/Elgaria_multicarinata/rElgMul1/assembly_MT_rockefeller/rElgMul1.MT.20230615.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Elgaria_multicarinata/rElgMul1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Elgaria_multicarinata/rElgMul1/genomic_data/dovetail/\npipeline:\n
-    \ - hifiasm\n  - purge_dups\n  - SALSA2\nassembled_by_group: CCGP\nnotes: This
-    was a primary assemblhy of rElgMul1 produced by CCGP, assembled by Merly Escalona.
-    This is a Phase 1 sample that we are submitting for a curation."
+- data: species:&nbsp;Elgaria&nbsp;multicarinata<br>specimen:&nbsp;rElgMul1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Elgaria_multicarinata/rElgMul1/assembly_CCGP_standard/rElgMul1.pri.asm.20220419.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Elgaria_multicarinata/rElgMul1/assembly_CCGP_standard/rElgMul1.alt.asm.20220419.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Elgaria_multicarinata/rElgMul1/assembly_CCGP_standard/evaluation/pretext/rElgMul1.pri.asm.20220419.pretext<br>mito:&nbsp;s3://genomeark/species/Elgaria_multicarinata/rElgMul1/assembly_MT_rockefeller/rElgMul1.MT.20230615.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Elgaria_multicarinata/rElgMul1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Elgaria_multicarinata/rElgMul1/genomic_data/dovetail/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm<br>&nbsp;&nbsp;-&nbsp;purge_dups<br>&nbsp;&nbsp;-&nbsp;SALSA2<br>assembled_by_group:&nbsp;CCGP<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary&nbsp;assemblhy&nbsp;of&nbsp;rElgMul1&nbsp;produced&nbsp;by&nbsp;CCGP,&nbsp;assembled&nbsp;by&nbsp;Merly&nbsp;Escalona.&nbsp;This&nbsp;is&nbsp;a&nbsp;Phase&nbsp;1&nbsp;sample&nbsp;that&nbsp;we&nbsp;are&nbsp;submitting&nbsp;for&nbsp;a&nbsp;curation.
   ident: md2
   title: assembly_CCGP_standard/rElgMul1.yml
 mito1date: 2023-06-15

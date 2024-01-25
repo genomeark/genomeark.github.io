@@ -83,10 +83,7 @@ genome_size_display: 1.11 Gbp
 genome_size_method: Genomescope
 last_raw_data: 1570431279
 last_updated: 1579625496
-metadata: "species:\n  short_name: fEsoLuc\n  name: Esox lucius \n  taxon_id: 8010\n
-  \ common_name: northern pike\n  order:\n    name: Esociformes \n  family:\n    name:
-  Esocidae\n  individuals:\n    - short_name: fEsoLuc1\n  genome_size: 1105706148\n
-  \ genome_size_method: Genomescope\n  project: [ vgp ]\n"
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fEsoLuc<br>&nbsp;&nbsp;name:&nbsp;Esox&nbsp;lucius&nbsp;<br>&nbsp;&nbsp;taxon_id:&nbsp;8010<br>&nbsp;&nbsp;common_name:&nbsp;northern&nbsp;pike<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Esociformes&nbsp;<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Esocidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fEsoLuc1<br>&nbsp;&nbsp;genome_size:&nbsp;1105706148<br>&nbsp;&nbsp;genome_size_method:&nbsp;Genomescope<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-02
 mito1filesize: 5.0 KiB
 mito1length: '17081'

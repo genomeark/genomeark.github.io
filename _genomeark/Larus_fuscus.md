@@ -60,23 +60,7 @@ genome_size_display: 1.43 Gbp
 genome_size_method: GoaT
 last_raw_data: 1703330451
 last_updated: 1703369794
-metadata: |
-  species:
-    short_name: bLarFus
-    name: Larus fuscus
-    taxon_id: 8915
-    common_name: Lesser black-backed gull
-    order:
-      name: Charadriiformes
-    family:
-      name: Laridae
-    individuals:
-      - short_name: bLarFus1
-        biosample_id: SAMEA112468039
-        sex: female
-    genome_size: 1432770000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bLarFus<br>&nbsp;&nbsp;name:&nbsp;Larus&nbsp;fuscus<br>&nbsp;&nbsp;taxon_id:&nbsp;8915<br>&nbsp;&nbsp;common_name:&nbsp;Lesser&nbsp;black-backed&nbsp;gull<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Laridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bLarFus1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468039<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1432770000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-12-23
 mito1filesize: 5.4 KiB
 mito1length: '16750'

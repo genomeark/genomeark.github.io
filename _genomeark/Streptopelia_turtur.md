@@ -83,21 +83,7 @@ genome_size_display: 1.18 Gbp
 genome_size_method: ''
 last_raw_data: 1548798897
 last_updated: 1559462111
-metadata: |
-  species:
-    short_name: bStrTur
-    name: Streptopelia turtur
-    taxon_id: 177155
-    common_name: turtle dove
-    order:
-      name: Columbiformes
-    family:
-      name: Columbidae
-    individuals:
-      - short_name: bStrTur1
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bStrTur<br>&nbsp;&nbsp;name:&nbsp;Streptopelia&nbsp;turtur<br>&nbsp;&nbsp;taxon_id:&nbsp;177155<br>&nbsp;&nbsp;common_name:&nbsp;turtle&nbsp;dove<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Columbiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Columbidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bStrTur1<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Streptopelia turtur
 name_: Streptopelia_turtur
 pri1date: 2019-05-23

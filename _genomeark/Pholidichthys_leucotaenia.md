@@ -83,10 +83,7 @@ genome_size_display: 6.03 Gbp
 genome_size_method: ''
 last_raw_data: 1600353917
 last_updated: 1626466846
-metadata: "species:\n  short_name: fPhoLeu\n  name: Pholidichthys leucotaenia\n  taxon_id:
-  390368\n  common_name: Convict blenny \n  order:\n    name: Cichliformes\n  family:\n
-  \   name: Pholidichthyidae\n  individuals:\n    - short_name: fPhoLeu1\n  project:
-  [ vgp ]\n"
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fPhoLeu<br>&nbsp;&nbsp;name:&nbsp;Pholidichthys&nbsp;leucotaenia<br>&nbsp;&nbsp;taxon_id:&nbsp;390368<br>&nbsp;&nbsp;common_name:&nbsp;Convict&nbsp;blenny&nbsp;<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cichliformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pholidichthyidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fPhoLeu1<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Pholidichthys leucotaenia
 name_: Pholidichthys_leucotaenia
 pri1date: 2021-07-16

@@ -73,23 +73,7 @@ genome_size_display: 2.82 Gbp
 genome_size_method: ''
 last_raw_data: 1565307258
 last_updated: 1576534343
-metadata: |
-  species:
-    short_name: mSciCar
-    name: Sciurus carolinensis
-    taxon_id: 30640
-    common_name: grey squirrel
-    order:
-      name: Rodentia
-    family:
-      name: Sciuridae
-    individuals:
-      - short_name: mSciCar1
-        biosample_id: SAMEA994726
-        sex: male
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mSciCar<br>&nbsp;&nbsp;name:&nbsp;Sciurus&nbsp;carolinensis<br>&nbsp;&nbsp;taxon_id:&nbsp;30640<br>&nbsp;&nbsp;common_name:&nbsp;grey&nbsp;squirrel<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Sciuridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mSciCar1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA994726<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-12-16
 mito1filesize: 4.9 KiB
 mito1length: '16533'

@@ -100,46 +100,10 @@ hpb1version: assembly_curated
 last_raw_data: 1674520386
 last_updated: 1693342684
 mds:
-- data: "species: Opisthocomus hoazin\nspecimen: bOpiHoa1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/bOpiHoa1.HiC.hap1.20230227.fasta.gz\nhap2:
-    s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/bOpiHoa1.HiC.hap2.20230227.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bOpiHoa1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bOpiHoa1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/merqury/bOpiHoa1_png/\nmito:
-    s3://genomeark/working/temp_mitos/bOpiHoa1_mitohifi_final.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group: Rockefeller\nnotes:
-    This was a hifiasm-HiC assembly of bOpiHoa1, resulting in two complete haplotypes.
-    This individual did not have bionano data. HiC scaffolding was performed with
-    yahs. The HiC prep was Arima kit 2. The kmer spectra indicates a heterogametic
-    specimen, so we are submitting both haplotypes as tickets, in case the sex chromosomes
-    need to be fished out between the haplotypes. This is the curation ticket for
-    hap1. MitoHiFi was run on the raw reads, and the resulting mitogenome is included
-    in this ticket for help with mitochondrial decontam, but the final mitogenome
-    we upload may differ as we want to verify the presence of a large repeat in the
-    mito assembly."
+- data: species:&nbsp;Opisthocomus&nbsp;hoazin<br>specimen:&nbsp;bOpiHoa1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/bOpiHoa1.HiC.hap1.20230227.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/bOpiHoa1.HiC.hap2.20230227.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bOpiHoa1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bOpiHoa1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/merqury/bOpiHoa1_png/<br>mito:&nbsp;s3://genomeark/working/temp_mitos/bOpiHoa1_mitohifi_final.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bOpiHoa1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;heterogametic&nbsp;specimen,&nbsp;so&nbsp;we&nbsp;are&nbsp;submitting&nbsp;both&nbsp;haplotypes&nbsp;as&nbsp;tickets,&nbsp;in&nbsp;case&nbsp;the&nbsp;sex&nbsp;chromosomes&nbsp;need&nbsp;to&nbsp;be&nbsp;fished&nbsp;out&nbsp;between&nbsp;the&nbsp;haplotypes.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;MitoHiFi&nbsp;was&nbsp;run&nbsp;on&nbsp;the&nbsp;raw&nbsp;reads,&nbsp;and&nbsp;the&nbsp;resulting&nbsp;mitogenome&nbsp;is&nbsp;included&nbsp;in&nbsp;this&nbsp;ticket&nbsp;for&nbsp;help&nbsp;with&nbsp;mitochondrial&nbsp;decontam,&nbsp;but&nbsp;the&nbsp;final&nbsp;mitogenome&nbsp;we&nbsp;upload&nbsp;may&nbsp;differ&nbsp;as&nbsp;we&nbsp;want&nbsp;to&nbsp;verify&nbsp;the&nbsp;presence&nbsp;of&nbsp;a&nbsp;large&nbsp;repeat&nbsp;in&nbsp;the&nbsp;mito&nbsp;assembly.
   ident: md9
   title: assembly_vgp_HiC_2.0/bOpiHoa1_hap1.yml
-- data: "species: Opisthocomus hoazin\nspecimen: bOpiHoa1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/bOpiHoa1.HiC.hap1.20230227.fasta.gz\nhap2:
-    s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/bOpiHoa1.HiC.hap2.20230227.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bOpiHoa1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bOpiHoa1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/merqury/bOpiHoa1_png/\nmito:
-    s3://genomeark/working/temp_mitos/bOpiHoa1_mitohifi_final.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy4)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group: Rockefeller\nnotes:
-    This was a hifiasm-HiC assembly of bOpiHoa1, resulting in two complete haplotypes.
-    This individual did not have bionano data. HiC scaffolding was performed with
-    yahs. The HiC prep was Arima kit 2. The kmer spectra indicates a heterogametic
-    specimen, so we are submitting both haplotypes as tickets, in case the sex chromosomes
-    need to be fished out between the haplotypes. This is the curation ticket for
-    hap2. MitoHiFi was run on the raw reads, and the resulting mitogenome is included
-    in this ticket for help with mitochondrial decontam, but the final mitogenome
-    we upload may differ as we want to verify the presence of a large repeat in the
-    mito assembly."
+- data: species:&nbsp;Opisthocomus&nbsp;hoazin<br>specimen:&nbsp;bOpiHoa1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/bOpiHoa1.HiC.hap1.20230227.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/bOpiHoa1.HiC.hap2.20230227.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bOpiHoa1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bOpiHoa1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/merqury/bOpiHoa1_png/<br>mito:&nbsp;s3://genomeark/working/temp_mitos/bOpiHoa1_mitohifi_final.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bOpiHoa1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;heterogametic&nbsp;specimen,&nbsp;so&nbsp;we&nbsp;are&nbsp;submitting&nbsp;both&nbsp;haplotypes&nbsp;as&nbsp;tickets,&nbsp;in&nbsp;case&nbsp;the&nbsp;sex&nbsp;chromosomes&nbsp;need&nbsp;to&nbsp;be&nbsp;fished&nbsp;out&nbsp;between&nbsp;the&nbsp;haplotypes.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap2.&nbsp;MitoHiFi&nbsp;was&nbsp;run&nbsp;on&nbsp;the&nbsp;raw&nbsp;reads,&nbsp;and&nbsp;the&nbsp;resulting&nbsp;mitogenome&nbsp;is&nbsp;included&nbsp;in&nbsp;this&nbsp;ticket&nbsp;for&nbsp;help&nbsp;with&nbsp;mitochondrial&nbsp;decontam,&nbsp;but&nbsp;the&nbsp;final&nbsp;mitogenome&nbsp;we&nbsp;upload&nbsp;may&nbsp;differ&nbsp;as&nbsp;we&nbsp;want&nbsp;to&nbsp;verify&nbsp;the&nbsp;presence&nbsp;of&nbsp;a&nbsp;large&nbsp;repeat&nbsp;in&nbsp;the&nbsp;mito&nbsp;assembly.
   ident: md10
   title: assembly_vgp_HiC_2.0/bOpiHoa1_hap2.yml
 mito1date: 2023-08-29

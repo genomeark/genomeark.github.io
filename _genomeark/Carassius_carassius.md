@@ -60,23 +60,7 @@ genome_size_display: 1.97 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687194698
 last_updated: 1691620276
-metadata: |
-  species:
-    short_name: fCarCar
-    name: Carassius carassius
-    taxon_id: 217509
-    common_name: crucian carp
-    order:
-      name: Cypriniformes
-    family:
-      name: Cyprinidae
-    individuals:
-      - short_name: fCarCar2
-        biosample_id: SAMEA11296534
-        sex: female
-    genome_size: 1965780000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fCarCar<br>&nbsp;&nbsp;name:&nbsp;Carassius&nbsp;carassius<br>&nbsp;&nbsp;taxon_id:&nbsp;217509<br>&nbsp;&nbsp;common_name:&nbsp;crucian&nbsp;carp<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cypriniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyprinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCarCar2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA11296534<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1965780000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-05-10
 mito2filesize: 5.3 KiB
 mito2length: '16603'

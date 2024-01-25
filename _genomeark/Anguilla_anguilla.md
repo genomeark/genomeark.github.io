@@ -83,21 +83,7 @@ genome_size_display: 1.36 Gbp
 genome_size_method: meryl
 last_raw_data: 1568710462
 last_updated: 1581331843
-metadata: |
-  species:
-    short_name: fAngAng
-    name: Anguilla anguilla
-    taxon_id: 7936
-    common_name: European eel
-    order:
-      name: Anguilliformes
-    family:
-      name: Anguillidae
-    individuals:
-      - short_name: fAngAng1
-    genome_size: 1355153153
-    genome_size_method: meryl
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fAngAng<br>&nbsp;&nbsp;name:&nbsp;Anguilla&nbsp;anguilla<br>&nbsp;&nbsp;taxon_id:&nbsp;7936<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;eel<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anguilliformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anguillidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fAngAng1<br>&nbsp;&nbsp;genome_size:&nbsp;1355153153<br>&nbsp;&nbsp;genome_size_method:&nbsp;meryl<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Anguilla anguilla
 name_: Anguilla_anguilla
 pri1date: 2020-02-04

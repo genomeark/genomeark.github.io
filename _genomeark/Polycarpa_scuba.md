@@ -31,23 +31,7 @@ genome_size_display: 0.72 Gbp
 genome_size_method: GoaT
 last_raw_data: 1693577853
 last_updated: 1693577853
-metadata: |
-  species:
-    short_name: kaPolScub
-    name: Polycarpa scuba
-    taxon_id: 2980199
-    common_name: Bicolour sea squirt
-    order:
-      name: Stolidobranchia
-    family:
-      name: Styelidae
-    individuals:
-      - short_name: kaPolScub1
-        biosample_id: SAMEA112789122
-        sex:
-    genome_size: 723720000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;kaPolScub<br>&nbsp;&nbsp;name:&nbsp;Polycarpa&nbsp;scuba<br>&nbsp;&nbsp;taxon_id:&nbsp;2980199<br>&nbsp;&nbsp;common_name:&nbsp;Bicolour&nbsp;sea&nbsp;squirt<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Stolidobranchia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Styelidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;kaPolScub1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112789122<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;723720000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Polycarpa scuba
 name_: Polycarpa_scuba
 project:

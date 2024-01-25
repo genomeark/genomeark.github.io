@@ -31,23 +31,7 @@ genome_size_display: 0.93 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678364858
 last_updated: 1678364858
-metadata: |
-  species:
-    short_name: fPomMic
-    name: Pomatoschistus microps
-    taxon_id: 225753
-    common_name: common goby
-    order:
-      name: Perciformes
-    family:
-      name: Gobiidae
-    individuals:
-      - short_name: fPomMic3
-        biosample_id: SAMEA12231814
-        sex:
-    genome_size: 933990000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fPomMic<br>&nbsp;&nbsp;name:&nbsp;Pomatoschistus&nbsp;microps<br>&nbsp;&nbsp;taxon_id:&nbsp;225753<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;goby<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gobiidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fPomMic3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12231814<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;933990000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Pomatoschistus microps
 name_: Pomatoschistus_microps
 project:

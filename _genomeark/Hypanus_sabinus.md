@@ -91,35 +91,10 @@ hpb1version: assembly_curated
 last_raw_data: 1653684112
 last_updated: 1682430314
 mds:
-- data: "species: Hypanus sabinus\nspecimen: sHypSab1\nprojects:\n  - vgp\nhap1: s3://genomeark/species/species/Hypanus_sabinus/sHypSab1/assembly_vgp_HiC_2.0/sHypSab1.HiC.hap1.20220617.fasta.gz\nhap2:
-    s3://genomeark/species/species/Hypanus_sabinus/sHypSab1/assembly_vgp_HiC_2.0/sHypSab1.HiC.hap2.20220617.fasta.gz\nhap1_pretext:
-    s3://genomeark/species/Hypanus_sabinus/sHypSab1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/sHypSab1_hap1__s2_heatmap.pretext\nhap2_pretext:
-    s3://genomeark/species/Hypanus_sabinus/sHypSab1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/sHypSab1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Hypanus_sabinus/sHypSab1/assembly_vgp_HiC_2.0/evaluation/merqury/sHypSab1_png/\npacbio_read_dir:
-    s3://genomeark/species/Hypanus_sabinus/sHypSab1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Hypanus_sabinus/sHypSab1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy2)\n  - yahs (1.2a+galaxy1)\nassembled_by_group: Rockefeller\nnotes:
-    This individual did not have bionano data. This assembly was done with Hifiasm-HiC
-    mode, resulting in two complete haplotypes. Kmer spectra probably indicate a heterogametic
-    specimen, likely will need fishing for the sex chromosomes between the two haplotypes,
-    hence submitting both haplotypes.  \n"
+- data: species:&nbsp;Hypanus&nbsp;sabinus<br>specimen:&nbsp;sHypSab1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/species/Hypanus_sabinus/sHypSab1/assembly_vgp_HiC_2.0/sHypSab1.HiC.hap1.20220617.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/species/Hypanus_sabinus/sHypSab1/assembly_vgp_HiC_2.0/sHypSab1.HiC.hap2.20220617.fasta.gz<br>hap1_pretext:&nbsp;s3://genomeark/species/Hypanus_sabinus/sHypSab1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/sHypSab1_hap1__s2_heatmap.pretext<br>hap2_pretext:&nbsp;s3://genomeark/species/Hypanus_sabinus/sHypSab1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/sHypSab1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Hypanus_sabinus/sHypSab1/assembly_vgp_HiC_2.0/evaluation/merqury/sHypSab1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Hypanus_sabinus/sHypSab1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Hypanus_sabinus/sHypSab1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;This&nbsp;assembly&nbsp;was&nbsp;done&nbsp;with&nbsp;Hifiasm-HiC&nbsp;mode,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;Kmer&nbsp;spectra&nbsp;probably&nbsp;indicate&nbsp;a&nbsp;heterogametic&nbsp;specimen,&nbsp;likely&nbsp;will&nbsp;need&nbsp;fishing&nbsp;for&nbsp;the&nbsp;sex&nbsp;chromosomes&nbsp;between&nbsp;the&nbsp;two&nbsp;haplotypes,&nbsp;hence&nbsp;submitting&nbsp;both&nbsp;haplotypes.&nbsp;&nbsp;<br>
   ident: md9
   title: assembly_vgp_HiC_2.0/sHypSab1.yaml
-metadata: |
-  species:
-    name: Hypanus sabinus
-    individuals:
-    - short_name: sHypSab1
-    short_name: sHypSab
-    taxon_id: 79690
-    common_name: Atlantic stingray
-    genome_size: 4108000000
-    genome_size_method: GoAT
-    order:
-      name: Myliobatiformes
-    family:
-      name: Dasyatidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Hypanus&nbsp;sabinus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sHypSab1<br>&nbsp;&nbsp;short_name:&nbsp;sHypSab<br>&nbsp;&nbsp;taxon_id:&nbsp;79690<br>&nbsp;&nbsp;common_name:&nbsp;Atlantic&nbsp;stingray<br>&nbsp;&nbsp;genome_size:&nbsp;4108000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myliobatiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Dasyatidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Hypanus sabinus
 name_: Hypanus_sabinus
 project:

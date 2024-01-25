@@ -100,105 +100,16 @@ mat1sizes: |
   </table>
 mat1version: assembly_curated
 mds:
-- data: |
-    samples:
-    - biomaterial_provider: "Burwood Takah\u0113 Centre (New Zealand)"
-      bioproject_accession: PRJNA516733
-      birth_date: ''
-      birth_location: ''
-      breed: ''
-      collected_by: Glen Greaves
-      collection_date: 02/13/2020
-      common_name: South_Island_takahe
-      description: Offspring- "Kohika"
-      dev_stage: juvenile
-      geo_loc_name: Te Anau, New Zealand
-      isolate: bPorHoc1
-      lat_lon: 45.41 S, 167.71 E
-      organism: Porphyrio hochstetteri
-      sex: female
-      specimen_voucher: ''
-      store_cond: -80C
-      taxon_Id: '439704'
-      tissue: Whole blood
-      treatment: 99% ethanol, frozen
-      tube_id: bPorHoc1
+- data: samples:<br>-&nbsp;biomaterial_provider:&nbsp;"Burwood&nbsp;Takah\u0113&nbsp;Centre&nbsp;(New&nbsp;Zealand)"<br>&nbsp;&nbsp;bioproject_accession:&nbsp;PRJNA516733<br>&nbsp;&nbsp;birth_date:&nbsp;''<br>&nbsp;&nbsp;birth_location:&nbsp;''<br>&nbsp;&nbsp;breed:&nbsp;''<br>&nbsp;&nbsp;collected_by:&nbsp;Glen&nbsp;Greaves<br>&nbsp;&nbsp;collection_date:&nbsp;02/13/2020<br>&nbsp;&nbsp;common_name:&nbsp;South_Island_takahe<br>&nbsp;&nbsp;description:&nbsp;Offspring-&nbsp;"Kohika"<br>&nbsp;&nbsp;dev_stage:&nbsp;juvenile<br>&nbsp;&nbsp;geo_loc_name:&nbsp;Te&nbsp;Anau,&nbsp;New&nbsp;Zealand<br>&nbsp;&nbsp;isolate:&nbsp;bPorHoc1<br>&nbsp;&nbsp;lat_lon:&nbsp;45.41&nbsp;S,&nbsp;167.71&nbsp;E<br>&nbsp;&nbsp;organism:&nbsp;Porphyrio&nbsp;hochstetteri<br>&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;specimen_voucher:&nbsp;''<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'439704'<br>&nbsp;&nbsp;tissue:&nbsp;Whole&nbsp;blood<br>&nbsp;&nbsp;treatment:&nbsp;99%&nbsp;ethanol,&nbsp;frozen<br>&nbsp;&nbsp;tube_id:&nbsp;bPorHoc1<br>
   ident: md6
   title: bPorHoc1_metadata.yml
-- data: |
-    samples:
-    - biomaterial_provider: "Burwood Takah\u0113 Centre (New Zealand)"
-      bioproject_accession: PRJNA516733
-      birth_date: ''
-      birth_location: ''
-      breed: ''
-      collected_by: Glen Greaves
-      collection_date: 02/13/2020
-      common_name: South_Island_takahe
-      description: mother of bPorHoc1
-      dev_stage: adult
-      geo_loc_name: Te Anau, New Zealand
-      isolate: bPorHoc2
-      lat_lon: 45.41 S, 167.71 E
-      organism: Porphyrio hochstetteri
-      sex: female
-      specimen_voucher: ''
-      store_cond: -80C
-      taxon_Id: '439704'
-      tissue: Whole blood
-      treatment: 99% ethanol, frozen
-      tube_id: bPorHoc2
+- data: samples:<br>-&nbsp;biomaterial_provider:&nbsp;"Burwood&nbsp;Takah\u0113&nbsp;Centre&nbsp;(New&nbsp;Zealand)"<br>&nbsp;&nbsp;bioproject_accession:&nbsp;PRJNA516733<br>&nbsp;&nbsp;birth_date:&nbsp;''<br>&nbsp;&nbsp;birth_location:&nbsp;''<br>&nbsp;&nbsp;breed:&nbsp;''<br>&nbsp;&nbsp;collected_by:&nbsp;Glen&nbsp;Greaves<br>&nbsp;&nbsp;collection_date:&nbsp;02/13/2020<br>&nbsp;&nbsp;common_name:&nbsp;South_Island_takahe<br>&nbsp;&nbsp;description:&nbsp;mother&nbsp;of&nbsp;bPorHoc1<br>&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;geo_loc_name:&nbsp;Te&nbsp;Anau,&nbsp;New&nbsp;Zealand<br>&nbsp;&nbsp;isolate:&nbsp;bPorHoc2<br>&nbsp;&nbsp;lat_lon:&nbsp;45.41&nbsp;S,&nbsp;167.71&nbsp;E<br>&nbsp;&nbsp;organism:&nbsp;Porphyrio&nbsp;hochstetteri<br>&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;specimen_voucher:&nbsp;''<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'439704'<br>&nbsp;&nbsp;tissue:&nbsp;Whole&nbsp;blood<br>&nbsp;&nbsp;treatment:&nbsp;99%&nbsp;ethanol,&nbsp;frozen<br>&nbsp;&nbsp;tube_id:&nbsp;bPorHoc2<br>
   ident: md27
   title: bPorHoc2_metadata.yml
-- data: |
-    samples:
-    - biomaterial_provider: "Burwood Takah\u0113 Centre (New Zealand)"
-      bioproject_accession: PRJNA516733
-      birth_date: ''
-      birth_location: ''
-      breed: ''
-      collected_by: Glen Greaves
-      collection_date: 02/13/2020
-      common_name: South_Island_takahe
-      description: father of bPorHoc1
-      dev_stage: adult
-      geo_loc_name: Te Anau, New Zealand
-      isolate: bPorHoc3
-      lat_lon: 45.41 S, 167.71 E
-      organism: Porphyrio hochstetteri
-      sex: male
-      specimen_voucher: ''
-      store_cond: -80C
-      taxon_Id: '439704'
-      tissue: Whole blood
-      treatment: 99% ethanol, frozen
-      tube_id: bPorHoc3
+- data: samples:<br>-&nbsp;biomaterial_provider:&nbsp;"Burwood&nbsp;Takah\u0113&nbsp;Centre&nbsp;(New&nbsp;Zealand)"<br>&nbsp;&nbsp;bioproject_accession:&nbsp;PRJNA516733<br>&nbsp;&nbsp;birth_date:&nbsp;''<br>&nbsp;&nbsp;birth_location:&nbsp;''<br>&nbsp;&nbsp;breed:&nbsp;''<br>&nbsp;&nbsp;collected_by:&nbsp;Glen&nbsp;Greaves<br>&nbsp;&nbsp;collection_date:&nbsp;02/13/2020<br>&nbsp;&nbsp;common_name:&nbsp;South_Island_takahe<br>&nbsp;&nbsp;description:&nbsp;father&nbsp;of&nbsp;bPorHoc1<br>&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;geo_loc_name:&nbsp;Te&nbsp;Anau,&nbsp;New&nbsp;Zealand<br>&nbsp;&nbsp;isolate:&nbsp;bPorHoc3<br>&nbsp;&nbsp;lat_lon:&nbsp;45.41&nbsp;S,&nbsp;167.71&nbsp;E<br>&nbsp;&nbsp;organism:&nbsp;Porphyrio&nbsp;hochstetteri<br>&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;specimen_voucher:&nbsp;''<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'439704'<br>&nbsp;&nbsp;tissue:&nbsp;Whole&nbsp;blood<br>&nbsp;&nbsp;treatment:&nbsp;99%&nbsp;ethanol,&nbsp;frozen<br>&nbsp;&nbsp;tube_id:&nbsp;bPorHoc3<br>
   ident: md30
   title: bPorHoc3_metadata.yml
-metadata: |
-  species:
-    short_name: bPorHoc
-    name: Porphyrio hochstetteri
-    taxon_id: 439704
-    common_name: South Island takahe
-    order:
-      name: Gruiformes
-    family:
-      name: Rallidae
-    individuals:
-      - short_name: bPorHoc1
-        provider: Glen Greaves, Lara Urban
-        mother: bPorHoc2
-        father: bPorHoc3
-      - short_name: bPorHoc2
-        sex: female
-        provider: Glen Greaves, Lara Urban
-      - short_name: bPorHoc3
-        sex: male
-        provider: Glen Greaves, Lara Urban
-    genome_size: 1200000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bPorHoc<br>&nbsp;&nbsp;name:&nbsp;Porphyrio&nbsp;hochstetteri<br>&nbsp;&nbsp;taxon_id:&nbsp;439704<br>&nbsp;&nbsp;common_name:&nbsp;South&nbsp;Island&nbsp;takahe<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gruiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rallidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPorHoc1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Glen&nbsp;Greaves,&nbsp;Lara&nbsp;Urban<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;bPorHoc2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;bPorHoc3<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPorHoc2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Glen&nbsp;Greaves,&nbsp;Lara&nbsp;Urban<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPorHoc3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Glen&nbsp;Greaves,&nbsp;Lara&nbsp;Urban<br>&nbsp;&nbsp;genome_size:&nbsp;1200000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mgd1date: 2021-07-20
 mgd1filesize: 358.2 MiB
 mgd1length: '1270322674'

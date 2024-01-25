@@ -83,21 +83,7 @@ genome_size_display: 4.02 Gbp
 genome_size_method: GoAT
 last_raw_data: 1567182765
 last_updated: 1653624324
-metadata: |
-  species:
-    name: Tamandua tetradactyla
-    individuals:
-    - short_name: mTamTet1
-    short_name: mTamTet
-    taxon_id: 48850
-    common_name: southern tamandua
-    genome_size: 4020000000
-    genome_size_method: GoAT
-    order:
-      name: Pilosa
-    family:
-      name: Myrmecophagidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Tamandua&nbsp;tetradactyla<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mTamTet1<br>&nbsp;&nbsp;short_name:&nbsp;mTamTet<br>&nbsp;&nbsp;taxon_id:&nbsp;48850<br>&nbsp;&nbsp;common_name:&nbsp;southern&nbsp;tamandua<br>&nbsp;&nbsp;genome_size:&nbsp;4020000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pilosa<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myrmecophagidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2022-02-03
 mito1filesize: 4.8 KiB
 mito1length: '16394'

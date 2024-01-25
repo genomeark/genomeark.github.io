@@ -83,23 +83,7 @@ genome_size_display: 0.78 Gbp
 genome_size_method: ''
 last_raw_data: 1547566320
 last_updated: 1554196395
-metadata: |
-  species:
-    short_name: fSclFor
-    name: Scleropages formosus
-    taxon_id: 113540
-    common_name: golden arowana
-    order:
-      name: Osteoglossiformes
-    family:
-      name: Osteoglossidae
-    individuals:
-      - short_name: fSclFor1
-        biosample_id: SAMEA4872123
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fSclFor<br>&nbsp;&nbsp;name:&nbsp;Scleropages&nbsp;formosus<br>&nbsp;&nbsp;taxon_id:&nbsp;113540<br>&nbsp;&nbsp;common_name:&nbsp;golden&nbsp;arowana<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Osteoglossiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Osteoglossidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fSclFor1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA4872123<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Scleropages formosus
 name_: Scleropages_formosus
 pri1date: 2019-04-01

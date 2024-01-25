@@ -91,40 +91,10 @@ genome_size_method: GoaT ancestral inferred
 last_raw_data: 1651606598
 last_updated: 1655490293
 mds:
-- data: |-
-    species: Acridotheres tristis
-    specimen: bAcrTri1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/assembly_vgp_standard_2.0/bAcrTri1.pri.asm.20220117.fasta.gz
-    haplotigs: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/assembly_vgp_standard_2.0/bAcrTri1.alt.asm.20220117.fasta.gz
-    hic_bam: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bAcrTri1_s2.bam
-    pretext: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bAcrTri1_heatmap.pretext
-    kmer_spectra_img: s3://genomeark/species/Acridotheres_tristis/bAcrTri1/assembly_vgp_standard_2.0/evaluation/merqury/p/bAcrTri1_png/
-    pipeline:
-      - hifiasm (0.15.4+galaxy0)
-      - purge_dups (1.2.5+galaxy3)
-      - solve (3.7.0+galaxy0)
-      - salsa (2.3+galaxy2)
+- data: species:&nbsp;Acridotheres&nbsp;tristis<br>specimen:&nbsp;bAcrTri1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Acridotheres_tristis/bAcrTri1/assembly_vgp_standard_2.0/bAcrTri1.pri.asm.20220117.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Acridotheres_tristis/bAcrTri1/assembly_vgp_standard_2.0/bAcrTri1.alt.asm.20220117.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Acridotheres_tristis/bAcrTri1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bAcrTri1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Acridotheres_tristis/bAcrTri1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bAcrTri1_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Acridotheres_tristis/bAcrTri1/assembly_vgp_standard_2.0/evaluation/merqury/p/bAcrTri1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)
   ident: md5
   title: assembly_vgp_standard_2.0/bAcrTri1.yaml
-metadata: |
-  species:
-    short_name: bAcrTrip
-    name: Acridotheres tristis
-    taxon_id: 279927
-    common_name: common_myna
-    order:
-      name: Passeriformes
-    family:
-      name: Sturnidae
-    individuals:
-      - short_name: bAcrTri1
-        provider: Tali Magory Cohen
-        sex: female
-    genome_size: 1280000000
-    genome_size_method: GoaT ancestral inferred
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bAcrTrip<br>&nbsp;&nbsp;name:&nbsp;Acridotheres&nbsp;tristis<br>&nbsp;&nbsp;taxon_id:&nbsp;279927<br>&nbsp;&nbsp;common_name:&nbsp;common_myna<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Sturnidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAcrTri1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Tali&nbsp;Magory&nbsp;Cohen<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1280000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;ancestral&nbsp;inferred<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Acridotheres tristis
 name_: Acridotheres_tristis
 pri1date: 2022-03-18

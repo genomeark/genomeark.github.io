@@ -83,21 +83,7 @@ genome_size_display: 3.00 Gbp
 genome_size_method: ''
 last_raw_data: 1558101664
 last_updated: 1581069403
-metadata: |
-  species:
-    common_name: common brushtail possum
-    family:
-      name: Phalangeridae
-    genome_size: 3000000000
-    genome_size_method: null
-    individuals:
-    - short_name: mTriVul1
-    name: Trichosurus vulpecula
-    order:
-      name: Diprotodontia
-    short_name: mTriVul
-    taxon_id: 9337
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;brushtail&nbsp;possum<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phalangeridae<br>&nbsp;&nbsp;genome_size:&nbsp;3000000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mTriVul1<br>&nbsp;&nbsp;name:&nbsp;Trichosurus&nbsp;vulpecula<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Diprotodontia<br>&nbsp;&nbsp;short_name:&nbsp;mTriVul<br>&nbsp;&nbsp;taxon_id:&nbsp;9337<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-04
 mito1filesize: 5.0 KiB
 mito1length: '17277'

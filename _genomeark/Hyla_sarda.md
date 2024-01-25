@@ -130,19 +130,7 @@ hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1667395217
 last_updated: 1675746956
 mds:
-- data: "species: Hyla sarda\nspecimen: aHylSar1\nprojects: \n  - vgp\nhap1: s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/aHylSar1.HiC.hap1.20220806.fasta.gz\nhap2:
-    s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/aHylSar1.HiC.hap2.20220806.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aHylSar1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aHylSar1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/evaluation/aHylSar1_png/\npacbio_read_dir:
-    s3://genomeark/species/Hyla_sarda/aHylSar1/genomic_data/pacbio/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Hyla_sarda/aHylSar1/genomic_data/arima/\nbionano_cmap_dir:
-    s3://genomeark/species/Hyla_sarda/aHylSar1/genomic_data/bionano/\npipeline:\n
-    \ - hifiasm (0.16.1+galaxy2)\n  - solve (3.7.0+galaxy0)\n  - yahs (1.2a+galaxy1)\nassembled_by_group:
-    Rockefeller\nnotes: Hap1 ( aHylSar1.HiC.hap1.20220806.fasta.gz ) looks more complete
-    based on statistics, but I am including both haplotypes here as we are unsure
-    about if we should curate hap2 instead in order to address the misjoin in the
-    largest scaffold (based on the pretext map). "
+- data: species:&nbsp;Hyla&nbsp;sarda<br>specimen:&nbsp;aHylSar1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/aHylSar1.HiC.hap1.20220806.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/aHylSar1.HiC.hap2.20220806.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aHylSar1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aHylSar1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/evaluation/aHylSar1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/genomic_data/pacbio/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;Hap1&nbsp;(&nbsp;aHylSar1.HiC.hap1.20220806.fasta.gz&nbsp;)&nbsp;looks&nbsp;more&nbsp;complete&nbsp;based&nbsp;on&nbsp;statistics,&nbsp;but&nbsp;I&nbsp;am&nbsp;including&nbsp;both&nbsp;haplotypes&nbsp;here&nbsp;as&nbsp;we&nbsp;are&nbsp;unsure&nbsp;about&nbsp;if&nbsp;we&nbsp;should&nbsp;curate&nbsp;hap2&nbsp;instead&nbsp;in&nbsp;order&nbsp;to&nbsp;address&nbsp;the&nbsp;misjoin&nbsp;in&nbsp;the&nbsp;largest&nbsp;scaffold&nbsp;(based&nbsp;on&nbsp;the&nbsp;pretext&nbsp;map).&nbsp;
   ident: md8
   title: assembly_vgp_HiC_2.0/aHylSar1.yml
 name: Hyla sarda

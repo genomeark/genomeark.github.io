@@ -60,23 +60,7 @@ genome_size_display: 1.78 Gbp
 genome_size_method: GoaT
 last_raw_data: 1699354793
 last_updated: 1699363890
-metadata: |
-  species:
-    short_name: bChrRid
-    name: Chroicocephalus ridibundus
-    taxon_id: 1192867
-    common_name: black-headed gull
-    order:
-      name: Charadriiformes
-    family:
-      name: Laridae
-    individuals:
-      - short_name: bChrRid1
-        biosample_id: SAMEA112468038
-        sex: male
-    genome_size: 1779960000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bChrRid<br>&nbsp;&nbsp;name:&nbsp;Chroicocephalus&nbsp;ridibundus<br>&nbsp;&nbsp;taxon_id:&nbsp;1192867<br>&nbsp;&nbsp;common_name:&nbsp;black-headed&nbsp;gull<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Laridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bChrRid1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468038<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1779960000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-11-07
 mito1filesize: 5.3 KiB
 mito1length: '16816'

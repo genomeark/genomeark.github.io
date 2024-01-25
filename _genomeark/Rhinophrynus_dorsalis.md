@@ -90,38 +90,10 @@ hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1691702908
 last_updated: 1697492860
 mds:
-- data: "species: Rhinophrynus dorsalis\nspecimen: aRhiDor1\nprojects: \n  - vgp\nassembled_by_group:
-    Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1:
-    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap1.20231016.fasta.gz\nhap2:
-    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap2.20231016.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aRhiDor1_hap1_s2.pretext\npretext_hap2:
-    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aRhiDor1_hap2_s2.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/merqury/aRhiDor1_png/\npacbio_read_dir:
-    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/arima/\nmito:
-    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_MT_rockefeller/aRhiDor1.MT.20231016.fasta.gz\npipeline:
-    \n  - hifiasm (0.19.3+galaxy0)\n  - purge_dups\n  - yahs (1.2a.2+galaxy1)\nnotes:
-    This was a Hifiasm-HiC assembly of aRhiDor1, resulting in two complete haplotypes.
-    HiC scaffolding was performed with YaHS.  The HiC prep kit used was Arima library
-    prep. The HiC reads needed to have 5 bp trimmed from the 5' end due to adapter
-    left over from the Arima library prep kit. \n\n"
+- data: species:&nbsp;Rhinophrynus&nbsp;dorsalis<br>specimen:&nbsp;aRhiDor1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap1.20231016.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap2.20231016.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aRhiDor1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aRhiDor1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/merqury/aRhiDor1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_MT_rockefeller/aRhiDor1.MT.20231016.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;aRhiDor1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;<br><br>
   ident: md3
   title: assembly_vgp_HiC_2.0/aRhiDor1_hap1.yml
-- data: "species: Rhinophrynus dorsalis\nspecimen: aRhiDor1\nprojects: \n  - vgp\nassembled_by_group:
-    Rockefeller\ndata_location: S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1:
-    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap1.20231016.fasta.gz\nhap2:
-    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap2.20231016.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aRhiDor1_hap1_s2.pretext\npretext_hap2:
-    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aRhiDor1_hap2_s2.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/merqury/aRhiDor1_png/\npacbio_read_dir:
-    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/arima/\nmito:
-    s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_MT_rockefeller/aRhiDor1.MT.20231016.fasta.gz\npipeline:
-    \n  - hifiasm (0.19.3+galaxy0)\n  - purge_dups\n  - yahs (1.2a.2+galaxy1)\nnotes:
-    This was a Hifiasm-HiC assembly of aRhiDor1, resulting in two complete haplotypes.
-    HiC scaffolding was performed with YaHS.  The HiC prep kit used was Arima library
-    prep. The HiC reads needed to have 5 bp trimmed from the 5' end due to adapter
-    left over from the Arima library prep kit. \n\n"
+- data: species:&nbsp;Rhinophrynus&nbsp;dorsalis<br>specimen:&nbsp;aRhiDor1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap1.20231016.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap2.20231016.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aRhiDor1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aRhiDor1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/merqury/aRhiDor1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_MT_rockefeller/aRhiDor1.MT.20231016.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;aRhiDor1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;<br><br>
   ident: md4
   title: assembly_vgp_HiC_2.0/aRhiDor1_hap2.yml
 mito1date: 2023-10-16

@@ -60,26 +60,7 @@ genome_size_display: 1.25 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691524084
 last_updated: 1692230422
-metadata: |
-  species:
-    short_name: bPsiEch
-    name: Psittacula echo
-    taxon_id: 232653
-    common_name: Mauritius parakeet
-    order:
-      name: Psittaciformes
-    family:
-      name: Psittacidae
-    individuals:
-      - short_name: bPsiEch1
-        biosample_id: SAMEA12361723
-        sex: female
-      - short_name: bPsiEch3
-        biosample_id: SAMEA12361725
-        sex:
-    genome_size: 1251840000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bPsiEch<br>&nbsp;&nbsp;name:&nbsp;Psittacula&nbsp;echo<br>&nbsp;&nbsp;taxon_id:&nbsp;232653<br>&nbsp;&nbsp;common_name:&nbsp;Mauritius&nbsp;parakeet<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Psittaciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Psittacidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPsiEch1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12361723<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPsiEch3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12361725<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1251840000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito3date: 2023-08-02
 mito3filesize: 5.6 KiB
 mito3length: '18856'

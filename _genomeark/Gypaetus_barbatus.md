@@ -83,30 +83,10 @@ genome_size_method: GoAT
 last_raw_data: 1651609477
 last_updated: 1668510962
 mds:
-- data: "species: Gypaetus barbatus\r\nspecimen:  bGypBar2\r\nprojects: \r\n  -vgp\r\n
-    \ -cbp\r\nprimary: s3://genomeark/species/Gypaetus_barbatus/bGypBar2/assembly_vgp_standard_2.0/bGypBar2.pri.asm.20211119.fasta\r\nhaplotigs:
-    s3://genomeark/species/Gypaetus_barbatus/bGypBar2/assembly_vgp_standard_2.0/bGypBar2.alt.asm.20211119.fasta\r\nhic_bam:
-    s3://genomeark/species/Gypaetus00_barbatus/bGypBar2/\r\npretext: s3://genomeark/species/Gypaetus_barbatus/bGypBar2/\r\nkmer_spectra_img:
-    s3://genomeark/species/Gypaetus_barbatus/bGypBar2/\r\npipeline: \r\n\t-hifiasm
-    (0.15.4) \r\n\t-purge_dups (1.2.5) \r\n\t-bionano_solve (3.6.1) \r\n\t-salsa (2.3)
-    \r\n"
+- data: species:&nbsp;Gypaetus&nbsp;barbatus&nbsp;<br>specimen:&nbsp;&nbsp;bGypBar2&nbsp;<br>projects:&nbsp;&nbsp;<br>&nbsp;&nbsp;-vgp&nbsp;<br>&nbsp;&nbsp;-cbp&nbsp;<br>primary:&nbsp;s3://genomeark/species/Gypaetus_barbatus/bGypBar2/assembly_vgp_standard_2.0/bGypBar2.pri.asm.20211119.fasta&nbsp;<br>haplotigs:&nbsp;s3://genomeark/species/Gypaetus_barbatus/bGypBar2/assembly_vgp_standard_2.0/bGypBar2.alt.asm.20211119.fasta&nbsp;<br>hic_bam:&nbsp;s3://genomeark/species/Gypaetus00_barbatus/bGypBar2/&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Gypaetus_barbatus/bGypBar2/&nbsp;<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Gypaetus_barbatus/bGypBar2/&nbsp;<br>pipeline:&nbsp;&nbsp;<br>&nbsp;-hifiasm&nbsp;(0.15.4)&nbsp;&nbsp;<br>&nbsp;-purge_dups&nbsp;(1.2.5)&nbsp;&nbsp;<br>&nbsp;-bionano_solve&nbsp;(3.6.1)&nbsp;&nbsp;<br>&nbsp;-salsa&nbsp;(2.3)&nbsp;&nbsp;<br>
   ident: md2
   title: assembly_vgp_standard_2.0/bGypBar2.yaml
-metadata: |
-  species:
-    name: Gypaetus barbatus
-    individuals:
-    - short_name: bGypBar2
-    short_name: bGypBar
-    taxon_id: '33610'
-    common_name: lammergeier
-    genome_size: 1434000000
-    genome_size_method: GoAT
-    order:
-      name: Falconiformes
-    family:
-      name: Accipitridae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Gypaetus&nbsp;barbatus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bGypBar2<br>&nbsp;&nbsp;short_name:&nbsp;bGypBar<br>&nbsp;&nbsp;taxon_id:&nbsp;'33610'<br>&nbsp;&nbsp;common_name:&nbsp;lammergeier<br>&nbsp;&nbsp;genome_size:&nbsp;1434000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Accipitridae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Gypaetus barbatus
 name_: Gypaetus_barbatus
 pri2date: 2021-12-17

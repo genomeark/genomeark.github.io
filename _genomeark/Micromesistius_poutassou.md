@@ -60,23 +60,7 @@ genome_size_display: 0.86 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687192253
 last_updated: 1701285346
-metadata: |
-  species:
-    short_name: fMicPou
-    name: Micromesistius poutassou
-    taxon_id: 81636
-    common_name: blue whiting
-    order:
-      name: Gadiformes
-    family:
-      name: Gadidae
-    individuals:
-      - short_name: fMicPou1
-        biosample_id: SAMEA111457552
-        sex: female
-    genome_size: 860640000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fMicPou<br>&nbsp;&nbsp;name:&nbsp;Micromesistius&nbsp;poutassou<br>&nbsp;&nbsp;taxon_id:&nbsp;81636<br>&nbsp;&nbsp;common_name:&nbsp;blue&nbsp;whiting<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gadiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gadidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fMicPou1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111457552<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;860640000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-11-28
 mito1filesize: 5.3 KiB
 mito1length: '16572'

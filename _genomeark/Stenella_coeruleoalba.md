@@ -62,23 +62,7 @@ genome_size_display: 3.08 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678520885
 last_updated: 1683763331
-metadata: |
-  species:
-    short_name: mSteCoe
-    name: Stenella coeruleoalba
-    taxon_id: 9737
-    common_name: striped dolphin
-    order:
-      name: Cetacea
-    family:
-      name: Delphinidae
-    individuals:
-      - short_name: mSteCoe1
-        biosample_id: SAMEA111380539
-        sex: male
-    genome_size: 3080700000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mSteCoe<br>&nbsp;&nbsp;name:&nbsp;Stenella&nbsp;coeruleoalba<br>&nbsp;&nbsp;taxon_id:&nbsp;9737<br>&nbsp;&nbsp;common_name:&nbsp;striped&nbsp;dolphin<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cetacea<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Delphinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mSteCoe1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111380539<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;3080700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Stenella coeruleoalba
 name_: Stenella_coeruleoalba
 pri1date: 2023-05-11

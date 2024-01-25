@@ -52,23 +52,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1688118423
 last_updated: 1688118423
-metadata: |
-  species:
-    short_name: bBraLeu
-    name: Branta leucopsis
-    taxon_id: 184711
-    common_name: barnacle goose
-    order:
-      name: Anseriformes
-    family:
-      name: Anatidae
-    individuals:
-      - short_name: bBraLeu2
-        biosample_id: SAMEA112468032
-        sex: male
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bBraLeu<br>&nbsp;&nbsp;name:&nbsp;Branta&nbsp;leucopsis<br>&nbsp;&nbsp;taxon_id:&nbsp;184711<br>&nbsp;&nbsp;common_name:&nbsp;barnacle&nbsp;goose<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bBraLeu2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468032<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Branta leucopsis
 name_: Branta_leucopsis
 project:

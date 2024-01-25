@@ -83,19 +83,7 @@ genome_size_display: 0.74 Gbp
 genome_size_method: ''
 last_raw_data: 1570704548
 last_updated: 1589469348
-metadata: |
-  species:
-    short_name: fXenCan
-    name: Xenentodon cancila
-    taxon_id: 129108
-    common_name: freshwater garfish
-    order:
-      name: Beloniformes
-    family:
-      name: Belonidae
-    individuals:
-      - short_name: fXenCan1
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fXenCan<br>&nbsp;&nbsp;name:&nbsp;Xenentodon&nbsp;cancila<br>&nbsp;&nbsp;taxon_id:&nbsp;129108<br>&nbsp;&nbsp;common_name:&nbsp;freshwater&nbsp;garfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Beloniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Belonidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fXenCan1<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 5.0 KiB
 mito1length: '16452'

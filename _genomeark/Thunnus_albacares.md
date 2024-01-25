@@ -73,23 +73,7 @@ genome_size_display: 0.79 Gbp
 genome_size_method: ''
 last_raw_data: 1675853448
 last_updated: 1691668946
-metadata: |
-  species:
-    short_name: fThuAlb
-    name: Thunnus albacares
-    taxon_id: 8236
-    common_name: yellowfin tuna
-    order:
-      name: Perciformes
-    family:
-      name: Scombridae
-    individuals:
-      - short_name: fThuAlb1
-        biosample_id: SAMEA8654749
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fThuAlb<br>&nbsp;&nbsp;name:&nbsp;Thunnus&nbsp;albacares<br>&nbsp;&nbsp;taxon_id:&nbsp;8236<br>&nbsp;&nbsp;common_name:&nbsp;yellowfin&nbsp;tuna<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scombridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fThuAlb1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8654749<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Thunnus albacares
 name_: Thunnus_albacares
 pri1date: 2021-08-27

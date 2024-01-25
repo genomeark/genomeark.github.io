@@ -21,23 +21,7 @@ genome_size_display: 437.66 Mbp
 genome_size_method: GoaT
 last_raw_data: 1689689327
 last_updated: 1689689327
-metadata: |
-  species:
-    short_name: kaDiaViol
-    name: Diazona violacea
-    taxon_id: 2930585
-    common_name: Football Ascidian
-    order:
-      name: Aplousobranchia
-    family:
-      name: Diazonidae
-    individuals:
-      - short_name: kaDiaViol1
-        biosample_id: SAMEA110449834
-        sex:
-    genome_size: 437655000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;kaDiaViol<br>&nbsp;&nbsp;name:&nbsp;Diazona&nbsp;violacea<br>&nbsp;&nbsp;taxon_id:&nbsp;2930585<br>&nbsp;&nbsp;common_name:&nbsp;Football&nbsp;Ascidian<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Aplousobranchia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Diazonidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;kaDiaViol1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110449834<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;437655000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Diazona violacea
 name_: Diazona_violacea
 project:

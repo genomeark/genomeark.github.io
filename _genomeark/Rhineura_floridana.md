@@ -103,38 +103,10 @@ hpb1version: assembly_curated
 last_raw_data: 1677258152
 last_updated: 1680739492
 mds:
-- data: "species: Rhineura floridana\nspecimen: rRhiFlo1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/rRhiFlo1.HiC.hap1.20230305.fasta.gz\nhap2:
-    s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/rRhiFlo1.HiC.hap2.20230305.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rRhiFlo1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rRhiFlo1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/evaluation/merqury/rRhiFlo1_png/\nmito:
-    s3://genomeark/working/temp_mitos/rRhiFlo1.MT.20230306.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/arima/\nbionano_cmap_dir:
-    s3://genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/bionano/\npipeline:\n
-    \ - hifiasm (0.18.5+galaxy1)\n  - solve (3.7)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group:
-    Rockefeller\nnotes: This was a hifiasm-HiC assembly of rRhiFlo1, resulting in
-    two complete haplotypes. This individual had bionano data. HiC scaffolding was
-    performed with yahs. The HiC prep was Arima kit 2. We are submitting hap2 for
-    curation."
+- data: species:&nbsp;Rhineura&nbsp;floridana<br>specimen:&nbsp;rRhiFlo1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/rRhiFlo1.HiC.hap1.20230305.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/rRhiFlo1.HiC.hap2.20230305.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rRhiFlo1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rRhiFlo1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/evaluation/merqury/rRhiFlo1_png/<br>mito:&nbsp;s3://genomeark/working/temp_mitos/rRhiFlo1.MT.20230306.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.5+galaxy1)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rRhiFlo1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;hap2&nbsp;for&nbsp;curation.
   ident: md6
   title: assembly_vgp_HiC_2.0/rRhiFlo1_hap2.yml
-metadata: |
-  species:
-    name: Rhineura floridana
-    individuals:
-    - short_name: rRhiFlo1
-    short_name: rRhiFlo
-    taxon_id: 261503
-    common_name: Florida worm lizard
-    genome_size: 1623000000
-    genome_size_method: GoAT
-    order:
-      name: Squamata
-    family:
-      name: Rhineuridae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Rhineura&nbsp;floridana<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rRhiFlo1<br>&nbsp;&nbsp;short_name:&nbsp;rRhiFlo<br>&nbsp;&nbsp;taxon_id:&nbsp;261503<br>&nbsp;&nbsp;common_name:&nbsp;Florida&nbsp;worm&nbsp;lizard<br>&nbsp;&nbsp;genome_size:&nbsp;1623000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhineuridae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-03-06
 mito1filesize: 5.4 KiB
 mito1length: '16992'

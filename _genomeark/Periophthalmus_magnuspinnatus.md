@@ -83,21 +83,7 @@ genome_size_display: 1.00 Gbp
 genome_size_method: ''
 last_raw_data: 1565835138
 last_updated: 1670429176
-metadata: |
-  species:
-    common_name: Korean giant-fin mudskipper
-    family:
-      name: Gobiidae
-    genome_size: 1000000000
-    genome_size_method: null
-    individuals:
-    - short_name: fPerMag1
-    name: Periophthalmus magnuspinnatus
-    order:
-      name: Gobiiformes
-    short_name: fPerMag
-    taxon_id: 409849
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;Korean&nbsp;giant-fin&nbsp;mudskipper<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gobiidae<br>&nbsp;&nbsp;genome_size:&nbsp;1000000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fPerMag1<br>&nbsp;&nbsp;name:&nbsp;Periophthalmus&nbsp;magnuspinnatus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gobiiformes<br>&nbsp;&nbsp;short_name:&nbsp;fPerMag<br>&nbsp;&nbsp;taxon_id:&nbsp;409849<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-02
 mito1filesize: 4.9 KiB
 mito1length: '16496'

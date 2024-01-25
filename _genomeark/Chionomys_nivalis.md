@@ -62,23 +62,7 @@ genome_size_display: 2.85 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675905294
 last_updated: 1682084531
-metadata: |
-  species:
-    short_name: mChiNiv
-    name: Chionomys nivalis
-    taxon_id: 269649
-    common_name: European snow vole
-    order:
-      name: Rodentia
-    family:
-      name: Cricetidae
-    individuals:
-      - short_name: mChiNiv1
-        biosample_id: SAMEA13217622
-        sex: male
-    genome_size: 2845980000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mChiNiv<br>&nbsp;&nbsp;name:&nbsp;Chionomys&nbsp;nivalis<br>&nbsp;&nbsp;taxon_id:&nbsp;269649<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;snow&nbsp;vole<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cricetidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mChiNiv1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA13217622<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2845980000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Chionomys nivalis
 name_: Chionomys_nivalis
 pri1date: 2023-04-21

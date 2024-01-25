@@ -83,23 +83,7 @@ genome_size_display: 5.07 Gbp
 genome_size_method: genomescope k=31
 last_raw_data: 1525161722
 last_updated: 1570719804
-metadata: |
-  species:
-    short_name: aRhiBiv
-    name: Rhinatrema bivittatum
-    taxon_id: 194408
-    common_name: two-lined caecilian
-    order:
-      name: Apoda
-    family:
-      name: Rhinatrematidae
-    individuals:
-      - short_name: aRhiBiv1
-        biosample_id: SAMEA104387956
-        sex:
-    genome_size: 5067838282
-    genome_size_method: genomescope k=31
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;aRhiBiv<br>&nbsp;&nbsp;name:&nbsp;Rhinatrema&nbsp;bivittatum<br>&nbsp;&nbsp;taxon_id:&nbsp;194408<br>&nbsp;&nbsp;common_name:&nbsp;two-lined&nbsp;caecilian<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Apoda<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhinatrematidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aRhiBiv1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA104387956<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;5067838282<br>&nbsp;&nbsp;genome_size_method:&nbsp;genomescope&nbsp;k=31<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 5.3 KiB
 mito1length: '16407'

@@ -29,7 +29,7 @@ alt1sizes: |
   </table>
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
-common_name: kakapo
+common_name: kākāpō
 data_10x-1_bases: 132.33 Gbp
 data_10x-1_bytes: 63.4 GiB
 data_10x-1_coverage: 110.88x
@@ -83,21 +83,7 @@ genome_size_display: 1.19 Gbp
 genome_size_method: ''
 last_raw_data: 1568581172
 last_updated: 1580938436
-metadata: |
-  species:
-    short_name: bStrHab
-    name: Strigops habroptilus
-    taxon_id: 57251
-    common_name: kakapo
-    order:
-      name: Psittaciformes
-    family:
-      name: Psittacidae
-    individuals:
-      - short_name: bStrHab1
-    genome_size: 1193409022
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bStrHab<br>&nbsp;&nbsp;name:&nbsp;Strigops&nbsp;habroptilus<br>&nbsp;&nbsp;taxon_id:&nbsp;57251<br>&nbsp;&nbsp;common_name:&nbsp;kākāpō<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Psittaciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Psittacidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bStrHab1<br>&nbsp;&nbsp;genome_size:&nbsp;1193409022<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2018-12-11
 mito1filesize: 5.5 KiB
 mito1length: '17830'

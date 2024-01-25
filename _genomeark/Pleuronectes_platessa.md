@@ -62,23 +62,7 @@ genome_size_display: 381.42 Mbp
 genome_size_method: GoaT
 last_raw_data: 1675921504
 last_updated: 1678289705
-metadata: |
-  species:
-    short_name: fPlePla
-    name: Pleuronectes platessa
-    taxon_id: 8262
-    common_name: European plaice
-    order:
-      name: Pleuronectiformes
-    family:
-      name: Pleuronectidae
-    individuals:
-      - short_name: fPlePla1
-        biosample_id: SAMEA13853390
-        sex:
-    genome_size: 381420000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fPlePla<br>&nbsp;&nbsp;name:&nbsp;Pleuronectes&nbsp;platessa<br>&nbsp;&nbsp;taxon_id:&nbsp;8262<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;plaice<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pleuronectiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pleuronectidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fPlePla1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA13853390<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;381420000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Pleuronectes platessa
 name_: Pleuronectes_platessa
 pri1date: 2023-03-08

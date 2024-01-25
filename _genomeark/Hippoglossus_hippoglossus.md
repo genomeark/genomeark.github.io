@@ -83,21 +83,7 @@ genome_size_display: 1.00 Gbp
 genome_size_method: ''
 last_raw_data: 1570030503
 last_updated: 1574789906
-metadata: |
-  species:
-    common_name: Atlantic halibut
-    family:
-      name: Pleuronectidae
-    genome_size: 1000000000
-    genome_size_method: null
-    individuals:
-    - short_name: fHipHip1
-    name: Hippoglossus hippoglossus
-    order:
-      name: Pleuronectiformes
-    short_name: fHipHip
-    taxon_id: 8267
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;Atlantic&nbsp;halibut<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pleuronectidae<br>&nbsp;&nbsp;genome_size:&nbsp;1000000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fHipHip1<br>&nbsp;&nbsp;name:&nbsp;Hippoglossus&nbsp;hippoglossus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pleuronectiformes<br>&nbsp;&nbsp;short_name:&nbsp;fHipHip<br>&nbsp;&nbsp;taxon_id:&nbsp;8267<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-04
 mito1filesize: 5.1 KiB
 mito1length: '17607'

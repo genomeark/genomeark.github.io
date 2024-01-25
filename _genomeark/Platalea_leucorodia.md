@@ -60,23 +60,7 @@ genome_size_display: 1.22 Gbp
 genome_size_method: GoaT
 last_raw_data: 1701344953
 last_updated: 1701508396
-metadata: |
-  species:
-    short_name: bPlaLeu
-    name: Platalea leucorodia
-    taxon_id: 257867
-    common_name: Eurasian spoonbill
-    order:
-      name: Pelecaniformes
-    family:
-      name: Threskiornithidae
-    individuals:
-      - short_name: bPlaLeu2
-        biosample_id: SAMEA112468120
-        sex: female
-    genome_size: 1222500000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bPlaLeu<br>&nbsp;&nbsp;name:&nbsp;Platalea&nbsp;leucorodia<br>&nbsp;&nbsp;taxon_id:&nbsp;257867<br>&nbsp;&nbsp;common_name:&nbsp;Eurasian&nbsp;spoonbill<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pelecaniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Threskiornithidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPlaLeu2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468120<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1222500000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-12-02
 mito2filesize: 5.4 KiB
 mito2length: '17047'

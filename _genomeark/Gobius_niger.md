@@ -62,23 +62,7 @@ genome_size_display: 0.99 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687191428
 last_updated: 1692198344
-metadata: |
-  species:
-    short_name: fGobNig
-    name: Gobius niger
-    taxon_id: 85417
-    common_name: black goby
-    order:
-      name: Perciformes
-    family:
-      name: Gobiidae
-    individuals:
-      - short_name: fGobNig1
-        biosample_id: SAMEA13854149
-        sex:
-    genome_size: 987780000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fGobNig<br>&nbsp;&nbsp;name:&nbsp;Gobius&nbsp;niger<br>&nbsp;&nbsp;taxon_id:&nbsp;85417<br>&nbsp;&nbsp;common_name:&nbsp;black&nbsp;goby<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gobiidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fGobNig1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA13854149<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;987780000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-05-05
 mito1filesize: 5.3 KiB
 mito1length: '16509'

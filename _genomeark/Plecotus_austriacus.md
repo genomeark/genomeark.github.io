@@ -21,23 +21,7 @@ genome_size_display: 2.18 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687275816
 last_updated: 1687275816
-metadata: |
-  species:
-    short_name: mPleAus
-    name: Plecotus austriacus
-    taxon_id: 109483
-    common_name: gray big-eared bat
-    order:
-      name: Chiroptera
-    family:
-      name: Vespertilionidae
-    individuals:
-      - short_name: mPleAus1
-        biosample_id: SAMEA112124174
-        sex: male
-    genome_size: 2180940000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPleAus<br>&nbsp;&nbsp;name:&nbsp;Plecotus&nbsp;austriacus<br>&nbsp;&nbsp;taxon_id:&nbsp;109483<br>&nbsp;&nbsp;common_name:&nbsp;gray&nbsp;big-eared&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPleAus1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112124174<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2180940000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Plecotus austriacus
 name_: Plecotus_austriacus
 project:

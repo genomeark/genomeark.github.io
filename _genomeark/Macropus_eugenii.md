@@ -93,33 +93,10 @@ genome_size_method: ''
 last_raw_data: 1651605348
 last_updated: 1672770616
 mds:
-- data: "species: Macropus_eugenii\nspecimen: mMacEug1\nprojects:\n- vgl \nprimary:\n
-    \ s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/mMacEug1.pri.asm.20211109.fasta.gz\nhaplotigs:\n
-    \ s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/mMacEug1.alt.asm.20211109.fasta.gz\nhic_bam:\n
-    \ s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMacEug1_s2.bam\npretext:\n
-    \ s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMacEug1_s2.bam\nkmer_spectra_img:\n
-    \ s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/evaluation/merqury/p/output_merqury_p.spectra-cn.fl\n\npipeline:\n
-    \ - hifiasm (0.15.4+galaxy)\n  - purge_dups (1.2.5+galaxy3)\n  - bionano_solve
-    (3.6.1+galaxy2)\n  - salsa (2.3+galaxy0)"
+- data: species:&nbsp;Macropus_eugenii<br>specimen:&nbsp;mMacEug1<br>projects:<br>-&nbsp;vgl&nbsp;<br>primary:<br>&nbsp;&nbsp;s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/mMacEug1.pri.asm.20211109.fasta.gz<br>haplotigs:<br>&nbsp;&nbsp;s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/mMacEug1.alt.asm.20211109.fasta.gz<br>hic_bam:<br>&nbsp;&nbsp;s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMacEug1_s2.bam<br>pretext:<br>&nbsp;&nbsp;s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMacEug1_s2.bam<br>kmer_spectra_img:<br>&nbsp;&nbsp;s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/evaluation/merqury/p/output_merqury_p.spectra-cn.fl<br><br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(3.6.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy0)
   ident: md10
   title: assembly_vgp_standard_2.0/mMacEug1.yaml
-metadata: |
-  species:
-    short_name: mMacEug
-    name: Macropus eugenii
-    taxon_id: 9315
-    common_name: tammar wallaby
-    order:
-      name: Diprotodontia
-    family:
-      name: Macropodidae
-    individuals:
-      - short_name: mMacEug1
-        sex: male
-        provider: Andrew Veale
-    genome_size: 3000000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMacEug<br>&nbsp;&nbsp;name:&nbsp;Macropus&nbsp;eugenii<br>&nbsp;&nbsp;taxon_id:&nbsp;9315<br>&nbsp;&nbsp;common_name:&nbsp;tammar&nbsp;wallaby<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Diprotodontia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Macropodidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMacEug1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Andrew&nbsp;Veale<br>&nbsp;&nbsp;genome_size:&nbsp;3000000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2022-06-17
 mito1filesize: 5.0 KiB
 mito1length: '16894'

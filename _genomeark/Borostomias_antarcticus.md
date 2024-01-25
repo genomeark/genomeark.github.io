@@ -62,23 +62,7 @@ genome_size_display: 0.91 Gbp
 genome_size_method: ''
 last_raw_data: 1676996482
 last_updated: 1682084498
-metadata: |
-  species:
-    short_name: fBorAnt
-    name: Borostomias antarcticus
-    taxon_id: 473354
-    common_name: large-eye snaggletooth
-    order:
-      name: Stomiiformes
-    family:
-      name: Stomiidae
-    individuals:
-      - short_name: fBorAnt1
-        biosample_id: SAMEA8748812
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fBorAnt<br>&nbsp;&nbsp;name:&nbsp;Borostomias&nbsp;antarcticus<br>&nbsp;&nbsp;taxon_id:&nbsp;473354<br>&nbsp;&nbsp;common_name:&nbsp;large-eye&nbsp;snaggletooth<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Stomiiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Stomiidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fBorAnt1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8748812<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Borostomias antarcticus
 name_: Borostomias_antarcticus
 pri1date: 2023-04-21

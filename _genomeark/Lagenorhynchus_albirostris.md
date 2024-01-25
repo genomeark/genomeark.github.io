@@ -62,23 +62,7 @@ genome_size_display: 3.08 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678374397
 last_updated: 1679962370
-metadata: |
-  species:
-    short_name: mLagAlb
-    name: Lagenorhynchus albirostris
-    taxon_id: 27610
-    common_name: white-beaked dolphin
-    order:
-      name: Cetacea
-    family:
-      name: Delphinidae
-    individuals:
-      - short_name: mLagAlb1
-        biosample_id: SAMEA111380537
-        sex: female
-    genome_size: 3080700000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mLagAlb<br>&nbsp;&nbsp;name:&nbsp;Lagenorhynchus&nbsp;albirostris<br>&nbsp;&nbsp;taxon_id:&nbsp;27610<br>&nbsp;&nbsp;common_name:&nbsp;white-beaked&nbsp;dolphin<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cetacea<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Delphinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mLagAlb1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111380537<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;3080700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Lagenorhynchus albirostris
 name_: Lagenorhynchus_albirostris
 pri1date: 2023-03-28

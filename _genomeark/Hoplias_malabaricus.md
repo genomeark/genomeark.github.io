@@ -101,38 +101,10 @@ hpb1version: assembly_curated
 last_raw_data: 1665002652
 last_updated: 1687166740
 mds:
-- data: "species: Hoplias malabaricus\nspecimen: fHopMal1\nprojects: \n  - vgp\nhap1:
-    s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/fHopMal1.HiC.hap1.20221005.fasta.gz\nhap2:
-    s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/fHopMal1.HiC.hap2.20221005.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fHopMal1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fHopMal1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/evaluation/merqury/fHopMal1_png/\npacbio_read_dir:
-    s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nbionano_cmap_dir: s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/bionano/\nhic_read_dir:
-    s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/arima/\nhic_kit:
-    Arima2\npipeline:\n  - hifiasm (0.16.1+galaxy3)\n  - solve (3.7)\n  - yahs (1.2a.2+galaxy0)\nassembled_by_group:
-    Rockefeller\nnotes: This was a hifiasm-HiC assembly of fHopMal1, resulting in
-    two complete haplotypes. This individual had bionano data. HiC scaffolding was
-    performed with YAHS. The kmer spectra indicates a homogametic specimen. We are
-    submitting hap2 for curation, though file locations for hap1 are included here
-    in case it is useful. "
+- data: species:&nbsp;Hoplias&nbsp;malabaricus<br>specimen:&nbsp;fHopMal1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/fHopMal1.HiC.hap1.20221005.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/fHopMal1.HiC.hap2.20221005.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fHopMal1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fHopMal1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/evaluation/merqury/fHopMal1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/arima/<br>hic_kit:&nbsp;Arima2<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy3)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fHopMal1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YAHS.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;hap2&nbsp;for&nbsp;curation,&nbsp;though&nbsp;file&nbsp;locations&nbsp;for&nbsp;hap1&nbsp;are&nbsp;included&nbsp;here&nbsp;in&nbsp;case&nbsp;it&nbsp;is&nbsp;useful.&nbsp;
   ident: md14
   title: assembly_vgp_HiC_2.0/fHopMal1.yaml
-metadata: |
-  species:
-    name: Hoplias malabaricus
-    individuals:
-    - short_name: fHopMal1
-    short_name: fHopMal
-    taxon_id: 27720
-    common_name: trahira
-    genome_size: 1252000000
-    genome_size_method: GoAT
-    order:
-      name: Characiformes
-    family:
-      name: Erythrinidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Hoplias&nbsp;malabaricus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fHopMal1<br>&nbsp;&nbsp;short_name:&nbsp;fHopMal<br>&nbsp;&nbsp;taxon_id:&nbsp;27720<br>&nbsp;&nbsp;common_name:&nbsp;trahira<br>&nbsp;&nbsp;genome_size:&nbsp;1252000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Characiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Erythrinidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Hoplias malabaricus
 name_: Hoplias_malabaricus
 project:

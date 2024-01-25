@@ -31,23 +31,7 @@ genome_size_display: 1.63 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691524096
 last_updated: 1691524096
-metadata: |
-  species:
-    short_name: fHarAnt
-    name: Harpagifer antarcticus
-    taxon_id: 43256
-    common_name: Antarctic spiny plunderfish
-    order:
-      name: Perciformes
-    family:
-      name: Harpagiferidae
-    individuals:
-      - short_name: fHarAnt1
-        biosample_id: SAMEA9267621
-        sex:
-    genome_size: 1633260000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fHarAnt<br>&nbsp;&nbsp;name:&nbsp;Harpagifer&nbsp;antarcticus<br>&nbsp;&nbsp;taxon_id:&nbsp;43256<br>&nbsp;&nbsp;common_name:&nbsp;Antarctic&nbsp;spiny&nbsp;plunderfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Harpagiferidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fHarAnt1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA9267621<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1633260000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Harpagifer antarcticus
 name_: Harpagifer_antarcticus
 project:

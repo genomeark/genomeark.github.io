@@ -60,23 +60,7 @@ genome_size_display: 3.22 Gbp
 genome_size_method: GoaT
 last_raw_data: 1702992370
 last_updated: 1703328767
-metadata: |
-  species:
-    short_name: mPhoPho
-    name: Phocoena phocoena
-    taxon_id: 9742
-    common_name: harbor porpoise
-    order:
-      name: Cetacea
-    family:
-      name: Phocoenidae
-    individuals:
-      - short_name: mPhoPho1
-        biosample_id: SAMEA111380536
-        sex: female
-    genome_size: 3217620000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPhoPho<br>&nbsp;&nbsp;name:&nbsp;Phocoena&nbsp;phocoena<br>&nbsp;&nbsp;taxon_id:&nbsp;9742<br>&nbsp;&nbsp;common_name:&nbsp;harbor&nbsp;porpoise<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cetacea<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phocoenidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPhoPho1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111380536<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;3217620000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-12-22
 mito1filesize: 5.2 KiB
 mito1length: '16384'

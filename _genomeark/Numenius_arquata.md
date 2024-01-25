@@ -60,23 +60,7 @@ genome_size_display: 1.32 Gbp
 genome_size_method: GoaT
 last_raw_data: 1703330709
 last_updated: 1703366865
-metadata: |
-  species:
-    short_name: bNumArq
-    name: Numenius arquata
-    taxon_id: 31919
-    common_name: Eurasian curlew
-    order:
-      name: Charadriiformes
-    family:
-      name: Scolopacidae
-    individuals:
-      - short_name: bNumArq3
-        biosample_id: SAMEA112693994
-        sex:
-    genome_size: 1320300000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bNumArq<br>&nbsp;&nbsp;name:&nbsp;Numenius&nbsp;arquata<br>&nbsp;&nbsp;taxon_id:&nbsp;31919<br>&nbsp;&nbsp;common_name:&nbsp;Eurasian&nbsp;curlew<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scolopacidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bNumArq3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112693994<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1320300000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito3date: 2023-12-23
 mito3filesize: 5.7 KiB
 mito3length: '19892'

@@ -84,62 +84,13 @@ genome_size_method: ''
 last_raw_data: 1611681977
 last_updated: 1633376450
 mds:
-- data: |-
-    species: Theristicus caerulescens
-    specimen: bTheCae1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/assembly_vgp_standard_1.6/bTheCae1.pri.asm.20210407.fasta.gz
-    haplotigs: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/assembly_vgp_standard_1.6/bTheCae1.alt.asm.20210407.fasta.gz
-    mito: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/assembly_MT_rockefeller/bTheCae1.MT.20210120.fasta.gz
+- data: species:&nbsp;Theristicus&nbsp;caerulescens<br>specimen:&nbsp;bTheCae1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Theristicus_caerulescens/bTheCae1/assembly_vgp_standard_1.6/bTheCae1.pri.asm.20210407.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Theristicus_caerulescens/bTheCae1/assembly_vgp_standard_1.6/bTheCae1.alt.asm.20210407.fasta.gz<br>mito:&nbsp;s3://genomeark/species/Theristicus_caerulescens/bTheCae1/assembly_MT_rockefeller/bTheCae1.MT.20210120.fasta.gz
   ident: md5
   title: assembly_vgp_standard_1.6/bTheCae1.yaml
-- data: |
-    samples:
-    - Sample Source: Smithsonian
-      VGP_Id: bTheCae1
-      birth_date: ''
-      collected_by: Milensky  C. M.
-      collection_date: 10/26/2005
-      common_name: plumbeous ibis
-      description: 'Family #: 0750; Family: Threskiornithidae; Subfamily: Threskiornithinae;
-        State/Province: Rocha; Precise Location: 18 de Julio  19 km W  at Estancia La
-        Canada; Latitude: 33 44 31 S; Longitude: 53 44 46 W; Elevation: 50 m; Field #(s):
-        CAG 1760; 37; Tissue #: B20749; Stage: Chick; Preparation: Skin: Whole; Weight:
-        54.3 g; Preparator: Christina A. Gebhard CAG 1760; Fat: moderate; Reproduction:
-        Ovary: 3 x 1 mm  smooth yellowish; Softparts: iris: gray brown; tarsi: orangish
-        tan; bill: black with creamish tip and egg tooth; Collection Method: shot; Remarks:
-        field notes: Egg shell was still in nest and collected. Two other unhatched eggs
-        were in the nest and collected. Photos of the nest were taken. One adult was sitting
-        on the nest when collected.; Status: Collection'
-      dev_stage: juvenile
-      geo_loc_name: Uruguay
-      individual_id: ''
-      lat_lon: 33 44 31 S; 53 44 46 W
-      scientific_name: Theristicus caerulescens
-      sex: female
-      store_cond: -80C
-      taxon_Id: '1118847'
-      tissue: Unknown
-      treatment: ''
-      tube_id: bTheCae1.Uk1
+- data: samples:<br>-&nbsp;Sample&nbsp;Source:&nbsp;Smithsonian<br>&nbsp;&nbsp;VGP_Id:&nbsp;bTheCae1<br>&nbsp;&nbsp;birth_date:&nbsp;''<br>&nbsp;&nbsp;collected_by:&nbsp;Milensky&nbsp;&nbsp;C.&nbsp;M.<br>&nbsp;&nbsp;collection_date:&nbsp;10/26/2005<br>&nbsp;&nbsp;common_name:&nbsp;plumbeous&nbsp;ibis<br>&nbsp;&nbsp;description:&nbsp;'Family&nbsp;#:&nbsp;0750;&nbsp;Family:&nbsp;Threskiornithidae;&nbsp;Subfamily:&nbsp;Threskiornithinae;<br>&nbsp;&nbsp;&nbsp;&nbsp;State/Province:&nbsp;Rocha;&nbsp;Precise&nbsp;Location:&nbsp;18&nbsp;de&nbsp;Julio&nbsp;&nbsp;19&nbsp;km&nbsp;W&nbsp;&nbsp;at&nbsp;Estancia&nbsp;La<br>&nbsp;&nbsp;&nbsp;&nbsp;Canada;&nbsp;Latitude:&nbsp;33&nbsp;44&nbsp;31&nbsp;S;&nbsp;Longitude:&nbsp;53&nbsp;44&nbsp;46&nbsp;W;&nbsp;Elevation:&nbsp;50&nbsp;m;&nbsp;Field&nbsp;#(s):<br>&nbsp;&nbsp;&nbsp;&nbsp;CAG&nbsp;1760;&nbsp;37;&nbsp;Tissue&nbsp;#:&nbsp;B20749;&nbsp;Stage:&nbsp;Chick;&nbsp;Preparation:&nbsp;Skin:&nbsp;Whole;&nbsp;Weight:<br>&nbsp;&nbsp;&nbsp;&nbsp;54.3&nbsp;g;&nbsp;Preparator:&nbsp;Christina&nbsp;A.&nbsp;Gebhard&nbsp;CAG&nbsp;1760;&nbsp;Fat:&nbsp;moderate;&nbsp;Reproduction:<br>&nbsp;&nbsp;&nbsp;&nbsp;Ovary:&nbsp;3&nbsp;x&nbsp;1&nbsp;mm&nbsp;&nbsp;smooth&nbsp;yellowish;&nbsp;Softparts:&nbsp;iris:&nbsp;gray&nbsp;brown;&nbsp;tarsi:&nbsp;orangish<br>&nbsp;&nbsp;&nbsp;&nbsp;tan;&nbsp;bill:&nbsp;black&nbsp;with&nbsp;creamish&nbsp;tip&nbsp;and&nbsp;egg&nbsp;tooth;&nbsp;Collection&nbsp;Method:&nbsp;shot;&nbsp;Remarks:<br>&nbsp;&nbsp;&nbsp;&nbsp;field&nbsp;notes:&nbsp;Egg&nbsp;shell&nbsp;was&nbsp;still&nbsp;in&nbsp;nest&nbsp;and&nbsp;collected.&nbsp;Two&nbsp;other&nbsp;unhatched&nbsp;eggs<br>&nbsp;&nbsp;&nbsp;&nbsp;were&nbsp;in&nbsp;the&nbsp;nest&nbsp;and&nbsp;collected.&nbsp;Photos&nbsp;of&nbsp;the&nbsp;nest&nbsp;were&nbsp;taken.&nbsp;One&nbsp;adult&nbsp;was&nbsp;sitting<br>&nbsp;&nbsp;&nbsp;&nbsp;on&nbsp;the&nbsp;nest&nbsp;when&nbsp;collected.;&nbsp;Status:&nbsp;Collection'<br>&nbsp;&nbsp;dev_stage:&nbsp;juvenile<br>&nbsp;&nbsp;geo_loc_name:&nbsp;Uruguay<br>&nbsp;&nbsp;individual_id:&nbsp;''<br>&nbsp;&nbsp;lat_lon:&nbsp;33&nbsp;44&nbsp;31&nbsp;S;&nbsp;53&nbsp;44&nbsp;46&nbsp;W<br>&nbsp;&nbsp;scientific_name:&nbsp;Theristicus&nbsp;caerulescens<br>&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;store_cond:&nbsp;-80C<br>&nbsp;&nbsp;taxon_Id:&nbsp;'1118847'<br>&nbsp;&nbsp;tissue:&nbsp;Unknown<br>&nbsp;&nbsp;treatment:&nbsp;''<br>&nbsp;&nbsp;tube_id:&nbsp;bTheCae1.Uk1<br>
   ident: md6
   title: bTheCae1_metadata.yml
-metadata: |
-  species:
-    short_name: bTheCae
-    name: Theristicus caerulescens
-    taxon_id: 1118847
-    common_name: plumbeous ibis
-    order:
-      name: Pelicaniformes
-    family:
-      name: Threskiornithidae
-    individuals:
-      - short_name: bTheCae1
-    genome_size: 1000000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bTheCae<br>&nbsp;&nbsp;name:&nbsp;Theristicus&nbsp;caerulescens<br>&nbsp;&nbsp;taxon_id:&nbsp;1118847<br>&nbsp;&nbsp;common_name:&nbsp;plumbeous&nbsp;ibis<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pelicaniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Threskiornithidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bTheCae1<br>&nbsp;&nbsp;genome_size:&nbsp;1000000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2021-01-20
 mito1filesize: 5.2 KiB
 mito1length: '19114'

@@ -101,21 +101,7 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
-metadata: |
-  species:
-    common_name: common marmoset
-    family:
-      name: Callitrichidae
-    genome_size: 3430000000
-    genome_size_method: null
-    individuals:
-    - short_name: mCalJac1
-    name: Callithrix jacchus
-    order:
-      name: Primates
-    short_name: mCalJac
-    taxon_id: 9483
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;marmoset<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Callitrichidae<br>&nbsp;&nbsp;genome_size:&nbsp;3430000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mCalJac1<br>&nbsp;&nbsp;name:&nbsp;Callithrix&nbsp;jacchus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;short_name:&nbsp;mCalJac<br>&nbsp;&nbsp;taxon_id:&nbsp;9483<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mgd1date: 2021-04-25
 mgd1filesize: 855.4 MiB
 mgd1length: '2874881015'

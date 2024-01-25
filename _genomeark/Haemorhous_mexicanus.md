@@ -83,38 +83,10 @@ genome_size_method: GoAT
 last_raw_data: 1651611249
 last_updated: 1651611249
 mds:
-- data: |-
-    species: Haemorhous mexicanus
-    specimen: bHaeMex1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/bHaeMex1.pri.asm.20210901.fasta.gz
-    haplotigs: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/bHaeMex1.alt.asm.20210820.fasta.gz
-    hic_bam: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bHaeMex1_s2.bam
-    pretext: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bHaeMex1_s2.pretext
-    kmer_spectra_img: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/evaluation/merqury/p/bHaeMex1_images/output_merqury.spectra-cn.fl.png
-    pipeline:
-      - hifiasm (0.15.4+galaxy)
-      - purge_dups (1.2.5+galaxy3)
-      - bionano_solve (3.6.1+galaxy2)
-      - salsa (2.3+galaxy0)
+- data: species:&nbsp;Haemorhous&nbsp;mexicanus<br>specimen:&nbsp;bHaeMex1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/bHaeMex1.pri.asm.20210901.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/bHaeMex1.alt.asm.20210820.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bHaeMex1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bHaeMex1_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/evaluation/merqury/p/bHaeMex1_images/output_merqury.spectra-cn.fl.png<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(3.6.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy0)
   ident: md4
   title: assembly_vgp_standard_2.0/bHaeMex1.yaml
-metadata: |
-  species:
-    name: Haemorhous mexicanus
-    individuals:
-    - short_name: bHaeMex1
-    short_name: bHaeMex
-    taxon_id: '30427'
-    common_name: house finch
-    genome_size: 1369000000
-    genome_size_method: GoAT
-    order:
-      name: Passeriformes
-    family:
-      name: Fringillidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Haemorhous&nbsp;mexicanus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bHaeMex1<br>&nbsp;&nbsp;short_name:&nbsp;bHaeMex<br>&nbsp;&nbsp;taxon_id:&nbsp;'30427'<br>&nbsp;&nbsp;common_name:&nbsp;house&nbsp;finch<br>&nbsp;&nbsp;genome_size:&nbsp;1369000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Fringillidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Haemorhous mexicanus
 name_: Haemorhous_mexicanus
 pri1date: 2022-02-03

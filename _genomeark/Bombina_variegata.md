@@ -33,24 +33,7 @@ genome_size_display: 8.96 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691529665
 last_updated: 1691529665
-metadata: |
-  species:
-    short_name: aBomVar
-    name: Bombina variegata
-    taxon_id: 8348
-    common_name: yellow-bellied toad
-    order:
-      name: Anura
-    family:
-      name: Bombinatoridae
-    individuals:
-      - short_name: aBomVar4
-        biosample_id: SAMEA112651403
-        sex: male
-    genome_size: 8958480000
-    genome_size_method: GoaT
-    data_use_project: erga
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;aBomVar<br>&nbsp;&nbsp;name:&nbsp;Bombina&nbsp;variegata<br>&nbsp;&nbsp;taxon_id:&nbsp;8348<br>&nbsp;&nbsp;common_name:&nbsp;yellow-bellied&nbsp;toad<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anura<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Bombinatoridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aBomVar4<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112651403<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;8958480000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;data_use_project:&nbsp;erga<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Bombina variegata
 name_: Bombina_variegata
 project:

@@ -75,9 +75,36 @@ data_pacbio:fDreSAT1_scale: 0.2650
 data_pacbio_bases: 128.48 Gbp
 data_pacbio_bytes: 451.5 GiB
 data_pacbio_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">ONT
-  Simplex</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Dovetail</em>
-  ::: <em style="color:forestgreen">Illumina</em>'
+data_pacbiohifi_bam-12_bases: ''
+data_pacbiohifi_bam-12_bytes: 1.0 TiB
+data_pacbiohifi_bam-12_coverage: N/A
+data_pacbiohifi_bam-12_links: s3://genomeark/species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-12_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-12_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam_bases: ''
+data_pacbiohifi_bam_bytes: 1.0 TiB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_clr-12_bases: ''
+data_pacbiohifi_clr-12_bytes: 7.5 TiB
+data_pacbiohifi_clr-12_coverage: N/A
+data_pacbiohifi_clr-12_links: s3://genomeark/species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-12_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-12_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr_bases: ''
+data_pacbiohifi_clr_bytes: 7.5 TiB
+data_pacbiohifi_clr_coverage: N/A
+data_pacbiohifi_fqgz-12_bases: ''
+data_pacbiohifi_fqgz-12_bytes: 254.0 GiB
+data_pacbiohifi_fqgz-12_coverage: N/A
+data_pacbiohifi_fqgz-12_links: s3://genomeark/species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-12_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-12_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz_bases: ''
+data_pacbiohifi_fqgz_bytes: 254.0 GiB
+data_pacbiohifi_fqgz_coverage: N/A
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
+  HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -87,8 +114,8 @@ genbank_pri: fDanRer4:GCA_944039275.1
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1690685893
-last_updated: 1690685893
+last_raw_data: 1705746170
+last_updated: 1705746170
 mat1date: 2020-05-22
 mat1filesize: 387.1 MiB
 mat1length: '1360489499'
@@ -118,16 +145,7 @@ mat1sizes: |
   </tfoot>
   </table>
 mat1version: assembly_curated
-metadata: "species:\n  short_name: fDanRer\n  name: Danio rerio\n  taxon_id: 29144\n
-  \ common_name: zebrafish\n  order:\n    name: Cypriniformes\n  family:\n    name:
-  Cyprinidae\n  individuals:\n    - short_name: fDreSAT1\n      biosample_id: SAMEA104236293\n
-  \     strain: SAT\n      mother: fDreABH1\n      father: fDreTuH1\n    - short_name:
-  fDreSAT3\n      strain: SAT\n    - short_name: fDreABH1\n      biosample_id: SAMEA3891249\n
-  \     strain: AB\n      sex: male\n      description: AB strain double haploid female
-  founder of SAT strain \n    - short_name: fDreTuH1\n      biosample_id: SAMEA3891248\n
-  \     strain: Tuebingen\n      sex: female\n      description: Tuebingen strain
-  double haploid female founder of SAT strain\n  genome_size: \n  genome_size_method:\n
-  \ project: [ vgp ]\n"
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fDanRer<br>&nbsp;&nbsp;name:&nbsp;Danio&nbsp;rerio<br>&nbsp;&nbsp;taxon_id:&nbsp;29144<br>&nbsp;&nbsp;common_name:&nbsp;zebrafish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cypriniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyprinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fDreSAT1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA104236293<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;SAT<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;fDreABH1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;fDreTuH1<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fDreSAT3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;SAT<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fDreABH1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA3891249<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;AB<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;AB&nbsp;strain&nbsp;double&nbsp;haploid&nbsp;female&nbsp;founder&nbsp;of&nbsp;SAT&nbsp;strain&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fDreTuH1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA3891248<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;Tuebingen<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;Tuebingen&nbsp;strain&nbsp;double&nbsp;haploid&nbsp;female&nbsp;founder&nbsp;of&nbsp;SAT&nbsp;strain<br>&nbsp;&nbsp;genome_size:&nbsp;<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-02
 mito1filesize: 5.0 KiB
 mito1length: '16596'

@@ -60,23 +60,7 @@ genome_size_display: 0.84 Gbp
 genome_size_method: GoaT
 last_raw_data: 1686683055
 last_updated: 1695772864
-metadata: |
-  species:
-    short_name: fEutGur
-    name: Eutrigla gurnardus
-    taxon_id: 426098
-    common_name: grey gurnard
-    order:
-      name: Scorpaeniformes
-    family:
-      name: Triglidae
-    individuals:
-      - short_name: fEutGur1
-        biosample_id: SAMEA111562159
-        sex:
-    genome_size: 836190000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fEutGur<br>&nbsp;&nbsp;name:&nbsp;Eutrigla&nbsp;gurnardus<br>&nbsp;&nbsp;taxon_id:&nbsp;426098<br>&nbsp;&nbsp;common_name:&nbsp;grey&nbsp;gurnard<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scorpaeniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Triglidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fEutGur1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111562159<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;836190000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-07-01
 mito1filesize: 5.3 KiB
 mito1length: '16513'

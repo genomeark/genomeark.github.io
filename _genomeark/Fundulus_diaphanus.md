@@ -100,57 +100,13 @@ hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1683664264
 last_updated: 1685489327
 mds:
-- data: "species: Fundulus diaphanus\nspecimen: fFunDia1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/fFunDia1.HiC.hap1.20230523.fasta.gz\nhap2:
-    s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/fFunDia1.HiC.hap2.20230523.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fFunDia1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fFunDia1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/merqury/fFunDia1_png/\nmito:
-    s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_MT_rockefeller/fFunDia1.MT.20230509.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nbionano_cmap_dir: s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/bionano/\nhic_read_dir:
-    s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.19.3+galaxy0)\n  - solve (3.7)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group:
-    Rockefeller\nnotes: This was a hifiasm-HiC assembly of fFunDia1, resulting in
-    two complete haplotypes. This individual did have bionano data. HiC scaffolding
-    was performed with yahs. The HiC prep was Arima kit 2. The kmer spectra indicate
-    a homogametic specimen. I am submitting both hap1 & hap2 for dual curation. This
-    is the curation ticket for hap1. "
+- data: species:&nbsp;Fundulus&nbsp;diaphanus<br>specimen:&nbsp;fFunDia1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/fFunDia1.HiC.hap1.20230523.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/fFunDia1.HiC.hap2.20230523.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fFunDia1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fFunDia1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/merqury/fFunDia1_png/<br>mito:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_MT_rockefeller/fFunDia1.MT.20230509.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fFunDia1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicate&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;
   ident: md3
   title: assembly_vgp_HiC_2.0/fFunDia1_hap1.yml
-- data: "species: Fundulus diaphanus\nspecimen: fFunDia1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/fFunDia1.HiC.hap1.20230523.fasta.gz\nhap2:
-    s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/fFunDia1.HiC.hap2.20230523.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fFunDia1_hap1__s2_heatmap.pretext\npretext_hap2:
-    s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fFunDia1_hap2__s2_heatmap.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/merqury/fFunDia1_png/\nmito:
-    s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_MT_rockefeller/fFunDia1.MT.20230509.fasta.gz\npacbio_read_dir:
-    s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nbionano_cmap_dir: s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/bionano/\nhic_read_dir:
-    s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/arima/\npipeline:\n
-    \ - hifiasm (0.19.3+galaxy0)\n  - solve (3.7)\n  - yahs (1.2a.2+galaxy1)\nassembled_by_group:
-    Rockefeller\nnotes: This was a hifiasm-HiC assembly of fFunDia1, resulting in
-    two complete haplotypes. This individual did have bionano data. HiC scaffolding
-    was performed with yahs. The HiC prep was Arima kit 2. The kmer spectra indicate
-    a homogametic specimen. I am submitting both hap1 & hap2 for dual curation. This
-    is the curation ticket for hap2. "
+- data: species:&nbsp;Fundulus&nbsp;diaphanus<br>specimen:&nbsp;fFunDia1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/fFunDia1.HiC.hap1.20230523.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/fFunDia1.HiC.hap2.20230523.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fFunDia1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fFunDia1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/merqury/fFunDia1_png/<br>mito:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_MT_rockefeller/fFunDia1.MT.20230509.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fFunDia1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicate&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap2.&nbsp;
   ident: md4
   title: assembly_vgp_HiC_2.0/fFunDia1_hap2.yml
-metadata: |
-  species:
-    name: Fundulus diaphanus
-    individuals:
-    - short_name: fFunDia1
-    short_name: fFunDia
-    taxon_id: 54267
-    common_name: banded killifish
-    genome_size: 1515000000
-    genome_size_method: GoAT
-    order:
-      name: Cyprinodontiformes
-    family:
-      name: Fundulidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Fundulus&nbsp;diaphanus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fFunDia1<br>&nbsp;&nbsp;short_name:&nbsp;fFunDia<br>&nbsp;&nbsp;taxon_id:&nbsp;54267<br>&nbsp;&nbsp;common_name:&nbsp;banded&nbsp;killifish<br>&nbsp;&nbsp;genome_size:&nbsp;1515000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyprinodontiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Fundulidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-05-09
 mito1filesize: 5.3 KiB
 mito1length: '16530'

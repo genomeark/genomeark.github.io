@@ -21,21 +21,7 @@ genome_size_display: 1.46 Gbp
 genome_size_method: GoAT
 last_raw_data: 1633550753
 last_updated: 1633550753
-metadata: |
-  species:
-    name: Todiramphus cinnamominus
-    individuals:
-    - short_name: bTodCin1
-    short_name: bTodCin
-    taxon_id: 1006542
-    common_name: Micronesian kingfisher
-    genome_size: 1457000000
-    genome_size_method: GoAT
-    order:
-      name: Coraciiformes
-    family:
-      name: Alcedinidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Todiramphus&nbsp;cinnamominus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bTodCin1<br>&nbsp;&nbsp;short_name:&nbsp;bTodCin<br>&nbsp;&nbsp;taxon_id:&nbsp;1006542<br>&nbsp;&nbsp;common_name:&nbsp;Micronesian&nbsp;kingfisher<br>&nbsp;&nbsp;genome_size:&nbsp;1457000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Coraciiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Alcedinidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Todiramphus cinnamominus
 name_: Todiramphus_cinnamominus
 project:

@@ -83,21 +83,7 @@ genome_size_display: 2.50 Gbp
 genome_size_method: ''
 last_raw_data: 1563832512
 last_updated: 1621879478
-metadata: |
-  species:
-    short_name: rDerCor
-    name: Dermochelys coriacea
-    taxon_id: 27794
-    common_name: leatherback sea turtle
-    order:
-      name: Testudines
-    family:
-      name: Dermochelyidae
-    individuals:
-      - short_name: rDerCor1
-    genome_size: 2500000000
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;rDerCor<br>&nbsp;&nbsp;name:&nbsp;Dermochelys&nbsp;coriacea<br>&nbsp;&nbsp;taxon_id:&nbsp;27794<br>&nbsp;&nbsp;common_name:&nbsp;leatherback&nbsp;sea&nbsp;turtle<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Testudines<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Dermochelyidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rDerCor1<br>&nbsp;&nbsp;genome_size:&nbsp;2500000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-08-20
 mito1filesize: 4.9 KiB
 mito1length: '16625'

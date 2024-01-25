@@ -83,26 +83,7 @@ genome_size_display: 1.76 Gbp
 genome_size_method: ''
 last_raw_data: 1675961289
 last_updated: 1675961289
-metadata: |
-  species:
-    short_name: mPipPip
-    name: Pipistrellus pipistrellus
-    taxon_id: 59474
-    common_name: common pipistrelle
-    order:
-      name: Chiroptera
-    family:
-      name: Vespertilionidae
-    individuals:
-      - short_name: mPipPip1
-        biosample_id: SAMEA994724
-        sex: male
-      - short_name: mPipPip2
-        biosample_id: SAMEA9921453
-        sex: female
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPipPip<br>&nbsp;&nbsp;name:&nbsp;Pipistrellus&nbsp;pipistrellus<br>&nbsp;&nbsp;taxon_id:&nbsp;59474<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;pipistrelle<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPipPip1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA994724<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPipPip2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA9921453<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 4.9 KiB
 mito1length: '16925'

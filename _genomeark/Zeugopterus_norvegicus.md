@@ -21,23 +21,7 @@ genome_size_display: 0.74 Gbp
 genome_size_method: GoaT
 last_raw_data: 1686685503
 last_updated: 1686685503
-metadata: |
-  species:
-    short_name: fPhrNor
-    name: Zeugopterus norvegicus
-    taxon_id: 508659
-    common_name: Norwegian topknot
-    order:
-      name: Pleuronectiformes
-    family:
-      name: Scophthalmidae
-    individuals:
-      - short_name: fPhrNor1
-        biosample_id: SAMEA112788960
-        sex:
-    genome_size: 738390000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fPhrNor<br>&nbsp;&nbsp;name:&nbsp;Zeugopterus&nbsp;norvegicus<br>&nbsp;&nbsp;taxon_id:&nbsp;508659<br>&nbsp;&nbsp;common_name:&nbsp;Norwegian&nbsp;topknot<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pleuronectiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scophthalmidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fPhrNor1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112788960<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;738390000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Zeugopterus norvegicus
 name_: Zeugopterus_norvegicus
 project:

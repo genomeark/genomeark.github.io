@@ -21,23 +21,7 @@ genome_size_display: 0.69 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675890159
 last_updated: 1675890159
-metadata: |
-  species:
-    short_name: fCalLyr
-    name: Callionymus lyra
-    taxon_id: 34785
-    common_name: dragonet
-    order:
-      name: Perciformes
-    family:
-      name: Callionymidae
-    individuals:
-      - short_name: fCalLyr1
-        biosample_id: SAMEA12219469
-        sex: female
-    genome_size: 689490000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fCalLyr<br>&nbsp;&nbsp;name:&nbsp;Callionymus&nbsp;lyra<br>&nbsp;&nbsp;taxon_id:&nbsp;34785<br>&nbsp;&nbsp;common_name:&nbsp;dragonet<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Callionymidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCalLyr1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12219469<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;689490000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Callionymus lyra
 name_: Callionymus_lyra
 project:

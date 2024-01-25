@@ -60,23 +60,7 @@ genome_size_display: 1.35 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691912691
 last_updated: 1694822443
-metadata: |
-  species:
-    short_name: rZooViv
-    name: Zootoca vivipara
-    taxon_id: 8524
-    common_name: common lizard
-    order:
-      name: Squamata
-    family:
-      name: Lacertidae
-    individuals:
-      - short_name: rZooViv1
-        biosample_id: SAMEA111528662
-        sex: female
-    genome_size: 1349640000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;rZooViv<br>&nbsp;&nbsp;name:&nbsp;Zootoca&nbsp;vivipara<br>&nbsp;&nbsp;taxon_id:&nbsp;8524<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;lizard<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lacertidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rZooViv1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111528662<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1349640000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-08-14
 mito1filesize: 5.4 KiB
 mito1length: '17050'

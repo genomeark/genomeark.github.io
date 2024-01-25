@@ -60,23 +60,7 @@ genome_size_display: 0.95 Gbp
 genome_size_method: GoaT
 last_raw_data: 1699887419
 last_updated: 1700874171
-metadata: |
-  species:
-    short_name: fScoSco
-    name: Scomber scombrus
-    taxon_id: 13677
-    common_name: Atlantic mackerel
-    order:
-      name: Perciformes
-    family:
-      name: Scombridae
-    individuals:
-      - short_name: fScoSco1
-        biosample_id: SAMEA110450232
-        sex:
-    genome_size: 948660000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fScoSco<br>&nbsp;&nbsp;name:&nbsp;Scomber&nbsp;scombrus<br>&nbsp;&nbsp;taxon_id:&nbsp;13677<br>&nbsp;&nbsp;common_name:&nbsp;Atlantic&nbsp;mackerel<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scombridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fScoSco1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110450232<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;948660000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-11-14
 mito1filesize: 5.4 KiB
 mito1length: '16559'

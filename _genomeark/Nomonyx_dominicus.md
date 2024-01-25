@@ -52,21 +52,7 @@ genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1638999143
 last_updated: 1638999143
-metadata: |
-  species:
-    short_name: bNomDom
-    name: Nomonyx dominicus
-    taxon_id: 555276
-    common_name: masked duck
-    order:
-      name: Anseriformes
-    family:
-      name: Anatidae
-    individuals:
-      - short_name: bNomDom1
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bNomDom<br>&nbsp;&nbsp;name:&nbsp;Nomonyx&nbsp;dominicus<br>&nbsp;&nbsp;taxon_id:&nbsp;555276<br>&nbsp;&nbsp;common_name:&nbsp;masked&nbsp;duck<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bNomDom1<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Nomonyx dominicus
 name_: Nomonyx_dominicus
 project:

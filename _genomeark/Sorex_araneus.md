@@ -93,55 +93,13 @@ genome_size_method: GoAT
 last_raw_data: 1651667882
 last_updated: 1667318915
 mds:
-- data: |
-    species: Sorex araneus
-    specimen: mSorAra1
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/mSorAra1.pri.asm.20211103.fasta.gz
-    haplotigs: s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/mSorAra1.alt.asm.20211103.fasta.gz
-    hic_bam: s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mSorAra1_s2.bam
-    pretext: s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mSorAra1_s2.pretext
-    kmer_spectra_img: s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/evaluation/merqury/p/mSorAra1_images/
-    pipeline:
-      - hifiasm (0.15.4+galaxy0)
-      - purge_dups (1.2.5+galaxy3)
-      - bionano scaffold (3.6.1+galaxy2)
-      - salsa (2.3+galaxy1)
+- data: species:&nbsp;Sorex&nbsp;araneus<br>specimen:&nbsp;mSorAra1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/mSorAra1.pri.asm.20211103.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/mSorAra1.alt.asm.20211103.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mSorAra1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mSorAra1_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/evaluation/merqury/p/mSorAra1_images/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;bionano&nbsp;scaffold&nbsp;(3.6.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy1)<br>
   ident: md1
   title: assembly_vgp_standard_2.0/mSorAra1.yaml
-- data: |
-    species: Sorex araneus
-    specimen: mSorAra2
-    projects:
-      - vgp
-    primary: s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/mSorAra2.pri.asm.20211103.fasta.gz
-    haplotigs: s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/mSorAra2.alt.asm.20211103.fasta.gz
-    hic_bam: s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mSorAra1_s2.bam
-    pretext: s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mSorAra1_s2.pretext
-    kmer_spectra_img: s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/evaluation/merqury/p/mSorAra1_images/
-    pipeline:
-      - hifiasm (0.15.4+galaxy0)
-      - purge_dups (1.2.5+galaxy3)
-      - bionano scaffold (3.6.1+galaxy2)
-      - salsa (2.3+galaxy1)
+- data: species:&nbsp;Sorex&nbsp;araneus<br>specimen:&nbsp;mSorAra2<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/mSorAra2.pri.asm.20211103.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/mSorAra2.alt.asm.20211103.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mSorAra1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mSorAra1_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Sorex_araneus/mSorAra1/assembly_vgp_standard_2.0/evaluation/merqury/p/mSorAra1_images/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;bionano&nbsp;scaffold&nbsp;(3.6.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy1)<br>
   ident: md4
   title: assembly_vgp_standard_2.0/mSorAra2.yaml
-metadata: |
-  species:
-    name: Sorex araneus
-    individuals:
-    - short_name: mSorAra1
-    short_name: mSorAra
-    taxon_id: 42254
-    common_name: European shrew
-    genome_size: 2846000000
-    genome_size_method: GoAT
-    order:
-      name: Eulipotyphla
-    family:
-      name: Soricidae
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Sorex&nbsp;araneus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mSorAra1<br>&nbsp;&nbsp;short_name:&nbsp;mSorAra<br>&nbsp;&nbsp;taxon_id:&nbsp;42254<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;shrew<br>&nbsp;&nbsp;genome_size:&nbsp;2846000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Eulipotyphla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Soricidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2022-06-17
 mito1filesize: 5.0 KiB
 mito1length: '17325'

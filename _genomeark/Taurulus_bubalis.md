@@ -73,23 +73,7 @@ genome_size_display: 0.62 Gbp
 genome_size_method: ''
 last_raw_data: 1651599331
 last_updated: 1691669073
-metadata: |
-  species:
-    short_name: fTauBub
-    name: Taurulus bubalis
-    taxon_id: 61643
-    common_name: long-spined sea scorpion
-    order:
-      name: Perciformes
-    family:
-      name: Cottidae
-    individuals:
-      - short_name: fTauBub2
-        biosample_id: SAMEA7522994
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fTauBub<br>&nbsp;&nbsp;name:&nbsp;Taurulus&nbsp;bubalis<br>&nbsp;&nbsp;taxon_id:&nbsp;61643<br>&nbsp;&nbsp;common_name:&nbsp;long-spined&nbsp;sea&nbsp;scorpion<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cottidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fTauBub2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7522994<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2021-02-23
 mito2filesize: 5.4 KiB
 mito2length: '16828'

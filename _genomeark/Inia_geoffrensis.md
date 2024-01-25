@@ -90,36 +90,10 @@ hpb1version: assembly_curated
 last_raw_data: 1684335988
 last_updated: 1704681663
 mds:
-- data: "species: Inia geoffrensis\nspecimen: mIniGeo1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nhaplotype_to_curate: hap1\nhap1: s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/HLiniGeo1A.fasta.gz\nhap2:
-    s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/HLiniGeo1B.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/mIniGeo1_A.pretext\npretext_hap2:
-    s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/mIniGeo1_B.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/merqury/mIniGeo1_png/\npacbio_read_dir:
-    s3://genomeark/species/Inia_geoffrensis/mIniGeo1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Inia_geoffrensis/mIniGeo1/genomic_data/dovetail/\npipeline:\n
-    \ - hifiasm (0.16.1)\n  - yahs (1.1a)\nassembled_by_group: Dresden\nnotes: This
-    was a hifiasm-HiC assembly of mIniGeo1 (Dresden ID is HLiniGeo1), resulting in
-    two complete haplotypes (A and B). HiC scaffolding was performed with yahs. The
-    HiC prep was Dovetail omnic. The specimen was a male mammal. The assembly was
-    performed by Tilman Schell and Michael Hiller. We am submitting both hap1 & hap2
-    for dual curation. This is the curation ticket for hap1. "
+- data: species:&nbsp;Inia&nbsp;geoffrensis<br>specimen:&nbsp;mIniGeo1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/HLiniGeo1A.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/HLiniGeo1B.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/mIniGeo1_A.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/mIniGeo1_B.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/merqury/mIniGeo1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Inia_geoffrensis/mIniGeo1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Inia_geoffrensis/mIniGeo1/genomic_data/dovetail/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.1a)<br>assembled_by_group:&nbsp;Dresden<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mIniGeo1&nbsp;(Dresden&nbsp;ID&nbsp;is&nbsp;HLiniGeo1),&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes&nbsp;(A&nbsp;and&nbsp;B).&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Dovetail&nbsp;omnic.&nbsp;The&nbsp;specimen&nbsp;was&nbsp;a&nbsp;male&nbsp;mammal.&nbsp;The&nbsp;assembly&nbsp;was&nbsp;performed&nbsp;by&nbsp;Tilman&nbsp;Schell&nbsp;and&nbsp;Michael&nbsp;Hiller.&nbsp;We&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;
   ident: md2
   title: assembly_MPI_HiC_2.0/mIniGeo1_1A.yml
-- data: "species: Inia geoffrensis\nspecimen: mIniGeo1\nprojects: \n  - vgp\ndata_location:
-    S3\nrelease_to: S3\nhaplotype_to_curate: hap2\nhap1: s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/HLiniGeo1A.fasta.gz\nhap2:
-    s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/HLiniGeo1B.fasta.gz\npretext_hap1:
-    s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/mIniGeo1_A.pretext\npretext_hap2:
-    s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/mIniGeo1_B.pretext\nkmer_spectra_img:
-    s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/merqury/mIniGeo1_png/\npacbio_read_dir:
-    s3://genomeark/species/Inia_geoffrensis/mIniGeo1/genomic_data/pacbio_hifi/\npacbio_read_type:
-    hifi\nhic_read_dir: s3://genomeark/species/Inia_geoffrensis/mIniGeo1/genomic_data/dovetail/\npipeline:\n
-    \ - hifiasm (0.16.1)\n  - yahs (1.1a)\nassembled_by_group: Dresden\nnotes: This
-    was a hifiasm-HiC assembly of mIniGeo1 (Dresden ID is HLiniGeo1), resulting in
-    two complete haplotypes (A and B). HiC scaffolding was performed with yahs. The
-    HiC prep was Dovetail omnic. The specimen was a male mammal. The assembly was
-    performed by Tilman Schell and Michael Hiller. We am submitting both hap1 & hap2
-    for dual curation. This is the curation ticket for hap2. "
+- data: species:&nbsp;Inia&nbsp;geoffrensis<br>specimen:&nbsp;mIniGeo1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/HLiniGeo1A.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/HLiniGeo1B.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/mIniGeo1_A.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/mIniGeo1_B.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Inia_geoffrensis/mIniGeo1/assembly_MPI_HiC_2.0/merqury/mIniGeo1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Inia_geoffrensis/mIniGeo1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Inia_geoffrensis/mIniGeo1/genomic_data/dovetail/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.1a)<br>assembled_by_group:&nbsp;Dresden<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mIniGeo1&nbsp;(Dresden&nbsp;ID&nbsp;is&nbsp;HLiniGeo1),&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes&nbsp;(A&nbsp;and&nbsp;B).&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Dovetail&nbsp;omnic.&nbsp;The&nbsp;specimen&nbsp;was&nbsp;a&nbsp;male&nbsp;mammal.&nbsp;The&nbsp;assembly&nbsp;was&nbsp;performed&nbsp;by&nbsp;Tilman&nbsp;Schell&nbsp;and&nbsp;Michael&nbsp;Hiller.&nbsp;We&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap2.&nbsp;
   ident: md3
   title: assembly_MPI_HiC_2.0/mIniGeo1_2B.yml
 mito1date: 2023-05-23

@@ -21,23 +21,7 @@ genome_size_display: 1.21 Gbp
 genome_size_method: GoaT
 last_raw_data: 1699888375
 last_updated: 1699888375
-metadata: |
-  species:
-    short_name: fLeuLeu
-    name: Leuciscus leuciscus
-    taxon_id: 58325
-    common_name: common dace
-    order:
-      name: Cypriniformes
-    family:
-      name: Cyprinidae
-    individuals:
-      - short_name: fLeuLeu2
-        biosample_id: SAMEA11296544
-        sex:
-    genome_size: 1207830000
-    genome_size_method: GoaT
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fLeuLeu<br>&nbsp;&nbsp;name:&nbsp;Leuciscus&nbsp;leuciscus<br>&nbsp;&nbsp;taxon_id:&nbsp;58325<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;dace<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cypriniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyprinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fLeuLeu2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA11296544<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1207830000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Leuciscus leuciscus
 name_: Leuciscus_leuciscus
 project:

@@ -73,21 +73,7 @@ genome_size_display: 2.44 Gbp
 genome_size_method: ''
 last_raw_data: 1591286244
 last_updated: 1591286244
-metadata: |
-  species:
-    short_name: mLutLut
-    name: Lutra lutra
-    taxon_id: 9657
-    common_name: European otter
-    order:
-      name: Carnivora
-    family:
-      name: Mustelidae
-    individuals:
-      - short_name: mLutLut1
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mLutLut<br>&nbsp;&nbsp;name:&nbsp;Lutra&nbsp;lutra<br>&nbsp;&nbsp;taxon_id:&nbsp;9657<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;otter<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carnivora<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Mustelidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mLutLut1<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 4.9 KiB
 mito1length: '16536'

@@ -73,23 +73,7 @@ genome_size_display: 0.59 Gbp
 genome_size_method: ''
 last_raw_data: 1675882608
 last_updated: 1675882608
-metadata: |
-  species:
-    short_name: fPhoGun
-    name: Pholis gunnellus
-    taxon_id: 56726
-    common_name: rock gunnel
-    order:
-      name: Perciformes
-    family:
-      name: Pholidae
-    individuals:
-      - short_name: fPhoGun1
-        biosample_id: SAMEA7522838
-        sex:
-    genome_size:
-    genome_size_method:
-    project: [ vgp ]
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fPhoGun<br>&nbsp;&nbsp;name:&nbsp;Pholis&nbsp;gunnellus<br>&nbsp;&nbsp;taxon_id:&nbsp;56726<br>&nbsp;&nbsp;common_name:&nbsp;rock&nbsp;gunnel<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pholidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fPhoGun1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7522838<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Pholis gunnellus
 name_: Pholis_gunnellus
 pri1date: 2021-10-20
