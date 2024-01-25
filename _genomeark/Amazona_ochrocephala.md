@@ -88,10 +88,10 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1684342555
-last_updated: 1688968175
+last_updated: 1706206662
 mds:
 - data: species:&nbsp;Amazona&nbsp;ochrocephala<br>specimen:&nbsp;bAmaOch1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_vgp_HiC_2.0/bAmaOch1.HiC.hap1.20230710.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_vgp_HiC_2.0/bAmaOch1.HiC.hap2.20230710.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bAmaOch1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bAmaOch1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_vgp_HiC_2.0/evaluation/merqury/bAmaOch1_png/<br>mito:&nbsp;s3://genomeark/species/Amazona_ochrocephala/bAmaOch1/assembly_MT_rockefeller/bAmaOch1.MT.20230710.fasta.gz<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bAmaOch1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.
-  ident: md5
+  ident: md6
   title: assembly_vgp_HiC_2.0/bAmaOch1.yml
 mito1date: 2023-07-10
 mito1filesize: 5.7 KiB

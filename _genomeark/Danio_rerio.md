@@ -75,31 +75,34 @@ data_pacbio:fDreSAT1_scale: 0.2650
 data_pacbio_bases: 128.48 Gbp
 data_pacbio_bytes: 451.5 GiB
 data_pacbio_coverage: N/A
-data_pacbiohifi_bam-12_bases: ''
+data_pacbiohifi_bam-12_bases: 279.04 Gbp
 data_pacbiohifi_bam-12_bytes: 1.0 TiB
 data_pacbiohifi_bam-12_coverage: N/A
 data_pacbiohifi_bam-12_links: s3://genomeark/species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-12_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-12_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam_bases: ''
+data_pacbiohifi_bam-12_scale: 0.2588
+data_pacbiohifi_bam_bases: 279.04 Gbp
 data_pacbiohifi_bam_bytes: 1.0 TiB
 data_pacbiohifi_bam_coverage: N/A
-data_pacbiohifi_clr-12_bases: ''
+data_pacbiohifi_clr-12_bases: 4468.83 Gbp
 data_pacbiohifi_clr-12_bytes: 7.5 TiB
 data_pacbiohifi_clr-12_coverage: N/A
 data_pacbiohifi_clr-12_links: s3://genomeark/species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr-12_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/
 data_pacbiohifi_clr-12_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/
-data_pacbiohifi_clr_bases: ''
+data_pacbiohifi_clr-12_scale: 0.5441
+data_pacbiohifi_clr_bases: 4468.83 Gbp
 data_pacbiohifi_clr_bytes: 7.5 TiB
 data_pacbiohifi_clr_coverage: N/A
-data_pacbiohifi_fqgz-12_bases: ''
+data_pacbiohifi_fqgz-12_bases: 276.16 Gbp
 data_pacbiohifi_fqgz-12_bytes: 254.0 GiB
 data_pacbiohifi_fqgz-12_coverage: N/A
 data_pacbiohifi_fqgz-12_links: s3://genomeark/species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-12_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-12_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz_bases: ''
+data_pacbiohifi_fqgz-12_scale: 1.0127
+data_pacbiohifi_fqgz_bases: 276.16 Gbp
 data_pacbiohifi_fqgz_bytes: 254.0 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio

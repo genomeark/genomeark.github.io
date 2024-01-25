@@ -101,9 +101,16 @@ data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Gorilla_gorilla/mGorGor1/ge
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 1.3057
-data_pacbiohifi_fqgz_bases: 631.48 Gbp
-data_pacbiohifi_fqgz_bytes: 450.4 GiB
-data_pacbiohifi_fqgz_coverage: 180.86x
+data_pacbiohifi_fqgz-5_bases: 18.62 Gbp
+data_pacbiohifi_fqgz-5_bytes: 13.1 GiB
+data_pacbiohifi_fqgz-5_coverage: 5.33x
+data_pacbiohifi_fqgz-5_links: s3://genomeark/species/Gorilla_gorilla/mGorGor5/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gorilla_gorilla/mGorGor5/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gorilla_gorilla/mGorGor5/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-5_scale: 1.3232
+data_pacbiohifi_fqgz_bases: 650.09 Gbp
+data_pacbiohifi_fqgz_bytes: 463.5 GiB
+data_pacbiohifi_fqgz_coverage: 186.20x
 data_pacbiohifi_q2fqgz-1_bases: 153.88 Gbp
 data_pacbiohifi_q2fqgz-1_bytes: 115.1 GiB
 data_pacbiohifi_q2fqgz-1_coverage: 44.07x
@@ -152,8 +159,8 @@ dip1version: assembly_curated
 genome_size: 3491460000
 genome_size_display: 3.49 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
-last_raw_data: 1698868487
-last_updated: 1701103897
+last_raw_data: 1706048586
+last_updated: 1706048586
 mat1date: 2023-11-22
 mat1filesize: 0.9 GiB
 mat1length: '3554709948'
