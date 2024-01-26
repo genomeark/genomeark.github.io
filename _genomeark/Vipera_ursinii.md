@@ -51,12 +51,10 @@ data_pacbiohifi_bam_bases: 44.51 Gbp
 data_pacbiohifi_bam_bytes: 28.3 GiB
 data_pacbiohifi_bam_coverage: 21.83x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
-data_use_source: from-project
-data_use_text: |
-  Samples and data come from a variety of sources. To support fair and
-  productive use of this data, please abide by the
-  <a href="https://drive.google.com/uc?export=download&id=1bPL2xNxGCTz3HMfL2yt11E2fnYXPU-7s"><em>ERGA Pilot Project Official Guidelines</em></a>
-  and contact <a href="https://www.erga-biodiversity.eu/join-contact">ERGA</a> with any questions.
+data_use_source: from-default
+data_use_text: Samples and data come from a variety of sources. To support fair and
+  productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
+  Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: rVipUrs1:GCA_947247025.1
 genbank_pri: rVipUrs1:GCA_947247035.1
 genome_size: 2039130000

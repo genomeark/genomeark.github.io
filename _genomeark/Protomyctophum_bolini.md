@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-09-01
-alt1filesize: 343.3 MiB
-alt1length: '1329183562'
-alt1n50ctg: '76068'
-alt1n50scf: '76068'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Protomyctophum_bolini/fProBol1/assembly_cambridge/fProBol1.alt.asm.20230901.fasta.gz
+alt1date: 2024-01-26
+alt1filesize: 348.3 MiB
+alt1length: '1340417512'
+alt1n50ctg: '80513'
+alt1n50scf: '80513'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Protomyctophum_bolini/fProBol1/assembly_curated/fProBol1.alt.cur.20240126.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 170 </td><td> 0.80 Mbp </td><td> 170 </td><td> 0.80 Mbp </td></tr><tr><td> 20 </td><td> 484 </td><td> 471.40 Kbp </td><td> 484 </td><td> 471.40 Kbp </td></tr><tr><td> 30 </td><td> 1006 </td><td> 289.53 Kbp </td><td> 1006 </td><td> 289.53 Kbp </td></tr><tr><td> 40 </td><td> 1870 </td><td> 170.27 Kbp </td><td> 1870 </td><td> 170.27 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 3547 </td><td> 76.07 Kbp </td><td> 3547 </td><td> 76.07 Kbp </td></tr><tr><td> 60 </td><td> 7818 </td><td> 30.61 Kbp </td><td> 7818 </td><td> 30.61 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 168 </td><td> 0.81 Mbp </td><td> 168 </td><td> 0.81 Mbp </td></tr><tr><td> 20 </td><td> 478 </td><td> 477.61 Kbp </td><td> 478 </td><td> 477.61 Kbp </td></tr><tr><td> 30 </td><td> 991 </td><td> 295.87 Kbp </td><td> 991 </td><td> 295.87 Kbp </td></tr><tr><td> 40 </td><td> 1830 </td><td> 176.14 Kbp </td><td> 1830 </td><td> 176.14 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 3423 </td><td> 80.51 Kbp </td><td> 3423 </td><td> 80.51 Kbp </td></tr><tr><td> 60 </td><td> 7460 </td><td> 31.78 Kbp </td><td> 7460 </td><td> 31.78 Kbp </td></tr><tr><td> 70 </td><td> 16028 </td><td> 12.17 Kbp </td><td> 16028 </td><td> 12.17 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.697x </th><th> 16644 </th><th> 1.33 Gbp </th><th> 16644 </th><th> 1.33 Gbp </th></tr>
+  <tr><th> 0.703x </th><th> 16600 </th><th> 1.34 Gbp </th><th> 16600 </th><th> 1.34 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Bolin's lanternfish
 data_arima-1_bases: 257.77 Gbp
 data_arima-1_bytes: 79.8 GiB
@@ -59,7 +59,7 @@ genome_size: 1907100000
 genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1693578608
-last_updated: 1693594174
+last_updated: 1706273893
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fProBol<br>&nbsp;&nbsp;name:&nbsp;Protomyctophum&nbsp;bolini<br>&nbsp;&nbsp;taxon_id:&nbsp;443714<br>&nbsp;&nbsp;common_name:&nbsp;Bolin's&nbsp;lanternfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fProBol1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12815434<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1907100000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-09-01
 mito1filesize: 5.8 KiB
@@ -92,12 +92,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Protomyctophum bolini
 name_: Protomyctophum_bolini
-pri1date: 2023-09-01
-pri1filesize: 301.6 MiB
-pri1length: '1161974989'
-pri1n50ctg: 388201
-pri1n50scf: 36416548
-pri1seq: https://s3.amazonaws.com/genomeark/species/Protomyctophum_bolini/fProBol1/assembly_cambridge/fProBol1.pri.asm.20230901.fasta.gz
+pri1date: 2024-01-26
+pri1filesize: 294.2 MiB
+pri1length: '1148224649'
+pri1n50ctg: 365544
+pri1n50scf: 37953872
+pri1seq: https://s3.amazonaws.com/genomeark/species/Protomyctophum_bolini/fProBol1/assembly_curated/fProBol1.pri.cur.20240126.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -115,12 +115,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 49 </td><td> 2.92 Mbp </td><td> 4 </td><td> 53.04 Mbp </td></tr><tr><td> 20 </td><td> 129 </td><td> 1.91 Mbp </td><td> 8 </td><td> 49.06 Mbp </td></tr><tr><td> 30 </td><td> 251 </td><td> 1.30 Mbp </td><td> 12 </td><td> 45.17 Mbp </td></tr><tr><td> 40 </td><td> 438 </td><td> 0.80 Mbp </td><td> 16 </td><td> 41.25 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 771 </td><td style="background-color:#ff8888;"> 388.20 Kbp </td><td> 21 </td><td style="background-color:#88ff88;"> 36.42 Mbp </td></tr><tr><td> 60 </td><td> 2044 </td><td> 44.34 Kbp </td><td> 385 </td><td> 62.14 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 49 </td><td> 2.92 Mbp </td><td> 4 </td><td> 52.59 Mbp </td></tr><tr><td> 20 </td><td> 129 </td><td> 1.91 Mbp </td><td> 8 </td><td> 50.26 Mbp </td></tr><tr><td> 30 </td><td> 253 </td><td> 1.27 Mbp </td><td> 12 </td><td> 45.97 Mbp </td></tr><tr><td> 40 </td><td> 446 </td><td> 0.77 Mbp </td><td> 16 </td><td> 44.21 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 799 </td><td style="background-color:#ff8888;"> 365.54 Kbp </td><td> 21 </td><td style="background-color:#88ff88;"> 37.95 Mbp </td></tr><tr><td> 60 </td><td> 2444 </td><td> 23.94 Kbp </td><td> 652 </td><td> 27.98 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.609x </th><th> 2745 </th><th> 1.16 Gbp </th><th> 999 </th><th> 1.16 Gbp </th></tr>
+  <tr><th> 0.602x </th><th> 2736 </th><th> 1.15 Gbp </th><th> 951 </th><th> 1.15 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: fProBol

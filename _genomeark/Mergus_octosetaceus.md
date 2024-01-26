@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-05-16
+hpa1date: 2024-01-26
 hpa1filesize: 345.2 MiB
 hpa1length: '1245774584'
 hpa1n50ctg: 10800487
 hpa1n50scf: 83836255
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_curated/bMerOct1.hap1.cur.20230516.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_curated/bMerOct1.hap1.cur.20240126.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -58,12 +58,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2023-05-16
-hpb1filesize: 294.7 MiB
+hpb1date: 2024-01-26
+hpb1filesize: 325.3 MiB
 hpb1length: '1213885900'
 hpb1n50ctg: 10490917
 hpb1n50scf: 77730658
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_curated/bMerOct1.hap2.cur.20230516.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_curated/bMerOct1.hap2.cur.20240126.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -88,13 +88,13 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1683912442
-last_updated: 1704823601
+last_updated: 1706281183
 mds:
 - data: species:&nbsp;Mergus&nbsp;octosetaceus<br>specimen:&nbsp;bMerOct1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/bMerOct1.HiC.hap1.20230516.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/bMerOct1.HiC.hap2.20230516.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bMerOct1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bMerOct1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/evaluation/merqury/bMerOct1_png/<br>mito:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_MT_rockefeller/bMerOct1.MT.20230512.fasta.gz<br>mito_gb:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_MT_rockefeller/bMerOct1.MT.20230512.gb<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bMerOct1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicate&nbsp;a&nbsp;heterogametic&nbsp;specimen,&nbsp;and&nbsp;the&nbsp;sample&nbsp;metadata&nbsp;indicates&nbsp;a&nbsp;female&nbsp;bird.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;
-  ident: md7
+  ident: md13
   title: assembly_vgp_HiC_2.0/bMerOct1_hap1.yml
 - data: species:&nbsp;Mergus&nbsp;octosetaceus<br>specimen:&nbsp;bMerOct1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/bMerOct1.HiC.hap1.20230516.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/bMerOct1.HiC.hap2.20230516.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bMerOct1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bMerOct1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/evaluation/merqury/bMerOct1_png/<br>mito:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_MT_rockefeller/bMerOct1.MT.20230512.fasta.gz<br>mito_gb:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_MT_rockefeller/bMerOct1.MT.20230512.gb<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bMerOct1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicate&nbsp;a&nbsp;heterogametic&nbsp;specimen,&nbsp;and&nbsp;the&nbsp;sample&nbsp;metadata&nbsp;indicates&nbsp;a&nbsp;female&nbsp;bird.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap2.&nbsp;
-  ident: md8
+  ident: md14
   title: assembly_vgp_HiC_2.0/bMerOct1_hap2.yml
 mito1date: 2023-05-12
 mito1filesize: 5.4 KiB
