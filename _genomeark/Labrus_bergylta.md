@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-08-04
-alt1filesize: 182.8 MiB
-alt1length: '692541823'
+alt1date: 2024-01-27
+alt1filesize: 196.5 MiB
+alt1length: '695444047'
 alt1n50ctg: 0
 alt1n50scf: 0
-alt1seq: https://s3.amazonaws.com/genomeark/species/Labrus_bergylta/fLabBer1/assembly_cambridge/fLabBer1.alt.asm.20230804.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Labrus_bergylta/fLabBer1/assembly_curated/fLabBer1.alt.cur.20240127.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 70 </td><td> 1.38 Mbp </td><td> 70 </td><td> 1.38 Mbp </td></tr><tr><td> 20 </td><td> 204 </td><td> 0.84 Mbp </td><td> 204 </td><td> 0.84 Mbp </td></tr><tr><td> 30 </td><td> 426 </td><td> 494.42 Kbp </td><td> 426 </td><td> 494.42 Kbp </td></tr><tr><td> 40 </td><td> 848 </td><td> 213.46 Kbp </td><td> 848 </td><td> 213.46 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 70 </td><td> 1.38 Mbp </td><td> 70 </td><td> 1.38 Mbp </td></tr><tr><td> 20 </td><td> 204 </td><td> 0.84 Mbp </td><td> 204 </td><td> 0.84 Mbp </td></tr><tr><td> 30 </td><td> 426 </td><td> 495.34 Kbp </td><td> 426 </td><td> 495.34 Kbp </td></tr><tr><td> 40 </td><td> 846 </td><td> 215.40 Kbp </td><td> 846 </td><td> 216.15 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.492x </th><th> 2776 </th><th> 0.69 Gbp </th><th> 2776 </th><th> 0.69 Gbp </th></tr>
+  <tr><th> 0.494x </th><th> 2804 </th><th> 0.70 Gbp </th><th> 2798 </th><th> 0.70 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ballan wrasse
 data_arima-1_bases: 106.78 Gbp
 data_arima-1_bytes: 31.6 GiB
@@ -59,7 +59,7 @@ genome_size: 1408320000
 genome_size_display: 1.41 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691522064
-last_updated: 1691522064
+last_updated: 1706317274
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fLabBer<br>&nbsp;&nbsp;name:&nbsp;Labrus&nbsp;bergylta<br>&nbsp;&nbsp;taxon_id:&nbsp;56723<br>&nbsp;&nbsp;common_name:&nbsp;ballan&nbsp;wrasse<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Labridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fLabBer1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111562158<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1408320000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-08-04
 mito1filesize: 5.4 KiB
@@ -92,12 +92,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Labrus bergylta
 name_: Labrus_bergylta
-pri1date: 2023-08-04
-pri1filesize: 202.7 MiB
-pri1length: '723167104'
-pri1n50ctg: 98537
-pri1n50scf: 508928
-pri1seq: https://s3.amazonaws.com/genomeark/species/Labrus_bergylta/fLabBer1/assembly_cambridge/fLabBer1.pri.asm.20230804.fasta.gz
+pri1date: 2024-01-27
+pri1filesize: 202.2 MiB
+pri1length: '720227340'
+pri1n50ctg: 87358
+pri1n50scf: 14612931
+pri1seq: https://s3.amazonaws.com/genomeark/species/Labrus_bergylta/fLabBer1/assembly_curated/fLabBer1.pri.cur.20240127.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -115,12 +115,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 20 </td><td> 5.56 Mbp </td><td> 5 </td><td> 33.21 Mbp </td></tr><tr><td> 20 </td><td> 53 </td><td> 3.47 Mbp </td><td> 9 </td><td> 31.15 Mbp </td></tr><tr><td> 30 </td><td> 105 </td><td> 2.13 Mbp </td><td> 14 </td><td> 29.74 Mbp </td></tr><tr><td> 40 </td><td> 197 </td><td> 1.09 Mbp </td><td> 19 </td><td> 25.22 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 573 </td><td style="background-color:#ff8888;"> 98.54 Kbp </td><td> 34 </td><td style="background-color:#ff8888;"> 0.51 Mbp </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 20 </td><td> 5.56 Mbp </td><td> 4 </td><td> 35.07 Mbp </td></tr><tr><td> 20 </td><td> 53 </td><td> 3.47 Mbp </td><td> 8 </td><td> 33.14 Mbp </td></tr><tr><td> 30 </td><td> 105 </td><td> 2.13 Mbp </td><td> 13 </td><td> 30.68 Mbp </td></tr><tr><td> 40 </td><td> 197 </td><td> 1.09 Mbp </td><td> 18 </td><td> 27.14 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 588 </td><td style="background-color:#ff8888;"> 87.36 Kbp </td><td> 24 </td><td style="background-color:#88ff88;"> 14.61 Mbp </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.513x </th><th> 974 </th><th> 0.72 Gbp </th><th> 257 </th><th> 0.72 Gbp </th></tr>
+  <tr><th> 0.511x </th><th> 947 </th><th> 0.72 Gbp </th><th> 132 </th><th> 0.72 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: fLabBer
