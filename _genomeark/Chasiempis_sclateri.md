@@ -1,6 +1,6 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
-common_name: Kauai elepaio
+common_name: Kaua'i 'elepaio
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 2.0 GiB
 data_bionano-1_coverage: 959.49x
@@ -51,7 +51,7 @@ genome_size_display: 1.24 Gbp
 genome_size_method: GoAT
 last_raw_data: 1676044226
 last_updated: 1676044226
-metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Chasiempis&nbsp;sclateri<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bChaScl1<br>&nbsp;&nbsp;short_name:&nbsp;bChaScl<br>&nbsp;&nbsp;taxon_id:&nbsp;1576535<br>&nbsp;&nbsp;common_name:&nbsp;Kauai&nbsp;elepaio<br>&nbsp;&nbsp;genome_size:&nbsp;1235000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Monarchidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Chasiempis&nbsp;sclateri<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bChaScl1<br>&nbsp;&nbsp;short_name:&nbsp;bChaScl<br>&nbsp;&nbsp;taxon_id:&nbsp;1576535<br>&nbsp;&nbsp;common_name:&nbsp;Kaua'i&nbsp;'elepaio<br>&nbsp;&nbsp;genome_size:&nbsp;1235000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Monarchidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Chasiempis sclateri
 name_: Chasiempis_sclateri
 project:
