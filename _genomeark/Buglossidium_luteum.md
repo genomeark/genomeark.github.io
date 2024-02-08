@@ -1,16 +1,16 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: solenette
-data_arima-1_bases: 132.09 Gbp
-data_arima-1_bytes: 41.6 GiB
-data_arima-1_coverage: 185.01x
+data_arima-1_bases: 291.28 Gbp
+data_arima-1_bytes: 85.0 GiB
+data_arima-1_coverage: 407.98x
 data_arima-1_links: s3://genomeark/species/Buglossidium_luteum/fBugLut1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Buglossidium_luteum/fBugLut1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Buglossidium_luteum/fBugLut1/genomic_data/arima/
-data_arima-1_scale: 2.9595
-data_arima_bases: 132.09 Gbp
-data_arima_bytes: 41.6 GiB
-data_arima_coverage: 185.01x
+data_arima-1_scale: 3.1929
+data_arima_bases: 291.28 Gbp
+data_arima_bytes: 85.0 GiB
+data_arima_coverage: 407.98x
 data_pacbiohifi_bam-1_bases: 27.08 Gbp
 data_pacbiohifi_bam-1_bytes: 16.6 GiB
 data_pacbiohifi_bam-1_coverage: 37.93x
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 713940000
 genome_size_display: 0.71 Gbp
 genome_size_method: GoaT
-last_raw_data: 1696598075
-last_updated: 1696598075
+last_raw_data: 1707231702
+last_updated: 1707231702
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fBugLut<br>&nbsp;&nbsp;name:&nbsp;Buglossidium&nbsp;luteum<br>&nbsp;&nbsp;taxon_id:&nbsp;90071<br>&nbsp;&nbsp;common_name:&nbsp;solenette<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pleuronectiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Soleidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fBugLut1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110450066<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;713940000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Buglossidium luteum
 name_: Buglossidium_luteum

@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-12-23
-alt1filesize: 366.0 MiB
-alt1length: '1349115879'
+alt1date: 2024-02-03
+alt1filesize: 366.1 MiB
+alt1length: '1347999738'
 alt1n50ctg: '678169'
 alt1n50scf: '678169'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Larus_fuscus/bLarFus1/assembly_cambridge/bLarFus1.alt.asm.20231223.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Larus_fuscus/bLarFus1/assembly_curated/bLarFus1.alt.cur.20240203.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 58 </td><td> 1.99 Mbp </td><td> 58 </td><td> 1.99 Mbp </td></tr><tr><td> 20 </td><td> 141 </td><td> 1.53 Mbp </td><td> 141 </td><td> 1.53 Mbp </td></tr><tr><td> 30 </td><td> 248 </td><td> 1.17 Mbp </td><td> 248 </td><td> 1.17 Mbp </td></tr><tr><td> 40 </td><td> 390 </td><td> 0.90 Mbp </td><td> 390 </td><td> 0.90 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 575 </td><td> 0.68 Mbp </td><td> 575 </td><td> 0.68 Mbp </td></tr><tr><td> 60 </td><td> 822 </td><td> 497.59 Kbp </td><td> 822 </td><td> 497.59 Kbp </td></tr><tr><td> 70 </td><td> 1184 </td><td> 309.92 Kbp </td><td> 1184 </td><td> 309.92 Kbp </td></tr><tr><td> 80 </td><td> 1869 </td><td> 135.65 Kbp </td><td> 1869 </td><td> 135.65 Kbp </td></tr><tr><td> 90 </td><td> 4140 </td><td> 31.36 Kbp </td><td> 4140 </td><td> 31.36 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 58 </td><td> 1.99 Mbp </td><td> 58 </td><td> 1.99 Mbp </td></tr><tr><td> 20 </td><td> 141 </td><td> 1.53 Mbp </td><td> 141 </td><td> 1.53 Mbp </td></tr><tr><td> 30 </td><td> 248 </td><td> 1.17 Mbp </td><td> 248 </td><td> 1.17 Mbp </td></tr><tr><td> 40 </td><td> 390 </td><td> 0.90 Mbp </td><td> 390 </td><td> 0.90 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 575 </td><td> 0.68 Mbp </td><td> 575 </td><td> 0.68 Mbp </td></tr><tr><td> 60 </td><td> 822 </td><td> 497.59 Kbp </td><td> 822 </td><td> 497.59 Kbp </td></tr><tr><td> 70 </td><td> 1184 </td><td> 309.92 Kbp </td><td> 1184 </td><td> 309.92 Kbp </td></tr><tr><td> 80 </td><td> 1869 </td><td> 135.65 Kbp </td><td> 1869 </td><td> 135.65 Kbp </td></tr><tr><td> 90 </td><td> 4141 </td><td> 31.35 Kbp </td><td> 4141 </td><td> 31.35 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.942x </th><th> 7477 </th><th> 1.35 Gbp </th><th> 7477 </th><th> 1.35 Gbp </th></tr>
+  <tr><th> 0.941x </th><th> 7404 </th><th> 1.35 Gbp </th><th> 7404 </th><th> 1.35 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Lesser black-backed gull
 data_arima-1_bases: 76.24 Gbp
 data_arima-1_bytes: 22.8 GiB
@@ -59,7 +59,7 @@ genome_size: 1432770000
 genome_size_display: 1.43 Gbp
 genome_size_method: GoaT
 last_raw_data: 1703330451
-last_updated: 1703369794
+last_updated: 1706922104
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bLarFus<br>&nbsp;&nbsp;name:&nbsp;Larus&nbsp;fuscus<br>&nbsp;&nbsp;taxon_id:&nbsp;8915<br>&nbsp;&nbsp;common_name:&nbsp;Lesser&nbsp;black-backed&nbsp;gull<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Laridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bLarFus1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468039<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1432770000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-12-23
 mito1filesize: 5.4 KiB
@@ -92,12 +92,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Larus fuscus
 name_: Larus_fuscus
-pri1date: 2023-12-23
-pri1filesize: 368.5 MiB
-pri1length: '1325881998'
+pri1date: 2024-02-03
+pri1filesize: 363.0 MiB
+pri1length: '1324286540'
 pri1n50ctg: 3242953
 pri1n50scf: 83131196
-pri1seq: https://s3.amazonaws.com/genomeark/species/Larus_fuscus/bLarFus1/assembly_cambridge/bLarFus1.pri.asm.20231223.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Larus_fuscus/bLarFus1/assembly_curated/bLarFus1.pri.cur.20240203.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -115,12 +115,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 12 </td><td> 9.09 Mbp </td><td> 1 </td><td> 217.39 Mbp </td></tr><tr><td> 20 </td><td> 30 </td><td> 6.85 Mbp </td><td> 2 </td><td> 166.87 Mbp </td></tr><tr><td> 30 </td><td> 53 </td><td> 5.45 Mbp </td><td> 3 </td><td> 127.37 Mbp </td></tr><tr><td> 40 </td><td> 83 </td><td> 4.21 Mbp </td><td> 4 </td><td> 94.81 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 122 </td><td style="background-color:#88ff88;"> 3.24 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 83.13 Mbp </td></tr><tr><td> 60 </td><td> 172 </td><td> 2.47 Mbp </td><td> 8 </td><td> 57.05 Mbp </td></tr><tr><td> 70 </td><td> 239 </td><td> 1.81 Mbp </td><td> 10 </td><td> 48.95 Mbp </td></tr><tr><td> 80 </td><td> 354 </td><td> 0.74 Mbp </td><td> 19 </td><td> 8.70 Mbp </td></tr><tr><td> 90 </td><td> 1000 </td><td> 82.00 Kbp </td><td> 517 </td><td> 87.23 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 12 </td><td> 9.09 Mbp </td><td> 1 </td><td> 218.47 Mbp </td></tr><tr><td> 20 </td><td> 30 </td><td> 6.85 Mbp </td><td> 2 </td><td> 167.92 Mbp </td></tr><tr><td> 30 </td><td> 53 </td><td> 5.45 Mbp </td><td> 3 </td><td> 128.68 Mbp </td></tr><tr><td> 40 </td><td> 83 </td><td> 4.21 Mbp </td><td> 4 </td><td> 94.81 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 122 </td><td style="background-color:#88ff88;"> 3.24 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 83.13 Mbp </td></tr><tr><td> 60 </td><td> 172 </td><td> 2.47 Mbp </td><td> 8 </td><td> 58.10 Mbp </td></tr><tr><td> 70 </td><td> 239 </td><td> 1.81 Mbp </td><td> 10 </td><td> 49.40 Mbp </td></tr><tr><td> 80 </td><td> 354 </td><td> 0.74 Mbp </td><td> 18 </td><td> 9.36 Mbp </td></tr><tr><td> 90 </td><td> 1000 </td><td> 82.00 Kbp </td><td> 491 </td><td> 88.71 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.925x </th><th> 2027 </th><th> 1.33 Gbp </th><th> 1518 </th><th> 1.33 Gbp </th></tr>
+  <tr><th> 0.924x </th><th> 1904 </th><th> 1.32 Gbp </th><th> 1367 </th><th> 1.32 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: bLarFus

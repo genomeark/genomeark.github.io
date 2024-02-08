@@ -1,0 +1,1 @@
+../_genomeark/Diplosoma_listerianum.md
