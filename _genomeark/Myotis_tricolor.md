@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
 data_arima-1_bases: 155.54 Gbp
 data_arima-1_bytes: 63.5 GiB
@@ -39,8 +39,66 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
+hpa1date: 2024-02-12
+hpa1filesize: 604.7 MiB
+hpa1length: '2130529401'
+hpa1n50ctg: 59717690
+hpa1n50scf: 177099877
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Myotis_tricolor/mMyoTri1/assembly_vgp_HiC_2.0/mMyoTri1.HiC.hap1.20240212.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 88.39 Mbp </td><td> 1 </td><td> 352.10 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 85.18 Mbp </td><td> 2 </td><td> 271.23 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 74.59 Mbp </td><td> 3 </td><td> 217.59 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 65.63 Mbp </td><td> 4 </td><td> 181.41 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 14 </td><td style="background-color:#88ff88;"> 59.72 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 177.10 Mbp </td></tr><tr><td> 60 </td><td> 18 </td><td> 52.45 Mbp </td><td> 6 </td><td> 115.01 Mbp </td></tr><tr><td> 70 </td><td> 23 </td><td> 37.54 Mbp </td><td> 8 </td><td> 96.39 Mbp </td></tr><tr><td> 80 </td><td> 29 </td><td> 27.26 Mbp </td><td> 11 </td><td> 79.74 Mbp </td></tr><tr><td> 90 </td><td> 45 </td><td> 7.26 Mbp </td><td> 14 </td><td> 57.08 Mbp </td></tr><tr><td> 100 </td><td> 320 </td><td> 12.61 Kbp </td><td> 214 </td><td> 12.61 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 320 </th><th> 2.13 Gbp </th><th> 214 </th><th> 2.13 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2024-02-12
+hpb1filesize: 558.2 MiB
+hpb1length: '1942268793'
+hpb1n50ctg: 55227115
+hpb1n50scf: 110057347
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Myotis_tricolor/mMyoTri1/assembly_vgp_HiC_2.0/mMyoTri1.HiC.hap2.20240212.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 103.81 Mbp </td><td> 1 </td><td> 237.14 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 87.80 Mbp </td><td> 2 </td><td> 216.59 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 69.43 Mbp </td><td> 3 </td><td> 163.14 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 57.08 Mbp </td><td> 5 </td><td> 114.14 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 13 </td><td style="background-color:#88ff88;"> 55.23 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 110.06 Mbp </td></tr><tr><td> 60 </td><td> 17 </td><td> 48.39 Mbp </td><td> 8 </td><td> 106.09 Mbp </td></tr><tr><td> 70 </td><td> 22 </td><td> 35.63 Mbp </td><td> 10 </td><td> 95.27 Mbp </td></tr><tr><td> 80 </td><td> 28 </td><td> 24.67 Mbp </td><td> 13 </td><td> 81.96 Mbp </td></tr><tr><td> 90 </td><td> 40 </td><td> 9.75 Mbp </td><td> 15 </td><td> 66.96 Mbp </td></tr><tr><td> 100 </td><td> 243 </td><td> 14.58 Kbp </td><td> 137 </td><td> 14.58 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 243 </th><th> 1.94 Gbp </th><th> 137 </th><th> 1.94 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1706706836
-last_updated: 1706706836
+last_updated: 1707767998
 name: Myotis tricolor
 name_: Myotis_tricolor
 project: ~

@@ -40,16 +40,16 @@ data_arima-3_scale: 3.0924
 data_arima_bases: 86.83 Gbp
 data_arima_bytes: 26.2 GiB
 data_arima_coverage: 65.77x
-data_pacbiohifi_bam-3_bases: 33.61 Gbp
-data_pacbiohifi_bam-3_bytes: 18.6 GiB
-data_pacbiohifi_bam-3_coverage: 25.46x
+data_pacbiohifi_bam-3_bases: 55.64 Gbp
+data_pacbiohifi_bam-3_bytes: 30.5 GiB
+data_pacbiohifi_bam-3_coverage: 42.14x
 data_pacbiohifi_bam-3_links: s3://genomeark/species/Numenius_arquata/bNumArq3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Numenius_arquata/bNumArq3/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Numenius_arquata/bNumArq3/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-3_scale: 1.6849
-data_pacbiohifi_bam_bases: 33.61 Gbp
-data_pacbiohifi_bam_bytes: 18.6 GiB
-data_pacbiohifi_bam_coverage: 25.46x
+data_pacbiohifi_bam-3_scale: 1.6985
+data_pacbiohifi_bam_bases: 55.64 Gbp
+data_pacbiohifi_bam_bytes: 30.5 GiB
+data_pacbiohifi_bam_coverage: 42.14x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -58,8 +58,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1320300000
 genome_size_display: 1.32 Gbp
 genome_size_method: GoaT
-last_raw_data: 1703330709
-last_updated: 1703366865
+last_raw_data: 1707381778
+last_updated: 1707381778
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bNumArq<br>&nbsp;&nbsp;name:&nbsp;Numenius&nbsp;arquata<br>&nbsp;&nbsp;taxon_id:&nbsp;31919<br>&nbsp;&nbsp;common_name:&nbsp;Eurasian&nbsp;curlew<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scolopacidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bNumArq3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112693994<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1320300000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito3date: 2023-12-23
 mito3filesize: 5.7 KiB
