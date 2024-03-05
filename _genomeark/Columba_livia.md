@@ -48,13 +48,13 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1697140581
-last_updated: 1705595665
-mat1date: 2023-11-14
-mat1filesize: 325.4 MiB
+last_updated: 1708637058
+mat1date: 2024-02-06
+mat1filesize: 290.9 MiB
 mat1length: '1181506259'
 mat1n50ctg: 17433930
 mat1n50scf: 68652091
-mat1seq: https://s3.amazonaws.com/genomeark/species/Columba_livia/bColLiv1/assembly_curated/bColLiv1.mat.cur.20231114.fasta.gz
+mat1seq: https://s3.amazonaws.com/genomeark/species/Columba_livia/bColLiv1/assembly_curated/bColLiv1.mat.cur.20240206.fasta.gz
 mat1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -80,17 +80,17 @@ mat1sizes: |
 mat1version: assembly_curated
 mds:
 - data: species:&nbsp;Columba&nbsp;livia<br>specimen:&nbsp;bColLiv1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1&nbsp;(pat)<br>hap1&nbsp;(pat):&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/assembly_vgp_trio_2.0/evaluation/bColLiv1.trio.hap1.20231102.fasta.gz<br>hap2&nbsp;(mat):&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/assembly_vgp_trio_2.0/evaluation/bColLiv1.trio.hap2.20231102.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/assembly_vgp_trio_2.0/evaluation/hap1/pretext/bColLiv1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/assembly_vgp_trio_2.0/evaluation/hap2/pretext/bColLiv1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/assembly_vgp_trio_2.0/evaluation/merqury/bColLiv1_png/<br>pacbio_read_dir:&nbsp;&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/assembly_MT_rockefeller/bColLiv1.MT.20231114.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Hifiasm&nbsp;+&nbsp;trio&nbsp;phasing&nbsp;0.19.7&nbsp;+&nbsp;galaxy1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.6&nbsp;+&nbsp;galaxy0)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2&nbsp;+&nbsp;galaxy0)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;mitoHiFi&nbsp;(3.0&nbsp;+&nbsp;galaxy0)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm&nbsp;+&nbsp;trio&nbsp;assembly&nbsp;of&nbsp;bColLiv1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes&nbsp;(maternal&nbsp;and&nbsp;paternal).&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;The&nbsp;order&nbsp;and&nbsp;orientation&nbsp;of&nbsp;scaffolds&nbsp;is&nbsp;uncertain&nbsp;in&nbsp;the&nbsp;W&nbsp;chromosome&nbsp;due&nbsp;to&nbsp;contiguity&nbsp;dropouts.<br>
-  ident: md5
+  ident: md7
   title: assembly_vgp_trio_2.0/bColLiv1_hap1.yml
 - data: pecies:&nbsp;Columba&nbsp;livia<br>specimen:&nbsp;bColLiv1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2&nbsp;(mat)<br>hap1&nbsp;(pat):&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/assembly_vgp_trio_2.0/evaluation/bColLiv1.trio.hap1.20231102.fasta.gz<br>hap2&nbsp;(mat):&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/assembly_vgp_trio_2.0/evaluation/bColLiv1.trio.hap2.20231102.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/assembly_vgp_trio_2.0/evaluation/hap1/pretext/bColLiv1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/assembly_vgp_trio_2.0/evaluation/hap2/pretext/bColLiv1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/assembly_vgp_trio_2.0/evaluation/merqury/bColLiv1_png/<br>pacbio_read_dir:&nbsp;&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Columba_livia/bColLiv1/assembly_MT_rockefeller/bColLiv1.MT.20231114.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Hifiasm&nbsp;+&nbsp;trio&nbsp;phasing&nbsp;(0.19.7&nbsp;+&nbsp;galaxy1)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2&nbsp;+&nbsp;galaxy0)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;mitoHiFi&nbsp;(3.0&nbsp;+&nbsp;galaxy0)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm&nbsp;+&nbsp;trio&nbsp;assembly&nbsp;of&nbsp;bColLiv1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes&nbsp;(maternal&nbsp;and&nbsp;paternal).&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;<br>
-  ident: md6
+  ident: md8
   title: assembly_vgp_trio_2.0/bColLiv1_hap2.yml
-mgd1date: 2023-11-14
-mgd1filesize: 363.1 MiB
-mgd1length: '1325565926'
+mgd1date: 2024-02-06
+mgd1filesize: 324.4 MiB
+mgd1length: '1325566026'
 mgd1n50ctg: 14042120
 mgd1n50scf: 68980706
-mgd1seq: https://s3.amazonaws.com/genomeark/species/Columba_livia/bColLiv1/assembly_curated/bColLiv1.pat.W.cur.20231114.fasta.gz
+mgd1seq: https://s3.amazonaws.com/genomeark/species/Columba_livia/bColLiv1/assembly_curated/bColLiv1.pat.W.cur.20240206.fasta.gz
 mgd1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -108,9 +108,9 @@ mgd1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 40.52 Mbp </td><td> 1 </td><td> 212.39 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 29.35 Mbp </td><td> 2 </td><td> 163.73 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 21.50 Mbp </td><td> 3 </td><td> 122.09 Mbp </td></tr><tr><td> 40 </td><td> 20 </td><td> 17.18 Mbp </td><td> 4 </td><td> 84.82 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 28 </td><td style="background-color:#88ff88;"> 14.04 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 68.98 Mbp </td></tr><tr><td> 60 </td><td> 40 </td><td> 8.85 Mbp </td><td> 8 </td><td> 41.45 Mbp </td></tr><tr><td> 70 </td><td> 59 </td><td> 5.96 Mbp </td><td> 13 </td><td> 22.35 Mbp </td></tr><tr><td> 80 </td><td> 89 </td><td> 3.22 Mbp </td><td> 20 </td><td> 14.04 Mbp </td></tr><tr><td> 90 </td><td> 173 </td><td> 0.87 Mbp </td><td> 44 </td><td> 1.55 Mbp </td></tr><tr><td> 100 </td><td> 1117 </td><td> 12.90 Kbp </td><td> 869 </td><td> 12.90 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 40.52 Mbp </td><td> 1 </td><td> 212.39 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 29.35 Mbp </td><td> 2 </td><td> 163.73 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 21.50 Mbp </td><td> 3 </td><td> 122.09 Mbp </td></tr><tr><td> 40 </td><td> 20 </td><td> 17.18 Mbp </td><td> 4 </td><td> 84.82 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 28 </td><td style="background-color:#88ff88;"> 14.04 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 68.98 Mbp </td></tr><tr><td> 60 </td><td> 40 </td><td> 8.85 Mbp </td><td> 8 </td><td> 41.45 Mbp </td></tr><tr><td> 70 </td><td> 59 </td><td> 5.96 Mbp </td><td> 13 </td><td> 22.35 Mbp </td></tr><tr><td> 80 </td><td> 89 </td><td> 3.22 Mbp </td><td> 20 </td><td> 14.04 Mbp </td></tr><tr><td> 90 </td><td> 173 </td><td> 0.87 Mbp </td><td> 44 </td><td> 1.55 Mbp </td></tr><tr><td> 100 </td><td> 1118 </td><td> 12.90 Kbp </td><td> 869 </td><td> 12.90 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1117 </th><th> 1.33 Gbp </th><th> 869 </th><th> 1.33 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 1118 </th><th> 1.33 Gbp </th><th> 869 </th><th> 1.33 Gbp </th></tr>
   </tfoot>
   </table>
 mgd1version: assembly_curated

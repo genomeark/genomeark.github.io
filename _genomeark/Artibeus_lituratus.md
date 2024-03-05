@@ -78,7 +78,43 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1698696210
-last_updated: 1705503027
+last_updated: 1709159519
+mds:
+- data: species:&nbsp;Artibeus&nbsp;lituratus<br>specimen:&nbsp;mArtLit1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/assembly_vgp_HiC_2.0/mArtLit1.HiC.hap1.20230911.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/assembly_vgp_HiC_2.0/mArtLit1.HiC.hap2.20230911.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mArtLit1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mArtLit1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/assembly_vgp_HiC_2.0/evaluation/merqury/mArtLit1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/assembly_MT_rockefeller/mArtLit1.MT.20240228.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mArtLit1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;<br>
+  ident: md5
+  title: assembly_vgp_HiC_2.0/mArtLit1_hap1.yml
+- data: species:&nbsp;Artibeus&nbsp;lituratus<br>specimen:&nbsp;mArtLit1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/assembly_vgp_HiC_2.0/mArtLit1.HiC.hap1.20230911.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/assembly_vgp_HiC_2.0/mArtLit1.HiC.hap2.20230911.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mArtLit1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mArtLit1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/assembly_vgp_HiC_2.0/evaluation/merqury/mArtLit1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Artibeus_lituratus/mArtLit1/assembly_MT_rockefeller/mArtLit1.MT.20240228.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mArtLit1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;<br>
+  ident: md6
+  title: assembly_vgp_HiC_2.0/mArtLit1_hap2.yml
+mito1date: 2024-02-28
+mito1filesize: 5.3 KiB
+mito1length: '16681'
+mito1n50ctg: 16681
+mito1n50scf: 16681
+mito1seq: https://s3.amazonaws.com/genomeark/species/Artibeus_lituratus/mArtLit1/assembly_MT_rockefeller/mArtLit1.MT.20240228.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.68 Kbp </td><td> 1 </td><td> 16.68 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.68 Kbp </td><td> 1 </td><td> 16.68 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.68 Kbp </td><td> 1 </td><td> 16.68 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.68 Kbp </td><td> 1 </td><td> 16.68 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.68 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.68 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.68 Kbp </td><td> 1 </td><td> 16.68 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.68 Kbp </td><td> 1 </td><td> 16.68 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.68 Kbp </td><td> 1 </td><td> 16.68 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.68 Kbp </td><td> 1 </td><td> 16.68 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.68 Kbp </td><td> 1 </td><td> 16.68 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.68 Kbp </th><th> 1 </th><th> 16.68 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Artibeus lituratus
 name_: Artibeus_lituratus
 project: ~

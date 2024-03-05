@@ -18,9 +18,16 @@ data_pacbiohifi_bam-2_links: s3://genomeark/species/Spermophilus_citellus/mSpeCi
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Spermophilus_citellus/mSpeCit2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spermophilus_citellus/mSpeCit2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_scale: 1.5237
-data_pacbiohifi_bam_bases: 31.81 Gbp
-data_pacbiohifi_bam_bytes: 19.4 GiB
-data_pacbiohifi_bam_coverage: 8.19x
+data_pacbiohifi_bam-3_bases: 90.16 Gbp
+data_pacbiohifi_bam-3_bytes: 36.5 GiB
+data_pacbiohifi_bam-3_coverage: 23.22x
+data_pacbiohifi_bam-3_links: s3://genomeark/species/Spermophilus_citellus/mSpeCit3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Spermophilus_citellus/mSpeCit3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spermophilus_citellus/mSpeCit3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_scale: 2.3000
+data_pacbiohifi_bam_bases: 121.97 Gbp
+data_pacbiohifi_bam_bytes: 56.0 GiB
+data_pacbiohifi_bam_coverage: 31.41x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -29,9 +36,9 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 3882659999.5
 genome_size_display: 3.88 Gbp
 genome_size_method: GoaT
-last_raw_data: 1699020960
-last_updated: 1699020960
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mSpeCit<br>&nbsp;&nbsp;name:&nbsp;Spermophilus&nbsp;citellus<br>&nbsp;&nbsp;taxon_id:&nbsp;9997<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;suslik<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Sciuridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mSpeCit2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA10332751<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;3882659999.5<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+last_raw_data: 1708945007
+last_updated: 1708945007
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mSpeCit<br>&nbsp;&nbsp;name:&nbsp;Spermophilus&nbsp;citellus<br>&nbsp;&nbsp;taxon_id:&nbsp;9997<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;suslik<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rodentia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Sciuridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mSpeCit2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA10332751<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mSpeCit3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA10332752<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;3882659999.5<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Spermophilus citellus
 name_: Spermophilus_citellus
 project:

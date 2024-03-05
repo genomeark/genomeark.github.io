@@ -1,0 +1,31 @@
+---
+assembly_status: <em style="color:maroon">No assembly</em>
+common_name: red fox
+data_pacbiohifi_bam-1_bases: 66.56 Gbp
+data_pacbiohifi_bam-1_bytes: 21.6 GiB
+data_pacbiohifi_bam-1_coverage: 23.88x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Vulpes_vulpes/mVulVul1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Vulpes_vulpes/mVulVul1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vulpes_vulpes/mVulVul1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 2.8651
+data_pacbiohifi_bam_bases: 66.56 Gbp
+data_pacbiohifi_bam_bytes: 21.6 GiB
+data_pacbiohifi_bam_coverage: 23.88x
+data_status: <em style="color:forestgreen">PacBio HiFi</em>
+data_use_source: from-default
+data_use_text: Samples and data come from a variety of sources. To support fair and
+  productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
+  Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
+genome_size: 2787300000
+genome_size_display: 2.79 Gbp
+genome_size_method: GoaT
+last_raw_data: 1709207193
+last_updated: 1709207193
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mVulVul<br>&nbsp;&nbsp;name:&nbsp;Vulpes&nbsp;vulpes<br>&nbsp;&nbsp;taxon_id:&nbsp;9627<br>&nbsp;&nbsp;common_name:&nbsp;red&nbsp;fox<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carnivora<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Canidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mVulVul1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113398840<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;2787300000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+name: Vulpes vulpes
+name_: Vulpes_vulpes
+project:
+- vgp
+short_name: mVulVul
+taxon_id: 9627
+---

@@ -11,25 +11,25 @@ data_arima-1_scale: 2.2862
 data_arima_bases: 96.14 Gbp
 data_arima_bytes: 39.2 GiB
 data_arima_coverage: N/A
-data_pacbiohifi_bam-1_bases: 104.28 Gbp
-data_pacbiohifi_bam-1_bytes: 368.4 GiB
+data_pacbiohifi_bam-1_bases: 70.78 Gbp
+data_pacbiohifi_bam-1_bytes: 248.2 GiB
 data_pacbiohifi_bam-1_coverage: N/A
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Rhinolophus_darlingii/mRhiDar1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinolophus_darlingii/mRhiDar1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_darlingii/mRhiDar1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2636
-data_pacbiohifi_bam_bases: 104.28 Gbp
-data_pacbiohifi_bam_bytes: 368.4 GiB
+data_pacbiohifi_bam-1_scale: 0.2656
+data_pacbiohifi_bam_bases: 70.78 Gbp
+data_pacbiohifi_bam_bytes: 248.2 GiB
 data_pacbiohifi_bam_coverage: N/A
-data_pacbiohifi_fqgz-1_bases: 103.36 Gbp
-data_pacbiohifi_fqgz-1_bytes: 86.4 GiB
+data_pacbiohifi_fqgz-1_bases: 70.19 Gbp
+data_pacbiohifi_fqgz-1_bytes: 57.1 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Rhinolophus_darlingii/mRhiDar1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinolophus_darlingii/mRhiDar1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_darlingii/mRhiDar1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 1.1141
-data_pacbiohifi_fqgz_bases: 103.36 Gbp
-data_pacbiohifi_fqgz_bytes: 86.4 GiB
+data_pacbiohifi_fqgz-1_scale: 1.1450
+data_pacbiohifi_fqgz_bases: 70.19 Gbp
+data_pacbiohifi_fqgz_bytes: 57.1 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default

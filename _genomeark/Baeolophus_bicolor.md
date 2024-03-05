@@ -30,7 +30,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1692994202
-last_updated: 1692994202
+last_updated: 1708250330
 name: Baeolophus bicolor
 name_: Baeolophus_bicolor
 project: ~

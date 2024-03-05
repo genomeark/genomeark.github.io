@@ -70,8 +70,18 @@ data_pacbio-1_scale: 0.5348
 data_pacbio_bases: 89.10 Gbp
 data_pacbio_bytes: 155.2 GiB
 data_pacbio_coverage: 60.20x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
-  ::: <em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_bam-2_bases: 59.91 Gbp
+data_pacbiohifi_bam-2_bytes: 17.4 GiB
+data_pacbiohifi_bam-2_coverage: 40.48x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Cygnus_olor/bCygOlo2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cygnus_olor/bCygOlo2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cygnus_olor/bCygOlo2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 3.2026
+data_pacbiohifi_bam_bases: 59.91 Gbp
+data_pacbiohifi_bam_bytes: 17.4 GiB
+data_pacbiohifi_bam_coverage: 40.48x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
+  HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -81,8 +91,8 @@ genbank_pri: bCygOlo1:GCA_009769625.2
 genome_size: 1480000000
 genome_size_display: 1.48 Gbp
 genome_size_method: ''
-last_raw_data: 1564200622
-last_updated: 1606748870
+last_raw_data: 1708681647
+last_updated: 1708681647
 metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;mute&nbsp;swan<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;genome_size:&nbsp;1480000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCygOlo1<br>&nbsp;&nbsp;name:&nbsp;Cygnus&nbsp;olor<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;short_name:&nbsp;bCygOlo<br>&nbsp;&nbsp;taxon_id:&nbsp;8869<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-09-28
 mito1filesize: 5.4 KiB

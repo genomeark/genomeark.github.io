@@ -30,7 +30,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1689691561
-last_updated: 1689691561
+last_updated: 1708036318
 name: Agelaius phoeniceus
 name_: Agelaius_phoeniceus
 project: ~

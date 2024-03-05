@@ -30,7 +30,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1692995497
-last_updated: 1692995497
+last_updated: 1708197727
 name: Spinus tristis
 name_: Spinus_tristis
 project: ~

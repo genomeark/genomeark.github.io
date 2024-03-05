@@ -70,8 +70,18 @@ data_pacbio-1_scale: 0.5444
 data_pacbio_bases: 193.47 Gbp
 data_pacbio_bytes: 331.0 GiB
 data_pacbio_coverage: 62.82x
-data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">10x</em>
-  ::: <em style="color:forestgreen">Arima</em>'
+data_pacbiohifi_bam-2_bases: 95.78 Gbp
+data_pacbiohifi_bam-2_bytes: 37.5 GiB
+data_pacbiohifi_bam-2_coverage: 31.10x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Mustela_erminea/mMusErm2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mustela_erminea/mMusErm2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mustela_erminea/mMusErm2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 2.3768
+data_pacbiohifi_bam_bases: 95.78 Gbp
+data_pacbiohifi_bam_bytes: 37.5 GiB
+data_pacbiohifi_bam_coverage: 31.10x
+data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
+  HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -81,8 +91,8 @@ genbank_pri: mMusErm1:GCA_009829155.1
 genome_size: 3080000000
 genome_size_display: 3.08 Gbp
 genome_size_method: ''
-last_raw_data: 1565693768
-last_updated: 1571322017
+last_raw_data: 1707862329
+last_updated: 1707862329
 metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;stoat<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Mustelidae<br>&nbsp;&nbsp;genome_size:&nbsp;3080000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMusErm1<br>&nbsp;&nbsp;name:&nbsp;Mustela&nbsp;erminea<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carnivora<br>&nbsp;&nbsp;short_name:&nbsp;mMusErm<br>&nbsp;&nbsp;taxon_id:&nbsp;36723<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 4.9 KiB

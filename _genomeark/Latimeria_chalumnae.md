@@ -55,14 +55,14 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genome_size: 2947640172
+genome_size: 2947609019
 genome_size_display: 2.95 Gbp
 genome_size_method: ''
 last_raw_data: 1702397217
-last_updated: 1704798062
+last_updated: 1708634801
 mds:
 - data: species:&nbsp;Latimeria&nbsp;chalumnae<br>specimen:&nbsp;fLatCha1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/fLatCha1.standard.pri.20231215.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/fLatCha1.standard.alt.20231215.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/evaluation/pri/pretext/fLatCha1_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/evaluation/merqury_purgedalt/fLatCha1_png/<br>mito:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_MT_rockefeller/fLatCha1.MT.20231215.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;fLatCha1.&nbsp;This&nbsp;is&nbsp;a&nbsp;VGP&nbsp;Phase&nbsp;1&nbsp;species.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;HiC&nbsp;library&nbsp;kit&nbsp;was&nbsp;Arima.&nbsp;The&nbsp;HiC&nbsp;data&nbsp;came&nbsp;from&nbsp;a&nbsp;different&nbsp;individual,&nbsp;fLatCha2.&nbsp;&nbsp;Purge_dups&nbsp;was&nbsp;used&nbsp;on&nbsp;the&nbsp;alternate&nbsp;assembly,&nbsp;but&nbsp;not&nbsp;on&nbsp;the&nbsp;primary&nbsp;assembly.&nbsp;The&nbsp;only&nbsp;purging&nbsp;on&nbsp;the&nbsp;primary&nbsp;assembly&nbsp;was&nbsp;Hifiasm's&nbsp;default&nbsp;purging&nbsp;when&nbsp;running&nbsp;in&nbsp;pseudohaplotype&nbsp;mode.&nbsp;
-  ident: md5
+  ident: md6
   title: assembly_vgp_standard_2.0/fLatCha1.yml
 mito1date: 2023-12-15
 mito1filesize: 5.2 KiB
@@ -95,12 +95,12 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Latimeria chalumnae
 name_: Latimeria_chalumnae
-pri1date: 2024-01-09
-pri1filesize: 842.7 MiB
-pri1length: '2947640172'
+pri1date: 2024-02-22
+pri1filesize: 774.8 MiB
+pri1length: '2947609019'
 pri1n50ctg: 42076942
 pri1n50scf: 188107785
-pri1seq: https://s3.amazonaws.com/genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_curated/fLatCha1.pri.cur.20240109.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_curated/fLatCha1.pri.cur.20240222.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -118,9 +118,9 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 93.00 Mbp </td><td> 1 </td><td> 432.07 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 77.49 Mbp </td><td> 2 </td><td> 383.79 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 57.81 Mbp </td><td> 3 </td><td> 287.41 Mbp </td></tr><tr><td> 40 </td><td> 16 </td><td> 46.93 Mbp </td><td> 4 </td><td> 264.12 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 23 </td><td style="background-color:#88ff88;"> 42.08 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 188.11 Mbp </td></tr><tr><td> 60 </td><td> 30 </td><td> 34.81 Mbp </td><td> 7 </td><td> 160.16 Mbp </td></tr><tr><td> 70 </td><td> 41 </td><td> 22.98 Mbp </td><td> 9 </td><td> 103.74 Mbp </td></tr><tr><td> 80 </td><td> 56 </td><td> 15.60 Mbp </td><td> 13 </td><td> 50.99 Mbp </td></tr><tr><td> 90 </td><td> 81 </td><td> 8.22 Mbp </td><td> 20 </td><td> 34.27 Mbp </td></tr><tr><td> 100 </td><td> 352 </td><td> 7.79 Kbp </td><td> 198 </td><td> 7.79 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 93.00 Mbp </td><td> 1 </td><td> 432.07 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 77.49 Mbp </td><td> 2 </td><td> 383.79 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 57.81 Mbp </td><td> 3 </td><td> 287.41 Mbp </td></tr><tr><td> 40 </td><td> 16 </td><td> 46.93 Mbp </td><td> 4 </td><td> 264.12 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 23 </td><td style="background-color:#88ff88;"> 42.08 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 188.11 Mbp </td></tr><tr><td> 60 </td><td> 30 </td><td> 34.81 Mbp </td><td> 7 </td><td> 160.16 Mbp </td></tr><tr><td> 70 </td><td> 41 </td><td> 22.98 Mbp </td><td> 9 </td><td> 103.74 Mbp </td></tr><tr><td> 80 </td><td> 56 </td><td> 15.60 Mbp </td><td> 13 </td><td> 50.99 Mbp </td></tr><tr><td> 90 </td><td> 81 </td><td> 8.22 Mbp </td><td> 20 </td><td> 34.27 Mbp </td></tr><tr><td> 100 </td><td> 351 </td><td> 7.79 Kbp </td><td> 197 </td><td> 7.79 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 352 </th><th> 2.95 Gbp </th><th> 198 </th><th> 2.95 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 351 </th><th> 2.95 Gbp </th><th> 197 </th><th> 2.95 Gbp </th></tr>
   </tfoot>
   </table>
 pri1version: assembly_curated
