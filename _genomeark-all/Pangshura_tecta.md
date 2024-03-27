@@ -1,0 +1,1 @@
+../_genomeark/Pangshura_tecta.md

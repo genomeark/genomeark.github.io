@@ -11,6 +11,16 @@ data_dovetail-1_scale: 1.6873
 data_dovetail_bases: 589.99 Gbp
 data_dovetail_bytes: 325.7 GiB
 data_dovetail_coverage: N/A
+data_pacbiohifi_bam-1_bases: 1162.64 Gbp
+data_pacbiohifi_bam-1_bytes: 574.6 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Speothos_venaticus/mSpeVen1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Speothos_venaticus/mSpeVen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Speothos_venaticus/mSpeVen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.8844
+data_pacbiohifi_bam_bases: 1162.64 Gbp
+data_pacbiohifi_bam_bytes: 574.6 GiB
+data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 142.17 Gbp
 data_pacbiohifi_fqgz-1_bytes: 69.7 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -29,8 +39,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1704741914
-last_updated: 1704741914
+last_raw_data: 1710862682
+last_updated: 1710862682
 name: Speothos venaticus
 name_: Speothos_venaticus
 project: ~

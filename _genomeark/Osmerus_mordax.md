@@ -71,10 +71,10 @@ genome_size: 675000000
 genome_size_display: 0.68 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651608069
-last_updated: 1705504710
+last_updated: 1710526293
 mds:
 - data: species:&nbsp;Osmerus&nbsp;mordax<br>specimen:&nbsp;fOsmMor3<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/fOsmMor3.standard.pri.20231017.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/fOsmMor3.standard.alt.20231017.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/evaluation/pri/pretext/fOsmMor3_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Osmerus_mordax/fOsmMor3/assembly_vgp_standard_2.0/evaluation/merqury/fOsmMor3_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Osmerus_mordax/fOsmMor3/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8-r525)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;fOsmMor3.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Swift-IDT.
-  ident: md4
+  ident: md5
   title: assembly_vgp_standard_2.0/fOsmMor3.yml
 metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Osmerus&nbsp;mordax<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fOsmMor3<br>&nbsp;&nbsp;short_name:&nbsp;fOsmMor<br>&nbsp;&nbsp;taxon_id:&nbsp;8014<br>&nbsp;&nbsp;common_name:&nbsp;rainbow&nbsp;smelt<br>&nbsp;&nbsp;genome_size:&nbsp;675000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Osmeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Osmeridae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Osmerus mordax

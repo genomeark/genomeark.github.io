@@ -40,6 +40,16 @@ data_arima-2_scale: 1.7627
 data_arima_bases: 242.39 Gbp
 data_arima_bytes: 128.1 GiB
 data_arima_coverage: 82.23x
+data_pacbiohifi_bam-1_bases: 1043.32 Gbp
+data_pacbiohifi_bam-1_bytes: 498.7 GiB
+data_pacbiohifi_bam-1_coverage: 353.96x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Latimeria_chalumnae/fLatCha1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Latimeria_chalumnae/fLatCha1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Latimeria_chalumnae/fLatCha1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.9485
+data_pacbiohifi_bam_bases: 1043.32 Gbp
+data_pacbiohifi_bam_bytes: 498.7 GiB
+data_pacbiohifi_bam_coverage: 353.96x
 data_pacbiohifi_fqgz-1_bases: 123.61 Gbp
 data_pacbiohifi_fqgz-1_bytes: 59.1 GiB
 data_pacbiohifi_fqgz-1_coverage: 41.94x
@@ -58,8 +68,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2947609019
 genome_size_display: 2.95 Gbp
 genome_size_method: ''
-last_raw_data: 1702397217
-last_updated: 1708634801
+last_raw_data: 1710863435
+last_updated: 1710863435
 mds:
 - data: species:&nbsp;Latimeria&nbsp;chalumnae<br>specimen:&nbsp;fLatCha1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/fLatCha1.standard.pri.20231215.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/fLatCha1.standard.alt.20231215.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/evaluation/pri/pretext/fLatCha1_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_vgp_standard_2.0/evaluation/merqury_purgedalt/fLatCha1_png/<br>mito:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/assembly_MT_rockefeller/fLatCha1.MT.20231215.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Latimeria_chalumnae/fLatCha1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;fLatCha1.&nbsp;This&nbsp;is&nbsp;a&nbsp;VGP&nbsp;Phase&nbsp;1&nbsp;species.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;HiC&nbsp;library&nbsp;kit&nbsp;was&nbsp;Arima.&nbsp;The&nbsp;HiC&nbsp;data&nbsp;came&nbsp;from&nbsp;a&nbsp;different&nbsp;individual,&nbsp;fLatCha2.&nbsp;&nbsp;Purge_dups&nbsp;was&nbsp;used&nbsp;on&nbsp;the&nbsp;alternate&nbsp;assembly,&nbsp;but&nbsp;not&nbsp;on&nbsp;the&nbsp;primary&nbsp;assembly.&nbsp;The&nbsp;only&nbsp;purging&nbsp;on&nbsp;the&nbsp;primary&nbsp;assembly&nbsp;was&nbsp;Hifiasm's&nbsp;default&nbsp;purging&nbsp;when&nbsp;running&nbsp;in&nbsp;pseudohaplotype&nbsp;mode.&nbsp;
   ident: md6

@@ -11,6 +11,16 @@ data_arima-1_scale: 1.7731
 data_arima_bases: 122.04 Gbp
 data_arima_bytes: 64.1 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 455.75 Gbp
+data_pacbiohifi_bam-1_bytes: 200.6 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Aegotheles_albertisi/bAegAlb1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aegotheles_albertisi/bAegAlb1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aegotheles_albertisi/bAegAlb1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 2.1162
+data_pacbiohifi_bam_bases: 455.75 Gbp
+data_pacbiohifi_bam_bytes: 200.6 GiB
+data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 50.42 Gbp
 data_pacbiohifi_fqgz-1_bytes: 22.2 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -87,8 +97,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
-last_raw_data: 1699641379
-last_updated: 1704488005
+last_raw_data: 1711399894
+last_updated: 1711399894
 mds:
 - data: species:&nbsp;Aegotheles&nbsp;albertisi<br>specimen:&nbsp;bAegAlb1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Aegotheles_albertisi/bAegAlb1/assembly_vgp_HiC_2.0/bAegAlb1.HiC.hap1.20231120.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Aegotheles_albertisi/bAegAlb1/assembly_vgp_HiC_2.0/bAegAlb1.HiC.hap2.20231120.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Aegotheles_albertisi/bAegAlb1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bAegAlb1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Aegotheles_albertisi/bAegAlb1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bAegAlb1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Aegotheles_albertisi/bAegAlb1/assembly_vgp_HiC_2.0/evaluation/merqury/bAegAlb1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Aegotheles_albertisi/bAegAlb1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Aegotheles_albertisi/bAegAlb1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Aegotheles_albertisi/bAegAlb1/assembly_MT_rockefeller/bAegAlb1.MT.20230105.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.6+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>&nbsp;&nbsp;-&nbsp;mitohifi&nbsp;(3+galaxy0)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bAegAlb1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;These&nbsp;assemblies&nbsp;underwent&nbsp;purge_dups.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;<br>
   ident: md3

@@ -58,15 +58,73 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1320300000
 genome_size_display: 1.32 Gbp
 genome_size_method: GoaT
+hpa3date: 2024-02-27
+hpa3filesize: 369.4 MiB
+hpa3length: '1340290359'
+hpa3n50ctg: 2683214
+hpa3n50scf: 63363742
+hpa3seq: https://s3.amazonaws.com/genomeark/species/Numenius_arquata/bNumArq3/assembly_cambridge/bNumArq3.hap1.asm.20240227.fasta.gz
+hpa3sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 12 </td><td> 8.36 Mbp </td><td> 1 </td><td> 141.98 Mbp </td></tr><tr><td> 20 </td><td> 30 </td><td> 6.48 Mbp </td><td> 2 </td><td> 132.46 Mbp </td></tr><tr><td> 30 </td><td> 54 </td><td> 4.87 Mbp </td><td> 4 </td><td> 76.77 Mbp </td></tr><tr><td> 40 </td><td> 86 </td><td> 3.58 Mbp </td><td> 6 </td><td> 71.65 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 128 </td><td style="background-color:#88ff88;"> 2.68 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 63.36 Mbp </td></tr><tr><td> 60 </td><td> 183 </td><td> 2.03 Mbp </td><td> 10 </td><td> 62.19 Mbp </td></tr><tr><td> 70 </td><td> 260 </td><td> 1.47 Mbp </td><td> 12 </td><td> 45.74 Mbp </td></tr><tr><td> 80 </td><td> 372 </td><td> 0.91 Mbp </td><td> 17 </td><td> 17.66 Mbp </td></tr><tr><td> 90 </td><td> 606 </td><td> 326.14 Kbp </td><td> 46 </td><td> 0.84 Mbp </td></tr><tr><td> 100 </td><td> 1691 </td><td> 41.71 Kbp </td><td> 969 </td><td> 44.38 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.015x </th><th> 2644 </th><th> 1.34 Gbp </th><th> 1906 </th><th> 1.34 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa3version: assembly_cambridge
+hpb3date: 2024-02-27
+hpb3filesize: 343.3 MiB
+hpb3length: '1207581846'
+hpb3n50ctg: 2537356
+hpb3n50scf: 63003148
+hpb3seq: https://s3.amazonaws.com/genomeark/species/Numenius_arquata/bNumArq3/assembly_cambridge/bNumArq3.hap2.asm.20240227.fasta.gz
+hpb3sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 13 </td><td> 8.38 Mbp </td><td> 1 </td><td> 141.74 Mbp </td></tr><tr><td> 20 </td><td> 32 </td><td> 6.04 Mbp </td><td> 2 </td><td> 133.07 Mbp </td></tr><tr><td> 30 </td><td> 57 </td><td> 4.42 Mbp </td><td> 4 </td><td> 76.79 Mbp </td></tr><tr><td> 40 </td><td> 92 </td><td> 3.22 Mbp </td><td> 6 </td><td> 70.29 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 138 </td><td style="background-color:#88ff88;"> 2.54 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 63.00 Mbp </td></tr><tr><td> 60 </td><td> 198 </td><td> 1.88 Mbp </td><td> 10 </td><td> 56.36 Mbp </td></tr><tr><td> 70 </td><td> 283 </td><td> 1.25 Mbp </td><td> 13 </td><td> 20.75 Mbp </td></tr><tr><td> 80 </td><td> 432 </td><td> 0.62 Mbp </td><td> 24 </td><td> 8.28 Mbp </td></tr><tr><td> 90 </td><td> 971 </td><td> 82.28 Kbp </td><td> 325 </td><td> 101.31 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.915x </th><th> 1499 </th><th> 1.21 Gbp </th><th> 808 </th><th> 1.21 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb3version: assembly_cambridge
 last_raw_data: 1707381778
-last_updated: 1707381778
+last_updated: 1709751975
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bNumArq<br>&nbsp;&nbsp;name:&nbsp;Numenius&nbsp;arquata<br>&nbsp;&nbsp;taxon_id:&nbsp;31919<br>&nbsp;&nbsp;common_name:&nbsp;Eurasian&nbsp;curlew<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scolopacidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bNumArq3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112693994<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1320300000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
-mito3date: 2023-12-23
-mito3filesize: 5.7 KiB
-mito3length: '19892'
+mito3date: 2024-02-27
+mito3filesize: 5.4 KiB
+mito3length: '17130'
 mito3n50ctg: 0
 mito3n50scf: 0
-mito3seq: https://s3.amazonaws.com/genomeark/species/Numenius_arquata/bNumArq3/assembly_MT_cambridge/bNumArq3.MT.20231223.fasta.gz
+mito3seq: https://s3.amazonaws.com/genomeark/species/Numenius_arquata/bNumArq3/assembly_MT_cambridge/bNumArq3.MT.20240227.fasta.gz
 mito3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -86,7 +144,7 @@ mito3sizes: |
   <tbody>
   <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.000x </th><th> 1 </th><th> 19.89 Kbp </th><th> 1 </th><th> 19.89 Kbp </th></tr>
+  <tr><th> 0.000x </th><th> 1 </th><th> 17.13 Kbp </th><th> 1 </th><th> 17.13 Kbp </th></tr>
   </tfoot>
   </table>
 mito3version: assembly_MT_cambridge

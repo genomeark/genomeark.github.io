@@ -28,6 +28,16 @@ data_illumina-3_scale: 2.2074
 data_illumina_bases: 111.44 Gbp
 data_illumina_bytes: 46.9 GiB
 data_illumina_coverage: N/A
+data_pacbiohifi_clr-1_bases: 1288.41 Gbp
+data_pacbiohifi_clr-1_bytes: 2.2 TiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Columba_livia/bColLiv1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Columba_livia/bColLiv1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Columba_livia/bColLiv1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5355
+data_pacbiohifi_clr_bases: 1288.41 Gbp
+data_pacbiohifi_clr_bytes: 2.2 TiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 62.13 Gbp
 data_pacbiohifi_fqgz-1_bytes: 49.9 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -47,8 +57,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1697140581
-last_updated: 1708637058
+last_raw_data: 1711137959
+last_updated: 1711137959
 mat1date: 2024-02-06
 mat1filesize: 290.9 MiB
 mat1length: '1181506259'

@@ -1,34 +1,44 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
-common_name: ''
+common_name: Tawny owl
 data_arima-1_bases: 96.51 Gbp
 data_arima-1_bytes: 49.0 GiB
-data_arima-1_coverage: N/A
+data_arima-1_coverage: 62.06x
 data_arima-1_links: s3://genomeark/species/Strix_aluco/bStrAlu1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Strix_aluco/bStrAlu1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Strix_aluco/bStrAlu1/genomic_data/arima/
 data_arima-1_scale: 1.8347
 data_arima_bases: 96.51 Gbp
 data_arima_bytes: 49.0 GiB
-data_arima_coverage: N/A
+data_arima_coverage: 62.06x
+data_pacbiohifi_bam-2_bases: 80.80 Gbp
+data_pacbiohifi_bam-2_bytes: 28.0 GiB
+data_pacbiohifi_bam-2_coverage: 51.96x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Strix_aluco/bStrAlu2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Strix_aluco/bStrAlu2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Strix_aluco/bStrAlu2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 2.6921
+data_pacbiohifi_bam_bases: 80.80 Gbp
+data_pacbiohifi_bam_bytes: 28.0 GiB
+data_pacbiohifi_bam_coverage: 51.96x
 data_pacbiohifi_fqgz-1_bases: 60.81 Gbp
 data_pacbiohifi_fqgz-1_bytes: 41.5 GiB
-data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_coverage: 39.11x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Strix_aluco/bStrAlu1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Strix_aluco/bStrAlu1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Strix_aluco/bStrAlu1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 1.3652
 data_pacbiohifi_fqgz_bases: 60.81 Gbp
 data_pacbiohifi_fqgz_bytes: 41.5 GiB
-data_pacbiohifi_fqgz_coverage: N/A
+data_pacbiohifi_fqgz_coverage: 39.11x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genome_size: 0
-genome_size_display: ''
-genome_size_method: ''
+genome_size: 1555020000
+genome_size_display: 1.56 Gbp
+genome_size_method: GoaT
 hpa1date: 2023-07-22
 hpa1filesize: 379.5 MiB
 hpa1length: '1411272693'
@@ -87,8 +97,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1674511228
-last_updated: 1689984258
+last_raw_data: 1710500890
+last_updated: 1710500890
 mds:
 - data: species:&nbsp;Strix&nbsp;aluco<br>specimen:&nbsp;bStrAlu1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/assembly_vgp_HiC_2.0/bStrAlu1.HiC.hap1.20230506.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/assembly_vgp_HiC_2.0/bStrAlu1.HiC.hap2.20230506.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bStrAlu1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bStrAlu1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/assembly_vgp_HiC_2.0/evaluation/merqury_postpurge/bStrAlu1_png/<br>mito:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/assembly_MT_rockefeller/bStrAlu1.MT.20230213.fasta.gz<br>mito_gb:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/assembly_MT_rockefeller/bStrAlu1.MT.20230213.gb<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.5+galaxy1)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.6+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bStrAlu1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;
   ident: md9
@@ -96,6 +106,7 @@ mds:
 - data: species:&nbsp;Strix&nbsp;aluco<br>specimen:&nbsp;bStrAlu1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/assembly_vgp_HiC_2.0/bStrAlu1.HiC.hap1.20230506.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/assembly_vgp_HiC_2.0/bStrAlu1.HiC.hap2.20230506.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bStrAlu1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bStrAlu1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/assembly_vgp_HiC_2.0/evaluation/merqury_postpurge/bStrAlu1_png/<br>mito:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/assembly_MT_rockefeller/bStrAlu1.MT.20230213.fasta.gz<br>mito_gb:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/assembly_MT_rockefeller/bStrAlu1.MT.20230213.gb<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Strix_aluco/bStrAlu1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.5+galaxy1)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.6+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bStrAlu1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap2.&nbsp;
   ident: md10
   title: assembly_vgp_HiC_2.0/bStrAlu1_hap2.yml
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bStrAlu<br>&nbsp;&nbsp;name:&nbsp;Strix&nbsp;aluco<br>&nbsp;&nbsp;taxon_id:&nbsp;111821<br>&nbsp;&nbsp;common_name:&nbsp;Tawny&nbsp;owl<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Strigiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Strigidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bStrAlu2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114594455<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1555020000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-02-13
 mito1filesize: 5.8 KiB
 mito1length: '19298'
@@ -127,7 +138,8 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Strix aluco
 name_: Strix_aluco
-project: ~
+project:
+- vgp
 short_name: bStrAlu
-taxon_id: ''
+taxon_id: 111821
 ---

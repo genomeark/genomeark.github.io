@@ -11,6 +11,16 @@ data_arima-1_scale: 1.7507
 data_arima_bases: 68.79 Gbp
 data_arima_bytes: 36.6 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 376.35 Gbp
+data_pacbiohifi_bam-1_bytes: 216.0 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Anodorhynchus_hyacinthinus/bAnoHya1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Anodorhynchus_hyacinthinus/bAnoHya1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anodorhynchus_hyacinthinus/bAnoHya1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.6230
+data_pacbiohifi_bam_bases: 376.35 Gbp
+data_pacbiohifi_bam_bytes: 216.0 GiB
+data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 50.29 Gbp
 data_pacbiohifi_fqgz-1_bytes: 28.9 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -87,8 +97,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1699990932
-last_updated: 1704492603
+last_raw_data: 1710947821
+last_updated: 1710947821
 mito1date: 2024-01-05
 mito1filesize: 5.8 KiB
 mito1length: '19092'

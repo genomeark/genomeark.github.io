@@ -47,9 +47,16 @@ data_arima-1_links: s3://genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/ari
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cygnus_olor/bCygOlo1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cygnus_olor/bCygOlo1/genomic_data/arima/
 data_arima-1_scale: 1.4499
-data_arima_bases: 96.55 Gbp
-data_arima_bytes: 62.0 GiB
-data_arima_coverage: 65.23x
+data_arima-2_bases: 61.36 Gbp
+data_arima-2_bytes: 18.1 GiB
+data_arima-2_coverage: 41.46x
+data_arima-2_links: s3://genomeark/species/Cygnus_olor/bCygOlo2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cygnus_olor/bCygOlo2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cygnus_olor/bCygOlo2/genomic_data/arima/
+data_arima-2_scale: 3.1655
+data_arima_bases: 157.90 Gbp
+data_arima_bytes: 80.1 GiB
+data_arima_coverage: 106.69x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 809.3 MiB
 data_bionano-1_coverage: 348.05x
@@ -91,8 +98,66 @@ genbank_pri: bCygOlo1:GCA_009769625.2
 genome_size: 1480000000
 genome_size_display: 1.48 Gbp
 genome_size_method: ''
-last_raw_data: 1708681647
-last_updated: 1708681647
+hpa2date: 2024-03-08
+hpa2filesize: 320.8 MiB
+hpa2length: '1295735891'
+hpa2n50ctg: 2311876
+hpa2n50scf: 41154999
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Cygnus_olor/bCygOlo2/assembly_cambridge/bCygOlo2.hap1.asm.20240308.fasta.gz
+hpa2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 18 </td><td> 6.61 Mbp </td><td> 1 </td><td> 212.12 Mbp </td></tr><tr><td> 20 </td><td> 44 </td><td> 4.97 Mbp </td><td> 2 </td><td> 160.61 Mbp </td></tr><tr><td> 30 </td><td> 78 </td><td> 3.75 Mbp </td><td> 3 </td><td> 123.17 Mbp </td></tr><tr><td> 40 </td><td> 123 </td><td> 2.97 Mbp </td><td> 5 </td><td> 75.86 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 179 </td><td style="background-color:#88ff88;"> 2.31 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 41.15 Mbp </td></tr><tr><td> 60 </td><td> 256 </td><td> 1.64 Mbp </td><td> 12 </td><td> 23.12 Mbp </td></tr><tr><td> 70 </td><td> 369 </td><td> 1.04 Mbp </td><td> 19 </td><td> 14.53 Mbp </td></tr><tr><td> 80 </td><td> 572 </td><td> 466.90 Kbp </td><td> 63 </td><td> 1.04 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.875x </th><th> 1549 </th><th> 1.30 Gbp </th><th> 828 </th><th> 1.30 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa2version: assembly_cambridge
+hpb2date: 2024-03-08
+hpb2filesize: 319.3 MiB
+hpb2length: '1288561498'
+hpb2n50ctg: 2122993
+hpb2n50scf: 41150815
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Cygnus_olor/bCygOlo2/assembly_cambridge/bCygOlo2.hap2.asm.20240308.fasta.gz
+hpb2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 17 </td><td> 6.93 Mbp </td><td> 1 </td><td> 210.90 Mbp </td></tr><tr><td> 20 </td><td> 42 </td><td> 5.21 Mbp </td><td> 2 </td><td> 161.28 Mbp </td></tr><tr><td> 30 </td><td> 77 </td><td> 3.76 Mbp </td><td> 3 </td><td> 122.46 Mbp </td></tr><tr><td> 40 </td><td> 121 </td><td> 2.93 Mbp </td><td> 5 </td><td> 79.44 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 180 </td><td style="background-color:#88ff88;"> 2.12 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 41.15 Mbp </td></tr><tr><td> 60 </td><td> 261 </td><td> 1.52 Mbp </td><td> 12 </td><td> 23.17 Mbp </td></tr><tr><td> 70 </td><td> 376 </td><td> 1.06 Mbp </td><td> 19 </td><td> 13.65 Mbp </td></tr><tr><td> 80 </td><td> 581 </td><td> 451.67 Kbp </td><td> 61 </td><td> 1.23 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.871x </th><th> 1307 </th><th> 1.29 Gbp </th><th> 600 </th><th> 1.29 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb2version: assembly_cambridge
+last_raw_data: 1709680100
+last_updated: 1709892684
 metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;mute&nbsp;swan<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;genome_size:&nbsp;1480000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCygOlo1<br>&nbsp;&nbsp;name:&nbsp;Cygnus&nbsp;olor<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;short_name:&nbsp;bCygOlo<br>&nbsp;&nbsp;taxon_id:&nbsp;8869<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-09-28
 mito1filesize: 5.4 KiB
@@ -123,6 +188,35 @@ mito1sizes: |
   </tfoot>
   </table>
 mito1version: assembly_MT_rockefeller
+mito2date: 2024-03-08
+mito2filesize: 5.0 KiB
+mito2length: '16734'
+mito2n50ctg: 0
+mito2n50scf: 0
+mito2seq: https://s3.amazonaws.com/genomeark/species/Cygnus_olor/bCygOlo2/assembly_MT_cambridge/bCygOlo2.MT.20240308.fasta.gz
+mito2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.73 Kbp </th><th> 1 </th><th> 16.73 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito2version: assembly_MT_cambridge
 name: Cygnus olor
 name_: Cygnus_olor
 pri1date: 2020-11-30

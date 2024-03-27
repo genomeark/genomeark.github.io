@@ -1,0 +1,1 @@
+../_genomeark/Artibeus_lituratus.md

@@ -1,44 +1,44 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
-common_name: ''
+common_name: Keenan's hairy-nosed bat
 data_arima-1_bases: 123.97 Gbp
 data_arima-1_bytes: 67.7 GiB
-data_arima-1_coverage: N/A
+data_arima-1_coverage: 57.88x
 data_arima-1_links: s3://genomeark/species/Gardnerycteris_keenani/mGarKee1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gardnerycteris_keenani/mGarKee1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gardnerycteris_keenani/mGarKee1/genomic_data/arima/
 data_arima-1_scale: 1.7066
 data_arima_bases: 123.97 Gbp
 data_arima_bytes: 67.7 GiB
-data_arima_coverage: N/A
+data_arima_coverage: 57.88x
 data_pacbiohifi_bam-1_bases: 91.15 Gbp
 data_pacbiohifi_bam-1_bytes: 321.4 GiB
-data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_coverage: 42.56x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Gardnerycteris_keenani/mGarKee1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gardnerycteris_keenani/mGarKee1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gardnerycteris_keenani/mGarKee1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 0.2641
 data_pacbiohifi_bam_bases: 91.15 Gbp
 data_pacbiohifi_bam_bytes: 321.4 GiB
-data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_bam_coverage: 42.56x
 data_pacbiohifi_fqgz-1_bases: 21.75 Gbp
 data_pacbiohifi_fqgz-1_bytes: 76.7 GiB
-data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_coverage: 10.15x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Gardnerycteris_keenani/mGarKee1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gardnerycteris_keenani/mGarKee1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gardnerycteris_keenani/mGarKee1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 0.2641
 data_pacbiohifi_fqgz_bases: 21.75 Gbp
 data_pacbiohifi_fqgz_bytes: 76.7 GiB
-data_pacbiohifi_fqgz_coverage: N/A
+data_pacbiohifi_fqgz_coverage: 10.15x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genome_size: 0
-genome_size_display: ''
-genome_size_method: ''
+genome_size: 2141820000
+genome_size_display: 2.14 Gbp
+genome_size_method: GoaT
 hpa1date: 2023-12-20
 hpa1filesize: 586.5 MiB
 hpa1length: '2203076197'
@@ -99,9 +99,12 @@ hpb1sizes: |
 hpb1version: assembly_curated
 last_raw_data: 1702485194
 last_updated: 1704679794
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mGarKee<br>&nbsp;&nbsp;name:&nbsp;Gardnerycteris&nbsp;keenani<br>&nbsp;&nbsp;taxon_id:&nbsp;2358194<br>&nbsp;&nbsp;common_name:&nbsp;Keenan's&nbsp;hairy-nosed&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phyllostomidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mGarKee1<br>&nbsp;&nbsp;genome_size:&nbsp;2141820000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 name: Gardnerycteris keenani
 name_: Gardnerycteris_keenani
-project: ~
+project:
+- vgp
+- bat1k
 short_name: mGarKee
-taxon_id: ''
+taxon_id: 2358194
 ---

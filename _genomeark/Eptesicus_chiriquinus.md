@@ -1,44 +1,44 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
-common_name: ''
+common_name: Chiriquinan serotine
 data_arima-1_bases: 138.07 Gbp
 data_arima-1_bytes: 56.7 GiB
-data_arima-1_coverage: N/A
+data_arima-1_coverage: 57.92x
 data_arima-1_links: s3://genomeark/species/Eptesicus_chiriquinus/mEptChi1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Eptesicus_chiriquinus/mEptChi1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Eptesicus_chiriquinus/mEptChi1/genomic_data/arima/
 data_arima-1_scale: 2.2663
 data_arima_bases: 138.07 Gbp
 data_arima_bytes: 56.7 GiB
-data_arima_coverage: N/A
+data_arima_coverage: 57.92x
 data_pacbiohifi_bam-1_bases: 88.90 Gbp
 data_pacbiohifi_bam-1_bytes: 316.4 GiB
-data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_coverage: 37.29x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Eptesicus_chiriquinus/mEptChi1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Eptesicus_chiriquinus/mEptChi1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Eptesicus_chiriquinus/mEptChi1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 0.2617
 data_pacbiohifi_bam_bases: 88.90 Gbp
 data_pacbiohifi_bam_bytes: 316.4 GiB
-data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_bam_coverage: 37.29x
 data_pacbiohifi_fqgz-1_bases: 35.76 Gbp
 data_pacbiohifi_fqgz-1_bytes: 75.0 GiB
-data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_coverage: 15.00x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Eptesicus_chiriquinus/mEptChi1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Eptesicus_chiriquinus/mEptChi1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Eptesicus_chiriquinus/mEptChi1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 0.4441
 data_pacbiohifi_fqgz_bases: 35.76 Gbp
 data_pacbiohifi_fqgz_bytes: 75.0 GiB
-data_pacbiohifi_fqgz_coverage: N/A
+data_pacbiohifi_fqgz_coverage: 15.00x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genome_size: 0
-genome_size_display: ''
-genome_size_method: ''
+genome_size: 2383875000
+genome_size_display: 2.38 Gbp
+genome_size_method: GoaT
 hpa1date: 2023-12-20
 hpa1filesize: 566.6 MiB
 hpa1length: '2162492245'
@@ -99,9 +99,12 @@ hpb1sizes: |
 hpb1version: assembly_curated
 last_raw_data: 1702485186
 last_updated: 1703099613
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mEptChi<br>&nbsp;&nbsp;name:&nbsp;Eptesicus&nbsp;chiriquinus<br>&nbsp;&nbsp;taxon_id:&nbsp;409022<br>&nbsp;&nbsp;common_name:&nbsp;Chiriquinan&nbsp;serotine<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mEptChi1<br>&nbsp;&nbsp;genome_size:&nbsp;2383875000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 name: Eptesicus chiriquinus
 name_: Eptesicus_chiriquinus
-project: ~
+project:
+- vgp
+- bat1k
 short_name: mEptChi
-taxon_id: ''
+taxon_id: 409022
 ---

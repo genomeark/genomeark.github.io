@@ -1,34 +1,34 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
-common_name: ''
+common_name: Merriam's long-tongued bat
 data_arima-1_bases: 146.90 Gbp
 data_arima-1_bytes: 79.7 GiB
-data_arima-1_coverage: N/A
+data_arima-1_coverage: 60.32x
 data_arima-1_links: s3://genomeark/species/Glossophaga_mutica/mGloMut1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Glossophaga_mutica/mGloMut1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Glossophaga_mutica/mGloMut1/genomic_data/arima/
 data_arima-1_scale: 1.7171
 data_arima_bases: 146.90 Gbp
 data_arima_bytes: 79.7 GiB
-data_arima_coverage: N/A
+data_arima_coverage: 60.32x
 data_pacbiohifi_fqgz-1_bases: 77.22 Gbp
 data_pacbiohifi_fqgz-1_bytes: 55.5 GiB
-data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_coverage: 31.71x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Glossophaga_mutica/mGloMut1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Glossophaga_mutica/mGloMut1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Glossophaga_mutica/mGloMut1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 1.2960
 data_pacbiohifi_fqgz_bases: 77.22 Gbp
 data_pacbiohifi_fqgz_bytes: 55.5 GiB
-data_pacbiohifi_fqgz_coverage: N/A
+data_pacbiohifi_fqgz_coverage: 31.71x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genome_size: 0
-genome_size_display: ''
-genome_size_method: ''
+genome_size: 2435220000
+genome_size_display: 2.44 Gbp
+genome_size_method: GoaT
 hpa1date: 2023-12-05
 hpa1filesize: 586.9 MiB
 hpa1length: '2159973594'
@@ -96,6 +96,7 @@ mds:
 - data: species:&nbsp;Glossophaga&nbsp;mutica<br>specimen:&nbsp;mGloMut1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Glossophaga_mutica/mGloMut1/assembly_vgp_HiC_2.0/mGloMut1.HiC.hap1.20230829.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Glossophaga_mutica/mGloMut1/assembly_vgp_HiC_2.0/mGloMut1.HiC.hap2.20230829.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Glossophaga_mutica/mGloMut1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mGloMut1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Glossophaga_mutica/mGloMut1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mGloMut1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Glossophaga_mutica/mGloMut1/assembly_vgp_HiC_2.0/evaluation/merqury/mGloMut1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Glossophaga_mutica/mGloMut1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Glossophaga_mutica/mGloMut1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Glossophaga_mutica/mGloMut1/assembly_MT_rockefeller/mGloMut1.MT.20230913.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mGloMut1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;TruSeq.&nbsp;<br><br>
   ident: md6
   title: assembly_vgp_HiC_2.0/mGloMut1_hap2.yml
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mGloMut<br>&nbsp;&nbsp;name:&nbsp;Glossophaga&nbsp;mutica<br>&nbsp;&nbsp;taxon_id:&nbsp;2994998<br>&nbsp;&nbsp;common_name:&nbsp;Merriam's&nbsp;long-tongued&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phyllostomidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mGloMut1<br>&nbsp;&nbsp;genome_size:&nbsp;2435220000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 mito1date: 2023-09-13
 mito1filesize: 5.3 KiB
 mito1length: '16758'
@@ -127,7 +128,9 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Glossophaga mutica
 name_: Glossophaga_mutica
-project: ~
+project:
+- vgp
+- bat1k
 short_name: mGloMut
-taxon_id: ''
+taxon_id: 2994998
 ---

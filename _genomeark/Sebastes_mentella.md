@@ -11,6 +11,16 @@ data_arima-1_scale: 1.7876
 data_arima_bases: 272.02 Gbp
 data_arima_bytes: 141.7 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 396.41 Gbp
+data_pacbiohifi_bam-1_bytes: 171.8 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Sebastes_mentella/fSebMen1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sebastes_mentella/fSebMen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sebastes_mentella/fSebMen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 2.1483
+data_pacbiohifi_bam_bases: 396.41 Gbp
+data_pacbiohifi_bam_bytes: 171.8 GiB
+data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 42.94 Gbp
 data_pacbiohifi_fqgz-1_bytes: 18.6 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -29,8 +39,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1699389251
-last_updated: 1699389251
+last_raw_data: 1711034443
+last_updated: 1711034443
 name: Sebastes mentella
 name_: Sebastes_mentella
 project: ~

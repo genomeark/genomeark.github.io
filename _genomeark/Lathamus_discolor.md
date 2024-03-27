@@ -30,11 +30,11 @@ genome_size: 1385000000
 genome_size_display: 1.39 Gbp
 genome_size_method: GoAT
 hpa1date: 2023-07-10
-hpa1filesize: 279.8 MiB
-hpa1length: '1099351248'
-hpa1n50ctg: 15181702
-hpa1n50scf: 124193701
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Lathamus_discolor/bLatDis1/assembly_curated/bLatDis1.hap1.decontam.20230710.fasta.gz
+hpa1filesize: 315.1 MiB
+hpa1length: '1241003407'
+hpa1n50ctg: 16318051
+hpa1n50scf: 126105786
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Lathamus_discolor/bLatDis1/assembly_curated/bLatDis1.hap1.cur.20230710.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 43.45 Mbp </td><td> 1 </td><td> 175.36 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 38.47 Mbp </td><td> 2 </td><td> 159.45 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 26.86 Mbp </td><td> 3 </td><td> 150.60 Mbp </td></tr><tr><td> 40 </td><td> 16 </td><td> 19.97 Mbp </td><td> 4 </td><td> 127.43 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 24 </td><td style="background-color:#88ff88;"> 15.18 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 124.19 Mbp </td></tr><tr><td> 60 </td><td> 36 </td><td> 9.63 Mbp </td><td> 7 </td><td> 32.33 Mbp </td></tr><tr><td> 70 </td><td> 54 </td><td> 5.27 Mbp </td><td> 12 </td><td> 23.61 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 43.45 Mbp </td><td> 1 </td><td> 166.04 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 38.47 Mbp </td><td> 2 </td><td> 160.32 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 30.90 Mbp </td><td> 3 </td><td> 152.78 Mbp </td></tr><tr><td> 40 </td><td> 15 </td><td> 23.64 Mbp </td><td> 4 </td><td> 128.18 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 22 </td><td style="background-color:#88ff88;"> 16.32 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 126.11 Mbp </td></tr><tr><td> 60 </td><td> 32 </td><td> 11.93 Mbp </td><td> 6 </td><td> 112.48 Mbp </td></tr><tr><td> 70 </td><td> 45 </td><td> 8.73 Mbp </td><td> 8 </td><td> 41.83 Mbp </td></tr><tr><td> 80 </td><td> 68 </td><td> 2.97 Mbp </td><td> 15 </td><td> 13.13 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.785x </th><th> 489 </th><th> 1.09 Gbp </th><th> 376 </th><th> 1.10 Gbp </th></tr>
+  <tr><th> 0.894x </th><th> 553 </th><th> 1.24 Gbp </th><th> 367 </th><th> 1.24 Gbp </th></tr>
   </tfoot>
   </table>
 hpa1version: assembly_curated
 hpb1date: 2023-07-10
-hpb1filesize: 317.4 MiB
-hpb1length: '1275539213'
-hpb1n50ctg: 20858274
-hpb1n50scf: 127208742
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Lathamus_discolor/bLatDis1/assembly_curated/bLatDis1.hap2.decontam.20230710.fasta.gz
+hpb1filesize: 281.8 MiB
+hpb1length: '1123412812'
+hpb1n50ctg: 19234739
+hpb1n50scf: 128186114
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Lathamus_discolor/bLatDis1/assembly_curated/bLatDis1.hap2.cur.20230710.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,17 +81,17 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 56.53 Mbp </td><td> 1 </td><td> 167.12 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 44.10 Mbp </td><td> 2 </td><td> 160.22 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 31.52 Mbp </td><td> 3 </td><td> 153.63 Mbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 26.02 Mbp </td><td> 4 </td><td> 128.17 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 19 </td><td style="background-color:#88ff88;"> 20.86 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 127.21 Mbp </td></tr><tr><td> 60 </td><td> 27 </td><td> 15.86 Mbp </td><td> 6 </td><td> 111.62 Mbp </td></tr><tr><td> 70 </td><td> 39 </td><td> 9.69 Mbp </td><td> 9 </td><td> 24.10 Mbp </td></tr><tr><td> 80 </td><td> 61 </td><td> 3.30 Mbp </td><td> 17 </td><td> 8.89 Mbp </td></tr><tr><td> 90 </td><td> 273 </td><td> 157.07 Kbp </td><td> 141 </td><td> 199.52 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 56.53 Mbp </td><td> 1 </td><td> 167.12 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 44.03 Mbp </td><td> 2 </td><td> 161.57 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 30.36 Mbp </td><td> 3 </td><td> 154.80 Mbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 25.14 Mbp </td><td> 4 </td><td> 129.02 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 19.23 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 128.19 Mbp </td></tr><tr><td> 60 </td><td> 30 </td><td> 11.27 Mbp </td><td> 6 </td><td> 92.27 Mbp </td></tr><tr><td> 70 </td><td> 48 </td><td> 5.17 Mbp </td><td> 13 </td><td> 13.09 Mbp </td></tr><tr><td> 80 </td><td> 330 </td><td> 95.61 Kbp </td><td> 194 </td><td> 114.33 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.918x </th><th> 582 </th><th> 1.27 Gbp </th><th> 450 </th><th> 1.28 Gbp </th></tr>
+  <tr><th> 0.809x </th><th> 535 </th><th> 1.12 Gbp </th><th> 413 </th><th> 1.12 Gbp </th></tr>
   </tfoot>
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1681236827
-last_updated: 1688968262
+last_updated: 1709751928
 mds:
 - data: species:&nbsp;Lathamus&nbsp;discolor<br>specimen:&nbsp;bLatDis1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/bLatDis1.HiC.hap1.20230710.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/bLatDis1.HiC.hap2.20230710.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bLatDis1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bLatDis1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_vgp_HiC_2.0/evaluation/merqury/bLatDis1_png/<br>mito:&nbsp;s3://genomeark/species/Lathamus_discolor/bLatDis1/assembly_MT_rockefeller/bLatDis1.MT.20230710.fasta.gz<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bLatDis1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.
-  ident: md5
+  ident: md7
   title: assembly_vgp_HiC_2.0/bLatDis1.yml
 metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Lathamus&nbsp;discolor<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bLatDis1<br>&nbsp;&nbsp;short_name:&nbsp;bLatDis<br>&nbsp;&nbsp;taxon_id:&nbsp;678569<br>&nbsp;&nbsp;common_name:&nbsp;Swift&nbsp;parrot<br>&nbsp;&nbsp;genome_size:&nbsp;1385000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Psittaciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Psittacidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-07-10

@@ -11,6 +11,16 @@ data_arima-2_scale: 1.7809
 data_arima_bases: 264.04 Gbp
 data_arima_bytes: 138.1 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-2_bases: 352.70 Gbp
+data_pacbiohifi_bam-2_bytes: 156.2 GiB
+data_pacbiohifi_bam-2_coverage: N/A
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Coregonus_huntsmani/fCorHun2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Coregonus_huntsmani/fCorHun2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Coregonus_huntsmani/fCorHun2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 2.1032
+data_pacbiohifi_bam_bases: 352.70 Gbp
+data_pacbiohifi_bam_bytes: 156.2 GiB
+data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_clr-2_bases: 1062.91 Gbp
 data_pacbiohifi_clr-2_bytes: 1.8 TiB
 data_pacbiohifi_clr-2_coverage: N/A
@@ -39,8 +49,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1703098366
-last_updated: 1703098366
+last_raw_data: 1710863092
+last_updated: 1710863092
 name: Coregonus huntsmani
 name_: Coregonus_huntsmani
 project: ~

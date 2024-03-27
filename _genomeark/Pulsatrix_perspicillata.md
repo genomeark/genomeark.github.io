@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
 data_arima-1_bases: 127.43 Gbp
 data_arima-1_bytes: 60.5 GiB
@@ -11,6 +11,16 @@ data_arima-1_scale: 1.9604
 data_arima_bases: 127.43 Gbp
 data_arima_bytes: 60.5 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 1003.25 Gbp
+data_pacbiohifi_bam-1_bytes: 435.5 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Pulsatrix_perspicillata/bPulPer1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pulsatrix_perspicillata/bPulPer1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pulsatrix_perspicillata/bPulPer1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 2.1456
+data_pacbiohifi_bam_bases: 1003.25 Gbp
+data_pacbiohifi_bam_bytes: 435.5 GiB
+data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 109.44 Gbp
 data_pacbiohifi_fqgz-1_bytes: 47.5 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -29,8 +39,99 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1703002004
-last_updated: 1703002004
+hpa1date: 2024-03-06
+hpa1filesize: 485.7 MiB
+hpa1length: '2272491433'
+hpa1n50ctg: 5830911
+hpa1n50scf: 17453878
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Pulsatrix_perspicillata/bPulPer1/assembly_vgp_HiC_2.0/bPulPer1.HiC.hap1.20240306.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 7 </td><td> 25.15 Mbp </td><td> 2 </td><td> 137.18 Mbp </td></tr><tr><td> 20 </td><td> 18 </td><td> 17.80 Mbp </td><td> 4 </td><td> 135.86 Mbp </td></tr><tr><td> 30 </td><td> 33 </td><td> 12.83 Mbp </td><td> 6 </td><td> 64.27 Mbp </td></tr><tr><td> 40 </td><td> 53 </td><td> 9.70 Mbp </td><td> 10 </td><td> 30.53 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 83 </td><td style="background-color:#88ff88;"> 5.83 Mbp </td><td> 20 </td><td style="background-color:#88ff88;"> 17.45 Mbp </td></tr><tr><td> 60 </td><td> 133 </td><td> 3.45 Mbp </td><td> 43 </td><td> 5.46 Mbp </td></tr><tr><td> 70 </td><td> 223 </td><td> 1.80 Mbp </td><td> 112 </td><td> 2.26 Mbp </td></tr><tr><td> 80 </td><td> 415 </td><td> 0.79 Mbp </td><td> 280 </td><td> 0.85 Mbp </td></tr><tr><td> 90 </td><td> 1111 </td><td> 133.83 Kbp </td><td> 923 </td><td> 139.83 Kbp </td></tr><tr><td> 100 </td><td> 6136 </td><td> 11.45 Kbp </td><td> 5891 </td><td> 11.45 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 6136 </th><th> 2.27 Gbp </th><th> 5891 </th><th> 2.27 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2024-03-06
+hpb1filesize: 389.7 MiB
+hpb1length: '1573925187'
+hpb1n50ctg: 11918785
+hpb1n50scf: 62020658
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Pulsatrix_perspicillata/bPulPer1/assembly_vgp_HiC_2.0/bPulPer1.HiC.hap2.20240306.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 30.33 Mbp </td><td> 1 </td><td> 318.13 Mbp </td></tr><tr><td> 20 </td><td> 10 </td><td> 23.83 Mbp </td><td> 1 </td><td> 318.13 Mbp </td></tr><tr><td> 30 </td><td> 17 </td><td> 19.94 Mbp </td><td> 3 </td><td> 134.58 Mbp </td></tr><tr><td> 40 </td><td> 26 </td><td> 17.07 Mbp </td><td> 4 </td><td> 99.46 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 37 </td><td style="background-color:#88ff88;"> 11.92 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 62.02 Mbp </td></tr><tr><td> 60 </td><td> 53 </td><td> 8.14 Mbp </td><td> 9 </td><td> 25.14 Mbp </td></tr><tr><td> 70 </td><td> 77 </td><td> 5.06 Mbp </td><td> 17 </td><td> 13.82 Mbp </td></tr><tr><td> 80 </td><td> 125 </td><td> 2.44 Mbp </td><td> 43 </td><td> 3.24 Mbp </td></tr><tr><td> 90 </td><td> 258 </td><td> 493.40 Kbp </td><td> 147 </td><td> 0.59 Mbp </td></tr><tr><td> 100 </td><td> 2497 </td><td> 11.14 Kbp </td><td> 2330 </td><td> 11.14 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 2497 </th><th> 1.57 Gbp </th><th> 2330 </th><th> 1.57 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
+last_raw_data: 1710884053
+last_updated: 1710884053
+mds:
+- data: species:&nbsp;Pulsatrix&nbsp;perspicillata<br>specimen:&nbsp;bPulPer1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Pulsatrix_perspicillata/bPulPer1/assembly_vgp_HiC_2.0/bPulPer1.HiC.hap1.20240306.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Pulsatrix_perspicillata/bPulPer1/assembly_vgp_HiC_2.0/bPulPer1.HiC.hap2.20240306.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Pulsatrix_perspicillata/bPulPer1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bPulPer1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Pulsatrix_perspicillata/bPulPer1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bPulPer1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Pulsatrix_perspicillata/bPulPer1/assembly_vgp_HiC_2.0/evaluation/merqury/bPulPer1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Pulsatrix_perspicillata/bPulPer1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Pulsatrix_perspicillata/bPulPer1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Pulsatrix_perspicillata/bPulPer1/assembly_MT_rockefeller/bPulPer1.MT.20240306.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bPulPer1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;This&nbsp;assembly&nbsp;has&nbsp;a&nbsp;large&nbsp;amount&nbsp;of&nbsp;what&nbsp;seem&nbsp;to&nbsp;be&nbsp;fragmented&nbsp;repeat&nbsp;contigs.&nbsp;The&nbsp;estimated&nbsp;genome&nbsp;size&nbsp;from&nbsp;GenomeScope&nbsp;is&nbsp;1.57Gbp,&nbsp;but&nbsp;hap1&nbsp;contigs&nbsp;end&nbsp;up&nbsp;2.27Gbp&nbsp;and&nbsp;hap2&nbsp;contigs&nbsp;are&nbsp;1.57Gbp,&nbsp;so&nbsp;a&nbsp;lot&nbsp;of&nbsp;the&nbsp;repeats&nbsp;seem&nbsp;to&nbsp;be&nbsp;retained&nbsp;in&nbsp;hap1.&nbsp;I&nbsp;say&nbsp;that&nbsp;they&nbsp;are&nbsp;repeats&nbsp;because&nbsp;running&nbsp;purge_dups&nbsp;resulted&nbsp;in&nbsp;a&nbsp;large&nbsp;fraction&nbsp;of&nbsp;hap1&nbsp;being&nbsp;removed&nbsp;(~300Mbp)&nbsp;and&nbsp;labelled&nbsp;as&nbsp;REPEAT&nbsp;by&nbsp;purge_dups,&nbsp;but&nbsp;the&nbsp;assembly&nbsp;is&nbsp;still&nbsp;larger&nbsp;than&nbsp;expected&nbsp;(1.92Gbp).&nbsp;I&nbsp;have&nbsp;opted&nbsp;to&nbsp;not&nbsp;remove&nbsp;these&nbsp;repeats,&nbsp;and&nbsp;the&nbsp;unpurged&nbsp;assemblies&nbsp;were&nbsp;carried&nbsp;through&nbsp;to&nbsp;scaffolding,&nbsp;in&nbsp;favor&nbsp;of&nbsp;keeping&nbsp;these&nbsp;sequences.&nbsp;Nucmer&nbsp;against&nbsp;Strix&nbsp;aluco&nbsp;shows&nbsp;a&nbsp;good&nbsp;amount&nbsp;of&nbsp;colinearity&nbsp;among&nbsp;the&nbsp;larger&nbsp;scaffolds&nbsp;in&nbsp;the&nbsp;end,&nbsp;and&nbsp;the&nbsp;smaller&nbsp;fragments&nbsp;hitting&nbsp;against&nbsp;some&nbsp;un-named&nbsp;parts&nbsp;of&nbsp;S.&nbsp;aluco.&nbsp;Just&nbsp;a&nbsp;heads&nbsp;up!&nbsp;<br>
+  ident: md3
+  title: assembly_vgp_HiC_2.0/bPulPer1.yml
+mito1date: 2024-03-06
+mito1filesize: 5.8 KiB
+mito1length: '20869'
+mito1n50ctg: 20869
+mito1n50scf: 20869
+mito1seq: https://s3.amazonaws.com/genomeark/species/Pulsatrix_perspicillata/bPulPer1/assembly_MT_rockefeller/bPulPer1.MT.20240306.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 20.87 Kbp </td><td> 1 </td><td> 20.87 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 20.87 Kbp </td><td> 1 </td><td> 20.87 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 20.87 Kbp </td><td> 1 </td><td> 20.87 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 20.87 Kbp </td><td> 1 </td><td> 20.87 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 20.87 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 20.87 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 20.87 Kbp </td><td> 1 </td><td> 20.87 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 20.87 Kbp </td><td> 1 </td><td> 20.87 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 20.87 Kbp </td><td> 1 </td><td> 20.87 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 20.87 Kbp </td><td> 1 </td><td> 20.87 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 20.87 Kbp </td><td> 1 </td><td> 20.87 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 20.87 Kbp </th><th> 1 </th><th> 20.87 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Pulsatrix perspicillata
 name_: Pulsatrix_perspicillata
 project: ~

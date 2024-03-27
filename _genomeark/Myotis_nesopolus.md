@@ -1,44 +1,44 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
-common_name: ''
+common_name: Curaçao myotis
 data_arima-1_bases: 152.02 Gbp
 data_arima-1_bytes: 63.9 GiB
-data_arima-1_coverage: N/A
+data_arima-1_coverage: 68.78x
 data_arima-1_links: s3://genomeark/species/Myotis_nesopolus/mMyoNes1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myotis_nesopolus/mMyoNes1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myotis_nesopolus/mMyoNes1/genomic_data/arima/
 data_arima-1_scale: 2.2147
 data_arima_bases: 152.02 Gbp
 data_arima_bytes: 63.9 GiB
-data_arima_coverage: N/A
+data_arima_coverage: 68.78x
 data_pacbiohifi_bam-1_bases: 94.27 Gbp
 data_pacbiohifi_bam-1_bytes: 338.1 GiB
-data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_coverage: 42.65x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Myotis_nesopolus/mMyoNes1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myotis_nesopolus/mMyoNes1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myotis_nesopolus/mMyoNes1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 0.2597
 data_pacbiohifi_bam_bases: 94.27 Gbp
 data_pacbiohifi_bam_bytes: 338.1 GiB
-data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_bam_coverage: 42.65x
 data_pacbiohifi_fqgz-1_bases: 94.01 Gbp
 data_pacbiohifi_fqgz-1_bytes: 80.8 GiB
-data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_coverage: 42.53x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Myotis_nesopolus/mMyoNes1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myotis_nesopolus/mMyoNes1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myotis_nesopolus/mMyoNes1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 1.0839
 data_pacbiohifi_fqgz_bases: 94.01 Gbp
 data_pacbiohifi_fqgz_bytes: 80.8 GiB
-data_pacbiohifi_fqgz_coverage: N/A
+data_pacbiohifi_fqgz_coverage: 42.53x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genome_size: 0
-genome_size_display: ''
-genome_size_method: ''
+genome_size: 2210280000
+genome_size_display: 2.21 Gbp
+genome_size_method: GoaT
 hpa1date: 2024-02-23
 hpa1filesize: 619.2 MiB
 hpa1length: '2200477536'
@@ -99,9 +99,12 @@ hpb1sizes: |
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1708287605
 last_updated: 1708805465
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoNes<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;nesopolus<br>&nbsp;&nbsp;taxon_id:&nbsp;1163727<br>&nbsp;&nbsp;common_name:&nbsp;Curaçao&nbsp;myotis<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mMyoNes1<br>&nbsp;&nbsp;genome_size:&nbsp;2210280000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 name: Myotis nesopolus
 name_: Myotis_nesopolus
-project: ~
+project:
+- vgp
+- bat1k
 short_name: mMyoNes
-taxon_id: ''
+taxon_id: 1163727
 ---

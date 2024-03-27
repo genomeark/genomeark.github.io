@@ -118,7 +118,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1674509833
-last_updated: 1708974208
+last_updated: 1709912749
 metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Pseudorca&nbsp;crassidens<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPseCra1<br>&nbsp;&nbsp;short_name:&nbsp;mPseCra<br>&nbsp;&nbsp;taxon_id:&nbsp;82174<br>&nbsp;&nbsp;common_name:&nbsp;false&nbsp;killer&nbsp;whale<br>&nbsp;&nbsp;genome_size:&nbsp;3081000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Artiodactyla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Delphinidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Pseudorca crassidens
 name_: Pseudorca_crassidens

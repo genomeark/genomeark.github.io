@@ -11,6 +11,16 @@ data_arima-1_scale: 1.7454
 data_arima_bases: 103.24 Gbp
 data_arima_bytes: 55.1 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 760.64 Gbp
+data_pacbiohifi_bam-1_bytes: 372.4 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Morphnus_guianensis/bMorGui1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Morphnus_guianensis/bMorGui1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Morphnus_guianensis/bMorGui1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.9024
+data_pacbiohifi_bam_bases: 760.64 Gbp
+data_pacbiohifi_bam_bytes: 372.4 GiB
+data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 90.17 Gbp
 data_pacbiohifi_fqgz-1_bytes: 44.1 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -87,8 +97,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
-last_raw_data: 1704742570
-last_updated: 1707769070
+last_raw_data: 1710862735
+last_updated: 1710862735
 mito1date: 2024-02-12
 mito1filesize: 5.7 KiB
 mito1length: '18567'

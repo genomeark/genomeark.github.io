@@ -54,6 +54,16 @@ data_bionano-2_scale: 588.5017
 data_bionano_bases: N/A
 data_bionano_bytes: 724.5 MiB
 data_bionano_coverage: 379.53x
+data_pacbiohifi_clr-2_bases: 843.93 Gbp
+data_pacbiohifi_clr-2_bytes: 1.5 TiB
+data_pacbiohifi_clr-2_coverage: 716.41x
+data_pacbiohifi_clr-2_links: s3://genomeark/species/Passerculus_sandwichensis/bPasSan2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Passerculus_sandwichensis/bPasSan2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Passerculus_sandwichensis/bPasSan2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_scale: 0.5262
+data_pacbiohifi_clr_bases: 843.93 Gbp
+data_pacbiohifi_clr_bytes: 1.5 TiB
+data_pacbiohifi_clr_coverage: 716.41x
 data_pacbiohifi_fqgz-1_bases: '54579979164'
 data_pacbiohifi_fqgz-1_scale: '1.2210'
 data_pacbiohifi_fqgz-2_bases: 54.58 Gbp
@@ -76,8 +86,8 @@ genbank_pri: bPasSan1:GCA_022577445.1
 genome_size: 1178000000
 genome_size_display: 1.18 Gbp
 genome_size_method: GoAT
-last_raw_data: 1678303917
-last_updated: 1685145922
+last_raw_data: 1709829351
+last_updated: 1709829351
 mds:
 - data: species:&nbsp;Passerculus&nbsp;sandwichensis<br>specimen:&nbsp;bPasSan2<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Passerculus_sandwichensis/bPasSan2/assembly_vgp_standard_2.0/bPasSan2.standard.pri.20230308.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Passerculus_sandwichensis/bPasSan2/assembly_vgp_standard_2.0/bPasSan2.standard.alt.20230308.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Passerculus_sandwichensis/bPasSan2/assembly_vgp_standard_2.0/evaluation/pri/pretext/bPasSan2_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Passerculus_sandwichensis/bPasSan2/assembly_vgp_standard_2.0/evaluation/merqury/bPasSan2_png/<br>mito:&nbsp;s3://genomeark/species/Passerculus_sandwichensis/bPasSan2/assembly_MT_rockefeller/bPasSan2.MT.20230307.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Passerculus_sandwichensis/bPasSan2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Passerculus_sandwichensis/bPasSan2/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Passerculus_sandwichensis/bPasSan2/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;bPasSan2&nbsp;(VGL-bPasSan1).&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;This&nbsp;sample&nbsp;arrived&nbsp;with&nbsp;metadata&nbsp;indicating&nbsp;it&nbsp;is&nbsp;a&nbsp;female.&nbsp;
   ident: md5

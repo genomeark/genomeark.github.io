@@ -47,9 +47,16 @@ data_arima-2_links: s3://genomeark/species/Aythya_fuligula/bAytFul2/genomic_data
 data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aythya_fuligula/bAytFul2/genomic_data/arima/
 data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aythya_fuligula/bAytFul2/genomic_data/arima/
 data_arima-2_scale: 1.8347
-data_arima_bases: 109.64 Gbp
-data_arima_bytes: 55.7 GiB
-data_arima_coverage: 91.37x
+data_arima-3_bases: 48.04 Gbp
+data_arima-3_bytes: 13.7 GiB
+data_arima-3_coverage: 40.04x
+data_arima-3_links: s3://genomeark/species/Aythya_fuligula/bAytFul3/genomic_data/arima/<br>
+data_arima-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Aythya_fuligula/bAytFul3/genomic_data/arima/
+data_arima-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aythya_fuligula/bAytFul3/genomic_data/arima/
+data_arima-3_scale: 3.2576
+data_arima_bases: 157.69 Gbp
+data_arima_bytes: 69.4 GiB
+data_arima_coverage: 131.40x
 data_bionano-2_bases: N/A
 data_bionano-2_bytes: 0.9 GiB
 data_bionano-2_coverage: 371.51x
@@ -81,8 +88,8 @@ genbank_pri: bAytFul2:GCA_009819795.1
 genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 genome_size_method: ''
-last_raw_data: 1565190400
-last_updated: 1568989010
+last_raw_data: 1709914517
+last_updated: 1709914517
 metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;tufted&nbsp;duck<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;genome_size:&nbsp;1200000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAytFul2<br>&nbsp;&nbsp;name:&nbsp;Aythya&nbsp;fuligula<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;short_name:&nbsp;bAytFul<br>&nbsp;&nbsp;taxon_id:&nbsp;219594<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Aythya fuligula
 name_: Aythya_fuligula

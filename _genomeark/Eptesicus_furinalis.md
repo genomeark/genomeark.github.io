@@ -1,34 +1,34 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
-common_name: ''
+common_name: Argentine brown bat
 data_dovetail-1_bases: 170.22 Gbp
 data_dovetail-1_bytes: 94.5 GiB
-data_dovetail-1_coverage: N/A
+data_dovetail-1_coverage: 68.79x
 data_dovetail-1_links: s3://genomeark/species/Eptesicus_furinalis/mEptFur1/genomic_data/dovetail/<br>
 data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Eptesicus_furinalis/mEptFur1/genomic_data/dovetail/
 data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Eptesicus_furinalis/mEptFur1/genomic_data/dovetail/
 data_dovetail-1_scale: 1.6773
 data_dovetail_bases: 170.22 Gbp
 data_dovetail_bytes: 94.5 GiB
-data_dovetail_coverage: N/A
+data_dovetail_coverage: 68.79x
 data_pacbiohifi_fqgz-1_bases: 111.70 Gbp
 data_pacbiohifi_fqgz-1_bytes: 82.0 GiB
-data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_coverage: 45.14x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Eptesicus_furinalis/mEptFur1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Eptesicus_furinalis/mEptFur1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Eptesicus_furinalis/mEptFur1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 1.2684
 data_pacbiohifi_fqgz_bases: 111.70 Gbp
 data_pacbiohifi_fqgz_bytes: 82.0 GiB
-data_pacbiohifi_fqgz_coverage: N/A
+data_pacbiohifi_fqgz_coverage: 45.14x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genome_size: 0
-genome_size_display: ''
-genome_size_method: ''
+genome_size: 2474340000
+genome_size_display: 2.47 Gbp
+genome_size_method: GoaT
 hpa1date: 2023-11-07
 hpa1filesize: 561.2 MiB
 hpa1length: '2166556159'
@@ -89,6 +89,7 @@ hpb1sizes: |
 hpb1version: assembly_curated
 last_raw_data: 1698184099
 last_updated: 1699391440
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mEptFur<br>&nbsp;&nbsp;name:&nbsp;Eptesicus&nbsp;furinalis<br>&nbsp;&nbsp;taxon_id:&nbsp;124746<br>&nbsp;&nbsp;common_name:&nbsp;Argentine&nbsp;brown&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mEptFur1<br>&nbsp;&nbsp;genome_size:&nbsp;2474340000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 mito1date: 2023-11-03
 mito1filesize: 5.0 KiB
 mito1length: '17182'
@@ -120,7 +121,9 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Eptesicus furinalis
 name_: Eptesicus_furinalis
-project: ~
+project:
+- vgp
+- bat1k
 short_name: mEptFur
-taxon_id: ''
+taxon_id: 124746
 ---

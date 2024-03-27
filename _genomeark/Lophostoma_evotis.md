@@ -1,34 +1,34 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
-common_name: ''
+common_name: Davis' round-eared bat
 data_dovetail-1_bases: 188.57 Gbp
 data_dovetail-1_bytes: 108.5 GiB
-data_dovetail-1_coverage: N/A
+data_dovetail-1_coverage: 76.82x
 data_dovetail-1_links: s3://genomeark/species/Lophostoma_evotis/mLopEvo1/genomic_data/dovetail/<br>
 data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lophostoma_evotis/mLopEvo1/genomic_data/dovetail/
 data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lophostoma_evotis/mLopEvo1/genomic_data/dovetail/
 data_dovetail-1_scale: 1.6179
 data_dovetail_bases: 188.57 Gbp
 data_dovetail_bytes: 108.5 GiB
-data_dovetail_coverage: N/A
+data_dovetail_coverage: 76.82x
 data_pacbiohifi_fqgz-1_bases: 105.59 Gbp
 data_pacbiohifi_fqgz-1_bytes: 83.4 GiB
-data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_coverage: 43.01x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Lophostoma_evotis/mLopEvo1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lophostoma_evotis/mLopEvo1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lophostoma_evotis/mLopEvo1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 1.1792
 data_pacbiohifi_fqgz_bases: 105.59 Gbp
 data_pacbiohifi_fqgz_bytes: 83.4 GiB
-data_pacbiohifi_fqgz_coverage: N/A
+data_pacbiohifi_fqgz_coverage: 43.01x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genome_size: 0
-genome_size_display: ''
-genome_size_method: ''
+genome_size: 2454780000
+genome_size_display: 2.45 Gbp
+genome_size_method: GoaT
 hpa1date: 2023-11-10
 hpa1filesize: 610.4 MiB
 hpa1length: '2425241767'
@@ -89,9 +89,12 @@ hpb1sizes: |
 hpb1version: assembly_curated
 last_raw_data: 1698426542
 last_updated: 1699642758
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mLopEvo<br>&nbsp;&nbsp;name:&nbsp;Lophostoma&nbsp;evotis<br>&nbsp;&nbsp;taxon_id:&nbsp;574022<br>&nbsp;&nbsp;common_name:&nbsp;Davis'&nbsp;round-eared&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phyllostomidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mLopEvo1<br>&nbsp;&nbsp;genome_size:&nbsp;2454780000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 name: Lophostoma evotis
 name_: Lophostoma_evotis
-project: ~
+project:
+- vgp
+- bat1k
 short_name: mLopEvo
-taxon_id: ''
+taxon_id: 574022
 ---

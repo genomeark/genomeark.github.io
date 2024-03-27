@@ -21,6 +21,13 @@ data_arima-3_scale: 1.9215
 data_arima_bases: 124.53 Gbp
 data_arima_bytes: 60.4 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-10_bases: 16.07 Gbp
+data_pacbiohifi_bam-10_bytes: 4.1 GiB
+data_pacbiohifi_bam-10_coverage: N/A
+data_pacbiohifi_bam-10_links: s3://genomeark/species/Phaethon_aethereus/bPhaAeh10/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-10_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phaethon_aethereus/bPhaAeh10/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-10_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phaethon_aethereus/bPhaAeh10/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-10_scale: 3.6290
 data_pacbiohifi_bam-3_bases: 36.09 Mbp
 data_pacbiohifi_bam-3_bytes: 20.7 MiB
 data_pacbiohifi_bam-3_coverage: N/A
@@ -35,8 +42,8 @@ data_pacbiohifi_bam-6_links: s3://genomeark/species/Phaethon_aethereus/bPhaAeh6/
 data_pacbiohifi_bam-6_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phaethon_aethereus/bPhaAeh6/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-6_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phaethon_aethereus/bPhaAeh6/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-6_scale: 1.3845
-data_pacbiohifi_bam_bases: 38.62 Mbp
-data_pacbiohifi_bam_bytes: 22.5 MiB
+data_pacbiohifi_bam_bases: 16.11 Gbp
+data_pacbiohifi_bam_bytes: 4.1 GiB
 data_pacbiohifi_bam_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em>
   ::: <em style="color:forestgreen">Arima</em>'
@@ -47,9 +54,9 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1675823326
-last_updated: 1675823326
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bPhaAeh<br>&nbsp;&nbsp;name:&nbsp;Phaethon&nbsp;aethereus<br>&nbsp;&nbsp;taxon_id:&nbsp;37045<br>&nbsp;&nbsp;common_name:&nbsp;red-billed&nbsp;tropicbird<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pelecaniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phaethontidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPhaAeh1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8228671<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPhaAeh3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8228673<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPhaAeh6<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8228676<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+last_raw_data: 1710581663
+last_updated: 1710581663
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bPhaAeh<br>&nbsp;&nbsp;name:&nbsp;Phaethon&nbsp;aethereus<br>&nbsp;&nbsp;taxon_id:&nbsp;37045<br>&nbsp;&nbsp;common_name:&nbsp;red-billed&nbsp;tropicbird<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pelecaniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phaethontidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPhaAeh10<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114294362<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPhaAeh3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8228673<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPhaAeh6<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8228676<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Phaethon aethereus
 name_: Phaethon_aethereus
 project:

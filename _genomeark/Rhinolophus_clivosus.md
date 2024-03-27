@@ -1,44 +1,44 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
-common_name: ''
+common_name: Geoffroy's horseshoe bat
 data_arima-1_bases: 138.24 Gbp
 data_arima-1_bytes: 56.0 GiB
-data_arima-1_coverage: N/A
+data_arima-1_coverage: 65.74x
 data_arima-1_links: s3://genomeark/species/Rhinolophus_clivosus/mRhiCli1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinolophus_clivosus/mRhiCli1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_clivosus/mRhiCli1/genomic_data/arima/
 data_arima-1_scale: 2.3000
 data_arima_bases: 138.24 Gbp
 data_arima_bytes: 56.0 GiB
-data_arima_coverage: N/A
+data_arima_coverage: 65.74x
 data_pacbiohifi_bam-1_bases: 112.98 Gbp
 data_pacbiohifi_bam-1_bytes: 406.6 GiB
-data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_coverage: 53.73x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Rhinolophus_clivosus/mRhiCli1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinolophus_clivosus/mRhiCli1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_clivosus/mRhiCli1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 0.2588
 data_pacbiohifi_bam_bases: 112.98 Gbp
 data_pacbiohifi_bam_bytes: 406.6 GiB
-data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_bam_coverage: 53.73x
 data_pacbiohifi_fqgz-1_bases: 28.32 Gbp
 data_pacbiohifi_fqgz-1_bytes: 101.9 GiB
-data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_coverage: 13.47x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Rhinolophus_clivosus/mRhiCli1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinolophus_clivosus/mRhiCli1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_clivosus/mRhiCli1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 0.2588
 data_pacbiohifi_fqgz_bases: 28.32 Gbp
 data_pacbiohifi_fqgz_bytes: 101.9 GiB
-data_pacbiohifi_fqgz_coverage: N/A
+data_pacbiohifi_fqgz_coverage: 13.47x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genome_size: 0
-genome_size_display: ''
-genome_size_method: ''
+genome_size: 2102700000
+genome_size_display: 2.10 Gbp
+genome_size_method: GoaT
 hpa1date: 2024-02-14
 hpa1filesize: 647.7 MiB
 hpa1length: '2254462196'
@@ -99,6 +99,7 @@ hpb1sizes: |
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1706726261
 last_updated: 1708373976
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mRhiCli<br>&nbsp;&nbsp;name:&nbsp;Rhinolophus&nbsp;clivosus<br>&nbsp;&nbsp;taxon_id:&nbsp;59478<br>&nbsp;&nbsp;common_name:&nbsp;Geoffroy's&nbsp;horseshoe&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhinolophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mRhiCli1<br>&nbsp;&nbsp;genome_size:&nbsp;2102700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 mito1date: 2024-02-14
 mito1filesize: 5.1 KiB
 mito1length: '16148'
@@ -130,7 +131,9 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Rhinolophus clivosus
 name_: Rhinolophus_clivosus
-project: ~
+project:
+- vgp
+- bat1k
 short_name: mRhiCli
-taxon_id: ''
+taxon_id: 59478
 ---

@@ -1,24 +1,24 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
-common_name: ''
+common_name: intermediate fruit-eating bat
 data_pacbiohifi_fqgz-1_bases: 95.37 Gbp
 data_pacbiohifi_fqgz-1_bytes: 74.0 GiB
-data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_coverage: 40.13x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Artibeus_intermedius/mArtInt1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Artibeus_intermedius/mArtInt1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Artibeus_intermedius/mArtInt1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 1.1997
 data_pacbiohifi_fqgz_bases: 95.37 Gbp
 data_pacbiohifi_fqgz_bytes: 74.0 GiB
-data_pacbiohifi_fqgz_coverage: N/A
+data_pacbiohifi_fqgz_coverage: 40.13x
 data_status: <em style="color:forestgreen">PacBio HiFi</em>
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genome_size: 0
-genome_size_display: ''
-genome_size_method: ''
+genome_size: 2376540000
+genome_size_display: 2.38 Gbp
+genome_size_method: GoaT
 hpa1date: 2023-09-11
 hpa1filesize: 651.1 MiB
 hpa1length: '2293600955'
@@ -86,6 +86,7 @@ mds:
 - data: species:&nbsp;Artibeus&nbsp;intermedius<br>specimen:&nbsp;mArtInt1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Artibeus_intermedius/mArtInt1/assembly_vgp_HiC_2.0/mArtInt1.HiC.hap1.20230911.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Artibeus_intermedius/mArtInt1/assembly_vgp_HiC_2.0/mArtInt1.HiC.hap2.20230911.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Artibeus_intermedius/mArtInt1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mArtInt1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Artibeus_intermedius/mArtInt1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mArtInt1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Artibeus_intermedius/mArtInt1/assembly_vgp_HiC_2.0/evaluation/merqury/mArtInt1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Artibeus_intermedius/mArtInt1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Artibeus_intermedius/mArtInt1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Artibeus_intermedius/mArtInt1/assembly_MT_rockefeller/mArtInt1.MT.20240228.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mArtInt1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;<br>
   ident: md6
   title: assembly_vgp_HiC_2.0/mArtInt1_hap2.yml
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mArtInt<br>&nbsp;&nbsp;name:&nbsp;Artibeus&nbsp;intermedius<br>&nbsp;&nbsp;taxon_id:&nbsp;51014<br>&nbsp;&nbsp;common_name:&nbsp;intermediate&nbsp;fruit-eating&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phyllostomidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mArtInt1<br>&nbsp;&nbsp;genome_size:&nbsp;2376540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 mito1date: 2024-02-28
 mito1filesize: 5.3 KiB
 mito1length: '16686'
@@ -117,7 +118,9 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Artibeus intermedius
 name_: Artibeus_intermedius
-project: ~
+project:
+- vgp
+- bat1k
 short_name: mArtInt
-taxon_id: ''
+taxon_id: 51014
 ---

@@ -50,6 +50,16 @@ data_bionano-1_scale: 614.6642
 data_bionano_bases: N/A
 data_bionano_bytes: 802.2 MiB
 data_bionano_coverage: 395.89x
+data_pacbiohifi_clr-1_bases: 968.31 Gbp
+data_pacbiohifi_clr-1_bytes: 1.7 TiB
+data_pacbiohifi_clr-1_coverage: 741.43x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ammodramus_maritimus/bAmmMai1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammodramus_maritimus/bAmmMai1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5322
+data_pacbiohifi_clr_bases: 968.31 Gbp
+data_pacbiohifi_clr_bytes: 1.7 TiB
+data_pacbiohifi_clr_coverage: 741.43x
 data_pacbiohifi_fqgz-1_bases: 39.45 Gbp
 data_pacbiohifi_fqgz-1_bytes: 31.0 GiB
 data_pacbiohifi_fqgz-1_coverage: 30.20x
@@ -68,8 +78,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1306000000
 genome_size_display: 1.31 Gbp
 genome_size_method: GoAT
-last_raw_data: 1683389171
-last_updated: 1702083920
+last_raw_data: 1709754423
+last_updated: 1709754423
 mds:
 - data: species:&nbsp;Ammodramus&nbsp;maritimus<br>specimen:&nbsp;bAmmMai1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/assembly_vgp_standard_2.0/bAmmMai1.standard.pri.20230512.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/assembly_vgp_standard_2.0/bAmmMai1.standard.alt.20230512.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/assembly_vgp_standard_2.0/evaluation/pri/pretext/bAmmMai1_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/assembly_vgp_standard_2.0/evaluation/merqury/bAmmMai1_png/<br>mito:&nbsp;s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/assembly_MT_rockefeller/bAmmMai1.MT.20230509.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Ammodramus_maritimus/bAmmMai1/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;bAmmMai1&nbsp;(VGL&nbsp;ID&nbsp;is&nbsp;bAmmMar1).&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;This&nbsp;sample&nbsp;arrived&nbsp;with&nbsp;metadata&nbsp;indicating&nbsp;it&nbsp;is&nbsp;a&nbsp;female.&nbsp;
   ident: md5

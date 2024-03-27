@@ -1,44 +1,44 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
-common_name: ''
+common_name: Egyptian slit-faced bat
 data_arima-2_bases: 227.75 Gbp
 data_arima-2_bytes: 92.5 GiB
-data_arima-2_coverage: N/A
+data_arima-2_coverage: 82.58x
 data_arima-2_links: s3://genomeark/species/Nycteris_thebaica/mNycThe2/genomic_data/arima/<br>
 data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nycteris_thebaica/mNycThe2/genomic_data/arima/
 data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nycteris_thebaica/mNycThe2/genomic_data/arima/
 data_arima-2_scale: 2.2938
 data_arima_bases: 227.75 Gbp
 data_arima_bytes: 92.5 GiB
-data_arima_coverage: N/A
+data_arima_coverage: 82.58x
 data_pacbiohifi_bam-2_bases: 105.69 Gbp
 data_pacbiohifi_bam-2_bytes: 376.7 GiB
-data_pacbiohifi_bam-2_coverage: N/A
+data_pacbiohifi_bam-2_coverage: 38.32x
 data_pacbiohifi_bam-2_links: s3://genomeark/species/Nycteris_thebaica/mNycThe2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nycteris_thebaica/mNycThe2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nycteris_thebaica/mNycThe2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_scale: 0.2613
 data_pacbiohifi_bam_bases: 105.69 Gbp
 data_pacbiohifi_bam_bytes: 376.7 GiB
-data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_bam_coverage: 38.32x
 data_pacbiohifi_fqgz-2_bases: 25.32 Gbp
 data_pacbiohifi_fqgz-2_bytes: 90.3 GiB
-data_pacbiohifi_fqgz-2_coverage: N/A
+data_pacbiohifi_fqgz-2_coverage: 9.18x
 data_pacbiohifi_fqgz-2_links: s3://genomeark/species/Nycteris_thebaica/mNycThe2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nycteris_thebaica/mNycThe2/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nycteris_thebaica/mNycThe2/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-2_scale: 0.2612
 data_pacbiohifi_fqgz_bases: 25.32 Gbp
 data_pacbiohifi_fqgz_bytes: 90.3 GiB
-data_pacbiohifi_fqgz_coverage: N/A
+data_pacbiohifi_fqgz_coverage: 9.18x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genome_size: 0
-genome_size_display: ''
-genome_size_method: ''
+genome_size: 2757960000
+genome_size_display: 2.76 Gbp
+genome_size_method: GoaT
 hpa2date: 2024-02-16
 hpa2filesize: 684.4 MiB
 hpa2length: '2339814217'
@@ -99,9 +99,12 @@ hpb2sizes: |
 hpb2version: assembly_vgp_HiC_2.0
 last_raw_data: 1706726281
 last_updated: 1708373926
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mNycThe<br>&nbsp;&nbsp;name:&nbsp;Nycteris&nbsp;thebaica<br>&nbsp;&nbsp;taxon_id:&nbsp;59467<br>&nbsp;&nbsp;common_name:&nbsp;Egyptian&nbsp;slit-faced&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Nycteridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mNycThe2<br>&nbsp;&nbsp;genome_size:&nbsp;2757960000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 name: Nycteris thebaica
 name_: Nycteris_thebaica
-project: ~
+project:
+- vgp
+- bat1k
 short_name: mNycThe
-taxon_id: ''
+taxon_id: 59467
 ---

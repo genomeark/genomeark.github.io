@@ -38,6 +38,16 @@ data_ont-1_scale: 1.1257
 data_ont_bases: 40.22 Gbp
 data_ont_bytes: 33.3 GiB
 data_ont_coverage: 24.01x
+data_pacbiohifi_bam-2_bases: 449.04 Gbp
+data_pacbiohifi_bam-2_bytes: 230.9 GiB
+data_pacbiohifi_bam-2_coverage: 268.08x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 1.8111
+data_pacbiohifi_bam_bases: 449.04 Gbp
+data_pacbiohifi_bam_bytes: 230.9 GiB
+data_pacbiohifi_bam_coverage: 268.08x
 data_pacbiohifi_clr-2_bases: 450.02 Gbp
 data_pacbiohifi_clr-2_bytes: 783.2 GiB
 data_pacbiohifi_clr-2_coverage: 268.67x
@@ -190,8 +200,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_vgp_HiC_2.0
-last_raw_data: 1705954533
-last_updated: 1706049948
+last_raw_data: 1710863369
+last_updated: 1710863369
 mds:
 - data: species:&nbsp;Liasis&nbsp;olivaceus<br>specimen:&nbsp;rLiaOli2<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>hap1:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/assembly_vgp_HiC_2.0/rLiaOli2.HiC.hap1.20240123.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/assembly_vgp_HiC_2.0/rLiaOli2.HiC.hap2.20240123.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rLiaOli2_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rLiaOli2_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/assembly_vgp_HiC_2.0/evaluation/merqury/rLiaOli2_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rLiaOli2,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;have&nbsp;bionano&nbsp;data,&nbsp;but&nbsp;it&nbsp;was&nbsp;not&nbsp;used&nbsp;during&nbsp;assembly&nbsp;because&nbsp;the&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;sufficient.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2,&nbsp;and&nbsp;the&nbsp;library&nbsp;prep&nbsp;kit&nbsp;was&nbsp;the&nbsp;Arima&nbsp;kit,&nbsp;requiring&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;off&nbsp;both&nbsp;forward&nbsp;and&nbsp;reverse&nbsp;reads&nbsp;before&nbsp;usage&nbsp;with&nbsp;the&nbsp;Arima&nbsp;mapping&nbsp;pipeline.&nbsp;MitoHiFi&nbsp;failed&nbsp;to&nbsp;find&nbsp;a&nbsp;mito&nbsp;for&nbsp;this&nbsp;individual's&nbsp;data.&nbsp;&nbsp;
   ident: md18
