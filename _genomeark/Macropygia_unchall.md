@@ -11,23 +11,24 @@ data_arima-1_scale: 1.9500
 data_arima_bases: 132.57 Gbp
 data_arima_bytes: 63.3 GiB
 data_arima_coverage: N/A
-data_pacbiohifi_bam-1_bases: 71.96 Gbp
+data_pacbiohifi_bam-1_bases: 71.48 Gbp
 data_pacbiohifi_bam-1_bytes: 298.0 GiB
 data_pacbiohifi_bam-1_coverage: N/A
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Macropygia_unchall/bMacUnc1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Macropygia_unchall/bMacUnc1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Macropygia_unchall/bMacUnc1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2249
-data_pacbiohifi_bam_bases: 71.96 Gbp
+data_pacbiohifi_bam-1_scale: 0.2234
+data_pacbiohifi_bam_bases: 71.48 Gbp
 data_pacbiohifi_bam_bytes: 298.0 GiB
 data_pacbiohifi_bam_coverage: N/A
-data_pacbiohifi_fqgz-1_bases: ''
+data_pacbiohifi_fqgz-1_bases: 71.49 Gbp
 data_pacbiohifi_fqgz-1_bytes: 0.1 KiB
 data_pacbiohifi_fqgz-1_coverage: N/A
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Macropygia_unchall/bMacUnc1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Macropygia_unchall/bMacUnc1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Macropygia_unchall/bMacUnc1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz_bases: ''
+data_pacbiohifi_fqgz-1_scale: 3574663095.0500
+data_pacbiohifi_fqgz_bases: 71.49 Gbp
 data_pacbiohifi_fqgz_bytes: 0.1 KiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
