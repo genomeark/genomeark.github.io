@@ -99,7 +99,7 @@ hpb1sizes: |
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1706726261
 last_updated: 1708373976
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mRhiCli<br>&nbsp;&nbsp;name:&nbsp;Rhinolophus&nbsp;clivosus<br>&nbsp;&nbsp;taxon_id:&nbsp;59478<br>&nbsp;&nbsp;common_name:&nbsp;Geoffroy's&nbsp;horseshoe&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhinolophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mRhiCli1<br>&nbsp;&nbsp;genome_size:&nbsp;2102700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mRhiCli<br>&nbsp;&nbsp;name:&nbsp;Rhinolophus&nbsp;clivosus<br>&nbsp;&nbsp;taxon_id:&nbsp;59478<br>&nbsp;&nbsp;common_name:&nbsp;Geoffroy's&nbsp;horseshoe&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhinolophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mRhiCli1<br>&nbsp;&nbsp;genome_size:&nbsp;2102700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 mito1date: 2024-02-14
 mito1filesize: 5.1 KiB
 mito1length: '16148'

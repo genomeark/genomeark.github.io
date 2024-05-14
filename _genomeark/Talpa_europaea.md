@@ -30,16 +30,16 @@ alt1sizes: |
 alt1version: assembly_cambridge
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: European mole
-data_arima-1_bases: 225.83 Gbp
-data_arima-1_bytes: 65.1 GiB
-data_arima-1_coverage: 92.37x
+data_arima-1_bases: 481.28 Gbp
+data_arima-1_bytes: 132.7 GiB
+data_arima-1_coverage: 196.84x
 data_arima-1_links: s3://genomeark/species/Talpa_europaea/mTalEur1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Talpa_europaea/mTalEur1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Talpa_europaea/mTalEur1/genomic_data/arima/
-data_arima-1_scale: 3.2288
-data_arima_bases: 225.83 Gbp
-data_arima_bytes: 65.1 GiB
-data_arima_coverage: 92.37x
+data_arima-1_scale: 3.3773
+data_arima_bases: 481.28 Gbp
+data_arima_bytes: 132.7 GiB
+data_arima_coverage: 196.84x
 data_pacbiohifi_bam-1_bases: 70.46 Gbp
 data_pacbiohifi_bam-1_bytes: 28.3 GiB
 data_pacbiohifi_bam-1_coverage: 28.82x
@@ -58,15 +58,73 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2445000000
 genome_size_display: 2.45 Gbp
 genome_size_method: GoaT
-last_raw_data: 1702993675
-last_updated: 1703328733
+hpa1date: 2024-04-25
+hpa1filesize: 537.8 MiB
+hpa1length: '2063150705'
+hpa1n50ctg: 2840778
+hpa1n50scf: 104788664
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Talpa_europaea/mTalEur1/assembly_cambridge/mTalEur1.hap1.asm.20240425.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 25 </td><td> 8.25 Mbp </td><td> 2 </td><td> 151.62 Mbp </td></tr><tr><td> 20 </td><td> 60 </td><td> 5.73 Mbp </td><td> 4 </td><td> 138.91 Mbp </td></tr><tr><td> 30 </td><td> 108 </td><td> 4.53 Mbp </td><td> 5 </td><td> 138.79 Mbp </td></tr><tr><td> 40 </td><td> 168 </td><td> 3.64 Mbp </td><td> 7 </td><td> 118.35 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 245 </td><td style="background-color:#88ff88;"> 2.84 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 104.79 Mbp </td></tr><tr><td> 60 </td><td> 344 </td><td> 2.06 Mbp </td><td> 12 </td><td> 103.12 Mbp </td></tr><tr><td> 70 </td><td> 489 </td><td> 1.36 Mbp </td><td> 14 </td><td> 96.13 Mbp </td></tr><tr><td> 80 </td><td> 763 </td><td> 496.33 Kbp </td><td> 18 </td><td> 25.06 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.844x </th><th> 1584 </th><th> 2.06 Gbp </th><th> 580 </th><th> 2.06 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_cambridge
+hpb1date: 2024-04-25
+hpb1filesize: 537.9 MiB
+hpb1length: '2066777096'
+hpb1n50ctg: 2905455
+hpb1n50scf: 118187903
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Talpa_europaea/mTalEur1/assembly_cambridge/mTalEur1.hap2.asm.20240425.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 24 </td><td> 8.69 Mbp </td><td> 2 </td><td> 153.09 Mbp </td></tr><tr><td> 20 </td><td> 59 </td><td> 5.66 Mbp </td><td> 4 </td><td> 138.73 Mbp </td></tr><tr><td> 30 </td><td> 107 </td><td> 4.52 Mbp </td><td> 5 </td><td> 138.65 Mbp </td></tr><tr><td> 40 </td><td> 167 </td><td> 3.71 Mbp </td><td> 7 </td><td> 135.07 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 242 </td><td style="background-color:#88ff88;"> 2.91 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 118.19 Mbp </td></tr><tr><td> 60 </td><td> 339 </td><td> 2.07 Mbp </td><td> 12 </td><td> 103.96 Mbp </td></tr><tr><td> 70 </td><td> 484 </td><td> 1.38 Mbp </td><td> 14 </td><td> 96.07 Mbp </td></tr><tr><td> 80 </td><td> 751 </td><td> 0.54 Mbp </td><td> 17 </td><td> 50.89 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.845x </th><th> 1507 </th><th> 2.07 Gbp </th><th> 510 </th><th> 2.07 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_cambridge
+last_raw_data: 1714045433
+last_updated: 1714045433
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mTalEur<br>&nbsp;&nbsp;name:&nbsp;Talpa&nbsp;europaea<br>&nbsp;&nbsp;taxon_id:&nbsp;9375<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;mole<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Soricomorpha<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Talpidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mTalEur1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468127<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2445000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
-mito1date: 2023-12-22
-mito1filesize: 5.3 KiB
+mito1date: 2024-04-25
+mito1filesize: 5.0 KiB
 mito1length: '16932'
 mito1n50ctg: 0
 mito1n50scf: 0
-mito1seq: https://s3.amazonaws.com/genomeark/species/Talpa_europaea/mTalEur1/assembly_MT_cambridge/mTalEur1.MT.20231222.fasta.gz
+mito1seq: https://s3.amazonaws.com/genomeark/species/Talpa_europaea/mTalEur1/assembly_MT_cambridge/mTalEur1.MT.20240425.fasta.gz
 mito1sizes: |
   <table class="sequence-sizes-table">
   <thead>

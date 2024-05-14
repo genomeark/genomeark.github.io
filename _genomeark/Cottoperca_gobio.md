@@ -40,16 +40,16 @@ data_10x-3_scale: 1.3916
 data_10x_bases: 98.10 Gbp
 data_10x_bytes: 65.7 GiB
 data_10x_coverage: 140.15x
-data_arima-2_bases: 89.97 Gbp
-data_arima-2_bytes: 43.7 GiB
-data_arima-2_coverage: 128.52x
+data_arima-2_bases: 183.15 Gbp
+data_arima-2_bytes: 74.7 GiB
+data_arima-2_coverage: 261.64x
 data_arima-2_links: s3://genomeark/species/Cottoperca_gobio/fCotGob2/genomic_data/arima/<br>
 data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cottoperca_gobio/fCotGob2/genomic_data/arima/
 data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cottoperca_gobio/fCotGob2/genomic_data/arima/
-data_arima-2_scale: 1.9177
-data_arima_bases: 89.97 Gbp
-data_arima_bytes: 43.7 GiB
-data_arima_coverage: 128.52x
+data_arima-2_scale: 2.2827
+data_arima_bases: 183.15 Gbp
+data_arima_bytes: 74.7 GiB
+data_arima_coverage: 261.64x
 data_bionano-3_bases: N/A
 data_bionano-3_bytes: 3.4 GiB
 data_bionano-3_coverage: 3785.21x
@@ -81,8 +81,8 @@ genbank_pri: fCotGob3:GCA_900634415.1
 genome_size: 700000000
 genome_size_display: 0.70 Gbp
 genome_size_method: ''
-last_raw_data: 1523523546
-last_updated: 1547563550
+last_raw_data: 1715081795
+last_updated: 1715081795
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fCotGob<br>&nbsp;&nbsp;name:&nbsp;Cottoperca&nbsp;gobio<br>&nbsp;&nbsp;taxon_id:&nbsp;56716<br>&nbsp;&nbsp;common_name:&nbsp;channel&nbsp;bull&nbsp;blenny<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Bovichtidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCotGob2<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCotGob3<br>&nbsp;&nbsp;genome_size:&nbsp;700000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Cottoperca gobio
 name_: Cottoperca_gobio

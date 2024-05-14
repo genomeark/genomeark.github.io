@@ -187,7 +187,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1698640608
-last_updated: 1701804341
+last_updated: 1711738920
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mSymSyn<br>&nbsp;&nbsp;name:&nbsp;Symphalangus&nbsp;syndactylus<br>&nbsp;&nbsp;common_name:&nbsp;siamang&nbsp;gibbon<br>&nbsp;&nbsp;taxon_id:&nbsp;9590<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hylobatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mSymSyn1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Jambi<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMN30216103<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Jambi_SSY<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;MIG12-29960010<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone&nbsp;(Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;genome_size:&nbsp;3295860000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;Fuelgen&nbsp;Densitometry/Flow&nbsp;Cytometry<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>
 mito1date: 2023-11-22
 mito1filesize: 5.3 KiB

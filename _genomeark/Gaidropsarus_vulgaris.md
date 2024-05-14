@@ -11,7 +11,17 @@ data_arima-1_scale: 3.0921
 data_arima_bases: 73.94 Gbp
 data_arima_bytes: 22.3 GiB
 data_arima_coverage: 91.08x
-data_status: <em style="color:forestgreen">Arima</em>
+data_pacbiohifi_bam-1_bases: 33.79 Gbp
+data_pacbiohifi_bam-1_bytes: 11.0 GiB
+data_pacbiohifi_bam-1_coverage: 41.63x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Gaidropsarus_vulgaris/fGaiVul1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gaidropsarus_vulgaris/fGaiVul1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gaidropsarus_vulgaris/fGaiVul1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 2.8700
+data_pacbiohifi_bam_bases: 33.79 Gbp
+data_pacbiohifi_bam_bytes: 11.0 GiB
+data_pacbiohifi_bam_coverage: 41.63x
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -19,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 811740000
 genome_size_display: 0.81 Gbp
 genome_size_method: GoaT
-last_raw_data: 1708681286
-last_updated: 1708681286
+last_raw_data: 1711706064
+last_updated: 1711706064
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fGaiVul<br>&nbsp;&nbsp;name:&nbsp;Gaidropsarus&nbsp;vulgaris<br>&nbsp;&nbsp;taxon_id:&nbsp;348057<br>&nbsp;&nbsp;common_name:&nbsp;three-bearded&nbsp;rockling<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gadiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lotidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fGaiVul1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114298641<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;811740000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Gaidropsarus vulgaris
 name_: Gaidropsarus_vulgaris

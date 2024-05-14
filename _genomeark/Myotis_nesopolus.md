@@ -99,7 +99,7 @@ hpb1sizes: |
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1708287605
 last_updated: 1708805465
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoNes<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;nesopolus<br>&nbsp;&nbsp;taxon_id:&nbsp;1163727<br>&nbsp;&nbsp;common_name:&nbsp;Curaçao&nbsp;myotis<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mMyoNes1<br>&nbsp;&nbsp;genome_size:&nbsp;2210280000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoNes<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;nesopolus<br>&nbsp;&nbsp;taxon_id:&nbsp;1163727<br>&nbsp;&nbsp;common_name:&nbsp;Curaçao&nbsp;myotis<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoNes1<br>&nbsp;&nbsp;genome_size:&nbsp;2210280000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 name: Myotis nesopolus
 name_: Myotis_nesopolus
 project:

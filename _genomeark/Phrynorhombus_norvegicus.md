@@ -1,29 +1,31 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
-common_name: ''
-data_pacbiohifi_bam-1_bases: 13.40 Gbp
-data_pacbiohifi_bam-1_bytes: 8.7 GiB
-data_pacbiohifi_bam-1_coverage: N/A
+common_name: Norwegian topknot
+data_pacbiohifi_bam-1_bases: 49.18 Gbp
+data_pacbiohifi_bam-1_bytes: 19.4 GiB
+data_pacbiohifi_bam-1_coverage: 66.60x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Phrynorhombus_norvegicus/fPhrNor1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Phrynorhombus_norvegicus/fPhrNor1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phrynorhombus_norvegicus/fPhrNor1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 1.4295
-data_pacbiohifi_bam_bases: 13.40 Gbp
-data_pacbiohifi_bam_bytes: 8.7 GiB
-data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_bam-1_scale: 2.3614
+data_pacbiohifi_bam_bases: 49.18 Gbp
+data_pacbiohifi_bam_bytes: 19.4 GiB
+data_pacbiohifi_bam_coverage: 66.60x
 data_status: <em style="color:forestgreen">PacBio HiFi</em>
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genome_size: 0
-genome_size_display: ''
-genome_size_method: ''
-last_raw_data: 1703330527
-last_updated: 1703330527
+genome_size: 738390000
+genome_size_display: 0.74 Gbp
+genome_size_method: GoaT
+last_raw_data: 1711706981
+last_updated: 1711706981
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fPhrNor<br>&nbsp;&nbsp;name:&nbsp;Phrynorhombus&nbsp;norvegicus<br>&nbsp;&nbsp;taxon_id:&nbsp;508659<br>&nbsp;&nbsp;common_name:&nbsp;Norwegian&nbsp;topknot<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pleuronectiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scophthalmidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fPhrNor1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112788960<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;738390000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Phrynorhombus norvegicus
 name_: Phrynorhombus_norvegicus
-project: ~
+project:
+- vgp
 short_name: fPhrNor
-taxon_id: ''
+taxon_id: 508659
 ---

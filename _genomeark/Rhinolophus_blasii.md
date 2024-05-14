@@ -40,8 +40,8 @@ genome_size: 2102700000
 genome_size_display: 2.10 Gbp
 genome_size_method: GoaT
 last_raw_data: 1708285530
-last_updated: 1708970351
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mRhiBla<br>&nbsp;&nbsp;name:&nbsp;Rhinolophus&nbsp;blasii<br>&nbsp;&nbsp;taxon_id:&nbsp;519037<br>&nbsp;&nbsp;common_name:&nbsp;Blasius'&nbsp;horseshoe&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhinolophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mRhiBla1<br>&nbsp;&nbsp;genome_size:&nbsp;2102700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>&nbsp;&nbsp;
+last_updated: 1708970325
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mRhiBla<br>&nbsp;&nbsp;name:&nbsp;Rhinolophus&nbsp;blasii<br>&nbsp;&nbsp;taxon_id:&nbsp;519037<br>&nbsp;&nbsp;common_name:&nbsp;Blasius'&nbsp;horseshoe&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhinolophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mRhiBla1<br>&nbsp;&nbsp;genome_size:&nbsp;2102700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>&nbsp;&nbsp;
 mito1date: 2024-02-26
 mito1filesize: 5.4 KiB
 mito1length: '16851'

@@ -76,16 +76,16 @@ data_arima-1_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_d
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cyclopterus_lumpus/fCycLum1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum1/genomic_data/arima/
 data_arima-1_scale: 1.4836
-data_arima-2_bases: 93.37 Gbp
-data_arima-2_bytes: 28.8 GiB
-data_arima-2_coverage: 93.37x
+data_arima-2_bases: 211.14 Gbp
+data_arima-2_bytes: 83.6 GiB
+data_arima-2_coverage: 211.14x
 data_arima-2_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum2/genomic_data/arima/<br>
 data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cyclopterus_lumpus/fCycLum2/genomic_data/arima/
 data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum2/genomic_data/arima/
-data_arima-2_scale: 3.0228
-data_arima_bases: 183.06 Gbp
-data_arima_bytes: 85.1 GiB
-data_arima_coverage: 183.06x
+data_arima-2_scale: 2.3512
+data_arima_bases: 300.82 Gbp
+data_arima_bytes: 139.9 GiB
+data_arima_coverage: 300.82x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 682.5 MiB
 data_bionano-1_coverage: 508.20x
@@ -106,16 +106,36 @@ data_pacbio-1_scale: 0.5373
 data_pacbio_bases: 55.78 Gbp
 data_pacbio_bytes: 96.7 GiB
 data_pacbio_coverage: 55.78x
-data_pacbiohifi_bam-2_bases: 23.15 Gbp
-data_pacbiohifi_bam-2_bytes: 13.8 GiB
-data_pacbiohifi_bam-2_coverage: 23.15x
+data_pacbiohifi_bam-2_bases: 60.45 Gbp
+data_pacbiohifi_bam-2_bytes: 45.1 GiB
+data_pacbiohifi_bam-2_coverage: 60.45x
 data_pacbiohifi_bam-2_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cyclopterus_lumpus/fCycLum2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum2/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-2_scale: 1.5654
-data_pacbiohifi_bam_bases: 23.15 Gbp
-data_pacbiohifi_bam_bytes: 13.8 GiB
-data_pacbiohifi_bam_coverage: 23.15x
+data_pacbiohifi_bam-2_scale: 1.2497
+data_pacbiohifi_bam_bases: 60.45 Gbp
+data_pacbiohifi_bam_bytes: 45.1 GiB
+data_pacbiohifi_bam_coverage: 60.45x
+data_pacbiohifi_clr-2_bases: 958.41 Gbp
+data_pacbiohifi_clr-2_bytes: 1.6 TiB
+data_pacbiohifi_clr-2_coverage: 958.41x
+data_pacbiohifi_clr-2_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cyclopterus_lumpus/fCycLum2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_scale: 0.5313
+data_pacbiohifi_clr_bases: 958.41 Gbp
+data_pacbiohifi_clr_bytes: 1.6 TiB
+data_pacbiohifi_clr_coverage: 958.41x
+data_pacbiohifi_fqgz-2_bases: 41.59 Gbp
+data_pacbiohifi_fqgz-2_bytes: 33.2 GiB
+data_pacbiohifi_fqgz-2_coverage: 41.59x
+data_pacbiohifi_fqgz-2_links: s3://genomeark/species/Cyclopterus_lumpus/fCycLum2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cyclopterus_lumpus/fCycLum2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-2_scale: 1.1683
+data_pacbiohifi_fqgz_bases: 41.59 Gbp
+data_pacbiohifi_fqgz_bytes: 33.2 GiB
+data_pacbiohifi_fqgz_coverage: 41.59x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
   HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
@@ -127,9 +147,9 @@ genbank_pri: fCycLum1:GCA_009769545.1
 genome_size: 1000000000
 genome_size_display: 1.00 Gbp
 genome_size_method: ''
-last_raw_data: 1692284609
-last_updated: 1694649699
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fCycLum<br>&nbsp;&nbsp;name:&nbsp;Cyclopterus&nbsp;lumpus<br>&nbsp;&nbsp;taxon_id:&nbsp;8103<br>&nbsp;&nbsp;common_name:&nbsp;lumpfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scorpaeniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyclopteridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCycLum1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCycLum2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112789128<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1000000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+last_raw_data: 1715624461
+last_updated: 1715624461
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fCycLum<br>&nbsp;&nbsp;name:&nbsp;Cyclopterus&nbsp;lumpus<br>&nbsp;&nbsp;taxon_id:&nbsp;8103<br>&nbsp;&nbsp;common_name:&nbsp;lumpfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scorpaeniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyclopteridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCycLum1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCycLum2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112789128<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1000000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-02
 mito1filesize: 5.2 KiB
 mito1length: '17282'

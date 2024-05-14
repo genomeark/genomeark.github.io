@@ -160,7 +160,7 @@ genome_size: 3491460000
 genome_size_display: 3.49 Gbp
 genome_size_method: GoaT Fuelgen Densitometry/Flow Cytometry
 last_raw_data: 1706048586
-last_updated: 1706048586
+last_updated: 1711738629
 mat1date: 2023-11-22
 mat1filesize: 0.9 GiB
 mat1length: '3554709948'

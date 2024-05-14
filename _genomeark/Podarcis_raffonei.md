@@ -50,6 +50,16 @@ data_bionano-1_scale: 520.3221
 data_bionano_bases: N/A
 data_bionano_bytes: 1.1 GiB
 data_bionano_coverage: 305.50x
+data_pacbiohifi_bam-1_bases: 34.44 Gbp
+data_pacbiohifi_bam-1_bytes: 27.8 GiB
+data_pacbiohifi_bam-1_coverage: 17.67x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Podarcis_raffonei/rPodRaf1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podarcis_raffonei/rPodRaf1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.1526
+data_pacbiohifi_bam_bases: 34.44 Gbp
+data_pacbiohifi_bam_bytes: 27.8 GiB
+data_pacbiohifi_bam_coverage: 17.67x
 data_pacbiohifi_clr-1_bases: 773.36 Gbp
 data_pacbiohifi_clr-1_bytes: 1.4 TiB
 data_pacbiohifi_clr-1_coverage: 396.80x
@@ -80,8 +90,8 @@ genbank_pri: rPodRaf1:GCA_027172205.1
 genome_size: 1949000000
 genome_size_display: 1.95 Gbp
 genome_size_method: GoAT
-last_raw_data: 1651594802
-last_updated: 1651594802
+last_raw_data: 1715627184
+last_updated: 1715627184
 mds:
 - data: species:&nbsp;Podarcis&nbsp;raffonei<br>specimen:&nbsp;rPodRaf1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/rPodRaf1.pri.asm.20211118.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/rPodRaf1.alt.asm.20211118.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/evaluation/pretext/s2/rPodRaf1.bam<br>pretext:&nbsp;s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/evaluation/pretext/s2/rPodRaf1.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Podarcis_raffonei/rPodRaf1/assembly_vgp_standard_2.0/evaluation/merqury/p1q2_hifi/p1q2.hifi.spectra-cn.fl.png<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1-r375)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(3.6.1)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3)<br>
   ident: md4

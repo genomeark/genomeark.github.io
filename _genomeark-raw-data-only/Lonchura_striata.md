@@ -1,0 +1,1 @@
+../_genomeark/Lonchura_striata.md

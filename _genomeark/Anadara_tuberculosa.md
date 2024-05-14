@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:forestgreen">Curated</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
 data_arima-1_bases: '159458150227'
 data_arima-1_scale: '1.9391'
@@ -34,11 +34,11 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 hpa1date: 2023-07-10
-hpa1filesize: 212.3 MiB
-hpa1length: '908173398'
-hpa1n50ctg: 2893458
-hpa1n50scf: 47650244
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Anadara_tuberculosa/xbAnaTube1/assembly_curated/xbAnaTube1.hap1.decontam.20230710.fasta.gz
+hpa1filesize: 225.5 MiB
+hpa1length: '857509843'
+hpa1n50ctg: 426882
+hpa1n50scf: 41313254
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Anadara_tuberculosa/xbAnaTube1/assembly_vgp_HiC_2.0/xbAnaTube1.HiC.hap1.20230710.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -56,18 +56,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 10 </td><td> 7.64 Mbp </td><td> 2 </td><td> 54.75 Mbp </td></tr><tr><td> 20 </td><td> 24 </td><td> 5.57 Mbp </td><td> 4 </td><td> 52.79 Mbp </td></tr><tr><td> 30 </td><td> 42 </td><td> 4.71 Mbp </td><td> 6 </td><td> 48.43 Mbp </td></tr><tr><td> 40 </td><td> 64 </td><td> 3.56 Mbp </td><td> 7 </td><td> 48.05 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 92 </td><td style="background-color:#88ff88;"> 2.89 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 47.65 Mbp </td></tr><tr><td> 60 </td><td> 127 </td><td> 2.33 Mbp </td><td> 11 </td><td> 46.13 Mbp </td></tr><tr><td> 70 </td><td> 171 </td><td> 1.82 Mbp </td><td> 13 </td><td> 45.94 Mbp </td></tr><tr><td> 80 </td><td> 230 </td><td> 1.32 Mbp </td><td> 15 </td><td> 38.95 Mbp </td></tr><tr><td> 90 </td><td> 313 </td><td> 0.87 Mbp </td><td> 18 </td><td> 33.04 Mbp </td></tr><tr><td> 100 </td><td> 833 </td><td> 8.50 Kbp </td><td> 377 </td><td> 8.50 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 61 </td><td> 1.08 Mbp </td><td> 1 </td><td> 96.37 Mbp </td></tr><tr><td> 20 </td><td> 153 </td><td> 0.81 Mbp </td><td> 3 </td><td> 51.10 Mbp </td></tr><tr><td> 30 </td><td> 272 </td><td> 0.65 Mbp </td><td> 5 </td><td> 44.95 Mbp </td></tr><tr><td> 40 </td><td> 420 </td><td> 0.52 Mbp </td><td> 6 </td><td> 44.48 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 603 </td><td style="background-color:#ff8888;"> 426.88 Kbp </td><td> 8 </td><td style="background-color:#88ff88;"> 41.31 Mbp </td></tr><tr><td> 60 </td><td> 829 </td><td> 336.37 Kbp </td><td> 11 </td><td> 36.92 Mbp </td></tr><tr><td> 70 </td><td> 1115 </td><td> 266.88 Kbp </td><td> 13 </td><td> 33.46 Mbp </td></tr><tr><td> 80 </td><td> 1487 </td><td> 197.06 Kbp </td><td> 16 </td><td> 29.22 Mbp </td></tr><tr><td> 90 </td><td> 2053 </td><td> 114.31 Kbp </td><td> 21 </td><td> 5.06 Mbp </td></tr><tr><td> 100 </td><td> 3654 </td><td> 6.00 Kbp </td><td> 1059 </td><td> 6.00 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 833 </th><th> 0.91 Gbp </th><th> 377 </th><th> 0.91 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 3654 </th><th> 0.86 Gbp </th><th> 1059 </th><th> 0.86 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_curated
+hpa1version: assembly_vgp_HiC_2.0
 hpb1date: 2023-07-10
-hpb1filesize: 210.1 MiB
+hpb1filesize: 233.4 MiB
 hpb1length: '885034737'
 hpb1n50ctg: 3597786
 hpb1n50scf: 44783174
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Anadara_tuberculosa/xbAnaTube1/assembly_curated/xbAnaTube1.hap2.decontam.20230710.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Anadara_tuberculosa/xbAnaTube1/assembly_vgp_HiC_2.0/xbAnaTube1.HiC.hap2.20230710.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -90,12 +90,12 @@ hpb1sizes: |
   <tr><th> 1.000x </th><th> 567 </th><th> 0.88 Gbp </th><th> 178 </th><th> 0.89 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_curated
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1688962764
 last_updated: 1688972422
 mds:
 - data: species:&nbsp;Anadara&nbsp;tuberculosa<br>specimen:&nbsp;xbAnaTube1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Anadara_tuberculosa/xbAnaTube1/assembly_vgp_HiC_2.0/xbAnaTube1.HiC.hap1.20230710.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Anadara_tuberculosa/xbAnaTube1/assembly_vgp_HiC_2.0/xbAnaTube1.HiC.hap2.20230710.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Anadara_tuberculosa/xbAnaTube1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/xbAnaTube1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Anadara_tuberculosa/xbAnaTube1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/xbAnaTube1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Anadara_tuberculosa/xbAnaTube1/assembly_vgp_HiC_2.0/evaluation/merqury/xbAnaTube1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;xbAnaTube1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.
-  ident: md4
+  ident: md2
   title: assembly_vgp_HiC_2.0/xbAnaTube1.yml
 name: Anadara tuberculosa
 name_: Anadara_tuberculosa

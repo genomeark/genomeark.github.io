@@ -99,7 +99,7 @@ hpb1sizes: |
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1700704617
 last_updated: 1701728251
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPlaHel<br>&nbsp;&nbsp;name:&nbsp;Platyrrhinus&nbsp;helleri<br>&nbsp;&nbsp;taxon_id:&nbsp;27658<br>&nbsp;&nbsp;common_name:&nbsp;Heller's&nbsp;broad-nosed&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phyllostomidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mPlaHel1<br>&nbsp;&nbsp;genome_size:&nbsp;2572140000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPlaHel<br>&nbsp;&nbsp;name:&nbsp;Platyrrhinus&nbsp;helleri<br>&nbsp;&nbsp;taxon_id:&nbsp;27658<br>&nbsp;&nbsp;common_name:&nbsp;Heller's&nbsp;broad-nosed&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phyllostomidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPlaHel1<br>&nbsp;&nbsp;genome_size:&nbsp;2572140000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 mito1date: 2023-12-04
 mito1filesize: 5.3 KiB
 mito1length: '16704'

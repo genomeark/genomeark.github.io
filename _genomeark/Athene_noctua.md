@@ -1,6 +1,16 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
+data_arima-1_bases: 168.57 Gbp
+data_arima-1_bytes: 47.1 GiB
+data_arima-1_coverage: 103.21x
+data_arima-1_links: s3://genomeark/species/Athene_noctua/bAthNoc1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Athene_noctua/bAthNoc1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Athene_noctua/bAthNoc1/genomic_data/arima/
+data_arima-1_scale: 3.3343
+data_arima_bases: 168.57 Gbp
+data_arima_bytes: 47.1 GiB
+data_arima_coverage: 103.21x
 data_pacbiohifi_bam-1_bases: 67.50 Gbp
 data_pacbiohifi_bam-1_bytes: 21.0 GiB
 data_pacbiohifi_bam-1_coverage: 41.33x
@@ -11,7 +21,7 @@ data_pacbiohifi_bam-1_scale: 2.9935
 data_pacbiohifi_bam_bases: 67.50 Gbp
 data_pacbiohifi_bam_bytes: 21.0 GiB
 data_pacbiohifi_bam_coverage: 41.33x
-data_status: <em style="color:forestgreen">PacBio HiFi</em>
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -19,9 +29,96 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1633260000
 genome_size_display: 1.63 Gbp
 genome_size_method: GoaT
-last_raw_data: 1710582140
-last_updated: 1710582140
+hpa1date: 2024-04-16
+hpa1filesize: 338.9 MiB
+hpa1length: '1355561217'
+hpa1n50ctg: 3063434
+hpa1n50scf: 50481864
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Athene_noctua/bAthNoc1/assembly_cambridge/bAthNoc1.hap1.asm.20240416.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 14 </td><td> 8.94 Mbp </td><td> 1 </td><td> 264.71 Mbp </td></tr><tr><td> 20 </td><td> 35 </td><td> 7.01 Mbp </td><td> 2 </td><td> 169.49 Mbp </td></tr><tr><td> 30 </td><td> 62 </td><td> 5.62 Mbp </td><td> 3 </td><td> 91.26 Mbp </td></tr><tr><td> 40 </td><td> 94 </td><td> 4.40 Mbp </td><td> 5 </td><td> 86.33 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 139 </td><td style="background-color:#88ff88;"> 3.06 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 50.48 Mbp </td></tr><tr><td> 60 </td><td> 200 </td><td> 2.18 Mbp </td><td> 13 </td><td> 24.51 Mbp </td></tr><tr><td> 70 </td><td> 300 </td><td> 1.16 Mbp </td><td> 22 </td><td> 12.16 Mbp </td></tr><tr><td> 80 </td><td> 616 </td><td> 188.44 Kbp </td><td> 186 </td><td> 263.19 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.830x </th><th> 1283 </th><th> 1.36 Gbp </th><th> 795 </th><th> 1.36 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_cambridge
+hpb1date: 2024-04-16
+hpb1filesize: 334.5 MiB
+hpb1length: '1304686743'
+hpb1n50ctg: 3021838
+hpb1n50scf: 45436736
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Athene_noctua/bAthNoc1/assembly_cambridge/bAthNoc1.hap2.asm.20240416.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 16 </td><td> 8.15 Mbp </td><td> 1 </td><td> 264.96 Mbp </td></tr><tr><td> 20 </td><td> 39 </td><td> 6.49 Mbp </td><td> 2 </td><td> 168.53 Mbp </td></tr><tr><td> 30 </td><td> 66 </td><td> 5.49 Mbp </td><td> 3 </td><td> 88.38 Mbp </td></tr><tr><td> 40 </td><td> 101 </td><td> 3.91 Mbp </td><td> 5 </td><td> 82.53 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 148 </td><td style="background-color:#88ff88;"> 3.02 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 45.44 Mbp </td></tr><tr><td> 60 </td><td> 212 </td><td> 2.12 Mbp </td><td> 13 </td><td> 24.48 Mbp </td></tr><tr><td> 70 </td><td> 315 </td><td> 1.13 Mbp </td><td> 22 </td><td> 10.77 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.799x </th><th> 1281 </th><th> 1.30 Gbp </th><th> 790 </th><th> 1.30 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_cambridge
+last_raw_data: 1713193885
+last_updated: 1713294396
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bAthNoc<br>&nbsp;&nbsp;name:&nbsp;Athene&nbsp;noctua<br>&nbsp;&nbsp;taxon_id:&nbsp;126797<br>&nbsp;&nbsp;common_name:&nbsp;<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Strigiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Strigidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAthNoc1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114594456<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1633260000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+mito1date: 2024-04-16
+mito1filesize: 5.2 KiB
+mito1length: '18169'
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Athene_noctua/bAthNoc1/assembly_MT_cambridge/bAthNoc1.MT.20240416.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 18.17 Kbp </th><th> 1 </th><th> 18.17 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_cambridge
 name: Athene noctua
 name_: Athene_noctua
 project:

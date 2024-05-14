@@ -82,8 +82,15 @@ data_pacbiohifi_bam-12_links: s3://genomeark/species/Danio_rerio/fDanRer12/genom
 data_pacbiohifi_bam-12_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-12_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDanRer12/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-12_scale: 0.2588
-data_pacbiohifi_bam_bases: 279.04 Gbp
-data_pacbiohifi_bam_bytes: 1.0 TiB
+data_pacbiohifi_bam:fDreSAT1_bases: 86.57 Gbp
+data_pacbiohifi_bam:fDreSAT1_bytes: 326.0 GiB
+data_pacbiohifi_bam:fDreSAT1_coverage: N/A
+data_pacbiohifi_bam:fDreSAT1_links: s3://genomeark/species/Danio_rerio/fDreSAT1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam:fDreSAT1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Danio_rerio/fDreSAT1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam:fDreSAT1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDreSAT1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam:fDreSAT1_scale: 0.2473
+data_pacbiohifi_bam_bases: 365.61 Gbp
+data_pacbiohifi_bam_bytes: 1.3 TiB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_clr-12_bases: 4468.83 Gbp
 data_pacbiohifi_clr-12_bytes: 7.5 TiB
@@ -117,8 +124,8 @@ genbank_pri: fDanRer4:GCA_944039275.1
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1705746170
-last_updated: 1705746170
+last_raw_data: 1715082275
+last_updated: 1715082275
 mat1date: 2020-05-22
 mat1filesize: 387.1 MiB
 mat1length: '1360489499'

@@ -1,0 +1,1 @@
+../_genomeark/Callospermophilus_lateralis.md

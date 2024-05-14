@@ -30,16 +30,16 @@ alt1sizes: |
 alt1version: assembly_cambridge
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: fivebeard rockling
-data_arima-1_bases: 150.06 Gbp
-data_arima-1_bytes: 47.7 GiB
-data_arima-1_coverage: 232.48x
+data_arima-1_bases: 254.84 Gbp
+data_arima-1_bytes: 79.2 GiB
+data_arima-1_coverage: 394.80x
 data_arima-1_links: s3://genomeark/species/Ciliata_mustela/fCilMus1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ciliata_mustela/fCilMus1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ciliata_mustela/fCilMus1/genomic_data/arima/
-data_arima-1_scale: 2.9307
-data_arima_bases: 150.06 Gbp
-data_arima_bytes: 47.7 GiB
-data_arima_coverage: 232.48x
+data_arima-1_scale: 2.9957
+data_arima_bases: 254.84 Gbp
+data_arima_bytes: 79.2 GiB
+data_arima_coverage: 394.80x
 data_pacbiohifi_bam-1_bases: 20.62 Gbp
 data_pacbiohifi_bam-1_bytes: 69.9 GiB
 data_pacbiohifi_bam-1_coverage: 31.95x
@@ -58,8 +58,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 645480000
 genome_size_display: 0.65 Gbp
 genome_size_method: GoaT
-last_raw_data: 1675896236
-last_updated: 1701285328
+last_raw_data: 1714138455
+last_updated: 1714138455
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fCilMus<br>&nbsp;&nbsp;name:&nbsp;Ciliata&nbsp;mustela<br>&nbsp;&nbsp;taxon_id:&nbsp;348443<br>&nbsp;&nbsp;common_name:&nbsp;fivebeard&nbsp;rockling<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gadiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lotidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCilMus1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12231779<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;645480000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-11-28
 mito1filesize: 5.5 KiB

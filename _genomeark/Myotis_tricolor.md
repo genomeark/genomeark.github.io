@@ -98,8 +98,8 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1706706836
-last_updated: 1707851035
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoTri<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;tricolor<br>&nbsp;&nbsp;taxon_id:&nbsp;233765<br>&nbsp;&nbsp;common_name:&nbsp;Temminck's&nbsp;myotis<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mMyoTri1<br>&nbsp;&nbsp;genome_size:&nbsp;2210280000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
+last_updated: 1707850889
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoTri<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;tricolor<br>&nbsp;&nbsp;taxon_id:&nbsp;233765<br>&nbsp;&nbsp;common_name:&nbsp;Temminck's&nbsp;myotis<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoTri1<br>&nbsp;&nbsp;genome_size:&nbsp;2210280000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 mito1date: 2024-02-12
 mito1filesize: 5.4 KiB
 mito1length: '17232'

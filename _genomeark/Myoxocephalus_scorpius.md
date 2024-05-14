@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:forestgreen">Curated</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
 data_arima-1_bases: 160.18 Gbp
 data_arima-1_bytes: 86.2 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-08-15
-hpa1filesize: 181.4 MiB
-hpa1length: '715405851'
+hpa1date: 2023-07-18
+hpa1filesize: 198.9 MiB
+hpa1length: '715488452'
 hpa1n50ctg: 3080030
 hpa1n50scf: 36375788
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_curated/fMyoSco1.hap1.decontam.20230815.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_vgp_HiC_2.0/fMyoSco1.HiC.hap1.20230718.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 7 </td><td> 9.15 Mbp </td><td> 2 </td><td> 56.58 Mbp </td></tr><tr><td> 20 </td><td> 16 </td><td> 6.57 Mbp </td><td> 3 </td><td> 53.07 Mbp </td></tr><tr><td> 30 </td><td> 28 </td><td> 5.66 Mbp </td><td> 4 </td><td> 52.05 Mbp </td></tr><tr><td> 40 </td><td> 43 </td><td> 4.14 Mbp </td><td> 6 </td><td> 38.12 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 63 </td><td style="background-color:#88ff88;"> 3.08 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 36.38 Mbp </td></tr><tr><td> 60 </td><td> 89 </td><td> 2.49 Mbp </td><td> 10 </td><td> 35.28 Mbp </td></tr><tr><td> 70 </td><td> 123 </td><td> 1.80 Mbp </td><td> 12 </td><td> 32.09 Mbp </td></tr><tr><td> 80 </td><td> 173 </td><td> 1.12 Mbp </td><td> 14 </td><td> 30.75 Mbp </td></tr><tr><td> 90 </td><td> 259 </td><td> 0.61 Mbp </td><td> 17 </td><td> 26.51 Mbp </td></tr><tr><td> 100 </td><td> 584 </td><td> 17.14 Kbp </td><td> 97 </td><td> 17.14 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 7 </td><td> 9.15 Mbp </td><td> 2 </td><td> 56.58 Mbp </td></tr><tr><td> 20 </td><td> 16 </td><td> 6.57 Mbp </td><td> 3 </td><td> 53.07 Mbp </td></tr><tr><td> 30 </td><td> 28 </td><td> 5.66 Mbp </td><td> 4 </td><td> 52.05 Mbp </td></tr><tr><td> 40 </td><td> 43 </td><td> 4.14 Mbp </td><td> 6 </td><td> 38.12 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 63 </td><td style="background-color:#88ff88;"> 3.08 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 36.38 Mbp </td></tr><tr><td> 60 </td><td> 89 </td><td> 2.49 Mbp </td><td> 10 </td><td> 35.28 Mbp </td></tr><tr><td> 70 </td><td> 123 </td><td> 1.80 Mbp </td><td> 12 </td><td> 32.09 Mbp </td></tr><tr><td> 80 </td><td> 173 </td><td> 1.12 Mbp </td><td> 14 </td><td> 30.75 Mbp </td></tr><tr><td> 90 </td><td> 259 </td><td> 0.61 Mbp </td><td> 17 </td><td> 26.51 Mbp </td></tr><tr><td> 100 </td><td> 585 </td><td> 17.14 Kbp </td><td> 98 </td><td> 17.14 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 584 </th><th> 0.72 Gbp </th><th> 97 </th><th> 0.72 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 585 </th><th> 0.72 Gbp </th><th> 98 </th><th> 0.72 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_curated
-hpb1date: 2023-08-15
-hpb1filesize: 182.2 MiB
-hpb1length: '721243703'
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2023-07-18
+hpb1filesize: 199.8 MiB
+hpb1length: '721326304'
 hpb1n50ctg: 3025679
 hpb1n50scf: 36611539
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_curated/fMyoSco1.hap2.decontam.20230815.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_vgp_HiC_2.0/fMyoSco1.HiC.hap2.20230718.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,17 +81,17 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 8 </td><td> 7.44 Mbp </td><td> 2 </td><td> 55.75 Mbp </td></tr><tr><td> 20 </td><td> 20 </td><td> 5.62 Mbp </td><td> 3 </td><td> 53.98 Mbp </td></tr><tr><td> 30 </td><td> 34 </td><td> 4.57 Mbp </td><td> 4 </td><td> 53.07 Mbp </td></tr><tr><td> 40 </td><td> 51 </td><td> 4.05 Mbp </td><td> 6 </td><td> 37.57 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 71 </td><td style="background-color:#88ff88;"> 3.03 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 36.61 Mbp </td></tr><tr><td> 60 </td><td> 99 </td><td> 2.26 Mbp </td><td> 10 </td><td> 33.25 Mbp </td></tr><tr><td> 70 </td><td> 136 </td><td> 1.71 Mbp </td><td> 12 </td><td> 32.48 Mbp </td></tr><tr><td> 80 </td><td> 188 </td><td> 1.13 Mbp </td><td> 14 </td><td> 30.64 Mbp </td></tr><tr><td> 90 </td><td> 274 </td><td> 0.60 Mbp </td><td> 17 </td><td> 22.51 Mbp </td></tr><tr><td> 100 </td><td> 590 </td><td> 10.35 Kbp </td><td> 106 </td><td> 10.35 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 8 </td><td> 7.44 Mbp </td><td> 2 </td><td> 55.75 Mbp </td></tr><tr><td> 20 </td><td> 20 </td><td> 5.62 Mbp </td><td> 3 </td><td> 53.98 Mbp </td></tr><tr><td> 30 </td><td> 34 </td><td> 4.57 Mbp </td><td> 4 </td><td> 53.07 Mbp </td></tr><tr><td> 40 </td><td> 51 </td><td> 4.05 Mbp </td><td> 6 </td><td> 37.57 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 71 </td><td style="background-color:#88ff88;"> 3.03 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 36.61 Mbp </td></tr><tr><td> 60 </td><td> 99 </td><td> 2.26 Mbp </td><td> 10 </td><td> 33.25 Mbp </td></tr><tr><td> 70 </td><td> 136 </td><td> 1.71 Mbp </td><td> 12 </td><td> 32.48 Mbp </td></tr><tr><td> 80 </td><td> 188 </td><td> 1.13 Mbp </td><td> 14 </td><td> 30.64 Mbp </td></tr><tr><td> 90 </td><td> 275 </td><td> 0.60 Mbp </td><td> 17 </td><td> 22.51 Mbp </td></tr><tr><td> 100 </td><td> 591 </td><td> 10.35 Kbp </td><td> 107 </td><td> 10.35 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 590 </th><th> 0.72 Gbp </th><th> 106 </th><th> 0.72 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 591 </th><th> 0.72 Gbp </th><th> 107 </th><th> 0.72 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_curated
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1688055757
-last_updated: 1692140802
+last_updated: 1689713643
 mds:
 - data: species:&nbsp;Myoxocephalus&nbsp;scorpius<br>specimen:&nbsp;fMyoSco1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_vgp_HiC_2.0/fMyoSco1.HiC.hap1.20230718.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_vgp_HiC_2.0/fMyoSco1.HiC.hap2.20230718.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fMyoSco1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fMyoSco1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_vgp_HiC_2.0/evaluation/merqury/fMyoSco1_png/<br>mito:&nbsp;s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_MT_rockefeller/fMyoSco1.MT.20230718.fasta.gz<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(2.2)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fMyoSco1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;The&nbsp;initial&nbsp;contig&nbsp;assemblies&nbsp;went&nbsp;through&nbsp;purging&nbsp;before&nbsp;scaffolding.&nbsp;
-  ident: md5
+  ident: md3
   title: assembly_vgp_HiC_2.0/fMyoSco1.yml
 mito1date: 2023-07-18
 mito1filesize: 5.4 KiB

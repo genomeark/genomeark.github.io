@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: great evening bat
 data_arima-2_bases: 157.03 Gbp
 data_arima-2_bytes: 64.2 GiB
@@ -39,9 +39,67 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2288520000
 genome_size_display: 2.29 Gbp
 genome_size_method: GoaT
+hpa2date: 2024-02-26
+hpa2filesize: 586.3 MiB
+hpa2length: '2133098426'
+hpa2n50ctg: 20112990
+hpa2n50scf: 95893695
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Ia_io/mIaxIox2/assembly_vgp_HiC_2.0/mIaxIox2.HiC.hap1.20240226.fasta.gz
+hpa2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 68.69 Mbp </td><td> 2 </td><td> 121.39 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 59.18 Mbp </td><td> 4 </td><td> 116.34 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 50.52 Mbp </td><td> 6 </td><td> 112.29 Mbp </td></tr><tr><td> 40 </td><td> 17 </td><td> 35.07 Mbp </td><td> 8 </td><td> 105.35 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 26 </td><td style="background-color:#88ff88;"> 20.11 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 95.89 Mbp </td></tr><tr><td> 60 </td><td> 38 </td><td> 16.61 Mbp </td><td> 13 </td><td> 88.08 Mbp </td></tr><tr><td> 70 </td><td> 60 </td><td> 6.98 Mbp </td><td> 16 </td><td> 67.09 Mbp </td></tr><tr><td> 80 </td><td> 109 </td><td> 3.37 Mbp </td><td> 20 </td><td> 53.57 Mbp </td></tr><tr><td> 90 </td><td> 275 </td><td> 0.56 Mbp </td><td> 58 </td><td> 1.60 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.932x </th><th> 811 </th><th> 2.13 Gbp </th><th> 456 </th><th> 2.13 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa2version: assembly_vgp_HiC_2.0
+hpb2date: 2024-02-26
+hpb2filesize: 633.9 MiB
+hpb2length: '2304802819'
+hpb2n50ctg: 30011966
+hpb2n50scf: 95487416
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Ia_io/mIaxIox2/assembly_vgp_HiC_2.0/mIaxIox2.HiC.hap2.20240226.fasta.gz
+hpb2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 63.86 Mbp </td><td> 2 </td><td> 124.86 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 49.24 Mbp </td><td> 4 </td><td> 120.24 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 43.57 Mbp </td><td> 6 </td><td> 113.44 Mbp </td></tr><tr><td> 40 </td><td> 18 </td><td> 36.62 Mbp </td><td> 8 </td><td> 105.33 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 25 </td><td style="background-color:#88ff88;"> 30.01 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 95.49 Mbp </td></tr><tr><td> 60 </td><td> 34 </td><td> 20.11 Mbp </td><td> 13 </td><td> 90.30 Mbp </td></tr><tr><td> 70 </td><td> 48 </td><td> 12.03 Mbp </td><td> 16 </td><td> 72.22 Mbp </td></tr><tr><td> 80 </td><td> 74 </td><td> 6.03 Mbp </td><td> 20 </td><td> 58.78 Mbp </td></tr><tr><td> 90 </td><td> 127 </td><td> 2.92 Mbp </td><td> 24 </td><td> 31.41 Mbp </td></tr><tr><td> 100 </td><td> 401 </td><td> 171.03 Kbp </td><td> 99 </td><td> 426.19 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.007x </th><th> 597 </th><th> 2.30 Gbp </th><th> 231 </th><th> 2.30 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb2version: assembly_vgp_HiC_2.0
 last_raw_data: 1708285351
-last_updated: 1708971314
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mIaxIox<br>&nbsp;&nbsp;name:&nbsp;Ia&nbsp;io<br>&nbsp;&nbsp;taxon_id:&nbsp;360967<br>&nbsp;&nbsp;common_name:&nbsp;great&nbsp;evening&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mIaxIox1<br>&nbsp;&nbsp;genome_size:&nbsp;2288520000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
+last_updated: 1714091920
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mIaxIox<br>&nbsp;&nbsp;name:&nbsp;Ia&nbsp;io<br>&nbsp;&nbsp;taxon_id:&nbsp;360967<br>&nbsp;&nbsp;common_name:&nbsp;great&nbsp;evening&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mIaxIox1<br>&nbsp;&nbsp;genome_size:&nbsp;2288520000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 mito2date: 2024-02-26
 mito2filesize: 5.4 KiB
 mito2length: '16607'

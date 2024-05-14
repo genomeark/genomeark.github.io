@@ -11,6 +11,16 @@ data_arima-1_scale: 1.8006
 data_arima_bases: 397.11 Gbp
 data_arima_bytes: 205.4 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_clr-1_bases: 3131.40 Gbp
+data_pacbiohifi_clr-1_bytes: 5.3 TiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5327
+data_pacbiohifi_clr_bases: 3131.40 Gbp
+data_pacbiohifi_clr_bytes: 5.3 TiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 136.10 Gbp
 data_pacbiohifi_fqgz-1_bytes: 98.6 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -87,8 +97,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1691702908
-last_updated: 1710169040
+last_raw_data: 1711630165
+last_updated: 1711630165
 mds:
 - data: species:&nbsp;Rhinophrynus&nbsp;dorsalis<br>specimen:&nbsp;aRhiDor1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap1.20231016.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/aRhiDor1.HiC.hap2.20231016.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aRhiDor1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aRhiDor1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_vgp_HiC_2.0/evaluation/merqury/aRhiDor1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Rhinophrynus_dorsalis/aRhiDor1/assembly_MT_rockefeller/aRhiDor1.MT.20231016.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;aRhiDor1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;<br><br>
   ident: md9

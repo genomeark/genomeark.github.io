@@ -41,7 +41,7 @@ genome_size_display: 2.28 Gbp
 genome_size_method: GoaT
 last_raw_data: 1706712278
 last_updated: 1706712278
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mRhiDar<br>&nbsp;&nbsp;name:&nbsp;Rhinolophus&nbsp;darlingii<br>&nbsp;&nbsp;taxon_id:&nbsp;49443<br>&nbsp;&nbsp;common_name:&nbsp;Darling's&nbsp;horseshoe&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhinolophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mRhiDar1<br>&nbsp;&nbsp;genome_size:&nbsp;2278740000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mRhiDar<br>&nbsp;&nbsp;name:&nbsp;Rhinolophus&nbsp;darlingii<br>&nbsp;&nbsp;taxon_id:&nbsp;49443<br>&nbsp;&nbsp;common_name:&nbsp;Darling's&nbsp;horseshoe&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhinolophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mRhiDar1<br>&nbsp;&nbsp;genome_size:&nbsp;2278740000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 name: Rhinolophus darlingii
 name_: Rhinolophus_darlingii
 project:

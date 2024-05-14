@@ -28,6 +28,16 @@ data_illumina-3_scale: 2.0193
 data_illumina_bases: 343.63 Gbp
 data_illumina_bytes: 159.2 GiB
 data_illumina_coverage: N/A
+data_pacbiohifi_clr-1_bases: 2481.02 Gbp
+data_pacbiohifi_clr-1_bytes: 4.2 TiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Xenopus_petersii/aXenPet1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Xenopus_petersii/aXenPet1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Xenopus_petersii/aXenPet1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5363
+data_pacbiohifi_clr_bases: 2481.02 Gbp
+data_pacbiohifi_clr_bytes: 4.2 TiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 104.71 Gbp
 data_pacbiohifi_fqgz-1_bytes: 79.3 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -47,8 +57,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1682106454
-last_updated: 1711136617
+last_raw_data: 1711647194
+last_updated: 1711647194
 mat1date: 2024-03-11
 mat1filesize: 0.1 KiB
 mat1length: '0'

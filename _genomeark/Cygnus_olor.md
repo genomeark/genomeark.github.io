@@ -158,7 +158,7 @@ hpb2sizes: |
 hpb2version: assembly_cambridge
 last_raw_data: 1709680100
 last_updated: 1709892684
-metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;mute&nbsp;swan<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;genome_size:&nbsp;1480000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCygOlo1<br>&nbsp;&nbsp;name:&nbsp;Cygnus&nbsp;olor<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;short_name:&nbsp;bCygOlo<br>&nbsp;&nbsp;taxon_id:&nbsp;8869<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bCygOlo<br>&nbsp;&nbsp;name:&nbsp;Cygnus&nbsp;olor<br>&nbsp;&nbsp;taxon_id:&nbsp;8869<br>&nbsp;&nbsp;common_name:&nbsp;mute&nbsp;swan<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCygOlo1<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCygOlo2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113398849<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1480000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-09-28
 mito1filesize: 5.4 KiB
 mito1length: '16733'

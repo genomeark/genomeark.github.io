@@ -136,7 +136,7 @@ genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT ancestral inferred
 last_raw_data: 1698452288
-last_updated: 1701106517
+last_updated: 1711738814
 mat1date: 2023-11-22
 mat1filesize: 886.4 MiB
 mat1length: '3210032406'

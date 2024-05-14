@@ -99,7 +99,7 @@ hpb2sizes: |
 hpb2version: assembly_vgp_HiC_2.0
 last_raw_data: 1706726281
 last_updated: 1708373926
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mNycThe<br>&nbsp;&nbsp;name:&nbsp;Nycteris&nbsp;thebaica<br>&nbsp;&nbsp;taxon_id:&nbsp;59467<br>&nbsp;&nbsp;common_name:&nbsp;Egyptian&nbsp;slit-faced&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Nycteridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mNycThe2<br>&nbsp;&nbsp;genome_size:&nbsp;2757960000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mNycThe<br>&nbsp;&nbsp;name:&nbsp;Nycteris&nbsp;thebaica<br>&nbsp;&nbsp;taxon_id:&nbsp;59467<br>&nbsp;&nbsp;common_name:&nbsp;Egyptian&nbsp;slit-faced&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Nycteridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mNycThe2<br>&nbsp;&nbsp;genome_size:&nbsp;2757960000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 name: Nycteris thebaica
 name_: Nycteris_thebaica
 project:

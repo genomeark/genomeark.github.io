@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:forestgreen">Curated</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: common big-eared bat
 data_arima-1_bases: 130.72 Gbp
 data_arima-1_bytes: 69.8 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2229840000
 genome_size_display: 2.23 Gbp
 genome_size_method: GoaT
-hpa1date: 2023-11-07
-hpa1filesize: 586.0 MiB
-hpa1length: '2151887637'
+hpa1date: 2023-11-03
+hpa1filesize: 631.0 MiB
+hpa1length: '2155294173'
 hpa1n50ctg: 59308170
 hpa1n50scf: 134000379
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Micronycteris_microtis/mMicMic1/assembly_curated/mMicMic1.hap1.decontam.20231107.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Micronycteris_microtis/mMicMic1/assembly_vgp_HiC_2.0/mMicMic1.HiC.hap1.20231103.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 225.10 Mbp </td><td> 1 </td><td> 241.78 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 119.89 Mbp </td><td> 2 </td><td> 238.03 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 91.07 Mbp </td><td> 3 </td><td> 220.70 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 78.14 Mbp </td><td> 4 </td><td> 190.54 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 59.31 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 134.00 Mbp </td></tr><tr><td> 60 </td><td> 15 </td><td> 45.28 Mbp </td><td> 7 </td><td> 125.64 Mbp </td></tr><tr><td> 70 </td><td> 20 </td><td> 38.19 Mbp </td><td> 9 </td><td> 97.10 Mbp </td></tr><tr><td> 80 </td><td> 27 </td><td> 26.42 Mbp </td><td> 12 </td><td> 56.98 Mbp </td></tr><tr><td> 90 </td><td> 36 </td><td> 18.38 Mbp </td><td> 16 </td><td> 45.79 Mbp </td></tr><tr><td> 100 </td><td> 247 </td><td> 12.37 Kbp </td><td> 193 </td><td> 12.37 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 225.10 Mbp </td><td> 1 </td><td> 241.78 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 119.89 Mbp </td><td> 2 </td><td> 238.03 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 91.07 Mbp </td><td> 3 </td><td> 220.70 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 78.14 Mbp </td><td> 4 </td><td> 190.54 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 59.31 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 134.00 Mbp </td></tr><tr><td> 60 </td><td> 15 </td><td> 45.28 Mbp </td><td> 7 </td><td> 125.64 Mbp </td></tr><tr><td> 70 </td><td> 20 </td><td> 38.19 Mbp </td><td> 9 </td><td> 97.10 Mbp </td></tr><tr><td> 80 </td><td> 27 </td><td> 26.42 Mbp </td><td> 12 </td><td> 56.98 Mbp </td></tr><tr><td> 90 </td><td> 36 </td><td> 18.38 Mbp </td><td> 16 </td><td> 45.79 Mbp </td></tr><tr><td> 100 </td><td> 353 </td><td> 12.37 Kbp </td><td> 299 </td><td> 12.37 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 247 </th><th> 2.15 Gbp </th><th> 193 </th><th> 2.15 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 353 </th><th> 2.16 Gbp </th><th> 299 </th><th> 2.16 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_curated
-hpb1date: 2023-11-07
-hpb1filesize: 554.9 MiB
-hpb1length: '2036006689'
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2023-11-03
+hpb1filesize: 596.8 MiB
+hpb1length: '2037240852'
 hpb1n50ctg: 58593296
 hpb1n50scf: 145957002
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Micronycteris_microtis/mMicMic1/assembly_curated/mMicMic1.hap2.decontam.20231107.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Micronycteris_microtis/mMicMic1/assembly_vgp_HiC_2.0/mMicMic1.HiC.hap2.20231103.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,15 +81,15 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 140.25 Mbp </td><td> 1 </td><td> 243.89 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 122.40 Mbp </td><td> 2 </td><td> 237.95 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 85.88 Mbp </td><td> 3 </td><td> 220.72 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 70.08 Mbp </td><td> 4 </td><td> 190.06 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 58.59 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 145.96 Mbp </td></tr><tr><td> 60 </td><td> 15 </td><td> 45.47 Mbp </td><td> 7 </td><td> 125.43 Mbp </td></tr><tr><td> 70 </td><td> 20 </td><td> 38.19 Mbp </td><td> 9 </td><td> 93.76 Mbp </td></tr><tr><td> 80 </td><td> 26 </td><td> 26.25 Mbp </td><td> 11 </td><td> 57.00 Mbp </td></tr><tr><td> 90 </td><td> 35 </td><td> 18.15 Mbp </td><td> 15 </td><td> 45.79 Mbp </td></tr><tr><td> 100 </td><td> 227 </td><td> 15.59 Kbp </td><td> 176 </td><td> 15.59 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 140.25 Mbp </td><td> 1 </td><td> 243.89 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 122.40 Mbp </td><td> 2 </td><td> 237.95 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 85.88 Mbp </td><td> 3 </td><td> 220.72 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 70.08 Mbp </td><td> 4 </td><td> 190.06 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 58.59 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 145.96 Mbp </td></tr><tr><td> 60 </td><td> 15 </td><td> 45.47 Mbp </td><td> 7 </td><td> 125.43 Mbp </td></tr><tr><td> 70 </td><td> 20 </td><td> 38.19 Mbp </td><td> 9 </td><td> 93.76 Mbp </td></tr><tr><td> 80 </td><td> 26 </td><td> 26.25 Mbp </td><td> 11 </td><td> 57.00 Mbp </td></tr><tr><td> 90 </td><td> 35 </td><td> 18.15 Mbp </td><td> 15 </td><td> 45.79 Mbp </td></tr><tr><td> 100 </td><td> 262 </td><td> 15.59 Kbp </td><td> 211 </td><td> 15.59 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 227 </th><th> 2.04 Gbp </th><th> 176 </th><th> 2.04 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 262 </th><th> 2.04 Gbp </th><th> 211 </th><th> 2.04 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_curated
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1698425406
 last_updated: 1699391233
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMicMic<br>&nbsp;&nbsp;name:&nbsp;Micronycteris&nbsp;microtis<br>&nbsp;&nbsp;taxon_id:&nbsp;249008<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;big-eared&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phyllostomidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mMicMic1<br>&nbsp;&nbsp;genome_size:&nbsp;2229840000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMicMic<br>&nbsp;&nbsp;name:&nbsp;Micronycteris&nbsp;microtis<br>&nbsp;&nbsp;taxon_id:&nbsp;249008<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;big-eared&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phyllostomidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMicMic1<br>&nbsp;&nbsp;genome_size:&nbsp;2229840000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 mito1date: 2023-11-03
 mito1filesize: 16.4 KiB
 mito1length: '0'

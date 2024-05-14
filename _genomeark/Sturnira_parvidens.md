@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:forestgreen">Curated</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: little yellow-shouldered Mesoamerican bat
 data_arima-1_bases: 149.32 Gbp
 data_arima-1_bytes: 83.9 GiB
@@ -39,12 +39,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2704170000
 genome_size_display: 2.70 Gbp
 genome_size_method: GoaT
-hpa1date: 2023-11-30
-hpa1filesize: 565.8 MiB
-hpa1length: '2201953101'
-hpa1n50ctg: 48479881
-hpa1n50scf: 156561752
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Sturnira_parvidens/mStuPar1/assembly_curated/mStuPar1.HiC.hap1.decontam.20231130.fasta.gz
+hpa1date: 2023-11-29
+hpa1filesize: 617.3 MiB
+hpa1length: '2203641383'
+hpa1n50ctg: 26391144
+hpa1n50scf: 142746147
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Sturnira_parvidens/mStuPar1/assembly_vgp_HiC_2.0/mStuPar1.HiC.hap1.20231129.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -62,18 +62,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 103.36 Mbp </td><td> 1 </td><td> 245.87 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 94.84 Mbp </td><td> 2 </td><td> 216.38 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 77.82 Mbp </td><td> 4 </td><td> 180.14 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 52.93 Mbp </td><td> 5 </td><td> 171.62 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 15 </td><td style="background-color:#88ff88;"> 48.48 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 156.56 Mbp </td></tr><tr><td> 60 </td><td> 21 </td><td> 28.24 Mbp </td><td> 8 </td><td> 142.75 Mbp </td></tr><tr><td> 70 </td><td> 30 </td><td> 22.13 Mbp </td><td> 9 </td><td> 132.44 Mbp </td></tr><tr><td> 80 </td><td> 42 </td><td> 16.06 Mbp </td><td> 11 </td><td> 109.06 Mbp </td></tr><tr><td> 90 </td><td> 61 </td><td> 6.79 Mbp </td><td> 14 </td><td> 59.52 Mbp </td></tr><tr><td> 100 </td><td> 1024 </td><td> 2.98 Kbp </td><td> 947 </td><td> 2.98 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 103.36 Mbp </td><td> 2 </td><td> 216.38 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 78.67 Mbp </td><td> 3 </td><td> 193.61 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 70.31 Mbp </td><td> 4 </td><td> 180.14 Mbp </td></tr><tr><td> 40 </td><td> 15 </td><td> 48.48 Mbp </td><td> 6 </td><td> 156.56 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 22 </td><td style="background-color:#88ff88;"> 26.39 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 142.75 Mbp </td></tr><tr><td> 60 </td><td> 34 </td><td> 18.87 Mbp </td><td> 10 </td><td> 120.22 Mbp </td></tr><tr><td> 70 </td><td> 51 </td><td> 12.48 Mbp </td><td> 12 </td><td> 96.65 Mbp </td></tr><tr><td> 80 </td><td> 271 </td><td> 160.72 Kbp </td><td> 195 </td><td> 160.72 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1024 </th><th> 2.20 Gbp </th><th> 947 </th><th> 2.20 Gbp </th></tr>
+  <tr><th> 0.815x </th><th> 1098 </th><th> 2.20 Gbp </th><th> 1021 </th><th> 2.20 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_curated
-hpb1date: 2023-11-30
-hpb1filesize: 592.8 MiB
-hpb1length: '2298039172'
-hpb1n50ctg: 50527669
-hpb1n50scf: 154503673
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Sturnira_parvidens/mStuPar1/assembly_curated/mStuPar1.HiC.hap2.decontam.20231130.fasta.gz
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2023-11-29
+hpb1filesize: 645.7 MiB
+hpb1length: '2298769870'
+hpb1n50ctg: 35637816
+hpb1n50scf: 141757064
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Sturnira_parvidens/mStuPar1/assembly_vgp_HiC_2.0/mStuPar1.HiC.hap2.20231129.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -91,15 +91,15 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 105.11 Mbp </td><td> 1 </td><td> 243.74 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 96.35 Mbp </td><td> 2 </td><td> 216.32 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 78.53 Mbp </td><td> 4 </td><td> 180.64 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 63.36 Mbp </td><td> 5 </td><td> 169.52 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 15 </td><td style="background-color:#88ff88;"> 50.53 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 154.50 Mbp </td></tr><tr><td> 60 </td><td> 20 </td><td> 34.51 Mbp </td><td> 8 </td><td> 141.76 Mbp </td></tr><tr><td> 70 </td><td> 28 </td><td> 24.48 Mbp </td><td> 10 </td><td> 121.27 Mbp </td></tr><tr><td> 80 </td><td> 40 </td><td> 15.52 Mbp </td><td> 12 </td><td> 108.75 Mbp </td></tr><tr><td> 90 </td><td> 60 </td><td> 6.73 Mbp </td><td> 14 </td><td> 60.17 Mbp </td></tr><tr><td> 100 </td><td> 795 </td><td> 2.98 Kbp </td><td> 724 </td><td> 2.98 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 105.11 Mbp </td><td> 2 </td><td> 216.32 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 84.82 Mbp </td><td> 3 </td><td> 194.73 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 77.75 Mbp </td><td> 4 </td><td> 180.64 Mbp </td></tr><tr><td> 40 </td><td> 13 </td><td> 59.93 Mbp </td><td> 6 </td><td> 154.50 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 19 </td><td style="background-color:#88ff88;"> 35.64 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 141.76 Mbp </td></tr><tr><td> 60 </td><td> 28 </td><td> 24.48 Mbp </td><td> 10 </td><td> 121.27 Mbp </td></tr><tr><td> 70 </td><td> 43 </td><td> 14.47 Mbp </td><td> 12 </td><td> 108.75 Mbp </td></tr><tr><td> 80 </td><td> 79 </td><td> 2.54 Mbp </td><td> 16 </td><td> 25.85 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 795 </th><th> 2.30 Gbp </th><th> 724 </th><th> 2.30 Gbp </th></tr>
+  <tr><th> 0.850x </th><th> 821 </th><th> 2.30 Gbp </th><th> 750 </th><th> 2.30 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_curated
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1700595226
-last_updated: 1701373159
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mStuPar<br>&nbsp;&nbsp;name:&nbsp;Sturnira&nbsp;parvidens<br>&nbsp;&nbsp;taxon_id:&nbsp;196700<br>&nbsp;&nbsp;common_name:&nbsp;little&nbsp;yellow-shouldered&nbsp;Mesoamerican&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phyllostomidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mStuPar1<br>&nbsp;&nbsp;genome_size:&nbsp;2704170000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
+last_updated: 1713990167
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mStuPar<br>&nbsp;&nbsp;name:&nbsp;Sturnira&nbsp;parvidens<br>&nbsp;&nbsp;taxon_id:&nbsp;196700<br>&nbsp;&nbsp;common_name:&nbsp;little&nbsp;yellow-shouldered&nbsp;Mesoamerican&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phyllostomidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mStuPar1<br>&nbsp;&nbsp;genome_size:&nbsp;2704170000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 name: Sturnira parvidens
 name_: Sturnira_parvidens
 project:

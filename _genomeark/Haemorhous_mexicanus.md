@@ -50,6 +50,16 @@ data_bionano-1_scale: 586.4871
 data_bionano_bases: N/A
 data_bionano_bytes: 0.9 GiB
 data_bionano_coverage: 430.47x
+data_pacbiohifi_bam-1_bases: 15.20 Gbp
+data_pacbiohifi_bam-1_bytes: 10.9 GiB
+data_pacbiohifi_bam-1_coverage: 11.10x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Haemorhous_mexicanus/bHaeMex1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Haemorhous_mexicanus/bHaeMex1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.3022
+data_pacbiohifi_bam_bases: 15.20 Gbp
+data_pacbiohifi_bam_bytes: 10.9 GiB
+data_pacbiohifi_bam_coverage: 11.10x
 data_pacbiohifi_clr-1_bases: 512.18 Gbp
 data_pacbiohifi_clr-1_bytes: 1.0 TiB
 data_pacbiohifi_clr-1_coverage: 374.13x
@@ -80,8 +90,8 @@ genbank_pri: bHaeMex1:GCA_027477595.1
 genome_size: 1369000000
 genome_size_display: 1.37 Gbp
 genome_size_method: GoAT
-last_raw_data: 1651611249
-last_updated: 1651611249
+last_raw_data: 1715626238
+last_updated: 1715626238
 mds:
 - data: species:&nbsp;Haemorhous&nbsp;mexicanus<br>specimen:&nbsp;bHaeMex1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/bHaeMex1.pri.asm.20210901.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/bHaeMex1.alt.asm.20210820.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bHaeMex1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bHaeMex1_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/evaluation/merqury/p/bHaeMex1_images/output_merqury.spectra-cn.fl.png<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(3.6.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy0)
   ident: md4

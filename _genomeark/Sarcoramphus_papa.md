@@ -11,6 +11,16 @@ data_arima-1_scale: 1.7964
 data_arima_bases: 75.69 Gbp
 data_arima_bytes: 39.2 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 693.87 Gbp
+data_pacbiohifi_bam-1_bytes: 325.6 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Sarcoramphus_papa/bSarPap1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sarcoramphus_papa/bSarPap1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sarcoramphus_papa/bSarPap1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 1.9850
+data_pacbiohifi_bam_bases: 693.87 Gbp
+data_pacbiohifi_bam_bytes: 325.6 GiB
+data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 79.69 Gbp
 data_pacbiohifi_fqgz-1_bytes: 37.4 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -87,8 +97,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1697137983
-last_updated: 1710171197
+last_raw_data: 1711399768
+last_updated: 1711399768
 mds:
 - data: species:&nbsp;Sarcoramphus&nbsp;papa<br>specimen:&nbsp;bSarPap1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Sarcoramphus_papa/bSarPap1/assembly_vgp_HiC_2.0/bSarPap1.HiC.hap1.20240106.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Sarcoramphus_papa/bSarPap1/assembly_vgp_HiC_2.0/bSarPap1.HiC.hap2.20240106.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Sarcoramphus_papa/bSarPap1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bSarPap1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Sarcoramphus_papa/bSarPap1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bSarPap1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Sarcoramphus_papa/bSarPap1/assembly_vgp_HiC_2.0/evaluation/merqury_postpurge/bSarPap1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Sarcoramphus_papa/bSarPap1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Sarcoramphus_papa/bSarPap1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Sarcoramphus_papa/bSarPap1/assembly_MT_rockefeller/bSarPap1.MT.20240105.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.6+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bSarPap1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;assemblies&nbsp;underwent&nbsp;purge_dups&nbsp;pipeline&nbsp;to&nbsp;reconcile&nbsp;extra&nbsp;2-copy&nbsp;k-mers&nbsp;in&nbsp;hap2&nbsp;and&nbsp;missing&nbsp;k-mers&nbsp;in&nbsp;hap1.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;<br>
   ident: md9

@@ -1,6 +1,13 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: ''
+data_arima-1_bases: 5.98 Gbp
+data_arima-1_bytes: 3.3 GiB
+data_arima-1_coverage: N/A
+data_arima-1_links: s3://genomeark/species/Saimiri_boliviensis/mSaiBol1/genomic_data/arima/<br>
+data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Saimiri_boliviensis/mSaiBol1/genomic_data/arima/
+data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Saimiri_boliviensis/mSaiBol1/genomic_data/arima/
+data_arima-1_scale: 1.7089
 data_arima-2_bases: 133.12 Gbp
 data_arima-2_bytes: 70.9 GiB
 data_arima-2_coverage: N/A
@@ -8,8 +15,8 @@ data_arima-2_links: s3://genomeark/species/Saimiri_boliviensis/mSaiBol2/genomic_
 data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Saimiri_boliviensis/mSaiBol2/genomic_data/arima/
 data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Saimiri_boliviensis/mSaiBol2/genomic_data/arima/
 data_arima-2_scale: 1.7497
-data_arima_bases: 133.12 Gbp
-data_arima_bytes: 70.9 GiB
+data_arima_bases: 139.10 Gbp
+data_arima_bytes: 74.1 GiB
 data_arima_coverage: N/A
 data_pacbiohifi_bam-1_bases: 1290.98 Gbp
 data_pacbiohifi_bam-1_bytes: 639.9 GiB
@@ -39,8 +46,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1710947155
-last_updated: 1710947155
+last_raw_data: 1713289105
+last_updated: 1713289105
 name: Saimiri boliviensis
 name_: Saimiri_boliviensis
 project: ~

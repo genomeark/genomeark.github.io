@@ -1,16 +1,16 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: American mink
-data_arima-2_bases: 391.26 Gbp
-data_arima-2_bytes: 107.3 GiB
-data_arima-2_coverage: 135.85x
+data_arima-2_bases: 780.46 Gbp
+data_arima-2_bytes: 214.6 GiB
+data_arima-2_coverage: 270.97x
 data_arima-2_links: s3://genomeark/species/Neovison_vison/mNeoVis2/genomic_data/arima/<br>
 data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Neovison_vison/mNeoVis2/genomic_data/arima/
 data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Neovison_vison/mNeoVis2/genomic_data/arima/
-data_arima-2_scale: 3.3962
-data_arima_bases: 391.26 Gbp
-data_arima_bytes: 107.3 GiB
-data_arima_coverage: 135.85x
+data_arima-2_scale: 3.3863
+data_arima_bases: 780.46 Gbp
+data_arima_bytes: 214.6 GiB
+data_arima_coverage: 270.97x
 data_pacbiohifi_bam-2_bases: 134.33 Gbp
 data_pacbiohifi_bam-2_bytes: 55.0 GiB
 data_pacbiohifi_bam-2_coverage: 46.64x
@@ -87,8 +87,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_cambridge
-last_raw_data: 1710789337
-last_updated: 1710956105
+last_raw_data: 1714046094
+last_updated: 1714046094
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mNeoVis<br>&nbsp;&nbsp;name:&nbsp;Neovison&nbsp;vison<br>&nbsp;&nbsp;taxon_id:&nbsp;452646<br>&nbsp;&nbsp;common_name:&nbsp;American&nbsp;mink<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carnivora<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Mustelidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mNeoVis2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468126<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;2880210000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2024-03-20
 mito2filesize: 4.9 KiB

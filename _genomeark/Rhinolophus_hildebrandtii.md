@@ -41,7 +41,7 @@ genome_size_display: 2.10 Gbp
 genome_size_method: GoaT
 last_raw_data: 1708646253
 last_updated: 1708646253
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mRhiHil<br>&nbsp;&nbsp;name:&nbsp;Rhinolophus&nbsp;hildebrandtii<br>&nbsp;&nbsp;taxon_id:&nbsp;302411<br>&nbsp;&nbsp;common_name:&nbsp;Hildebrandt's&nbsp;horseshoe&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhinolophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;mRhiHil1<br>&nbsp;&nbsp;genome_size:&nbsp;2102700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mRhiHil<br>&nbsp;&nbsp;name:&nbsp;Rhinolophus&nbsp;hildebrandtii<br>&nbsp;&nbsp;taxon_id:&nbsp;302411<br>&nbsp;&nbsp;common_name:&nbsp;Hildebrandt's&nbsp;horseshoe&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhinolophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mRhiHil1<br>&nbsp;&nbsp;genome_size:&nbsp;2102700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 name: Rhinolophus hildebrandtii
 name_: Rhinolophus_hildebrandtii
 project:

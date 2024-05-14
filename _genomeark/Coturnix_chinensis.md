@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 120.36 Gbp
 data_arima-1_bytes: 58.8 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-10-03
-hpa1filesize: 282.7 MiB
-hpa1length: '976524492'
+hpa1date: 2024-04-23
+hpa1filesize: 282.2 MiB
+hpa1length: '974500481'
 hpa1n50ctg: 6812677
-hpa1n50scf: 85711378
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/bCotChi1.HiC.hap1.20231003.fasta.gz
+hpa1n50scf: 86245886
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Coturnix_chinensis/bCotChi1/assembly_curated/bCotChi1.hap1.cur.20240423.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 24.53 Mbp </td><td> 1 </td><td> 183.56 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 15.98 Mbp </td><td> 2 </td><td> 140.50 Mbp </td></tr><tr><td> 30 </td><td> 15 </td><td> 11.40 Mbp </td><td> 2 </td><td> 140.50 Mbp </td></tr><tr><td> 40 </td><td> 25 </td><td> 8.69 Mbp </td><td> 3 </td><td> 104.65 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 37 </td><td style="background-color:#88ff88;"> 6.81 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 85.71 Mbp </td></tr><tr><td> 60 </td><td> 53 </td><td> 5.44 Mbp </td><td> 6 </td><td> 56.51 Mbp </td></tr><tr><td> 70 </td><td> 75 </td><td> 3.72 Mbp </td><td> 8 </td><td> 34.89 Mbp </td></tr><tr><td> 80 </td><td> 109 </td><td> 2.14 Mbp </td><td> 11 </td><td> 22.16 Mbp </td></tr><tr><td> 90 </td><td> 171 </td><td> 1.12 Mbp </td><td> 17 </td><td> 13.10 Mbp </td></tr><tr><td> 100 </td><td> 803 </td><td> 12.32 Kbp </td><td> 502 </td><td> 12.32 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 24.53 Mbp </td><td> 1 </td><td> 184.96 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 15.98 Mbp </td><td> 2 </td><td> 140.60 Mbp </td></tr><tr><td> 30 </td><td> 15 </td><td> 11.40 Mbp </td><td> 2 </td><td> 140.60 Mbp </td></tr><tr><td> 40 </td><td> 24 </td><td> 8.86 Mbp </td><td> 3 </td><td> 104.65 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 37 </td><td style="background-color:#88ff88;"> 6.81 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 86.25 Mbp </td></tr><tr><td> 60 </td><td> 53 </td><td> 5.44 Mbp </td><td> 5 </td><td> 72.62 Mbp </td></tr><tr><td> 70 </td><td> 74 </td><td> 3.75 Mbp </td><td> 8 </td><td> 34.89 Mbp </td></tr><tr><td> 80 </td><td> 108 </td><td> 2.22 Mbp </td><td> 11 </td><td> 19.10 Mbp </td></tr><tr><td> 90 </td><td> 169 </td><td> 1.12 Mbp </td><td> 17 </td><td> 11.75 Mbp </td></tr><tr><td> 100 </td><td> 755 </td><td> 267  bp </td><td> 424 </td><td> 12.32 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 803 </th><th> 0.98 Gbp </th><th> 502 </th><th> 0.98 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 755 </th><th> 0.97 Gbp </th><th> 424 </th><th> 0.97 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2023-10-03
-hpb1filesize: 280.7 MiB
-hpb1length: '967733433'
+hpa1version: assembly_curated
+hpb1date: 2024-04-23
+hpb1filesize: 259.8 MiB
+hpb1length: '966847183'
 hpb1n50ctg: 7816141
-hpb1n50scf: 86361426
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/bCotChi1.HiC.hap2.20231003.fasta.gz
+hpb1n50scf: 86361526
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Coturnix_chinensis/bCotChi1/assembly_curated/bCotChi1.hap2.cur.20240423.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 24.41 Mbp </td><td> 1 </td><td> 183.08 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 17.68 Mbp </td><td> 2 </td><td> 140.71 Mbp </td></tr><tr><td> 30 </td><td> 14 </td><td> 12.96 Mbp </td><td> 2 </td><td> 140.71 Mbp </td></tr><tr><td> 40 </td><td> 22 </td><td> 10.63 Mbp </td><td> 3 </td><td> 105.06 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 33 </td><td style="background-color:#88ff88;"> 7.82 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 86.36 Mbp </td></tr><tr><td> 60 </td><td> 48 </td><td> 6.02 Mbp </td><td> 5 </td><td> 69.05 Mbp </td></tr><tr><td> 70 </td><td> 66 </td><td> 3.98 Mbp </td><td> 7 </td><td> 37.71 Mbp </td></tr><tr><td> 80 </td><td> 97 </td><td> 2.61 Mbp </td><td> 10 </td><td> 28.13 Mbp </td></tr><tr><td> 90 </td><td> 151 </td><td> 1.22 Mbp </td><td> 16 </td><td> 13.64 Mbp </td></tr><tr><td> 100 </td><td> 534 </td><td> 17.30 Kbp </td><td> 232 </td><td> 17.30 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 24.41 Mbp </td><td> 1 </td><td> 183.82 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 17.68 Mbp </td><td> 2 </td><td> 141.75 Mbp </td></tr><tr><td> 30 </td><td> 14 </td><td> 12.96 Mbp </td><td> 2 </td><td> 141.75 Mbp </td></tr><tr><td> 40 </td><td> 22 </td><td> 10.63 Mbp </td><td> 3 </td><td> 105.16 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 33 </td><td style="background-color:#88ff88;"> 7.82 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 86.36 Mbp </td></tr><tr><td> 60 </td><td> 48 </td><td> 6.02 Mbp </td><td> 5 </td><td> 75.05 Mbp </td></tr><tr><td> 70 </td><td> 66 </td><td> 3.98 Mbp </td><td> 7 </td><td> 37.71 Mbp </td></tr><tr><td> 80 </td><td> 97 </td><td> 2.61 Mbp </td><td> 11 </td><td> 18.94 Mbp </td></tr><tr><td> 90 </td><td> 150 </td><td> 1.22 Mbp </td><td> 17 </td><td> 11.73 Mbp </td></tr><tr><td> 100 </td><td> 521 </td><td> 7.61 Kbp </td><td> 191 </td><td> 17.30 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 534 </th><th> 0.97 Gbp </th><th> 232 </th><th> 0.97 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 521 </th><th> 0.97 Gbp </th><th> 191 </th><th> 0.97 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1684343908
-last_updated: 1704492186
+last_updated: 1713978613
 mds:
 - data: species:&nbsp;Coturnix&nbsp;chinensis<br>specimen:&nbsp;bCotChi1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/bCotChi1.HiC.hap1.20231003.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/bCotChi1.HiC.hap2.20231003.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bCotChi1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bCotChi1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/evaluation/merqury/bCotChi1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Coturnix_chinensis/bCotChi1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Coturnix_chinensis/bCotChi1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bCotChi1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima.&nbsp;&nbsp;<br><br>
   ident: md5

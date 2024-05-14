@@ -47,9 +47,16 @@ data_arima-1_links: s3://genomeark/species/Mustela_erminea/mMusErm1/genomic_data
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mustela_erminea/mMusErm1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mustela_erminea/mMusErm1/genomic_data/arima/
 data_arima-1_scale: 1.4658
-data_arima_bases: 459.92 Gbp
-data_arima_bytes: 292.2 GiB
-data_arima_coverage: 149.33x
+data_arima-2_bases: 319.24 Gbp
+data_arima-2_bytes: 89.4 GiB
+data_arima-2_coverage: 103.65x
+data_arima-2_links: s3://genomeark/species/Mustela_erminea/mMusErm2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mustela_erminea/mMusErm2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mustela_erminea/mMusErm2/genomic_data/arima/
+data_arima-2_scale: 3.3244
+data_arima_bases: 779.17 Gbp
+data_arima_bytes: 381.7 GiB
+data_arima_coverage: 252.98x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 819.2 MiB
 data_bionano-1_coverage: 149.82x
@@ -91,9 +98,9 @@ genbank_pri: mMusErm1:GCA_009829155.1
 genome_size: 3080000000
 genome_size_display: 3.08 Gbp
 genome_size_method: ''
-last_raw_data: 1707862329
-last_updated: 1707862329
-metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;stoat<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Mustelidae<br>&nbsp;&nbsp;genome_size:&nbsp;3080000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMusErm1<br>&nbsp;&nbsp;name:&nbsp;Mustela&nbsp;erminea<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carnivora<br>&nbsp;&nbsp;short_name:&nbsp;mMusErm<br>&nbsp;&nbsp;taxon_id:&nbsp;36723<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+last_raw_data: 1715355172
+last_updated: 1715355172
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMusErm<br>&nbsp;&nbsp;name:&nbsp;Mustela&nbsp;erminea<br>&nbsp;&nbsp;taxon_id:&nbsp;36723<br>&nbsp;&nbsp;common_name:&nbsp;stoat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carnivora<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Mustelidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMusErm1<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMusErm2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113398842<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;3080000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 4.9 KiB
 mito1length: '16482'

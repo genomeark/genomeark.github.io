@@ -28,6 +28,16 @@ data_illumina:bSerCaa3_scale: 1.9592
 data_illumina_bases: 198.06 Gbp
 data_illumina_bytes: 94.0 GiB
 data_illumina_coverage: N/A
+data_pacbiohifi_bam:bSerCaa1_bases: 631.63 Gbp
+data_pacbiohifi_bam:bSerCaa1_bytes: 336.9 GiB
+data_pacbiohifi_bam:bSerCaa1_coverage: N/A
+data_pacbiohifi_bam:bSerCaa1_links: s3://genomeark/species/Serinus_canaria/bSerCaa1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam:bSerCaa1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Serinus_canaria/bSerCaa1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam:bSerCaa1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Serinus_canaria/bSerCaa1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam:bSerCaa1_scale: 1.7463
+data_pacbiohifi_bam_bases: 631.63 Gbp
+data_pacbiohifi_bam_bytes: 336.9 GiB
+data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: '81307525324'
 data_pacbiohifi_fqgz-1_scale: '1.7463'
 data_pacbiohifi_fqgz:bSerCaa1_bases: 81.31 Gbp
@@ -49,8 +59,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1693244116
-last_updated: 1693244116
+last_raw_data: 1711464863
+last_updated: 1711464863
 name: Serinus canaria
 name_: Serinus_canaria
 project: ~

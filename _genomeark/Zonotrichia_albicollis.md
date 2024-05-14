@@ -30,7 +30,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1689707062
-last_updated: 1708194126
+last_updated: 1689707062
 name: Zonotrichia albicollis
 name_: Zonotrichia_albicollis
 project: ~
