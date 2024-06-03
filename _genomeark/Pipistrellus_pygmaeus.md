@@ -62,7 +62,7 @@ genome_size_display: 2.12 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687195356
 last_updated: 1692211339
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPipPyg<br>&nbsp;&nbsp;name:&nbsp;Pipistrellus&nbsp;pygmaeus<br>&nbsp;&nbsp;taxon_id:&nbsp;246814<br>&nbsp;&nbsp;common_name:&nbsp;soprano&nbsp;pipistrelle<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPipPyg2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA9921456<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2122260000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPipPyg<br>&nbsp;&nbsp;name:&nbsp;Pipistrellus&nbsp;pygmaeus<br>&nbsp;&nbsp;taxon_id:&nbsp;246814<br>&nbsp;&nbsp;common_name:&nbsp;soprano&nbsp;pipistrelle<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPipPyg2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA9921456<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2122260000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-03-23
 mito2filesize: 5.3 KiB
 mito2length: '17184'
@@ -124,6 +124,7 @@ pri2sizes: |
   </table>
 pri2version: assembly_curated
 project:
+- bat1k
 - vgp
 short_name: mPipPyg
 taxon_id: 246814

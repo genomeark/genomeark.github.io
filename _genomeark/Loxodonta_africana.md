@@ -11,6 +11,16 @@ data_arima-1_scale: 1.8039
 data_arima_bases: 221.50 Gbp
 data_arima_bytes: 114.4 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_clr-1_bases: 506.99 Gbp
+data_pacbiohifi_clr-1_bytes: 1.2 TiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Loxodonta_africana/mLoxAfr1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Loxodonta_africana/mLoxAfr1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Loxodonta_africana/mLoxAfr1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.3826
+data_pacbiohifi_clr_bases: 506.99 Gbp
+data_pacbiohifi_clr_bytes: 1.2 TiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 165.00 Gbp
 data_pacbiohifi_fqgz-1_bytes: 135.2 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -88,8 +98,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1668446221
-last_updated: 1683154099
+last_raw_data: 1716918560
+last_updated: 1716918560
 mito1date: 2023-02-10
 mito1filesize: 5.3 KiB
 mito1length: '16847'

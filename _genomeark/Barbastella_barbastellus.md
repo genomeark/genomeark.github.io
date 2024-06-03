@@ -21,10 +21,11 @@ genome_size_display: 2.15 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687276011
 last_updated: 1687276011
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mBarBar<br>&nbsp;&nbsp;name:&nbsp;Barbastella&nbsp;barbastellus<br>&nbsp;&nbsp;taxon_id:&nbsp;59449<br>&nbsp;&nbsp;common_name:&nbsp;western&nbsp;barbastelle<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mBarBar1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112124173<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2151600000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mBarBar<br>&nbsp;&nbsp;name:&nbsp;Barbastella&nbsp;barbastellus<br>&nbsp;&nbsp;taxon_id:&nbsp;59449<br>&nbsp;&nbsp;common_name:&nbsp;western&nbsp;barbastelle<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mBarBar1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112124173<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2151600000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 name: Barbastella barbastellus
 name_: Barbastella_barbastellus
 project:
+- bat1k
 - vgp
 short_name: mBarBar
 taxon_id: 59449

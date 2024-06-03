@@ -100,7 +100,11 @@ hpb2sizes: |
   </table>
 hpb2version: assembly_vgp_HiC_2.0
 last_raw_data: 1715629489
-last_updated: 1715629892
+last_updated: 1715707823
+mds:
+- data: species:&nbsp;Callospermophilus&nbsp;lateralis<br>specimen:&nbsp;mCalLat2<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Callospermophilus_lateralis/mCalLat2/assembly_vgp_HiC_2.0/mCalLat2.HiC.hap1.20240513.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Callospermophilus_lateralis/mCalLat2/assembly_vgp_HiC_2.0/mCalLat2.HiC.hap2.20240513.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Callospermophilus_lateralis/mCalLat2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mCalLat2_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Callospermophilus_lateralis/mCalLat2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mCalLat2_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Callospermophilus_lateralis/mCalLat2/assembly_vgp_HiC_2.0/evaluation/merqury/mCalLat2_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Callospermophilus_lateralis/mCalLat2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Callospermophilus_lateralis/mCalLat2/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.6+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mCalLat2,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;Hap1&nbsp;underwent&nbsp;purging.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;<br>
+  ident: md2
+  title: assembly_vgp_HiC_2.0/mCalLat2.yml
 name: Callospermophilus lateralis
 name_: Callospermophilus_lateralis
 project: ~

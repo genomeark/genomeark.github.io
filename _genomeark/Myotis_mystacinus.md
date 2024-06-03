@@ -89,7 +89,7 @@ hpb1sizes: |
 hpb1version: assembly_cambridge
 last_raw_data: 1709675982
 last_updated: 1709911250
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoMys<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;mystacinus<br>&nbsp;&nbsp;taxon_id:&nbsp;109479<br>&nbsp;&nbsp;common_name:&nbsp;whiskered&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoMys1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114250307<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1887540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoMys<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;mystacinus<br>&nbsp;&nbsp;taxon_id:&nbsp;109479<br>&nbsp;&nbsp;common_name:&nbsp;whiskered&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoMys1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114250307<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1887540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-03-08
 mito1filesize: 5.0 KiB
 mito1length: '16928'
@@ -122,6 +122,7 @@ mito1version: assembly_MT_cambridge
 name: Myotis mystacinus
 name_: Myotis_mystacinus
 project:
+- bat1k
 - vgp
 short_name: mMyoMys
 taxon_id: 109479

@@ -89,7 +89,7 @@ hpb1sizes: |
 hpb1version: assembly_cambridge
 last_raw_data: 1713194047
 last_updated: 1713294369
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMinSch<br>&nbsp;&nbsp;name:&nbsp;Miniopterus&nbsp;schreibersii<br>&nbsp;&nbsp;taxon_id:&nbsp;9433<br>&nbsp;&nbsp;common_name:&nbsp;Schreibers'&nbsp;long-fingered&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMinSch1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113980738<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1887540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMinSch<br>&nbsp;&nbsp;name:&nbsp;Miniopterus&nbsp;schreibersii<br>&nbsp;&nbsp;taxon_id:&nbsp;9433<br>&nbsp;&nbsp;common_name:&nbsp;Schreibers'&nbsp;long-fingered&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMinSch1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113980738<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1887540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-04-16
 mito1filesize: 5.0 KiB
 mito1length: '16634'
@@ -122,6 +122,7 @@ mito1version: assembly_MT_cambridge
 name: Miniopterus schreibersii
 name_: Miniopterus_schreibersii
 project:
+- bat1k
 - vgp
 short_name: mMinSch
 taxon_id: 9433

@@ -62,7 +62,7 @@ genome_size_display: 2.38 Gbp
 genome_size_method: GoaT
 last_raw_data: 1687192022
 last_updated: 1692198441
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mEptNil<br>&nbsp;&nbsp;name:&nbsp;Eptesicus&nbsp;nilssonii<br>&nbsp;&nbsp;taxon_id:&nbsp;59451<br>&nbsp;&nbsp;common_name:&nbsp;northern&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mEptNil1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA14098186<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;2383875000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mEptNil<br>&nbsp;&nbsp;name:&nbsp;Eptesicus&nbsp;nilssonii<br>&nbsp;&nbsp;taxon_id:&nbsp;59451<br>&nbsp;&nbsp;common_name:&nbsp;northern&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mEptNil1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA14098186<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;2383875000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-05-07
 mito1filesize: 5.3 KiB
 mito1length: '17039'
@@ -124,6 +124,7 @@ pri1sizes: |
   </table>
 pri1version: assembly_curated
 project:
+- bat1k
 - vgp
 short_name: mEptNil
 taxon_id: 59451

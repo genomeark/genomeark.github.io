@@ -1,16 +1,16 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: yellow-legged gull
-data_arima-1_bases: 94.91 Gbp
-data_arima-1_bytes: 27.3 GiB
-data_arima-1_coverage: 66.24x
+data_arima-1_bases: 287.86 Gbp
+data_arima-1_bytes: 81.6 GiB
+data_arima-1_coverage: 200.91x
 data_arima-1_links: s3://genomeark/species/Larus_michahellis/bLarMic1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Larus_michahellis/bLarMic1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Larus_michahellis/bLarMic1/genomic_data/arima/
-data_arima-1_scale: 3.2337
-data_arima_bases: 94.91 Gbp
-data_arima_bytes: 27.3 GiB
-data_arima_coverage: 66.24x
+data_arima-1_scale: 3.2869
+data_arima_bases: 287.86 Gbp
+data_arima_bytes: 81.6 GiB
+data_arima_coverage: 200.91x
 data_pacbiohifi_bam-1_bases: 86.38 Gbp
 data_pacbiohifi_bam-1_bytes: 32.9 GiB
 data_pacbiohifi_bam-1_coverage: 60.29x
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1432770000
 genome_size_display: 1.43 Gbp
 genome_size_method: GoaT
-last_raw_data: 1706736173
-last_updated: 1706736173
+last_raw_data: 1716468344
+last_updated: 1716468344
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bLarMic<br>&nbsp;&nbsp;name:&nbsp;Larus&nbsp;michahellis<br>&nbsp;&nbsp;taxon_id:&nbsp;119627<br>&nbsp;&nbsp;common_name:&nbsp;yellow-legged&nbsp;gull<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Laridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bLarMic1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114211328<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1432770000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Larus michahellis
 name_: Larus_michahellis

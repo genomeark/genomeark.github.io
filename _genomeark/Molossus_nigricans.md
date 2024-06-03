@@ -11,6 +11,16 @@ data_arima-1_scale: 1.6662
 data_arima_bases: 119.93 Gbp
 data_arima_bytes: 67.0 GiB
 data_arima_coverage: 47.81x
+data_pacbiohifi_bam-1_bases: 461.20 Gbp
+data_pacbiohifi_bam-1_bytes: 441.4 GiB
+data_pacbiohifi_bam-1_coverage: 183.85x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Molossus_nigricans/mMolNig1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Molossus_nigricans/mMolNig1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Molossus_nigricans/mMolNig1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.9732
+data_pacbiohifi_bam_bases: 461.20 Gbp
+data_pacbiohifi_bam_bytes: 441.4 GiB
+data_pacbiohifi_bam_coverage: 183.85x
 data_pacbiohifi_fqgz-1_bases: 128.25 Gbp
 data_pacbiohifi_fqgz-1_bytes: 93.0 GiB
 data_pacbiohifi_fqgz-1_coverage: 51.13x
@@ -87,8 +97,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1711632161
-last_updated: 1712090206
+last_raw_data: 1715707460
+last_updated: 1715707460
 mds:
 - data: species:&nbsp;Molossus&nbsp;nigricans<br>specimen:&nbsp;mMolNig1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Molossus_nigricans/mMolNig1/assembly_vgp_HiC_2.0/mMolNig1.HiC.hap1.20230906.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Molossus_nigricans/mMolNig1/assembly_vgp_HiC_2.0/mMolNig1.HiC.hap2.20230906.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Molossus_nigricans/mMolNig1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mMolNig1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Molossus_nigricans/mMolNig1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mMolNig1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Molossus_nigricans/mMolNig1/assembly_vgp_HiC_2.0/evaluation/merqury/mMolNig1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Molossus_nigricans/mMolNig1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Molossus_nigricans/mMolNig1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Molossus_nigricans/mMolNig1/assembly_MT_rockefeller/mMolNig1.MT.20230913.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mMolNig1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;TruSeq.&nbsp;<br><br>
   ident: md7

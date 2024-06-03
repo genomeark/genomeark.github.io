@@ -89,7 +89,7 @@ hpb2sizes: |
 hpb2version: assembly_cambridge
 last_raw_data: 1714553555
 last_updated: 1714665547
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mRhiHip<br>&nbsp;&nbsp;name:&nbsp;Rhinolophus&nbsp;hipposideros<br>&nbsp;&nbsp;taxon_id:&nbsp;77218<br>&nbsp;&nbsp;common_name:&nbsp;lesser&nbsp;horseshoe&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhinolophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mRhiHip2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113980802<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1877760000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mRhiHip<br>&nbsp;&nbsp;name:&nbsp;Rhinolophus&nbsp;hipposideros<br>&nbsp;&nbsp;taxon_id:&nbsp;77218<br>&nbsp;&nbsp;common_name:&nbsp;lesser&nbsp;horseshoe&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhinolophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mRhiHip2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113980802<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1877760000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito2date: 2024-05-02
 mito2filesize: 5.1 KiB
 mito2length: '16854'
@@ -122,6 +122,7 @@ mito2version: assembly_MT_cambridge
 name: Rhinolophus hipposideros
 name_: Rhinolophus_hipposideros
 project:
+- bat1k
 - vgp
 short_name: mRhiHip
 taxon_id: 77218

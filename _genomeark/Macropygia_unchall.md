@@ -22,14 +22,14 @@ data_pacbiohifi_bam_bases: 71.48 Gbp
 data_pacbiohifi_bam_bytes: 298.0 GiB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 71.49 Gbp
-data_pacbiohifi_fqgz-1_bytes: 0.1 KiB
+data_pacbiohifi_fqgz-1_bytes: 36.2 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Macropygia_unchall/bMacUnc1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Macropygia_unchall/bMacUnc1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Macropygia_unchall/bMacUnc1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 3574663095.0500
+data_pacbiohifi_fqgz-1_scale: 1.8389
 data_pacbiohifi_fqgz_bases: 71.49 Gbp
-data_pacbiohifi_fqgz_bytes: 0.1 KiB
+data_pacbiohifi_fqgz_bytes: 36.2 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
@@ -39,8 +39,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1715190351
-last_updated: 1715190351
+last_raw_data: 1715714534
+last_updated: 1715714534
 name: Macropygia unchall
 name_: Macropygia_unchall
 project: ~

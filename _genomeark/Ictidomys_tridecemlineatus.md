@@ -20,7 +20,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1712869118
-last_updated: 1712869118
+last_updated: 1715715899
 name: Ictidomys tridecemlineatus
 name_: Ictidomys_tridecemlineatus
 project: ~

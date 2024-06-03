@@ -21,10 +21,11 @@ genome_size_display: 2.29 Gbp
 genome_size_method: GoaT
 last_raw_data: 1705669320
 last_updated: 1705669320
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mNycLei<br>&nbsp;&nbsp;name:&nbsp;Nyctalus&nbsp;leisleri<br>&nbsp;&nbsp;taxon_id:&nbsp;59465<br>&nbsp;&nbsp;common_name:&nbsp;lesser&nbsp;noctule<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mNycLei1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114250308<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2288520000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mNycLei<br>&nbsp;&nbsp;name:&nbsp;Nyctalus&nbsp;leisleri<br>&nbsp;&nbsp;taxon_id:&nbsp;59465<br>&nbsp;&nbsp;common_name:&nbsp;lesser&nbsp;noctule<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mNycLei1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114250308<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2288520000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 name: Nyctalus leisleri
 name_: Nyctalus_leisleri
 project:
+- bat1k
 - vgp
 short_name: mNycLei
 taxon_id: 59465
