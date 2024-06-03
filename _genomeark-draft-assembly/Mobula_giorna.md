@@ -1,1 +1,0 @@
-../_genomeark/Mobula_giorna.md
