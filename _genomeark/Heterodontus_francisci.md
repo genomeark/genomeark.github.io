@@ -11,6 +11,16 @@ data_arima-1_scale: 1.9848
 data_arima_bases: 642.00 Gbp
 data_arima_bytes: 301.2 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 454.54 Gbp
+data_pacbiohifi_bam-1_bytes: 1.5 TiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Heterodontus_francisci/sHetFra1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Heterodontus_francisci/sHetFra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Heterodontus_francisci/sHetFra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2701
+data_pacbiohifi_bam_bases: 454.54 Gbp
+data_pacbiohifi_bam_bytes: 1.5 TiB
+data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_clr-1_bases: 4284.74 Gbp
 data_pacbiohifi_clr-1_bytes: 7.2 TiB
 data_pacbiohifi_clr-1_coverage: N/A
@@ -97,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1711779975
-last_updated: 1711779975
+last_raw_data: 1717122091
+last_updated: 1717122091
 mds:
 - data: species:&nbsp;Heterodontus&nbsp;francisci<br>specimen:&nbsp;sHetFra1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Heterodontus_francisci/sHetFra1/assembly_vgp_HiC_2.0/sHetFra1.HiC.hap1.20230522.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Heterodontus_francisci/sHetFra1/assembly_vgp_HiC_2.0/sHetFra1.HiC.hap2.20230522.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Heterodontus_francisci/sHetFra1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/sHetFra1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Heterodontus_francisci/sHetFra1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/sHetFra1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Heterodontus_francisci/sHetFra1/assembly_vgp_HiC_2.0/evaluation/merqury/sHetFra1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Heterodontus_francisci/sHetFra1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Heterodontus_francisci/sHetFra1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Heterodontus_francisci/sHetFra1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;sHetFra1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;Bionano&nbsp;Solve&nbsp;3.7&nbsp;was&nbsp;run&nbsp;with&nbsp;No&nbsp;Filter&nbsp;for&nbsp;the&nbsp;genome&nbsp;maps&nbsp;conflict&nbsp;and&nbsp;sequence&nbsp;conflict&nbsp;filter.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicate&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;
   ident: md9

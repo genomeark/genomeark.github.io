@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: American mink
 data_arima-2_bases: 780.46 Gbp
 data_arima-2_bytes: 214.6 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2880210000
 genome_size_display: 2.88 Gbp
 genome_size_method: GoaT
-hpa2date: 2024-03-20
-hpa2filesize: 696.5 MiB
-hpa2length: '2708861059'
-hpa2n50ctg: 1356841
-hpa2n50scf: 145136483
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Neovison_vison/mNeoVis2/assembly_cambridge/mNeoVis2.hap1.asm.20240320.fasta.gz
+hpa2date: 2024-05-30
+hpa2filesize: 766.1 MiB
+hpa2length: '2697147479'
+hpa2n50ctg: 1362871
+hpa2n50scf: 221119109
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Neovison_vison/mNeoVis2/assembly_curated/mNeoVis2.hap1.cur.20240530.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 63 </td><td> 3.53 Mbp </td><td> 1 </td><td> 314.97 Mbp </td></tr><tr><td> 20 </td><td> 160 </td><td> 2.67 Mbp </td><td> 3 </td><td> 221.81 Mbp </td></tr><tr><td> 30 </td><td> 284 </td><td> 2.09 Mbp </td><td> 4 </td><td> 220.61 Mbp </td></tr><tr><td> 40 </td><td> 439 </td><td> 1.65 Mbp </td><td> 5 </td><td> 210.14 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 633 </td><td style="background-color:#88ff88;"> 1.36 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 145.14 Mbp </td></tr><tr><td> 60 </td><td> 872 </td><td> 1.06 Mbp </td><td> 9 </td><td> 129.18 Mbp </td></tr><tr><td> 70 </td><td> 1183 </td><td> 0.80 Mbp </td><td> 12 </td><td> 106.10 Mbp </td></tr><tr><td> 80 </td><td> 1616 </td><td> 0.54 Mbp </td><td> 15 </td><td> 74.21 Mbp </td></tr><tr><td> 90 </td><td> 2371 </td><td> 232.59 Kbp </td><td> 32 </td><td> 1.56 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 64 </td><td> 3.48 Mbp </td><td> 1 </td><td> 325.66 Mbp </td></tr><tr><td> 20 </td><td> 160 </td><td> 2.66 Mbp </td><td> 3 </td><td> 240.71 Mbp </td></tr><tr><td> 30 </td><td> 285 </td><td> 2.08 Mbp </td><td> 4 </td><td> 237.42 Mbp </td></tr><tr><td> 40 </td><td> 441 </td><td> 1.64 Mbp </td><td> 5 </td><td> 224.20 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 634 </td><td style="background-color:#88ff88;"> 1.36 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 221.12 Mbp </td></tr><tr><td> 60 </td><td> 873 </td><td> 1.07 Mbp </td><td> 8 </td><td> 164.45 Mbp </td></tr><tr><td> 70 </td><td> 1183 </td><td> 0.80 Mbp </td><td> 10 </td><td> 149.39 Mbp </td></tr><tr><td> 80 </td><td> 1616 </td><td> 0.55 Mbp </td><td> 11 </td><td> 146.76 Mbp </td></tr><tr><td> 90 </td><td> 2363 </td><td> 240.86 Kbp </td><td> 14 </td><td> 72.69 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.940x </th><th> 4121 </th><th> 2.71 Gbp </th><th> 1294 </th><th> 2.71 Gbp </th></tr>
+  <tr><th> 0.936x </th><th> 3392 </th><th> 2.70 Gbp </th><th> 435 </th><th> 2.70 Gbp </th></tr>
   </tfoot>
   </table>
-hpa2version: assembly_cambridge
-hpb2date: 2024-03-20
-hpb2filesize: 687.9 MiB
-hpb2length: '2669628626'
-hpb2n50ctg: 1367397
-hpb2n50scf: 145870840
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Neovison_vison/mNeoVis2/assembly_cambridge/mNeoVis2.hap2.asm.20240320.fasta.gz
+hpa2version: assembly_curated
+hpb2date: 2024-05-30
+hpb2filesize: 760.6 MiB
+hpb2length: '2662777898'
+hpb2n50ctg: 1364651
+hpb2n50scf: 217713070
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Neovison_vison/mNeoVis2/assembly_curated/mNeoVis2.hap2.cur.20240530.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 66 </td><td> 3.41 Mbp </td><td> 1 </td><td> 306.41 Mbp </td></tr><tr><td> 20 </td><td> 164 </td><td> 2.59 Mbp </td><td> 3 </td><td> 216.64 Mbp </td></tr><tr><td> 30 </td><td> 290 </td><td> 2.06 Mbp </td><td> 4 </td><td> 208.98 Mbp </td></tr><tr><td> 40 </td><td> 449 </td><td> 1.63 Mbp </td><td> 5 </td><td> 197.13 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 643 </td><td style="background-color:#88ff88;"> 1.37 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 145.87 Mbp </td></tr><tr><td> 60 </td><td> 879 </td><td> 1.08 Mbp </td><td> 10 </td><td> 118.62 Mbp </td></tr><tr><td> 70 </td><td> 1186 </td><td> 0.81 Mbp </td><td> 12 </td><td> 109.67 Mbp </td></tr><tr><td> 80 </td><td> 1616 </td><td> 0.55 Mbp </td><td> 15 </td><td> 87.96 Mbp </td></tr><tr><td> 90 </td><td> 2404 </td><td> 202.45 Kbp </td><td> 54 </td><td> 1.07 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 66 </td><td> 3.39 Mbp </td><td> 1 </td><td> 314.01 Mbp </td></tr><tr><td> 20 </td><td> 164 </td><td> 2.59 Mbp </td><td> 3 </td><td> 239.06 Mbp </td></tr><tr><td> 30 </td><td> 290 </td><td> 2.06 Mbp </td><td> 4 </td><td> 229.49 Mbp </td></tr><tr><td> 40 </td><td> 449 </td><td> 1.63 Mbp </td><td> 5 </td><td> 219.87 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 643 </td><td style="background-color:#88ff88;"> 1.36 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 217.71 Mbp </td></tr><tr><td> 60 </td><td> 881 </td><td> 1.07 Mbp </td><td> 8 </td><td> 167.90 Mbp </td></tr><tr><td> 70 </td><td> 1191 </td><td> 0.80 Mbp </td><td> 10 </td><td> 146.58 Mbp </td></tr><tr><td> 80 </td><td> 1624 </td><td> 0.54 Mbp </td><td> 12 </td><td> 130.26 Mbp </td></tr><tr><td> 90 </td><td> 2428 </td><td> 196.42 Kbp </td><td> 15 </td><td> 46.71 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.927x </th><th> 3291 </th><th> 2.67 Gbp </th><th> 551 </th><th> 2.67 Gbp </th></tr>
+  <tr><th> 0.924x </th><th> 3200 </th><th> 2.66 Gbp </th><th> 351 </th><th> 2.66 Gbp </th></tr>
   </tfoot>
   </table>
-hpb2version: assembly_cambridge
+hpb2version: assembly_curated
 last_raw_data: 1714046094
-last_updated: 1714046094
+last_updated: 1717089163
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mNeoVis<br>&nbsp;&nbsp;name:&nbsp;Neovison&nbsp;vison<br>&nbsp;&nbsp;taxon_id:&nbsp;452646<br>&nbsp;&nbsp;common_name:&nbsp;American&nbsp;mink<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carnivora<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Mustelidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mNeoVis2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468126<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;2880210000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2024-03-20
 mito2filesize: 4.9 KiB

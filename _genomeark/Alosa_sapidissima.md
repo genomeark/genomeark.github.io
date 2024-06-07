@@ -91,7 +91,7 @@ pri1filesize: 249.8 MiB
 pri1length: '903564947'
 pri1n50ctg: 1553799
 pri1n50scf: 38440066
-pri1qual: 4.7 errors/Mb (QV=53.26)
+pri1qual: 4.7 errors/Mb (QV=53.27)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Alosa_sapidissima/fAloSap1/assembly_curated/fAloSap1.pri.cur.20210421.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

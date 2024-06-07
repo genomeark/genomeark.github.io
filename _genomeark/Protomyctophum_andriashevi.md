@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_cambridge
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: Andriashev's lanternfish
 data_arima-1_bases: 182.78 Gbp
 data_arima-1_bytes: 52.2 GiB
@@ -59,7 +59,7 @@ genome_size: 1907100000
 genome_size_display: 1.91 Gbp
 genome_size_method: GoaT
 last_raw_data: 1706560305
-last_updated: 1716480310
+last_updated: 1716992439
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fProAnd<br>&nbsp;&nbsp;name:&nbsp;Protomyctophum&nbsp;andriashevi<br>&nbsp;&nbsp;taxon_id:&nbsp;443713<br>&nbsp;&nbsp;common_name:&nbsp;Andriashev's&nbsp;lanternfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Myctophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fProAnd1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12815433<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1907100000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-05-23
 mito1filesize: 5.7 KiB
@@ -92,6 +92,35 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Protomyctophum andriashevi
 name_: Protomyctophum_andriashevi
+pri1date: 2024-05-23
+pri1filesize: 273.2 MiB
+pri1length: '1075059142'
+pri1n50ctg: 151004
+pri1n50scf: 1895241
+pri1seq: https://s3.amazonaws.com/genomeark/species/Protomyctophum_andriashevi/fProAnd1/assembly_cambridge/fProAnd1.pri.asm.20240523.fasta.gz
+pri1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 124 </td><td> 1.09 Mbp </td><td> 3 </td><td> 75.14 Mbp </td></tr><tr><td> 20 </td><td> 334 </td><td> 0.76 Mbp </td><td> 6 </td><td> 57.75 Mbp </td></tr><tr><td> 30 </td><td> 624 </td><td> 0.56 Mbp </td><td> 9 </td><td> 47.41 Mbp </td></tr><tr><td> 40 </td><td> 1042 </td><td> 364.85 Kbp </td><td> 14 </td><td> 34.57 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1834 </td><td style="background-color:#ff8888;"> 151.00 Kbp </td><td> 29 </td><td style="background-color:#ff8888;"> 1.90 Mbp </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.563x </th><th> 3831 </th><th> 1.07 Gbp </th><th> 1198 </th><th> 1.08 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri1version: assembly_cambridge
 project:
 - vgp
 short_name: fProAnd

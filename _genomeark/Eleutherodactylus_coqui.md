@@ -13,13 +13,13 @@ data_arima-3_scale: '1.9527'
 data_arima_bases: 586.19 Gbp
 data_arima_bytes: 279.6 GiB
 data_arima_coverage: N/A
-data_pacbiohifi_clr-3_bases: 2806.57 Gbp
-data_pacbiohifi_clr-3_bytes: 4.8 TiB
-data_pacbiohifi_clr-3_coverage: N/A
-data_pacbiohifi_clr-3_links: s3://genomeark/species/Eleutherodactylus_coqui/aEleCoq3/genomic_data/pacbio_hifi/<br>
-data_pacbiohifi_clr-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Eleutherodactylus_coqui/aEleCoq3/genomic_data/pacbio_hifi/
-data_pacbiohifi_clr-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Eleutherodactylus_coqui/aEleCoq3/genomic_data/pacbio_hifi/
-data_pacbiohifi_clr-3_scale: 0.5342
+data_pacbiohifi_clr-1_bases: 2806.57 Gbp
+data_pacbiohifi_clr-1_bytes: 4.8 TiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Eleutherodactylus_coqui/aEleCoq1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Eleutherodactylus_coqui/aEleCoq1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Eleutherodactylus_coqui/aEleCoq1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5342
 data_pacbiohifi_clr_bases: 2806.57 Gbp
 data_pacbiohifi_clr_bytes: 4.8 TiB
 data_pacbiohifi_clr_coverage: N/A
@@ -101,8 +101,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1716576434
-last_updated: 1716576434
+last_raw_data: 1717445987
+last_updated: 1717445987
 mds:
 - data: species:&nbsp;Eleutherodactylus&nbsp;coqui<br>specimen:&nbsp;aEleCoq1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Eleutherodactylus_coqui/aEleCoq1/assembly_vgp_HiC_2.0/aEleCoq1.HiC.hap1.20230815.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Eleutherodactylus_coqui/aEleCoq1/assembly_vgp_HiC_2.0/aEleCoq1.HiC.hap2.20230815.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Eleutherodactylus_coqui/aEleCoq1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aEleCoq1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Eleutherodactylus_coqui/aEleCoq1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aEleCoq1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Eleutherodactylus_coqui/aEleCoq1/assembly_vgp_HiC_2.0/evaluation/merqury/aEleCoq1_png/<br>mito:&nbsp;s3://genomeark/species/Eleutherodactylus_coqui/aEleCoq1/assembly_MT_rockefeller/aEleCoq1.MT.20230815.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Eleutherodactylus_coqui/aEleCoq1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Eleutherodactylus_coqui/aEleCoq1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;aEleCoq1&nbsp;(VGL&nbsp;ID&nbsp;is&nbsp;aEleCoq3),&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;The&nbsp;provider&nbsp;listed&nbsp;the&nbsp;sample&nbsp;as&nbsp;male,&nbsp;and&nbsp;the&nbsp;kmer&nbsp;spectra&nbsp;seem&nbsp;to&nbsp;support&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;This&nbsp;is&nbsp;a&nbsp;phase&nbsp;1&nbsp;species.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;both&nbsp;haplotypes&nbsp;for&nbsp;dual&nbsp;curation,&nbsp;and&nbsp;this&nbsp;is&nbsp;the&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;
   ident: md9

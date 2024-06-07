@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Skyros wall lizard
 data_arima-1_bases: 191.45 Gbp
 data_arima-1_bytes: 54.1 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1932772500
 genome_size_display: 1.93 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-02-27
-hpa1filesize: 434.0 MiB
-hpa1length: '1513814359'
-hpa1n50ctg: 2126606
+hpa1date: 2024-05-31
+hpa1filesize: 434.6 MiB
+hpa1length: '1514643635'
+hpa1n50ctg: 2119120
 hpa1n50scf: 75822951
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Podarcis_gaigeae/rPodGai1/assembly_cambridge/rPodGai1.hap1.asm.20240227.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Podarcis_gaigeae/rPodGai1/assembly_curated/rPodGai1.hap1.cur.20240531.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 25 </td><td> 6.28 Mbp </td><td> 2 </td><td> 124.96 Mbp </td></tr><tr><td> 20 </td><td> 61 </td><td> 4.66 Mbp </td><td> 4 </td><td> 105.90 Mbp </td></tr><tr><td> 30 </td><td> 110 </td><td> 3.53 Mbp </td><td> 5 </td><td> 100.52 Mbp </td></tr><tr><td> 40 </td><td> 171 </td><td> 2.82 Mbp </td><td> 7 </td><td> 91.93 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 249 </td><td style="background-color:#88ff88;"> 2.13 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 75.82 Mbp </td></tr><tr><td> 60 </td><td> 355 </td><td> 1.55 Mbp </td><td> 13 </td><td> 56.93 Mbp </td></tr><tr><td> 70 </td><td> 519 </td><td> 0.89 Mbp </td><td> 16 </td><td> 45.78 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 25 </td><td> 6.30 Mbp </td><td> 2 </td><td> 127.28 Mbp </td></tr><tr><td> 20 </td><td> 61 </td><td> 4.66 Mbp </td><td> 3 </td><td> 122.63 Mbp </td></tr><tr><td> 30 </td><td> 109 </td><td> 3.53 Mbp </td><td> 5 </td><td> 101.56 Mbp </td></tr><tr><td> 40 </td><td> 171 </td><td> 2.81 Mbp </td><td> 7 </td><td> 91.93 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 249 </td><td style="background-color:#88ff88;"> 2.12 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 75.82 Mbp </td></tr><tr><td> 60 </td><td> 355 </td><td> 1.56 Mbp </td><td> 12 </td><td> 62.69 Mbp </td></tr><tr><td> 70 </td><td> 518 </td><td> 0.89 Mbp </td><td> 16 </td><td> 46.85 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.783x </th><th> 1163 </th><th> 1.51 Gbp </th><th> 337 </th><th> 1.51 Gbp </th></tr>
+  <tr><th> 0.784x </th><th> 1094 </th><th> 1.51 Gbp </th><th> 211 </th><th> 1.51 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-02-27
-hpb1filesize: 411.3 MiB
-hpb1length: '1426653505'
-hpb1n50ctg: 2055048
-hpb1n50scf: 64962841
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Podarcis_gaigeae/rPodGai1/assembly_cambridge/rPodGai1.hap2.asm.20240227.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2024-05-31
+hpb1filesize: 409.6 MiB
+hpb1length: '1422314362'
+hpb1n50ctg: 2056193
+hpb1n50scf: 76198365
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Podarcis_gaigeae/rPodGai1/assembly_curated/rPodGai1.hap2.cur.20240531.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 23 </td><td> 7.11 Mbp </td><td> 2 </td><td> 124.56 Mbp </td></tr><tr><td> 20 </td><td> 57 </td><td> 4.81 Mbp </td><td> 4 </td><td> 106.67 Mbp </td></tr><tr><td> 30 </td><td> 104 </td><td> 3.61 Mbp </td><td> 5 </td><td> 100.48 Mbp </td></tr><tr><td> 40 </td><td> 165 </td><td> 2.66 Mbp </td><td> 7 </td><td> 90.61 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 248 </td><td style="background-color:#88ff88;"> 2.06 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 64.96 Mbp </td></tr><tr><td> 60 </td><td> 358 </td><td> 1.42 Mbp </td><td> 13 </td><td> 53.98 Mbp </td></tr><tr><td> 70 </td><td> 555 </td><td> 0.61 Mbp </td><td> 17 </td><td> 42.14 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 24 </td><td> 6.91 Mbp </td><td> 2 </td><td> 124.56 Mbp </td></tr><tr><td> 20 </td><td> 58 </td><td> 4.75 Mbp </td><td> 4 </td><td> 106.82 Mbp </td></tr><tr><td> 30 </td><td> 105 </td><td> 3.61 Mbp </td><td> 5 </td><td> 101.64 Mbp </td></tr><tr><td> 40 </td><td> 166 </td><td> 2.67 Mbp </td><td> 7 </td><td> 91.28 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 248 </td><td style="background-color:#88ff88;"> 2.06 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 76.20 Mbp </td></tr><tr><td> 60 </td><td> 359 </td><td> 1.41 Mbp </td><td> 12 </td><td> 63.81 Mbp </td></tr><tr><td> 70 </td><td> 560 </td><td> 0.59 Mbp </td><td> 16 </td><td> 43.20 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.738x </th><th> 916 </th><th> 1.43 Gbp </th><th> 155 </th><th> 1.43 Gbp </th></tr>
+  <tr><th> 0.736x </th><th> 910 </th><th> 1.42 Gbp </th><th> 127 </th><th> 1.42 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1708337721
-last_updated: 1710518999
+last_updated: 1717147748
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;rPodGai<br>&nbsp;&nbsp;name:&nbsp;Podarcis&nbsp;gaigeae<br>&nbsp;&nbsp;taxon_id:&nbsp;90521<br>&nbsp;&nbsp;common_name:&nbsp;Skyros&nbsp;wall&nbsp;lizard<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lacertidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rPodGai1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114217796<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1932772500<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-02-27
 mito1filesize: 5.7 KiB

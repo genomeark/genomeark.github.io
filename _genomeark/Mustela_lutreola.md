@@ -40,6 +40,16 @@ data_dovetail-3_scale: 1.8177
 data_dovetail_bases: 172.89 Gbp
 data_dovetail_bytes: 88.6 GiB
 data_dovetail_coverage: 66.85x
+data_pacbiohifi_bam-2_bases: 198.98 Gbp
+data_pacbiohifi_bam-2_bytes: 692.2 GiB
+data_pacbiohifi_bam-2_coverage: 76.94x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Mustela_lutreola/mMusLut2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mustela_lutreola/mMusLut2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mustela_lutreola/mMusLut2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 0.2677
+data_pacbiohifi_bam_bases: 198.98 Gbp
+data_pacbiohifi_bam_bytes: 692.2 GiB
+data_pacbiohifi_bam_coverage: 76.94x
 data_pacbiohifi_clr-2_bases: 2290.09 Gbp
 data_pacbiohifi_clr-2_bytes: 3.9 TiB
 data_pacbiohifi_clr-2_coverage: 885.48x
@@ -68,8 +78,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2586268927
 genome_size_display: 2.59 Gbp
 genome_size_method: ''
-last_raw_data: 1716644923
-last_updated: 1716644923
+last_raw_data: 1717128287
+last_updated: 1717128287
 mds:
 - data: species:&nbsp;Mustela&nbsp;lutreola<br>specimen:&nbsp;mMusLut2<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_vgp_standard_2.0/mMusLut2.standard.pri.20230320.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_vgp_standard_2.0/mMusLut2.standard.alt.20230320.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_vgp_standard_2.0/evaluation/pri/pretext/mMusLut2_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_vgp_standard_2.0/evaluation/merqury/mMusLut2_png/<br>mito:&nbsp;s3://genomeark/species/Mustela_lutreola/mMusLut2/assembly_MT_rockefeller/mMusLut2.MT.20230321.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Mustela_lutreola/mMusLut2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Mustela_lutreola/mMusLut3/genomic_data/dovetail/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;purge_dups<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;mMusLut2&nbsp;(VGL-mMusLut1).&nbsp;There&nbsp;was&nbsp;no&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;HiC&nbsp;data&nbsp;was&nbsp;generated&nbsp;from&nbsp;a&nbsp;different&nbsp;individual&nbsp;(ToLID:&nbsp;mMusLut3,&nbsp;internal&nbsp;ID&nbsp;VGL-mMusLut2).&nbsp;Both&nbsp;individuals&nbsp;are&nbsp;indicated&nbsp;as&nbsp;male&nbsp;in&nbsp;the&nbsp;metadata.&nbsp;
   ident: md5

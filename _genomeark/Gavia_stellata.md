@@ -18,6 +18,13 @@ data_arima-4_scale: 3.2387
 data_arima_bases: 207.55 Gbp
 data_arima_bytes: 91.5 GiB
 data_arima_coverage: 148.41x
+data_pacbiohifi_bam-3_bases: 86.45 Gbp
+data_pacbiohifi_bam-3_bytes: 294.3 GiB
+data_pacbiohifi_bam-3_coverage: 61.81x
+data_pacbiohifi_bam-3_links: s3://genomeark/species/Gavia_stellata/bGavSte3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gavia_stellata/bGavSte3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gavia_stellata/bGavSte3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_scale: 0.2736
 data_pacbiohifi_bam-4_bases: 71.00 Gbp
 data_pacbiohifi_bam-4_bytes: 22.8 GiB
 data_pacbiohifi_bam-4_coverage: 50.76x
@@ -32,9 +39,9 @@ data_pacbiohifi_bam-5_links: s3://genomeark/species/Gavia_stellata/bGavSte5/geno
 data_pacbiohifi_bam-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gavia_stellata/bGavSte5/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gavia_stellata/bGavSte5/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-5_scale: 1.7554
-data_pacbiohifi_bam_bases: 84.49 Gbp
-data_pacbiohifi_bam_bytes: 30.0 GiB
-data_pacbiohifi_bam_coverage: 60.41x
+data_pacbiohifi_bam_bases: 170.94 Gbp
+data_pacbiohifi_bam_bytes: 324.2 GiB
+data_pacbiohifi_bam_coverage: 122.23x
 data_pacbiohifi_clr-3_bases: 971.55 Gbp
 data_pacbiohifi_clr-3_bytes: 1.7 TiB
 data_pacbiohifi_clr-3_coverage: 694.69x
@@ -121,8 +128,8 @@ hpb3sizes: |
   </tfoot>
   </table>
 hpb3version: assembly_curated
-last_raw_data: 1712935248
-last_updated: 1712935248
+last_raw_data: 1717092964
+last_updated: 1717092964
 mds:
 - data: species:&nbsp;Gavia&nbsp;stellata<br>specimen:&nbsp;bGavSte3<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Gavia_stellata/bGavSte3/assembly_vgp_HiC_2.0/bGavSte3.HiC.hap1.20230407.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Gavia_stellata/bGavSte3/assembly_vgp_HiC_2.0/bGavSte3.HiC.hap2.20230407.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Gavia_stellata/bGavSte3/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bGavSte3_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Gavia_stellata/bGavSte3/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bGavSte3_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Gavia_stellata/bGavSte3/assembly_vgp_HiC_2.0/evaluation/merqury/bGavSte3_png/<br>mito:&nbsp;s3://genomeark/species/Gavia_stellata/bGavSte3/assembly_MT_rockefeller/bGavSte3.MT.20230407.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Gavia_stellata/bGavSte3/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Gavia_stellata/bGavSte3/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bGavSte3,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.<br>
   ident: md9

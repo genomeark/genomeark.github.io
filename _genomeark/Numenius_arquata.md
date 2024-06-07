@@ -28,7 +28,7 @@ alt3sizes: |
   </tfoot>
   </table>
 alt3version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Eurasian curlew
 data_arima-3_bases: 86.83 Gbp
 data_arima-3_bytes: 26.2 GiB
@@ -58,12 +58,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1320300000
 genome_size_display: 1.32 Gbp
 genome_size_method: GoaT
-hpa3date: 2024-02-27
-hpa3filesize: 369.4 MiB
-hpa3length: '1340290359'
+hpa3date: 2024-05-30
+hpa3filesize: 372.6 MiB
+hpa3length: '1348876333'
 hpa3n50ctg: 2683214
 hpa3n50scf: 63363742
-hpa3seq: https://s3.amazonaws.com/genomeark/species/Numenius_arquata/bNumArq3/assembly_cambridge/bNumArq3.hap1.asm.20240227.fasta.gz
+hpa3seq: https://s3.amazonaws.com/genomeark/species/Numenius_arquata/bNumArq3/assembly_curated/bNumArq3.hap1.cur.20240530.fasta.gz
 hpa3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,18 +81,18 @@ hpa3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 12 </td><td> 8.36 Mbp </td><td> 1 </td><td> 141.98 Mbp </td></tr><tr><td> 20 </td><td> 30 </td><td> 6.48 Mbp </td><td> 2 </td><td> 132.46 Mbp </td></tr><tr><td> 30 </td><td> 54 </td><td> 4.87 Mbp </td><td> 4 </td><td> 76.77 Mbp </td></tr><tr><td> 40 </td><td> 86 </td><td> 3.58 Mbp </td><td> 6 </td><td> 71.65 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 128 </td><td style="background-color:#88ff88;"> 2.68 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 63.36 Mbp </td></tr><tr><td> 60 </td><td> 183 </td><td> 2.03 Mbp </td><td> 10 </td><td> 62.19 Mbp </td></tr><tr><td> 70 </td><td> 260 </td><td> 1.47 Mbp </td><td> 12 </td><td> 45.74 Mbp </td></tr><tr><td> 80 </td><td> 372 </td><td> 0.91 Mbp </td><td> 17 </td><td> 17.66 Mbp </td></tr><tr><td> 90 </td><td> 606 </td><td> 326.14 Kbp </td><td> 46 </td><td> 0.84 Mbp </td></tr><tr><td> 100 </td><td> 1691 </td><td> 41.71 Kbp </td><td> 969 </td><td> 44.38 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 12 </td><td> 8.36 Mbp </td><td> 1 </td><td> 141.98 Mbp </td></tr><tr><td> 20 </td><td> 30 </td><td> 6.48 Mbp </td><td> 2 </td><td> 133.18 Mbp </td></tr><tr><td> 30 </td><td> 54 </td><td> 4.87 Mbp </td><td> 4 </td><td> 77.45 Mbp </td></tr><tr><td> 40 </td><td> 86 </td><td> 3.58 Mbp </td><td> 6 </td><td> 71.65 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 128 </td><td style="background-color:#88ff88;"> 2.68 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 63.36 Mbp </td></tr><tr><td> 60 </td><td> 183 </td><td> 2.07 Mbp </td><td> 10 </td><td> 62.19 Mbp </td></tr><tr><td> 70 </td><td> 258 </td><td> 1.50 Mbp </td><td> 12 </td><td> 45.74 Mbp </td></tr><tr><td> 80 </td><td> 367 </td><td> 0.97 Mbp </td><td> 16 </td><td> 19.07 Mbp </td></tr><tr><td> 90 </td><td> 579 </td><td> 358.84 Kbp </td><td> 27 </td><td> 6.47 Mbp </td></tr><tr><td> 100 </td><td> 1498 </td><td> 56.19 Kbp </td><td> 739 </td><td> 61.14 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.015x </th><th> 2644 </th><th> 1.34 Gbp </th><th> 1906 </th><th> 1.34 Gbp </th></tr>
+  <tr><th> 1.022x </th><th> 2604 </th><th> 1.35 Gbp </th><th> 1819 </th><th> 1.35 Gbp </th></tr>
   </tfoot>
   </table>
-hpa3version: assembly_cambridge
-hpb3date: 2024-02-27
-hpb3filesize: 343.3 MiB
-hpb3length: '1207581846'
-hpb3n50ctg: 2537356
+hpa3version: assembly_curated
+hpb3date: 2024-05-30
+hpb3filesize: 339.9 MiB
+hpb3length: '1198356613'
+hpb3n50ctg: 2533652
 hpb3n50scf: 63003148
-hpb3seq: https://s3.amazonaws.com/genomeark/species/Numenius_arquata/bNumArq3/assembly_cambridge/bNumArq3.hap2.asm.20240227.fasta.gz
+hpb3seq: https://s3.amazonaws.com/genomeark/species/Numenius_arquata/bNumArq3/assembly_curated/bNumArq3.hap2.cur.20240530.fasta.gz
 hpb3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -110,14 +110,14 @@ hpb3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 13 </td><td> 8.38 Mbp </td><td> 1 </td><td> 141.74 Mbp </td></tr><tr><td> 20 </td><td> 32 </td><td> 6.04 Mbp </td><td> 2 </td><td> 133.07 Mbp </td></tr><tr><td> 30 </td><td> 57 </td><td> 4.42 Mbp </td><td> 4 </td><td> 76.79 Mbp </td></tr><tr><td> 40 </td><td> 92 </td><td> 3.22 Mbp </td><td> 6 </td><td> 70.29 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 138 </td><td style="background-color:#88ff88;"> 2.54 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 63.00 Mbp </td></tr><tr><td> 60 </td><td> 198 </td><td> 1.88 Mbp </td><td> 10 </td><td> 56.36 Mbp </td></tr><tr><td> 70 </td><td> 283 </td><td> 1.25 Mbp </td><td> 13 </td><td> 20.75 Mbp </td></tr><tr><td> 80 </td><td> 432 </td><td> 0.62 Mbp </td><td> 24 </td><td> 8.28 Mbp </td></tr><tr><td> 90 </td><td> 971 </td><td> 82.28 Kbp </td><td> 325 </td><td> 101.31 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 13 </td><td> 8.38 Mbp </td><td> 1 </td><td> 141.74 Mbp </td></tr><tr><td> 20 </td><td> 32 </td><td> 6.04 Mbp </td><td> 2 </td><td> 133.07 Mbp </td></tr><tr><td> 30 </td><td> 57 </td><td> 4.42 Mbp </td><td> 4 </td><td> 76.79 Mbp </td></tr><tr><td> 40 </td><td> 92 </td><td> 3.22 Mbp </td><td> 6 </td><td> 70.29 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 139 </td><td style="background-color:#88ff88;"> 2.53 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 63.00 Mbp </td></tr><tr><td> 60 </td><td> 199 </td><td> 1.86 Mbp </td><td> 10 </td><td> 56.36 Mbp </td></tr><tr><td> 70 </td><td> 287 </td><td> 1.19 Mbp </td><td> 14 </td><td> 19.17 Mbp </td></tr><tr><td> 80 </td><td> 446 </td><td> 0.55 Mbp </td><td> 25 </td><td> 7.59 Mbp </td></tr><tr><td> 90 </td><td> 1120 </td><td> 50.85 Kbp </td><td> 450 </td><td> 63.54 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.915x </th><th> 1499 </th><th> 1.21 Gbp </th><th> 808 </th><th> 1.21 Gbp </th></tr>
+  <tr><th> 0.908x </th><th> 1504 </th><th> 1.20 Gbp </th><th> 811 </th><th> 1.20 Gbp </th></tr>
   </tfoot>
   </table>
-hpb3version: assembly_cambridge
+hpb3version: assembly_curated
 last_raw_data: 1707381778
-last_updated: 1709751975
+last_updated: 1717079565
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bNumArq<br>&nbsp;&nbsp;name:&nbsp;Numenius&nbsp;arquata<br>&nbsp;&nbsp;taxon_id:&nbsp;31919<br>&nbsp;&nbsp;common_name:&nbsp;Eurasian&nbsp;curlew<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scolopacidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bNumArq3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112693994<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1320300000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito3date: 2024-02-27
 mito3filesize: 5.4 KiB

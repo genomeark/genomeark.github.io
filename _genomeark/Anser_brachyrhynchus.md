@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-11-07
-alt1filesize: 293.5 MiB
-alt1length: '1157734353'
+alt1date: 2024-05-29
+alt1filesize: 314.8 MiB
+alt1length: '1147454305'
 alt1n50ctg: '569697'
 alt1n50scf: '569697'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Anser_brachyrhynchus/bAnsBra1/assembly_cambridge/bAnsBra1.alt.asm.20231107.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Anser_brachyrhynchus/bAnsBra1/assembly_curated/bAnsBra1.alt.cur.20240529.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 46 </td><td> 2.14 Mbp </td><td> 46 </td><td> 2.14 Mbp </td></tr><tr><td> 20 </td><td> 125 </td><td> 1.46 Mbp </td><td> 125 </td><td> 1.46 Mbp </td></tr><tr><td> 30 </td><td> 235 </td><td> 1.11 Mbp </td><td> 235 </td><td> 1.11 Mbp </td></tr><tr><td> 40 </td><td> 380 </td><td> 0.81 Mbp </td><td> 380 </td><td> 0.81 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 581 </td><td> 0.57 Mbp </td><td> 581 </td><td> 0.57 Mbp </td></tr><tr><td> 60 </td><td> 880 </td><td> 375.07 Kbp </td><td> 880 </td><td> 375.07 Kbp </td></tr><tr><td> 70 </td><td> 1398 </td><td> 190.07 Kbp </td><td> 1398 </td><td> 190.07 Kbp </td></tr><tr><td> 80 </td><td> 3068 </td><td> 35.27 Kbp </td><td> 3068 </td><td> 35.27 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 46 </td><td> 2.14 Mbp </td><td> 46 </td><td> 2.14 Mbp </td></tr><tr><td> 20 </td><td> 125 </td><td> 1.46 Mbp </td><td> 125 </td><td> 1.46 Mbp </td></tr><tr><td> 30 </td><td> 235 </td><td> 1.11 Mbp </td><td> 235 </td><td> 1.11 Mbp </td></tr><tr><td> 40 </td><td> 380 </td><td> 0.81 Mbp </td><td> 380 </td><td> 0.81 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 581 </td><td> 0.57 Mbp </td><td> 581 </td><td> 0.57 Mbp </td></tr><tr><td> 60 </td><td> 880 </td><td> 375.07 Kbp </td><td> 880 </td><td> 375.07 Kbp </td></tr><tr><td> 70 </td><td> 1398 </td><td> 190.00 Kbp </td><td> 1398 </td><td> 190.00 Kbp </td></tr><tr><td> 80 </td><td> 3129 </td><td> 32.68 Kbp </td><td> 3129 </td><td> 32.68 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.840x </th><th> 5446 </th><th> 1.16 Gbp </th><th> 5446 </th><th> 1.16 Gbp </th></tr>
+  <tr><th> 0.832x </th><th> 5114 </th><th> 1.15 Gbp </th><th> 5114 </th><th> 1.15 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Pink-footed goose
 data_arima-1_bases: 99.34 Gbp
 data_arima-1_bytes: 30.4 GiB
@@ -59,7 +59,7 @@ genome_size: 1378980000
 genome_size_display: 1.38 Gbp
 genome_size_method: GoaT
 last_raw_data: 1699354831
-last_updated: 1699363839
+last_updated: 1716994233
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bAnsBra<br>&nbsp;&nbsp;name:&nbsp;Anser&nbsp;brachyrhynchus<br>&nbsp;&nbsp;taxon_id:&nbsp;132585<br>&nbsp;&nbsp;common_name:&nbsp;Pink-footed&nbsp;goose<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAnsBra1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468040<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1378980000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-11-07
 mito1filesize: 5.4 KiB
@@ -92,12 +92,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Anser brachyrhynchus
 name_: Anser_brachyrhynchus
-pri1date: 2023-11-07
-pri1filesize: 356.0 MiB
-pri1length: '1288939319'
-pri1n50ctg: 1858175
-pri1n50scf: 62545821
-pri1seq: https://s3.amazonaws.com/genomeark/species/Anser_brachyrhynchus/bAnsBra1/assembly_cambridge/bAnsBra1.pri.asm.20231107.fasta.gz
+pri1date: 2024-05-29
+pri1filesize: 350.8 MiB
+pri1length: '1287337719'
+pri1n50ctg: 1851501
+pri1n50scf: 66564410
+pri1seq: https://s3.amazonaws.com/genomeark/species/Anser_brachyrhynchus/bAnsBra1/assembly_curated/bAnsBra1.pri.cur.20240529.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -115,12 +115,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 18 </td><td> 5.87 Mbp </td><td> 1 </td><td> 213.09 Mbp </td></tr><tr><td> 20 </td><td> 47 </td><td> 4.16 Mbp </td><td> 2 </td><td> 161.66 Mbp </td></tr><tr><td> 30 </td><td> 85 </td><td> 3.17 Mbp </td><td> 3 </td><td> 124.28 Mbp </td></tr><tr><td> 40 </td><td> 136 </td><td> 2.38 Mbp </td><td> 4 </td><td> 82.52 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 201 </td><td style="background-color:#88ff88;"> 1.86 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 62.55 Mbp </td></tr><tr><td> 60 </td><td> 290 </td><td> 1.31 Mbp </td><td> 10 </td><td> 27.28 Mbp </td></tr><tr><td> 70 </td><td> 417 </td><td> 0.88 Mbp </td><td> 16 </td><td> 18.23 Mbp </td></tr><tr><td> 80 </td><td> 621 </td><td> 0.51 Mbp </td><td> 27 </td><td> 7.60 Mbp </td></tr><tr><td> 90 </td><td> 1085 </td><td> 151.95 Kbp </td><td> 179 </td><td> 278.00 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 18 </td><td> 5.87 Mbp </td><td> 1 </td><td> 213.09 Mbp </td></tr><tr><td> 20 </td><td> 47 </td><td> 4.16 Mbp </td><td> 2 </td><td> 161.66 Mbp </td></tr><tr><td> 30 </td><td> 85 </td><td> 3.17 Mbp </td><td> 3 </td><td> 126.59 Mbp </td></tr><tr><td> 40 </td><td> 136 </td><td> 2.38 Mbp </td><td> 4 </td><td> 80.17 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 201 </td><td style="background-color:#88ff88;"> 1.85 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 66.56 Mbp </td></tr><tr><td> 60 </td><td> 290 </td><td> 1.31 Mbp </td><td> 9 </td><td> 32.90 Mbp </td></tr><tr><td> 70 </td><td> 417 </td><td> 0.88 Mbp </td><td> 14 </td><td> 22.68 Mbp </td></tr><tr><td> 80 </td><td> 622 </td><td> 0.50 Mbp </td><td> 22 </td><td> 12.58 Mbp </td></tr><tr><td> 90 </td><td> 1088 </td><td> 151.00 Kbp </td><td> 134 </td><td> 296.56 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.935x </th><th> 1875 </th><th> 1.29 Gbp </th><th> 788 </th><th> 1.29 Gbp </th></tr>
+  <tr><th> 0.933x </th><th> 1852 </th><th> 1.29 Gbp </th><th> 715 </th><th> 1.29 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: bAnsBra

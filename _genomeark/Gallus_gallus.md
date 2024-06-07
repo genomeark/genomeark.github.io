@@ -182,13 +182,13 @@ data_pacbio-1_scale: 0.5393
 data_pacbio_bases: 123.49 Gbp
 data_pacbio_bytes: 213.3 GiB
 data_pacbio_coverage: 102.06x
-data_pacbiohifi_bam-1_bases: 482.94 Gbp
+data_pacbiohifi_bam-1_bases: 173.74 Gbp
 data_pacbiohifi_bam-1_bytes: 609.7 GiB
-data_pacbiohifi_bam-1_coverage: 399.12x
+data_pacbiohifi_bam-1_coverage: 143.59x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Gallus_gallus/bGalGal1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.7377
+data_pacbiohifi_bam-1_scale: 0.2654
 data_pacbiohifi_bam-4_bases: 39.38 Gbp
 data_pacbiohifi_bam-4_bytes: 33.7 GiB
 data_pacbiohifi_bam-4_coverage: 32.55x
@@ -196,9 +196,9 @@ data_pacbiohifi_bam-4_links: s3://genomeark/species/Gallus_gallus/bGalGal4/genom
 data_pacbiohifi_bam-4_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Gallus_gallus/bGalGal4/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-4_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal4/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-4_scale: 1.0892
-data_pacbiohifi_bam_bases: 522.32 Gbp
+data_pacbiohifi_bam_bases: 213.13 Gbp
 data_pacbiohifi_bam_bytes: 643.4 GiB
-data_pacbiohifi_bam_coverage: 431.67x
+data_pacbiohifi_bam_coverage: 176.14x
 data_pacbiohifi_clr-1_bases: 1587.32 Gbp
 data_pacbiohifi_clr-1_bytes: 2.7 TiB
 data_pacbiohifi_clr-1_coverage: 1311.84x

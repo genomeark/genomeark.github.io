@@ -41,8 +41,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1193000000
 genome_size_display: 1.19 Gbp
 genome_size_method: GoAT
-last_raw_data: 1710773903
-last_updated: 1710773903
+last_raw_data: 1717620556
+last_updated: 1717620556
 metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Sitta&nbsp;carolinensis<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bSitCar2<br>&nbsp;&nbsp;short_name:&nbsp;bSitCar<br>&nbsp;&nbsp;taxon_id:&nbsp;50250<br>&nbsp;&nbsp;common_name:&nbsp;white-breasted&nbsp;nuthatches<br>&nbsp;&nbsp;genome_size:&nbsp;1193000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Sittidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Sitta carolinensis
 name_: Sitta_carolinensis

@@ -120,7 +120,7 @@ pri1filesize: 315.5 MiB
 pri1length: '1112734206'
 pri1n50ctg: 9839847
 pri1n50scf: 74461389
-pri1qual: 40.7 errors/Mb (QV=43.90)
+pri1qual: 40.7 errors/Mb (QV=43.91)
 pri1seq: https://s3.amazonaws.com/genomeark/species/Corvus_moneduloides/bCorMon1/assembly_curated/bCorMon1.pri.cur.20190926.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">

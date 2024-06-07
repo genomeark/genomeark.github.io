@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_cambridge
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: perl eyes
 data_arima-1_bases: 124.42 Gbp
 data_arima-1_bytes: 37.8 GiB
@@ -59,10 +59,10 @@ genome_size: 1274456250
 genome_size_display: 1.27 Gbp
 genome_size_method: GoaT
 last_raw_data: 1705164342
-last_updated: 1716480302
+last_updated: 1716992489
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fBenEln<br>&nbsp;&nbsp;name:&nbsp;Benthalbella&nbsp;elongata<br>&nbsp;&nbsp;taxon_id:&nbsp;1090477<br>&nbsp;&nbsp;common_name:&nbsp;perl&nbsp;eyes<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Aulopiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scopelarchidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fBenEln1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12815437<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1274456250<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-05-23
-mito1filesize: 5.3 KiB
+mito1filesize: 5.6 KiB
 mito1length: '17673'
 mito1n50ctg: 0
 mito1n50scf: 0
@@ -92,6 +92,35 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Benthalbella elongata
 name_: Benthalbella_elongata
+pri1date: 2024-05-23
+pri1filesize: 417.8 MiB
+pri1length: '1730875207'
+pri1n50ctg: 801979
+pri1n50scf: 64704017
+pri1seq: https://s3.amazonaws.com/genomeark/species/Benthalbella_elongata/fBenEln1/assembly_cambridge/fBenEln1.pri.asm.20240523.fasta.gz
+pri1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 42 </td><td> 2.22 Mbp </td><td> 2 </td><td> 75.94 Mbp </td></tr><tr><td> 20 </td><td> 113 </td><td> 1.56 Mbp </td><td> 4 </td><td> 69.04 Mbp </td></tr><tr><td> 30 </td><td> 206 </td><td> 1.21 Mbp </td><td> 6 </td><td> 67.50 Mbp </td></tr><tr><td> 40 </td><td> 325 </td><td> 0.98 Mbp </td><td> 8 </td><td> 66.29 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 469 </td><td style="background-color:#ff8888;"> 0.80 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 64.70 Mbp </td></tr><tr><td> 60 </td><td> 643 </td><td> 0.66 Mbp </td><td> 12 </td><td> 63.10 Mbp </td></tr><tr><td> 70 </td><td> 860 </td><td> 0.52 Mbp </td><td> 14 </td><td> 62.33 Mbp </td></tr><tr><td> 80 </td><td> 1133 </td><td> 416.65 Kbp </td><td> 16 </td><td> 60.32 Mbp </td></tr><tr><td> 90 </td><td> 1483 </td><td> 318.49 Kbp </td><td> 18 </td><td> 53.36 Mbp </td></tr><tr><td> 100 </td><td> 1951 </td><td> 236.69 Kbp </td><td> 20 </td><td> 50.46 Mbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.357x </th><th> 8706 </th><th> 1.73 Gbp </th><th> 3159 </th><th> 1.73 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri1version: assembly_cambridge
 project:
 - vgp
 short_name: fBenEln

@@ -28,14 +28,24 @@ data_illumina-3_scale: 1.9721
 data_illumina_bases: 809.11 Gbp
 data_illumina_bytes: 386.1 GiB
 data_illumina_coverage: N/A
-data_pacbiohifi_clr-1_bases: 5075.25 Gbp
+data_pacbiohifi_bam-1_bases: 449.32 Gbp
+data_pacbiohifi_bam-1_bytes: 1.5 TiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Dendrobates_auratus/aDenAur1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dendrobates_auratus/aDenAur1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendrobates_auratus/aDenAur1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2690
+data_pacbiohifi_bam_bases: 449.32 Gbp
+data_pacbiohifi_bam_bytes: 1.5 TiB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_clr-1_bases: 5128.97 Gbp
 data_pacbiohifi_clr-1_bytes: 8.7 TiB
 data_pacbiohifi_clr-1_coverage: N/A
 data_pacbiohifi_clr-1_links: s3://genomeark/species/Dendrobates_auratus/aDenAur1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dendrobates_auratus/aDenAur1/genomic_data/pacbio_hifi/
 data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendrobates_auratus/aDenAur1/genomic_data/pacbio_hifi/
-data_pacbiohifi_clr-1_scale: 0.5315
-data_pacbiohifi_clr_bases: 5075.25 Gbp
+data_pacbiohifi_clr-1_scale: 0.5345
+data_pacbiohifi_clr_bases: 5128.97 Gbp
 data_pacbiohifi_clr_bytes: 8.7 TiB
 data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_dcfqgz-1_bases: 263.01 Gbp
@@ -77,8 +87,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1680688097
-last_updated: 1680688097
+last_raw_data: 1717015790
+last_updated: 1717015790
 name: Dendrobates auratus
 name_: Dendrobates_auratus
 project: ~

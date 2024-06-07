@@ -11,16 +11,16 @@ data_arima-1_scale: 1.7171
 data_arima_bases: 146.90 Gbp
 data_arima_bytes: 79.7 GiB
 data_arima_coverage: 60.32x
-data_pacbiohifi_bam-1_bases: 366.68 Gbp
+data_pacbiohifi_bam-1_bases: 77.23 Gbp
 data_pacbiohifi_bam-1_bytes: 263.5 GiB
-data_pacbiohifi_bam-1_coverage: 150.57x
+data_pacbiohifi_bam-1_coverage: 31.71x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Glossophaga_mutica/mGloMut1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Glossophaga_mutica/mGloMut1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Glossophaga_mutica/mGloMut1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 1.2962
-data_pacbiohifi_bam_bases: 366.68 Gbp
+data_pacbiohifi_bam-1_scale: 0.2730
+data_pacbiohifi_bam_bases: 77.23 Gbp
 data_pacbiohifi_bam_bytes: 263.5 GiB
-data_pacbiohifi_bam_coverage: 150.57x
+data_pacbiohifi_bam_coverage: 31.71x
 data_pacbiohifi_fqgz-1_bases: 77.22 Gbp
 data_pacbiohifi_fqgz-1_bytes: 55.5 GiB
 data_pacbiohifi_fqgz-1_coverage: 31.71x
