@@ -11,6 +11,26 @@ data_arima-1_scale: 1.7694
 data_arima_bases: 67.07 Gbp
 data_arima_bytes: 35.3 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 246.54 Gbp
+data_pacbiohifi_bam-1_bytes: 869.1 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Patagioenas_fasciata/bPatFas1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Patagioenas_fasciata/bPatFas1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Patagioenas_fasciata/bPatFas1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2642
+data_pacbiohifi_bam_bases: 246.54 Gbp
+data_pacbiohifi_bam_bytes: 869.1 GiB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_clr-1_bases: 1453.52 Gbp
+data_pacbiohifi_clr-1_bytes: 2.5 TiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Patagioenas_fasciata/bPatFas1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Patagioenas_fasciata/bPatFas1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Patagioenas_fasciata/bPatFas1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5389
+data_pacbiohifi_clr_bases: 1453.52 Gbp
+data_pacbiohifi_clr_bytes: 2.5 TiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 79.48 Gbp
 data_pacbiohifi_fqgz-1_bytes: 65.8 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -87,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1689692633
-last_updated: 1714256507
+last_raw_data: 1717831789
+last_updated: 1717831789
 mito1date: 2024-01-05
 mito1filesize: 5.3 KiB
 mito1length: '17020'

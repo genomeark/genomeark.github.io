@@ -11,15 +11,15 @@ data_dovetail-1_scale: 1.8201
 data_dovetail_bases: 418.92 Gbp
 data_dovetail_bytes: 214.4 GiB
 data_dovetail_coverage: N/A
-data_pacbiohifi_bam-1_bases: 171.51 Gbp
-data_pacbiohifi_bam-1_bytes: 587.7 GiB
+data_pacbiohifi_bam-1_bases: 250.47 Gbp
+data_pacbiohifi_bam-1_bytes: 871.1 GiB
 data_pacbiohifi_bam-1_coverage: N/A
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Macrochelys_suwanniensis/rMacSuw1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Macrochelys_suwanniensis/rMacSuw1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Macrochelys_suwanniensis/rMacSuw1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2718
-data_pacbiohifi_bam_bases: 171.51 Gbp
-data_pacbiohifi_bam_bytes: 587.7 GiB
+data_pacbiohifi_bam-1_scale: 0.2678
+data_pacbiohifi_bam_bases: 250.47 Gbp
+data_pacbiohifi_bam_bytes: 871.1 GiB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_clr-1_bases: 1845.30 Gbp
 data_pacbiohifi_clr-1_bytes: 3.1 TiB
@@ -107,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1717256082
-last_updated: 1717256082
+last_raw_data: 1718305944
+last_updated: 1718305944
 mds:
 - data: species:&nbsp;Macrochelys&nbsp;suwanniensis<br>specimen:&nbsp;rMacSuw1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Macrochelys_suwanniensis/rMacSuw1/assembly_vgp_HiC_2.0/rMacSuw1.HiC.hap1.20230407.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Macrochelys_suwanniensis/rMacSuw1/assembly_vgp_HiC_2.0/rMacSuw1.HiC.hap2.20230407.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Macrochelys_suwanniensis/rMacSuw1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rMacSuw1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Macrochelys_suwanniensis/rMacSuw1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rMacSuw1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Macrochelys_suwanniensis/rMacSuw1/assembly_vgp_HiC_2.0/evaluation/merqury/rMacSuw1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Macrochelys_suwanniensis/rMacSuw1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Macrochelys_suwanniensis/rMacSuw1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rMacSuw1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.<br>
   ident: md8

@@ -169,6 +169,16 @@ data_illumina-9_scale: 1.9395
 data_illumina_bases: 375.43 Gbp
 data_illumina_bytes: 184.7 GiB
 data_illumina_coverage: 362.52x
+data_ont-7_bases: 115.22 Gbp
+data_ont-7_bytes: 107.1 GiB
+data_ont-7_coverage: 111.26x
+data_ont-7_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut7/genomic_data/ont/<br>
+data_ont-7_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut7/genomic_data/ont/
+data_ont-7_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut7/genomic_data/ont/
+data_ont-7_scale: 1.0022
+data_ont_bases: 115.22 Gbp
+data_ont_bytes: 107.1 GiB
+data_ont_coverage: 111.26x
 data_pacbio-1_bases: 109.72 Gbp
 data_pacbio-1_bytes: 392.7 GiB
 data_pacbio-1_coverage: 105.95x
@@ -200,9 +210,16 @@ data_pacbiohifi_bam-2_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_scale: 0.5831
-data_pacbiohifi_bam_bases: 47.60 Gbp
-data_pacbiohifi_bam_bytes: 76.0 GiB
-data_pacbiohifi_bam_coverage: 45.96x
+data_pacbiohifi_bam-7_bases: 417.97 Gbp
+data_pacbiohifi_bam-7_bytes: 1.4 TiB
+data_pacbiohifi_bam-7_coverage: 403.59x
+data_pacbiohifi_bam-7_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut7/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-7_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut7/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-7_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut7/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-7_scale: 0.2686
+data_pacbiohifi_bam_bases: 465.56 Gbp
+data_pacbiohifi_bam_bytes: 1.5 TiB
+data_pacbiohifi_bam_coverage: 449.55x
 data_pacbiohifi_clr-2_bases: 485.43 Gbp
 data_pacbiohifi_clr-2_bytes: 0.9 TiB
 data_pacbiohifi_clr-2_coverage: 468.74x
@@ -210,9 +227,16 @@ data_pacbiohifi_clr-2_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2
 data_pacbiohifi_clr-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
 data_pacbiohifi_clr-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/pacbio_hifi/
 data_pacbiohifi_clr-2_scale: 0.5004
-data_pacbiohifi_clr_bases: 485.43 Gbp
-data_pacbiohifi_clr_bytes: 0.9 TiB
-data_pacbiohifi_clr_coverage: 468.74x
+data_pacbiohifi_clr-7_bases: 2838.47 Gbp
+data_pacbiohifi_clr-7_bytes: 4.8 TiB
+data_pacbiohifi_clr-7_coverage: 2740.86x
+data_pacbiohifi_clr-7_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut7/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-7_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut7/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-7_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut7/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-7_scale: 0.5376
+data_pacbiohifi_clr_bases: 3323.89 Gbp
+data_pacbiohifi_clr_bytes: 5.7 TiB
+data_pacbiohifi_clr_coverage: 3209.59x
 data_pacbiohifi_fqgz-2_bases: 39.52 Gbp
 data_pacbiohifi_fqgz-2_bytes: 30.5 GiB
 data_pacbiohifi_fqgz-2_coverage: 38.16x
@@ -231,8 +255,8 @@ data_pacbiohifi_fqgz_bases: 174.60 Gbp
 data_pacbiohifi_fqgz_bytes: 133.1 GiB
 data_pacbiohifi_fqgz_coverage: 168.59x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
-  HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>
-  ::: <em style="color:forestgreen">Illumina</em>'
+  HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -302,8 +326,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_curated
-last_raw_data: 1680023158
-last_updated: 1715025799
+last_raw_data: 1718660410
+last_updated: 1718660410
 mat2date: 2022-05-27
 mat2filesize: 289.3 MiB
 mat2length: '1021085914'

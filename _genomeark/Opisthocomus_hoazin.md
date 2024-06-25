@@ -11,15 +11,15 @@ data_arima-1_scale: 1.9149
 data_arima_bases: 121.26 Gbp
 data_arima_bytes: 59.0 GiB
 data_arima_coverage: N/A
-data_pacbiohifi_bam-1_bases: 118.20 Gbp
-data_pacbiohifi_bam-1_bytes: 411.5 GiB
+data_pacbiohifi_bam-1_bases: 176.15 Gbp
+data_pacbiohifi_bam-1_bytes: 611.5 GiB
 data_pacbiohifi_bam-1_coverage: N/A
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Opisthocomus_hoazin/bOpiHoa1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Opisthocomus_hoazin/bOpiHoa1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2675
-data_pacbiohifi_bam_bases: 118.20 Gbp
-data_pacbiohifi_bam_bytes: 411.5 GiB
+data_pacbiohifi_bam-1_scale: 0.2683
+data_pacbiohifi_bam_bases: 176.15 Gbp
+data_pacbiohifi_bam_bytes: 611.5 GiB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_clr-1_bases: 1145.38 Gbp
 data_pacbiohifi_clr-1_bytes: 1.9 TiB
@@ -107,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1717084822
-last_updated: 1717084822
+last_raw_data: 1718312315
+last_updated: 1718312315
 mds:
 - data: species:&nbsp;Opisthocomus&nbsp;hoazin<br>specimen:&nbsp;bOpiHoa1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/bOpiHoa1.HiC.hap1.20230227.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/bOpiHoa1.HiC.hap2.20230227.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bOpiHoa1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bOpiHoa1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/assembly_vgp_HiC_2.0/evaluation/merqury/bOpiHoa1_png/<br>mito:&nbsp;s3://genomeark/working/temp_mitos/bOpiHoa1_mitohifi_final.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Opisthocomus_hoazin/bOpiHoa1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bOpiHoa1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;heterogametic&nbsp;specimen,&nbsp;so&nbsp;we&nbsp;are&nbsp;submitting&nbsp;both&nbsp;haplotypes&nbsp;as&nbsp;tickets,&nbsp;in&nbsp;case&nbsp;the&nbsp;sex&nbsp;chromosomes&nbsp;need&nbsp;to&nbsp;be&nbsp;fished&nbsp;out&nbsp;between&nbsp;the&nbsp;haplotypes.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;MitoHiFi&nbsp;was&nbsp;run&nbsp;on&nbsp;the&nbsp;raw&nbsp;reads,&nbsp;and&nbsp;the&nbsp;resulting&nbsp;mitogenome&nbsp;is&nbsp;included&nbsp;in&nbsp;this&nbsp;ticket&nbsp;for&nbsp;help&nbsp;with&nbsp;mitochondrial&nbsp;decontam,&nbsp;but&nbsp;the&nbsp;final&nbsp;mitogenome&nbsp;we&nbsp;upload&nbsp;may&nbsp;differ&nbsp;as&nbsp;we&nbsp;want&nbsp;to&nbsp;verify&nbsp;the&nbsp;presence&nbsp;of&nbsp;a&nbsp;large&nbsp;repeat&nbsp;in&nbsp;the&nbsp;mito&nbsp;assembly.
   ident: md9

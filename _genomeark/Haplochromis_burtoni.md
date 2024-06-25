@@ -18,6 +18,26 @@ data_arima-2_scale: 1.8710
 data_arima_bases: 158.68 Gbp
 data_arima_bytes: 76.6 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-2_bases: 118.30 Gbp
+data_pacbiohifi_bam-2_bytes: 424.9 GiB
+data_pacbiohifi_bam-2_coverage: N/A
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Haplochromis_burtoni/fHapBur2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Haplochromis_burtoni/fHapBur2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Haplochromis_burtoni/fHapBur2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 0.2593
+data_pacbiohifi_bam_bases: 118.30 Gbp
+data_pacbiohifi_bam_bytes: 424.9 GiB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_clr-2_bases: 964.31 Gbp
+data_pacbiohifi_clr-2_bytes: 1.6 TiB
+data_pacbiohifi_clr-2_coverage: N/A
+data_pacbiohifi_clr-2_links: s3://genomeark/species/Haplochromis_burtoni/fHapBur2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Haplochromis_burtoni/fHapBur2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Haplochromis_burtoni/fHapBur2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_scale: 0.5336
+data_pacbiohifi_clr_bases: 964.31 Gbp
+data_pacbiohifi_clr_bytes: 1.6 TiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 36.33 Gbp
 data_pacbiohifi_fqgz-1_bytes: 25.2 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -159,8 +179,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_vgp_HiC_2.0
-last_raw_data: 1684347101
-last_updated: 1704492958
+last_raw_data: 1718058593
+last_updated: 1718058593
 mds:
 - data: species:&nbsp;Haplochromis&nbsp;burtoni<br>specimen:&nbsp;fHapBur1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Haplochromis_burtoni/fHapBur1/assembly_vgp_HiC_2.0/fHapBur1.HiC.hap1.20230617.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Haplochromis_burtoni/fHapBur1/assembly_vgp_HiC_2.0/fHapBur1.HiC.hap2.20230617.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Haplochromis_burtoni/fHapBur1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fHapBur1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Haplochromis_burtoni/fHapBur1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fHapBur1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Haplochromis_burtoni/fHapBur1/assembly_vgp_HiC_2.0/evaluation/merqury/fHapBur1_png/<br>mito:&nbsp;s3://genomeark/species/Haplochromis_burtoni/fHapBur1/assembly_MT_rockefeller/fHapBur1.MT.20230617.fasta.gz<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fHapBur1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;have&nbsp;not&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.
   ident: md3

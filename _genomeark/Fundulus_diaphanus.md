@@ -21,6 +21,26 @@ data_bionano-1_scale: 548.4036
 data_bionano_bases: N/A
 data_bionano_bytes: 1.6 GiB
 data_bionano_coverage: 613.16x
+data_pacbiohifi_bam-1_bases: 149.17 Gbp
+data_pacbiohifi_bam-1_bytes: 503.7 GiB
+data_pacbiohifi_bam-1_coverage: 98.46x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Fundulus_diaphanus/fFunDia1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2758
+data_pacbiohifi_bam_bases: 149.17 Gbp
+data_pacbiohifi_bam_bytes: 503.7 GiB
+data_pacbiohifi_bam_coverage: 98.46x
+data_pacbiohifi_clr-1_bases: 1074.39 Gbp
+data_pacbiohifi_clr-1_bytes: 1.8 TiB
+data_pacbiohifi_clr-1_coverage: 709.17x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Fundulus_diaphanus/fFunDia1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5365
+data_pacbiohifi_clr_bases: 1074.39 Gbp
+data_pacbiohifi_clr_bytes: 1.8 TiB
+data_pacbiohifi_clr_coverage: 709.17x
 data_pacbiohifi_fqgz-1_bases: 48.47 Gbp
 data_pacbiohifi_fqgz-1_bytes: 32.9 GiB
 data_pacbiohifi_fqgz-1_coverage: 31.99x
@@ -97,8 +117,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1683664264
-last_updated: 1706280917
+last_raw_data: 1717772311
+last_updated: 1717772311
 mds:
 - data: species:&nbsp;Fundulus&nbsp;diaphanus<br>specimen:&nbsp;fFunDia1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/fFunDia1.HiC.hap1.20230523.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/fFunDia1.HiC.hap2.20230523.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fFunDia1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fFunDia1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_vgp_HiC_2.0/evaluation/merqury/fFunDia1_png/<br>mito:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/assembly_MT_rockefeller/fFunDia1.MT.20230509.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Fundulus_diaphanus/fFunDia1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fFunDia1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicate&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;
   ident: md9

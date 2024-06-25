@@ -11,15 +11,15 @@ data_arima-1_scale: 1.8573
 data_arima_bases: 76.71 Gbp
 data_arima_bytes: 38.5 GiB
 data_arima_coverage: N/A
-data_pacbiohifi_bam-1_bases: 178.41 Gbp
-data_pacbiohifi_bam-1_bytes: 614.9 GiB
+data_pacbiohifi_bam-1_bases: 220.56 Gbp
+data_pacbiohifi_bam-1_bytes: 761.6 GiB
 data_pacbiohifi_bam-1_coverage: N/A
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Agelaius_phoeniceus/bAgePho1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Agelaius_phoeniceus/bAgePho1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Agelaius_phoeniceus/bAgePho1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2702
-data_pacbiohifi_bam_bases: 178.41 Gbp
-data_pacbiohifi_bam_bytes: 614.9 GiB
+data_pacbiohifi_bam-1_scale: 0.2697
+data_pacbiohifi_bam_bases: 220.56 Gbp
+data_pacbiohifi_bam_bytes: 761.6 GiB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_clr-1_bases: 1538.85 Gbp
 data_pacbiohifi_clr-1_bytes: 2.6 TiB
@@ -107,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
-last_raw_data: 1717257637
-last_updated: 1717257637
+last_raw_data: 1718386356
+last_updated: 1718386356
 mds:
 - data: species:&nbsp;Agelaius&nbsp;phoeniceus<br>specimen:&nbsp;bAgePho1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Agelaius_phoeniceus/bAgePho1/assembly_vgp_HiC_2.0/bAgePho1.HiC.hap1.20240528.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Agelaius_phoeniceus/bAgePho1/assembly_vgp_HiC_2.0/bAgePho1.HiC.hap2.20240528.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Agelaius_phoeniceus/bAgePho1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bAgePho1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Agelaius_phoeniceus/bAgePho1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bAgePho1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Agelaius_phoeniceus/bAgePho1/assembly_vgp_HiC_2.0/evaluation/merqury/bAgePho1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Agelaius_phoeniceus/bAgePho1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Agelaius_phoeniceus/bAgePho1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Agelaius_phoeniceus/bAgePho1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Agelaius_phoeniceus/bAgePho1/assembly_MT_rockefeller/bAgePho1.MT.20240530.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bAgePho1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;sample&nbsp;had&nbsp;Bionano.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT&nbsp;library&nbsp;prep.&nbsp;
   ident: md3

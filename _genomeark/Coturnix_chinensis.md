@@ -11,6 +11,26 @@ data_arima-1_scale: 1.9067
 data_arima_bases: 120.36 Gbp
 data_arima_bytes: 58.8 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 156.81 Gbp
+data_pacbiohifi_bam-1_bytes: 557.8 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Coturnix_chinensis/bCotChi1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Coturnix_chinensis/bCotChi1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Coturnix_chinensis/bCotChi1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2618
+data_pacbiohifi_bam_bases: 156.81 Gbp
+data_pacbiohifi_bam_bytes: 557.8 GiB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_clr-1_bases: 1145.70 Gbp
+data_pacbiohifi_clr-1_bytes: 2.0 TiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Coturnix_chinensis/bCotChi1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Coturnix_chinensis/bCotChi1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Coturnix_chinensis/bCotChi1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5328
+data_pacbiohifi_clr_bases: 1145.70 Gbp
+data_pacbiohifi_clr_bytes: 2.0 TiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 50.67 Gbp
 data_pacbiohifi_fqgz-1_bytes: 41.9 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -87,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1684343908
-last_updated: 1713978613
+last_raw_data: 1717787252
+last_updated: 1717787252
 mds:
 - data: species:&nbsp;Coturnix&nbsp;chinensis<br>specimen:&nbsp;bCotChi1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/bCotChi1.HiC.hap1.20231003.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/bCotChi1.HiC.hap2.20231003.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bCotChi1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bCotChi1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Coturnix_chinensis/bCotChi1/assembly_vgp_HiC_2.0/evaluation/merqury/bCotChi1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Coturnix_chinensis/bCotChi1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Coturnix_chinensis/bCotChi1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bCotChi1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima.&nbsp;&nbsp;<br><br>
   ident: md5

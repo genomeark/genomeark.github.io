@@ -11,15 +11,15 @@ data_arima-1_scale: 1.9316
 data_arima_bases: 106.56 Gbp
 data_arima_bytes: 51.4 GiB
 data_arima_coverage: N/A
-data_pacbiohifi_bam-1_bases: 92.80 Gbp
-data_pacbiohifi_bam-1_bytes: 309.2 GiB
+data_pacbiohifi_bam-1_bases: 136.75 Gbp
+data_pacbiohifi_bam-1_bytes: 457.0 GiB
 data_pacbiohifi_bam-1_coverage: N/A
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Trichomycterus_rosablanca/fTriRos1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trichomycterus_rosablanca/fTriRos1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2795
-data_pacbiohifi_bam_bases: 92.80 Gbp
-data_pacbiohifi_bam_bytes: 309.2 GiB
+data_pacbiohifi_bam-1_scale: 0.2787
+data_pacbiohifi_bam_bases: 136.75 Gbp
+data_pacbiohifi_bam_bytes: 457.0 GiB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_clr-1_bases: 1364.87 Gbp
 data_pacbiohifi_clr-1_bytes: 2.3 TiB
@@ -108,8 +108,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
-last_raw_data: 1716950220
-last_updated: 1716950220
+last_raw_data: 1718286520
+last_updated: 1718286520
 mds:
 - data: species:&nbsp;Trichomycterus&nbsp;rosablanca<br>specimen:&nbsp;fTriRos1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/fTriRos1.HiC.hap1.20221115.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/fTriRos1.HiC.hap2.20221115.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fTriRos1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fTriRos1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/assembly_vgp_HiC_2.0/evaluation/fTriRos1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Trichomycterus_rosablanca/fTriRos1/genomic_data/arima/<br>hic_kit:&nbsp;Arima2<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fTriRos1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YAHS.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;hap1&nbsp;for&nbsp;curation.
   ident: md5

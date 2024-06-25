@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 413.26 Gbp
 data_arima-1_bytes: 207.2 GiB
@@ -39,12 +39,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2024-03-27
-hpa1filesize: 376.3 MiB
-hpa1length: '1357671406'
-hpa1n50ctg: 32971816
-hpa1n50scf: 77132291
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Struthio_camelus/bStrCam1/assembly_vgp_HiC_2.0/bStrCam1.HiC.hap1.20240327.fasta.gz
+hpa1date: 2024-06-15
+hpa1filesize: 402.6 MiB
+hpa1length: '1453172632'
+hpa1n50ctg: 28829471
+hpa1n50scf: 84633522
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Struthio_camelus_australis/bStrCam1/assembly_curated/bStrCam1.hap1.cur.20240615.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -62,18 +62,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 84.05 Mbp </td><td> 1 </td><td> 225.57 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 69.94 Mbp </td><td> 2 </td><td> 171.42 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 54.04 Mbp </td><td> 3 </td><td> 141.44 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 40.65 Mbp </td><td> 4 </td><td> 87.72 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 32.97 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 77.13 Mbp </td></tr><tr><td> 60 </td><td> 17 </td><td> 22.62 Mbp </td><td> 7 </td><td> 47.52 Mbp </td></tr><tr><td> 70 </td><td> 25 </td><td> 13.01 Mbp </td><td> 11 </td><td> 30.51 Mbp </td></tr><tr><td> 80 </td><td> 37 </td><td> 9.25 Mbp </td><td> 16 </td><td> 23.02 Mbp </td></tr><tr><td> 90 </td><td> 57 </td><td> 4.81 Mbp </td><td> 25 </td><td> 9.09 Mbp </td></tr><tr><td> 100 </td><td> 400 </td><td> 12.52 Kbp </td><td> 330 </td><td> 12.52 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 84.05 Mbp </td><td> 1 </td><td> 225.57 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 61.97 Mbp </td><td> 2 </td><td> 173.67 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 54.04 Mbp </td><td> 3 </td><td> 148.28 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 35.43 Mbp </td><td> 4 </td><td> 89.93 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 14 </td><td style="background-color:#88ff88;"> 28.83 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 84.63 Mbp </td></tr><tr><td> 60 </td><td> 20 </td><td> 22.60 Mbp </td><td> 7 </td><td> 70.39 Mbp </td></tr><tr><td> 70 </td><td> 27 </td><td> 15.30 Mbp </td><td> 11 </td><td> 34.55 Mbp </td></tr><tr><td> 80 </td><td> 41 </td><td> 9.25 Mbp </td><td> 16 </td><td> 25.22 Mbp </td></tr><tr><td> 90 </td><td> 62 </td><td> 4.72 Mbp </td><td> 23 </td><td> 14.16 Mbp </td></tr><tr><td> 100 </td><td> 410 </td><td> 12.52 Kbp </td><td> 294 </td><td> 12.52 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 400 </th><th> 1.36 Gbp </th><th> 330 </th><th> 1.36 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 410 </th><th> 1.45 Gbp </th><th> 294 </th><th> 1.45 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2024-03-27
-hpb1filesize: 399.7 MiB
-hpb1length: '1479251728'
-hpb1n50ctg: 26872791
-hpb1n50scf: 75519581
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Struthio_camelus/bStrCam1/assembly_vgp_HiC_2.0/bStrCam1.HiC.hap2.20240327.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2024-06-15
+hpb1filesize: 373.3 MiB
+hpb1length: '1383323319'
+hpb1n50ctg: 28538747
+hpb1n50scf: 74711726
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Struthio_camelus_australis/bStrCam1/assembly_curated/bStrCam1.hap2.cur.20240615.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -91,14 +91,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 83.22 Mbp </td><td> 1 </td><td> 224.66 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 60.65 Mbp </td><td> 2 </td><td> 169.50 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 36.77 Mbp </td><td> 3 </td><td> 145.08 Mbp </td></tr><tr><td> 40 </td><td> 12 </td><td> 29.66 Mbp </td><td> 4 </td><td> 89.61 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 17 </td><td style="background-color:#88ff88;"> 26.87 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 75.52 Mbp </td></tr><tr><td> 60 </td><td> 23 </td><td> 22.48 Mbp </td><td> 9 </td><td> 39.89 Mbp </td></tr><tr><td> 70 </td><td> 31 </td><td> 15.51 Mbp </td><td> 13 </td><td> 28.69 Mbp </td></tr><tr><td> 80 </td><td> 44 </td><td> 8.40 Mbp </td><td> 19 </td><td> 19.00 Mbp </td></tr><tr><td> 90 </td><td> 69 </td><td> 3.89 Mbp </td><td> 32 </td><td> 6.38 Mbp </td></tr><tr><td> 100 </td><td> 351 </td><td> 17.94 Kbp </td><td> 278 </td><td> 17.94 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 83.22 Mbp </td><td> 1 </td><td> 224.66 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 60.65 Mbp </td><td> 2 </td><td> 171.62 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 36.77 Mbp </td><td> 3 </td><td> 145.08 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 31.45 Mbp </td><td> 4 </td><td> 86.63 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 15 </td><td style="background-color:#88ff88;"> 28.54 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 74.71 Mbp </td></tr><tr><td> 60 </td><td> 21 </td><td> 22.48 Mbp </td><td> 8 </td><td> 39.89 Mbp </td></tr><tr><td> 70 </td><td> 28 </td><td> 15.51 Mbp </td><td> 13 </td><td> 28.69 Mbp </td></tr><tr><td> 80 </td><td> 41 </td><td> 8.28 Mbp </td><td> 18 </td><td> 21.32 Mbp </td></tr><tr><td> 90 </td><td> 64 </td><td> 3.89 Mbp </td><td> 29 </td><td> 7.84 Mbp </td></tr><tr><td> 100 </td><td> 340 </td><td> 17.94 Kbp </td><td> 258 </td><td> 17.94 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 351 </th><th> 1.48 Gbp </th><th> 278 </th><th> 1.48 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 340 </th><th> 1.38 Gbp </th><th> 258 </th><th> 1.38 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1713363520
-last_updated: 1713363520
+last_updated: 1718410289
 mds:
 - data: species:&nbsp;Struthio&nbsp;camelus<br>specimen:&nbsp;bStrCam1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Struthio_camelus/bStrCam1/assembly_vgp_HiC_2.0/bStrCam1.HiC.hap1.20240327.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Struthio_camelus/bStrCam1/assembly_vgp_HiC_2.0/bStrCam1.HiC.hap2.20240327.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Struthio_camelus/bStrCam1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bStrCam1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Struthio_camelus/bStrCam1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bStrCam1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Struthio_camelus/bStrCam1/assembly_vgp_HiC_2.0/evaluation/merqury/bStrCam1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Struthio_camelus/bStrCam1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Struthio_camelus/bStrCam1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Struthio_camelus/bStrCam1/assembly_MT_rockefeller/bStrCam1.MT.20240328.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bStrCam1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;<br>
   ident: md3

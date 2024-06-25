@@ -11,15 +11,15 @@ data_dovetail-1_scale: 1.6707
 data_dovetail_bases: 143.32 Gbp
 data_dovetail_bytes: 79.9 GiB
 data_dovetail_coverage: N/A
-data_pacbiohifi_bam-1_bases: 208.42 Gbp
-data_pacbiohifi_bam-1_bytes: 718.7 GiB
+data_pacbiohifi_bam-1_bases: 300.36 Gbp
+data_pacbiohifi_bam-1_bytes: 1.0 TiB
 data_pacbiohifi_bam-1_coverage: N/A
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Tapirus_indicus/mTapInd1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tapirus_indicus/mTapInd1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tapirus_indicus/mTapInd1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2701
-data_pacbiohifi_bam_bases: 208.42 Gbp
-data_pacbiohifi_bam_bytes: 718.7 GiB
+data_pacbiohifi_bam-1_scale: 0.2689
+data_pacbiohifi_bam_bases: 300.36 Gbp
+data_pacbiohifi_bam_bytes: 1.0 TiB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_clr-1_bases: 2090.76 Gbp
 data_pacbiohifi_clr-1_bytes: 3.6 TiB
@@ -107,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1717264340
-last_updated: 1717264340
+last_raw_data: 1718374696
+last_updated: 1718374696
 mds:
 - data: species:&nbsp;Tapirus&nbsp;indicus<br>specimen:&nbsp;mTapInd1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Tapirus_indicus/mTapInd1/assembly_vgp_HiC_2.0/mTapInd1.HiC.hap1.20230427.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Tapirus_indicus/mTapInd1/assembly_vgp_HiC_2.0/mTapInd1.HiC.hap2.20230427.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Tapirus_indicus/mTapInd1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mTapInd1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Tapirus_indicus/mTapInd1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mTapInd1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Tapirus_indicus/mTapInd1/assembly_vgp_HiC_2.0/evaluation/merqury/mTapInd1_png/<br>mito:&nbsp;s3://genomeark/species/Tapirus_indicus/mTapInd1/assembly_MT_rockefeller/mTapInd1.MT.20230512.fasta.gz<br>mito_gb:&nbsp;s3://genomeark/species/Tapirus_indicus/mTapInd1/assembly_MT_rockefeller/mTapInd1.MT.20230512.gb<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Tapirus_indicus/mTapInd1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Tapirus_indicus/mTapInd1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mTapInd1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;TThe&nbsp;kmer&nbsp;spectra&nbsp;indicate&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;
   ident: md9

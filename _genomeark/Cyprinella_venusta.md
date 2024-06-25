@@ -11,6 +11,26 @@ data_arima-1_scale: 1.7821
 data_arima_bases: 68.46 Gbp
 data_arima_bytes: 35.8 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 151.64 Gbp
+data_pacbiohifi_bam-1_bytes: 505.5 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Cyprinella_venusta/fCypVen1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cyprinella_venusta/fCypVen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyprinella_venusta/fCypVen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2794
+data_pacbiohifi_bam_bases: 151.64 Gbp
+data_pacbiohifi_bam_bytes: 505.5 GiB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_clr-1_bases: 1300.09 Gbp
+data_pacbiohifi_clr-1_bytes: 2.2 TiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Cyprinella_venusta/fCypVen1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cyprinella_venusta/fCypVen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyprinella_venusta/fCypVen1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5331
+data_pacbiohifi_clr_bases: 1300.09 Gbp
+data_pacbiohifi_clr_bytes: 2.2 TiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 48.59 Gbp
 data_pacbiohifi_fqgz-1_bytes: 29.9 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -87,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1685047674
-last_updated: 1711045097
+last_raw_data: 1718251953
+last_updated: 1718251953
 mds:
 - data: species:&nbsp;Cyprinella&nbsp;venusta<br>specimen:&nbsp;fCypVen1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/fCypVen1.HiC.hap1.20230613.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/fCypVen1.HiC.hap2.20230613.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fCypVen1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fCypVen1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_vgp_HiC_2.0/evaluation/purge_dups/merqury/fCypVen1_png/<br>mito:&nbsp;s3://genomeark/species/Cyprinella_venusta/fCypVen1/assembly_MT_rockefeller/fCypVen1.MT.20230617.fasta.gz<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.6+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fCypVen1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;have&nbsp;not&nbsp;bionano&nbsp;data.&nbsp;The&nbsp;hap1&nbsp;and&nbsp;hap2&nbsp;assemblies&nbsp;were&nbsp;purged&nbsp;with&nbsp;the&nbsp;purge_dups&nbsp;piepeline.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.
   ident: md5

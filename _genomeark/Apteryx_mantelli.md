@@ -11,6 +11,26 @@ data_arima-1_scale: 1.9824
 data_arima_bases: 147.41 Gbp
 data_arima_bytes: 69.3 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 233.47 Gbp
+data_pacbiohifi_bam-1_bytes: 821.4 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Apteryx_mantelli/bAptMan1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Apteryx_mantelli/bAptMan1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Apteryx_mantelli/bAptMan1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2647
+data_pacbiohifi_bam_bases: 233.47 Gbp
+data_pacbiohifi_bam_bytes: 821.4 GiB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_clr-1_bases: 1600.87 Gbp
+data_pacbiohifi_clr-1_bytes: 2.7 TiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Apteryx_mantelli/bAptMan1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Apteryx_mantelli/bAptMan1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Apteryx_mantelli/bAptMan1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5348
+data_pacbiohifi_clr_bases: 1600.87 Gbp
+data_pacbiohifi_clr_bytes: 2.7 TiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 75.73 Gbp
 data_pacbiohifi_fqgz-1_bytes: 63.1 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -87,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1683666328
-last_updated: 1696378391
+last_raw_data: 1718244024
+last_updated: 1718244024
 mds:
 - data: species:&nbsp;Apteryx&nbsp;mantelli<br>specimen:&nbsp;bAptMan1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Apteryx_mantelli/bAptMan1/assembly_vgp_HiC_2.0/bAptMan1.HiC.hap1.20230808.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Apteryx_mantelli/bAptMan1/assembly_vgp_HiC_2.0/bAptMan1.HiC.hap2.20230808.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Apteryx_mantelli/bAptMan1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bAptMan1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Apteryx_mantelli/bAptMan1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bAptMan1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Apteryx_mantelli/bAptMan1/assembly_vgp_HiC_2.0/evaluation/merqury/bAptMan1_png/<br>mito:&nbsp;s3://genomeark/species/Apteryx_mantelli/bAptMan1/assembly_MT_rockefeller/bAptMan1.MT.20230808.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Apteryx_mantelli/bAptMan1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Apteryx_mantelli/bAptMan1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bAptMan1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;The&nbsp;provider&nbsp;did&nbsp;not&nbsp;give&nbsp;sex&nbsp;metadata,&nbsp;but&nbsp;the&nbsp;kmer&nbsp;spectra&nbsp;seem&nbsp;to&nbsp;support&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;This&nbsp;is&nbsp;a&nbsp;phase&nbsp;1&nbsp;species.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;both&nbsp;haplotypes&nbsp;for&nbsp;dual&nbsp;curation,&nbsp;and&nbsp;this&nbsp;is&nbsp;the&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;
   ident: md9

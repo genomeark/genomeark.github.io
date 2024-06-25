@@ -82,12 +82,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_vgp_HiC_2.0
-hpa2date: 2024-04-11
-hpa2filesize: 134.0 MiB
-hpa2length: '470325351'
+hpa2date: 2024-06-18
+hpa2filesize: 133.6 MiB
+hpa2length: '468418021'
 hpa2n50ctg: 2658278
-hpa2n50scf: 21446945
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Branchiostoma_lanceolatum/klBraLanc2/assembly_cambridge/klBraLanc2.hap1.asm.20240411.fasta.gz
+hpa2n50scf: 21351442
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Branchiostoma_lanceolatum/klBraLanc2/assembly_curated/klBraLanc2.hap1.cur.20240618.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -105,12 +105,12 @@ hpa2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 7 </td><td> 7.89 Mbp </td><td> 2 </td><td> 40.94 Mbp </td></tr><tr><td> 20 </td><td> 15 </td><td> 6.26 Mbp </td><td> 3 </td><td> 34.91 Mbp </td></tr><tr><td> 30 </td><td> 26 </td><td> 4.21 Mbp </td><td> 5 </td><td> 27.24 Mbp </td></tr><tr><td> 40 </td><td> 41 </td><td> 3.35 Mbp </td><td> 8 </td><td> 24.11 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 61 </td><td style="background-color:#88ff88;"> 2.66 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 21.45 Mbp </td></tr><tr><td> 60 </td><td> 84 </td><td> 2.24 Mbp </td><td> 13 </td><td> 20.16 Mbp </td></tr><tr><td> 70 </td><td> 116 </td><td> 1.46 Mbp </td><td> 16 </td><td> 17.47 Mbp </td></tr><tr><td> 80 </td><td> 193 </td><td> 225.66 Kbp </td><td> 19 </td><td> 15.67 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 7 </td><td> 7.89 Mbp </td><td> 2 </td><td> 40.94 Mbp </td></tr><tr><td> 20 </td><td> 15 </td><td> 6.26 Mbp </td><td> 3 </td><td> 34.89 Mbp </td></tr><tr><td> 30 </td><td> 26 </td><td> 4.21 Mbp </td><td> 5 </td><td> 27.24 Mbp </td></tr><tr><td> 40 </td><td> 42 </td><td> 3.27 Mbp </td><td> 8 </td><td> 24.11 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 61 </td><td style="background-color:#88ff88;"> 2.66 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 21.35 Mbp </td></tr><tr><td> 60 </td><td> 85 </td><td> 2.19 Mbp </td><td> 13 </td><td> 20.22 Mbp </td></tr><tr><td> 70 </td><td> 117 </td><td> 1.46 Mbp </td><td> 16 </td><td> 17.47 Mbp </td></tr><tr><td> 80 </td><td> 197 </td><td> 197.70 Kbp </td><td> 19 </td><td> 15.82 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.815x </th><th> 351 </th><th> 470.29 Mbp </th><th> 160 </th><th> 470.33 Mbp </th></tr>
+  <tr><th> 0.812x </th><th> 333 </th><th> 468.38 Mbp </th><th> 122 </th><th> 468.42 Mbp </th></tr>
   </tfoot>
   </table>
-hpa2version: assembly_cambridge
+hpa2version: assembly_curated
 hpa5date: 2023-06-20
 hpa5filesize: 130.2 MiB
 hpa5length: '455264465'
@@ -169,12 +169,12 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
-hpb2date: 2024-04-11
-hpb2filesize: 132.9 MiB
-hpb2length: '464125095'
+hpb2date: 2024-06-18
+hpb2filesize: 133.3 MiB
+hpb2length: '465808481'
 hpb2n50ctg: 2924152
 hpb2n50scf: 20696790
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Branchiostoma_lanceolatum/klBraLanc2/assembly_cambridge/klBraLanc2.hap2.asm.20240411.fasta.gz
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Branchiostoma_lanceolatum/klBraLanc2/assembly_curated/klBraLanc2.hap2.cur.20240618.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -192,12 +192,12 @@ hpb2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 8 </td><td> 6.83 Mbp </td><td> 2 </td><td> 40.96 Mbp </td></tr><tr><td> 20 </td><td> 17 </td><td> 5.24 Mbp </td><td> 3 </td><td> 33.84 Mbp </td></tr><tr><td> 30 </td><td> 30 </td><td> 4.40 Mbp </td><td> 5 </td><td> 27.13 Mbp </td></tr><tr><td> 40 </td><td> 44 </td><td> 3.63 Mbp </td><td> 8 </td><td> 23.57 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 62 </td><td style="background-color:#88ff88;"> 2.92 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 20.70 Mbp </td></tr><tr><td> 60 </td><td> 84 </td><td> 2.25 Mbp </td><td> 13 </td><td> 19.87 Mbp </td></tr><tr><td> 70 </td><td> 118 </td><td> 1.25 Mbp </td><td> 16 </td><td> 18.17 Mbp </td></tr><tr><td> 80 </td><td> 209 </td><td> 96.03 Kbp </td><td> 23 </td><td> 144.64 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 8 </td><td> 6.83 Mbp </td><td> 2 </td><td> 40.96 Mbp </td></tr><tr><td> 20 </td><td> 17 </td><td> 5.24 Mbp </td><td> 3 </td><td> 33.84 Mbp </td></tr><tr><td> 30 </td><td> 30 </td><td> 4.40 Mbp </td><td> 5 </td><td> 27.13 Mbp </td></tr><tr><td> 40 </td><td> 44 </td><td> 3.63 Mbp </td><td> 8 </td><td> 23.57 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 62 </td><td style="background-color:#88ff88;"> 2.92 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 20.70 Mbp </td></tr><tr><td> 60 </td><td> 84 </td><td> 2.25 Mbp </td><td> 13 </td><td> 19.87 Mbp </td></tr><tr><td> 70 </td><td> 118 </td><td> 1.25 Mbp </td><td> 16 </td><td> 18.17 Mbp </td></tr><tr><td> 80 </td><td> 206 </td><td> 144.64 Kbp </td><td> 23 </td><td> 246.99 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.804x </th><th> 269 </th><th> 464.09 Mbp </th><th> 81 </th><th> 464.13 Mbp </th></tr>
+  <tr><th> 0.807x </th><th> 288 </th><th> 465.77 Mbp </th><th> 100 </th><th> 465.81 Mbp </th></tr>
   </tfoot>
   </table>
-hpb2version: assembly_cambridge
+hpb2version: assembly_curated
 hpb5date: 2023-06-20
 hpb5filesize: 120.3 MiB
 hpb5length: '458287516'
@@ -228,13 +228,13 @@ hpb5sizes: |
   </table>
 hpb5version: assembly_curated
 last_raw_data: 1687315206
-last_updated: 1713192382
+last_updated: 1718668933
 mds:
 - data: species:&nbsp;Branchiostoma&nbsp;lanceolatum<br>specimen:&nbsp;klBraLanc5<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap1.20230620.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap2.20230620.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/klBraLanc5_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/klBraLanc5_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/merqury/klBraLanc5_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;klBraLanc5,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;<br>
-  ident: md11
+  ident: md17
   title: assembly_vgp_HiC_2.0/klBraLanc5_hap1.yml
 - data: species:&nbsp;Branchiostoma&nbsp;lanceolatum<br>specimen:&nbsp;klBraLanc5<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap1.20230620.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/klBraLanc5.HiC.hap2.20230620.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/klBraLanc5_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/klBraLanc5_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/assembly_vgp_HiC_2.0/evaluation/merqury/klBraLanc5_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Branchiostoma_lanceolatum/klBraLanc5/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;klBraLanc5,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;<br>
-  ident: md12
+  ident: md18
   title: assembly_vgp_HiC_2.0/klBraLanc5_hap2.yml
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;klBraLanc<br>&nbsp;&nbsp;name:&nbsp;Branchiostoma&nbsp;lanceolatum<br>&nbsp;&nbsp;taxon_id:&nbsp;7740<br>&nbsp;&nbsp;common_name:&nbsp;amphioxus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Amphioxiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Branchiostomatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;klBraLanc2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111562176<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;577020000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2024-04-11

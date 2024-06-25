@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2787300000
 genome_size_display: 2.79 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-05-30
+hpa1date: 2024-06-18
 hpa1filesize: 697.1 MiB
 hpa1length: '2411727275'
 hpa1n50ctg: 1723663
 hpa1n50scf: 139112507
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Vulpes_vulpes/mVulVul1/assembly_curated/mVulVul1.hap1.cur.20240530.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Vulpes_vulpes/mVulVul1/assembly_curated/mVulVul1.hap1.cur.20240618.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -58,12 +58,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2024-05-30
+hpb1date: 2024-06-18
 hpb1filesize: 692.7 MiB
 hpb1length: '2398532178'
 hpb1n50ctg: 1736829
 hpb1n50scf: 137608370
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Vulpes_vulpes/mVulVul1/assembly_curated/mVulVul1.hap2.cur.20240530.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Vulpes_vulpes/mVulVul1/assembly_curated/mVulVul1.hap2.cur.20240618.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1712310426
-last_updated: 1717081498
+last_updated: 1718668954
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mVulVul<br>&nbsp;&nbsp;name:&nbsp;Vulpes&nbsp;vulpes<br>&nbsp;&nbsp;taxon_id:&nbsp;9627<br>&nbsp;&nbsp;common_name:&nbsp;red&nbsp;fox<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carnivora<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Canidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mVulVul1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113398840<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;2787300000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-04-04
 mito1filesize: 5.0 KiB

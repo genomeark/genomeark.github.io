@@ -28,15 +28,15 @@ data_illumina-3_scale: 1.9258
 data_illumina_bases: 178.49 Gbp
 data_illumina_bytes: 85.6 GiB
 data_illumina_coverage: N/A
-data_pacbiohifi_bam-1_bases: 225.41 Gbp
-data_pacbiohifi_bam-1_bytes: 779.2 GiB
+data_pacbiohifi_bam-1_bases: 301.21 Gbp
+data_pacbiohifi_bam-1_bytes: 1.0 TiB
 data_pacbiohifi_bam-1_coverage: N/A
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Camelus_dromedarius/mCamDro1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Camelus_dromedarius/mCamDro1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Camelus_dromedarius/mCamDro1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2694
-data_pacbiohifi_bam_bases: 225.41 Gbp
-data_pacbiohifi_bam_bytes: 779.2 GiB
+data_pacbiohifi_bam-1_scale: 0.2655
+data_pacbiohifi_bam_bases: 301.21 Gbp
+data_pacbiohifi_bam_bytes: 1.0 TiB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_clr-1_bases: 2021.44 Gbp
 data_pacbiohifi_clr-1_bytes: 3.4 TiB
@@ -125,8 +125,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1717426352
-last_updated: 1717426352
+last_raw_data: 1718374641
+last_updated: 1718374641
 name: Camelus dromedarius
 name_: Camelus_dromedarius
 project: ~

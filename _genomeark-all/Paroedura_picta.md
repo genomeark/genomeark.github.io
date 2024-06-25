@@ -1,0 +1,1 @@
+../_genomeark/Paroedura_picta.md
