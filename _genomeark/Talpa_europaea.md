@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: European mole
 data_arima-1_bases: 481.28 Gbp
 data_arima-1_bytes: 132.7 GiB
@@ -58,12 +58,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2445000000
 genome_size_display: 2.45 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-04-25
-hpa1filesize: 537.8 MiB
-hpa1length: '2063150705'
+hpa1date: 2024-06-23
+hpa1filesize: 594.6 MiB
+hpa1length: '2061000977'
 hpa1n50ctg: 2840778
-hpa1n50scf: 104788664
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Talpa_europaea/mTalEur1/assembly_cambridge/mTalEur1.hap1.asm.20240425.fasta.gz
+hpa1n50scf: 118352152
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Talpa_europaea/mTalEur1/assembly_curated/mTalEur1.hap1.cur.20240623.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,18 +81,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 25 </td><td> 8.25 Mbp </td><td> 2 </td><td> 151.62 Mbp </td></tr><tr><td> 20 </td><td> 60 </td><td> 5.73 Mbp </td><td> 4 </td><td> 138.91 Mbp </td></tr><tr><td> 30 </td><td> 108 </td><td> 4.53 Mbp </td><td> 5 </td><td> 138.79 Mbp </td></tr><tr><td> 40 </td><td> 168 </td><td> 3.64 Mbp </td><td> 7 </td><td> 118.35 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 245 </td><td style="background-color:#88ff88;"> 2.84 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 104.79 Mbp </td></tr><tr><td> 60 </td><td> 344 </td><td> 2.06 Mbp </td><td> 12 </td><td> 103.12 Mbp </td></tr><tr><td> 70 </td><td> 489 </td><td> 1.36 Mbp </td><td> 14 </td><td> 96.13 Mbp </td></tr><tr><td> 80 </td><td> 763 </td><td> 496.33 Kbp </td><td> 18 </td><td> 25.06 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 25 </td><td> 8.25 Mbp </td><td> 2 </td><td> 157.30 Mbp </td></tr><tr><td> 20 </td><td> 60 </td><td> 5.73 Mbp </td><td> 4 </td><td> 147.38 Mbp </td></tr><tr><td> 30 </td><td> 108 </td><td> 4.53 Mbp </td><td> 5 </td><td> 143.94 Mbp </td></tr><tr><td> 40 </td><td> 168 </td><td> 3.64 Mbp </td><td> 7 </td><td> 136.89 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 245 </td><td style="background-color:#88ff88;"> 2.84 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 118.35 Mbp </td></tr><tr><td> 60 </td><td> 344 </td><td> 2.07 Mbp </td><td> 11 </td><td> 105.44 Mbp </td></tr><tr><td> 70 </td><td> 489 </td><td> 1.37 Mbp </td><td> 14 </td><td> 96.47 Mbp </td></tr><tr><td> 80 </td><td> 763 </td><td> 490.58 Kbp </td><td> 16 </td><td> 86.60 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.844x </th><th> 1584 </th><th> 2.06 Gbp </th><th> 580 </th><th> 2.06 Gbp </th></tr>
+  <tr><th> 0.843x </th><th> 1520 </th><th> 2.06 Gbp </th><th> 464 </th><th> 2.06 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-04-25
-hpb1filesize: 537.9 MiB
-hpb1length: '2066777096'
+hpa1version: assembly_curated
+hpb1date: 2024-06-23
+hpb1filesize: 593.4 MiB
+hpb1length: '2056471431'
 hpb1n50ctg: 2905455
-hpb1n50scf: 118187903
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Talpa_europaea/mTalEur1/assembly_cambridge/mTalEur1.hap2.asm.20240425.fasta.gz
+hpb1n50scf: 118660475
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Talpa_europaea/mTalEur1/assembly_curated/mTalEur1.hap2.cur.20240623.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -110,14 +110,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 24 </td><td> 8.69 Mbp </td><td> 2 </td><td> 153.09 Mbp </td></tr><tr><td> 20 </td><td> 59 </td><td> 5.66 Mbp </td><td> 4 </td><td> 138.73 Mbp </td></tr><tr><td> 30 </td><td> 107 </td><td> 4.52 Mbp </td><td> 5 </td><td> 138.65 Mbp </td></tr><tr><td> 40 </td><td> 167 </td><td> 3.71 Mbp </td><td> 7 </td><td> 135.07 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 242 </td><td style="background-color:#88ff88;"> 2.91 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 118.19 Mbp </td></tr><tr><td> 60 </td><td> 339 </td><td> 2.07 Mbp </td><td> 12 </td><td> 103.96 Mbp </td></tr><tr><td> 70 </td><td> 484 </td><td> 1.38 Mbp </td><td> 14 </td><td> 96.07 Mbp </td></tr><tr><td> 80 </td><td> 751 </td><td> 0.54 Mbp </td><td> 17 </td><td> 50.89 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 24 </td><td> 8.69 Mbp </td><td> 2 </td><td> 155.93 Mbp </td></tr><tr><td> 20 </td><td> 59 </td><td> 5.66 Mbp </td><td> 4 </td><td> 147.58 Mbp </td></tr><tr><td> 30 </td><td> 107 </td><td> 4.52 Mbp </td><td> 5 </td><td> 141.95 Mbp </td></tr><tr><td> 40 </td><td> 167 </td><td> 3.71 Mbp </td><td> 7 </td><td> 136.52 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 242 </td><td style="background-color:#88ff88;"> 2.91 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 118.66 Mbp </td></tr><tr><td> 60 </td><td> 339 </td><td> 2.06 Mbp </td><td> 11 </td><td> 105.43 Mbp </td></tr><tr><td> 70 </td><td> 485 </td><td> 1.37 Mbp </td><td> 14 </td><td> 96.07 Mbp </td></tr><tr><td> 80 </td><td> 754 </td><td> 0.53 Mbp </td><td> 16 </td><td> 86.55 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.845x </th><th> 1507 </th><th> 2.07 Gbp </th><th> 510 </th><th> 2.07 Gbp </th></tr>
+  <tr><th> 0.841x </th><th> 1396 </th><th> 2.06 Gbp </th><th> 356 </th><th> 2.06 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1714045433
-last_updated: 1714045433
+last_updated: 1719100897
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mTalEur<br>&nbsp;&nbsp;name:&nbsp;Talpa&nbsp;europaea<br>&nbsp;&nbsp;taxon_id:&nbsp;9375<br>&nbsp;&nbsp;common_name:&nbsp;European&nbsp;mole<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Soricomorpha<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Talpidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mTalEur1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468127<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2445000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-04-25
 mito1filesize: 5.0 KiB
