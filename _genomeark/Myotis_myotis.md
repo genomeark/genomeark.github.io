@@ -31,16 +31,16 @@ data_pacbio-1_scale: 0.5264
 data_pacbio_bases: 182.21 Gbp
 data_pacbio_bytes: 322.4 GiB
 data_pacbio_coverage: 90.96x
-data_pacbiohifi_bam-2_bases: 68.54 Gbp
-data_pacbiohifi_bam-2_bytes: 23.9 GiB
-data_pacbiohifi_bam-2_coverage: 34.22x
+data_pacbiohifi_bam-2_bases: 121.88 Gbp
+data_pacbiohifi_bam-2_bytes: 41.9 GiB
+data_pacbiohifi_bam-2_coverage: 60.84x
 data_pacbiohifi_bam-2_links: s3://genomeark/species/Myotis_myotis/mMyoMyo2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myotis_myotis/mMyoMyo2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myotis_myotis/mMyoMyo2/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-2_scale: 2.6675
-data_pacbiohifi_bam_bases: 68.54 Gbp
-data_pacbiohifi_bam_bytes: 23.9 GiB
-data_pacbiohifi_bam_coverage: 34.22x
+data_pacbiohifi_bam-2_scale: 2.7111
+data_pacbiohifi_bam_bases: 121.88 Gbp
+data_pacbiohifi_bam_bytes: 41.9 GiB
+data_pacbiohifi_bam_coverage: 60.84x
 data_phase-1_bases: 28.51 Gbp
 data_phase-1_bytes: 15.9 GiB
 data_phase-1_coverage: 14.23x
@@ -61,8 +61,8 @@ genbank_pri: mMyoMyo1:GCA_014108235.1
 genome_size: 2003238046
 genome_size_display: 2.00 Gbp
 genome_size_method: ''
-last_raw_data: 1714043416
-last_updated: 1714043416
+last_raw_data: 1719562510
+last_updated: 1719562510
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoMyo<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;myotis<br>&nbsp;&nbsp;taxon_id:&nbsp;51298<br>&nbsp;&nbsp;common_name:&nbsp;Greater&nbsp;mouse-eared&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoMyo1<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoMyo2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114088889<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-12-05
 mito1filesize: 5.0 KiB

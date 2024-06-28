@@ -50,6 +50,16 @@ data_pacbiohifi_bam-1_scale: 0.2276
 data_pacbiohifi_bam_bases: 46.30 Gbp
 data_pacbiohifi_bam_bytes: 189.5 GiB
 data_pacbiohifi_bam_coverage: 10.80x
+data_pacbiohifi_clr-1_bases: 579.38 Gbp
+data_pacbiohifi_clr-1_bytes: 1.4 TiB
+data_pacbiohifi_clr-1_coverage: 135.15x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Hyperolius_riggenbachi/aHypRig1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hyperolius_riggenbachi/aHypRig1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hyperolius_riggenbachi/aHypRig1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.3863
+data_pacbiohifi_clr_bases: 579.38 Gbp
+data_pacbiohifi_clr_bytes: 1.4 TiB
+data_pacbiohifi_clr_coverage: 135.15x
 data_pacbiohifi_fqgz-1_bases: 184.61 Gbp
 data_pacbiohifi_fqgz-1_bytes: 148.3 GiB
 data_pacbiohifi_fqgz-1_coverage: 43.06x
@@ -97,8 +107,8 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_vgp_HiC_2.0
-last_raw_data: 1709178736
-last_updated: 1718622063
+last_raw_data: 1719522031
+last_updated: 1719522031
 mds:
 - data: species:&nbsp;Hyperolius&nbsp;riggenbachi<br>specimen:&nbsp;aHypRig1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>pri:&nbsp;s3://genomeark/species/Hyperolius_riggenbachi/aHypRig1/assembly_vgp_HiC_2.0/aHypRig1.HiC.hap1.20240401.fasta.gz<br>alt:&nbsp;s3://genomeark/species/Hyperolius_riggenbachi/aHypRig1/assembly_vgp_HiC_2.0/aHypRig1.HiC.alt.20240401.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Hyperolius_riggenbachi/aHypRig1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aHypRig1_hap1_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Hyperolius_riggenbachi/aHypRig1/assembly_vgp_HiC_2.0/evaluation/merqury_postpurge/aHypRig1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Hyperolius_riggenbachi/aHypRig1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Hyperolius_riggenbachi/aHypRig1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.6+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;aHypRig1.&nbsp;Merqury&nbsp;and&nbsp;smudgeplot&nbsp;(available&nbsp;in&nbsp;evaluation&nbsp;directories)&nbsp;indicate&nbsp;sample&nbsp;is&nbsp;likely&nbsp;triploid.&nbsp;Results&nbsp;are&nbsp;also&nbsp;in&nbsp;attached&nbsp;PDF.&nbsp;HiC-phasing&nbsp;resulting&nbsp;in&nbsp;two&nbsp;similarly&nbsp;sized&nbsp;assemblies.&nbsp;I&nbsp;then&nbsp;ran&nbsp;purge_dups&nbsp;on&nbsp;hap1&nbsp;to&nbsp;try&nbsp;to&nbsp;get&nbsp;a&nbsp;haploid&nbsp;representation&nbsp;of&nbsp;the&nbsp;genome.&nbsp;The&nbsp;removed&nbsp;regions&nbsp;were&nbsp;added&nbsp;to&nbsp;hap2,&nbsp;which&nbsp;is&nbsp;now&nbsp;listed&nbsp;on&nbsp;this&nbsp;ticket&nbsp;as&nbsp;an&nbsp;'alt'&nbsp;assembly.&nbsp;I&nbsp;then&nbsp;used&nbsp;YaHS&nbsp;to&nbsp;scaffold&nbsp;the&nbsp;purged&nbsp;hap1&nbsp;assembly,&nbsp;which&nbsp;is&nbsp;being&nbsp;submitted&nbsp;as&nbsp;a&nbsp;'primary'&nbsp;assembly.&nbsp;This&nbsp;is&nbsp;a&nbsp;Phase&nbsp;1&nbsp;species&nbsp;(a11).&nbsp;
   ident: md4
