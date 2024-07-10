@@ -1,0 +1,1 @@
+../_genomeark/Struthio_camelus_x_Struthio_molybdophanes.md

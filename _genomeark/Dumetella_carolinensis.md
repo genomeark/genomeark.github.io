@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
 data_arima-1_bases: 80.75 Gbp
 data_arima-1_bytes: 41.9 GiB
@@ -39,8 +39,70 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
+hpa1date: 2024-06-24
+hpa1filesize: 353.6 MiB
+hpa1length: '1329393021'
+hpa1n50ctg: 22916378
+hpa1n50scf: 39047506
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Dumetella_carolinensis/bDumCar1/assembly_vgp_HiC_2.0/bDumCar1.HiC.hap1.20240624.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 66.43 Mbp </td><td> 1 </td><td> 154.73 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 50.11 Mbp </td><td> 2 </td><td> 121.04 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 43.53 Mbp </td><td> 4 </td><td> 78.99 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 28.60 Mbp </td><td> 5 </td><td> 75.11 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 22.92 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 39.05 Mbp </td></tr><tr><td> 60 </td><td> 23 </td><td> 16.30 Mbp </td><td> 11 </td><td> 26.47 Mbp </td></tr><tr><td> 70 </td><td> 33 </td><td> 11.62 Mbp </td><td> 17 </td><td> 21.46 Mbp </td></tr><tr><td> 80 </td><td> 50 </td><td> 4.93 Mbp </td><td> 26 </td><td> 11.72 Mbp </td></tr><tr><td> 90 </td><td> 117 </td><td> 0.86 Mbp </td><td> 45 </td><td> 3.37 Mbp </td></tr><tr><td> 100 </td><td> 958 </td><td> 12.40 Kbp </td><td> 797 </td><td> 12.40 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 958 </th><th> 1.33 Gbp </th><th> 797 </th><th> 1.33 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2024-06-24
+hpb1filesize: 316.3 MiB
+hpb1length: '1160480257'
+hpb1n50ctg: 25050107
+hpb1n50scf: 52817971
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Dumetella_carolinensis/bDumCar1/assembly_vgp_HiC_2.0/bDumCar1.HiC.hap2.20240624.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 70.03 Mbp </td><td> 1 </td><td> 153.22 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 64.41 Mbp </td><td> 2 </td><td> 118.57 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 60.03 Mbp </td><td> 3 </td><td> 116.32 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 37.17 Mbp </td><td> 4 </td><td> 78.73 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 25.05 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 52.82 Mbp </td></tr><tr><td> 60 </td><td> 17 </td><td> 17.34 Mbp </td><td> 9 </td><td> 32.33 Mbp </td></tr><tr><td> 70 </td><td> 25 </td><td> 12.67 Mbp </td><td> 14 </td><td> 21.83 Mbp </td></tr><tr><td> 80 </td><td> 36 </td><td> 7.98 Mbp </td><td> 21 </td><td> 12.63 Mbp </td></tr><tr><td> 90 </td><td> 63 </td><td> 1.93 Mbp </td><td> 34 </td><td> 5.25 Mbp </td></tr><tr><td> 100 </td><td> 472 </td><td> 21.57 Kbp </td><td> 328 </td><td> 21.57 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 472 </th><th> 1.15 Gbp </th><th> 328 </th><th> 1.16 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1711465163
-last_updated: 1711465163
+last_updated: 1719867128
+mds:
+- data: species:&nbsp;Dumetella&nbsp;carolinensis<br>specimen:&nbsp;bDumCar1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Dumetella_carolinensis/bDumCar1/assembly_vgp_HiC_2.0/bDumCar1.HiC.hap1.20240627.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Dumetella_carolinensis/bDumCar1/assembly_vgp_HiC_2.0/bDumCar1.HiC.hap2.20240627.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Dumetella_carolinensis/bDumCar1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bDumCar1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Dumetella_carolinensis/bDumCar1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bDumCar1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Dumetella_carolinensis/bDumCar1/assembly_vgp_HiC_2.0/evaluation/merqury/bDumCar1_png/<br>mito:&nbsp;s3://genomeark/species/Dumetella_carolinensis/bDumCar1/assembly_MT_rockefeller/bDumCar1.MT.20240627.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Dumetella_carolinensis/bDumCar1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Dumetella_carolinensis/bDumCar1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Dumetella_carolinensis/bDumCar1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bDumCar1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;sample&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima,&nbsp;so&nbsp;the&nbsp;HiC&nbsp;reads&nbsp;require&nbsp;trimming&nbsp;5&nbsp;bp&nbsp;off&nbsp;the&nbsp;5'&nbsp;end.&nbsp;The&nbsp;assembly&nbsp;was&nbsp;performed&nbsp;on&nbsp;the&nbsp;Rockefeller&nbsp;University&nbsp;VGL&nbsp;instance.&nbsp;The&nbsp;VGL&nbsp;ID&nbsp;for&nbsp;this&nbsp;individual&nbsp;is&nbsp;VGL-bDumCar2.<br>
+  ident: md2
+  title: assembly_vgp_HiC_2.0/bDumCar1.yml
 name: Dumetella carolinensis
 name_: Dumetella_carolinensis
 project: ~
