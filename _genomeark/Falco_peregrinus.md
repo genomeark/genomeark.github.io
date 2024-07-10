@@ -37,9 +37,16 @@ data_arima-1_links: s3://genomeark/species/Falco_peregrinus/bFalPer1/genomic_dat
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_peregrinus/bFalPer1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_peregrinus/bFalPer1/genomic_data/arima/
 data_arima-1_scale: 1.4274
-data_arima_bases: 228.47 Gbp
-data_arima_bytes: 149.1 GiB
-data_arima_coverage: 160.90x
+data_arima-5_bases: 116.01 Gbp
+data_arima-5_bytes: 31.2 GiB
+data_arima-5_coverage: 81.70x
+data_arima-5_links: s3://genomeark/species/Falco_peregrinus/bFalPer5/genomic_data/arima/<br>
+data_arima-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_peregrinus/bFalPer5/genomic_data/arima/
+data_arima-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_peregrinus/bFalPer5/genomic_data/arima/
+data_arima-5_scale: 3.4658
+data_arima_bases: 344.48 Gbp
+data_arima_bytes: 180.2 GiB
+data_arima_coverage: 242.59x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 777.9 MiB
 data_bionano-1_coverage: 287.34x
@@ -81,9 +88,9 @@ genbank_pri: bFalPer1:GCA_023634155.1
 genome_size: 1420000000
 genome_size_display: 1.42 Gbp
 genome_size_method: GoaT ancestral inferred
-last_raw_data: 1653509926
-last_updated: 1653509926
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bFalPer<br>&nbsp;&nbsp;name:&nbsp;Falco&nbsp;peregrinus<br>&nbsp;&nbsp;taxon_id:&nbsp;8954<br>&nbsp;&nbsp;common_name:&nbsp;peregrine&nbsp;falcon<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFalPer1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Farooq&nbsp;Al-Ajli<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falco&nbsp;peregrinus&nbsp;calidus<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common_name:&nbsp;Siberian&nbsp;peregrine&nbsp;falcon<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taxon_id:&nbsp;495983<br>&nbsp;&nbsp;genome_size:&nbsp;1420000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;ancestral&nbsp;inferred<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+last_raw_data: 1720524546
+last_updated: 1720524546
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bFalPer<br>&nbsp;&nbsp;name:&nbsp;Falco&nbsp;peregrinus<br>&nbsp;&nbsp;taxon_id:&nbsp;8954<br>&nbsp;&nbsp;common_name:&nbsp;peregrine&nbsp;falcon<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFalPer1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Farooq&nbsp;Al-Ajli<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falco&nbsp;peregrinus&nbsp;calidus<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common_name:&nbsp;Siberian&nbsp;peregrine&nbsp;falcon<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taxon_id:&nbsp;495983<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFalPer5<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA115433029<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1420000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;ancestral&nbsp;inferred<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Falco peregrinus
 name_: Falco_peregrinus
 pri1date: 2021-12-14
