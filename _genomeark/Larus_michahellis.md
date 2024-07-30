@@ -1,10 +1,10 @@
 ---
-alt1date: 2024-05-24
-alt1filesize: 310.0 MiB
-alt1length: '1287298270'
+alt1date: 2024-07-12
+alt1filesize: 346.7 MiB
+alt1length: '1288358057'
 alt1n50ctg: '841172'
 alt1n50scf: '841172'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Larus_michahellis/bLarMic1/assembly_cambridge/bLarMic1.alt.asm.20240524.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Larus_michahellis/bLarMic1/assembly_curated/bLarMic1.alt.cur.20240712.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 45 </td><td> 2.46 Mbp </td><td> 45 </td><td> 2.46 Mbp </td></tr><tr><td> 20 </td><td> 113 </td><td> 1.82 Mbp </td><td> 113 </td><td> 1.82 Mbp </td></tr><tr><td> 30 </td><td> 203 </td><td> 1.41 Mbp </td><td> 203 </td><td> 1.41 Mbp </td></tr><tr><td> 40 </td><td> 317 </td><td> 1.12 Mbp </td><td> 317 </td><td> 1.12 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 468 </td><td> 0.84 Mbp </td><td> 468 </td><td> 0.84 Mbp </td></tr><tr><td> 60 </td><td> 664 </td><td> 0.64 Mbp </td><td> 664 </td><td> 0.64 Mbp </td></tr><tr><td> 70 </td><td> 935 </td><td> 429.07 Kbp </td><td> 935 </td><td> 429.07 Kbp </td></tr><tr><td> 80 </td><td> 1430 </td><td> 184.68 Kbp </td><td> 1430 </td><td> 184.68 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 45 </td><td> 2.46 Mbp </td><td> 45 </td><td> 2.46 Mbp </td></tr><tr><td> 20 </td><td> 113 </td><td> 1.82 Mbp </td><td> 113 </td><td> 1.82 Mbp </td></tr><tr><td> 30 </td><td> 203 </td><td> 1.41 Mbp </td><td> 203 </td><td> 1.41 Mbp </td></tr><tr><td> 40 </td><td> 317 </td><td> 1.12 Mbp </td><td> 317 </td><td> 1.12 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 468 </td><td> 0.84 Mbp </td><td> 468 </td><td> 0.84 Mbp </td></tr><tr><td> 60 </td><td> 664 </td><td> 0.64 Mbp </td><td> 664 </td><td> 0.64 Mbp </td></tr><tr><td> 70 </td><td> 935 </td><td> 430.39 Kbp </td><td> 935 </td><td> 430.39 Kbp </td></tr><tr><td> 80 </td><td> 1426 </td><td> 187.86 Kbp </td><td> 1426 </td><td> 187.86 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.898x </th><th> 4689 </th><th> 1.29 Gbp </th><th> 4689 </th><th> 1.29 Gbp </th></tr>
+  <tr><th> 0.899x </th><th> 4674 </th><th> 1.29 Gbp </th><th> 4674 </th><th> 1.29 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: yellow-legged gull
 data_arima-1_bases: 287.86 Gbp
 data_arima-1_bytes: 81.6 GiB
@@ -59,7 +59,7 @@ genome_size: 1432770000
 genome_size_display: 1.43 Gbp
 genome_size_method: GoaT
 last_raw_data: 1716468344
-last_updated: 1716992520
+last_updated: 1720742430
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bLarMic<br>&nbsp;&nbsp;name:&nbsp;Larus&nbsp;michahellis<br>&nbsp;&nbsp;taxon_id:&nbsp;119627<br>&nbsp;&nbsp;common_name:&nbsp;yellow-legged&nbsp;gull<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Laridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bLarMic1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114211328<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1432770000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-05-24
 mito1filesize: 5.3 KiB
@@ -92,12 +92,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Larus michahellis
 name_: Larus_michahellis
-pri1date: 2024-05-24
-pri1filesize: 375.3 MiB
-pri1length: '1407017059'
+pri1date: 2024-07-12
+pri1filesize: 374.8 MiB
+pri1length: '1405581498'
 pri1n50ctg: 4032022
-pri1n50scf: 84730168
-pri1seq: https://s3.amazonaws.com/genomeark/species/Larus_michahellis/bLarMic1/assembly_cambridge/bLarMic1.pri.asm.20240524.fasta.gz
+pri1n50scf: 87288157
+pri1seq: https://s3.amazonaws.com/genomeark/species/Larus_michahellis/bLarMic1/assembly_curated/bLarMic1.pri.cur.20240712.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -115,12 +115,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 11 </td><td> 11.22 Mbp </td><td> 1 </td><td> 214.56 Mbp </td></tr><tr><td> 20 </td><td> 26 </td><td> 7.87 Mbp </td><td> 2 </td><td> 170.44 Mbp </td></tr><tr><td> 30 </td><td> 47 </td><td> 6.22 Mbp </td><td> 3 </td><td> 128.54 Mbp </td></tr><tr><td> 40 </td><td> 71 </td><td> 5.40 Mbp </td><td> 4 </td><td> 94.79 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 102 </td><td style="background-color:#88ff88;"> 4.03 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 84.73 Mbp </td></tr><tr><td> 60 </td><td> 142 </td><td> 3.13 Mbp </td><td> 8 </td><td> 58.54 Mbp </td></tr><tr><td> 70 </td><td> 193 </td><td> 2.36 Mbp </td><td> 10 </td><td> 49.26 Mbp </td></tr><tr><td> 80 </td><td> 269 </td><td> 1.49 Mbp </td><td> 18 </td><td> 10.19 Mbp </td></tr><tr><td> 90 </td><td> 397 </td><td> 0.79 Mbp </td><td> 57 </td><td> 1.35 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 11 </td><td> 11.22 Mbp </td><td> 1 </td><td> 224.38 Mbp </td></tr><tr><td> 20 </td><td> 26 </td><td> 7.87 Mbp </td><td> 2 </td><td> 170.44 Mbp </td></tr><tr><td> 30 </td><td> 47 </td><td> 6.22 Mbp </td><td> 3 </td><td> 132.37 Mbp </td></tr><tr><td> 40 </td><td> 71 </td><td> 5.40 Mbp </td><td> 4 </td><td> 94.79 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 102 </td><td style="background-color:#88ff88;"> 4.03 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 87.29 Mbp </td></tr><tr><td> 60 </td><td> 142 </td><td> 3.13 Mbp </td><td> 7 </td><td> 73.96 Mbp </td></tr><tr><td> 70 </td><td> 194 </td><td> 2.33 Mbp </td><td> 10 </td><td> 51.87 Mbp </td></tr><tr><td> 80 </td><td> 270 </td><td> 1.47 Mbp </td><td> 15 </td><td> 17.39 Mbp </td></tr><tr><td> 90 </td><td> 398 </td><td> 0.79 Mbp </td><td> 39 </td><td> 1.75 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.982x </th><th> 1121 </th><th> 1.41 Gbp </th><th> 658 </th><th> 1.41 Gbp </th></tr>
+  <tr><th> 0.981x </th><th> 1118 </th><th> 1.41 Gbp </th><th> 618 </th><th> 1.41 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: bLarMic

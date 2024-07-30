@@ -11,6 +11,16 @@ data_arima-1_scale: 1.8053
 data_arima_bases: 111.82 Gbp
 data_arima_bytes: 57.7 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 73.97 Gbp
+data_pacbiohifi_bam-1_bytes: 298.1 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Dromaius_novaehollandiae/bDroNov1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dromaius_novaehollandiae/bDroNov1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dromaius_novaehollandiae/bDroNov1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2311
+data_pacbiohifi_bam_bases: 73.97 Gbp
+data_pacbiohifi_bam_bytes: 298.1 GiB
+data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 72.75 Gbp
 data_pacbiohifi_fqgz-1_bytes: 32.1 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -87,8 +97,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1689115841
-last_updated: 1704682687
+last_raw_data: 1721746318
+last_updated: 1721746318
 mds:
 - data: species:&nbsp;Dromaius&nbsp;novehollandiae<br>specimen:&nbsp;bDroNov1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Dromaius_novehollandiae/bDroNov1/assembly_vgp_HiC_2.0/bDroNov1.HiC.hap1.20230719.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Dromaius_novehollandiae/bDroNov1/assembly_vgp_HiC_2.0/bDroNov1.HiC.hap2.20230719.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Dromaius_novehollandiae/bDroNov1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bDroNov1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Dromaius_novehollandiae/bDroNov1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bDroNov1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Dromaius_novehollandiae/bDroNov1/assembly_vgp_HiC_2.0/evaluation/merqury/bDroNov1_png/<br>mito:&nbsp;s3://genomeark/species/Dromaius_novehollandiae/bDroNov1/assembly_MT_rockefeller/bDroNov1.MT.20230719.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Dromaius_novehollandiae/bDroNov1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Dromaius_novehollandiae/bDroNov1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bDroNov1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;We&nbsp;have&nbsp;confirmed&nbsp;metadata&nbsp;that&nbsp;this&nbsp;sample&nbsp;comes&nbsp;from&nbsp;a&nbsp;female&nbsp;bird.&nbsp;The&nbsp;k-mer&nbsp;spectra&nbsp;support&nbsp;this&nbsp;by&nbsp;implying&nbsp;a&nbsp;heterogametic&nbsp;sample,&nbsp;but&nbsp;the&nbsp;difference&nbsp;between&nbsp;the&nbsp;spectrum&nbsp;of&nbsp;each&nbsp;haplotype&nbsp;is&nbsp;less&nbsp;pronounced&nbsp;than&nbsp;it&nbsp;usually&nbsp;is&nbsp;for&nbsp;female&nbsp;birds.&nbsp;I&nbsp;think&nbsp;this&nbsp;is&nbsp;because&nbsp;ratites&nbsp;have&nbsp;uncharacteristically&nbsp;similar&nbsp;W&nbsp;and&nbsp;Z&nbsp;chromosomes,&nbsp;relative&nbsp;to&nbsp;other&nbsp;birds,&nbsp;according&nbsp;to&nbsp;the&nbsp;literature.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;
   ident: md10

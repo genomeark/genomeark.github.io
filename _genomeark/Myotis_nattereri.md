@@ -11,16 +11,16 @@ data_arima-1_scale: 3.4362
 data_arima_bases: 287.96 Gbp
 data_arima_bytes: 78.0 GiB
 data_arima_coverage: 130.28x
-data_pacbiohifi_bam-1_bases: 80.63 Gbp
-data_pacbiohifi_bam-1_bytes: 25.4 GiB
-data_pacbiohifi_bam-1_coverage: 36.48x
+data_pacbiohifi_bam-1_bases: 114.20 Gbp
+data_pacbiohifi_bam-1_bytes: 35.6 GiB
+data_pacbiohifi_bam-1_coverage: 51.67x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Myotis_nattereri/mMyoNat1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myotis_nattereri/mMyoNat1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myotis_nattereri/mMyoNat1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 2.9610
-data_pacbiohifi_bam_bases: 80.63 Gbp
-data_pacbiohifi_bam_bytes: 25.4 GiB
-data_pacbiohifi_bam_coverage: 36.48x
+data_pacbiohifi_bam-1_scale: 2.9898
+data_pacbiohifi_bam_bases: 114.20 Gbp
+data_pacbiohifi_bam_bytes: 35.6 GiB
+data_pacbiohifi_bam_coverage: 51.67x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -87,8 +87,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_cambridge
-last_raw_data: 1720351805
-last_updated: 1720453138
+last_raw_data: 1721944928
+last_updated: 1721944928
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoNat<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;nattereri<br>&nbsp;&nbsp;taxon_id:&nbsp;109481<br>&nbsp;&nbsp;common_name:&nbsp;Natterer's&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoNat1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114614248<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2210280000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-07-08
 mito1filesize: 5.1 KiB

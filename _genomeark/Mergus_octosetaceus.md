@@ -11,6 +11,26 @@ data_arima-1_scale: 1.7681
 data_arima_bases: 133.38 Gbp
 data_arima_bytes: 70.3 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 172.93 Gbp
+data_pacbiohifi_bam-1_bytes: 595.4 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Mergus_octosetaceus/bMerOct1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mergus_octosetaceus/bMerOct1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mergus_octosetaceus/bMerOct1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2705
+data_pacbiohifi_bam_bases: 172.93 Gbp
+data_pacbiohifi_bam_bytes: 595.4 GiB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_clr-1_bases: 1177.43 Gbp
+data_pacbiohifi_clr-1_bytes: 2.0 TiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Mergus_octosetaceus/bMerOct1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mergus_octosetaceus/bMerOct1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mergus_octosetaceus/bMerOct1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5356
+data_pacbiohifi_clr_bases: 1177.43 Gbp
+data_pacbiohifi_clr_bytes: 2.0 TiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 56.77 Gbp
 data_pacbiohifi_fqgz-1_bytes: 41.6 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -87,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1683912442
-last_updated: 1706281183
+last_raw_data: 1722030947
+last_updated: 1722030947
 mds:
 - data: species:&nbsp;Mergus&nbsp;octosetaceus<br>specimen:&nbsp;bMerOct1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/bMerOct1.HiC.hap1.20230516.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/bMerOct1.HiC.hap2.20230516.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bMerOct1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bMerOct1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_vgp_HiC_2.0/evaluation/merqury/bMerOct1_png/<br>mito:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_MT_rockefeller/bMerOct1.MT.20230512.fasta.gz<br>mito_gb:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/assembly_MT_rockefeller/bMerOct1.MT.20230512.gb<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Mergus_octosetaceus/bMerOct1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bMerOct1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicate&nbsp;a&nbsp;heterogametic&nbsp;specimen,&nbsp;and&nbsp;the&nbsp;sample&nbsp;metadata&nbsp;indicates&nbsp;a&nbsp;female&nbsp;bird.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;
   ident: md11

@@ -57,6 +57,16 @@ data_bionano-1_scale: 500.2286
 data_bionano_bases: N/A
 data_bionano_bytes: 777.9 MiB
 data_bionano_coverage: 287.34x
+data_pacbiohifi_bam-5_bases: 80.51 Gbp
+data_pacbiohifi_bam-5_bytes: 29.4 GiB
+data_pacbiohifi_bam-5_coverage: 56.70x
+data_pacbiohifi_bam-5_links: s3://genomeark/species/Falco_peregrinus/bFalPer5/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_peregrinus/bFalPer5/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_peregrinus/bFalPer5/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-5_scale: 2.5541
+data_pacbiohifi_bam_bases: 80.51 Gbp
+data_pacbiohifi_bam_bytes: 29.4 GiB
+data_pacbiohifi_bam_coverage: 56.70x
 data_pacbiohifi_clr-1_bases: 574.08 Gbp
 data_pacbiohifi_clr-1_bytes: 1.0 TiB
 data_pacbiohifi_clr-1_coverage: 404.28x
@@ -78,7 +88,7 @@ data_pacbiohifi_q2fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?pr
 data_pacbiohifi_q2fqgz_bases: ''
 data_pacbiohifi_q2fqgz_bytes: 28.6 GiB
 data_pacbiohifi_q2fqgz_coverage: 0.00x
-data_status: <em style="color:forestgreen">Arima</em>
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -88,8 +98,8 @@ genbank_pri: bFalPer1:GCA_023634155.1
 genome_size: 1420000000
 genome_size_display: 1.42 Gbp
 genome_size_method: GoaT ancestral inferred
-last_raw_data: 1720524546
-last_updated: 1720524546
+last_raw_data: 1721500099
+last_updated: 1721500099
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bFalPer<br>&nbsp;&nbsp;name:&nbsp;Falco&nbsp;peregrinus<br>&nbsp;&nbsp;taxon_id:&nbsp;8954<br>&nbsp;&nbsp;common_name:&nbsp;peregrine&nbsp;falcon<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFalPer1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Farooq&nbsp;Al-Ajli<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falco&nbsp;peregrinus&nbsp;calidus<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common_name:&nbsp;Siberian&nbsp;peregrine&nbsp;falcon<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taxon_id:&nbsp;495983<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFalPer5<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA115433029<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1420000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;ancestral&nbsp;inferred<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Falco peregrinus
 name_: Falco_peregrinus

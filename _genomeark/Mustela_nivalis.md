@@ -18,16 +18,16 @@ data_arima-2_scale: 3.3603
 data_arima_bases: 810.52 Gbp
 data_arima_bytes: 288.4 GiB
 data_arima_coverage: 269.08x
-data_pacbiohifi_bam-2_bases: 31.73 Gbp
-data_pacbiohifi_bam-2_bytes: 9.3 GiB
-data_pacbiohifi_bam-2_coverage: 10.53x
+data_pacbiohifi_bam-2_bases: 103.63 Gbp
+data_pacbiohifi_bam-2_bytes: 28.7 GiB
+data_pacbiohifi_bam-2_coverage: 34.40x
 data_pacbiohifi_bam-2_links: s3://genomeark/species/Mustela_nivalis/mMusNiv2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mustela_nivalis/mMusNiv2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mustela_nivalis/mMusNiv2/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-2_scale: 3.1927
-data_pacbiohifi_bam_bases: 31.73 Gbp
-data_pacbiohifi_bam_bytes: 9.3 GiB
-data_pacbiohifi_bam_coverage: 10.53x
+data_pacbiohifi_bam-2_scale: 3.3636
+data_pacbiohifi_bam_bases: 103.63 Gbp
+data_pacbiohifi_bam_bytes: 28.7 GiB
+data_pacbiohifi_bam_coverage: 34.40x
 data_pacbiohifi_clr-1_bases: 2421.40 Gbp
 data_pacbiohifi_clr-1_bytes: 4.1 TiB
 data_pacbiohifi_clr-1_coverage: 803.85x
@@ -114,8 +114,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
-last_raw_data: 1716471275
-last_updated: 1716471275
+last_raw_data: 1721499925
+last_updated: 1721499925
 mds:
 - data: species:&nbsp;Mustela&nbsp;nivalis&nbsp;vulgaris<br>specimen:&nbsp;mMusNiv1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>hap1:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/mMusNiv1.HiC.hap1.20231215.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/mMusNiv1.HiC.hap2.20231215.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mMusNiv1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mMusNiv1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/evaluation/merqury/mMusNiv1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mMusNiv1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;This&nbsp;sample&nbsp;did&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;Final&nbsp;genome&nbsp;size&nbsp;looks&nbsp;large&nbsp;compared&nbsp;to&nbsp;existing&nbsp;assembly,&nbsp;likely&nbsp;because&nbsp;of&nbsp;fragmented&nbsp;repetitive&nbsp;regions&nbsp;captured&nbsp;by&nbsp;HiFi&nbsp;(but&nbsp;not&nbsp;scaffolded),&nbsp;which&nbsp;were&nbsp;missed&nbsp;with&nbsp;previous&nbsp;sequencing&nbsp;technologies.&nbsp;
   ident: md3
