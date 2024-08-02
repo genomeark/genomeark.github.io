@@ -4,7 +4,7 @@ title: GenomeArk AWS S3 bucket layout and file names
 published: true
 ---
 
-This is a **DRAFT**. Please send comments to `#data-coord` on Slack.
+This is a **DRAFT**. Please send comments to `#data-coord` on the VGP Slack workspace.
 
 # Data Structure
 
@@ -29,6 +29,7 @@ organized in directories for convenience. The following is the current file tree
             │   ├── bionano/
             │   ├── dovetail/
             │   ├── element/
+            │   ├── illumina/
             │   ├── ont_duplex/
             │   ├── ont/
             │   ├── pacbio_hifi/
@@ -231,6 +232,8 @@ Older projects can also include the following legacy data.
 
 ### ISO-seq from Pacific Biosciences
 
+Projects use one of the two structures below:
+
   ```
   /
   └── species/
@@ -246,7 +249,6 @@ Older projects can also include the following legacy data.
                           └── files.md5
   ```
 
-Older projects use the following structure:
   ```
   /
   └── species/
@@ -511,7 +513,7 @@ The following specifications for assembly folders apply to the VGP pipeline vers
               └── assembly_MT_{institution}/
                 └── {genome_id}.MT.YYYYMMDD.fasta.gz
   ```
-It is accecptable to name the directory `assembly_MT{suffix}`, where the suffix
+It is acceptable to name the directory `assembly_MT{suffix}`, where the suffix
 is an underscore followed by some informative string. This can be useful when
 more than 1 mitochondrial assemblies were generated so that they can be easily
 differentiated from each other. Examples of informative strings are the location
@@ -556,6 +558,5 @@ is how the file tree looked before:
 The primary changes to this structure are the addition of new directories under
 `genomic_data`. Generally, each data type is named after the company that
 generated it. This has changed slightly since multiple companies are generating
-multiple types of data. Try not to let the inconsistency get to you. Each
-directory will now be described. If you have a data type not specified, please
-reach out for a discussion on naming.
+multiple types of data. Try not to let the inconsistency get to you. If you have a data type not specified, please
+reach out to `#data-coord` on the VGP Slack workspace for a discussion on naming.
