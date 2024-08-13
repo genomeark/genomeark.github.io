@@ -4,7 +4,7 @@ title: GenomeArk AWS S3 bucket layout and file names
 published: true
 ---
 
-This is a **DRAFT**. Please send comments to `#data-coord` on Slack.
+This is a **DRAFT**. Please send comments to `#data-coord` on the VGP Slack workspace.
 
 # Data Structure
 
@@ -14,12 +14,8 @@ using a web browser
 describes how the data are organized. Note that AWS S3 is "object storage" and
 does not contain hierarchical directories or folders like traditional file
 systems. However, the structure will be discussed as if the data will be
-organized in directories for convenience.
+organized in directories for convenience. The following is the current file tree structure:
 
-The structure is based on
-[this specification](https://github.com/VGP/vgp-assembly/blob/master/DNAnexus_and_AWS_data_structure.md),
-with changes reflecting subsequent discussions and new data types. The following
-is how the file tree looked before:
 ```
 /
 └── species/
@@ -27,49 +23,13 @@ is how the file tree looked before:
         └── {ToLID}/
             ├── assembly_{pipeline}_{ver}/
             ├── assembly_curated/
-            ├── assembly_MT/
-            ├── genomic_data/
-            │   ├── ont/
-            │   │   ├── reads1.bam
-            │   │   ├── reads1.fastq.gz
-            │   │   ├── reads2.bam
-            │   │   └── reads2.fastq.gz
-            │   └── pacbio/
-            │       ├── reads1.fastq.gz
-            │       ├── reads2.fastq.gz
-            │       └── reads3.fastq.gz
-            └── transcriptomic_data/
-                └── {tissue_id}/
-                    ├── illumina/
-                    │   ├── reads1_1.fastq.gz
-                    │   ├── reads1_2.fastq.gz
-                    │   ├── reads2_1.fastq.gz
-                    │   └── reads2_2.fastq.gz
-                    └── pacbio/
-                        ├── reads1.fastq.gz
-                        ├── reads2.fastq.gz
-                        └── reads3.fastq.gz
-```
-
-The primary changes to this structure are the addition of new directories under
-`genomic_data`. Generally, each data type is named after the company that
-generated it. This has changed slightly since multiple companies are generating
-multiple types of data. Try not to let the inconsistency get to you. Each
-directory will now be described. If you have a data type not specified, please
-reach out for a discussion on naming. The following is how the file tree looks
-now (omitting individual files):
-```
-/
-└── species/
-    └── {Genus_species}/
-        └── {ToLID}/
-            ├── assembly_{pipeline}_{ver}/
-            ├── assembly_curated/
-            ├── assembly_MT/
+            ├── assembly_MT_{institution}/
             ├── genomic_data/
             │   ├── arima/
             │   ├── bionano/
             │   ├── dovetail/
+            │   ├── element/
+            │   ├── illumina/
             │   ├── ont_duplex/
             │   ├── ont/
             │   ├── pacbio_hifi/
@@ -88,7 +48,7 @@ expected to have:
 - transcriptomic\_data
 - assembly\_{pipeline}\_{ver}
 - assembly\_curated
-- assembly\_MT
+- assembly\_MT\_{institution}
 
 -----
 ## Genomic Data
@@ -121,6 +81,71 @@ expected to have:
   later, especially if it hasn't already been done.
 
 
+### Hi-C from Arima Genomics
+  ```
+  /
+  └── species/
+      └── {Genus_species}/
+          └── {ToLID}/
+              └── genomic_data/
+                  └── arima/
+                      ├── {prefix}_{runID}_R1.fastq.gz
+                      ├── {prefix}_{runID}_R2.fastq.gz
+                      ├── re_bases.txt
+                      ├── README
+                      └── files.md5
+  ```
+  Unmapped BAM/CRAM files can be provided instead of fastq. `re_bases.txt` is a legacy file with the restriction enzyme cutting sites that the kit used. The current VGP pipeline instead asks for the kit and not the enzyme sites, but some older datasets will have this file.
+
+### dovetail (Hi-C and/or Omni-C from Dovetail Genomics)
+  ```
+  /
+  └── species/
+      └── {Genus_species}/
+          └── {ToLID}/
+              └── genomic_data/
+                  └── dovetail/
+                      ├── {prefix}_{runID}_R1.fastq.gz
+                      ├── {prefix}_{runID}_R2.fastq.gz
+                      ├── re_bases.txt
+                      ├── README
+                      └── files.md5
+  ```
+  Unmapped BAM/CRAM files can be provided instead of fastq. `re_bases.txt` is a legacy file with the restriction enzyme cutting sites that the kit used. The current VGP pipeline instead asks for the kit and not the enzyme sites, but some older datasets will have this file.
+
+
+### Whole Genome Shotgun from Illumina
+  ```
+  /
+  └── species/
+      └── {Genus_species}/
+          └── {ToLID}/
+              └── genomic_data/
+                  └── illumina/
+                      ├── {prefix}_{runID}_R1.fastq.gz
+                      ├── {prefix}_{runID}_R2.fastq.gz
+                      ├── README
+                      └── files.md5
+  ```
+  Unmapped BAM/CRAM files can be provided instead of fastq.
+
+## Legacy Genomic Data
+
+Older projects can also include the following legacy data.
+
+### Irys/Saphyr optical mapping from BioNano Genomics
+  ```
+  /
+  └── species/
+      └── {Genus_species}/
+          └── {ToLID}/
+              └── genomic_data/
+                  └── bionano/
+                      ├── {prefix}_{platform}_{enzyme}[_{jobid}].bnx.gz
+                      ├── {prefix}_{platform}_{enzyme}.cmap.gz
+                      ├── README
+                      └── files.md5
+  ```
 ### Simplex and/or duplex with any pore or chemistry from Oxford Nanopore Technologies
   ```
   /
@@ -154,76 +179,6 @@ expected to have:
   a README. You are encouraged to call methylation too, please note in the
   README what is and isn't available in each file. Keeping the fast5s is
   also encouraged for future re-calling of bases and/or methylation.
-
-
-### Hi-C from Arima Genomics
-  ```
-  /
-  └── species/
-      └── {Genus_species}/
-          └── {ToLID}/
-              └── genomic_data/
-                  └── arima/
-                      ├── {prefix}_{runID}_R1.fastq.gz
-                      ├── {prefix}_{runID}_R2.fastq.gz
-                      ├── re_bases.txt
-                      ├── README
-                      └── files.md5
-  ```
-  Unmapped BAM/CRAM files can be provided instead of fastq.
-
-
-### dovetail (Hi-C and/or Omni-C from Dovetail Genomics)
-  ```
-  /
-  └── species/
-      └── {Genus_species}/
-          └── {ToLID}/
-              └── genomic_data/
-                  └── dovetail/
-                      ├── {prefix}_{runID}_R1.fastq.gz
-                      ├── {prefix}_{runID}_R2.fastq.gz
-                      ├── re_bases.txt
-                      ├── README
-                      └── files.md5
-  ```
-  Unmapped BAM/CRAM files can be provided instead of fastq.
-
-
-### Whole Genome Shotgun from Illumina
-  ```
-  /
-  └── species/
-      └── {Genus_species}/
-          └── {ToLID}/
-              └── genomic_data/
-                  └── illumina/
-                      ├── {prefix}_{runID}_R1.fastq.gz
-                      ├── {prefix}_{runID}_R2.fastq.gz
-                      ├── README
-                      └── files.md5
-  ```
-  Unmapped BAM/CRAM files can be provided instead of fastq.
-
-
-### Irys/Saphyr optical mapping from BioNano Genomics
-  ```
-  /
-  └── species/
-      └── {Genus_species}/
-          └── {ToLID}/
-              └── genomic_data/
-                  └── bionano/
-                      ├── {prefix}_{platform}_{enzyme}[_{jobid}].bnx.gz
-                      ├── {prefix}_{platform}_{enzyme}.cmap.gz
-                      ├── README
-                      └── files.md5
-  ```
-
-
-## Legacy Genomic Data
-
-Older projects can also include the following legacy data.
 
 ### Linked-reads from 10X Genomics
   ```
@@ -276,6 +231,24 @@ Older projects can also include the following legacy data.
   ```
 
 ### ISO-seq from Pacific Biosciences
+
+Projects use one of the two structures below:
+
+  ```
+  /
+  └── species/
+      └── {Genus_species}/
+          └── {ToLID}/
+              └── transcriptomic_data/
+                  └── pacbio/
+                      └── {tissue_type}
+                          ├── {ToLID}_{tissue_type}_flnc.bam
+                          ├── {ToLID}_{tissue_type}_flnc.report.csv
+                          ├── {ToLID}_{tissue_type}_hq_transcripts.fasta
+                          ├── README
+                          └── files.md5
+  ```
+
   ```
   /
   └── species/
@@ -297,18 +270,37 @@ Older projects can also include the following legacy data.
 ## Assemblies
 
 ### Final Curated Assembly
+
+#### Hi-C
   ```
   /
   └── species/
       └── {Genus_species}/
           └── {ToLID}/
               └── assembly_curated/
-                  ├── {genome_id}.pri.cur.YYYYMMDD.fasta.gz       Final curated assembly (primary)
-                  ├── {genome_id}.alt.cur.YYYYMMDD.fasta.gz       Final curated assembly (alternate haplotigs)
-                  ├── {genome_id}.pri.cur.YYYYMMDD.agp            Chromosome assignments for {genome_id}.pri.cur.YYYYMMDD.fasta.gz
-                  └── {genome_id}.pri.cur.YYYYMMDD.MT.fasta.gz    Mitochondrial genome assembly (optional)
+                  ├── {genome_id}.hap1.cur.YYYYMMDD.chromosomes.csv        Chromosome .csv (haplotype 1)
+                  ├── {genome_id}.hap1.cur.YYYYMMDD.fasta.gz               Final curated assembly (haplotype 1)
+                  ├── {genome_id}.hap1.cur.YYYYMMDD.pretext                Pretext map (haplotype 1)
+                  ├── {genome_id}.hap2.cur.YYYYMMDD.chromosomes.csv        Chromosome .csv (haplotype 2)
+                  ├── {genome_id}.hap2.cur.YYYYMMDD.fasta.gz               Final curated assembly (haplotype 2)
+                  ├── {genome_id}.hap2.cur.YYYYMMDD.pretext                Pretext map (haplotype 2)
   ```
-It is acceptable to name the directory `assembly_curated{suffix}`, where the
+
+#### Primary and alternate
+  ```
+  /
+  └── species/
+      └── {Genus_species}/
+          └── {ToLID}/
+              └── assembly_curated/
+                  ├── {genome_id}.alt.cur.YYYYMMDD.fasta.gz                Final curated assembly (alternate)
+                  ├── {genome_id}.pri.cur.YYYYMMDD.chromosomes.csv         Chromosome .csv (primary)
+                  ├── {genome_id}.pri.cur.YYYYMMDD.fasta.gz                Final curated assembly (primary)
+                  ├── {genome_id}.pri.cur.YYYYMMDD.pretext                 Pretext map (primary)
+                  └── intermediates/                                       Can contain files generated from draft assemblies to be used in curation        
+  ```
+
+It is acceptable to name the directory `assembly_curated_{suffix}`, where the
 suffix is an underscore followed by some informative string. This can be useful
 when more than 1 assemblies were curated so that they can be easily
 easily differentiated from each other. Examples of informative strings are the
@@ -518,11 +510,53 @@ The following specifications for assembly folders apply to the VGP pipeline vers
   └── species/
       └── {Genus_species}/
           └── {ToLID}/
-              └── assembly_MT/
+              └── assembly_MT_{institution}/
                 └── {genome_id}.MT.YYYYMMDD.fasta.gz
   ```
-It is accecptable to name the directory `assembly_MT{suffix}`, where the suffix
+It is acceptable to name the directory `assembly_MT{suffix}`, where the suffix
 is an underscore followed by some informative string. This can be useful when
 more than 1 mitochondrial assemblies were generated so that they can be easily
 differentiated from each other. Examples of informative strings are the location
 or institution that generated the assembly, a version, or a date.
+
+### Old File Structure
+The current structure is based on
+[this specification](https://github.com/VGP/vgp-assembly/blob/master/DNAnexus_and_AWS_data_structure.md),
+with changes reflecting subsequent discussions and new data types. The following
+is how the file tree looked before:
+```
+/
+└── species/
+    └── {Genus_species}/
+        └── {ToLID}/
+            ├── assembly_{pipeline}_{ver}/
+            ├── assembly_curated/
+            ├── assembly_MT/
+            ├── genomic_data/
+            │   ├── ont/
+            │   │   ├── reads1.bam
+            │   │   ├── reads1.fastq.gz
+            │   │   ├── reads2.bam
+            │   │   └── reads2.fastq.gz
+            │   └── pacbio/
+            │       ├── reads1.fastq.gz
+            │       ├── reads2.fastq.gz
+            │       └── reads3.fastq.gz
+            └── transcriptomic_data/
+                └── {tissue_id}/
+                    ├── illumina/
+                    │   ├── reads1_1.fastq.gz
+                    │   ├── reads1_2.fastq.gz
+                    │   ├── reads2_1.fastq.gz
+                    │   └── reads2_2.fastq.gz
+                    └── pacbio/
+                        ├── reads1.fastq.gz
+                        ├── reads2.fastq.gz
+                        └── reads3.fastq.gz
+```
+
+The primary changes to this structure are the addition of new directories under
+`genomic_data`. Generally, each data type is named after the company that
+generated it. This has changed slightly since multiple companies are generating
+multiple types of data. Try not to let the inconsistency get to you. If you have a data type not specified, please
+reach out to `#data-coord` on the VGP Slack workspace for a discussion on naming.
