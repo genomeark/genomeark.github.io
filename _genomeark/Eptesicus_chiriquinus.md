@@ -98,8 +98,41 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1702485186
-last_updated: 1703099074
+last_updated: 1723146571
+mds:
+- data: species:&nbsp;Eptesicus&nbsp;chiriquinus<br>specimen:&nbsp;mEptChi1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>&nbsp;&nbsp;-&nbsp;bat1k<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Eptesicus_chiriquinus/mEptChi1/assembly_vgp_HiC_2.0/mEptChi1.HiC.hap1.20231219.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Eptesicus_chiriquinus/mEptChi1/assembly_vgp_HiC_2.0/mEptChi1.HiC.hap2.20231219.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Eptesicus_chiriquinus/mEptChi1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mEptChi1_hap1_s2.pretext<br>pretext:&nbsp;s3://genomeark/species/Eptesicus_chiriquinus/mEptChi1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mEptChi1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Eptesicus_chiriquinus/mEptChi1/assembly_vgp_HiC_2.0/evaluation/merqury/mEptChi1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Eptesicus_chiriquinus/mEptChi1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Eptesicus_chiriquinus/mEptChi1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Eptesicus_chiriquinus/mEptChi1/assembly_MT_rockefeller/mEptChi1.MT.20231219.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mEptChi1.&nbsp;This&nbsp;hap1&nbsp;assembly&nbsp;and&nbsp;hap2&nbsp;assembly&nbsp;underwent&nbsp;separate&nbsp;HiC&nbsp;scaffolding&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;HiC&nbsp;reaction&nbsp;was&nbsp;using&nbsp;Arima&nbsp;kit&nbsp;v2.<br>
+  ident: md3
+  title: assembly_vgp_HiC_2.0/mEptChi1.yml
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mEptChi<br>&nbsp;&nbsp;name:&nbsp;Eptesicus&nbsp;chiriquinus<br>&nbsp;&nbsp;taxon_id:&nbsp;409022<br>&nbsp;&nbsp;common_name:&nbsp;Chiriquinan&nbsp;serotine<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mEptChi1<br>&nbsp;&nbsp;genome_size:&nbsp;2383875000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
+mito1date: 2023-12-19
+mito1filesize: 5.3 KiB
+mito1length: '16837'
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Eptesicus_chiriquinus/mEptChi1/assembly_MT_rockefeller/mEptChi1.MT.20231219.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.84 Kbp </th><th> 1 </th><th> 16.84 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Eptesicus chiriquinus
 name_: Eptesicus_chiriquinus
 project:

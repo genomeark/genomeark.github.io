@@ -98,7 +98,11 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1706706836
-last_updated: 1707850889
+last_updated: 1723066460
+mds:
+- data: species:&nbsp;Myotis&nbsp;tricolor<br>specimen:&nbsp;mMyoTri1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>&nbsp;&nbsp;-&nbsp;bat1k<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Myotis_tricolor/mMyoTri1/assembly_vgp_HiC_2.0/mMyoTri1.HiC.hap1.20240212.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Myotis_tricolor/mMyoTri1/assembly_vgp_HiC_2.0/mMyoTri1.HiC.hap2.20240212.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Myotis_tricolor/mMyoTri1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mMyoTri1_hap1_s2.pretext<br>pretext:&nbsp;s3://genomeark/species/Myotis_tricolor/mMyoTri1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mMyoTri1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Myotis_tricolor/mMyoTri1/assembly_vgp_HiC_2.0/evaluation/merqury/mMyoTri1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Myotis_tricolor/mMyoTri1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Myotis_tricolor/mMyoTri1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Myotis_tricolor/mMyoTri1/assembly_MT_rockefeller/mMyoTri1.MT.20240212.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mMyoTri1.&nbsp;This&nbsp;hap1&nbsp;assembly&nbsp;and&nbsp;hap2&nbsp;assembly&nbsp;underwent&nbsp;separate&nbsp;HiC&nbsp;scaffolding&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;HiC&nbsp;reaction&nbsp;was&nbsp;using&nbsp;Arima&nbsp;kit&nbsp;v2.<br>
+  ident: md3
+  title: assembly_vgp_HiC_2.0/mMyoTri1.yml
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoTri<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;tricolor<br>&nbsp;&nbsp;taxon_id:&nbsp;233765<br>&nbsp;&nbsp;common_name:&nbsp;Temminck's&nbsp;myotis<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoTri1<br>&nbsp;&nbsp;genome_size:&nbsp;2210280000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 mito1date: 2024-02-12
 mito1filesize: 5.4 KiB

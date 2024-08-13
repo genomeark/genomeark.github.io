@@ -21,6 +21,26 @@ data_bionano-1_scale: 580.9160
 data_bionano_bases: N/A
 data_bionano_bytes: 545.2 MiB
 data_bionano_coverage: 204.64x
+data_pacbiohifi_bam-1_bases: 193.69 Gbp
+data_pacbiohifi_bam-1_bytes: 673.6 GiB
+data_pacbiohifi_bam-1_coverage: 119.34x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhineura_floridana/rRhiFlo1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2678
+data_pacbiohifi_bam_bases: 193.69 Gbp
+data_pacbiohifi_bam_bytes: 673.6 GiB
+data_pacbiohifi_bam_coverage: 119.34x
+data_pacbiohifi_clr-1_bases: 1397.16 Gbp
+data_pacbiohifi_clr-1_bytes: 2.4 TiB
+data_pacbiohifi_clr-1_coverage: 860.85x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhineura_floridana/rRhiFlo1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5338
+data_pacbiohifi_clr_bases: 1397.16 Gbp
+data_pacbiohifi_clr_bytes: 2.4 TiB
+data_pacbiohifi_clr_coverage: 860.85x
 data_pacbiohifi_fqgz-1_bases: 62.24 Gbp
 data_pacbiohifi_fqgz-1_bytes: 47.5 GiB
 data_pacbiohifi_fqgz-1_coverage: 38.35x
@@ -100,8 +120,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1677258152
-last_updated: 1680739492
+last_raw_data: 1723065578
+last_updated: 1723065578
 mds:
 - data: species:&nbsp;Rhineura&nbsp;floridana<br>specimen:&nbsp;rRhiFlo1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/rRhiFlo1.HiC.hap1.20230305.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/rRhiFlo1.HiC.hap2.20230305.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rRhiFlo1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rRhiFlo1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/assembly_vgp_HiC_2.0/evaluation/merqury/rRhiFlo1_png/<br>mito:&nbsp;s3://genomeark/working/temp_mitos/rRhiFlo1.MT.20230306.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.5+galaxy1)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rRhiFlo1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;hap2&nbsp;for&nbsp;curation.
   ident: md6

@@ -1,16 +1,16 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: Barred grass snake
-data_arima-1_bases: 251.10 Gbp
-data_arima-1_bytes: 70.2 GiB
-data_arima-1_coverage: 109.26x
+data_arima-1_bases: 429.27 Gbp
+data_arima-1_bytes: 122.6 GiB
+data_arima-1_coverage: 186.78x
 data_arima-1_links: s3://genomeark/species/Natrix_helvetica/rNatHel1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Natrix_helvetica/rNatHel1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Natrix_helvetica/rNatHel1/genomic_data/arima/
-data_arima-1_scale: 3.3315
-data_arima_bases: 251.10 Gbp
-data_arima_bytes: 70.2 GiB
-data_arima_coverage: 109.26x
+data_arima-1_scale: 3.2603
+data_arima_bases: 429.27 Gbp
+data_arima_bytes: 122.6 GiB
+data_arima_coverage: 186.78x
 data_pacbiohifi_bam-1_bases: 66.33 Gbp
 data_pacbiohifi_bam-1_bytes: 20.5 GiB
 data_pacbiohifi_bam-1_coverage: 28.86x
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2298300000
 genome_size_display: 2.30 Gbp
 genome_size_method: GoaT
-last_raw_data: 1718366367
-last_updated: 1718366367
+last_raw_data: 1723126850
+last_updated: 1723126850
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;rNatHel<br>&nbsp;&nbsp;name:&nbsp;Natrix&nbsp;helvetica<br>&nbsp;&nbsp;taxon_id:&nbsp;2025560<br>&nbsp;&nbsp;common_name:&nbsp;Barred&nbsp;grass&nbsp;snake<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Natricidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rNatHel1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114598156<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;2298300000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Natrix helvetica
 name_: Natrix_helvetica

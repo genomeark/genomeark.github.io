@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: starry smooth-hound
 data_arima-1_bases: 972.47 Gbp
 data_arima-1_bytes: 270.7 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 4205400000
 genome_size_display: 4.21 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-05-15
-hpa1filesize: 0.9 GiB
-hpa1length: '3681710890'
-hpa1n50ctg: 1004531
-hpa1n50scf: 99377179
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Mustelus_asterias/sMusAst1/assembly_cambridge/sMusAst1.hap1.asm.20240515.fasta.gz
+hpa1date: 2024-08-09
+hpa1filesize: 1.0 GiB
+hpa1length: '3679792345'
+hpa1n50ctg: 1000918
+hpa1n50scf: 103476532
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Mustelus_asterias/sMusAst1/assembly_curated/sMusAst1.hap1.cur.20240809.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 86 </td><td> 3.64 Mbp </td><td> 3 </td><td> 159.79 Mbp </td></tr><tr><td> 20 </td><td> 228 </td><td> 2.43 Mbp </td><td> 6 </td><td> 141.84 Mbp </td></tr><tr><td> 30 </td><td> 432 </td><td> 1.78 Mbp </td><td> 9 </td><td> 129.08 Mbp </td></tr><tr><td> 40 </td><td> 704 </td><td> 1.34 Mbp </td><td> 12 </td><td> 108.45 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1066 </td><td style="background-color:#88ff88;"> 1.00 Mbp </td><td> 16 </td><td style="background-color:#88ff88;"> 99.38 Mbp </td></tr><tr><td> 60 </td><td> 1558 </td><td> 0.72 Mbp </td><td> 21 </td><td> 74.69 Mbp </td></tr><tr><td> 70 </td><td> 2289 </td><td> 451.50 Kbp </td><td> 29 </td><td> 25.71 Mbp </td></tr><tr><td> 80 </td><td> 3691 </td><td> 190.04 Kbp </td><td> 465 </td><td> 362.74 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 86 </td><td> 3.64 Mbp </td><td> 3 </td><td> 159.79 Mbp </td></tr><tr><td> 20 </td><td> 228 </td><td> 2.43 Mbp </td><td> 6 </td><td> 147.99 Mbp </td></tr><tr><td> 30 </td><td> 432 </td><td> 1.78 Mbp </td><td> 8 </td><td> 140.55 Mbp </td></tr><tr><td> 40 </td><td> 704 </td><td> 1.34 Mbp </td><td> 12 </td><td> 111.21 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1068 </td><td style="background-color:#88ff88;"> 1.00 Mbp </td><td> 16 </td><td style="background-color:#88ff88;"> 103.48 Mbp </td></tr><tr><td> 60 </td><td> 1562 </td><td> 0.72 Mbp </td><td> 20 </td><td> 82.89 Mbp </td></tr><tr><td> 70 </td><td> 2297 </td><td> 449.85 Kbp </td><td> 27 </td><td> 43.68 Mbp </td></tr><tr><td> 80 </td><td> 3710 </td><td> 187.77 Kbp </td><td> 384 </td><td> 360.00 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.875x </th><th> 8895 </th><th> 3.68 Gbp </th><th> 5402 </th><th> 3.68 Gbp </th></tr>
+  <tr><th> 0.875x </th><th> 8904 </th><th> 3.68 Gbp </th><th> 5314 </th><th> 3.68 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-05-15
-hpb1filesize: 875.2 MiB
-hpb1length: '3476018964'
+hpa1version: assembly_curated
+hpb1date: 2024-08-09
+hpb1filesize: 0.9 GiB
+hpb1length: '3476679425'
 hpb1n50ctg: 958576
-hpb1n50scf: 96213563
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Mustelus_asterias/sMusAst1/assembly_cambridge/sMusAst1.hap2.asm.20240515.fasta.gz
+hpb1n50scf: 101704656
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Mustelus_asterias/sMusAst1/assembly_curated/sMusAst1.hap2.cur.20240809.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 89 </td><td> 3.60 Mbp </td><td> 3 </td><td> 157.47 Mbp </td></tr><tr><td> 20 </td><td> 233 </td><td> 2.36 Mbp </td><td> 6 </td><td> 141.88 Mbp </td></tr><tr><td> 30 </td><td> 436 </td><td> 1.80 Mbp </td><td> 9 </td><td> 131.43 Mbp </td></tr><tr><td> 40 </td><td> 711 </td><td> 1.32 Mbp </td><td> 12 </td><td> 109.23 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1083 </td><td style="background-color:#ff8888;"> 0.96 Mbp </td><td> 16 </td><td style="background-color:#88ff88;"> 96.21 Mbp </td></tr><tr><td> 60 </td><td> 1608 </td><td> 0.66 Mbp </td><td> 21 </td><td> 75.94 Mbp </td></tr><tr><td> 70 </td><td> 2452 </td><td> 366.75 Kbp </td><td> 31 </td><td> 6.49 Mbp </td></tr><tr><td> 80 </td><td> 4652 </td><td> 82.58 Kbp </td><td> 1211 </td><td> 83.00 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 89 </td><td> 3.58 Mbp </td><td> 3 </td><td> 157.47 Mbp </td></tr><tr><td> 20 </td><td> 233 </td><td> 2.36 Mbp </td><td> 6 </td><td> 149.22 Mbp </td></tr><tr><td> 30 </td><td> 437 </td><td> 1.80 Mbp </td><td> 9 </td><td> 135.76 Mbp </td></tr><tr><td> 40 </td><td> 712 </td><td> 1.32 Mbp </td><td> 12 </td><td> 109.78 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1085 </td><td style="background-color:#ff8888;"> 0.96 Mbp </td><td> 16 </td><td style="background-color:#88ff88;"> 101.70 Mbp </td></tr><tr><td> 60 </td><td> 1609 </td><td> 0.66 Mbp </td><td> 21 </td><td> 81.11 Mbp </td></tr><tr><td> 70 </td><td> 2450 </td><td> 368.67 Kbp </td><td> 27 </td><td> 44.47 Mbp </td></tr><tr><td> 80 </td><td> 4637 </td><td> 83.00 Kbp </td><td> 1123 </td><td> 83.40 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.826x </th><th> 7916 </th><th> 3.48 Gbp </th><th> 4484 </th><th> 3.48 Gbp </th></tr>
+  <tr><th> 0.827x </th><th> 7908 </th><th> 3.48 Gbp </th><th> 4403 </th><th> 3.48 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1715290535
-last_updated: 1715786741
+last_updated: 1723161733
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;sMusAst<br>&nbsp;&nbsp;name:&nbsp;Mustelus&nbsp;asterias<br>&nbsp;&nbsp;taxon_id:&nbsp;112232<br>&nbsp;&nbsp;common_name:&nbsp;starry&nbsp;smooth-hound<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carcharhiniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Triakidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sMusAst1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114298637<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;4205400000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-05-15
 mito1filesize: 5.1 KiB

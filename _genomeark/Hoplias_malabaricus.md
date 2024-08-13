@@ -11,16 +11,26 @@ data_arima-1_scale: 1.8088
 data_arima_bases: 57.37 Gbp
 data_arima_bytes: 29.5 GiB
 data_arima_coverage: 45.82x
-data_pacbiohifi_bam-1_bases: 15.49 Gbp
-data_pacbiohifi_bam-1_bytes: 53.8 GiB
-data_pacbiohifi_bam-1_coverage: 12.37x
+data_pacbiohifi_bam-1_bases: 52.47 Gbp
+data_pacbiohifi_bam-1_bytes: 181.0 GiB
+data_pacbiohifi_bam-1_coverage: 41.91x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2682
-data_pacbiohifi_bam_bases: 15.49 Gbp
-data_pacbiohifi_bam_bytes: 53.8 GiB
-data_pacbiohifi_bam_coverage: 12.37x
+data_pacbiohifi_bam-1_scale: 0.2700
+data_pacbiohifi_bam_bases: 52.47 Gbp
+data_pacbiohifi_bam_bytes: 181.0 GiB
+data_pacbiohifi_bam_coverage: 41.91x
+data_pacbiohifi_clr-1_bases: 217.69 Gbp
+data_pacbiohifi_clr-1_bytes: 382.1 GiB
+data_pacbiohifi_clr-1_coverage: 173.87x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5306
+data_pacbiohifi_clr_bases: 217.69 Gbp
+data_pacbiohifi_clr_bytes: 382.1 GiB
+data_pacbiohifi_clr_coverage: 173.87x
 data_pacbiohifi_fqgz-1_bases: 33.64 Gbp
 data_pacbiohifi_fqgz-1_bytes: 24.2 GiB
 data_pacbiohifi_fqgz-1_coverage: 26.87x
@@ -98,8 +108,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1665002652
-last_updated: 1687166740
+last_raw_data: 1722628035
+last_updated: 1722628035
 mds:
 - data: species:&nbsp;Hoplias&nbsp;malabaricus<br>specimen:&nbsp;fHopMal1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/fHopMal1.HiC.hap1.20221005.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/fHopMal1.HiC.hap2.20221005.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fHopMal1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fHopMal1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/assembly_vgp_HiC_2.0/evaluation/merqury/fHopMal1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/arima/<br>hic_kit:&nbsp;Arima2<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy3)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fHopMal1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YAHS.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;hap2&nbsp;for&nbsp;curation,&nbsp;though&nbsp;file&nbsp;locations&nbsp;for&nbsp;hap1&nbsp;are&nbsp;included&nbsp;here&nbsp;in&nbsp;case&nbsp;it&nbsp;is&nbsp;useful.&nbsp;
   ident: md14

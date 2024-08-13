@@ -98,8 +98,41 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1708287605
-last_updated: 1708805465
+last_updated: 1723060577
+mds:
+- data: species:&nbsp;Myotis&nbsp;nesopolus&nbsp;<br>specimen:&nbsp;mMyoNes1&nbsp;<br>projects:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp&nbsp;<br>&nbsp;&nbsp;-&nbsp;bat1k&nbsp;<br>assembled_by_group:&nbsp;Rockefeller&nbsp;<br>data_location:&nbsp;S3&nbsp;<br>release_to:&nbsp;S3&nbsp;<br>primary:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_vgp_HiC_2.0/mMyoNes1.HiC.hap1.2024223.fasta.gz&nbsp;<br>haplotigs:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_vgp_HiC_2.0/mMyoNes1.HiC.hap2.20240223.fasta.gz&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mMyoNes1_hap1_s2.pretext&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mMyoNes1_hap2_s2.pretext&nbsp;<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_vgp_HiC_2.0/evaluation/merqury/mMyoNes1_png/&nbsp;<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/genomic_data/pacbio_hifi/&nbsp;<br>pacbio_read_type:&nbsp;hifi&nbsp;<br>hic_read_dir:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/genomic_data/arima/&nbsp;<br>mito:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_MT_rockefeller/mMyoNes1.MT.2024223.fasta.gz&nbsp;<br>pipeline:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)&nbsp;<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)&nbsp;<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mMyoNes1.&nbsp;This&nbsp;hap1&nbsp;assembly&nbsp;and&nbsp;hap2&nbsp;assembly&nbsp;underwent&nbsp;separate&nbsp;HiC&nbsp;scaffolding&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;HiC&nbsp;reaction&nbsp;was&nbsp;using&nbsp;Arima.&nbsp;<br>
+  ident: md3
+  title: assembly_vgp_HiC_2.0/mMyoNes1.yml
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoNes<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;nesopolus<br>&nbsp;&nbsp;taxon_id:&nbsp;1163727<br>&nbsp;&nbsp;common_name:&nbsp;Curaçao&nbsp;myotis<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoNes1<br>&nbsp;&nbsp;genome_size:&nbsp;2210280000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
+mito1date: 2024-02-23
+mito1filesize: 5.4 KiB
+mito1length: '17250'
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_MT_rockefeller/mMyoNes1.MT.20240223.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 17.25 Kbp </th><th> 1 </th><th> 17.25 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Myotis nesopolus
 name_: Myotis_nesopolus
 project:

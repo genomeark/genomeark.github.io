@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
 data_arima:bSerCaa1_bases: 132.65 Gbp
 data_arima:bSerCaa1_bytes: 66.5 GiB
@@ -60,7 +60,36 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1711464863
-last_updated: 1711464863
+last_updated: 1723174088
+mat1date: 2024-08-08
+mat1filesize: 317.8 MiB
+mat1length: 0
+mat1n50ctg: 0
+mat1n50scf: 0
+mat1seq: https://s3.amazonaws.com/genomeark/species/Serinus_canaria/bSerCaa1/assembly_vgp_HiC_2.0/bSerCaa1.HiC.mat.20240808.fasta.gz
+mat1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 0 </td><td> 0 </td><td> 0 </td><td> 0 </td><td> 0 </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr style="background-color:#cccccc;"><td>  </td><td>  </td><td style="background-color:#ff8888;">  </td><td>  </td><td style="background-color:#ff8888;">  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th>  </th><th>  </th><th>  </th><th>  </th><th>  </th></tr>
+  </tfoot>
+  </table>
+mat1version: assembly_vgp_HiC_2.0
 name: Serinus canaria
 name_: Serinus_canaria
 project: ~

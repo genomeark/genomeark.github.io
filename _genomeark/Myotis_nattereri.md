@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Natterer's bat
 data_arima-1_bases: 287.96 Gbp
 data_arima-1_bytes: 78.0 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2210280000
 genome_size_display: 2.21 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-07-08
-hpa1filesize: 542.2 MiB
-hpa1length: '2103387787'
+hpa1date: 2024-07-31
+hpa1filesize: 606.2 MiB
+hpa1length: '2124021592'
 hpa1n50ctg: 1980154
-hpa1n50scf: 92938645
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Myotis_nattereri/mMyoNat1/assembly_cambridge/mMyoNat1.hap1.asm.20240708.fasta.gz
+hpa1n50scf: 101144875
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Myotis_nattereri/mMyoNat1/assembly_curated/mMyoNat1.hap1.cur.20240731.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 35 </td><td> 5.18 Mbp </td><td> 1 </td><td> 231.76 Mbp </td></tr><tr><td> 20 </td><td> 85 </td><td> 3.80 Mbp </td><td> 2 </td><td> 216.47 Mbp </td></tr><tr><td> 30 </td><td> 149 </td><td> 3.08 Mbp </td><td> 3 </td><td> 215.95 Mbp </td></tr><tr><td> 40 </td><td> 229 </td><td> 2.50 Mbp </td><td> 5 </td><td> 109.85 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 329 </td><td style="background-color:#88ff88;"> 1.98 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 92.94 Mbp </td></tr><tr><td> 60 </td><td> 456 </td><td> 1.54 Mbp </td><td> 10 </td><td> 82.85 Mbp </td></tr><tr><td> 70 </td><td> 616 </td><td> 1.21 Mbp </td><td> 13 </td><td> 65.47 Mbp </td></tr><tr><td> 80 </td><td> 832 </td><td> 0.85 Mbp </td><td> 17 </td><td> 53.85 Mbp </td></tr><tr><td> 90 </td><td> 1189 </td><td> 411.32 Kbp </td><td> 24 </td><td> 11.99 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 35 </td><td> 5.18 Mbp </td><td> 1 </td><td> 231.76 Mbp </td></tr><tr><td> 20 </td><td> 85 </td><td> 3.81 Mbp </td><td> 2 </td><td> 217.01 Mbp </td></tr><tr><td> 30 </td><td> 149 </td><td> 3.10 Mbp </td><td> 3 </td><td> 215.95 Mbp </td></tr><tr><td> 40 </td><td> 228 </td><td> 2.50 Mbp </td><td> 5 </td><td> 113.47 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 329 </td><td style="background-color:#88ff88;"> 1.98 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 101.14 Mbp </td></tr><tr><td> 60 </td><td> 454 </td><td> 1.55 Mbp </td><td> 9 </td><td> 93.13 Mbp </td></tr><tr><td> 70 </td><td> 613 </td><td> 1.23 Mbp </td><td> 12 </td><td> 83.31 Mbp </td></tr><tr><td> 80 </td><td> 826 </td><td> 0.87 Mbp </td><td> 15 </td><td> 59.94 Mbp </td></tr><tr><td> 90 </td><td> 1166 </td><td> 460.05 Kbp </td><td> 19 </td><td> 44.16 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.952x </th><th> 2012 </th><th> 2.10 Gbp </th><th> 524 </th><th> 2.10 Gbp </th></tr>
+  <tr><th> 0.961x </th><th> 1963 </th><th> 2.12 Gbp </th><th> 343 </th><th> 2.12 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-07-08
-hpb1filesize: 506.1 MiB
-hpb1length: '1956928766'
-hpb1n50ctg: 1750935
-hpb1n50scf: 92118740
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Myotis_nattereri/mMyoNat1/assembly_cambridge/mMyoNat1.hap2.asm.20240708.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2024-07-31
+hpb1filesize: 552.5 MiB
+hpb1length: '1930603033'
+hpb1n50ctg: 1748187
+hpb1n50scf: 93545711
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Myotis_nattereri/mMyoNat1/assembly_curated/mMyoNat1.hap2.cur.20240731.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 34 </td><td> 5.15 Mbp </td><td> 1 </td><td> 230.96 Mbp </td></tr><tr><td> 20 </td><td> 86 </td><td> 3.71 Mbp </td><td> 2 </td><td> 214.95 Mbp </td></tr><tr><td> 30 </td><td> 153 </td><td> 2.98 Mbp </td><td> 4 </td><td> 113.76 Mbp </td></tr><tr><td> 40 </td><td> 238 </td><td> 2.31 Mbp </td><td> 6 </td><td> 97.80 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 347 </td><td style="background-color:#88ff88;"> 1.75 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 92.12 Mbp </td></tr><tr><td> 60 </td><td> 491 </td><td> 1.35 Mbp </td><td> 10 </td><td> 82.65 Mbp </td></tr><tr><td> 70 </td><td> 678 </td><td> 1.01 Mbp </td><td> 14 </td><td> 58.21 Mbp </td></tr><tr><td> 80 </td><td> 958 </td><td> 0.59 Mbp </td><td> 18 </td><td> 43.88 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 34 </td><td> 5.15 Mbp </td><td> 1 </td><td> 230.96 Mbp </td></tr><tr><td> 20 </td><td> 86 </td><td> 3.67 Mbp </td><td> 2 </td><td> 214.95 Mbp </td></tr><tr><td> 30 </td><td> 153 </td><td> 2.96 Mbp </td><td> 4 </td><td> 113.76 Mbp </td></tr><tr><td> 40 </td><td> 238 </td><td> 2.31 Mbp </td><td> 6 </td><td> 97.80 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 348 </td><td style="background-color:#88ff88;"> 1.75 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 93.55 Mbp </td></tr><tr><td> 60 </td><td> 493 </td><td> 1.34 Mbp </td><td> 10 </td><td> 82.78 Mbp </td></tr><tr><td> 70 </td><td> 682 </td><td> 0.99 Mbp </td><td> 13 </td><td> 61.77 Mbp </td></tr><tr><td> 80 </td><td> 971 </td><td> 0.57 Mbp </td><td> 17 </td><td> 53.44 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.885x </th><th> 1788 </th><th> 1.96 Gbp </th><th> 399 </th><th> 1.96 Gbp </th></tr>
+  <tr><th> 0.873x </th><th> 1706 </th><th> 1.93 Gbp </th><th> 319 </th><th> 1.93 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1721944928
-last_updated: 1721944928
+last_updated: 1722384311
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoNat<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;nattereri<br>&nbsp;&nbsp;taxon_id:&nbsp;109481<br>&nbsp;&nbsp;common_name:&nbsp;Natterer's&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoNat1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114614248<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2210280000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-07-08
 mito1filesize: 5.1 KiB

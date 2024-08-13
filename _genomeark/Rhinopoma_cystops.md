@@ -98,7 +98,11 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1700708401
-last_updated: 1713990127
+last_updated: 1723140775
+mds:
+- data: species:&nbsp;Rhinopoma&nbsp;cystops<br>specimen:&nbsp;mRhiCys1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>&nbsp;&nbsp;-&nbsp;bat1k<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_vgp_HiC_2.0/mRhiCys1.HiC.hap1.20231204.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_vgp_HiC_2.0/mRhiCys1.HiC.hap2.20231204.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mRhiCys1_hap1_s2.pretext<br>pretext:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mRhiCys1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_vgp_HiC_2.0/evaluation/merqury/mRhiCys1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_MT_rockefeller/mRhiCys1.MT.20231204.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mRhiCys1.&nbsp;This&nbsp;hap1&nbsp;assembly&nbsp;and&nbsp;hap2&nbsp;assembly&nbsp;underwent&nbsp;separate&nbsp;HiC&nbsp;scaffolding&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;HiC&nbsp;reaction&nbsp;was&nbsp;using&nbsp;Arima&nbsp;kit&nbsp;v2.<br>
+  ident: md3
+  title: assembly_vgp_HiC_2.0/mRhiCys1.yml
 mito1date: 2023-12-04
 mito1filesize: 5.3 KiB
 mito1length: '16867'

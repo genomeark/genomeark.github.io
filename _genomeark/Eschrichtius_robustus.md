@@ -40,6 +40,16 @@ data_bionano-1_scale: 641.5795
 data_bionano_bases: N/A
 data_bionano_bytes: 1.1 GiB
 data_bionano_coverage: 263.83x
+data_pacbiohifi_clr-2_bases: 278.91 Gbp
+data_pacbiohifi_clr-2_bytes: 657.1 GiB
+data_pacbiohifi_clr-2_coverage: 97.18x
+data_pacbiohifi_clr-2_links: s3://genomeark/species/Eschrichtius_robustus/mEscRob2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Eschrichtius_robustus/mEscRob2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Eschrichtius_robustus/mEscRob2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_scale: 0.3953
+data_pacbiohifi_clr_bases: 278.91 Gbp
+data_pacbiohifi_clr_bytes: 657.1 GiB
+data_pacbiohifi_clr_coverage: 97.18x
 data_pacbiohifi_fqgz-2_bases: 84.99 Gbp
 data_pacbiohifi_fqgz-2_bytes: 64.4 GiB
 data_pacbiohifi_fqgz-2_coverage: 29.61x
@@ -60,8 +70,8 @@ genbank_pri: mEscRob2:GCA_028021215.1
 genome_size: 2870000000
 genome_size_display: 2.87 Gbp
 genome_size_method: GoaT ancestral inferred
-last_raw_data: 1656686407
-last_updated: 1669853600
+last_raw_data: 1722527954
+last_updated: 1722527954
 mds:
 - data: species:&nbsp;Eschrichtius&nbsp;robustus<br>specimen:&nbsp;mEscRob2<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Eschrichtius_robustus/mEscRob2/assembly_vgp_standard_2.0/mEscRob2.standard.pri.20221005.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Eschrichtius_robustus/mEscRob2/assembly_vgp_standard_2.0/evaluation/pretext/mEscRob2_hap2__s2_heatmap.pretext<br>haplotigs:&nbsp;s3://genomeark/species/Eschrichtius_robustus/mEscRob2/assembly_vgp_standard_2.0/intermediates/mEscRob2_c2.fasta.gz<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Eschrichtius_robustus/mEscRob2/assembly_vgp_standard_2.0/evaluation/merqury/mEscRob2_png<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Eschrichtius_robustus/mEscRob2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;SRR12437598<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy3)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;assembly&nbsp;was&nbsp;run&nbsp;with&nbsp;the&nbsp;standard&nbsp;hifiasm&nbsp;pipeline&nbsp;(ie,&nbsp;pseudohaplotype)&nbsp;with&nbsp;hifiasm&nbsp;internal&nbsp;purging&nbsp;set&nbsp;at&nbsp;intermediate.&nbsp;There&nbsp;was&nbsp;no&nbsp;bionano&nbsp;data.&nbsp;Hi-C&nbsp;reads&nbsp;were&nbsp;generated&nbsp;from&nbsp;a&nbsp;different&nbsp;indvidual&nbsp;than&nbsp;the&nbsp;HiFi&nbsp;reads.&nbsp;For&nbsp;Hi-C&nbsp;reads&nbsp;we&nbsp;put&nbsp;the&nbsp;SRR&nbsp;accession&nbsp;number&nbsp;as&nbsp;they&nbsp;were&nbsp;from&nbsp;DNAzoo.&nbsp;<br><br>
   ident: md5

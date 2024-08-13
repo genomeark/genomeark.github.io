@@ -1,15 +1,15 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
-data_dovetail-1_bases: 286.46 Gbp
-data_dovetail-1_bytes: 145.8 GiB
+data_dovetail-1_bases: 428.42 Gbp
+data_dovetail-1_bytes: 216.8 GiB
 data_dovetail-1_coverage: N/A
 data_dovetail-1_links: s3://genomeark/species/Cyclura_pinguis/rCycPin1/genomic_data/dovetail/<br>
 data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Cyclura_pinguis/rCycPin1/genomic_data/dovetail/
 data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclura_pinguis/rCycPin1/genomic_data/dovetail/
-data_dovetail-1_scale: 1.8294
-data_dovetail_bases: 286.46 Gbp
-data_dovetail_bytes: 145.8 GiB
+data_dovetail-1_scale: 1.8403
+data_dovetail_bases: 428.42 Gbp
+data_dovetail_bytes: 216.8 GiB
 data_dovetail_coverage: N/A
 data_pacbiohifi_bam-1_bases: 181.43 Gbp
 data_pacbiohifi_bam-1_bytes: 637.4 GiB
@@ -107,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1718310710
-last_updated: 1718310710
+last_raw_data: 1723066628
+last_updated: 1723066628
 mds:
 - data: species:&nbsp;Cyclura&nbsp;pinguis<br>specimen:&nbsp;rCycPin1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>hap1:&nbsp;s3://genomeark/species/Cyclura_pinguis/rCycPin1/assembly_vgp_HiC_2.0/rCycPin1.HiC.hap1.20230321.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Cyclura_pinguis/rCycPin1/assembly_vgp_HiC_2.0/rCycPin1.HiC.hap2.20230321.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Cyclura_pinguis/rCycPin1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rCycPin1_hap1__s1_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Cyclura_pinguis/rCycPin1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rCycPin1_hap2__s1_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Cyclura_pinguis/rCycPin1/assembly_vgp_HiC_2.0/evaluation/merqury/rCycPin1_png/<br>mito:&nbsp;s3://genomeark/species/Cyclura_pinguis/rCycPin1/assembly_MT_rockefeller/rCycPin1.MT.20230210.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Cyclura_pinguis/rCycPin1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Cyclura_pinguis/rCycPin1/genomic_data/dovetail/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Cyclura_pinguis/rCycPin1/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rCycPin1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;not&nbsp;performed,&nbsp;as&nbsp;when&nbsp;it&nbsp;was&nbsp;attempted,&nbsp;it&nbsp;resulted&nbsp;in&nbsp;no&nbsp;new&nbsp;joins.&nbsp;So&nbsp;these&nbsp;assemblies&nbsp;have&nbsp;only&nbsp;Bionano&nbsp;scaffolding.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;<br><br>
   ident: md5

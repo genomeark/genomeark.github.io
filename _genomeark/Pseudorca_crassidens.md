@@ -11,16 +11,16 @@ data_bionano-1_scale: 465.3108
 data_bionano_bases: N/A
 data_bionano_bytes: 1.7 GiB
 data_bionano_coverage: 270.84x
-data_dovetail-1_bases: 321.42 Gbp
-data_dovetail-1_bytes: 165.4 GiB
-data_dovetail-1_coverage: 104.32x
+data_dovetail-1_bases: 480.40 Gbp
+data_dovetail-1_bytes: 245.5 GiB
+data_dovetail-1_coverage: 155.92x
 data_dovetail-1_links: s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/dovetail/<br>
 data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/dovetail/
 data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudorca_crassidens/mPseCra1/genomic_data/dovetail/
-data_dovetail-1_scale: 1.8101
-data_dovetail_bases: 321.42 Gbp
-data_dovetail_bytes: 165.4 GiB
-data_dovetail_coverage: 104.32x
+data_dovetail-1_scale: 1.8223
+data_dovetail_bases: 480.40 Gbp
+data_dovetail_bytes: 245.5 GiB
+data_dovetail_coverage: 155.92x
 data_pacbiohifi_bam-1_bases: 116.99 Gbp
 data_pacbiohifi_bam-1_bytes: 403.2 GiB
 data_pacbiohifi_bam-1_coverage: 37.97x
@@ -117,8 +117,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1674509833
-last_updated: 1715195397
+last_raw_data: 1723066921
+last_updated: 1723066921
 mds:
 - data: species:&nbsp;Pseudorca&nbsp;crassidens<br>specimen:&nbsp;mPseCra1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Pseudorca_crassidens/mPseCra1/assembly_vgp_HiC_2.0/mPseCra1.HiC.hap1.20240226.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Pseudorca_crassidens/mPseCra1/assembly_vgp_HiC_2.0/mPseCra1.HiC.hap2.20240226.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Pseudorca_crassidens/mPseCra1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mPseCra1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Pseudorca_crassidens/mPseCra1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mPseCra1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Pseudorca_crassidens/mPseCra1/assembly_vgp_HiC_2.0/evaluation/merqury/mPseCra1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/dovetail/<br>mito:&nbsp;s3://genomeark/species/Pseudorca_crassidens/mPseCra1/assembly_MT_rockefeller/mPseCra1.MT.20240508.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mPseCra1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Dovetail&nbsp;OmniC.<br>
   ident: md5
