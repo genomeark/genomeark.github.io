@@ -327,7 +327,7 @@ hpb2sizes: |
   </table>
 hpb2version: assembly_curated
 last_raw_data: 1722367594
-last_updated: 1722367594
+last_updated: 1725488986
 mat2date: 2022-05-27
 mat2filesize: 289.3 MiB
 mat2length: '1021085914'

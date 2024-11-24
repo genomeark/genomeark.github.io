@@ -8,16 +8,16 @@ data_arima-1_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_dat
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Liasis_olivaceus/rLiaOli1/genomic_data/arima/
 data_arima-1_scale: 1.9173
-data_arima-2_bases: 219.66 Gbp
-data_arima-2_bytes: 102.4 GiB
-data_arima-2_coverage: 131.14x
+data_arima-2_bases: 302.74 Gbp
+data_arima-2_bytes: 139.9 GiB
+data_arima-2_coverage: 180.74x
 data_arima-2_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/arima/<br>
 data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/arima/
 data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Liasis_olivaceus/rLiaOli2/genomic_data/arima/
-data_arima-2_scale: 1.9969
-data_arima_bases: 390.15 Gbp
-data_arima_bytes: 185.3 GiB
-data_arima_coverage: 232.93x
+data_arima-2_scale: 2.0153
+data_arima_bases: 473.22 Gbp
+data_arima_bytes: 222.7 GiB
+data_arima_coverage: 282.52x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 2.1 GiB
 data_bionano-1_coverage: 685.08x
@@ -38,6 +38,13 @@ data_ont-1_scale: 1.1257
 data_ont_bases: 40.22 Gbp
 data_ont_bytes: 33.3 GiB
 data_ont_coverage: 24.01x
+data_pacbiohifi_bam-1_bases: 55.82 Gbp
+data_pacbiohifi_bam-1_bytes: 194.1 GiB
+data_pacbiohifi_bam-1_coverage: 33.32x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Liasis_olivaceus/rLiaOli1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2678
 data_pacbiohifi_bam-2_bases: 449.04 Gbp
 data_pacbiohifi_bam-2_bytes: 230.9 GiB
 data_pacbiohifi_bam-2_coverage: 268.08x
@@ -45,9 +52,16 @@ data_pacbiohifi_bam-2_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli2/ge
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_scale: 1.8111
-data_pacbiohifi_bam_bases: 449.04 Gbp
-data_pacbiohifi_bam_bytes: 230.9 GiB
-data_pacbiohifi_bam_coverage: 268.08x
+data_pacbiohifi_bam_bases: 504.86 Gbp
+data_pacbiohifi_bam_bytes: 425.0 GiB
+data_pacbiohifi_bam_coverage: 301.41x
+data_pacbiohifi_clr-1_bases: 225.90 Gbp
+data_pacbiohifi_clr-1_bytes: 554.5 GiB
+data_pacbiohifi_clr-1_coverage: 134.86x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Liasis_olivaceus/rLiaOli1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.3794
 data_pacbiohifi_clr-2_bases: 450.02 Gbp
 data_pacbiohifi_clr-2_bytes: 783.2 GiB
 data_pacbiohifi_clr-2_coverage: 268.67x
@@ -55,9 +69,9 @@ data_pacbiohifi_clr-2_links: s3://genomeark/species/Liasis_olivaceus/rLiaOli2/ge
 data_pacbiohifi_clr-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/
 data_pacbiohifi_clr-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/
 data_pacbiohifi_clr-2_scale: 0.5351
-data_pacbiohifi_clr_bases: 450.02 Gbp
-data_pacbiohifi_clr_bytes: 783.2 GiB
-data_pacbiohifi_clr_coverage: 268.67x
+data_pacbiohifi_clr_bases: 675.92 Gbp
+data_pacbiohifi_clr_bytes: 1.3 TiB
+data_pacbiohifi_clr_coverage: 403.53x
 data_pacbiohifi_fqgz-1_bases: 56.08 Gbp
 data_pacbiohifi_fqgz-1_bytes: 44.7 GiB
 data_pacbiohifi_fqgz-1_coverage: 33.48x
@@ -200,14 +214,14 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_vgp_HiC_2.0
-last_raw_data: 1710863369
-last_updated: 1712769623
+last_raw_data: 1725476752
+last_updated: 1725476752
 mds:
 - data: species:&nbsp;Liasis&nbsp;olivaceus<br>specimen:&nbsp;rLiaOli1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli1/assembly_vgp_HiC_2.0/rLiaOli1.HiC.hap1.20221214.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli1/assembly_vgp_HiC_2.0/rLiaOli1.HiC.hap2.20221214.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rLiaOli1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rLiaOli1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli1/assembly_vgp_HiC_2.0/evaluation/merqury/rLiaOli1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rLiaOli1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;<br>
   ident: md4
   title: assembly_vgp_HiC_2.0/rLiaOli1.yml
 - data: species:&nbsp;Liasis&nbsp;olivaceus<br>specimen:&nbsp;rLiaOli2<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>hap1:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/assembly_vgp_HiC_2.0/rLiaOli2.HiC.hap1.20240123.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/assembly_vgp_HiC_2.0/rLiaOli2.HiC.hap2.20240123.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rLiaOli2_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rLiaOli2_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/assembly_vgp_HiC_2.0/evaluation/merqury/rLiaOli2_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Liasis_olivaceus/rLiaOli2/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rLiaOli2,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;have&nbsp;bionano&nbsp;data,&nbsp;but&nbsp;it&nbsp;was&nbsp;not&nbsp;used&nbsp;during&nbsp;assembly&nbsp;because&nbsp;the&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;sufficient.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2,&nbsp;and&nbsp;the&nbsp;library&nbsp;prep&nbsp;kit&nbsp;was&nbsp;the&nbsp;Arima&nbsp;kit,&nbsp;requiring&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;off&nbsp;both&nbsp;forward&nbsp;and&nbsp;reverse&nbsp;reads&nbsp;before&nbsp;usage&nbsp;with&nbsp;the&nbsp;Arima&nbsp;mapping&nbsp;pipeline.&nbsp;MitoHiFi&nbsp;failed&nbsp;to&nbsp;find&nbsp;a&nbsp;mito&nbsp;for&nbsp;this&nbsp;individual's&nbsp;data.&nbsp;&nbsp;
-  ident: md15
+  ident: md21
   title: assembly_vgp_HiC_2.0/rLiaOli2.yml
 metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Liasis&nbsp;olivaceus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rLiaOli1<br>&nbsp;&nbsp;short_name:&nbsp;rLiaOli<br>&nbsp;&nbsp;taxon_id:&nbsp;283338<br>&nbsp;&nbsp;common_name:&nbsp;olive&nbsp;python<br>&nbsp;&nbsp;genome_size:&nbsp;1675000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pythonidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Liasis olivaceus

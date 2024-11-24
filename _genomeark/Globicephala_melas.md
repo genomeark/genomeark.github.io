@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-09-12
+alt1date: 2024-09-04
 alt1filesize: 566.5 MiB
 alt1length: '2042593655'
 alt1n50ctg: '60443'
 alt1n50scf: '60443'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Globicephala_melas/mGloMel1/assembly_curated/mGloMel1.alt.cur.20230912.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Globicephala_melas/mGloMel1/assembly_curated/mGloMel1.alt.cur.20240904.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -59,7 +59,7 @@ genome_size: 3080700000
 genome_size_display: 3.08 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691523566
-last_updated: 1694476891
+last_updated: 1725408044
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mGloMel<br>&nbsp;&nbsp;name:&nbsp;Globicephala&nbsp;melas<br>&nbsp;&nbsp;taxon_id:&nbsp;9731<br>&nbsp;&nbsp;common_name:&nbsp;long-finned&nbsp;pilot&nbsp;whale<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cetacea<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Delphinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mGloMel1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111380538<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;3080700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-08-08
 mito1filesize: 5.2 KiB
@@ -92,12 +92,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Globicephala melas
 name_: Globicephala_melas
-pri1date: 2023-09-12
+pri1date: 2024-09-04
 pri1filesize: 708.8 MiB
 pri1length: '2651292441'
 pri1n50ctg: 2696571
 pri1n50scf: 102702331
-pri1seq: https://s3.amazonaws.com/genomeark/species/Globicephala_melas/mGloMel1/assembly_curated/mGloMel1.pri.cur.20230912.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Globicephala_melas/mGloMel1/assembly_curated/mGloMel1.pri.cur.20240904.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>

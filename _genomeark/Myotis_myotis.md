@@ -11,6 +11,16 @@ data_10x-1_scale: 1.5296
 data_10x_bases: 96.00 Gbp
 data_10x_bytes: 58.5 GiB
 data_10x_coverage: 47.92x
+data_arima-2_bases: 1186.27 Gbp
+data_arima-2_bytes: 331.8 GiB
+data_arima-2_coverage: 592.18x
+data_arima-2_links: s3://genomeark/species/Myotis_myotis/mMyoMyo2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myotis_myotis/mMyoMyo2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myotis_myotis/mMyoMyo2/genomic_data/arima/
+data_arima-2_scale: 3.3294
+data_arima_bases: 1186.27 Gbp
+data_arima_bytes: 331.8 GiB
+data_arima_coverage: 592.18x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 3.0 GiB
 data_bionano-1_coverage: 978.33x
@@ -52,7 +62,8 @@ data_phase_bases: 28.51 Gbp
 data_phase_bytes: 15.9 GiB
 data_phase_coverage: 14.23x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
-  HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Phase</em>'
+  HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>
+  ::: <em style="color:forestgreen">Phase</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -61,8 +72,8 @@ genbank_pri: mMyoMyo1:GCA_014108235.1
 genome_size: 2003238046
 genome_size_display: 2.00 Gbp
 genome_size_method: ''
-last_raw_data: 1719562510
-last_updated: 1719562510
+last_raw_data: 1729589389
+last_updated: 1729589389
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoMyo<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;myotis<br>&nbsp;&nbsp;taxon_id:&nbsp;51298<br>&nbsp;&nbsp;common_name:&nbsp;Greater&nbsp;mouse-eared&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoMyo1<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoMyo2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114088889<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-12-05
 mito1filesize: 5.0 KiB

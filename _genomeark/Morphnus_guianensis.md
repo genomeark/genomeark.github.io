@@ -98,10 +98,10 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1710862735
-last_updated: 1716230304
+last_updated: 1731705707
 mds:
 - data: species:&nbsp;Morphnus&nbsp;guianensis&nbsp;<br>specimen:&nbsp;bMorGui1&nbsp;<br>projects:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp&nbsp;<br>&nbsp;&nbsp;-&nbsp;gbb&nbsp;<br>assembled_by_group:&nbsp;Rockefeller&nbsp;<br>data_location:&nbsp;S3&nbsp;<br>release_to:&nbsp;S3&nbsp;<br>primary:&nbsp;s3://genomeark/species/Morphnus_guianensis/bMorGui1/assembly_vgp_HiC_2.0/bMorGui1.HiC.hap1.20240212.fasta.gz&nbsp;<br>haplotigs:&nbsp;s3://genomeark/species/Morphnus_guianensis/bMorGui1/assembly_vgp_HiC_2.0/bMorGui1.HiC.hap2.20240212.fasta.gz&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Morphnus_guianensis/bMorGui1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bMorGui1_hap1_s2.pretext&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Morphnus_guianensis/bMorGui1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bMorGui1_hap2_s2.pretext&nbsp;<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Morphnus_guianensis/bMorGui1/assembly_vgp_HiC_2.0/evaluation/merqury/bMorGui1_png/&nbsp;<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Morphnus_guianensis/bMorGui1/genomic_data/pacbio_hifi/&nbsp;<br>pacbio_read_type:&nbsp;hifi&nbsp;<br>hic_read_dir:&nbsp;s3://genomeark/species/Morphnus_guianensis/bMorGui1/genomic_data/arima/&nbsp;<br>pipeline:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)&nbsp;<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)&nbsp;<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bMorGui1.&nbsp;The&nbsp;hap1&nbsp;assembly&nbsp;and&nbsp;hap2&nbsp;assembly&nbsp;underwent&nbsp;separate&nbsp;HiC&nbsp;scaffolding&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima,&nbsp;so&nbsp;5&nbsp;bp&nbsp;were&nbsp;trimmed&nbsp;off&nbsp;the&nbsp;start&nbsp;of&nbsp;the&nbsp;Hi-C&nbsp;reads&nbsp;before&nbsp;scaffolding.&nbsp;<br>
-  ident: md3
+  ident: md5
   title: assembly_vgp_HiC_2.0/bMorGui1.yml
 mito1date: 2024-02-12
 mito1filesize: 5.7 KiB

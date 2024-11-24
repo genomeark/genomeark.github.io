@@ -11,16 +11,16 @@ data_arima-3_scale: 3.3083
 data_arima_bases: 94.75 Gbp
 data_arima_bytes: 26.7 GiB
 data_arima_coverage: 67.75x
-data_pacbiohifi_bam-3_bases: 91.13 Gbp
-data_pacbiohifi_bam-3_bytes: 31.0 GiB
-data_pacbiohifi_bam-3_coverage: 65.16x
+data_pacbiohifi_bam-3_bases: 238.07 Gbp
+data_pacbiohifi_bam-3_bytes: 81.3 GiB
+data_pacbiohifi_bam-3_coverage: 170.23x
 data_pacbiohifi_bam-3_links: s3://genomeark/species/Larus_argentatus/bLarArg3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Larus_argentatus/bLarArg3/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Larus_argentatus/bLarArg3/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-3_scale: 2.7412
-data_pacbiohifi_bam_bases: 91.13 Gbp
-data_pacbiohifi_bam_bytes: 31.0 GiB
-data_pacbiohifi_bam_coverage: 65.16x
+data_pacbiohifi_bam-3_scale: 2.7258
+data_pacbiohifi_bam_bases: 238.07 Gbp
+data_pacbiohifi_bam_bytes: 81.3 GiB
+data_pacbiohifi_bam_coverage: 170.23x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -87,8 +87,8 @@ hpb3sizes: |
   </tfoot>
   </table>
 hpb3version: assembly_cambridge
-last_raw_data: 1715081060
-last_updated: 1715588668
+last_raw_data: 1727691804
+last_updated: 1727691804
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bLarArg<br>&nbsp;&nbsp;name:&nbsp;Larus&nbsp;argentatus<br>&nbsp;&nbsp;taxon_id:&nbsp;35669<br>&nbsp;&nbsp;common_name:&nbsp;Herring&nbsp;Gull<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Laridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bLarArg3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA115168456<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1398540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito3date: 2024-05-13
 mito3filesize: 5.6 KiB

@@ -11,6 +11,26 @@ data_arima-1_scale: 1.7578
 data_arima_bases: 90.65 Gbp
 data_arima_bytes: 48.0 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 100.02 Gbp
+data_pacbiohifi_bam-1_bytes: 221.7 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Dixiphia_pipra/bDixPip1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dixiphia_pipra/bDixPip1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dixiphia_pipra/bDixPip1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.4202
+data_pacbiohifi_bam_bases: 100.02 Gbp
+data_pacbiohifi_bam_bytes: 221.7 GiB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_clr-1_bases: 541.01 Gbp
+data_pacbiohifi_clr-1_bytes: 0.9 TiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Dixiphia_pipra/bDixPip1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Dixiphia_pipra/bDixPip1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dixiphia_pipra/bDixPip1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5289
+data_pacbiohifi_clr_bases: 541.01 Gbp
+data_pacbiohifi_clr_bytes: 0.9 TiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 57.22 Gbp
 data_pacbiohifi_fqgz-1_bytes: 41.8 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -87,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1669237603
-last_updated: 1705429024
+last_raw_data: 1723756914
+last_updated: 1723756914
 mds:
 - data: species:&nbsp;Dixiphia&nbsp;pipra<br>specimen:&nbsp;bDixPip1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/bDixPip1.HiC.hap1.20221214.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/bDixPip1.HiC.hap2.20221214.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bDixPip1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bDixPip1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Dixiphia_pipra/bDixPip1/assembly_vgp_HiC_2.0/evaluation/merqury/bDixPip1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Dixiphia_pipra/bDixPip1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Dixiphia_pipra/bDixPip1/genomic_data/arima/<br>hic_kit:&nbsp;Arima2<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy3)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bDixPip1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YAHS.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;heterogametic&nbsp;specimen.&nbsp;Becuase&nbsp;the&nbsp;sex&nbsp;chromosomes&nbsp;are&nbsp;split&nbsp;between&nbsp;the&nbsp;two&nbsp;haplotypes,&nbsp;we&nbsp;are&nbsp;including&nbsp;the&nbsp;file&nbsp;paths&nbsp;for&nbsp;both&nbsp;haplotypes&nbsp;in&nbsp;this&nbsp;single&nbsp;ticket.&nbsp;This&nbsp;assembly&nbsp;was&nbsp;done&nbsp;by&nbsp;Cassidy&nbsp;Johnson.
   ident: md11

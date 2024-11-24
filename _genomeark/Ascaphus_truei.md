@@ -115,8 +115,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1693279387
-last_updated: 1714385684
+last_raw_data: 1723495874
+last_updated: 1723495874
 mds:
 - data: species:&nbsp;Ascaphus&nbsp;truei<br>specimen:&nbsp;aAscTru1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Ascaphus_truei/aAscTru1/assembly_vgp_HiC_2.0/aAscTru1.HiC.hap1.20230829.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Ascaphus_truei/aAscTru1/assembly_vgp_HiC_2.0/aAscTru1.HiC.hap2.20230829.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Ascaphus_truei/aAscTru1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aAscTru1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Ascaphus_truei/aAscTru1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aAscTru1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Ascaphus_truei/aAscTru1/assembly_vgp_HiC_2.0/evaluation/merqury/aAscTru1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Ascaphus_truei/aAscTru1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Ascaphus_truei/aAscTru1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;aAscTru1&nbsp;(VGL-aAscTru4),&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;This&nbsp;sample&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;
   ident: md8

@@ -98,7 +98,11 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1711552636
-last_updated: 1721334389
+last_updated: 1723502812
+mds:
+- data: species:&nbsp;Spizella&nbsp;passerina<br>specimen:&nbsp;bSpiPas1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Spizella_passerina/bSpiPas1/assembly_vgp_HiC_2.0/bSpiPas1.HiC.hap1.20240716.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Spizella_passerina/bSpiPas1/assembly_vgp_HiC_2.0/bSpiPas1.HiC.hap2.20240716.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Spizella_passerina/bSpiPas1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bSpiPas1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Spizella_passerina/bSpiPas1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bSpiPas1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Spizella_passerina/bSpiPas1/assembly_vgp_HiC_2.0/evaluation/merqury/hap1_purged/bSpiPas1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Spizella_passerina/bSpiPas1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Spizella_passerina/bSpiPas1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Spizella_passerina/bSpiPas1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Spizella_passerina/bSpiPas1/assembly_MT_rockefeller/bSpiPas1.MT.20240718.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy3)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bSpiPas1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;The&nbsp;scaffolding&nbsp;consisted&nbsp;of&nbsp;Bionano&nbsp;Solve&nbsp;and&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;assembly&nbsp;was&nbsp;performed&nbsp;on&nbsp;usegalaxy&nbsp;MAIN&nbsp;server&nbsp;(vgp.usegalaxy.org).&nbsp;<br>
+  ident: md3
+  title: assembly_vgp_HiC_2.0/bSpiPas1.yml
 mito1date: 2024-07-18
 mito1filesize: 5.4 KiB
 mito1length: '16809'

@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: lesser noctule
 data_arima-1_bases: 108.47 Gbp
 data_arima-1_bytes: 33.8 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2288520000
 genome_size_display: 2.29 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-08-06
-hpa1filesize: 560.4 MiB
-hpa1length: '2233140980'
-hpa1n50ctg: 1837867
-hpa1n50scf: 83574311
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Nyctalus_leisleri/mNycLei1/assembly_cambridge/mNycLei1.hap1.asm.20240806.fasta.gz
+hpa1date: 2024-09-18
+hpa1filesize: 618.3 MiB
+hpa1length: '2233532335'
+hpa1n50ctg: 1834295
+hpa1n50scf: 87052200
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Nyctalus_leisleri/mNycLei1/assembly_curated/mNycLei1.hap1.cur.20240918.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 39 </td><td> 4.79 Mbp </td><td> 2 </td><td> 201.81 Mbp </td></tr><tr><td> 20 </td><td> 94 </td><td> 3.66 Mbp </td><td> 3 </td><td> 200.22 Mbp </td></tr><tr><td> 30 </td><td> 166 </td><td> 2.79 Mbp </td><td> 4 </td><td> 110.29 Mbp </td></tr><tr><td> 40 </td><td> 256 </td><td> 2.30 Mbp </td><td> 6 </td><td> 100.95 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 367 </td><td style="background-color:#88ff88;"> 1.84 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 83.57 Mbp </td></tr><tr><td> 60 </td><td> 510 </td><td> 1.39 Mbp </td><td> 12 </td><td> 73.42 Mbp </td></tr><tr><td> 70 </td><td> 700 </td><td> 1.03 Mbp </td><td> 15 </td><td> 56.57 Mbp </td></tr><tr><td> 80 </td><td> 966 </td><td> 0.71 Mbp </td><td> 21 </td><td> 16.83 Mbp </td></tr><tr><td> 90 </td><td> 1424 </td><td> 340.01 Kbp </td><td> 139 </td><td> 0.79 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 39 </td><td> 4.76 Mbp </td><td> 2 </td><td> 203.84 Mbp </td></tr><tr><td> 20 </td><td> 95 </td><td> 3.63 Mbp </td><td> 3 </td><td> 200.95 Mbp </td></tr><tr><td> 30 </td><td> 167 </td><td> 2.75 Mbp </td><td> 4 </td><td> 111.20 Mbp </td></tr><tr><td> 40 </td><td> 258 </td><td> 2.29 Mbp </td><td> 6 </td><td> 101.58 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 370 </td><td style="background-color:#88ff88;"> 1.83 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 87.05 Mbp </td></tr><tr><td> 60 </td><td> 514 </td><td> 1.38 Mbp </td><td> 11 </td><td> 79.18 Mbp </td></tr><tr><td> 70 </td><td> 705 </td><td> 1.03 Mbp </td><td> 15 </td><td> 57.96 Mbp </td></tr><tr><td> 80 </td><td> 973 </td><td> 0.70 Mbp </td><td> 19 </td><td> 43.91 Mbp </td></tr><tr><td> 90 </td><td> 1433 </td><td> 338.19 Kbp </td><td> 97 </td><td> 0.83 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.976x </th><th> 2933 </th><th> 2.23 Gbp </th><th> 1331 </th><th> 2.23 Gbp </th></tr>
+  <tr><th> 0.976x </th><th> 2943 </th><th> 2.23 Gbp </th><th> 1281 </th><th> 2.23 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-08-06
-hpb1filesize: 511.7 MiB
-hpb1length: '2015260170'
-hpb1n50ctg: 1603819
-hpb1n50scf: 76813999
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Nyctalus_leisleri/mNycLei1/assembly_cambridge/mNycLei1.hap2.asm.20240806.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2024-09-18
+hpb1filesize: 563.5 MiB
+hpb1length: '2011002017'
+hpb1n50ctg: 1617290
+hpb1n50scf: 78534411
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Nyctalus_leisleri/mNycLei1/assembly_curated/mNycLei1.hap2.cur.20240918.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 44 </td><td> 4.25 Mbp </td><td> 2 </td><td> 199.42 Mbp </td></tr><tr><td> 20 </td><td> 104 </td><td> 3.31 Mbp </td><td> 3 </td><td> 118.40 Mbp </td></tr><tr><td> 30 </td><td> 183 </td><td> 2.61 Mbp </td><td> 5 </td><td> 98.13 Mbp </td></tr><tr><td> 40 </td><td> 283 </td><td> 2.04 Mbp </td><td> 7 </td><td> 87.60 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 410 </td><td style="background-color:#88ff88;"> 1.60 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 76.81 Mbp </td></tr><tr><td> 60 </td><td> 583 </td><td> 1.12 Mbp </td><td> 14 </td><td> 56.92 Mbp </td></tr><tr><td> 70 </td><td> 826 </td><td> 0.77 Mbp </td><td> 18 </td><td> 49.81 Mbp </td></tr><tr><td> 80 </td><td> 1233 </td><td> 377.10 Kbp </td><td> 63 </td><td> 1.31 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 44 </td><td> 4.25 Mbp </td><td> 2 </td><td> 199.57 Mbp </td></tr><tr><td> 20 </td><td> 104 </td><td> 3.38 Mbp </td><td> 3 </td><td> 199.42 Mbp </td></tr><tr><td> 30 </td><td> 182 </td><td> 2.65 Mbp </td><td> 4 </td><td> 110.24 Mbp </td></tr><tr><td> 40 </td><td> 280 </td><td> 2.05 Mbp </td><td> 6 </td><td> 89.25 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 407 </td><td style="background-color:#88ff88;"> 1.62 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 78.53 Mbp </td></tr><tr><td> 60 </td><td> 579 </td><td> 1.13 Mbp </td><td> 12 </td><td> 62.81 Mbp </td></tr><tr><td> 70 </td><td> 821 </td><td> 0.78 Mbp </td><td> 16 </td><td> 52.10 Mbp </td></tr><tr><td> 80 </td><td> 1226 </td><td> 380.40 Kbp </td><td> 50 </td><td> 1.36 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.880x </th><th> 2994 </th><th> 2.01 Gbp </th><th> 1440 </th><th> 2.02 Gbp </th></tr>
+  <tr><th> 0.879x </th><th> 2898 </th><th> 2.01 Gbp </th><th> 1335 </th><th> 2.01 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1723126540
-last_updated: 1723126540
+last_updated: 1726617688
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mNycLei<br>&nbsp;&nbsp;name:&nbsp;Nyctalus&nbsp;leisleri<br>&nbsp;&nbsp;taxon_id:&nbsp;59465<br>&nbsp;&nbsp;common_name:&nbsp;lesser&nbsp;noctule<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mNycLei1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114250308<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2288520000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-08-06
 mito1filesize: 5.3 KiB

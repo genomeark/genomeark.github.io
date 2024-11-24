@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1932772500
 genome_size_display: 1.93 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-05-31
+hpa1date: 2024-09-13
 hpa1filesize: 434.6 MiB
 hpa1length: '1514643635'
 hpa1n50ctg: 2119120
 hpa1n50scf: 75822951
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Podarcis_gaigeae/rPodGai1/assembly_curated/rPodGai1.hap1.cur.20240531.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Podarcis_gaigeae/rPodGai1/assembly_curated/rPodGai1.hap1.cur.20240913.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -58,12 +58,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2024-05-31
+hpb1date: 2024-09-13
 hpb1filesize: 409.6 MiB
 hpb1length: '1422314362'
 hpb1n50ctg: 2056193
 hpb1n50scf: 76198365
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Podarcis_gaigeae/rPodGai1/assembly_curated/rPodGai1.hap2.cur.20240531.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Podarcis_gaigeae/rPodGai1/assembly_curated/rPodGai1.hap2.cur.20240913.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1708337721
-last_updated: 1717147748
+last_updated: 1726242194
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;rPodGai<br>&nbsp;&nbsp;name:&nbsp;Podarcis&nbsp;gaigeae<br>&nbsp;&nbsp;taxon_id:&nbsp;90521<br>&nbsp;&nbsp;common_name:&nbsp;Skyros&nbsp;wall&nbsp;lizard<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lacertidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rPodGai1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114217796<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1932772500<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-02-27
 mito1filesize: 5.7 KiB

@@ -60,16 +60,16 @@ data_pacbio-1_scale: 0.5359
 data_pacbio_bases: 125.41 Gbp
 data_pacbio_bytes: 218.0 GiB
 data_pacbio_coverage: 71.12x
-data_pacbiohifi_bam-2_bases: 8.62 Gbp
-data_pacbiohifi_bam-2_bytes: 29.7 GiB
-data_pacbiohifi_bam-2_coverage: 4.89x
+data_pacbiohifi_bam-2_bases: 111.70 Gbp
+data_pacbiohifi_bam-2_bytes: 61.1 GiB
+data_pacbiohifi_bam-2_coverage: 63.34x
 data_pacbiohifi_bam-2_links: s3://genomeark/species/Pipistrellus_pipistrellus/mPipPip2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pipistrellus_pipistrellus/mPipPip2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_pipistrellus/mPipPip2/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-2_scale: 0.2702
-data_pacbiohifi_bam_bases: 8.62 Gbp
-data_pacbiohifi_bam_bytes: 29.7 GiB
-data_pacbiohifi_bam_coverage: 4.89x
+data_pacbiohifi_bam-2_scale: 1.7031
+data_pacbiohifi_bam_bases: 111.70 Gbp
+data_pacbiohifi_bam_bytes: 61.1 GiB
+data_pacbiohifi_bam_coverage: 63.34x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
   HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
@@ -81,8 +81,66 @@ genbank_pri: mPipPip1:GCA_903992545.1
 genome_size: 1763439233
 genome_size_display: 1.76 Gbp
 genome_size_method: ''
-last_raw_data: 1675961289
-last_updated: 1675961289
+hpa2date: 2024-10-16
+hpa2filesize: 484.6 MiB
+hpa2length: '1912043164'
+hpa2n50ctg: 1873254
+hpa2n50scf: 86727224
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Pipistrellus_pipistrellus/mPipPip2/assembly_cambridge/mPipPip2.hap1.asm.20241016.fasta.gz
+hpa2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 32 </td><td> 4.74 Mbp </td><td> 1 </td><td> 203.91 Mbp </td></tr><tr><td> 20 </td><td> 79 </td><td> 3.61 Mbp </td><td> 2 </td><td> 195.20 Mbp </td></tr><tr><td> 30 </td><td> 139 </td><td> 2.87 Mbp </td><td> 3 </td><td> 189.78 Mbp </td></tr><tr><td> 40 </td><td> 213 </td><td> 2.33 Mbp </td><td> 5 </td><td> 102.46 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 305 </td><td style="background-color:#88ff88;"> 1.87 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 86.73 Mbp </td></tr><tr><td> 60 </td><td> 417 </td><td> 1.52 Mbp </td><td> 9 </td><td> 82.14 Mbp </td></tr><tr><td> 70 </td><td> 560 </td><td> 1.18 Mbp </td><td> 12 </td><td> 74.29 Mbp </td></tr><tr><td> 80 </td><td> 749 </td><td> 0.85 Mbp </td><td> 15 </td><td> 53.65 Mbp </td></tr><tr><td> 90 </td><td> 1039 </td><td> 0.51 Mbp </td><td> 19 </td><td> 45.27 Mbp </td></tr><tr><td> 100 </td><td> 2280 </td><td> 1.00 Kbp </td><td> 652 </td><td> 1.00 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 2280 </th><th> 1.91 Gbp </th><th> 652 </th><th> 1.91 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa2version: assembly_cambridge
+hpb2date: 2024-10-16
+hpb2filesize: 475.3 MiB
+hpb2length: '1843769059'
+hpb2n50ctg: 1841145
+hpb2n50scf: 86939578
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Pipistrellus_pipistrellus/mPipPip2/assembly_cambridge/mPipPip2.hap2.asm.20241016.fasta.gz
+hpb2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 37 </td><td> 4.15 Mbp </td><td> 1 </td><td> 205.45 Mbp </td></tr><tr><td> 20 </td><td> 87 </td><td> 3.35 Mbp </td><td> 2 </td><td> 198.87 Mbp </td></tr><tr><td> 30 </td><td> 149 </td><td> 2.67 Mbp </td><td> 3 </td><td> 188.49 Mbp </td></tr><tr><td> 40 </td><td> 224 </td><td> 2.25 Mbp </td><td> 5 </td><td> 101.55 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 315 </td><td style="background-color:#88ff88;"> 1.84 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 86.94 Mbp </td></tr><tr><td> 60 </td><td> 425 </td><td> 1.51 Mbp </td><td> 9 </td><td> 84.52 Mbp </td></tr><tr><td> 70 </td><td> 562 </td><td> 1.17 Mbp </td><td> 11 </td><td> 74.35 Mbp </td></tr><tr><td> 80 </td><td> 746 </td><td> 0.86 Mbp </td><td> 14 </td><td> 54.73 Mbp </td></tr><tr><td> 90 </td><td> 1010 </td><td> 0.55 Mbp </td><td> 18 </td><td> 49.24 Mbp </td></tr><tr><td> 100 </td><td> 1967 </td><td> 1.00 Kbp </td><td> 378 </td><td> 1.00 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1967 </th><th> 1.84 Gbp </th><th> 378 </th><th> 1.84 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb2version: assembly_cambridge
+last_raw_data: 1729083506
+last_updated: 1729083506
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPipPip<br>&nbsp;&nbsp;name:&nbsp;Pipistrellus&nbsp;pipistrellus<br>&nbsp;&nbsp;taxon_id:&nbsp;59474<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;pipistrelle<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPipPip1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA994724<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPipPip2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA9921453<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 4.9 KiB
@@ -113,6 +171,35 @@ mito1sizes: |
   </tfoot>
   </table>
 mito1version: assembly_MT_rockefeller
+mito2date: 2024-10-16
+mito2filesize: 5.0 KiB
+mito2length: '17078'
+mito2n50ctg: 17078
+mito2n50scf: 17078
+mito2seq: https://s3.amazonaws.com/genomeark/species/Pipistrellus_pipistrellus/mPipPip2/assembly_MT_cambridge/mPipPip2.MT.20241016.fasta.gz
+mito2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 17.08 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 17.08 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 17.08 Kbp </td><td> 1 </td><td> 17.08 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 17.08 Kbp </th><th> 1 </th><th> 17.08 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito2version: assembly_MT_cambridge
 name: Pipistrellus pipistrellus
 name_: Pipistrellus_pipistrellus
 pri1date: 2020-07-24

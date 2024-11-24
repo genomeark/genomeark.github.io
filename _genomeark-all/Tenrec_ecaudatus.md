@@ -1,0 +1,1 @@
+../_genomeark/Tenrec_ecaudatus.md

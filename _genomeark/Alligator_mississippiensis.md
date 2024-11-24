@@ -108,6 +108,35 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_curated
+hpa2date: 2024-08-28
+hpa2filesize: 682.9 MiB
+hpa2length: '2355267117'
+hpa2n50ctg: 36459674
+hpa2n50scf: 255313199
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Alligator_mississippiensis/rAllMis2/assembly_vgp_HiC_2.0/rAllMis2.HiC.hap1.20240828.fasta.gz
+hpa2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 110.83 Mbp </td><td> 1 </td><td> 476.30 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 70.82 Mbp </td><td> 2 </td><td> 305.08 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 51.85 Mbp </td><td> 2 </td><td> 305.08 Mbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 44.34 Mbp </td><td> 3 </td><td> 303.17 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 36.46 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 255.31 Mbp </td></tr><tr><td> 60 </td><td> 27 </td><td> 33.15 Mbp </td><td> 5 </td><td> 220.95 Mbp </td></tr><tr><td> 70 </td><td> 37 </td><td> 20.82 Mbp </td><td> 8 </td><td> 83.46 Mbp </td></tr><tr><td> 80 </td><td> 50 </td><td> 15.69 Mbp </td><td> 11 </td><td> 74.23 Mbp </td></tr><tr><td> 90 </td><td> 87 </td><td> 2.56 Mbp </td><td> 15 </td><td> 36.63 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.935x </th><th> 453 </th><th> 2.36 Gbp </th><th> 342 </th><th> 2.36 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa2version: assembly_vgp_HiC_2.0
 hpb1date: 2023-04-14
 hpb1filesize: 678.9 MiB
 hpb1length: '2346779227'
@@ -137,12 +166,44 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
+hpb2date: 2024-08-28
+hpb2filesize: 682.9 MiB
+hpb2length: '2341151693'
+hpb2n50ctg: 38547813
+hpb2n50scf: 255482746
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Alligator_mississippiensis/rAllMis2/assembly_vgp_HiC_2.0/rAllMis2.HiC.hap2.20240828.fasta.gz
+hpb2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 93.54 Mbp </td><td> 1 </td><td> 0.77 Gbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 78.26 Mbp </td><td> 1 </td><td> 0.77 Gbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 65.81 Mbp </td><td> 1 </td><td> 0.77 Gbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 47.41 Mbp </td><td> 2 </td><td> 305.71 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 38.55 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 255.48 Mbp </td></tr><tr><td> 60 </td><td> 27 </td><td> 34.26 Mbp </td><td> 4 </td><td> 220.86 Mbp </td></tr><tr><td> 70 </td><td> 35 </td><td> 26.91 Mbp </td><td> 7 </td><td> 83.76 Mbp </td></tr><tr><td> 80 </td><td> 49 </td><td> 14.71 Mbp </td><td> 10 </td><td> 75.68 Mbp </td></tr><tr><td> 90 </td><td> 83 </td><td> 3.43 Mbp </td><td> 14 </td><td> 39.51 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.930x </th><th> 253 </th><th> 2.34 Gbp </th><th> 148 </th><th> 2.34 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb2version: assembly_vgp_HiC_2.0
 last_raw_data: 1717632228
-last_updated: 1717632228
+last_updated: 1725306400
 mds:
 - data: species:&nbsp;Sternotherus&nbsp;odoratus<br>specimen:&nbsp;rSteOdo1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/rSteOdo1.HiC.hap1.20230208.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/rSteOdo1.HiC.hap2.20230208.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rSteOdo1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rSteOdo1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/evaluation/merqury/rSteOdo1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rSteOdo1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;haplotype&nbsp;2&nbsp;for&nbsp;curation.&nbsp;MitoHiFi&nbsp;was&nbsp;run&nbsp;on&nbsp;the&nbsp;raw&nbsp;reads,&nbsp;but&nbsp;a&nbsp;full&nbsp;mitogenome&nbsp;could&nbsp;not&nbsp;be&nbsp;recovered.&nbsp;
   ident: md5
   title: assembly_vgp_HiC_2.0/rSteOdo1_hap2.yml
+- data: species:&nbsp;Alligator&nbsp;mississippiensis<br>specimen:&nbsp;rAllMis2<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Alligator_mississippiensis/rAllMis2/assembly_vgp_HiC_2.0/rAllMis2.HiC.hap1.20240828.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Alligator_mississippiensis/rAllMis2/assembly_vgp_HiC_2.0/rAllMis2.HiC.hap2.20240828.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Alligator_mississippiensis/rAllMis2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rAllMis2_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Alligator_mississippiensis/rAllMis2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rAllMis2_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Alligator_mississippiensis/rAllMis2/assembly_vgp_HiC_2.0/evaluation/merqury/rAllMis2_png/<br>pacbio_read_type:&nbsp;hifi<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rAllMis2,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;The&nbsp;HiC&nbsp;data&nbsp;was&nbsp;Arima&nbsp;v2&nbsp;using&nbsp;the&nbsp;Swift-IDT&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;The&nbsp;assembly&nbsp;was&nbsp;performed&nbsp;on&nbsp;usegalaxy.eu&nbsp;infrastructure&nbsp;by&nbsp;Saim&nbsp;Momin.&nbsp;The&nbsp;data&nbsp;for&nbsp;this&nbsp;individual&nbsp;was&nbsp;originally&nbsp;named&nbsp;rAllMis1,&nbsp;but&nbsp;has&nbsp;been&nbsp;renamed&nbsp;to&nbsp;rAllMis2.&nbsp;
+  ident: md31
+  title: assembly_vgp_HiC_2.0/rAllMis2.yml
 metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Alligator&nbsp;mississippiensis<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rAllMis1<br>&nbsp;&nbsp;short_name:&nbsp;rAllMis<br>&nbsp;&nbsp;taxon_id:&nbsp;8496<br>&nbsp;&nbsp;common_name:&nbsp;American&nbsp;alligator<br>&nbsp;&nbsp;genome_size:&nbsp;2518000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Crocodylia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Alligatoridae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Alligator mississippiensis
 name_: Alligator_mississippiensis

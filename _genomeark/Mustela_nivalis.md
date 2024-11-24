@@ -85,6 +85,35 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_vgp_HiC_2.0
+hpa2date: 2024-10-02
+hpa2filesize: 0.9 GiB
+hpa2length: '3425419382'
+hpa2n50ctg: 1343956
+hpa2n50scf: 108717913
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Mustela_nivalis/mMusNiv2/assembly_cambridge/mMusNiv2.hap1.asm.20241002.fasta.gz
+hpa2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 74 </td><td> 3.19 Mbp </td><td> 2 </td><td> 163.28 Mbp </td></tr><tr><td> 20 </td><td> 183 </td><td> 2.42 Mbp </td><td> 4 </td><td> 147.43 Mbp </td></tr><tr><td> 30 </td><td> 322 </td><td> 1.97 Mbp </td><td> 6 </td><td> 143.31 Mbp </td></tr><tr><td> 40 </td><td> 493 </td><td> 1.59 Mbp </td><td> 8 </td><td> 117.19 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 699 </td><td style="background-color:#88ff88;"> 1.34 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 108.72 Mbp </td></tr><tr><td> 60 </td><td> 947 </td><td> 1.10 Mbp </td><td> 14 </td><td> 91.73 Mbp </td></tr><tr><td> 70 </td><td> 1252 </td><td> 0.89 Mbp </td><td> 18 </td><td> 62.33 Mbp </td></tr><tr><td> 80 </td><td> 1636 </td><td> 0.69 Mbp </td><td> 28 </td><td> 5.33 Mbp </td></tr><tr><td> 90 </td><td> 2143 </td><td> 0.51 Mbp </td><td> 165 </td><td> 1.48 Mbp </td></tr><tr><td> 100 </td><td> 2873 </td><td> 322.00 Kbp </td><td> 478 </td><td> 0.62 Mbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.137x </th><th> 6086 </th><th> 3.42 Gbp </th><th> 3267 </th><th> 3.43 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa2version: assembly_cambridge
 hpb1date: 2023-12-15
 hpb1filesize: 853.2 MiB
 hpb1length: '3127155873'
@@ -114,8 +143,37 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
+hpb2date: 2024-10-02
+hpb2filesize: 785.1 MiB
+hpb2length: '2849068990'
+hpb2n50ctg: 1097528
+hpb2n50scf: 106436501
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Mustela_nivalis/mMusNiv2/assembly_cambridge/mMusNiv2.hap2.asm.20241002.fasta.gz
+hpb2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 81 </td><td> 2.94 Mbp </td><td> 2 </td><td> 163.03 Mbp </td></tr><tr><td> 20 </td><td> 201 </td><td> 2.19 Mbp </td><td> 4 </td><td> 148.86 Mbp </td></tr><tr><td> 30 </td><td> 359 </td><td> 1.69 Mbp </td><td> 6 </td><td> 143.42 Mbp </td></tr><tr><td> 40 </td><td> 558 </td><td> 1.37 Mbp </td><td> 8 </td><td> 113.97 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 802 </td><td style="background-color:#88ff88;"> 1.10 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 106.44 Mbp </td></tr><tr><td> 60 </td><td> 1113 </td><td> 0.87 Mbp </td><td> 15 </td><td> 85.03 Mbp </td></tr><tr><td> 70 </td><td> 1515 </td><td> 0.65 Mbp </td><td> 19 </td><td> 58.52 Mbp </td></tr><tr><td> 80 </td><td> 2082 </td><td> 429.44 Kbp </td><td> 80 </td><td> 1.69 Mbp </td></tr><tr><td> 90 </td><td> 3146 </td><td> 165.05 Kbp </td><td> 552 </td><td> 243.77 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.946x </th><th> 5019 </th><th> 2.85 Gbp </th><th> 2342 </th><th> 2.85 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb2version: assembly_cambridge
 last_raw_data: 1721499925
-last_updated: 1721499925
+last_updated: 1728038010
 mds:
 - data: species:&nbsp;Mustela&nbsp;nivalis&nbsp;vulgaris<br>specimen:&nbsp;mMusNiv1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>hap1:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/mMusNiv1.HiC.hap1.20231215.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/mMusNiv1.HiC.hap2.20231215.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mMusNiv1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mMusNiv1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/evaluation/merqury/mMusNiv1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mMusNiv1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;This&nbsp;sample&nbsp;did&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;Final&nbsp;genome&nbsp;size&nbsp;looks&nbsp;large&nbsp;compared&nbsp;to&nbsp;existing&nbsp;assembly,&nbsp;likely&nbsp;because&nbsp;of&nbsp;fragmented&nbsp;repetitive&nbsp;regions&nbsp;captured&nbsp;by&nbsp;HiFi&nbsp;(but&nbsp;not&nbsp;scaffolded),&nbsp;which&nbsp;were&nbsp;missed&nbsp;with&nbsp;previous&nbsp;sequencing&nbsp;technologies.&nbsp;
   ident: md3
@@ -150,6 +208,35 @@ mito1sizes: |
   </tfoot>
   </table>
 mito1version: assembly_MT_rockefeller
+mito2date: 2024-10-02
+mito2filesize: 5.2 KiB
+mito2length: '16489'
+mito2n50ctg: 0
+mito2n50scf: 0
+mito2seq: https://s3.amazonaws.com/genomeark/species/Mustela_nivalis/mMusNiv2/assembly_MT_cambridge/mMusNiv2.MT.20241002.fasta.gz
+mito2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.49 Kbp </th><th> 1 </th><th> 16.49 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito2version: assembly_MT_cambridge
 name: Mustela nivalis
 name_: Mustela_nivalis
 project:

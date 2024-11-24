@@ -40,7 +40,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1710801390
-last_updated: 1710801390
+last_updated: 1731704712
 name: Guaruba guarouba
 name_: Guaruba_guarouba
 project: ~

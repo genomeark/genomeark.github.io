@@ -1,0 +1,1 @@
+../_genomeark/Diretmus_argenteus.md

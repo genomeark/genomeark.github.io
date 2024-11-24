@@ -1,10 +1,10 @@
 ---
-alt1date: 2023-04-21
+alt1date: 2024-08-31
 alt1filesize: 670.9 MiB
 alt1length: '2440532866'
 alt1n50ctg: '607057'
 alt1n50scf: '607057'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Delphinus_delphis/mDelDel1/assembly_curated/mDelDel1.alt.cur.20230421.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Delphinus_delphis/mDelDel1/assembly_curated/mDelDel1.alt.cur.20240831.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -61,16 +61,16 @@ genome_size: 3080700000
 genome_size_display: 3.08 Gbp
 genome_size_method: GoaT
 last_raw_data: 1678520581
-last_updated: 1682084534
+last_updated: 1725062505
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mDelDel<br>&nbsp;&nbsp;name:&nbsp;Delphinus&nbsp;delphis<br>&nbsp;&nbsp;taxon_id:&nbsp;9728<br>&nbsp;&nbsp;common_name:&nbsp;saddleback&nbsp;dolphin<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cetacea<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Delphinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mDelDel1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111380534<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;3080700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Delphinus delphis
 name_: Delphinus_delphis
-pri1date: 2023-04-21
+pri1date: 2024-08-31
 pri1filesize: 717.3 MiB
 pri1length: '2663533373'
 pri1n50ctg: 3020236
 pri1n50scf: 102446893
-pri1seq: https://s3.amazonaws.com/genomeark/species/Delphinus_delphis/mDelDel1/assembly_curated/mDelDel1.pri.cur.20230421.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Delphinus_delphis/mDelDel1/assembly_curated/mDelDel1.pri.cur.20240831.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>

@@ -11,6 +11,26 @@ data_arima-1_scale: 1.7974
 data_arima_bases: 124.93 Gbp
 data_arima_bytes: 64.7 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 55.45 Gbp
+data_pacbiohifi_bam-1_bytes: 191.7 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Candoia_aspera/rCanAsp1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Candoia_aspera/rCanAsp1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Candoia_aspera/rCanAsp1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2694
+data_pacbiohifi_bam_bases: 55.45 Gbp
+data_pacbiohifi_bam_bytes: 191.7 GiB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_clr-1_bases: 192.07 Gbp
+data_pacbiohifi_clr-1_bytes: 428.8 GiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Candoia_aspera/rCanAsp1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Candoia_aspera/rCanAsp1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Candoia_aspera/rCanAsp1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.4172
+data_pacbiohifi_clr_bases: 192.07 Gbp
+data_pacbiohifi_clr_bytes: 428.8 GiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 55.02 Gbp
 data_pacbiohifi_fqgz-1_bytes: 40.5 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -87,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1673021442
-last_updated: 1687531729
+last_raw_data: 1723669807
+last_updated: 1723669807
 mds:
 - data: species:&nbsp;Candoia&nbsp;aspera<br>specimen:&nbsp;rCanAsp1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Candoia_aspera/rCanAsp1/assembly_vgp_HiC_2.0/rCanAsp1.HiC.hap1.20230202.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Candoia_aspera/rCanAsp1/assembly_vgp_HiC_2.0/rCanAsp1.HiC.hap2.20230202.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Candoia_aspera/rCanAsp1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rCanAsp1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Candoia_aspera/rCanAsp1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rCanAsp1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Candoia_aspera/rCanAsp1/assembly_vgp_HiC_2.0/evaluation/merqury/rCanAsp1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Candoia_aspera/rCanAsp1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Candoia_aspera/rCanAsp1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy3)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rCanAsp1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;haplotype&nbsp;2&nbsp;for&nbsp;curation.
   ident: md6

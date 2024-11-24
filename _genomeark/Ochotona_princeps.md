@@ -21,25 +21,25 @@ data_illumina-1_scale: 2.0039
 data_illumina_bases: 97.06 Gbp
 data_illumina_bytes: 45.1 GiB
 data_illumina_coverage: N/A
-data_pacbiohifi_bam-1_bases: 70.13 Gbp
-data_pacbiohifi_bam-1_bytes: 240.0 GiB
+data_pacbiohifi_bam-1_bases: 131.71 Gbp
+data_pacbiohifi_bam-1_bytes: 454.5 GiB
 data_pacbiohifi_bam-1_coverage: N/A
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2721
-data_pacbiohifi_bam_bases: 70.13 Gbp
-data_pacbiohifi_bam_bytes: 240.0 GiB
+data_pacbiohifi_bam-1_scale: 0.2699
+data_pacbiohifi_bam_bases: 131.71 Gbp
+data_pacbiohifi_bam_bytes: 454.5 GiB
 data_pacbiohifi_bam_coverage: N/A
-data_pacbiohifi_clr-1_bases: 278.59 Gbp
-data_pacbiohifi_clr-1_bytes: 615.3 GiB
+data_pacbiohifi_clr-1_bases: 665.08 Gbp
+data_pacbiohifi_clr-1_bytes: 1.4 TiB
 data_pacbiohifi_clr-1_coverage: N/A
 data_pacbiohifi_clr-1_links: s3://genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/
 data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/
-data_pacbiohifi_clr-1_scale: 0.4217
-data_pacbiohifi_clr_bases: 278.59 Gbp
-data_pacbiohifi_clr_bytes: 615.3 GiB
+data_pacbiohifi_clr-1_scale: 0.4196
+data_pacbiohifi_clr_bases: 665.08 Gbp
+data_pacbiohifi_clr_bytes: 1.4 TiB
 data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 83.91 Gbp
 data_pacbiohifi_fqgz-1_bytes: 62.6 GiB
@@ -118,8 +118,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1680895682
-last_updated: 1687219607
+last_raw_data: 1723747468
+last_updated: 1723747468
 mds:
 - data: species:&nbsp;Ochotona&nbsp;princeps<br>specimen:&nbsp;mOchPri1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/mOchPri1.HiC.hap1.20230417.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/mOchPri1.HiC.hap2.20230417.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mOchPri1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mOchPri1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_vgp_HiC_2.0/evaluation/merqury/mOchPri1_png/<br>mito:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/assembly_MT_rockefeller/mOchPri1.MT.20230213.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mOchPri1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;Metadata&nbsp;and&nbsp;k-mer&nbsp;spectra&nbsp;indicate&nbsp;a&nbsp;heterogametic&nbsp;(male)&nbsp;specimen.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;
   ident: md9

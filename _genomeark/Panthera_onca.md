@@ -40,7 +40,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1709181805
-last_updated: 1709181805
+last_updated: 1731705778
 name: Panthera onca
 name_: Panthera_onca
 project: ~

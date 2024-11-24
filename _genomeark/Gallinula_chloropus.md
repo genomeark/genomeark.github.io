@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common moorhen
 data_arima-1_bases: 57.18 Gbp
 data_arima-1_bytes: 16.1 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1496340000
 genome_size_display: 1.50 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-04-10
-hpa1filesize: 324.5 MiB
-hpa1length: '1285197218'
+hpa1date: 2024-08-17
+hpa1filesize: 356.9 MiB
+hpa1length: '1282411533'
 hpa1n50ctg: 2979345
-hpa1n50scf: 77856527
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Gallinula_chloropus/bGalChl1/assembly_cambridge/bGalChl1.hap1.asm.20240410.fasta.gz
+hpa1n50scf: 82233968
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Gallinula_chloropus/bGalChl1/assembly_curated/bGalChl1.hap1.cur.20240817.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 13 </td><td> 9.19 Mbp </td><td> 1 </td><td> 215.89 Mbp </td></tr><tr><td> 20 </td><td> 33 </td><td> 6.23 Mbp </td><td> 2 </td><td> 163.15 Mbp </td></tr><tr><td> 30 </td><td> 59 </td><td> 4.99 Mbp </td><td> 3 </td><td> 122.94 Mbp </td></tr><tr><td> 40 </td><td> 93 </td><td> 4.04 Mbp </td><td> 5 </td><td> 82.23 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 136 </td><td style="background-color:#88ff88;"> 2.98 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 77.86 Mbp </td></tr><tr><td> 60 </td><td> 196 </td><td> 2.07 Mbp </td><td> 12 </td><td> 23.04 Mbp </td></tr><tr><td> 70 </td><td> 293 </td><td> 1.14 Mbp </td><td> 19 </td><td> 14.09 Mbp </td></tr><tr><td> 80 </td><td> 499 </td><td> 423.39 Kbp </td><td> 71 </td><td> 0.75 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 13 </td><td> 9.19 Mbp </td><td> 1 </td><td> 215.89 Mbp </td></tr><tr><td> 20 </td><td> 33 </td><td> 6.23 Mbp </td><td> 2 </td><td> 164.19 Mbp </td></tr><tr><td> 30 </td><td> 59 </td><td> 4.99 Mbp </td><td> 3 </td><td> 122.94 Mbp </td></tr><tr><td> 40 </td><td> 93 </td><td> 4.04 Mbp </td><td> 5 </td><td> 90.34 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 136 </td><td style="background-color:#88ff88;"> 2.98 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 82.23 Mbp </td></tr><tr><td> 60 </td><td> 196 </td><td> 2.07 Mbp </td><td> 11 </td><td> 23.22 Mbp </td></tr><tr><td> 70 </td><td> 292 </td><td> 1.16 Mbp </td><td> 18 </td><td> 16.81 Mbp </td></tr><tr><td> 80 </td><td> 499 </td><td> 418.75 Kbp </td><td> 44 </td><td> 0.98 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.859x </th><th> 1464 </th><th> 1.29 Gbp </th><th> 890 </th><th> 1.29 Gbp </th></tr>
+  <tr><th> 0.857x </th><th> 1421 </th><th> 1.28 Gbp </th><th> 818 </th><th> 1.28 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-04-10
-hpb1filesize: 313.6 MiB
-hpb1length: '1206657396'
+hpa1version: assembly_curated
+hpb1date: 2024-08-17
+hpb1filesize: 346.8 MiB
+hpb1length: '1208559276'
 hpb1n50ctg: 3078979
 hpb1n50scf: 82554694
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Gallinula_chloropus/bGalChl1/assembly_cambridge/bGalChl1.hap2.asm.20240410.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Gallinula_chloropus/bGalChl1/assembly_curated/bGalChl1.hap2.cur.20240817.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 14 </td><td> 9.00 Mbp </td><td> 1 </td><td> 213.69 Mbp </td></tr><tr><td> 20 </td><td> 34 </td><td> 6.26 Mbp </td><td> 2 </td><td> 163.78 Mbp </td></tr><tr><td> 30 </td><td> 61 </td><td> 4.98 Mbp </td><td> 3 </td><td> 123.33 Mbp </td></tr><tr><td> 40 </td><td> 94 </td><td> 4.04 Mbp </td><td> 5 </td><td> 85.37 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 136 </td><td style="background-color:#88ff88;"> 3.08 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 82.55 Mbp </td></tr><tr><td> 60 </td><td> 196 </td><td> 2.02 Mbp </td><td> 11 </td><td> 23.07 Mbp </td></tr><tr><td> 70 </td><td> 296 </td><td> 1.10 Mbp </td><td> 19 </td><td> 13.63 Mbp </td></tr><tr><td> 80 </td><td> 636 </td><td> 79.32 Kbp </td><td> 161 </td><td> 105.93 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 14 </td><td> 9.00 Mbp </td><td> 1 </td><td> 213.69 Mbp </td></tr><tr><td> 20 </td><td> 34 </td><td> 6.26 Mbp </td><td> 2 </td><td> 163.78 Mbp </td></tr><tr><td> 30 </td><td> 61 </td><td> 4.98 Mbp </td><td> 3 </td><td> 123.33 Mbp </td></tr><tr><td> 40 </td><td> 94 </td><td> 4.04 Mbp </td><td> 5 </td><td> 87.26 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 136 </td><td style="background-color:#88ff88;"> 3.08 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 82.55 Mbp </td></tr><tr><td> 60 </td><td> 196 </td><td> 2.02 Mbp </td><td> 11 </td><td> 23.44 Mbp </td></tr><tr><td> 70 </td><td> 296 </td><td> 1.09 Mbp </td><td> 19 </td><td> 14.34 Mbp </td></tr><tr><td> 80 </td><td> 620 </td><td> 92.52 Kbp </td><td> 127 </td><td> 139.81 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.806x </th><th> 930 </th><th> 1.21 Gbp </th><th> 421 </th><th> 1.21 Gbp </th></tr>
+  <tr><th> 0.808x </th><th> 931 </th><th> 1.21 Gbp </th><th> 395 </th><th> 1.21 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1711707023
-last_updated: 1712823322
+last_updated: 1723852891
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bGalChl<br>&nbsp;&nbsp;name:&nbsp;Gallinula&nbsp;chloropus<br>&nbsp;&nbsp;taxon_id:&nbsp;9123<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;moorhen<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gruiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rallidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bGalChl1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113398958<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1496340000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-04-10
 mito1filesize: 5.1 KiB
