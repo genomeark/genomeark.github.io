@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Herring Gull
 data_arima-3_bases: 94.75 Gbp
 data_arima-3_bytes: 26.7 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1398540000
 genome_size_display: 1.40 Gbp
 genome_size_method: GoaT
-hpa3date: 2024-05-13
-hpa3filesize: 342.1 MiB
-hpa3length: '1419923861'
-hpa3n50ctg: 3574575
-hpa3n50scf: 95323621
-hpa3seq: https://s3.amazonaws.com/genomeark/species/Larus_argentatus/bLarArg3/assembly_cambridge/bLarArg3.hap1.asm.20240513.fasta.gz
+hpa3date: 2024-12-03
+hpa3filesize: 379.5 MiB
+hpa3length: '1417856064'
+hpa3n50ctg: 3562905
+hpa3n50scf: 88668981
+hpa3seq: https://s3.amazonaws.com/genomeark/species/Larus_argentatus/bLarArg3/assembly_curated/bLarArg3.hap1.cur.20241203.fasta.gz
 hpa3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 10 </td><td> 11.05 Mbp </td><td> 1 </td><td> 216.75 Mbp </td></tr><tr><td> 20 </td><td> 26 </td><td> 7.32 Mbp </td><td> 2 </td><td> 164.18 Mbp </td></tr><tr><td> 30 </td><td> 48 </td><td> 5.66 Mbp </td><td> 3 </td><td> 127.22 Mbp </td></tr><tr><td> 40 </td><td> 75 </td><td> 4.71 Mbp </td><td> 4 </td><td> 100.13 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 109 </td><td style="background-color:#88ff88;"> 3.57 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 95.32 Mbp </td></tr><tr><td> 60 </td><td> 152 </td><td> 2.94 Mbp </td><td> 7 </td><td> 59.47 Mbp </td></tr><tr><td> 70 </td><td> 204 </td><td> 2.36 Mbp </td><td> 10 </td><td> 49.13 Mbp </td></tr><tr><td> 80 </td><td> 273 </td><td> 1.73 Mbp </td><td> 15 </td><td> 17.64 Mbp </td></tr><tr><td> 90 </td><td> 375 </td><td> 1.03 Mbp </td><td> 40 </td><td> 2.74 Mbp </td></tr><tr><td> 100 </td><td> 657 </td><td> 170.55 Kbp </td><td> 221 </td><td> 209.36 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 10 </td><td> 10.19 Mbp </td><td> 1 </td><td> 220.81 Mbp </td></tr><tr><td> 20 </td><td> 27 </td><td> 6.86 Mbp </td><td> 2 </td><td> 170.85 Mbp </td></tr><tr><td> 30 </td><td> 49 </td><td> 5.63 Mbp </td><td> 3 </td><td> 130.89 Mbp </td></tr><tr><td> 40 </td><td> 77 </td><td> 4.66 Mbp </td><td> 4 </td><td> 99.45 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 111 </td><td style="background-color:#88ff88;"> 3.56 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 88.67 Mbp </td></tr><tr><td> 60 </td><td> 154 </td><td> 2.96 Mbp </td><td> 7 </td><td> 74.95 Mbp </td></tr><tr><td> 70 </td><td> 206 </td><td> 2.39 Mbp </td><td> 9 </td><td> 58.23 Mbp </td></tr><tr><td> 80 </td><td> 275 </td><td> 1.73 Mbp </td><td> 13 </td><td> 23.28 Mbp </td></tr><tr><td> 90 </td><td> 377 </td><td> 1.03 Mbp </td><td> 24 </td><td> 7.13 Mbp </td></tr><tr><td> 100 </td><td> 667 </td><td> 159.70 Kbp </td><td> 145 </td><td> 229.00 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.015x </th><th> 969 </th><th> 1.42 Gbp </th><th> 505 </th><th> 1.42 Gbp </th></tr>
+  <tr><th> 1.014x </th><th> 960 </th><th> 1.42 Gbp </th><th> 401 </th><th> 1.42 Gbp </th></tr>
   </tfoot>
   </table>
-hpa3version: assembly_cambridge
-hpb3date: 2024-05-13
-hpb3filesize: 311.0 MiB
-hpb3length: '1263215799'
-hpb3n50ctg: 3739923
-hpb3n50scf: 61030518
-hpb3seq: https://s3.amazonaws.com/genomeark/species/Larus_argentatus/bLarArg3/assembly_cambridge/bLarArg3.hap2.asm.20240513.fasta.gz
+hpa3version: assembly_curated
+hpb3date: 2024-12-03
+hpb3filesize: 341.7 MiB
+hpb3length: '1256866793'
+hpb3n50ctg: 3684987
+hpb3n50scf: 85940022
+hpb3seq: https://s3.amazonaws.com/genomeark/species/Larus_argentatus/bLarArg3/assembly_curated/bLarArg3.hap2.cur.20241203.fasta.gz
 hpb3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 12 </td><td> 10.02 Mbp </td><td> 1 </td><td> 219.75 Mbp </td></tr><tr><td> 20 </td><td> 29 </td><td> 7.29 Mbp </td><td> 2 </td><td> 164.40 Mbp </td></tr><tr><td> 30 </td><td> 51 </td><td> 6.04 Mbp </td><td> 3 </td><td> 127.54 Mbp </td></tr><tr><td> 40 </td><td> 76 </td><td> 4.90 Mbp </td><td> 4 </td><td> 94.88 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 108 </td><td style="background-color:#88ff88;"> 3.74 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 61.03 Mbp </td></tr><tr><td> 60 </td><td> 149 </td><td> 3.07 Mbp </td><td> 8 </td><td> 56.17 Mbp </td></tr><tr><td> 70 </td><td> 205 </td><td> 2.03 Mbp </td><td> 12 </td><td> 20.63 Mbp </td></tr><tr><td> 80 </td><td> 295 </td><td> 1.15 Mbp </td><td> 26 </td><td> 4.50 Mbp </td></tr><tr><td> 90 </td><td> 825 </td><td> 35.54 Kbp </td><td> 429 </td><td> 36.12 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 12 </td><td> 10.53 Mbp </td><td> 1 </td><td> 219.75 Mbp </td></tr><tr><td> 20 </td><td> 29 </td><td> 7.32 Mbp </td><td> 2 </td><td> 171.87 Mbp </td></tr><tr><td> 30 </td><td> 50 </td><td> 6.10 Mbp </td><td> 3 </td><td> 130.19 Mbp </td></tr><tr><td> 40 </td><td> 75 </td><td> 4.82 Mbp </td><td> 4 </td><td> 95.93 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 108 </td><td style="background-color:#88ff88;"> 3.68 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 85.94 Mbp </td></tr><tr><td> 60 </td><td> 149 </td><td> 2.96 Mbp </td><td> 7 </td><td> 61.03 Mbp </td></tr><tr><td> 70 </td><td> 206 </td><td> 1.99 Mbp </td><td> 10 </td><td> 31.80 Mbp </td></tr><tr><td> 80 </td><td> 299 </td><td> 1.09 Mbp </td><td> 20 </td><td> 8.52 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.903x </th><th> 1022 </th><th> 1.26 Gbp </th><th> 626 </th><th> 1.26 Gbp </th></tr>
+  <tr><th> 0.899x </th><th> 989 </th><th> 1.26 Gbp </th><th> 533 </th><th> 1.26 Gbp </th></tr>
   </tfoot>
   </table>
-hpb3version: assembly_cambridge
+hpb3version: assembly_curated
 last_raw_data: 1727691804
-last_updated: 1727691804
+last_updated: 1733187660
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bLarArg<br>&nbsp;&nbsp;name:&nbsp;Larus&nbsp;argentatus<br>&nbsp;&nbsp;taxon_id:&nbsp;35669<br>&nbsp;&nbsp;common_name:&nbsp;Herring&nbsp;Gull<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Laridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bLarArg3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA115168456<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1398540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito3date: 2024-05-13
 mito3filesize: 5.6 KiB

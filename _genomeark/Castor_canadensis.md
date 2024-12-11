@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 263.73 Gbp
 data_arima-1_bytes: 143.2 GiB
@@ -39,12 +39,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2024-10-18
-hpa1filesize: 807.2 MiB
-hpa1length: '2861685502'
+hpa1date: 2024-12-02
+hpa1filesize: 797.4 MiB
+hpa1length: '2831153507'
 hpa1n50ctg: 59379167
-hpa1n50scf: 149999513
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Castor_canadensis/mCasCan1/assembly_vgp_HiC_2.0/mCasCan1.HiC.hap1.20241018.fasta.gz
+hpa1n50scf: 158968201
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Castor_canadensis/mCasCan1/assembly_curated/mCasCan1.hap1.cur.20241202.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -62,18 +62,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 145.26 Mbp </td><td> 2 </td><td> 202.87 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 87.07 Mbp </td><td> 3 </td><td> 199.59 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 83.85 Mbp </td><td> 5 </td><td> 182.35 Mbp </td></tr><tr><td> 40 </td><td> 12 </td><td> 77.02 Mbp </td><td> 6 </td><td> 175.33 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 59.38 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 150.00 Mbp </td></tr><tr><td> 60 </td><td> 21 </td><td> 51.05 Mbp </td><td> 10 </td><td> 139.94 Mbp </td></tr><tr><td> 70 </td><td> 29 </td><td> 29.09 Mbp </td><td> 12 </td><td> 130.40 Mbp </td></tr><tr><td> 80 </td><td> 40 </td><td> 23.25 Mbp </td><td> 15 </td><td> 97.60 Mbp </td></tr><tr><td> 90 </td><td> 60 </td><td> 8.94 Mbp </td><td> 19 </td><td> 59.58 Mbp </td></tr><tr><td> 100 </td><td> 1626 </td><td> 11.45 Kbp </td><td> 1541 </td><td> 11.45 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 145.26 Mbp </td><td> 2 </td><td> 202.87 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 87.07 Mbp </td><td> 3 </td><td> 199.90 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 83.10 Mbp </td><td> 5 </td><td> 182.35 Mbp </td></tr><tr><td> 40 </td><td> 12 </td><td> 69.18 Mbp </td><td> 6 </td><td> 177.51 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 59.38 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 158.97 Mbp </td></tr><tr><td> 60 </td><td> 21 </td><td> 51.05 Mbp </td><td> 10 </td><td> 148.55 Mbp </td></tr><tr><td> 70 </td><td> 29 </td><td> 29.09 Mbp </td><td> 12 </td><td> 143.27 Mbp </td></tr><tr><td> 80 </td><td> 40 </td><td> 23.25 Mbp </td><td> 14 </td><td> 127.04 Mbp </td></tr><tr><td> 90 </td><td> 59 </td><td> 9.12 Mbp </td><td> 16 </td><td> 102.61 Mbp </td></tr><tr><td> 100 </td><td> 771 </td><td> 11.45 Kbp </td><td> 590 </td><td> 11.45 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1626 </th><th> 2.86 Gbp </th><th> 1541 </th><th> 2.86 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 771 </th><th> 2.83 Gbp </th><th> 590 </th><th> 2.83 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2024-10-18
-hpb1filesize: 723.6 MiB
-hpb1length: '2786709789'
-hpb1n50ctg: 50164332
-hpb1n50scf: 141006598
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Castor_canadensis/mCasCan1/assembly_vgp_HiC_2.0/mCasCan1.HiC.hap2.20241018.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2024-12-02
+hpb1filesize: 783.5 MiB
+hpb1length: '2765287480'
+hpb1n50ctg: 49955893
+hpb1n50scf: 158538439
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Castor_canadensis/mCasCan1/assembly_curated/mCasCan1.hap2.cur.20241202.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -91,17 +91,17 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 96.64 Mbp </td><td> 2 </td><td> 200.42 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 87.98 Mbp </td><td> 3 </td><td> 185.83 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 71.85 Mbp </td><td> 5 </td><td> 170.01 Mbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 57.20 Mbp </td><td> 7 </td><td> 150.60 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 19 </td><td style="background-color:#88ff88;"> 50.16 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 141.01 Mbp </td></tr><tr><td> 60 </td><td> 25 </td><td> 43.01 Mbp </td><td> 10 </td><td> 138.05 Mbp </td></tr><tr><td> 70 </td><td> 34 </td><td> 26.59 Mbp </td><td> 13 </td><td> 100.57 Mbp </td></tr><tr><td> 80 </td><td> 46 </td><td> 17.80 Mbp </td><td> 16 </td><td> 90.05 Mbp </td></tr><tr><td> 90 </td><td> 67 </td><td> 7.64 Mbp </td><td> 19 </td><td> 61.31 Mbp </td></tr><tr><td> 100 </td><td> 696 </td><td> 15.89 Kbp </td><td> 583 </td><td> 15.89 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 90.63 Mbp </td><td> 2 </td><td> 200.42 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 83.69 Mbp </td><td> 3 </td><td> 193.56 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 70.69 Mbp </td><td> 5 </td><td> 181.09 Mbp </td></tr><tr><td> 40 </td><td> 15 </td><td> 54.03 Mbp </td><td> 6 </td><td> 174.12 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 49.96 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 158.54 Mbp </td></tr><tr><td> 60 </td><td> 26 </td><td> 38.97 Mbp </td><td> 10 </td><td> 147.34 Mbp </td></tr><tr><td> 70 </td><td> 35 </td><td> 26.57 Mbp </td><td> 12 </td><td> 142.49 Mbp </td></tr><tr><td> 80 </td><td> 48 </td><td> 17.19 Mbp </td><td> 14 </td><td> 128.65 Mbp </td></tr><tr><td> 90 </td><td> 69 </td><td> 7.96 Mbp </td><td> 16 </td><td> 101.01 Mbp </td></tr><tr><td> 100 </td><td> 432 </td><td> 15.89 Kbp </td><td> 238 </td><td> 15.89 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 696 </th><th> 2.79 Gbp </th><th> 583 </th><th> 2.79 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 432 </th><th> 2.77 Gbp </th><th> 238 </th><th> 2.77 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1728421003
-last_updated: 1729826591
+last_updated: 1733150944
 mds:
 - data: species:&nbsp;Castor&nbsp;canadensis<br>specimen:&nbsp;mCasCan1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Castor_canadensis/mCasCan1/assembly_vgp_HiC_2.0/evaluation/mCasCan1.HiC.hap1.20241018.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Castor_canadensis/mCasCan1/assembly_vgp_HiC_2.0/evaluation/mCasCan1.HiC.hap2.20241018.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Castor_canadensis/mCasCan1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mCasCan1_hap1__s1_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Castor_canadensis/mCasCan1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mCasCan1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Castor_canadensis/mCasCan1/assembly_vgp_HiC_2.0/evaluation/merqury/mCasCan1_png<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Castor_canadensis/mCasCan1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Castor_canadensis/mCasCan1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/species/Castor_canadensis/mCasCan1/assembly_MT_rockefeller/mCasCan1.MT.20241018.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mCasCan1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;This&nbsp;is&nbsp;a&nbsp;VGP&nbsp;Phase&nbsp;1&nbsp;species&nbsp;we&nbsp;are&nbsp;submitting&nbsp;for&nbsp;dual&nbsp;curation.<br>
-  ident: md4
+  ident: md10
   title: assembly_vgp_HiC_2.0/mCasCan1.yml.yaml
 mito1date: 2024-10-18
 mito1filesize: 5.3 KiB
