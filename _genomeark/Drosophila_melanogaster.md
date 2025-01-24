@@ -1,6 +1,16 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: fruit fly
+data_dovetail-1_bases: 28.93 Gbp
+data_dovetail-1_bytes: 15.2 GiB
+data_dovetail-1_coverage: 164.37x
+data_dovetail-1_links: s3://genomeark/species/Drosophila_melanogaster/idDroMela1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Drosophila_melanogaster/idDroMela1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Drosophila_melanogaster/idDroMela1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.7678
+data_dovetail_bases: 28.93 Gbp
+data_dovetail_bytes: 15.2 GiB
+data_dovetail_coverage: 164.37x
 data_ont-1_bases: 157.34 Gbp
 data_ont-1_bytes: 128.7 GiB
 data_ont-1_coverage: 893.98x
@@ -66,7 +76,7 @@ data_pacbiohifi_fqgz_bases: 254.48 Gbp
 data_pacbiohifi_fqgz_bytes: 152.2 GiB
 data_pacbiohifi_fqgz_coverage: 1445.91x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
-  Simplex</em>'
+  Simplex</em> ::: <em style="color:forestgreen">Dovetail</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -74,8 +84,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 176000000
 genome_size_display: 176.00 Mbp
 genome_size_method: GoaT
-last_raw_data: 1724106765
-last_updated: 1724108230
+last_raw_data: 1736973762
+last_updated: 1736973762
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;idDroMela<br>&nbsp;&nbsp;name:&nbsp;Drosophila&nbsp;melanogaster<br>&nbsp;&nbsp;common_name:&nbsp;fruit&nbsp;fly<br>&nbsp;&nbsp;taxon_id:&nbsp;7227<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Diptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Drosophilidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;idDroMela1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;ISO-1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;ISO-1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;J.J.&nbsp;Emerson&nbsp;(UC&nbsp;Irvine)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;idDroMela2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;A2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;A2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;genome_size:&nbsp;176000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>
 name: Drosophila melanogaster
 name_: Drosophila_melanogaster

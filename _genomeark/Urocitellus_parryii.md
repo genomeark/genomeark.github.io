@@ -1,13 +1,13 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
-data_arima-1_bases: 485.66 Gbp
-data_arima-1_bytes: 257.7 GiB
+data_arima-1_bases: 979.17 Gbp
+data_arima-1_bytes: 491.3 GiB
 data_arima-1_coverage: N/A
 data_arima-1_links: s3://genomeark/species/Urocitellus_parryii/mUroPar1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Urocitellus_parryii/mUroPar1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Urocitellus_parryii/mUroPar1/genomic_data/arima/
-data_arima-1_scale: 1.7549
+data_arima-1_scale: 1.8563
 data_arima-3_bases: 203.90 Gbp
 data_arima-3_bytes: 107.9 GiB
 data_arima-3_coverage: N/A
@@ -15,8 +15,8 @@ data_arima-3_links: s3://genomeark/species/Urocitellus_parryii/mUroPar3/genomic_
 data_arima-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Urocitellus_parryii/mUroPar3/genomic_data/arima/
 data_arima-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Urocitellus_parryii/mUroPar3/genomic_data/arima/
 data_arima-3_scale: 1.7597
-data_arima_bases: 689.56 Gbp
-data_arima_bytes: 365.7 GiB
+data_arima_bases: 1183.07 Gbp
+data_arima_bytes: 599.2 GiB
 data_arima_coverage: N/A
 data_pacbiohifi_bam-1_bases: 139.77 Gbp
 data_pacbiohifi_bam-1_bytes: 565.7 GiB
@@ -104,8 +104,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1713289839
-last_updated: 1727723232
+last_raw_data: 1737128843
+last_updated: 1737128843
 mds:
 - data: species:&nbsp;Urocitellus&nbsp;parryii<br>specimen:&nbsp;mUroPar1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Urocitellus_parryii/mUroPar1/assembly_vgp_HiC_2.0/mUroPar1.HiC.hap1.20240517.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Urocitellus_parryii/mUroPar1/assembly_vgp_HiC_2.0/mUroPar1.HiC.hap2.20240517.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Urocitellus_parryii/mUroPar1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mUroPar1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Urocitellus_parryii/mUroPar1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mUroPar1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Urocitellus_parryii/mUroPar1/assembly_vgp_HiC_2.0/evaluation/merqury/hap1_purged/mUroPar1_png/<br>mito:&nbsp;s3://genomeark/species/Urocitellus_parryii/mUroPar1/assembly_MT_rockefeller/mUroPar1.MT.20240717.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Urocitellus_parryii/mUroPar1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Urocitellus_parryii/mUroPar1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mUroPar1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima,&nbsp;so&nbsp;the&nbsp;HiC&nbsp;reads&nbsp;require&nbsp;trimming&nbsp;5&nbsp;bp&nbsp;off&nbsp;the&nbsp;5'&nbsp;end.&nbsp;The&nbsp;assembly&nbsp;was&nbsp;performed&nbsp;on&nbsp;the&nbsp;Rockefeller&nbsp;University&nbsp;VGL&nbsp;instance.&nbsp;<br>
   ident: md5

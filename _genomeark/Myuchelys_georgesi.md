@@ -30,13 +30,15 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
-data_arima-1_bases: 169.68 Gbp
-data_arima-1_bytes: 70.3 GiB
-data_arima-1_coverage: 85.69x
-data_arima-1_links: s3://genomeark/species/Myuchelys_georgesi/rMyuGeo1/genomic_data/arima/<br>
-data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myuchelys_georgesi/rMyuGeo1/genomic_data/arima/
-data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myuchelys_georgesi/rMyuGeo1/genomic_data/arima/
-data_arima-1_scale: 2.2486
+data_arima-1_bases: '169677004427'
+data_arima-1_scale: '2.2486'
+data_arima-2_bases: 169.68 Gbp
+data_arima-2_bytes: 70.3 GiB
+data_arima-2_coverage: 85.69x
+data_arima-2_links: s3://genomeark/species/Myuchelys_georgesi/rMyuGeo2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myuchelys_georgesi/rMyuGeo2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myuchelys_georgesi/rMyuGeo2/genomic_data/arima/
+data_arima-2_scale: 2.2486
 data_arima_bases: 169.68 Gbp
 data_arima_bytes: 70.3 GiB
 data_arima_coverage: 85.69x
@@ -58,12 +60,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1980039302
 genome_size_display: 1.98 Gbp
 genome_size_method: ''
-last_raw_data: 1732593699
-last_updated: 1732729709
+last_raw_data: 1734121445
+last_updated: 1734121822
 mds:
-- data: species:&nbsp;Myuchelys&nbsp;georgesi<br>specimen:&nbsp;rMyuGeo1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;Threatened&nbsp;Species&nbsp;Initiative&nbsp;(TSI)<br>assembled_by_group:&nbsp;The&nbsp;University&nbsp;of&nbsp;Sydney<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>pri:&nbsp;s3://genomeark/species/Myuchelys_georgesi/rMyuGeo1/assembly_genbank/GCA_040894355.1_rMyuGeo1.pri.20230808.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Myuchelys_georgesi/rMyuGeo1/assembly_UniofSydney/evaluation/pri/pretext/rMyuGeo1_QC.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Myuchelys_georgesi/rMyuGeo1/assembly_UniofSydney/evaluation/merqury/rMyuGeo1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Myuchelys_georgesi/rMyuGeo1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Myuchelys_georgesi/rMyuGeo1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rMyuGeo1,&nbsp;assembled&nbsp;by&nbsp;the&nbsp;University&nbsp;of&nbsp;Sydney&nbsp;and&nbsp;present&nbsp;on&nbsp;NCBI&nbsp;as&nbsp;GCA_040894355.1.&nbsp;It&nbsp;is&nbsp;a&nbsp;primary&nbsp;asembly&nbsp;only.&nbsp;Arima&nbsp;HiC&nbsp;2.0&nbsp;single&nbsp;index&nbsp;kit&nbsp;for&nbsp;the&nbsp;HiC.&nbsp;This&nbsp;is&nbsp;a&nbsp;VGP&nbsp;Phase&nbsp;1&nbsp;species&nbsp;we&nbsp;are&nbsp;submitting&nbsp;for&nbsp;curation.<br>
-  ident: md1
-  title: assembly_UniOfSydney/rMyuGeo1.yaml
+- data: species:&nbsp;Myuchelys&nbsp;georgesi<br>specimen:&nbsp;rMyuGeo1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;Threatened&nbsp;Species&nbsp;Initiative&nbsp;(TSI)<br>assembled_by_group:&nbsp;The&nbsp;University&nbsp;of&nbsp;Sydney<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>pri:&nbsp;s3://genomeark/species/Myuchelys_georgesi/rMyuGeo1/assembly_genbank/rMyuGeo1.pri.GCA_040894355.1.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Myuchelys_georgesi/rMyuGeo1/assembly_genbank/evaluation/pri/pretext/rMyuGeo1_QC.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Myuchelys_georgesi/rMyuGeo1/assembly_genbank/evaluation/merqury/rMyuGeo1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Myuchelys_georgesi/rMyuGeo1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Myuchelys_georgesi/rMyuGeo2/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rMyuGeo1,&nbsp;assembled&nbsp;by&nbsp;the&nbsp;University&nbsp;of&nbsp;Sydney&nbsp;and&nbsp;present&nbsp;on&nbsp;NCBI&nbsp;as&nbsp;GCA_040894355.1.&nbsp;It&nbsp;is&nbsp;a&nbsp;primary&nbsp;asembly&nbsp;only.&nbsp;Arima&nbsp;HiC&nbsp;2.0&nbsp;single&nbsp;index&nbsp;kit&nbsp;for&nbsp;the&nbsp;HiC.&nbsp;This&nbsp;is&nbsp;a&nbsp;VGP&nbsp;Phase&nbsp;1&nbsp;species&nbsp;we&nbsp;are&nbsp;submitting&nbsp;for&nbsp;curation.<br>
+  ident: md5
+  title: assembly_genbank/rMyuGeo1.yaml
 name: Myuchelys georgesi
 name_: Myuchelys_georgesi
 pri1date: 2024-11-27

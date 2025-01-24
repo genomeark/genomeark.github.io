@@ -50,7 +50,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 hpa1date: 2024-11-24
-hpa1filesize: 821.4 MiB
+hpa1filesize: 0.9 GiB
 hpa1length: '0'
 hpa1n50ctg: 0
 hpa1n50scf: 0
@@ -108,7 +108,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1730917032
-last_updated: 1733495216
+last_updated: 1736783080
 mds:
 - data: species:&nbsp;Mantella&nbsp;aurantiaca<br>specimen:&nbsp;aManAur1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Mantella_aurantiaca/aManAur1/assembly_vgp_HiC_2.0/aManAur1.HiC.hap1.20241124.fasta.gz&nbsp;<br>hap2:&nbsp;s3://genomeark/species/Mantella_aurantiaca/aManAur1/assembly_vgp_HiC_2.0/aManAur1.HiC.hap2.20241124.fasta.gz&nbsp;<br>pretext_hap1:&nbsp;s3://genomeark/species/Mantella_aurantiaca/aManAur1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aManAur1_hap1__s2_heatmap.pretext&nbsp;<br>pretext_hap2:&nbsp;s3://genomeark/species/Mantella_aurantiaca/aManAur1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aManAur1_hap2__s2_heatmap.pretext&nbsp;&nbsp;<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Mantella_aurantiaca/aManAur1/assembly_vgp_HiC_2.0/evaluation/merqury/aManAur1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Mantella_aurantiaca/aManAur1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Mantella_aurantiaca/aManAur1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Mantella_aurantiaca/aManAur1/assembly_MT_rockefeller/aManAur1.MT.20241124.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;aManAur1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;This&nbsp;is&nbsp;a&nbsp;VGP&nbsp;Phase&nbsp;1&nbsp;species&nbsp;we&nbsp;are&nbsp;submitting&nbsp;for&nbsp;dual&nbsp;curation.<br>
   ident: md0

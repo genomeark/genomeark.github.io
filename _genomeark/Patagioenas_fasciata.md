@@ -49,12 +49,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2024-01-05
-hpa1filesize: 293.1 MiB
-hpa1length: '1196602587'
-hpa1n50ctg: 18036418
-hpa1n50scf: 70091812
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Patagioenas_fasciata/bPatFas1/assembly_curated/bPatFas1.hap1.cur.20240105.fasta.gz
+hpa1date: 2024-12-23
+hpa1filesize: 382.6 MiB
+hpa1length: '1454324094'
+hpa1n50ctg: 48246320
+hpa1n50scf: 71669782
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Patagioenas_fasciata/bPatFas1/assembly_curated/bPatFas1.hap1.cur.20241223.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -72,18 +72,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 39.76 Mbp </td><td> 1 </td><td> 214.99 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 30.18 Mbp </td><td> 2 </td><td> 160.85 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 22.52 Mbp </td><td> 2 </td><td> 160.85 Mbp </td></tr><tr><td> 40 </td><td> 17 </td><td> 20.64 Mbp </td><td> 3 </td><td> 123.62 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 23 </td><td style="background-color:#88ff88;"> 18.04 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 70.09 Mbp </td></tr><tr><td> 60 </td><td> 30 </td><td> 14.38 Mbp </td><td> 7 </td><td> 44.38 Mbp </td></tr><tr><td> 70 </td><td> 40 </td><td> 10.08 Mbp </td><td> 10 </td><td> 28.34 Mbp </td></tr><tr><td> 80 </td><td> 55 </td><td> 5.70 Mbp </td><td> 16 </td><td> 17.80 Mbp </td></tr><tr><td> 90 </td><td> 88 </td><td> 2.38 Mbp </td><td> 28 </td><td> 5.64 Mbp </td></tr><tr><td> 100 </td><td> 672 </td><td> 588  bp </td><td> 528 </td><td> 15.65 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 97.46 Mbp </td><td> 1 </td><td> 216.01 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 81.54 Mbp </td><td> 2 </td><td> 170.07 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 66.77 Mbp </td><td> 3 </td><td> 126.43 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 61.78 Mbp </td><td> 4 </td><td> 85.90 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 48.25 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 71.67 Mbp </td></tr><tr><td> 60 </td><td> 15 </td><td> 23.56 Mbp </td><td> 8 </td><td> 56.11 Mbp </td></tr><tr><td> 70 </td><td> 22 </td><td> 17.74 Mbp </td><td> 12 </td><td> 29.12 Mbp </td></tr><tr><td> 80 </td><td> 33 </td><td> 8.28 Mbp </td><td> 18 </td><td> 17.63 Mbp </td></tr><tr><td> 90 </td><td> 72 </td><td> 1.75 Mbp </td><td> 34 </td><td> 4.22 Mbp </td></tr><tr><td> 100 </td><td> 497 </td><td> 1  bp </td><td> 360 </td><td> 13.35 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 672 </th><th> 1.19 Gbp </th><th> 528 </th><th> 1.20 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 497 </th><th> 1.45 Gbp </th><th> 360 </th><th> 1.45 Gbp </th></tr>
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2024-01-05
-hpb1filesize: 337.6 MiB
-hpb1length: '1414847195'
-hpb1n50ctg: 17011177
-hpb1n50scf: 71505812
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Patagioenas_fasciata/bPatFas1/assembly_curated/bPatFas1.hap2.cur.20240105.fasta.gz
+hpb1date: 2024-12-23
+hpb1filesize: 327.4 MiB
+hpb1length: '1210645495'
+hpb1n50ctg: 63448456
+hpb1n50scf: 70857732
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Patagioenas_fasciata/bPatFas1/assembly_curated/bPatFas1.hap2.cur.20241223.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -101,20 +101,20 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 4 </td><td> 42.88 Mbp </td><td> 1 </td><td> 215.60 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 35.99 Mbp </td><td> 2 </td><td> 170.13 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 23.05 Mbp </td><td> 3 </td><td> 126.66 Mbp </td></tr><tr><td> 40 </td><td> 19 </td><td> 21.46 Mbp </td><td> 4 </td><td> 85.91 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 27 </td><td style="background-color:#88ff88;"> 17.01 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 71.51 Mbp </td></tr><tr><td> 60 </td><td> 36 </td><td> 12.58 Mbp </td><td> 9 </td><td> 42.88 Mbp </td></tr><tr><td> 70 </td><td> 51 </td><td> 7.84 Mbp </td><td> 13 </td><td> 25.31 Mbp </td></tr><tr><td> 80 </td><td> 76 </td><td> 3.84 Mbp </td><td> 21 </td><td> 14.07 Mbp </td></tr><tr><td> 90 </td><td> 134 </td><td> 1.41 Mbp </td><td> 42 </td><td> 2.81 Mbp </td></tr><tr><td> 100 </td><td> 682 </td><td> 6.07 Kbp </td><td> 464 </td><td> 12.93 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 132.38 Mbp </td><td> 1 </td><td> 215.62 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 101.02 Mbp </td><td> 2 </td><td> 166.69 Mbp </td></tr><tr><td> 30 </td><td> 4 </td><td> 80.86 Mbp </td><td> 2 </td><td> 166.69 Mbp </td></tr><tr><td> 40 </td><td> 5 </td><td> 65.88 Mbp </td><td> 3 </td><td> 123.86 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 7 </td><td style="background-color:#88ff88;"> 63.45 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 70.86 Mbp </td></tr><tr><td> 60 </td><td> 10 </td><td> 38.38 Mbp </td><td> 7 </td><td> 49.34 Mbp </td></tr><tr><td> 70 </td><td> 14 </td><td> 23.46 Mbp </td><td> 10 </td><td> 29.62 Mbp </td></tr><tr><td> 80 </td><td> 20 </td><td> 16.01 Mbp </td><td> 15 </td><td> 19.00 Mbp </td></tr><tr><td> 90 </td><td> 34 </td><td> 4.98 Mbp </td><td> 24 </td><td> 8.04 Mbp </td></tr><tr><td> 100 </td><td> 505 </td><td> 1  bp </td><td> 441 </td><td> 5.72 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 682 </th><th> 1.40 Gbp </th><th> 464 </th><th> 1.41 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 505 </th><th> 1.19 Gbp </th><th> 441 </th><th> 1.21 Gbp </th></tr>
   </tfoot>
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1717831789
-last_updated: 1717831789
-mito1date: 2024-01-05
-mito1filesize: 5.3 KiB
-mito1length: '17020'
-mito1n50ctg: 17020
-mito1n50scf: 17020
-mito1seq: https://s3.amazonaws.com/genomeark/species/Patagioenas_fasciata/bPatFas1/assembly_MT_rockefeller/bPatFas1.MT.20240105.fasta.gz
+last_updated: 1734975205
+mito1date: 2024-12-03
+mito1filesize: 5.4 KiB
+mito1length: '17021'
+mito1n50ctg: 17021
+mito1n50scf: 17021
+mito1seq: https://s3.amazonaws.com/genomeark/species/Patagioenas_fasciata/bPatFas1/assembly_MT_rockefeller/bPatFas1.MT.20241203.fasta.gz
 mito1sizes: |
   <table class="sequence-sizes-table">
   <thead>

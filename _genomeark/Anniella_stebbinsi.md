@@ -31,7 +31,11 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1732652091
-last_updated: 1733347541
+last_updated: 1736543654
+mds:
+- data: species:&nbsp;Anniella&nbsp;stebbinsi&nbsp;<br>specimen:&nbsp;rAnnSte1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;California&nbsp;Conservation&nbsp;Genomics&nbsp;Project&nbsp;(CCGP)<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>hap1:&nbsp;s3://genomeark/species/Anniella_stebbinsi/rAnnSte1/assembly_genbank/rAnnSte1.hap1.GCA_029215775.1.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Anniella_stebbinsi/rAnnSte1/assembly_genbank/rAnnSte1.hap2.GCA_029215795.1.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Anniella_stebbinsi/rAnnSte1/assembly_genbank/evaluation/hap1/pretext/rAnnSte1_hap1__s2.heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Anniella_stebbinsi/rAnnSte1/assembly_genbank/evaluation/hap2/pretext/rAnnSte1_hap2__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Anniella_stebbinsi/rAnnSte1/assembly_genbank/evaluation/merqury/rAnnSte1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Anniella_stebbinsi/rAnnSte1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Anniella_stebbinsi/rAnnSte1/genomic_data/dovetail/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1-r375)<br>&nbsp;&nbsp;-&nbsp;SALSA&nbsp;(2)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rAnnSte1,&nbsp;assembled&nbsp;by&nbsp;the&nbsp;CCGP&nbsp;and&nbsp;present&nbsp;on&nbsp;NCBI&nbsp;as&nbsp;GCA_029215775.1&nbsp;(hap1)&nbsp;and&nbsp;GCA_029215795.1&nbsp;(hap2).&nbsp;Dovetail&nbsp;Omni-C&nbsp;for&nbsp;the&nbsp;HiC.&nbsp;This&nbsp;is&nbsp;a&nbsp;VGP&nbsp;Phase&nbsp;1&nbsp;species&nbsp;we&nbsp;are&nbsp;submitting&nbsp;for&nbsp;curation.<br>
+  ident: md2
+  title: assembly_genbank/rAnnSte1.yaml
 name: Anniella stebbinsi
 name_: Anniella_stebbinsi
 project: ~

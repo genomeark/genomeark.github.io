@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: least weasel
 data_arima-1_bases: 269.37 Gbp
 data_arima-1_bytes: 138.4 GiB
@@ -85,12 +85,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_vgp_HiC_2.0
-hpa2date: 2024-10-02
+hpa2date: 2024-12-19
 hpa2filesize: 0.9 GiB
-hpa2length: '3425419382'
-hpa2n50ctg: 1343956
-hpa2n50scf: 108717913
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Mustela_nivalis/mMusNiv2/assembly_cambridge/mMusNiv2.hap1.asm.20241002.fasta.gz
+hpa2length: '3437873602'
+hpa2n50ctg: 1334437
+hpa2n50scf: 120177077
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Mustela_nivalis/mMusNiv2/assembly_curated/mMusNiv2.hap1.cur.20241219.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -108,12 +108,12 @@ hpa2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 74 </td><td> 3.19 Mbp </td><td> 2 </td><td> 163.28 Mbp </td></tr><tr><td> 20 </td><td> 183 </td><td> 2.42 Mbp </td><td> 4 </td><td> 147.43 Mbp </td></tr><tr><td> 30 </td><td> 322 </td><td> 1.97 Mbp </td><td> 6 </td><td> 143.31 Mbp </td></tr><tr><td> 40 </td><td> 493 </td><td> 1.59 Mbp </td><td> 8 </td><td> 117.19 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 699 </td><td style="background-color:#88ff88;"> 1.34 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 108.72 Mbp </td></tr><tr><td> 60 </td><td> 947 </td><td> 1.10 Mbp </td><td> 14 </td><td> 91.73 Mbp </td></tr><tr><td> 70 </td><td> 1252 </td><td> 0.89 Mbp </td><td> 18 </td><td> 62.33 Mbp </td></tr><tr><td> 80 </td><td> 1636 </td><td> 0.69 Mbp </td><td> 28 </td><td> 5.33 Mbp </td></tr><tr><td> 90 </td><td> 2143 </td><td> 0.51 Mbp </td><td> 165 </td><td> 1.48 Mbp </td></tr><tr><td> 100 </td><td> 2873 </td><td> 322.00 Kbp </td><td> 478 </td><td> 0.62 Mbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 74 </td><td> 3.19 Mbp </td><td> 2 </td><td> 187.21 Mbp </td></tr><tr><td> 20 </td><td> 185 </td><td> 2.41 Mbp </td><td> 4 </td><td> 165.13 Mbp </td></tr><tr><td> 30 </td><td> 324 </td><td> 1.96 Mbp </td><td> 5 </td><td> 158.07 Mbp </td></tr><tr><td> 40 </td><td> 496 </td><td> 1.59 Mbp </td><td> 7 </td><td> 147.41 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 703 </td><td style="background-color:#88ff88;"> 1.33 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 120.18 Mbp </td></tr><tr><td> 60 </td><td> 953 </td><td> 1.10 Mbp </td><td> 12 </td><td> 114.20 Mbp </td></tr><tr><td> 70 </td><td> 1258 </td><td> 0.89 Mbp </td><td> 15 </td><td> 92.85 Mbp </td></tr><tr><td> 80 </td><td> 1642 </td><td> 0.69 Mbp </td><td> 19 </td><td> 61.79 Mbp </td></tr><tr><td> 90 </td><td> 2149 </td><td> 0.51 Mbp </td><td> 92 </td><td> 1.72 Mbp </td></tr><tr><td> 100 </td><td> 2869 </td><td> 330.00 Kbp </td><td> 379 </td><td> 0.66 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.137x </th><th> 6086 </th><th> 3.42 Gbp </th><th> 3267 </th><th> 3.43 Gbp </th></tr>
+  <tr><th> 1.141x </th><th> 6118 </th><th> 3.44 Gbp </th><th> 3180 </th><th> 3.44 Gbp </th></tr>
   </tfoot>
   </table>
-hpa2version: assembly_cambridge
+hpa2version: assembly_curated
 hpb1date: 2023-12-15
 hpb1filesize: 853.2 MiB
 hpb1length: '3127155873'
@@ -143,12 +143,12 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
-hpb2date: 2024-10-02
-hpb2filesize: 785.1 MiB
-hpb2length: '2849068990'
-hpb2n50ctg: 1097528
-hpb2n50scf: 106436501
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Mustela_nivalis/mMusNiv2/assembly_cambridge/mMusNiv2.hap2.asm.20241002.fasta.gz
+hpb2date: 2024-12-19
+hpb2filesize: 781.0 MiB
+hpb2length: '2835054152'
+hpb2n50ctg: 1099777
+hpb2n50scf: 113970624
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Mustela_nivalis/mMusNiv2/assembly_curated/mMusNiv2.hap2.cur.20241219.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -166,14 +166,14 @@ hpb2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 81 </td><td> 2.94 Mbp </td><td> 2 </td><td> 163.03 Mbp </td></tr><tr><td> 20 </td><td> 201 </td><td> 2.19 Mbp </td><td> 4 </td><td> 148.86 Mbp </td></tr><tr><td> 30 </td><td> 359 </td><td> 1.69 Mbp </td><td> 6 </td><td> 143.42 Mbp </td></tr><tr><td> 40 </td><td> 558 </td><td> 1.37 Mbp </td><td> 8 </td><td> 113.97 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 802 </td><td style="background-color:#88ff88;"> 1.10 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 106.44 Mbp </td></tr><tr><td> 60 </td><td> 1113 </td><td> 0.87 Mbp </td><td> 15 </td><td> 85.03 Mbp </td></tr><tr><td> 70 </td><td> 1515 </td><td> 0.65 Mbp </td><td> 19 </td><td> 58.52 Mbp </td></tr><tr><td> 80 </td><td> 2082 </td><td> 429.44 Kbp </td><td> 80 </td><td> 1.69 Mbp </td></tr><tr><td> 90 </td><td> 3146 </td><td> 165.05 Kbp </td><td> 552 </td><td> 243.77 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 80 </td><td> 2.94 Mbp </td><td> 2 </td><td> 191.34 Mbp </td></tr><tr><td> 20 </td><td> 199 </td><td> 2.20 Mbp </td><td> 4 </td><td> 165.59 Mbp </td></tr><tr><td> 30 </td><td> 357 </td><td> 1.70 Mbp </td><td> 5 </td><td> 159.33 Mbp </td></tr><tr><td> 40 </td><td> 555 </td><td> 1.38 Mbp </td><td> 8 </td><td> 141.76 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 799 </td><td style="background-color:#88ff88;"> 1.10 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 113.97 Mbp </td></tr><tr><td> 60 </td><td> 1108 </td><td> 0.87 Mbp </td><td> 13 </td><td> 93.90 Mbp </td></tr><tr><td> 70 </td><td> 1510 </td><td> 0.65 Mbp </td><td> 16 </td><td> 69.13 Mbp </td></tr><tr><td> 80 </td><td> 2082 </td><td> 423.67 Kbp </td><td> 42 </td><td> 2.19 Mbp </td></tr><tr><td> 90 </td><td> 3191 </td><td> 154.01 Kbp </td><td> 540 </td><td> 211.48 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.946x </th><th> 5019 </th><th> 2.85 Gbp </th><th> 2342 </th><th> 2.85 Gbp </th></tr>
+  <tr><th> 0.941x </th><th> 4948 </th><th> 2.83 Gbp </th><th> 2239 </th><th> 2.84 Gbp </th></tr>
   </tfoot>
   </table>
-hpb2version: assembly_cambridge
+hpb2version: assembly_curated
 last_raw_data: 1721499925
-last_updated: 1728038010
+last_updated: 1734570226
 mds:
 - data: species:&nbsp;Mustela&nbsp;nivalis&nbsp;vulgaris<br>specimen:&nbsp;mMusNiv1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>hap1:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/mMusNiv1.HiC.hap1.20231215.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/mMusNiv1.HiC.hap2.20231215.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mMusNiv1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mMusNiv1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/assembly_vgp_HiC_2.0/evaluation/merqury/mMusNiv1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Mustela_nivalis/mMusNiv1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mMusNiv1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;This&nbsp;sample&nbsp;did&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;Final&nbsp;genome&nbsp;size&nbsp;looks&nbsp;large&nbsp;compared&nbsp;to&nbsp;existing&nbsp;assembly,&nbsp;likely&nbsp;because&nbsp;of&nbsp;fragmented&nbsp;repetitive&nbsp;regions&nbsp;captured&nbsp;by&nbsp;HiFi&nbsp;(but&nbsp;not&nbsp;scaffolded),&nbsp;which&nbsp;were&nbsp;missed&nbsp;with&nbsp;previous&nbsp;sequencing&nbsp;technologies.&nbsp;
   ident: md3

@@ -169,16 +169,16 @@ data_illumina-9_scale: 1.9395
 data_illumina_bases: 375.43 Gbp
 data_illumina_bytes: 184.7 GiB
 data_illumina_coverage: 362.52x
-data_ont-7_bases: 960.89 Gbp
-data_ont-7_bytes: 833.9 GiB
-data_ont-7_coverage: 927.85x
+data_ont-7_bases: 607.60 Gbp
+data_ont-7_bytes: 525.2 GiB
+data_ont-7_coverage: 586.71x
 data_ont-7_links: s3://genomeark/species/Taeniopygia_guttata/bTaeGut7/genomic_data/ont/<br>
 data_ont-7_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Taeniopygia_guttata/bTaeGut7/genomic_data/ont/
 data_ont-7_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut7/genomic_data/ont/
-data_ont-7_scale: 1.0732
-data_ont_bases: 960.89 Gbp
-data_ont_bytes: 833.9 GiB
-data_ont_coverage: 927.85x
+data_ont-7_scale: 1.0774
+data_ont_bases: 607.60 Gbp
+data_ont_bytes: 525.2 GiB
+data_ont_coverage: 586.71x
 data_pacbio-1_bases: 109.72 Gbp
 data_pacbio-1_bytes: 392.7 GiB
 data_pacbio-1_coverage: 105.95x
@@ -326,8 +326,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_curated
-last_raw_data: 1732605057
-last_updated: 1732605090
+last_raw_data: 1734637935
+last_updated: 1736539137
 mat2date: 2022-05-27
 mat2filesize: 289.3 MiB
 mat2length: '1021085914'
