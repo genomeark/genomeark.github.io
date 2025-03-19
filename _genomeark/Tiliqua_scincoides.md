@@ -31,15 +31,15 @@ data_pacbiohifi_clr-1_scale: 0.5380
 data_pacbiohifi_clr_bases: 1010.65 Gbp
 data_pacbiohifi_clr_bytes: 1.7 TiB
 data_pacbiohifi_clr_coverage: N/A
-data_pacbiohifi_fqgz-1_bases: 51.45 Gbp
-data_pacbiohifi_fqgz-1_bytes: 41.2 GiB
+data_pacbiohifi_fqgz-1_bases: 177.60 Gbp
+data_pacbiohifi_fqgz-1_bytes: 115.9 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Tiliqua_scincoides/rTilSci1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tiliqua_scincoides/rTilSci1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tiliqua_scincoides/rTilSci1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 1.1640
-data_pacbiohifi_fqgz_bases: 51.45 Gbp
-data_pacbiohifi_fqgz_bytes: 41.2 GiB
+data_pacbiohifi_fqgz-1_scale: 1.4274
+data_pacbiohifi_fqgz_bases: 177.60 Gbp
+data_pacbiohifi_fqgz_bytes: 115.9 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
@@ -107,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1718311647
-last_updated: 1718311647
+last_raw_data: 1740171834
+last_updated: 1740171834
 mds:
 - data: species:&nbsp;Tiliqua&nbsp;scincoides<br>specimen:&nbsp;rTilSci1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Tiliqua_scincoides/rTilSci1/assembly_vgp_HiC_2.0/rTilSci1.HiC.hap1.20230411.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Tiliqua_scincoides/rTilSci1/assembly_vgp_HiC_2.0/rTilSci1.HiC.hap2.20230411.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Tiliqua_scincoides/rTilSci1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rTilSci1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Tiliqua_scincoides/rTilSci1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rTilSci1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Tiliqua_scincoides/rTilSci1/assembly_vgp_HiC_2.0/evaluation/merqury/rTilSci1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Tiliqua_scincoides/rTilSci1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Tiliqua_scincoides/rTilSci1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.5+galaxy1)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rTilSci1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;hap1&nbsp;&&nbsp;hap2&nbsp;for&nbsp;dual&nbsp;curation.&nbsp;This&nbsp;is&nbsp;the&nbsp;curation&nbsp;ticket&nbsp;for&nbsp;hap1.&nbsp;Please&nbsp;note&nbsp;that&nbsp;both&nbsp;haplotypes&nbsp;show&nbsp;some&nbsp;false&nbsp;joins&nbsp;after&nbsp;yahs&nbsp;scaffolding.&nbsp;I&nbsp;tried&nbsp;to&nbsp;re-run&nbsp;yahs&nbsp;with&nbsp;different&nbsp;resolutions,&nbsp;but&nbsp;could&nbsp;not&nbsp;obtain&nbsp;a&nbsp;satisfactory&nbsp;result.
   ident: md8

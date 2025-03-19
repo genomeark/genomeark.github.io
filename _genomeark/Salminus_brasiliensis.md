@@ -11,6 +11,16 @@ data_arima-1_scale: 1.7960
 data_arima_bases: 111.25 Gbp
 data_arima_bytes: 57.7 GiB
 data_arima_coverage: N/A
+data_ont-1_bases: 57.10 Gbp
+data_ont-1_bytes: 48.0 GiB
+data_ont-1_coverage: N/A
+data_ont-1_links: s3://genomeark/species/Salminus_brasiliensis/fSalBra1/genomic_data/ont/<br>
+data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Salminus_brasiliensis/fSalBra1/genomic_data/ont/
+data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salminus_brasiliensis/fSalBra1/genomic_data/ont/
+data_ont-1_scale: 1.1077
+data_ont_bases: 57.10 Gbp
+data_ont_bytes: 48.0 GiB
+data_ont_coverage: N/A
 data_pacbiohifi_bam-1_bases: 80.32 Gbp
 data_pacbiohifi_bam-1_bytes: 278.6 GiB
 data_pacbiohifi_bam-1_coverage: N/A
@@ -41,7 +51,8 @@ data_pacbiohifi_fqgz-1_scale: 1.1742
 data_pacbiohifi_fqgz_bases: 40.53 Gbp
 data_pacbiohifi_fqgz_bytes: 32.1 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
+  Simplex</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -107,8 +118,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1723657975
-last_updated: 1723657975
+last_raw_data: 1741362540
+last_updated: 1741362656
 mds:
 - data: species:&nbsp;Salminus&nbsp;brasiliensis<br>specimen:&nbsp;fSalBra1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Salminus_brasiliensis/fSalBra1/assembly_vgp_HiC_2.0/fSalBra1.HiC.hap1.20230305.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Salminus_brasiliensis/fSalBra1/assembly_vgp_HiC_2.0/fSalBra1.HiC.hap2.20230305.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Salminus_brasiliensis/fSalBra1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fSalBra1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Salminus_brasiliensis/fSalBra1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fSalBra1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Salminus_brasiliensis/fSalBra1/assembly_vgp_HiC_2.0/evaluation/merqury/fSalBra1_png/<br>mito:&nbsp;s3://genomeark/species/Salminus_brasiliensis/fSalBra1/assembly_MT_rockefeller/fSalBra1.MT.20230210.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Salminus_brasiliensis/fSalBra1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Salminus_brasiliensis/fSalBra1/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Salminus_brasiliensis/fSalBra1/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fSalBra1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;hap2&nbsp;for&nbsp;curation.<br>
   ident: md6

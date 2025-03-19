@@ -1,0 +1,1 @@
+../_genomeark/Chitra_chitra.md

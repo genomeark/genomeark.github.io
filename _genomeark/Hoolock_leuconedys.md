@@ -8,19 +8,33 @@ data_dovetail-1_links: s3://genomeark/species/Hoolock_leuconedys/mHooLeu1/genomi
 data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoolock_leuconedys/mHooLeu1/genomic_data/dovetail/
 data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoolock_leuconedys/mHooLeu1/genomic_data/dovetail/
 data_dovetail-1_scale: 1.5908
-data_dovetail_bases: 144.60 Gbp
-data_dovetail_bytes: 84.7 GiB
-data_dovetail_coverage: 44.77x
-data_illumina-1_bases: 372.57 Gbp
-data_illumina-1_bytes: 177.7 GiB
-data_illumina-1_coverage: 115.35x
+data_dovetail-2_bases: 87.15 Gbp
+data_dovetail-2_bytes: 42.1 GiB
+data_dovetail-2_coverage: 26.98x
+data_dovetail-2_links: s3://genomeark/species/Hoolock_leuconedys/mHooLeu2/genomic_data/dovetail/<br>
+data_dovetail-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoolock_leuconedys/mHooLeu2/genomic_data/dovetail/
+data_dovetail-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoolock_leuconedys/mHooLeu2/genomic_data/dovetail/
+data_dovetail-2_scale: 1.9275
+data_dovetail_bases: 231.74 Gbp
+data_dovetail_bytes: 126.8 GiB
+data_dovetail_coverage: 71.75x
+data_illumina-1_bases: 491.26 Gbp
+data_illumina-1_bytes: 226.4 GiB
+data_illumina-1_coverage: 152.09x
 data_illumina-1_links: s3://genomeark/species/Hoolock_leuconedys/mHooLeu1/genomic_data/illumina/<br>
 data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoolock_leuconedys/mHooLeu1/genomic_data/illumina/
 data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoolock_leuconedys/mHooLeu1/genomic_data/illumina/
-data_illumina-1_scale: 1.9525
-data_illumina_bases: 372.57 Gbp
-data_illumina_bytes: 177.7 GiB
-data_illumina_coverage: 115.35x
+data_illumina-1_scale: 2.0211
+data_illumina-2_bases: 172.59 Gbp
+data_illumina-2_bytes: 84.5 GiB
+data_illumina-2_coverage: 53.43x
+data_illumina-2_links: s3://genomeark/species/Hoolock_leuconedys/mHooLeu2/genomic_data/illumina/<br>
+data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoolock_leuconedys/mHooLeu2/genomic_data/illumina/
+data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoolock_leuconedys/mHooLeu2/genomic_data/illumina/
+data_illumina-2_scale: 1.9018
+data_illumina_bases: 663.85 Gbp
+data_illumina_bytes: 310.9 GiB
+data_illumina_coverage: 205.53x
 data_ont-1_bases: 246.60 Gbp
 data_ont-1_bytes: 201.7 GiB
 data_ont-1_coverage: 76.35x
@@ -45,9 +59,16 @@ data_pacbiohifi_bam-1_links: s3://genomeark/species/Hoolock_leuconedys/mHooLeu1/
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoolock_leuconedys/mHooLeu1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoolock_leuconedys/mHooLeu1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 0.2668
-data_pacbiohifi_bam_bases: 482.34 Gbp
-data_pacbiohifi_bam_bytes: 1.6 TiB
-data_pacbiohifi_bam_coverage: 149.33x
+data_pacbiohifi_bam-2_bases: 57.66 Gbp
+data_pacbiohifi_bam-2_bytes: 192.5 GiB
+data_pacbiohifi_bam-2_coverage: 17.85x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Hoolock_leuconedys/mHooLeu2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoolock_leuconedys/mHooLeu2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoolock_leuconedys/mHooLeu2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 0.2790
+data_pacbiohifi_bam_bases: 540.00 Gbp
+data_pacbiohifi_bam_bytes: 1.8 TiB
+data_pacbiohifi_bam_coverage: 167.18x
 data_pacbiohifi_clr-1_bases: 4619.95 Gbp
 data_pacbiohifi_clr-1_bytes: 8.1 TiB
 data_pacbiohifi_clr-1_coverage: 1430.32x
@@ -65,9 +86,16 @@ data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Hoolock_leuconedys/mHooLeu1
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoolock_leuconedys/mHooLeu1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoolock_leuconedys/mHooLeu1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 1.2802
-data_pacbiohifi_fqgz_bases: 242.17 Gbp
-data_pacbiohifi_fqgz_bytes: 176.2 GiB
-data_pacbiohifi_fqgz_coverage: 74.98x
+data_pacbiohifi_fqgz-2_bases: 51.61 Gbp
+data_pacbiohifi_fqgz-2_bytes: 33.9 GiB
+data_pacbiohifi_fqgz-2_coverage: 15.98x
+data_pacbiohifi_fqgz-2_links: s3://genomeark/species/Hoolock_leuconedys/mHooLeu2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoolock_leuconedys/mHooLeu2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoolock_leuconedys/mHooLeu2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-2_scale: 1.4185
+data_pacbiohifi_fqgz_bases: 293.79 Gbp
+data_pacbiohifi_fqgz_bytes: 210.1 GiB
+data_pacbiohifi_fqgz_coverage: 90.96x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
   Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 data_use_source: from-default
@@ -77,8 +105,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 3230000000
 genome_size_display: 3.23 Gbp
 genome_size_method: GoaT ancestral inferred
-last_raw_data: 1737407209
-last_updated: 1737407209
+last_raw_data: 1740671314
+last_updated: 1740671314
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mHooLeu<br>&nbsp;&nbsp;name:&nbsp;Hoolock&nbsp;leuconedys<br>&nbsp;&nbsp;common_name:&nbsp;eastern&nbsp;hoolock&nbsp;gibbon<br>&nbsp;&nbsp;taxon_id:&nbsp;593543<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hominidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mHooLeu1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Arthur<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMN33424221<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Arthur_HLE<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HLE304<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone&nbsp;(Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;mHooLeu1.LCL1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;lymphoblastoid&nbsp;cell&nbsp;line<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;null<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mHooLeu2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Betty<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Betty_HLE<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone&nbsp;(Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;mHooLeu2.LCL1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;lymphoblastoid&nbsp;cell&nbsp;line<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;SAMN12702557<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone&nbsp;(Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;The&nbsp;LCL&nbsp;cell&nbsp;line&nbsp;was&nbsp;generated&nbsp;by&nbsp;Lucia&nbsp;Carbone&nbsp;at&nbsp;OHSU.&nbsp;The&nbsp;blood&nbsp;for&nbsp;the&nbsp;generation&nbsp;of&nbsp;the&nbsp;cell&nbsp;line&nbsp;was&nbsp;provided&nbsp;by&nbsp;the&nbsp;Gibbon&nbsp;Conservation&nbsp;Center.<br>&nbsp;&nbsp;genome_size:&nbsp;3230000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;ancestral&nbsp;inferred<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;]<br>
 name: Hoolock leuconedys
 name_: Hoolock_leuconedys

@@ -46,9 +46,16 @@ data_arima-3_links: s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/ar
 data_arima-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap3/genomic_data/arima/
 data_arima-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap3/genomic_data/arima/
 data_arima-3_scale: 1.6032
-data_arima_bases: 615.41 Gbp
-data_arima_bytes: 347.0 GiB
-data_arima_coverage: 192.32x
+data_arima:H9_bases: 259.34 Gbp
+data_arima:H9_bytes: 143.9 GiB
+data_arima:H9_coverage: 81.04x
+data_arima:H9_links: s3://genomeark/species/Homo_sapiens/H9/genomic_data/arima/<br>
+data_arima:H9_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/H9/genomic_data/arima/
+data_arima:H9_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/H9/genomic_data/arima/
+data_arima:H9_scale: 1.6790
+data_arima_bases: 874.75 Gbp
+data_arima_bytes: 490.9 GiB
+data_arima_coverage: 273.36x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 0.9 GiB
 data_bionano-1_coverage: 177.21x
@@ -90,6 +97,16 @@ data_illumina-2_scale: 1.8935
 data_illumina_bases: 440.03 Gbp
 data_illumina_bytes: 216.3 GiB
 data_illumina_coverage: 137.51x
+data_ont:H9_bases: 117.32 Gbp
+data_ont:H9_bytes: 111.8 GiB
+data_ont:H9_coverage: 36.66x
+data_ont:H9_links: s3://genomeark/species/Homo_sapiens/H9/genomic_data/ont/<br>
+data_ont:H9_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/H9/genomic_data/ont/
+data_ont:H9_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/H9/genomic_data/ont/
+data_ont:H9_scale: 0.9773
+data_ont_bases: 117.32 Gbp
+data_ont_bytes: 111.8 GiB
+data_ont_coverage: 36.66x
 data_pacbio-3_bases: 234.68 Gbp
 data_pacbio-3_bytes: 402.6 GiB
 data_pacbio-3_coverage: 73.34x
@@ -121,12 +138,29 @@ data_pacbiohifi_bam-3_links: s3://genomeark/species/Homo_sapiens/mHomSap3/genomi
 data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-3_scale: 1.2190
-data_pacbiohifi_bam_bases: 202.51 Gbp
-data_pacbiohifi_bam_bytes: 148.7 GiB
-data_pacbiohifi_bam_coverage: 63.29x
+data_pacbiohifi_bam:H9_bases: 227.09 Gbp
+data_pacbiohifi_bam:H9_bytes: 743.4 GiB
+data_pacbiohifi_bam:H9_coverage: 70.97x
+data_pacbiohifi_bam:H9_links: s3://genomeark/species/Homo_sapiens/H9/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam:H9_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/H9/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam:H9_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/H9/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam:H9_scale: 0.2845
+data_pacbiohifi_bam_bases: 429.60 Gbp
+data_pacbiohifi_bam_bytes: 892.1 GiB
+data_pacbiohifi_bam_coverage: 134.25x
+data_pacbiohifi_fqgz:H9_bases: 220.35 Gbp
+data_pacbiohifi_fqgz:H9_bytes: 111.1 GiB
+data_pacbiohifi_fqgz:H9_coverage: 68.86x
+data_pacbiohifi_fqgz:H9_links: s3://genomeark/species/Homo_sapiens/H9/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz:H9_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/H9/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz:H9_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/H9/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz:H9_scale: 1.8472
+data_pacbiohifi_fqgz_bases: 220.35 Gbp
+data_pacbiohifi_fqgz_bytes: 111.1 GiB
+data_pacbiohifi_fqgz_coverage: 68.86x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
-  HiFi</em> ::: <em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>
-  ::: <em style="color:forestgreen">Illumina</em>'
+  HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em>
+  ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -136,8 +170,8 @@ genbank_pat: mHomSap3:GCA_016700455.2
 genome_size: 3200000000
 genome_size_display: 3.20 Gbp
 genome_size_method: ''
-last_raw_data: 1651684795
-last_updated: 1651684795
+last_raw_data: 1741099227
+last_updated: 1741719212
 mat3date: 2020-07-16
 mat3filesize: 826.5 MiB
 mat3length: '2902197670'

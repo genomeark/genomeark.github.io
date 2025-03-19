@@ -1,15 +1,15 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: ''
-data_arima-1_bases: 54.76 Gbp
-data_arima-1_bytes: 29.5 GiB
+data_arima-1_bases: 139.70 Gbp
+data_arima-1_bytes: 74.8 GiB
 data_arima-1_coverage: N/A
 data_arima-1_links: s3://genomeark/species/Datnioides_microlepis/fDatMic1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Datnioides_microlepis/fDatMic1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Datnioides_microlepis/fDatMic1/genomic_data/arima/
-data_arima-1_scale: 1.7289
-data_arima_bases: 54.76 Gbp
-data_arima_bytes: 29.5 GiB
+data_arima-1_scale: 1.7396
+data_arima_bases: 139.70 Gbp
+data_arima_bytes: 74.8 GiB
 data_arima_coverage: N/A
 data_pacbiohifi_bam-1_bases: 31.77 Gbp
 data_pacbiohifi_bam-1_bytes: 125.6 GiB
@@ -39,8 +39,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1728416626
-last_updated: 1728416626
+last_raw_data: 1740674922
+last_updated: 1740674922
 name: Datnioides microlepis
 name_: Datnioides_microlepis
 project: ~

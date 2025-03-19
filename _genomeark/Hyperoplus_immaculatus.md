@@ -61,8 +61,8 @@ genome_size: 797804280
 genome_size_display: 0.80 Gbp
 genome_size_method: GoaT
 last_raw_data: 1675886732
-last_updated: 1677589412
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fHypImm<br>&nbsp;&nbsp;name:&nbsp;Hyperoplus&nbsp;immaculatus<br>&nbsp;&nbsp;taxon_id:&nbsp;1484357<br>&nbsp;&nbsp;common_name:&nbsp;greater&nbsp;sand-eel<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Uranoscopiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Ammodytidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fHypImm3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA13854416<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+last_updated: 1737552370
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fHypImm<br>&nbsp;&nbsp;name:&nbsp;Hyperoplus&nbsp;immaculatus<br>&nbsp;&nbsp;taxon_id:&nbsp;1484357<br>&nbsp;&nbsp;common_name:&nbsp;greater&nbsp;sand-eel<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Uranoscopiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Ammodytidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fHypImm2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA13854415<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fHypImm3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA13854416<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Hyperoplus immaculatus
 name_: Hyperoplus_immaculatus
 pri3date: 2023-02-28

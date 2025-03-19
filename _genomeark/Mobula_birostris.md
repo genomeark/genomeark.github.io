@@ -21,6 +21,16 @@ data_bionano-1_scale: 643.5532
 data_bionano_bases: N/A
 data_bionano_bytes: 1.6 GiB
 data_bionano_coverage: N/A
+data_pacbiohifi_clr-1_bases: 379.34 Gbp
+data_pacbiohifi_clr-1_bytes: 0.9 TiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Mobula_birostris/sMobBir1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Mobula_birostris/sMobBir1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mobula_birostris/sMobBir1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.3822
+data_pacbiohifi_clr_bases: 379.34 Gbp
+data_pacbiohifi_clr_bytes: 0.9 TiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 112.85 Gbp
 data_pacbiohifi_fqgz-1_bytes: 85.0 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -98,8 +108,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1680815709
-last_updated: 1680815709
+last_raw_data: 1738612703
+last_updated: 1738612703
 mds:
 - data: species:&nbsp;Mobula&nbsp;birostris<br>specimen:&nbsp;sMobBir1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/sMobGio1.HiC.hap1.20220921.fasta.gz<br>hap1_pretext:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/sMobGio1_hap1__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/assembly_vgp_HiC_2.0/evaluation/merqury/sMobGio1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Mobula_giorna/sMobGio1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;is&nbsp;sMobBir1&nbsp;(VGL-sMobGio1).&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;This&nbsp;assembly&nbsp;was&nbsp;done&nbsp;with&nbsp;Hifiasm-HiC&nbsp;mode,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;Kmer&nbsp;spectra&nbsp;probably&nbsp;indicate&nbsp;a&nbsp;heterogametic&nbsp;specimen,&nbsp;so&nbsp;there&nbsp;might&nbsp;be&nbsp;a&nbsp;need&nbsp;for&nbsp;fishing&nbsp;for&nbsp;the&nbsp;sex&nbsp;chromosomes&nbsp;between&nbsp;the&nbsp;two&nbsp;haplotypes,&nbsp;so&nbsp;I&nbsp;am&nbsp;submitting&nbsp;both&nbsp;haplotypes&nbsp;as&nbsp;separate&nbsp;tikets.&nbsp;&nbsp;&nbsp;&nbsp;<br>
   ident: md6

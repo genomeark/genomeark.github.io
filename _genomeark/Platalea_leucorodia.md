@@ -28,7 +28,7 @@ alt2sizes: |
   </tfoot>
   </table>
 alt2version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Eurasian spoonbill
 data_arima-2_bases: 78.23 Gbp
 data_arima-2_bytes: 23.8 GiB
@@ -58,8 +58,66 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1222500000
 genome_size_display: 1.22 Gbp
 genome_size_method: GoaT
+hpa2date: 2025-02-28
+hpa2filesize: 382.5 MiB
+hpa2length: '1345843103'
+hpa2n50ctg: 3667773
+hpa2n50scf: 103044566
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Platalea_leucorodia/bPlaLeu2/assembly_curated/bPlaLeu2.hap1.cur.20250228.fasta.gz
+hpa2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 13 </td><td> 8.14 Mbp </td><td> 1 </td><td> 169.23 Mbp </td></tr><tr><td> 20 </td><td> 29 </td><td> 6.89 Mbp </td><td> 2 </td><td> 133.58 Mbp </td></tr><tr><td> 30 </td><td> 49 </td><td> 5.69 Mbp </td><td> 3 </td><td> 128.51 Mbp </td></tr><tr><td> 40 </td><td> 73 </td><td> 4.52 Mbp </td><td> 4 </td><td> 128.45 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 103 </td><td style="background-color:#88ff88;"> 3.67 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 103.04 Mbp </td></tr><tr><td> 60 </td><td> 140 </td><td> 2.98 Mbp </td><td> 6 </td><td> 94.71 Mbp </td></tr><tr><td> 70 </td><td> 185 </td><td> 2.45 Mbp </td><td> 8 </td><td> 73.81 Mbp </td></tr><tr><td> 80 </td><td> 243 </td><td> 1.86 Mbp </td><td> 10 </td><td> 52.14 Mbp </td></tr><tr><td> 90 </td><td> 321 </td><td> 1.33 Mbp </td><td> 12 </td><td> 25.39 Mbp </td></tr><tr><td> 100 </td><td> 459 </td><td> 0.60 Mbp </td><td> 20 </td><td> 10.22 Mbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.101x </th><th> 1372 </th><th> 1.35 Gbp </th><th> 669 </th><th> 1.35 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa2version: assembly_curated
+hpb2date: 2025-02-28
+hpb2filesize: 339.3 MiB
+hpb2length: '1190439839'
+hpb2n50ctg: 3541750
+hpb2n50scf: 102182018
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Platalea_leucorodia/bPlaLeu2/assembly_curated/bPlaLeu2.hap2.cur.20250228.fasta.gz
+hpb2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 13 </td><td> 8.00 Mbp </td><td> 1 </td><td> 170.52 Mbp </td></tr><tr><td> 20 </td><td> 30 </td><td> 6.60 Mbp </td><td> 2 </td><td> 132.03 Mbp </td></tr><tr><td> 30 </td><td> 50 </td><td> 5.51 Mbp </td><td> 3 </td><td> 129.12 Mbp </td></tr><tr><td> 40 </td><td> 75 </td><td> 4.38 Mbp </td><td> 4 </td><td> 127.77 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 107 </td><td style="background-color:#88ff88;"> 3.54 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 102.18 Mbp </td></tr><tr><td> 60 </td><td> 146 </td><td> 2.61 Mbp </td><td> 6 </td><td> 86.69 Mbp </td></tr><tr><td> 70 </td><td> 200 </td><td> 1.98 Mbp </td><td> 8 </td><td> 60.16 Mbp </td></tr><tr><td> 80 </td><td> 275 </td><td> 1.32 Mbp </td><td> 11 </td><td> 24.30 Mbp </td></tr><tr><td> 90 </td><td> 416 </td><td> 0.56 Mbp </td><td> 20 </td><td> 8.23 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.974x </th><th> 1012 </th><th> 1.19 Gbp </th><th> 408 </th><th> 1.19 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb2version: assembly_curated
 last_raw_data: 1701344953
-last_updated: 1701508396
+last_updated: 1740704474
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bPlaLeu<br>&nbsp;&nbsp;name:&nbsp;Platalea&nbsp;leucorodia<br>&nbsp;&nbsp;taxon_id:&nbsp;257867<br>&nbsp;&nbsp;common_name:&nbsp;Eurasian&nbsp;spoonbill<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pelecaniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Threskiornithidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bPlaLeu2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468120<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1222500000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-12-02
 mito2filesize: 5.4 KiB

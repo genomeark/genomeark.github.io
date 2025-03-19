@@ -59,7 +59,7 @@ genome_size: 2288520000
 genome_size_display: 2.29 Gbp
 genome_size_method: GoaT
 last_raw_data: 1702992869
-last_updated: 1706280999
+last_updated: 1737550338
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mVesMur<br>&nbsp;&nbsp;name:&nbsp;Vespertilio&nbsp;murinus<br>&nbsp;&nbsp;taxon_id:&nbsp;59485<br>&nbsp;&nbsp;common_name:&nbsp;particolored&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mVesMur1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112247422<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;2288520000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-12-22
 mito1filesize: 5.2 KiB

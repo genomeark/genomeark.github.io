@@ -1,0 +1,1 @@
+../_genomeark/Scalopus_aquaticus.md

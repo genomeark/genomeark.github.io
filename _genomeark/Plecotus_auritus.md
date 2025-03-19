@@ -59,7 +59,7 @@ genome_size: 2180940000
 genome_size_display: 2.18 Gbp
 genome_size_method: GoaT
 last_raw_data: 1701345341
-last_updated: 1701345341
+last_updated: 1737552069
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPleAur<br>&nbsp;&nbsp;name:&nbsp;Plecotus&nbsp;auritus<br>&nbsp;&nbsp;taxon_id:&nbsp;61862<br>&nbsp;&nbsp;common_name:&nbsp;brown&nbsp;big-eared&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPleAur1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110056142<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;2180940000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-08-12
 mito1filesize: 5.3 KiB

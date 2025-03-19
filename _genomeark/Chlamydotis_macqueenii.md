@@ -48,15 +48,15 @@ data_pacbiohifi_clr-1_scale: 0.5357
 data_pacbiohifi_clr_bases: 1172.21 Gbp
 data_pacbiohifi_clr_bytes: 2.0 TiB
 data_pacbiohifi_clr_coverage: N/A
-data_pacbiohifi_fqgz-1_bases: 66.15 Gbp
-data_pacbiohifi_fqgz-1_bytes: 52.7 GiB
+data_pacbiohifi_fqgz-1_bases: 223.80 Gbp
+data_pacbiohifi_fqgz-1_bytes: 143.9 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Chlamydotis_macqueenii/bChlMac1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Chlamydotis_macqueenii/bChlMac1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chlamydotis_macqueenii/bChlMac1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 1.1692
-data_pacbiohifi_fqgz_bases: 66.15 Gbp
-data_pacbiohifi_fqgz_bytes: 52.7 GiB
+data_pacbiohifi_fqgz-1_scale: 1.4480
+data_pacbiohifi_fqgz_bases: 223.80 Gbp
+data_pacbiohifi_fqgz_bytes: 143.9 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>
   ::: <em style="color:forestgreen">Illumina</em>'
@@ -67,8 +67,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1718311977
-last_updated: 1718311977
+last_raw_data: 1740169564
+last_updated: 1740169564
 mat1date: 2023-10-10
 mat1filesize: 358.3 MiB
 mat1length: '1273916401'

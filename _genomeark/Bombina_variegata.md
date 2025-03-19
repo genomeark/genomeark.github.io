@@ -32,7 +32,7 @@ genome_size: 8958480000
 genome_size_display: 8.96 Gbp
 genome_size_method: GoaT
 last_raw_data: 1691529665
-last_updated: 1712399182
+last_updated: 1737550515
 mat4date: 2024-03-27
 mat4filesize: 2.5 GiB
 mat4length: '9378869603'
@@ -62,7 +62,7 @@ mat4sizes: |
   </tfoot>
   </table>
 mat4version: assembly_cambridge
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;aBomVar<br>&nbsp;&nbsp;name:&nbsp;Bombina&nbsp;variegata<br>&nbsp;&nbsp;taxon_id:&nbsp;8348<br>&nbsp;&nbsp;common_name:&nbsp;yellow-bellied&nbsp;toad<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anura<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Bombinatoridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aBomVar4<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112651403<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;8958480000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;data_use_project:&nbsp;erga<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;aBomVar<br>&nbsp;&nbsp;name:&nbsp;Bombina&nbsp;variegata<br>&nbsp;&nbsp;taxon_id:&nbsp;8348<br>&nbsp;&nbsp;common_name:&nbsp;yellow-bellied&nbsp;toad<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anura<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Bombinatoridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aBomVar2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112651401<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;aBomVar4<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112651403<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;8958480000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;data_use_project:&nbsp;erga<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito4date: 2024-03-27
 mito4filesize: 5.6 KiB
 mito4length: '18993'

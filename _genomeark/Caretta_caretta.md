@@ -13,6 +13,26 @@ data_dovetail-2_scale: 1.7778
 data_dovetail_bases: 272.67 Gbp
 data_dovetail_bytes: 142.8 GiB
 data_dovetail_coverage: 105.61x
+data_pacbiohifi_bam-2_bases: 120.88 Gbp
+data_pacbiohifi_bam-2_bytes: 424.2 GiB
+data_pacbiohifi_bam-2_coverage: 46.82x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Caretta_caretta/rCarCar2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Caretta_caretta/rCarCar2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Caretta_caretta/rCarCar2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 0.2654
+data_pacbiohifi_bam_bases: 120.88 Gbp
+data_pacbiohifi_bam_bytes: 424.2 GiB
+data_pacbiohifi_bam_coverage: 46.82x
+data_pacbiohifi_clr-2_bases: 607.21 Gbp
+data_pacbiohifi_clr-2_bytes: 1.3 TiB
+data_pacbiohifi_clr-2_coverage: 235.18x
+data_pacbiohifi_clr-2_links: s3://genomeark/species/Caretta_caretta/rCarCar2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Caretta_caretta/rCarCar2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Caretta_caretta/rCarCar2/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-2_scale: 0.4264
+data_pacbiohifi_clr_bases: 607.21 Gbp
+data_pacbiohifi_clr_bytes: 1.3 TiB
+data_pacbiohifi_clr_coverage: 235.18x
 data_pacbiohifi_fqgz-1_bases: '119886671605'
 data_pacbiohifi_fqgz-1_scale: '1.1181'
 data_pacbiohifi_fqgz-2_bases: 119.89 Gbp
@@ -91,8 +111,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_vgp_HiC_2.0
-last_raw_data: 1686771919
-last_updated: 1686771919
+last_raw_data: 1737561258
+last_updated: 1737561258
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;rCarCar<br>&nbsp;&nbsp;name:&nbsp;Caretta&nbsp;caretta<br>&nbsp;&nbsp;common_name:&nbsp;Loggerhead&nbsp;turtle<br>&nbsp;&nbsp;taxon_id:&nbsp;8467<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Testudines<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cheloniidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;rCarCar2<br>&nbsp;&nbsp;genome_size:&nbsp;2581920000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Caretta caretta
 name_: Caretta_caretta

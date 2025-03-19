@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: '171548492184'
 data_arima-1_scale: '1.7468'
@@ -41,12 +41,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa2date: 2024-05-13
+hpa2date: 2025-03-13
 hpa2filesize: 1.2 GiB
-hpa2length: '4683833569'
+hpa2length: '4646974355'
 hpa2n50ctg: 6579271
-hpa2n50scf: 63525214
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Callospermophilus_lateralis/mCalLat2/assembly_vgp_HiC_2.0/mCalLat2.HiC.hap1.20240513.fasta.gz
+hpa2n50scf: 94176142
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Callospermophilus_lateralis/mCalLat2/assembly_curated/mCalLat2.hap1.cur.20250313.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -64,18 +64,18 @@ hpa2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 7 </td><td> 53.24 Mbp </td><td> 3 </td><td> 161.39 Mbp </td></tr><tr><td> 20 </td><td> 19 </td><td> 32.22 Mbp </td><td> 6 </td><td> 133.72 Mbp </td></tr><tr><td> 30 </td><td> 36 </td><td> 21.53 Mbp </td><td> 10 </td><td> 113.85 Mbp </td></tr><tr><td> 40 </td><td> 64 </td><td> 13.13 Mbp </td><td> 14 </td><td> 85.28 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 116 </td><td style="background-color:#88ff88;"> 6.58 Mbp </td><td> 21 </td><td style="background-color:#88ff88;"> 63.53 Mbp </td></tr><tr><td> 60 </td><td> 218 </td><td> 3.15 Mbp </td><td> 54 </td><td> 6.37 Mbp </td></tr><tr><td> 70 </td><td> 451 </td><td> 1.39 Mbp </td><td> 200 </td><td> 1.80 Mbp </td></tr><tr><td> 80 </td><td> 937 </td><td> 0.69 Mbp </td><td> 607 </td><td> 0.79 Mbp </td></tr><tr><td> 90 </td><td> 2092 </td><td> 219.12 Kbp </td><td> 1609 </td><td> 261.97 Kbp </td></tr><tr><td> 100 </td><td> 10196 </td><td> 7.43 Kbp </td><td> 8807 </td><td> 7.43 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 8 </td><td> 50.24 Mbp </td><td> 3 </td><td> 199.23 Mbp </td></tr><tr><td> 20 </td><td> 20 </td><td> 31.23 Mbp </td><td> 5 </td><td> 165.49 Mbp </td></tr><tr><td> 30 </td><td> 37 </td><td> 21.07 Mbp </td><td> 8 </td><td> 140.20 Mbp </td></tr><tr><td> 40 </td><td> 66 </td><td> 13.05 Mbp </td><td> 12 </td><td> 122.73 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 118 </td><td style="background-color:#88ff88;"> 6.58 Mbp </td><td> 16 </td><td style="background-color:#88ff88;"> 94.18 Mbp </td></tr><tr><td> 60 </td><td> 220 </td><td> 3.15 Mbp </td><td> 32 </td><td> 9.70 Mbp </td></tr><tr><td> 70 </td><td> 451 </td><td> 1.40 Mbp </td><td> 158 </td><td> 1.99 Mbp </td></tr><tr><td> 80 </td><td> 927 </td><td> 0.70 Mbp </td><td> 547 </td><td> 0.81 Mbp </td></tr><tr><td> 90 </td><td> 2026 </td><td> 236.00 Kbp </td><td> 1502 </td><td> 279.59 Kbp </td></tr><tr><td> 100 </td><td> 9535 </td><td> 1  bp </td><td> 8087 </td><td> 7.43 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 10196 </th><th> 4.68 Gbp </th><th> 8807 </th><th> 4.68 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 9535 </th><th> 4.65 Gbp </th><th> 8087 </th><th> 4.65 Gbp </th></tr>
   </tfoot>
   </table>
-hpa2version: assembly_vgp_HiC_2.0
-hpb2date: 2024-05-13
+hpa2version: assembly_curated
+hpb2date: 2025-03-12
 hpb2filesize: 0.9 GiB
-hpb2length: '3355971986'
-hpb2n50ctg: 13207949
-hpb2n50scf: 74689511
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Callospermophilus_lateralis/mCalLat2/assembly_vgp_HiC_2.0/mCalLat2.HiC.hap2.20240513.fasta.gz
+hpb2length: '3349745798'
+hpb2n50ctg: 13623428
+hpb2n50scf: 114988597
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Callospermophilus_lateralis/mCalLat2/assembly_curated/mCalLat2.hap2.cur.20250312.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -93,17 +93,17 @@ hpb2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 6 </td><td> 51.37 Mbp </td><td> 3 </td><td> 149.48 Mbp </td></tr><tr><td> 20 </td><td> 13 </td><td> 38.72 Mbp </td><td> 5 </td><td> 132.47 Mbp </td></tr><tr><td> 30 </td><td> 23 </td><td> 28.21 Mbp </td><td> 8 </td><td> 112.95 Mbp </td></tr><tr><td> 40 </td><td> 36 </td><td> 21.39 Mbp </td><td> 11 </td><td> 89.56 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 56 </td><td style="background-color:#88ff88;"> 13.21 Mbp </td><td> 15 </td><td style="background-color:#88ff88;"> 74.69 Mbp </td></tr><tr><td> 60 </td><td> 90 </td><td> 7.60 Mbp </td><td> 20 </td><td> 62.33 Mbp </td></tr><tr><td> 70 </td><td> 159 </td><td> 3.47 Mbp </td><td> 30 </td><td> 14.96 Mbp </td></tr><tr><td> 80 </td><td> 319 </td><td> 1.34 Mbp </td><td> 89 </td><td> 2.41 Mbp </td></tr><tr><td> 90 </td><td> 806 </td><td> 388.97 Kbp </td><td> 442 </td><td> 474.34 Kbp </td></tr><tr><td> 100 </td><td> 4094 </td><td> 3.72 Kbp </td><td> 3515 </td><td> 3.72 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 5 </td><td> 56.91 Mbp </td><td> 2 </td><td> 210.63 Mbp </td></tr><tr><td> 20 </td><td> 12 </td><td> 44.78 Mbp </td><td> 4 </td><td> 177.37 Mbp </td></tr><tr><td> 30 </td><td> 22 </td><td> 28.99 Mbp </td><td> 6 </td><td> 160.47 Mbp </td></tr><tr><td> 40 </td><td> 35 </td><td> 23.23 Mbp </td><td> 8 </td><td> 136.69 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 53 </td><td style="background-color:#88ff88;"> 13.62 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 114.99 Mbp </td></tr><tr><td> 60 </td><td> 86 </td><td> 7.85 Mbp </td><td> 14 </td><td> 93.29 Mbp </td></tr><tr><td> 70 </td><td> 151 </td><td> 3.54 Mbp </td><td> 18 </td><td> 63.63 Mbp </td></tr><tr><td> 80 </td><td> 302 </td><td> 1.42 Mbp </td><td> 54 </td><td> 3.38 Mbp </td></tr><tr><td> 90 </td><td> 755 </td><td> 421.16 Kbp </td><td> 349 </td><td> 0.54 Mbp </td></tr><tr><td> 100 </td><td> 3463 </td><td> 3.72 Kbp </td><td> 2820 </td><td> 3.72 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 4094 </th><th> 3.36 Gbp </th><th> 3515 </th><th> 3.36 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 3463 </th><th> 3.35 Gbp </th><th> 2820 </th><th> 3.35 Gbp </th></tr>
   </tfoot>
   </table>
-hpb2version: assembly_vgp_HiC_2.0
+hpb2version: assembly_curated
 last_raw_data: 1715629489
-last_updated: 1715707823
+last_updated: 1741892279
 mds:
 - data: species:&nbsp;Callospermophilus&nbsp;lateralis<br>specimen:&nbsp;mCalLat2<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Callospermophilus_lateralis/mCalLat2/assembly_vgp_HiC_2.0/mCalLat2.HiC.hap1.20240513.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Callospermophilus_lateralis/mCalLat2/assembly_vgp_HiC_2.0/mCalLat2.HiC.hap2.20240513.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Callospermophilus_lateralis/mCalLat2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mCalLat2_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Callospermophilus_lateralis/mCalLat2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mCalLat2_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Callospermophilus_lateralis/mCalLat2/assembly_vgp_HiC_2.0/evaluation/merqury/mCalLat2_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Callospermophilus_lateralis/mCalLat2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Callospermophilus_lateralis/mCalLat2/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.6+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mCalLat2,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;Hap1&nbsp;underwent&nbsp;purging.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima&nbsp;library&nbsp;prep.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;<br>
-  ident: md2
+  ident: md5
   title: assembly_vgp_HiC_2.0/mCalLat2.yml
 name: Callospermophilus lateralis
 name_: Callospermophilus_lateralis

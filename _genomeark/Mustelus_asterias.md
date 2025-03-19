@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1715290535
-last_updated: 1723161733
+last_updated: 1737552714
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;sMusAst<br>&nbsp;&nbsp;name:&nbsp;Mustelus&nbsp;asterias<br>&nbsp;&nbsp;taxon_id:&nbsp;112232<br>&nbsp;&nbsp;common_name:&nbsp;starry&nbsp;smooth-hound<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Carcharhiniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Triakidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sMusAst1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114298637<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;4205400000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-05-15
 mito1filesize: 5.1 KiB

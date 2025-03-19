@@ -72,7 +72,7 @@ genome_size: 1398027955
 genome_size_display: 1.40 Gbp
 genome_size_method: ''
 last_raw_data: 1651593249
-last_updated: 1651593249
+last_updated: 1737549322
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bAccGen<br>&nbsp;&nbsp;name:&nbsp;Accipiter&nbsp;gentilis<br>&nbsp;&nbsp;taxon_id:&nbsp;8957<br>&nbsp;&nbsp;common_name:&nbsp;northern&nbsp;goshawk<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Accipitriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Accipitridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAccGen1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA8235650<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Accipiter gentilis
 name_: Accipiter_gentilis

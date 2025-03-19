@@ -44,7 +44,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1729021042
-last_updated: 1729021042
+last_updated: 1739561795
 name: Phlebotomus perniciosus
 name_: Phlebotomus_perniciosus
 project: ~

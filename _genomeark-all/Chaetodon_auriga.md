@@ -1,0 +1,1 @@
+../_genomeark/Chaetodon_auriga.md

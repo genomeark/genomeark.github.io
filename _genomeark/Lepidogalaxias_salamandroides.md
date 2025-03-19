@@ -40,7 +40,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1731617376
-last_updated: 1731617376
+last_updated: 1741723411
 name: Lepidogalaxias salamandroides
 name_: Lepidogalaxias_salamandroides
 project: ~

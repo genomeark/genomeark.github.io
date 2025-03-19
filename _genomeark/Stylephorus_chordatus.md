@@ -39,8 +39,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1736798516
-last_updated: 1736798516
+last_raw_data: 1740674154
+last_updated: 1740674154
 name: Stylephorus chordatus
 name_: Stylephorus_chordatus
 project: ~

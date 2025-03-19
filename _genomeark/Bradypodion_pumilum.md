@@ -1,6 +1,16 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
+data_dovetail-1_bases: 89.31 Gbp
+data_dovetail-1_bytes: 55.1 GiB
+data_dovetail-1_coverage: N/A
+data_dovetail-1_links: s3://genomeark/species/Bradypodion_pumilum/rBraPum1/genomic_data/dovetail/<br>
+data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bradypodion_pumilum/rBraPum1/genomic_data/dovetail/
+data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bradypodion_pumilum/rBraPum1/genomic_data/dovetail/
+data_dovetail-1_scale: 1.5094
+data_dovetail_bases: 89.31 Gbp
+data_dovetail_bytes: 55.1 GiB
+data_dovetail_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 121.53 Gbp
 data_pacbiohifi_fqgz-1_bytes: 86.6 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -11,7 +21,7 @@ data_pacbiohifi_fqgz-1_scale: 1.3062
 data_pacbiohifi_fqgz_bases: 121.53 Gbp
 data_pacbiohifi_fqgz_bytes: 86.6 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: <em style="color:forestgreen">PacBio HiFi</em>
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Dovetail</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -77,8 +87,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1725042143
-last_updated: 1727310098
+last_raw_data: 1740511325
+last_updated: 1740511325
 mds:
 - data: species:&nbsp;Bradypodion&nbsp;pumilum<br>specimen:&nbsp;rBraPum1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Bradypodion_pumilum/rBraPum1/assembly_vgp_HiC_2.0/rBraPum1.HiC.hap1.20240820.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Bradypodion_pumilum/rBraPum1/assembly_vgp_HiC_2.0/rBraPum1.HiC.hap2.20240820.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Bradypodion_pumilum/rBraPum1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rBraPum1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Bradypodion_pumilum/rBraPum1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rBraPum1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Bradypodion_pumilum/rBraPum1/assembly_vgp_HiC_2.0/evaluation/merqury/rBraPum1_png/<br>pacbio_read_type:&nbsp;hifi<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.9+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rBraPum1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;The&nbsp;HiC&nbsp;data&nbsp;was&nbsp;Dovetail&nbsp;OmniC.&nbsp;The&nbsp;original&nbsp;assembly&nbsp;for&nbsp;this&nbsp;individual&nbsp;is&nbsp;on&nbsp;NCBI&nbsp;as&nbsp;GCA_035047305.1&nbsp;and&nbsp;was&nbsp;assembled&nbsp;as&nbsp;a&nbsp;pseudohaplotype&nbsp;assembly&nbsp;generated&nbsp;by&nbsp;Dovetail.&nbsp;This&nbsp;20240820&nbsp;assembly&nbsp;on&nbsp;GenomeArk&nbsp;is&nbsp;a&nbsp;re-assembly,&nbsp;using&nbsp;hifiasm&nbsp;in&nbsp;Hi-C&nbsp;phsaing&nbsp;mode.&nbsp;The&nbsp;Hi-C&nbsp;data&nbsp;is&nbsp;available&nbsp;on&nbsp;NCBI&nbsp;as&nbsp;SRR24988076.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;these&nbsp;assemblies&nbsp;for&nbsp;dual&nbsp;curation&nbsp;as&nbsp;a&nbsp;Phase&nbsp;1&nbsp;genome.&nbsp;<br>
   ident: md8

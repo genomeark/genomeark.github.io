@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Davis' round-eared bat
 data_dovetail-1_bases: 188.57 Gbp
 data_dovetail-1_bytes: 108.5 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2454780000
 genome_size_display: 2.45 Gbp
 genome_size_method: GoaT
-hpa1date: 2023-11-07
-hpa1filesize: 663.4 MiB
-hpa1length: '2429857908'
-hpa1n50ctg: 53216651
-hpa1n50scf: 172885802
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/mLopEvo1.HiC.hap1.20231107.fasta.gz
+hpa1date: 2025-03-18
+hpa1filesize: 670.3 MiB
+hpa1length: '2427501038'
+hpa1n50ctg: 53008647
+hpa1n50scf: 175755209
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_curated/mLopEvo1.hap1.cur.20250318.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 124.90 Mbp </td><td> 2 </td><td> 225.12 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 88.37 Mbp </td><td> 3 </td><td> 220.70 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 76.04 Mbp </td><td> 4 </td><td> 216.45 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 60.72 Mbp </td><td> 5 </td><td> 180.43 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 53.22 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 172.89 Mbp </td></tr><tr><td> 60 </td><td> 21 </td><td> 41.98 Mbp </td><td> 8 </td><td> 117.25 Mbp </td></tr><tr><td> 70 </td><td> 27 </td><td> 32.04 Mbp </td><td> 10 </td><td> 98.07 Mbp </td></tr><tr><td> 80 </td><td> 36 </td><td> 19.20 Mbp </td><td> 13 </td><td> 67.40 Mbp </td></tr><tr><td> 90 </td><td> 67 </td><td> 3.59 Mbp </td><td> 23 </td><td> 5.61 Mbp </td></tr><tr><td> 100 </td><td> 612 </td><td> 10.90 Kbp </td><td> 549 </td><td> 10.90 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 124.86 Mbp </td><td> 2 </td><td> 228.02 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 88.37 Mbp </td><td> 3 </td><td> 227.49 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 76.04 Mbp </td><td> 4 </td><td> 216.45 Mbp </td></tr><tr><td> 40 </td><td> 12 </td><td> 59.29 Mbp </td><td> 5 </td><td> 183.95 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 53.01 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 175.76 Mbp </td></tr><tr><td> 60 </td><td> 21 </td><td> 41.98 Mbp </td><td> 8 </td><td> 125.50 Mbp </td></tr><tr><td> 70 </td><td> 28 </td><td> 32.04 Mbp </td><td> 10 </td><td> 113.65 Mbp </td></tr><tr><td> 80 </td><td> 37 </td><td> 18.38 Mbp </td><td> 12 </td><td> 101.04 Mbp </td></tr><tr><td> 90 </td><td> 68 </td><td> 3.71 Mbp </td><td> 16 </td><td> 53.66 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 612 </th><th> 2.43 Gbp </th><th> 549 </th><th> 2.43 Gbp </th></tr>
+  <tr><th> 0.989x </th><th> 467 </th><th> 2.43 Gbp </th><th> 314 </th><th> 2.43 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2023-11-07
-hpb1filesize: 617.4 MiB
-hpb1length: '2166776059'
-hpb1n50ctg: 61005130
-hpb1n50scf: 170643846
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/mLopEvo1.HiC.hap2.20231107.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2025-03-18
+hpb1filesize: 607.7 MiB
+hpb1length: '2146547282'
+hpb1n50ctg: 53689821
+hpb1n50scf: 172574066
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_curated/mLopEvo1.hap2.cur.20250318.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,17 +81,17 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 130.83 Mbp </td><td> 1 </td><td> 223.68 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 108.07 Mbp </td><td> 2 </td><td> 219.75 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 84.34 Mbp </td><td> 3 </td><td> 216.51 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 77.41 Mbp </td><td> 4 </td><td> 216.35 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 61.01 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 170.64 Mbp </td></tr><tr><td> 60 </td><td> 16 </td><td> 48.27 Mbp </td><td> 7 </td><td> 145.66 Mbp </td></tr><tr><td> 70 </td><td> 21 </td><td> 38.94 Mbp </td><td> 9 </td><td> 108.68 Mbp </td></tr><tr><td> 80 </td><td> 27 </td><td> 29.49 Mbp </td><td> 11 </td><td> 96.81 Mbp </td></tr><tr><td> 90 </td><td> 40 </td><td> 12.85 Mbp </td><td> 14 </td><td> 50.19 Mbp </td></tr><tr><td> 100 </td><td> 308 </td><td> 16.78 Kbp </td><td> 248 </td><td> 16.78 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 130.65 Mbp </td><td> 2 </td><td> 225.11 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 108.07 Mbp </td><td> 3 </td><td> 222.01 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 82.70 Mbp </td><td> 4 </td><td> 216.35 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 70.22 Mbp </td><td> 5 </td><td> 181.31 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 15 </td><td style="background-color:#88ff88;"> 53.69 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 172.57 Mbp </td></tr><tr><td> 60 </td><td> 20 </td><td> 39.10 Mbp </td><td> 8 </td><td> 119.96 Mbp </td></tr><tr><td> 70 </td><td> 27 </td><td> 29.49 Mbp </td><td> 10 </td><td> 101.96 Mbp </td></tr><tr><td> 80 </td><td> 42 </td><td> 8.58 Mbp </td><td> 13 </td><td> 62.05 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 308 </th><th> 2.17 Gbp </th><th> 248 </th><th> 2.17 Gbp </th></tr>
+  <tr><th> 0.874x </th><th> 263 </th><th> 2.15 Gbp </th><th> 150 </th><th> 2.15 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1698426542
-last_updated: 1716313774
+last_updated: 1742310293
 mds:
 - data: species:&nbsp;Lophostoma&nbsp;evotis&nbsp;<br>specimen:&nbsp;mLopEvo1&nbsp;<br>projects:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp&nbsp;<br>&nbsp;&nbsp;-&nbsp;bat1k&nbsp;<br>assembled_by_group:&nbsp;Rockefeller&nbsp;<br>data_location:&nbsp;S3&nbsp;<br>release_to:&nbsp;S3&nbsp;<br>primary:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/mLopEvo1.HiC.hap1.20231107.fasta.gz&nbsp;<br>haplotigs:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/mLopEvo1.HiC.hap2.20231107.fasta.gz&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mLopEvo1_hap1_s2.pretext&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mLopEvo1_hap2_s2.pretext&nbsp;<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/evaluation/merqury/mLopEvo1_png/&nbsp;<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/genomic_data/pacbio_hifi/&nbsp;<br>pacbio_read_type:&nbsp;hifi&nbsp;<br>hic_read_dir:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/genomic_data/dovetail/&nbsp;<br>pipeline:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)&nbsp;<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)&nbsp;<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mLopEvo1.&nbsp;This&nbsp;hap1&nbsp;assembly&nbsp;and&nbsp;hap2&nbsp;assembly&nbsp;underwent&nbsp;separate&nbsp;HiC&nbsp;scaffolding&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;HiC&nbsp;reaction&nbsp;was&nbsp;using&nbsp;Dovetail&nbsp;OmniC.&nbsp;<br>
-  ident: md3
+  ident: md5
   title: assembly_vgp_HiC_2.0/mLopEvo1.yml
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mLopEvo<br>&nbsp;&nbsp;name:&nbsp;Lophostoma&nbsp;evotis<br>&nbsp;&nbsp;taxon_id:&nbsp;574022<br>&nbsp;&nbsp;common_name:&nbsp;Davis'&nbsp;round-eared&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phyllostomidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mLopEvo1<br>&nbsp;&nbsp;genome_size:&nbsp;2454780000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 mito1date: 2024-05-21

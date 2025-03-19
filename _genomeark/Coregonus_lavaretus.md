@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1702400689
-last_updated: 1725667286
+last_updated: 1737550671
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fCorLav<br>&nbsp;&nbsp;name:&nbsp;Coregonus&nbsp;lavaretus<br>&nbsp;&nbsp;taxon_id:&nbsp;59291<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;whitefish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Salmoniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Salmonidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCorLav1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111528661<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;3041580000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-03-15
 mito1filesize: 5.1 KiB

@@ -70,7 +70,7 @@ genome_size: 768243328
 genome_size_display: 0.77 Gbp
 genome_size_method: ''
 last_raw_data: 1691521867
-last_updated: 1692662449
+last_updated: 1737550568
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fLipPho<br>&nbsp;&nbsp;name:&nbsp;Lipophrys&nbsp;pholis<br>&nbsp;&nbsp;taxon_id:&nbsp;56720<br>&nbsp;&nbsp;common_name:&nbsp;shanny<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Blenniiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Blenniidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fLipPho2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7522844<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-08-04
 mito2filesize: 5.4 KiB

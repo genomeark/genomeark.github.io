@@ -58,8 +58,124 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1349640000
 genome_size_display: 1.35 Gbp
 genome_size_method: GoaT
+hpa1date: 2025-03-03
+hpa1filesize: 443.9 MiB
+hpa1length: '1538385980'
+hpa1n50ctg: 3130249
+hpa1n50scf: 97341379
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Zootoca_vivipara/rZooViv1/assembly_curated/rZooViv1.hap1.cur.20250303.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 15 </td><td> 7.63 Mbp </td><td> 1 </td><td> 135.32 Mbp </td></tr><tr><td> 20 </td><td> 37 </td><td> 5.36 Mbp </td><td> 3 </td><td> 120.03 Mbp </td></tr><tr><td> 30 </td><td> 64 </td><td> 4.54 Mbp </td><td> 4 </td><td> 102.67 Mbp </td></tr><tr><td> 40 </td><td> 97 </td><td> 3.71 Mbp </td><td> 5 </td><td> 102.38 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 137 </td><td style="background-color:#88ff88;"> 3.13 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 97.34 Mbp </td></tr><tr><td> 60 </td><td> 185 </td><td> 2.54 Mbp </td><td> 8 </td><td> 95.87 Mbp </td></tr><tr><td> 70 </td><td> 242 </td><td> 2.16 Mbp </td><td> 9 </td><td> 89.33 Mbp </td></tr><tr><td> 80 </td><td> 312 </td><td> 1.72 Mbp </td><td> 11 </td><td> 71.89 Mbp </td></tr><tr><td> 90 </td><td> 402 </td><td> 1.28 Mbp </td><td> 13 </td><td> 59.52 Mbp </td></tr><tr><td> 100 </td><td> 532 </td><td> 0.82 Mbp </td><td> 16 </td><td> 50.36 Mbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.140x </th><th> 1174 </th><th> 1.54 Gbp </th><th> 192 </th><th> 1.54 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_curated
+hpa2date: 2025-03-12
+hpa2filesize: 412.0 MiB
+hpa2length: '1424530687'
+hpa2n50ctg: 35938469
+hpa2n50scf: 95238227
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Zootoca_vivipara/rZooViv2/assembly_curated/rZooViv2.hap1.cur.20250312.fasta.gz
+hpa2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 84.20 Mbp </td><td> 2 </td><td> 122.44 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 80.61 Mbp </td><td> 3 </td><td> 119.49 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 61.85 Mbp </td><td> 4 </td><td> 103.39 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 42.76 Mbp </td><td> 5 </td><td> 97.35 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 35.94 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 95.24 Mbp </td></tr><tr><td> 60 </td><td> 16 </td><td> 29.09 Mbp </td><td> 8 </td><td> 88.13 Mbp </td></tr><tr><td> 70 </td><td> 22 </td><td> 19.08 Mbp </td><td> 10 </td><td> 71.77 Mbp </td></tr><tr><td> 80 </td><td> 31 </td><td> 11.40 Mbp </td><td> 12 </td><td> 58.54 Mbp </td></tr><tr><td> 90 </td><td> 44 </td><td> 8.79 Mbp </td><td> 14 </td><td> 54.06 Mbp </td></tr><tr><td> 100 </td><td> 70 </td><td> 3.14 Mbp </td><td> 17 </td><td> 42.66 Mbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.055x </th><th> 169 </th><th> 1.42 Gbp </th><th> 61 </th><th> 1.42 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa2version: assembly_curated
+hpb1date: 2025-03-03
+hpb1filesize: 376.6 MiB
+hpb1length: '1301274726'
+hpb1n50ctg: 2657236
+hpb1n50scf: 95384831
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Zootoca_vivipara/rZooViv1/assembly_curated/rZooViv1.hap2.cur.20250303.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 15 </td><td> 7.63 Mbp </td><td> 1 </td><td> 135.09 Mbp </td></tr><tr><td> 20 </td><td> 35 </td><td> 5.53 Mbp </td><td> 3 </td><td> 119.71 Mbp </td></tr><tr><td> 30 </td><td> 63 </td><td> 4.40 Mbp </td><td> 4 </td><td> 101.85 Mbp </td></tr><tr><td> 40 </td><td> 98 </td><td> 3.31 Mbp </td><td> 5 </td><td> 97.65 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 143 </td><td style="background-color:#88ff88;"> 2.66 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 95.38 Mbp </td></tr><tr><td> 60 </td><td> 200 </td><td> 2.14 Mbp </td><td> 8 </td><td> 88.72 Mbp </td></tr><tr><td> 70 </td><td> 271 </td><td> 1.64 Mbp </td><td> 10 </td><td> 63.66 Mbp </td></tr><tr><td> 80 </td><td> 366 </td><td> 1.21 Mbp </td><td> 12 </td><td> 54.48 Mbp </td></tr><tr><td> 90 </td><td> 528 </td><td> 0.57 Mbp </td><td> 15 </td><td> 42.72 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.964x </th><th> 907 </th><th> 1.30 Gbp </th><th> 109 </th><th> 1.30 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_curated
+hpb2date: 2025-03-12
+hpb2filesize: 412.1 MiB
+hpb2length: '1423701498'
+hpb2n50ctg: 29139000
+hpb2n50scf: 95155244
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Zootoca_vivipara/rZooViv2/assembly_curated/rZooViv2.hap2.cur.20250312.fasta.gz
+hpb2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 79.28 Mbp </td><td> 1 </td><td> 135.08 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 67.25 Mbp </td><td> 3 </td><td> 119.69 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 45.56 Mbp </td><td> 4 </td><td> 102.39 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 34.87 Mbp </td><td> 5 </td><td> 97.31 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 14 </td><td style="background-color:#88ff88;"> 29.14 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 95.16 Mbp </td></tr><tr><td> 60 </td><td> 19 </td><td> 21.09 Mbp </td><td> 8 </td><td> 88.29 Mbp </td></tr><tr><td> 70 </td><td> 26 </td><td> 18.21 Mbp </td><td> 10 </td><td> 71.86 Mbp </td></tr><tr><td> 80 </td><td> 35 </td><td> 13.01 Mbp </td><td> 12 </td><td> 59.34 Mbp </td></tr><tr><td> 90 </td><td> 48 </td><td> 8.69 Mbp </td><td> 14 </td><td> 53.89 Mbp </td></tr><tr><td> 100 </td><td> 70 </td><td> 3.85 Mbp </td><td> 17 </td><td> 42.53 Mbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.055x </th><th> 169 </th><th> 1.42 Gbp </th><th> 67 </th><th> 1.42 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb2version: assembly_curated
 last_raw_data: 1691912691
-last_updated: 1694822443
+last_updated: 1741743136
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;rZooViv<br>&nbsp;&nbsp;name:&nbsp;Zootoca&nbsp;vivipara<br>&nbsp;&nbsp;taxon_id:&nbsp;8524<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;lizard<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Squamata<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lacertidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;rZooViv1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111528662<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1349640000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-08-14
 mito1filesize: 5.4 KiB

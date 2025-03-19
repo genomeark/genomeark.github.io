@@ -47,9 +47,16 @@ data_pacbiohifi_bam-1_links: s3://genomeark/species/Haliaeetus_albicilla/bHalAlb
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Haliaeetus_albicilla/bHalAlb1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Haliaeetus_albicilla/bHalAlb1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 1.4337
-data_pacbiohifi_bam_bases: 62.84 Gbp
-data_pacbiohifi_bam_bytes: 40.8 GiB
-data_pacbiohifi_bam_coverage: 44.93x
+data_pacbiohifi_bam-2_bases: 20.92 Gbp
+data_pacbiohifi_bam-2_bytes: 6.7 GiB
+data_pacbiohifi_bam-2_coverage: 14.96x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Haliaeetus_albicilla/bHalAlb2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Haliaeetus_albicilla/bHalAlb2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Haliaeetus_albicilla/bHalAlb2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 2.9047
+data_pacbiohifi_bam_bases: 83.76 Gbp
+data_pacbiohifi_bam_bytes: 47.5 GiB
+data_pacbiohifi_bam_coverage: 59.89x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -60,9 +67,9 @@ genbank_pri: bHalAlb1:GCA_947461875.1
 genome_size: 1398540000
 genome_size_display: 1.40 Gbp
 genome_size_method: GoaT
-last_raw_data: 1675878155
-last_updated: 1676381754
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bHalAlb<br>&nbsp;&nbsp;name:&nbsp;Haliaeetus&nbsp;albicilla<br>&nbsp;&nbsp;taxon_id:&nbsp;8969<br>&nbsp;&nbsp;common_name:&nbsp;white-tailed&nbsp;eagle<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Accipitriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Accipitridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bHalAlb1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12857288<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1398540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+last_raw_data: 1737551646
+last_updated: 1737551646
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bHalAlb<br>&nbsp;&nbsp;name:&nbsp;Haliaeetus&nbsp;albicilla<br>&nbsp;&nbsp;taxon_id:&nbsp;8969<br>&nbsp;&nbsp;common_name:&nbsp;white-tailed&nbsp;eagle<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Accipitriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Accipitridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bHalAlb1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA12857288<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bHalAlb2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113576084<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1398540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Haliaeetus albicilla
 name_: Haliaeetus_albicilla
 pri1date: 2023-02-14

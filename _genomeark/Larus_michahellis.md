@@ -59,7 +59,7 @@ genome_size: 1432770000
 genome_size_display: 1.43 Gbp
 genome_size_method: GoaT
 last_raw_data: 1716468344
-last_updated: 1720742430
+last_updated: 1737550078
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bLarMic<br>&nbsp;&nbsp;name:&nbsp;Larus&nbsp;michahellis<br>&nbsp;&nbsp;taxon_id:&nbsp;119627<br>&nbsp;&nbsp;common_name:&nbsp;yellow-legged&nbsp;gull<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Laridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bLarMic1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114211328<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1432770000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-05-24
 mito1filesize: 5.3 KiB
