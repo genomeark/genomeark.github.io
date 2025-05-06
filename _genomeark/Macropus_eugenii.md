@@ -80,6 +80,16 @@ data_pacbiohifi_fqgz-1_scale: 1.2257
 data_pacbiohifi_fqgz_bases: 91.20 Gbp
 data_pacbiohifi_fqgz_bytes: 69.3 GiB
 data_pacbiohifi_fqgz_coverage: 30.40x
+data_pacbiohifi_q2fqgz-1_bases: 18.51 Gbp
+data_pacbiohifi_q2fqgz-1_bytes: 14.2 GiB
+data_pacbiohifi_q2fqgz-1_coverage: 6.17x
+data_pacbiohifi_q2fqgz-1_links: s3://genomeark/species/Macropus_eugenii/mMacEug1/genomic_data/pacbiohifi_q2fqgz/<br>
+data_pacbiohifi_q2fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Macropus_eugenii/mMacEug1/genomic_data/pacbiohifi_q2fqgz/
+data_pacbiohifi_q2fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Macropus_eugenii/mMacEug1/genomic_data/pacbiohifi_q2fqgz/
+data_pacbiohifi_q2fqgz-1_scale: 1.2148
+data_pacbiohifi_q2fqgz_bases: 18.51 Gbp
+data_pacbiohifi_q2fqgz_bytes: 14.2 GiB
+data_pacbiohifi_q2fqgz_coverage: 6.17x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -90,8 +100,8 @@ genbank_pri: mMacEug1:GCA_028372415.1
 genome_size: 3000000000
 genome_size_display: 3.00 Gbp
 genome_size_method: ''
-last_raw_data: 1651605348
-last_updated: 1672770616
+last_raw_data: 1743451615
+last_updated: 1743451615
 mds:
 - data: species:&nbsp;Macropus_eugenii<br>specimen:&nbsp;mMacEug1<br>projects:<br>-&nbsp;vgl&nbsp;<br>primary:<br>&nbsp;&nbsp;s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/mMacEug1.pri.asm.20211109.fasta.gz<br>haplotigs:<br>&nbsp;&nbsp;s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/mMacEug1.alt.asm.20211109.fasta.gz<br>hic_bam:<br>&nbsp;&nbsp;s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMacEug1_s2.bam<br>pretext:<br>&nbsp;&nbsp;s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMacEug1_s2.bam<br>kmer_spectra_img:<br>&nbsp;&nbsp;s3://genomeark/species/Macropus_eugenii/mMacEug1/assembly_vgp_standard_2.0/evaluation/merqury/p/output_merqury_p.spectra-cn.fl<br><br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(3.6.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy0)
   ident: md10

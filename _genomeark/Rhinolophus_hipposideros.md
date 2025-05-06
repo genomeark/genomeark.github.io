@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1877760000
 genome_size_display: 1.88 Gbp
 genome_size_method: GoaT
-hpa2date: 2024-06-21
-hpa2filesize: 624.2 MiB
-hpa2length: '2171328640'
-hpa2n50ctg: 2271522
-hpa2n50scf: 95590935
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Rhinolophus_hipposideros/mRhiHip2/assembly_curated/mRhiHip2.hap1.cur.20240621.fasta.gz
+hpa2date: 2025-04-09
+hpa2filesize: 610.4 MiB
+hpa2length: '2124260548'
+hpa2n50ctg: 50849459
+hpa2n50scf: 96065200
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Rhinolophus_hipposideros/mRhiHip2/assembly_curated/mRhiHip2.hap1.cur.20250409.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 30 </td><td> 4.90 Mbp </td><td> 2 </td><td> 111.16 Mbp </td></tr><tr><td> 20 </td><td> 73 </td><td> 3.86 Mbp </td><td> 4 </td><td> 109.18 Mbp </td></tr><tr><td> 30 </td><td> 127 </td><td> 3.17 Mbp </td><td> 5 </td><td> 107.82 Mbp </td></tr><tr><td> 40 </td><td> 191 </td><td> 2.71 Mbp </td><td> 7 </td><td> 101.43 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 267 </td><td style="background-color:#88ff88;"> 2.27 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 95.59 Mbp </td></tr><tr><td> 60 </td><td> 357 </td><td> 1.93 Mbp </td><td> 11 </td><td> 88.36 Mbp </td></tr><tr><td> 70 </td><td> 463 </td><td> 1.63 Mbp </td><td> 14 </td><td> 75.91 Mbp </td></tr><tr><td> 80 </td><td> 589 </td><td> 1.33 Mbp </td><td> 16 </td><td> 68.18 Mbp </td></tr><tr><td> 90 </td><td> 747 </td><td> 1.05 Mbp </td><td> 19 </td><td> 58.31 Mbp </td></tr><tr><td> 100 </td><td> 963 </td><td> 0.71 Mbp </td><td> 23 </td><td> 45.73 Mbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 82.90 Mbp </td><td> 2 </td><td> 111.71 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 76.41 Mbp </td><td> 4 </td><td> 109.58 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 67.69 Mbp </td><td> 5 </td><td> 107.74 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 60.21 Mbp </td><td> 7 </td><td> 101.59 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 14 </td><td style="background-color:#88ff88;"> 50.85 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 96.07 Mbp </td></tr><tr><td> 60 </td><td> 18 </td><td> 43.73 Mbp </td><td> 11 </td><td> 89.98 Mbp </td></tr><tr><td> 70 </td><td> 23 </td><td> 34.50 Mbp </td><td> 13 </td><td> 77.73 Mbp </td></tr><tr><td> 80 </td><td> 29 </td><td> 28.32 Mbp </td><td> 16 </td><td> 67.69 Mbp </td></tr><tr><td> 90 </td><td> 36 </td><td> 23.68 Mbp </td><td> 19 </td><td> 58.39 Mbp </td></tr><tr><td> 100 </td><td> 47 </td><td> 13.90 Mbp </td><td> 23 </td><td> 45.84 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.156x </th><th> 2350 </th><th> 2.17 Gbp </th><th> 723 </th><th> 2.17 Gbp </th></tr>
+  <tr><th> 1.131x </th><th> 653 </th><th> 2.12 Gbp </th><th> 594 </th><th> 2.12 Gbp </th></tr>
   </tfoot>
   </table>
 hpa2version: assembly_curated
-hpb2date: 2024-06-21
-hpb2filesize: 632.4 MiB
-hpb2length: '2240459116'
-hpb2n50ctg: 2294964
-hpb2n50scf: 96229458
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Rhinolophus_hipposideros/mRhiHip2/assembly_curated/mRhiHip2.hap2.cur.20240621.fasta.gz
+hpb2date: 2025-04-09
+hpb2filesize: 632.8 MiB
+hpb2length: '2240898699'
+hpb2n50ctg: 51722805
+hpb2n50scf: 96133794
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Rhinolophus_hipposideros/mRhiHip2/assembly_curated/mRhiHip2.hap2.cur.20250409.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 29 </td><td> 5.03 Mbp </td><td> 2 </td><td> 111.15 Mbp </td></tr><tr><td> 20 </td><td> 73 </td><td> 3.79 Mbp </td><td> 4 </td><td> 109.05 Mbp </td></tr><tr><td> 30 </td><td> 126 </td><td> 3.22 Mbp </td><td> 6 </td><td> 102.05 Mbp </td></tr><tr><td> 40 </td><td> 190 </td><td> 2.70 Mbp </td><td> 7 </td><td> 101.46 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 266 </td><td style="background-color:#88ff88;"> 2.29 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 96.23 Mbp </td></tr><tr><td> 60 </td><td> 355 </td><td> 1.91 Mbp </td><td> 11 </td><td> 89.09 Mbp </td></tr><tr><td> 70 </td><td> 463 </td><td> 1.61 Mbp </td><td> 14 </td><td> 75.85 Mbp </td></tr><tr><td> 80 </td><td> 592 </td><td> 1.31 Mbp </td><td> 16 </td><td> 67.18 Mbp </td></tr><tr><td> 90 </td><td> 751 </td><td> 1.04 Mbp </td><td> 19 </td><td> 58.58 Mbp </td></tr><tr><td> 100 </td><td> 965 </td><td> 0.74 Mbp </td><td> 23 </td><td> 45.94 Mbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 109.30 Mbp </td><td> 2 </td><td> 111.62 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 97.59 Mbp </td><td> 4 </td><td> 109.30 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 78.08 Mbp </td><td> 5 </td><td> 107.83 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 68.27 Mbp </td><td> 7 </td><td> 101.72 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 51.72 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 96.13 Mbp </td></tr><tr><td> 60 </td><td> 16 </td><td> 44.95 Mbp </td><td> 11 </td><td> 89.07 Mbp </td></tr><tr><td> 70 </td><td> 20 </td><td> 38.04 Mbp </td><td> 14 </td><td> 75.66 Mbp </td></tr><tr><td> 80 </td><td> 26 </td><td> 31.88 Mbp </td><td> 16 </td><td> 68.27 Mbp </td></tr><tr><td> 90 </td><td> 32 </td><td> 27.30 Mbp </td><td> 19 </td><td> 58.65 Mbp </td></tr><tr><td> 100 </td><td> 40 </td><td> 17.01 Mbp </td><td> 23 </td><td> 45.98 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.193x </th><th> 2727 </th><th> 2.24 Gbp </th><th> 1079 </th><th> 2.24 Gbp </th></tr>
+  <tr><th> 1.193x </th><th> 1036 </th><th> 2.24 Gbp </th><th> 980 </th><th> 2.24 Gbp </th></tr>
   </tfoot>
   </table>
 hpb2version: assembly_curated
 last_raw_data: 1714553555
-last_updated: 1718928054
+last_updated: 1744157027
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mRhiHip<br>&nbsp;&nbsp;name:&nbsp;Rhinolophus&nbsp;hipposideros<br>&nbsp;&nbsp;taxon_id:&nbsp;77218<br>&nbsp;&nbsp;common_name:&nbsp;lesser&nbsp;horseshoe&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rhinolophidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mRhiHip2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113980802<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1877760000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito2date: 2024-05-02
 mito2filesize: 5.1 KiB

@@ -60,8 +60,66 @@ genbank_pri: mPipPyg2:GCA_949987585.1
 genome_size: 2122260000
 genome_size_display: 2.12 Gbp
 genome_size_method: GoaT
+hpa2date: 2025-04-08
+hpa2filesize: 534.8 MiB
+hpa2length: '1900276856'
+hpa2n50ctg: 49712000
+hpa2n50scf: 87169076
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Pipistrellus_pygmaeus/mPipPyg2/assembly_curated/mPipPyg2.hap1.cur.20250408.fasta.gz
+hpa2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 78.94 Mbp </td><td> 1 </td><td> 212.92 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 75.82 Mbp </td><td> 3 </td><td> 193.37 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 66.76 Mbp </td><td> 4 </td><td> 105.21 Mbp </td></tr><tr><td> 40 </td><td> 12 </td><td> 59.69 Mbp </td><td> 6 </td><td> 101.22 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 49.71 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 87.17 Mbp </td></tr><tr><td> 60 </td><td> 21 </td><td> 35.98 Mbp </td><td> 11 </td><td> 77.14 Mbp </td></tr><tr><td> 70 </td><td> 28 </td><td> 21.12 Mbp </td><td> 14 </td><td> 57.36 Mbp </td></tr><tr><td> 80 </td><td> 45 </td><td> 5.77 Mbp </td><td> 18 </td><td> 50.65 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.895x </th><th> 450 </th><th> 1.90 Gbp </th><th> 328 </th><th> 1.90 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa2version: assembly_curated
+hpb2date: 2025-04-08
+hpb2filesize: 504.8 MiB
+hpb2length: '1801983094'
+hpb2n50ctg: 48413000
+hpb2n50scf: 85713520
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Pipistrellus_pygmaeus/mPipPyg2/assembly_curated/mPipPyg2.hap2.cur.20250408.fasta.gz
+hpb2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 80.18 Mbp </td><td> 2 </td><td> 198.93 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 75.35 Mbp </td><td> 3 </td><td> 193.07 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 73.53 Mbp </td><td> 4 </td><td> 104.29 Mbp </td></tr><tr><td> 40 </td><td> 12 </td><td> 52.22 Mbp </td><td> 6 </td><td> 88.02 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 48.41 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 85.71 Mbp </td></tr><tr><td> 60 </td><td> 21 </td><td> 34.78 Mbp </td><td> 11 </td><td> 72.46 Mbp </td></tr><tr><td> 70 </td><td> 31 </td><td> 14.61 Mbp </td><td> 15 </td><td> 51.63 Mbp </td></tr><tr><td> 80 </td><td> 68 </td><td> 2.07 Mbp </td><td> 20 </td><td> 18.15 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.849x </th><th> 369 </th><th> 1.80 Gbp </th><th> 282 </th><th> 1.80 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb2version: assembly_curated
 last_raw_data: 1687195356
-last_updated: 1692211339
+last_updated: 1744073616
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPipPyg<br>&nbsp;&nbsp;name:&nbsp;Pipistrellus&nbsp;pygmaeus<br>&nbsp;&nbsp;taxon_id:&nbsp;246814<br>&nbsp;&nbsp;common_name:&nbsp;soprano&nbsp;pipistrelle<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPipPyg2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA9921456<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2122260000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-03-23
 mito2filesize: 5.3 KiB

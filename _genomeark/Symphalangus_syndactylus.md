@@ -74,16 +74,16 @@ data_ont-1_links: s3://genomeark/species/Symphalangus_syndactylus/mSymSyn1/genom
 data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/ont/
 data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Symphalangus_syndactylus/mSymSyn1/genomic_data/ont/
 data_ont-1_scale: 1.2059
-data_ont-2_bases: 241.68 Gbp
-data_ont-2_bytes: 179.6 GiB
-data_ont-2_coverage: 73.33x
+data_ont-2_bases: 413.28 Gbp
+data_ont-2_bytes: 218.2 GiB
+data_ont-2_coverage: 125.39x
 data_ont-2_links: s3://genomeark/species/Symphalangus_syndactylus/mSymSyn2/genomic_data/ont/<br>
 data_ont-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn2/genomic_data/ont/
 data_ont-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Symphalangus_syndactylus/mSymSyn2/genomic_data/ont/
-data_ont-2_scale: 1.2530
-data_ont_bases: 953.63 Gbp
-data_ont_bytes: 729.5 GiB
-data_ont_coverage: 289.34x
+data_ont-2_scale: 1.7642
+data_ont_bases: 1125.23 Gbp
+data_ont_bytes: 768.0 GiB
+data_ont_coverage: 341.41x
 data_pacbiohifi_bam-1_bases: 1050.25 Gbp
 data_pacbiohifi_bam-1_bytes: 1.1 TiB
 data_pacbiohifi_bam-1_coverage: 318.66x
@@ -196,6 +196,35 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_curated
+hpa2date: 2025-05-01
+hpa2filesize: 797.4 MiB
+hpa2length: '3273642649'
+hpa2n50ctg: 141779627
+hpa2n50scf: 145417417
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Symphalangus_syndactylus/mSymSyn2/assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1/mSymSyn2.HiC.hap1.20250501.fasta.gz
+hpa2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 166.05 Mbp </td><td> 2 </td><td> 170.59 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 156.37 Mbp </td><td> 4 </td><td> 166.05 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 146.96 Mbp </td><td> 6 </td><td> 159.32 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 145.42 Mbp </td><td> 9 </td><td> 146.96 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 141.78 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 145.42 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 115.24 Mbp </td><td> 13 </td><td> 132.52 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 104.76 Mbp </td><td> 16 </td><td> 124.03 Mbp </td></tr><tr><td> 80 </td><td> 20 </td><td> 88.23 Mbp </td><td> 19 </td><td> 108.20 Mbp </td></tr><tr><td> 90 </td><td> 24 </td><td> 79.18 Mbp </td><td> 22 </td><td> 85.89 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.993x </th><th> 126 </th><th> 3.27 Gbp </th><th> 90 </th><th> 3.27 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa2version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
 hpb1date: 2024-05-14
 hpb1filesize: 842.0 MiB
 hpb1length: '3127306130'
@@ -225,8 +254,37 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1740667802
-last_updated: 1740667802
+hpb2date: 2025-05-01
+hpb2filesize: 795.5 MiB
+hpb2length: '3271162155'
+hpb2n50ctg: 143651118
+hpb2n50scf: 145932176
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Symphalangus_syndactylus/mSymSyn2/assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1/mSymSyn2.HiC.hap2.20250501.fasta.gz
+hpb2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 170.13 Mbp </td><td> 2 </td><td> 170.13 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 167.23 Mbp </td><td> 4 </td><td> 167.69 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 152.76 Mbp </td><td> 6 </td><td> 166.03 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 146.43 Mbp </td><td> 8 </td><td> 159.13 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 143.65 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 145.93 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 132.77 Mbp </td><td> 13 </td><td> 132.77 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 117.05 Mbp </td><td> 16 </td><td> 120.41 Mbp </td></tr><tr><td> 80 </td><td> 19 </td><td> 99.76 Mbp </td><td> 18 </td><td> 107.22 Mbp </td></tr><tr><td> 90 </td><td> 23 </td><td> 78.39 Mbp </td><td> 22 </td><td> 82.16 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.992x </th><th> 58 </th><th> 3.27 Gbp </th><th> 29 </th><th> 3.27 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb2version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
+last_raw_data: 1742922709
+last_updated: 1746130807
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mSymSyn<br>&nbsp;&nbsp;name:&nbsp;Symphalangus&nbsp;syndactylus<br>&nbsp;&nbsp;common_name:&nbsp;siamang&nbsp;gibbon<br>&nbsp;&nbsp;taxon_id:&nbsp;9590<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hylobatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mSymSyn1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Jambi<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMN30216103<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Jambi_SSY<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;MIG12-29960010<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone&nbsp;(Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mSymSyn2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Karenina<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone&nbsp;(Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;genome_size:&nbsp;3295860000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;Fuelgen&nbsp;Densitometry/Flow&nbsp;Cytometry<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>
 mito1date: 2023-11-22
 mito1filesize: 5.3 KiB

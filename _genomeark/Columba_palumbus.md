@@ -1,10 +1,10 @@
 ---
-alt1date: 2024-05-10
-alt1filesize: 447.5 MiB
-alt1length: '1822843172'
+alt1date: 2025-04-17
+alt1filesize: 451.0 MiB
+alt1length: '1822623322'
 alt1n50ctg: '1683026'
 alt1n50scf: '1683026'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Columba_palumbus/bColPal1/assembly_cambridge/bColPal1.alt.asm.20240510.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Columba_palumbus/bColPal1/assembly_curated/bColPal1.alt.cur.20250417.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -22,13 +22,13 @@ alt1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 27 </td><td> 4.18 Mbp </td><td> 27 </td><td> 4.18 Mbp </td></tr><tr><td> 20 </td><td> 66 </td><td> 3.24 Mbp </td><td> 66 </td><td> 3.24 Mbp </td></tr><tr><td> 30 </td><td> 115 </td><td> 2.60 Mbp </td><td> 115 </td><td> 2.60 Mbp </td></tr><tr><td> 40 </td><td> 178 </td><td> 2.08 Mbp </td><td> 178 </td><td> 2.08 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 255 </td><td> 1.68 Mbp </td><td> 255 </td><td> 1.68 Mbp </td></tr><tr><td> 60 </td><td> 350 </td><td> 1.36 Mbp </td><td> 350 </td><td> 1.36 Mbp </td></tr><tr><td> 70 </td><td> 471 </td><td> 1.02 Mbp </td><td> 471 </td><td> 1.02 Mbp </td></tr><tr><td> 80 </td><td> 635 </td><td> 0.75 Mbp </td><td> 635 </td><td> 0.75 Mbp </td></tr><tr><td> 90 </td><td> 868 </td><td> 0.51 Mbp </td><td> 868 </td><td> 0.51 Mbp </td></tr><tr><td> 100 </td><td> 1226 </td><td> 316.49 Kbp </td><td> 1226 </td><td> 316.49 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 27 </td><td> 4.18 Mbp </td><td> 27 </td><td> 4.18 Mbp </td></tr><tr><td> 20 </td><td> 66 </td><td> 3.24 Mbp </td><td> 66 </td><td> 3.24 Mbp </td></tr><tr><td> 30 </td><td> 115 </td><td> 2.60 Mbp </td><td> 115 </td><td> 2.60 Mbp </td></tr><tr><td> 40 </td><td> 178 </td><td> 2.08 Mbp </td><td> 178 </td><td> 2.08 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 255 </td><td> 1.68 Mbp </td><td> 255 </td><td> 1.68 Mbp </td></tr><tr><td> 60 </td><td> 350 </td><td> 1.36 Mbp </td><td> 350 </td><td> 1.36 Mbp </td></tr><tr><td> 70 </td><td> 471 </td><td> 1.02 Mbp </td><td> 471 </td><td> 1.02 Mbp </td></tr><tr><td> 80 </td><td> 635 </td><td> 0.75 Mbp </td><td> 635 </td><td> 0.75 Mbp </td></tr><tr><td> 90 </td><td> 868 </td><td> 0.51 Mbp </td><td> 868 </td><td> 0.51 Mbp </td></tr><tr><td> 100 </td><td> 1226 </td><td> 316.74 Kbp </td><td> 1226 </td><td> 316.74 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.264x </th><th> 6573 </th><th> 1.82 Gbp </th><th> 6573 </th><th> 1.82 Gbp </th></tr>
+  <tr><th> 1.263x </th><th> 6521 </th><th> 1.82 Gbp </th><th> 6521 </th><th> 1.82 Gbp </th></tr>
   </tfoot>
   </table>
-alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+alt1version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Wood Pigeon
 data_arima-1_bases: 48.77 Gbp
 data_arima-1_bytes: 14.0 GiB
@@ -59,7 +59,7 @@ genome_size: 1442550000
 genome_size_display: 1.44 Gbp
 genome_size_method: GoaT
 last_raw_data: 1711960283
-last_updated: 1715415489
+last_updated: 1744850126
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bColPal<br>&nbsp;&nbsp;name:&nbsp;Columba&nbsp;palumbus<br>&nbsp;&nbsp;taxon_id:&nbsp;8934<br>&nbsp;&nbsp;common_name:&nbsp;Wood&nbsp;Pigeon<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Columbiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Columbidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bColPal1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113398963<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1442550000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-05-10
 mito1filesize: 5.4 KiB
@@ -92,12 +92,12 @@ mito1sizes: |
 mito1version: assembly_MT_cambridge
 name: Columba palumbus
 name_: Columba_palumbus
-pri1date: 2024-05-10
-pri1filesize: 366.4 MiB
-pri1length: '1363218739'
+pri1date: 2025-04-17
+pri1filesize: 366.2 MiB
+pri1length: '1362519831'
 pri1n50ctg: 3235316
 pri1n50scf: 72549161
-pri1seq: https://s3.amazonaws.com/genomeark/species/Columba_palumbus/bColPal1/assembly_cambridge/bColPal1.pri.asm.20240510.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Columba_palumbus/bColPal1/assembly_curated/bColPal1.pri.cur.20250417.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -115,12 +115,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 11 </td><td> 11.06 Mbp </td><td> 1 </td><td> 214.68 Mbp </td></tr><tr><td> 20 </td><td> 28 </td><td> 7.29 Mbp </td><td> 2 </td><td> 165.44 Mbp </td></tr><tr><td> 30 </td><td> 52 </td><td> 5.37 Mbp </td><td> 3 </td><td> 125.11 Mbp </td></tr><tr><td> 40 </td><td> 82 </td><td> 4.23 Mbp </td><td> 4 </td><td> 83.31 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 122 </td><td style="background-color:#88ff88;"> 3.24 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 72.55 Mbp </td></tr><tr><td> 60 </td><td> 172 </td><td> 2.43 Mbp </td><td> 10 </td><td> 27.48 Mbp </td></tr><tr><td> 70 </td><td> 244 </td><td> 1.70 Mbp </td><td> 16 </td><td> 21.21 Mbp </td></tr><tr><td> 80 </td><td> 352 </td><td> 1.01 Mbp </td><td> 33 </td><td> 3.63 Mbp </td></tr><tr><td> 90 </td><td> 606 </td><td> 289.00 Kbp </td><td> 198 </td><td> 373.00 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 11 </td><td> 11.06 Mbp </td><td> 1 </td><td> 214.68 Mbp </td></tr><tr><td> 20 </td><td> 28 </td><td> 7.29 Mbp </td><td> 2 </td><td> 165.44 Mbp </td></tr><tr><td> 30 </td><td> 52 </td><td> 5.37 Mbp </td><td> 3 </td><td> 125.11 Mbp </td></tr><tr><td> 40 </td><td> 82 </td><td> 4.23 Mbp </td><td> 4 </td><td> 83.31 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 122 </td><td style="background-color:#88ff88;"> 3.24 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 72.55 Mbp </td></tr><tr><td> 60 </td><td> 173 </td><td> 2.42 Mbp </td><td> 10 </td><td> 27.48 Mbp </td></tr><tr><td> 70 </td><td> 245 </td><td> 1.68 Mbp </td><td> 16 </td><td> 18.60 Mbp </td></tr><tr><td> 80 </td><td> 353 </td><td> 1.01 Mbp </td><td> 31 </td><td> 4.84 Mbp </td></tr><tr><td> 90 </td><td> 610 </td><td> 287.55 Kbp </td><td> 180 </td><td> 388.93 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.945x </th><th> 1265 </th><th> 1.36 Gbp </th><th> 769 </th><th> 1.36 Gbp </th></tr>
+  <tr><th> 0.944x </th><th> 1260 </th><th> 1.36 Gbp </th><th> 719 </th><th> 1.36 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_cambridge
+pri1version: assembly_curated
 project:
 - vgp
 short_name: bColPal

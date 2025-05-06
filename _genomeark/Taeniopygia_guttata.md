@@ -327,7 +327,7 @@ hpb2sizes: |
   </table>
 hpb2version: assembly_curated
 last_raw_data: 1734637935
-last_updated: 1741963059
+last_updated: 1745454479
 mat2date: 2022-05-27
 mat2filesize: 289.3 MiB
 mat2length: '1021085914'
@@ -360,13 +360,13 @@ mat2sizes: |
 mat2version: assembly_curated
 mds:
 - data: species:&nbsp;Taeniopygia&nbsp;guttata<br>specimen:&nbsp;bTaeGut2<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_hic_2.0/bTaeGut2.hic.hap1.s2.fasta<br>hap2:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_hic_2.0/bTaeGut2.hic.hap2.s2.fasta<br>hap1_hic_bam:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_hic_2.0/evaluation/pretext/s2/bTaeGut2.hic.hap1.s2.bam<br>hap2_hic_bam:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_hic_2.0/evaluation/pretext/s2/bTaeGut2.hic.hap2.s2.bam<br>hap1_pretext:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_hic_2.0/evaluation/pretext/s2/bTaeGut2.hic.hap1.s2.pretext<br>hap2_pretext:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_hic_2.0/evaluation/pretext/s2/bTaeGut2.hic.hap2.s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_hic_2.0/evaluation/merqury/contigs_10xKmersForChild/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1-r375)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.6.1)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.2,&nbsp;updated&nbsp;to&nbsp;commit&nbsp;ed76685)<br>
-  ident: md429
+  ident: md430
   title: assembly_vgp_hic_2.0/bTaeGut2_hic.yaml
 - data: species:&nbsp;Taeniopygia_guttata<br>specimen:&nbsp;bTaeGut2<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_standard_2.0/bTaeGut2.pri.asm.20211014.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_standard_2.0/bTaeGut2.alt.asm.20210927.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_standard_2.0/evaluation/pretext/s2/bTaeGut2.bam<br>pretext:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_standard_2.0/evaluation/pretext/s2/bTaeGut2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_standard_2.0/evaluation/merqury/p/output_merqury_p.spectra-cn.fl<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(3.6.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy0)<br><br>
-  ident: md434
+  ident: md435
   title: assembly_vgp_standard_2.0/bTaeGut2.yaml
 - data: species:&nbsp;Taeniopygia&nbsp;guttata<br>specimen:&nbsp;bTaeGut2<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>mat:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_trio_2.0/bTaeGut2_trio.rebinned.hap2.s2.fasta.gz<br>pat:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_trio_2.0/bTaeGut2_trio.rebinned.hap1.s2.fasta.gz<br>mat_hic_bam:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_trio_2.0/intermediates/salsa/s2/bTaeGut2_trio.rebinned.hap2.s2.bam<br>pat_hic_bam:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_trio_2.0/intermediates/salsa/s2/bTaeGut2_trio.rebinned.hap1.s2.bam<br>mat_pretext:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_trio_2.0/intermediates/salsa/s2/bTaeGut2_trio.rebinned.hap2.s2.pretext<br>pat_pretext:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_trio_2.0/intermediates/salsa/s2/bTaeGut2_trio.rebinned.hap1.s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_vgp_trio_2.0/evaluation/merqury/purge_dups/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1-r375)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.6.1)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.2)
-  ident: md435
+  ident: md436
   title: assembly_vgp_trio_2.0/bTaeGut2_trio.yaml
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bTaeGut<br>&nbsp;&nbsp;name:&nbsp;Taeniopygia&nbsp;guttata<br>&nbsp;&nbsp;taxon_id:&nbsp;59729<br>&nbsp;&nbsp;common_name:&nbsp;zebra&nbsp;finch<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Estrildidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bTaeGut1<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bTaeGut2<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bTaeGut3<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bTaeGut4<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bTaeGut5<br>&nbsp;&nbsp;genome_size:&nbsp;1035611271<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mgd2date: 2022-09-05

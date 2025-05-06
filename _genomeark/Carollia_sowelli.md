@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Sowell's short-tailed bat
 data_arima-1_bases: 211.62 Gbp
 data_arima-1_bytes: 114.2 GiB
@@ -39,12 +39,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2836200000
 genome_size_display: 2.84 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-03-11
-hpa1filesize: 659.7 MiB
-hpa1length: '2539538743'
+hpa1date: 2025-03-28
+hpa1filesize: 656.0 MiB
+hpa1length: '2517780189'
 hpa1n50ctg: 53958722
-hpa1n50scf: 125545043
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Carollia_sowelli/mCarSow1/assembly_vgp_HiC_2.0/mCarSow1.HiC.hap1.20240311.fasta.gz
+hpa1n50scf: 283627392
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Carollia_sowelli/mCarSow1/assembly_curated/mCarSow1.hap1.cur.20250328.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -62,18 +62,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 306.67 Mbp </td><td> 1 </td><td> 306.67 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 208.27 Mbp </td><td> 2 </td><td> 262.69 Mbp </td></tr><tr><td> 30 </td><td> 4 </td><td> 190.56 Mbp </td><td> 4 </td><td> 216.30 Mbp </td></tr><tr><td> 40 </td><td> 6 </td><td> 104.29 Mbp </td><td> 5 </td><td> 213.39 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 53.96 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 125.55 Mbp </td></tr><tr><td> 60 </td><td> 16 </td><td> 43.20 Mbp </td><td> 9 </td><td> 108.89 Mbp </td></tr><tr><td> 70 </td><td> 26 </td><td> 21.48 Mbp </td><td> 13 </td><td> 53.96 Mbp </td></tr><tr><td> 80 </td><td> 70 </td><td> 2.71 Mbp </td><td> 42 </td><td> 3.15 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 306.67 Mbp </td><td> 1 </td><td> 0.61 Gbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 208.27 Mbp </td><td> 1 </td><td> 0.61 Gbp </td></tr><tr><td> 30 </td><td> 4 </td><td> 190.56 Mbp </td><td> 2 </td><td> 334.89 Mbp </td></tr><tr><td> 40 </td><td> 6 </td><td> 104.26 Mbp </td><td> 3 </td><td> 330.36 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 53.96 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 283.63 Mbp </td></tr><tr><td> 60 </td><td> 16 </td><td> 43.20 Mbp </td><td> 5 </td><td> 163.96 Mbp </td></tr><tr><td> 70 </td><td> 26 </td><td> 21.48 Mbp </td><td> 8 </td><td> 97.51 Mbp </td></tr><tr><td> 80 </td><td> 75 </td><td> 2.23 Mbp </td><td> 28 </td><td> 3.11 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.895x </th><th> 626 </th><th> 2.54 Gbp </th><th> 592 </th><th> 2.54 Gbp </th></tr>
+  <tr><th> 0.888x </th><th> 576 </th><th> 2.52 Gbp </th><th> 508 </th><th> 2.52 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2024-03-11
-hpb1filesize: 634.0 MiB
-hpb1length: '2280302715'
+hpa1version: assembly_curated
+hpb1date: 2025-03-28
+hpb1filesize: 636.0 MiB
+hpb1length: '2291021941'
 hpb1n50ctg: 56286978
-hpb1n50scf: 163652773
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Carollia_sowelli/mCarSow1/assembly_vgp_HiC_2.0/mCarSow1.HiC.hap2.20240311.fasta.gz
+hpb1n50scf: 282044522
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Carollia_sowelli/mCarSow1/assembly_curated/mCarSow1.hap2.cur.20250328.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -91,17 +91,17 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 226.60 Mbp </td><td> 1 </td><td> 338.67 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 204.73 Mbp </td><td> 2 </td><td> 328.98 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 158.35 Mbp </td><td> 3 </td><td> 262.21 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 96.81 Mbp </td><td> 4 </td><td> 241.16 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 56.29 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 163.65 Mbp </td></tr><tr><td> 60 </td><td> 16 </td><td> 38.47 Mbp </td><td> 8 </td><td> 106.83 Mbp </td></tr><tr><td> 70 </td><td> 26 </td><td> 20.72 Mbp </td><td> 11 </td><td> 53.51 Mbp </td></tr><tr><td> 80 </td><td> 193 </td><td> 174.93 Kbp </td><td> 159 </td><td> 179.88 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 226.60 Mbp </td><td> 1 </td><td> 0.61 Gbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 204.73 Mbp </td><td> 1 </td><td> 0.61 Gbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 158.35 Mbp </td><td> 2 </td><td> 330.47 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 96.81 Mbp </td><td> 3 </td><td> 320.41 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 56.29 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 282.04 Mbp </td></tr><tr><td> 60 </td><td> 16 </td><td> 38.47 Mbp </td><td> 5 </td><td> 168.31 Mbp </td></tr><tr><td> 70 </td><td> 26 </td><td> 20.35 Mbp </td><td> 8 </td><td> 97.64 Mbp </td></tr><tr><td> 80 </td><td> 154 </td><td> 334.11 Kbp </td><td> 101 </td><td> 354.95 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.804x </th><th> 331 </th><th> 2.28 Gbp </th><th> 297 </th><th> 2.28 Gbp </th></tr>
+  <tr><th> 0.808x </th><th> 330 </th><th> 2.29 Gbp </th><th> 272 </th><th> 2.29 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1708285421
-last_updated: 1716247932
+last_updated: 1743430805
 mds:
 - data: species:&nbsp;Carollia&nbsp;sowelli&nbsp;<br>specimen:&nbsp;mCarSow1&nbsp;<br>projects:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp&nbsp;<br>&nbsp;&nbsp;-&nbsp;bat1k&nbsp;<br>assembled_by_group:&nbsp;Rockefeller&nbsp;<br>data_location:&nbsp;S3&nbsp;<br>release_to:&nbsp;S3&nbsp;<br>primary:&nbsp;s3://genomeark/species/Carollia_sowelli/mCarSow1/assembly_vgp_HiC_2.0/mCarSow1.HiC.hap1.20240311.fasta.gz&nbsp;<br>haplotigs:&nbsp;s3://genomeark/species/Carollia_sowelli/mCarSow1/assembly_vgp_HiC_2.0/mCarSow1.HiC.hap2.20240311.fasta.gz&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Carollia_sowelli/mCarSow1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mCarSow1_hap1_s2.pretext&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Carollia_sowelli/mCarSow1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mCarSow1_hap2_s2.pretext&nbsp;<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Carollia_sowelli/mCarSow1/assembly_vgp_HiC_2.0/evaluation/merqury/mCarSow1_png/&nbsp;<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Carollia_sowelli/mCarSow1/genomic_data/pacbio_hifi/&nbsp;<br>pacbio_read_type:&nbsp;hifi&nbsp;<br>hic_read_dir:&nbsp;s3://genomeark/species/Carollia_sowelli/mCarSow1/genomic_data/arima/&nbsp;<br>pipeline:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)&nbsp;<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)&nbsp;<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mCarSow1.&nbsp;This&nbsp;hap1&nbsp;assembly&nbsp;and&nbsp;hap2&nbsp;assembly&nbsp;underwent&nbsp;separate&nbsp;HiC&nbsp;scaffolding&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;HiC&nbsp;reaction&nbsp;was&nbsp;using&nbsp;Arima&nbsp;kit&nbsp;v2.&nbsp;<br>
-  ident: md3
+  ident: md5
   title: assembly_vgp_HiC_2.0/mCarSow1.yml
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mCarSow<br>&nbsp;&nbsp;name:&nbsp;Carollia&nbsp;sowelli<br>&nbsp;&nbsp;taxon_id:&nbsp;208969<br>&nbsp;&nbsp;common_name:&nbsp;Sowell's&nbsp;short-tailed&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phyllostomidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mCarSow1<br>&nbsp;&nbsp;genome_size:&nbsp;2836200000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 mito1date: 2024-03-11

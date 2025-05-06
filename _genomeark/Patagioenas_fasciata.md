@@ -8,9 +8,26 @@ data_arima-1_links: s3://genomeark/species/Patagioenas_fasciata/bPatFas1/genomic
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Patagioenas_fasciata/bPatFas1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Patagioenas_fasciata/bPatFas1/genomic_data/arima/
 data_arima-1_scale: 1.7694
-data_arima_bases: 67.07 Gbp
-data_arima_bytes: 35.3 GiB
+data_arima-27_bases: 43.27 Gbp
+data_arima-27_bytes: 22.9 GiB
+data_arima-27_coverage: N/A
+data_arima-27_links: s3://genomeark/species/Patagioenas_fasciata/bPatFas27/genomic_data/arima/<br>
+data_arima-27_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Patagioenas_fasciata/bPatFas27/genomic_data/arima/
+data_arima-27_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Patagioenas_fasciata/bPatFas27/genomic_data/arima/
+data_arima-27_scale: 1.7618
+data_arima_bases: 110.33 Gbp
+data_arima_bytes: 58.2 GiB
 data_arima_coverage: N/A
+data_ont-1_bases: 152.69 Gbp
+data_ont-1_bytes: 139.9 GiB
+data_ont-1_coverage: N/A
+data_ont-1_links: s3://genomeark/species/Patagioenas_fasciata/bPatFas1/genomic_data/ont/<br>
+data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Patagioenas_fasciata/bPatFas1/genomic_data/ont/
+data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Patagioenas_fasciata/bPatFas1/genomic_data/ont/
+data_ont-1_scale: 1.0161
+data_ont_bases: 152.69 Gbp
+data_ont_bytes: 139.9 GiB
+data_ont_coverage: N/A
 data_pacbiohifi_bam-1_bases: 246.54 Gbp
 data_pacbiohifi_bam-1_bytes: 869.1 GiB
 data_pacbiohifi_bam-1_coverage: N/A
@@ -41,7 +58,8 @@ data_pacbiohifi_fqgz-1_scale: 1.1243
 data_pacbiohifi_fqgz_bases: 79.48 Gbp
 data_pacbiohifi_fqgz_bytes: 65.8 GiB
 data_pacbiohifi_fqgz_coverage: N/A
-data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
+data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
+  Simplex</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
@@ -107,8 +125,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1717831789
-last_updated: 1734975205
+last_raw_data: 1745270533
+last_updated: 1745270533
 mito1date: 2024-12-03
 mito1filesize: 5.4 KiB
 mito1length: '17021'

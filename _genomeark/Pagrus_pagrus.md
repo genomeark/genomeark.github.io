@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common seabream
 data_arima-1_bases: 362.11 Gbp
 data_arima-1_bytes: 91.7 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 782400000
 genome_size_display: 0.78 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-09-05
-hpa1filesize: 204.8 MiB
-hpa1length: '823632940'
+hpa1date: 2025-03-21
+hpa1filesize: 227.4 MiB
+hpa1length: '825699107'
 hpa1n50ctg: 2770627
 hpa1n50scf: 33887174
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Pagrus_pagrus/fPagPag1/assembly_cambridge/fPagPag1.hap1.asm.20240905.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Pagrus_pagrus/fPagPag1/assembly_curated/fPagPag1.hap1.cur.20250321.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 9 </td><td> 6.98 Mbp </td><td> 3 </td><td> 36.84 Mbp </td></tr><tr><td> 20 </td><td> 23 </td><td> 4.73 Mbp </td><td> 5 </td><td> 36.05 Mbp </td></tr><tr><td> 30 </td><td> 41 </td><td> 3.91 Mbp </td><td> 7 </td><td> 35.28 Mbp </td></tr><tr><td> 40 </td><td> 63 </td><td> 3.26 Mbp </td><td> 9 </td><td> 34.73 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 89 </td><td style="background-color:#88ff88;"> 2.77 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 33.89 Mbp </td></tr><tr><td> 60 </td><td> 121 </td><td> 2.20 Mbp </td><td> 14 </td><td> 31.52 Mbp </td></tr><tr><td> 70 </td><td> 162 </td><td> 1.65 Mbp </td><td> 16 </td><td> 29.68 Mbp </td></tr><tr><td> 80 </td><td> 217 </td><td> 1.19 Mbp </td><td> 19 </td><td> 28.85 Mbp </td></tr><tr><td> 90 </td><td> 304 </td><td> 0.62 Mbp </td><td> 22 </td><td> 25.03 Mbp </td></tr><tr><td> 100 </td><td> 526 </td><td> 194.00 Kbp </td><td> 67 </td><td> 315.03 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 10 </td><td> 6.12 Mbp </td><td> 3 </td><td> 36.89 Mbp </td></tr><tr><td> 20 </td><td> 25 </td><td> 4.56 Mbp </td><td> 5 </td><td> 36.05 Mbp </td></tr><tr><td> 30 </td><td> 43 </td><td> 3.89 Mbp </td><td> 7 </td><td> 35.47 Mbp </td></tr><tr><td> 40 </td><td> 66 </td><td> 3.22 Mbp </td><td> 9 </td><td> 34.73 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 92 </td><td style="background-color:#88ff88;"> 2.77 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 33.89 Mbp </td></tr><tr><td> 60 </td><td> 124 </td><td> 2.22 Mbp </td><td> 14 </td><td> 31.52 Mbp </td></tr><tr><td> 70 </td><td> 164 </td><td> 1.67 Mbp </td><td> 16 </td><td> 30.10 Mbp </td></tr><tr><td> 80 </td><td> 220 </td><td> 1.14 Mbp </td><td> 19 </td><td> 29.20 Mbp </td></tr><tr><td> 90 </td><td> 308 </td><td> 0.63 Mbp </td><td> 22 </td><td> 25.19 Mbp </td></tr><tr><td> 100 </td><td> 524 </td><td> 200.76 Kbp </td><td> 60 </td><td> 357.00 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.053x </th><th> 1112 </th><th> 0.82 Gbp </th><th> 583 </th><th> 0.82 Gbp </th></tr>
+  <tr><th> 1.055x </th><th> 1112 </th><th> 0.83 Gbp </th><th> 576 </th><th> 0.83 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-09-05
-hpb1filesize: 201.5 MiB
-hpb1length: '789280110'
+hpa1version: assembly_curated
+hpb1date: 2025-03-21
+hpb1filesize: 223.5 MiB
+hpb1length: '786794581'
 hpb1n50ctg: 2490898
 hpb1n50scf: 34565770
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Pagrus_pagrus/fPagPag1/assembly_cambridge/fPagPag1.hap2.asm.20240905.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Pagrus_pagrus/fPagPag1/assembly_curated/fPagPag1.hap2.cur.20250321.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 11 </td><td> 5.84 Mbp </td><td> 3 </td><td> 36.91 Mbp </td></tr><tr><td> 20 </td><td> 26 </td><td> 4.63 Mbp </td><td> 5 </td><td> 35.92 Mbp </td></tr><tr><td> 30 </td><td> 46 </td><td> 3.67 Mbp </td><td> 7 </td><td> 34.69 Mbp </td></tr><tr><td> 40 </td><td> 68 </td><td> 3.17 Mbp </td><td> 9 </td><td> 34.64 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 96 </td><td style="background-color:#88ff88;"> 2.49 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 34.57 Mbp </td></tr><tr><td> 60 </td><td> 130 </td><td> 2.13 Mbp </td><td> 14 </td><td> 31.64 Mbp </td></tr><tr><td> 70 </td><td> 173 </td><td> 1.61 Mbp </td><td> 16 </td><td> 30.10 Mbp </td></tr><tr><td> 80 </td><td> 230 </td><td> 1.14 Mbp </td><td> 19 </td><td> 28.90 Mbp </td></tr><tr><td> 90 </td><td> 321 </td><td> 0.61 Mbp </td><td> 22 </td><td> 25.37 Mbp </td></tr><tr><td> 100 </td><td> 610 </td><td> 77.77 Kbp </td><td> 92 </td><td> 112.07 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 10 </td><td> 7.01 Mbp </td><td> 3 </td><td> 36.84 Mbp </td></tr><tr><td> 20 </td><td> 24 </td><td> 4.74 Mbp </td><td> 5 </td><td> 35.79 Mbp </td></tr><tr><td> 30 </td><td> 43 </td><td> 3.74 Mbp </td><td> 7 </td><td> 34.69 Mbp </td></tr><tr><td> 40 </td><td> 66 </td><td> 3.21 Mbp </td><td> 9 </td><td> 34.64 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 93 </td><td style="background-color:#88ff88;"> 2.49 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 34.57 Mbp </td></tr><tr><td> 60 </td><td> 127 </td><td> 2.13 Mbp </td><td> 14 </td><td> 31.64 Mbp </td></tr><tr><td> 70 </td><td> 170 </td><td> 1.59 Mbp </td><td> 16 </td><td> 29.96 Mbp </td></tr><tr><td> 80 </td><td> 228 </td><td> 1.15 Mbp </td><td> 19 </td><td> 28.90 Mbp </td></tr><tr><td> 90 </td><td> 317 </td><td> 0.61 Mbp </td><td> 22 </td><td> 25.37 Mbp </td></tr><tr><td> 100 </td><td> 640 </td><td> 62.55 Kbp </td><td> 118 </td><td> 80.00 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.009x </th><th> 791 </th><th> 0.79 Gbp </th><th> 250 </th><th> 0.79 Gbp </th></tr>
+  <tr><th> 1.005x </th><th> 784 </th><th> 0.79 Gbp </th><th> 249 </th><th> 0.79 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1723302011
-last_updated: 1725533128
+last_updated: 1742518961
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fPagPag<br>&nbsp;&nbsp;name:&nbsp;Pagrus&nbsp;pagrus<br>&nbsp;&nbsp;taxon_id:&nbsp;8173<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;seabream<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Sparidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fPagPag1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110450108<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;782400000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-09-05
 mito1filesize: 5.1 KiB

@@ -8,8 +8,15 @@ data_arima-1_links: s3://genomeark/species/Columba_livia/bColLiv1/genomic_data/a
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Columba_livia/bColLiv1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Columba_livia/bColLiv1/genomic_data/arima/
 data_arima-1_scale: 1.8133
-data_arima_bases: 122.66 Gbp
-data_arima_bytes: 63.0 GiB
+data_arima-6_bases: 123.46 Gbp
+data_arima-6_bytes: 63.7 GiB
+data_arima-6_coverage: N/A
+data_arima-6_links: s3://genomeark/species/Columba_livia/bColLiv6/genomic_data/arima/<br>
+data_arima-6_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Columba_livia/bColLiv6/genomic_data/arima/
+data_arima-6_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Columba_livia/bColLiv6/genomic_data/arima/
+data_arima-6_scale: 1.8046
+data_arima_bases: 246.11 Gbp
+data_arima_bytes: 126.7 GiB
 data_arima_coverage: N/A
 data_illumina-2_bases: 52.19 Gbp
 data_illumina-2_bytes: 21.9 GiB
@@ -67,8 +74,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1722546531
-last_updated: 1722546531
+last_raw_data: 1743182917
+last_updated: 1743182917
 mat1date: 2024-02-06
 mat1filesize: 290.9 MiB
 mat1length: '1181506259'

@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-3_bases: 462.19 Gbp
 data_arima-3_bytes: 242.5 GiB
@@ -39,12 +39,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa5date: 2025-02-11
-hpa5filesize: 1.3 GiB
-hpa5length: '5478561011'
-hpa5n50ctg: 2466698
-hpa5n50scf: 66163416
-hpa5seq: https://s3.amazonaws.com/genomeark/species/Squalus_suckleyi/sSquSuc3/assembly_vgp_HiC_2.0/sSquSuc5.HiC.hap1.20250211.fasta.gz
+hpa5date: 2025-04-30
+hpa5filesize: 1.2 GiB
+hpa5length: '5298610218'
+hpa5n50ctg: 2459693
+hpa5n50scf: 141143133
+hpa5seq: https://s3.amazonaws.com/genomeark/species/Squalus_suckleyi/sSquSuc3/assembly_curated/sSquSuc5.hap1.cur.20250430.fasta.gz
 hpa5sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -62,14 +62,43 @@ hpa5sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 51 </td><td> 8.09 Mbp </td><td> 3 </td><td> 227.16 Mbp </td></tr><tr><td> 20 </td><td> 132 </td><td> 5.81 Mbp </td><td> 5 </td><td> 183.40 Mbp </td></tr><tr><td> 30 </td><td> 244 </td><td> 4.20 Mbp </td><td> 9 </td><td> 149.52 Mbp </td></tr><tr><td> 40 </td><td> 394 </td><td> 3.24 Mbp </td><td> 13 </td><td> 114.62 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 588 </td><td style="background-color:#88ff88;"> 2.47 Mbp </td><td> 19 </td><td style="background-color:#88ff88;"> 66.16 Mbp </td></tr><tr><td> 60 </td><td> 850 </td><td> 1.77 Mbp </td><td> 32 </td><td> 21.74 Mbp </td></tr><tr><td> 70 </td><td> 1226 </td><td> 1.21 Mbp </td><td> 97 </td><td> 6.06 Mbp </td></tr><tr><td> 80 </td><td> 1802 </td><td> 0.73 Mbp </td><td> 237 </td><td> 2.70 Mbp </td></tr><tr><td> 90 </td><td> 2859 </td><td> 352.45 Kbp </td><td> 566 </td><td> 1.03 Mbp </td></tr><tr><td> 100 </td><td> 7662 </td><td> 4.99 Kbp </td><td> 3555 </td><td> 4.99 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 46 </td><td> 8.58 Mbp </td><td> 2 </td><td> 247.49 Mbp </td></tr><tr><td> 20 </td><td> 123 </td><td> 5.86 Mbp </td><td> 5 </td><td> 201.92 Mbp </td></tr><tr><td> 30 </td><td> 228 </td><td> 4.31 Mbp </td><td> 8 </td><td> 174.55 Mbp </td></tr><tr><td> 40 </td><td> 372 </td><td> 3.28 Mbp </td><td> 11 </td><td> 164.42 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 558 </td><td style="background-color:#88ff88;"> 2.46 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 141.14 Mbp </td></tr><tr><td> 60 </td><td> 815 </td><td> 1.74 Mbp </td><td> 19 </td><td> 92.13 Mbp </td></tr><tr><td> 70 </td><td> 1186 </td><td> 1.17 Mbp </td><td> 25 </td><td> 67.83 Mbp </td></tr><tr><td> 80 </td><td> 1760 </td><td> 0.71 Mbp </td><td> 64 </td><td> 4.99 Mbp </td></tr><tr><td> 90 </td><td> 2814 </td><td> 344.02 Kbp </td><td> 330 </td><td> 1.05 Mbp </td></tr><tr><td> 100 </td><td> 7476 </td><td> 387  bp </td><td> 3203 </td><td> 5.49 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 7662 </th><th> 5.48 Gbp </th><th> 3555 </th><th> 5.48 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 7476 </th><th> 5.30 Gbp </th><th> 3203 </th><th> 5.30 Gbp </th></tr>
   </tfoot>
   </table>
-hpa5version: assembly_vgp_HiC_2.0
+hpa5version: assembly_curated
+hpb5date: 2025-04-30
+hpb5filesize: 1.1 GiB
+hpb5length: '4657981142'
+hpb5n50ctg: 2529731
+hpb5n50scf: 153064829
+hpb5seq: https://s3.amazonaws.com/genomeark/species/Squalus_suckleyi/sSquSuc3/assembly_curated/sSquSuc5.hap2.cur.20250430.fasta.gz
+hpb5sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 47 </td><td> 8.07 Mbp </td><td> 2 </td><td> 246.42 Mbp </td></tr><tr><td> 20 </td><td> 115 </td><td> 5.83 Mbp </td><td> 4 </td><td> 203.31 Mbp </td></tr><tr><td> 30 </td><td> 211 </td><td> 4.16 Mbp </td><td> 7 </td><td> 187.03 Mbp </td></tr><tr><td> 40 </td><td> 337 </td><td> 3.25 Mbp </td><td> 9 </td><td> 177.15 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 499 </td><td style="background-color:#88ff88;"> 2.53 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 153.06 Mbp </td></tr><tr><td> 60 </td><td> 720 </td><td> 1.76 Mbp </td><td> 15 </td><td> 128.91 Mbp </td></tr><tr><td> 70 </td><td> 1041 </td><td> 1.20 Mbp </td><td> 19 </td><td> 91.51 Mbp </td></tr><tr><td> 80 </td><td> 1529 </td><td> 0.74 Mbp </td><td> 25 </td><td> 70.82 Mbp </td></tr><tr><td> 90 </td><td> 2410 </td><td> 370.51 Kbp </td><td> 86 </td><td> 2.16 Mbp </td></tr><tr><td> 100 </td><td> 6006 </td><td> 717  bp </td><td> 1862 </td><td> 5.55 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 6006 </th><th> 4.66 Gbp </th><th> 1862 </th><th> 4.66 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb5version: assembly_curated
 last_raw_data: 1742314064
-last_updated: 1742314064
+last_updated: 1746107609
 name: Squalus suckleyi
 name_: Squalus_suckleyi
 project: ~

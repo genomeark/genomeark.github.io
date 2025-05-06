@@ -88,18 +88,18 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1698426542
-last_updated: 1742310293
+last_updated: 1743185644
 mds:
 - data: species:&nbsp;Lophostoma&nbsp;evotis&nbsp;<br>specimen:&nbsp;mLopEvo1&nbsp;<br>projects:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp&nbsp;<br>&nbsp;&nbsp;-&nbsp;bat1k&nbsp;<br>assembled_by_group:&nbsp;Rockefeller&nbsp;<br>data_location:&nbsp;S3&nbsp;<br>release_to:&nbsp;S3&nbsp;<br>primary:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/mLopEvo1.HiC.hap1.20231107.fasta.gz&nbsp;<br>haplotigs:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/mLopEvo1.HiC.hap2.20231107.fasta.gz&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mLopEvo1_hap1_s2.pretext&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mLopEvo1_hap2_s2.pretext&nbsp;<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/evaluation/merqury/mLopEvo1_png/&nbsp;<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/genomic_data/pacbio_hifi/&nbsp;<br>pacbio_read_type:&nbsp;hifi&nbsp;<br>hic_read_dir:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/genomic_data/dovetail/&nbsp;<br>pipeline:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)&nbsp;<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)&nbsp;<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mLopEvo1.&nbsp;This&nbsp;hap1&nbsp;assembly&nbsp;and&nbsp;hap2&nbsp;assembly&nbsp;underwent&nbsp;separate&nbsp;HiC&nbsp;scaffolding&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;HiC&nbsp;reaction&nbsp;was&nbsp;using&nbsp;Dovetail&nbsp;OmniC.&nbsp;<br>
-  ident: md5
+  ident: md6
   title: assembly_vgp_HiC_2.0/mLopEvo1.yml
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mLopEvo<br>&nbsp;&nbsp;name:&nbsp;Lophostoma&nbsp;evotis<br>&nbsp;&nbsp;taxon_id:&nbsp;574022<br>&nbsp;&nbsp;common_name:&nbsp;Davis'&nbsp;round-eared&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phyllostomidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mLopEvo1<br>&nbsp;&nbsp;genome_size:&nbsp;2454780000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
-mito1date: 2024-05-21
-mito1filesize: 571.8 MiB
-mito1length: '0'
+mito1date: 2025-03-28
+mito1filesize: 5.3 KiB
+mito1length: '16781'
 mito1n50ctg: 0
 mito1n50scf: 0
-mito1seq: https://s3.amazonaws.com/genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_MT_rockefeller/mLopEvo1.MT.20240521.fasta.gz
+mito1seq: https://s3.amazonaws.com/genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_MT_rockefeller/mLopEvo1.MT.20250328.fasta.gz
 mito1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -119,7 +119,7 @@ mito1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.000x </th><th> 0 </th><th>  </th><th> 0 </th><th>  </th></tr>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.78 Kbp </th><th> 1 </th><th> 16.78 Kbp </th></tr>
   </tfoot>
   </table>
 mito1version: assembly_MT_rockefeller

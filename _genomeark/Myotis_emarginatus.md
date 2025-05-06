@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2210280000
 genome_size_display: 2.21 Gbp
 genome_size_method: GoaT
-hpa1date: 2025-01-22
-hpa1filesize: 592.1 MiB
-hpa1length: '2109797427'
-hpa1n50ctg: 2046201
-hpa1n50scf: 96276321
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Myotis_emarginatus/mMyoEma1/assembly_curated/mMyoEma1.hap1.cur.20250122.fasta.gz
+hpa1date: 2025-04-09
+hpa1filesize: 592.3 MiB
+hpa1length: '2110538525'
+hpa1n50ctg: 35923534
+hpa1n50scf: 99609134
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Myotis_emarginatus/mMyoEma1/assembly_curated/mMyoEma1.hap1.cur.20250409.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 35 </td><td> 5.01 Mbp </td><td> 1 </td><td> 230.00 Mbp </td></tr><tr><td> 20 </td><td> 86 </td><td> 3.90 Mbp </td><td> 2 </td><td> 217.72 Mbp </td></tr><tr><td> 30 </td><td> 149 </td><td> 3.10 Mbp </td><td> 3 </td><td> 216.59 Mbp </td></tr><tr><td> 40 </td><td> 228 </td><td> 2.51 Mbp </td><td> 5 </td><td> 111.39 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 325 </td><td style="background-color:#88ff88;"> 2.05 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 96.28 Mbp </td></tr><tr><td> 60 </td><td> 448 </td><td> 1.61 Mbp </td><td> 10 </td><td> 81.91 Mbp </td></tr><tr><td> 70 </td><td> 604 </td><td> 1.25 Mbp </td><td> 13 </td><td> 70.00 Mbp </td></tr><tr><td> 80 </td><td> 820 </td><td> 0.83 Mbp </td><td> 16 </td><td> 58.49 Mbp </td></tr><tr><td> 90 </td><td> 1186 </td><td> 400.16 Kbp </td><td> 22 </td><td> 17.10 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 80.01 Mbp </td><td> 1 </td><td> 228.73 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 64.60 Mbp </td><td> 2 </td><td> 217.92 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 53.41 Mbp </td><td> 3 </td><td> 217.38 Mbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 51.23 Mbp </td><td> 5 </td><td> 116.24 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 19 </td><td style="background-color:#88ff88;"> 35.92 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 99.61 Mbp </td></tr><tr><td> 60 </td><td> 26 </td><td> 26.99 Mbp </td><td> 10 </td><td> 86.54 Mbp </td></tr><tr><td> 70 </td><td> 36 </td><td> 15.94 Mbp </td><td> 12 </td><td> 82.15 Mbp </td></tr><tr><td> 80 </td><td> 58 </td><td> 6.54 Mbp </td><td> 16 </td><td> 59.17 Mbp </td></tr><tr><td> 90 </td><td> 132 </td><td> 1.48 Mbp </td><td> 20 </td><td> 28.21 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.954x </th><th> 1942 </th><th> 2.11 Gbp </th><th> 402 </th><th> 2.11 Gbp </th></tr>
+  <tr><th> 0.955x </th><th> 532 </th><th> 2.11 Gbp </th><th> 306 </th><th> 2.11 Gbp </th></tr>
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2025-01-22
-hpb1filesize: 583.6 MiB
-hpb1length: '2081394546'
-hpb1n50ctg: 1958000
-hpb1n50scf: 91515689
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Myotis_emarginatus/mMyoEma1/assembly_curated/mMyoEma1.hap2.cur.20250122.fasta.gz
+hpb1date: 2025-04-09
+hpb1filesize: 585.2 MiB
+hpb1length: '2084877460'
+hpb1n50ctg: 33592670
+hpb1n50scf: 96526056
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Myotis_emarginatus/mMyoEma1/assembly_curated/mMyoEma1.hap2.cur.20250409.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 34 </td><td> 5.07 Mbp </td><td> 1 </td><td> 224.07 Mbp </td></tr><tr><td> 20 </td><td> 86 </td><td> 3.73 Mbp </td><td> 3 </td><td> 208.76 Mbp </td></tr><tr><td> 30 </td><td> 152 </td><td> 3.07 Mbp </td><td> 4 </td><td> 126.67 Mbp </td></tr><tr><td> 40 </td><td> 233 </td><td> 2.44 Mbp </td><td> 6 </td><td> 108.92 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 334 </td><td style="background-color:#88ff88;"> 1.96 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 91.52 Mbp </td></tr><tr><td> 60 </td><td> 462 </td><td> 1.53 Mbp </td><td> 10 </td><td> 81.05 Mbp </td></tr><tr><td> 70 </td><td> 628 </td><td> 1.16 Mbp </td><td> 13 </td><td> 68.55 Mbp </td></tr><tr><td> 80 </td><td> 867 </td><td> 0.75 Mbp </td><td> 17 </td><td> 52.20 Mbp </td></tr><tr><td> 90 </td><td> 1308 </td><td> 298.43 Kbp </td><td> 38 </td><td> 2.17 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 84.19 Mbp </td><td> 1 </td><td> 229.98 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 57.06 Mbp </td><td> 2 </td><td> 213.61 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 52.39 Mbp </td><td> 4 </td><td> 124.37 Mbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 46.34 Mbp </td><td> 5 </td><td> 115.11 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 33.59 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 96.53 Mbp </td></tr><tr><td> 60 </td><td> 28 </td><td> 25.52 Mbp </td><td> 10 </td><td> 80.90 Mbp </td></tr><tr><td> 70 </td><td> 38 </td><td> 18.59 Mbp </td><td> 13 </td><td> 67.51 Mbp </td></tr><tr><td> 80 </td><td> 64 </td><td> 4.02 Mbp </td><td> 16 </td><td> 55.74 Mbp </td></tr><tr><td> 90 </td><td> 181 </td><td> 0.77 Mbp </td><td> 26 </td><td> 2.84 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.942x </th><th> 2101 </th><th> 2.08 Gbp </th><th> 504 </th><th> 2.08 Gbp </th></tr>
+  <tr><th> 0.943x </th><th> 682 </th><th> 2.08 Gbp </th><th> 418 </th><th> 2.08 Gbp </th></tr>
   </tfoot>
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1729586576
-last_updated: 1737508225
+last_updated: 1744157020
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoEma<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;emarginatus<br>&nbsp;&nbsp;taxon_id:&nbsp;109480<br>&nbsp;&nbsp;common_name:&nbsp;Geoffroy's&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoEma1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA115534660<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;2210280000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-10-22
 mito1filesize: 5.2 KiB

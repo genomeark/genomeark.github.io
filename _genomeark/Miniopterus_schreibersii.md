@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Schreibers' long-fingered bat
 data_arima-1_bases: 206.24 Gbp
 data_arima-1_bytes: 57.1 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1887540000
 genome_size_display: 1.89 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-04-16
-hpa1filesize: 472.9 MiB
-hpa1length: '1845290240'
-hpa1n50ctg: 2275721
-hpa1n50scf: 86279620
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Miniopterus_schreibersii/mMinSch1/assembly_cambridge/mMinSch1.hap1.asm.20240416.fasta.gz
+hpa1date: 2025-04-02
+hpa1filesize: 525.0 MiB
+hpa1length: '1850590334'
+hpa1n50ctg: 27915129
+hpa1n50scf: 87795433
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Miniopterus_schreibersii/mMinSch1/assembly_curated/mMinSch1.hap1.cur.20250402.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 25 </td><td> 6.05 Mbp </td><td> 1 </td><td> 200.21 Mbp </td></tr><tr><td> 20 </td><td> 62 </td><td> 4.50 Mbp </td><td> 2 </td><td> 187.45 Mbp </td></tr><tr><td> 30 </td><td> 110 </td><td> 3.56 Mbp </td><td> 4 </td><td> 104.29 Mbp </td></tr><tr><td> 40 </td><td> 169 </td><td> 2.85 Mbp </td><td> 6 </td><td> 92.79 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 244 </td><td style="background-color:#88ff88;"> 2.28 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 86.28 Mbp </td></tr><tr><td> 60 </td><td> 338 </td><td> 1.80 Mbp </td><td> 11 </td><td> 83.00 Mbp </td></tr><tr><td> 70 </td><td> 455 </td><td> 1.40 Mbp </td><td> 13 </td><td> 73.06 Mbp </td></tr><tr><td> 80 </td><td> 616 </td><td> 0.96 Mbp </td><td> 16 </td><td> 53.96 Mbp </td></tr><tr><td> 90 </td><td> 867 </td><td> 0.54 Mbp </td><td> 20 </td><td> 40.25 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 62.30 Mbp </td><td> 1 </td><td> 202.31 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 46.24 Mbp </td><td> 2 </td><td> 187.81 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 39.88 Mbp </td><td> 4 </td><td> 105.36 Mbp </td></tr><tr><td> 40 </td><td> 16 </td><td> 34.66 Mbp </td><td> 6 </td><td> 92.84 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 22 </td><td style="background-color:#88ff88;"> 27.92 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 87.80 Mbp </td></tr><tr><td> 60 </td><td> 29 </td><td> 25.23 Mbp </td><td> 10 </td><td> 84.58 Mbp </td></tr><tr><td> 70 </td><td> 37 </td><td> 18.51 Mbp </td><td> 13 </td><td> 74.20 Mbp </td></tr><tr><td> 80 </td><td> 51 </td><td> 12.33 Mbp </td><td> 16 </td><td> 53.95 Mbp </td></tr><tr><td> 90 </td><td> 76 </td><td> 3.89 Mbp </td><td> 20 </td><td> 40.17 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.977x </th><th> 1713 </th><th> 1.85 Gbp </th><th> 487 </th><th> 1.85 Gbp </th></tr>
+  <tr><th> 0.980x </th><th> 326 </th><th> 1.85 Gbp </th><th> 186 </th><th> 1.85 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-04-16
-hpb1filesize: 441.7 MiB
-hpb1length: '1706338973'
-hpb1n50ctg: 2129069
-hpb1n50scf: 82940862
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Miniopterus_schreibersii/mMinSch1/assembly_cambridge/mMinSch1.hap2.asm.20240416.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2025-04-02
+hpb1filesize: 486.7 MiB
+hpb1length: '1699631453'
+hpb1n50ctg: 28061064
+hpb1n50scf: 86198890
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Miniopterus_schreibersii/mMinSch1/assembly_curated/mMinSch1.hap2.cur.20250402.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 24 </td><td> 6.29 Mbp </td><td> 1 </td><td> 199.56 Mbp </td></tr><tr><td> 20 </td><td> 61 </td><td> 4.49 Mbp </td><td> 2 </td><td> 186.32 Mbp </td></tr><tr><td> 30 </td><td> 111 </td><td> 3.38 Mbp </td><td> 4 </td><td> 96.44 Mbp </td></tr><tr><td> 40 </td><td> 173 </td><td> 2.70 Mbp </td><td> 6 </td><td> 91.54 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 252 </td><td style="background-color:#88ff88;"> 2.13 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 82.94 Mbp </td></tr><tr><td> 60 </td><td> 352 </td><td> 1.69 Mbp </td><td> 11 </td><td> 73.82 Mbp </td></tr><tr><td> 70 </td><td> 482 </td><td> 1.22 Mbp </td><td> 14 </td><td> 55.20 Mbp </td></tr><tr><td> 80 </td><td> 677 </td><td> 0.77 Mbp </td><td> 17 </td><td> 44.67 Mbp </td></tr><tr><td> 90 </td><td> 1209 </td><td> 84.48 Kbp </td><td> 105 </td><td> 122.00 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 58.14 Mbp </td><td> 1 </td><td> 202.71 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 52.48 Mbp </td><td> 2 </td><td> 188.03 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 42.97 Mbp </td><td> 4 </td><td> 96.71 Mbp </td></tr><tr><td> 40 </td><td> 15 </td><td> 35.22 Mbp </td><td> 6 </td><td> 90.60 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 21 </td><td style="background-color:#88ff88;"> 28.06 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 86.20 Mbp </td></tr><tr><td> 60 </td><td> 28 </td><td> 24.33 Mbp </td><td> 11 </td><td> 75.15 Mbp </td></tr><tr><td> 70 </td><td> 38 </td><td> 16.67 Mbp </td><td> 13 </td><td> 62.53 Mbp </td></tr><tr><td> 80 </td><td> 51 </td><td> 11.88 Mbp </td><td> 17 </td><td> 44.69 Mbp </td></tr><tr><td> 90 </td><td> 224 </td><td> 41.42 Kbp </td><td> 137 </td><td> 41.99 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.904x </th><th> 1355 </th><th> 1.71 Gbp </th><th> 233 </th><th> 1.71 Gbp </th></tr>
+  <tr><th> 0.900x </th><th> 254 </th><th> 1.70 Gbp </th><th> 168 </th><th> 1.70 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1713194047
-last_updated: 1737551975
+last_updated: 1743552098
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMinSch<br>&nbsp;&nbsp;name:&nbsp;Miniopterus&nbsp;schreibersii<br>&nbsp;&nbsp;taxon_id:&nbsp;9433<br>&nbsp;&nbsp;common_name:&nbsp;Schreibers'&nbsp;long-fingered&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMinSch1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113980738<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1887540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-04-16
 mito1filesize: 5.0 KiB

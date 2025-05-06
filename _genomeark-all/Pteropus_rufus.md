@@ -1,0 +1,1 @@
+../_genomeark/Pteropus_rufus.md

@@ -58,8 +58,66 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2288520000
 genome_size_display: 2.29 Gbp
 genome_size_method: GoaT
+hpa1date: 2025-04-08
+hpa1filesize: 557.4 MiB
+hpa1length: '1963626466'
+hpa1n50ctg: 44498000
+hpa1n50scf: 171733238
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Vespertilio_murinus/mVesMur1/assembly_curated/mVesMur1.hap1.cur.20250408.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 92.44 Mbp </td><td> 2 </td><td> 202.19 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 77.56 Mbp </td><td> 3 </td><td> 201.50 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 73.36 Mbp </td><td> 4 </td><td> 197.86 Mbp </td></tr><tr><td> 40 </td><td> 13 </td><td> 51.38 Mbp </td><td> 5 </td><td> 187.16 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 17 </td><td style="background-color:#88ff88;"> 44.50 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 171.73 Mbp </td></tr><tr><td> 60 </td><td> 24 </td><td> 26.37 Mbp </td><td> 8 </td><td> 86.92 Mbp </td></tr><tr><td> 70 </td><td> 38 </td><td> 9.69 Mbp </td><td> 12 </td><td> 56.10 Mbp </td></tr><tr><td> 80 </td><td> 83 </td><td> 2.40 Mbp </td><td> 16 </td><td> 41.70 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.858x </th><th> 457 </th><th> 1.96 Gbp </th><th> 268 </th><th> 1.96 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_curated
+hpb1date: 2025-04-08
+hpb1filesize: 529.6 MiB
+hpb1length: '1850577867'
+hpb1n50ctg: 31159000
+hpb1n50scf: 171377965
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Vespertilio_murinus/mVesMur1/assembly_curated/mVesMur1.hap2.cur.20250408.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 77.25 Mbp </td><td> 2 </td><td> 202.33 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 61.48 Mbp </td><td> 3 </td><td> 200.97 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 52.15 Mbp </td><td> 4 </td><td> 196.43 Mbp </td></tr><tr><td> 40 </td><td> 15 </td><td> 42.38 Mbp </td><td> 5 </td><td> 186.63 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 21 </td><td style="background-color:#88ff88;"> 31.16 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 171.38 Mbp </td></tr><tr><td> 60 </td><td> 30 </td><td> 21.51 Mbp </td><td> 9 </td><td> 73.92 Mbp </td></tr><tr><td> 70 </td><td> 47 </td><td> 8.38 Mbp </td><td> 13 </td><td> 50.06 Mbp </td></tr><tr><td> 80 </td><td> 188 </td><td> 258.93 Kbp </td><td> 75 </td><td> 326.10 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.809x </th><th> 395 </th><th> 1.85 Gbp </th><th> 267 </th><th> 1.85 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_curated
 last_raw_data: 1702992869
-last_updated: 1737550338
+last_updated: 1744073840
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mVesMur<br>&nbsp;&nbsp;name:&nbsp;Vespertilio&nbsp;murinus<br>&nbsp;&nbsp;taxon_id:&nbsp;59485<br>&nbsp;&nbsp;common_name:&nbsp;particolored&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mVesMur1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112247422<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;2288520000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-12-22
 mito1filesize: 5.2 KiB

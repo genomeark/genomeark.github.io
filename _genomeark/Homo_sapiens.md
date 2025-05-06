@@ -97,16 +97,16 @@ data_illumina-2_scale: 1.8935
 data_illumina_bases: 440.03 Gbp
 data_illumina_bytes: 216.3 GiB
 data_illumina_coverage: 137.51x
-data_ont:H9_bases: 117.32 Gbp
-data_ont:H9_bytes: 111.8 GiB
-data_ont:H9_coverage: 36.66x
+data_ont:H9_bases: 380.41 Gbp
+data_ont:H9_bytes: 349.2 GiB
+data_ont:H9_coverage: 118.88x
 data_ont:H9_links: s3://genomeark/species/Homo_sapiens/H9/genomic_data/ont/<br>
 data_ont:H9_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/H9/genomic_data/ont/
 data_ont:H9_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/H9/genomic_data/ont/
-data_ont:H9_scale: 0.9773
-data_ont_bases: 117.32 Gbp
-data_ont_bytes: 111.8 GiB
-data_ont_coverage: 36.66x
+data_ont:H9_scale: 1.0146
+data_ont_bases: 380.41 Gbp
+data_ont_bytes: 349.2 GiB
+data_ont_coverage: 118.88x
 data_pacbio-3_bases: 234.68 Gbp
 data_pacbio-3_bytes: 402.6 GiB
 data_pacbio-3_coverage: 73.34x
@@ -131,13 +131,13 @@ data_pacbiohifi_bam-2_links: s3://genomeark/species/Homo_sapiens/mHomSap2/genomi
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_scale: 1.2966
-data_pacbiohifi_bam-3_bases: 61.47 Gbp
-data_pacbiohifi_bam-3_bytes: 47.0 GiB
-data_pacbiohifi_bam-3_coverage: 19.21x
+data_pacbiohifi_bam-3_bases: 352.10 Gbp
+data_pacbiohifi_bam-3_bytes: 0.9 TiB
+data_pacbiohifi_bam-3_coverage: 110.03x
 data_pacbiohifi_bam-3_links: s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-3_scale: 1.2190
+data_pacbiohifi_bam-3_scale: 0.3372
 data_pacbiohifi_bam:H9_bases: 227.09 Gbp
 data_pacbiohifi_bam:H9_bytes: 743.4 GiB
 data_pacbiohifi_bam:H9_coverage: 70.97x
@@ -145,9 +145,16 @@ data_pacbiohifi_bam:H9_links: s3://genomeark/species/Homo_sapiens/H9/genomic_dat
 data_pacbiohifi_bam:H9_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/H9/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam:H9_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/H9/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam:H9_scale: 0.2845
-data_pacbiohifi_bam_bases: 429.60 Gbp
-data_pacbiohifi_bam_bytes: 892.1 GiB
-data_pacbiohifi_bam_coverage: 134.25x
+data_pacbiohifi_bam_bases: 720.23 Gbp
+data_pacbiohifi_bam_bytes: 1.8 TiB
+data_pacbiohifi_bam_coverage: 225.07x
+data_pacbiohifi_fqgz-3_bases: 287.35 Gbp
+data_pacbiohifi_fqgz-3_bytes: 136.2 GiB
+data_pacbiohifi_fqgz-3_coverage: 89.80x
+data_pacbiohifi_fqgz-3_links: s3://genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap3/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-3_scale: 1.9643
 data_pacbiohifi_fqgz:H9_bases: 220.35 Gbp
 data_pacbiohifi_fqgz:H9_bytes: 111.1 GiB
 data_pacbiohifi_fqgz:H9_coverage: 68.86x
@@ -155,9 +162,9 @@ data_pacbiohifi_fqgz:H9_links: s3://genomeark/species/Homo_sapiens/H9/genomic_da
 data_pacbiohifi_fqgz:H9_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/H9/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz:H9_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/H9/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz:H9_scale: 1.8472
-data_pacbiohifi_fqgz_bases: 220.35 Gbp
-data_pacbiohifi_fqgz_bytes: 111.1 GiB
-data_pacbiohifi_fqgz_coverage: 68.86x
+data_pacbiohifi_fqgz_bases: 507.70 Gbp
+data_pacbiohifi_fqgz_bytes: 247.3 GiB
+data_pacbiohifi_fqgz_coverage: 158.65x
 data_status: '<em style="color:forestgreen">PacBio CLR</em> ::: <em style="color:forestgreen">PacBio
   HiFi</em> ::: <em style="color:forestgreen">ONT Simplex</em> ::: <em style="color:forestgreen">10x</em>
   ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Illumina</em>'
@@ -170,8 +177,8 @@ genbank_pat: mHomSap3:GCA_016700455.2
 genome_size: 3200000000
 genome_size_display: 3.20 Gbp
 genome_size_method: ''
-last_raw_data: 1741099227
-last_updated: 1741719212
+last_raw_data: 1745987550
+last_updated: 1745988098
 mat3date: 2020-07-16
 mat3filesize: 826.5 MiB
 mat3length: '2902197670'

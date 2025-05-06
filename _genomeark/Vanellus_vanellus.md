@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1633260000
 genome_size_display: 1.63 Gbp
 genome_size_method: GoaT
-hpa1date: 2025-03-14
+hpa1date: 2025-03-26
 hpa1filesize: 391.9 MiB
 hpa1length: '1476623026'
 hpa1n50ctg: 1664195
 hpa1n50scf: 68895675
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Vanellus_vanellus/bVanVan1/assembly_curated/bVanVan1.hap1.cur.20250314.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Vanellus_vanellus/bVanVan1/assembly_curated/bVanVan1.hap1.cur.20250326.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -58,12 +58,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2025-03-14
+hpb1date: 2025-03-26
 hpb1filesize: 378.8 MiB
 hpb1length: '1339107340'
 hpb1n50ctg: 1739765
 hpb1n50scf: 71935164
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Vanellus_vanellus/bVanVan1/assembly_curated/bVanVan1.hap2.cur.20250314.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Vanellus_vanellus/bVanVan1/assembly_curated/bVanVan1.hap2.cur.20250326.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1709914941
-last_updated: 1741914121
+last_updated: 1742950889
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bVanVan<br>&nbsp;&nbsp;name:&nbsp;Vanellus&nbsp;vanellus<br>&nbsp;&nbsp;taxon_id:&nbsp;100859<br>&nbsp;&nbsp;common_name:&nbsp;Lapwing<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bVanVan1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113398832<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1633260000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-03-12
 mito1filesize: 5.4 KiB
