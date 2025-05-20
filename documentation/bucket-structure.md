@@ -285,8 +285,8 @@ Projects use one of the two structures below:
                   ├── {genome_id}.hap2.cur.YYYYMMDD.fasta.gz               Final curated assembly (haplotype 2)
                   ├── {genome_id}.hap2.cur.YYYYMMDD.pretext                Pretext map (haplotype 2)
                   └── intermediates/                                       Can contain files generated from draft assemblies to be used in curation
-                      ├── {genome_id}.HiC.combined.decontam.YYYYMMDD.fasta            Decontaminated fasta with combined haplotypes
-                      └── pretextmap/                                                 YYYYMMDD corresponds to date pretext map was generated
+                      ├── {genome_id}.HiC.combined.decontam.YYYYMMDD.fasta.gz            Decontaminated fasta with combined haplotypes
+                      └── pretextmap/                                                 YYYYMMDD should correspond with decontam file above
                       │   ├── {genome_id}.HiC.combined.decontam.YYYYMMDD.pretext                                Intermediate pretext map
                       │   ├── {genome_id}.HiC.combined.decontam.YYYYMMDD.pretext.{curation_date}.agp            Intermediate AGP file
                       │   └── {genome_id}.HiC.combined.decontam.YYYYMMDD.pretext.{curation_date}.savestate      Intermediate save state file  
