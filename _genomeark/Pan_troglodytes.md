@@ -138,16 +138,16 @@ data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Pan_troglodytes/mPanTro1/ge
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 1.1956
-data_pacbiohifi_fqgz-3_bases: 429.26 Gbp
-data_pacbiohifi_fqgz-3_bytes: 312.6 GiB
-data_pacbiohifi_fqgz-3_coverage: 118.79x
+data_pacbiohifi_fqgz-3_bases: 704.80 Gbp
+data_pacbiohifi_fqgz-3_bytes: 432.3 GiB
+data_pacbiohifi_fqgz-3_coverage: 195.03x
 data_pacbiohifi_fqgz-3_links: s3://genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-3_scale: 1.2788
-data_pacbiohifi_fqgz_bases: 658.46 Gbp
-data_pacbiohifi_fqgz_bytes: 491.2 GiB
-data_pacbiohifi_fqgz_coverage: 182.21x
+data_pacbiohifi_fqgz-3_scale: 1.5183
+data_pacbiohifi_fqgz_bases: 934.00 Gbp
+data_pacbiohifi_fqgz_bytes: 610.9 GiB
+data_pacbiohifi_fqgz_coverage: 258.46x
 data_pacbiohifi_q2fqgz-1_bases: 139.53 Gbp
 data_pacbiohifi_q2fqgz-1_bytes: 95.5 GiB
 data_pacbiohifi_q2fqgz-1_coverage: 38.61x
@@ -255,8 +255,8 @@ hpb3sizes: |
   </tfoot>
   </table>
 hpb3version: assembly_curated
-last_raw_data: 1702946292
-last_updated: 1740156649
+last_raw_data: 1747682537
+last_updated: 1747682537
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPanTro<br>&nbsp;&nbsp;name:&nbsp;Pan&nbsp;troglodytes<br>&nbsp;&nbsp;common_name:&nbsp;chimpanzee<br>&nbsp;&nbsp;taxon_id:&nbsp;9598<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hominidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mPanTro1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Clint<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Clint_PTR<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Clint_PTR_HFSS<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;S006007<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The&nbsp;'reference'&nbsp;genome&nbsp;chimp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yerkes&nbsp;chimp&nbsp;pedigree&nbsp;#C0471&nbsp;(Clint);<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Evan&nbsp;Eichler&nbsp;(University&nbsp;of&nbsp;Washington),&nbsp;Coriell<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mPanTro3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMN30216104<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;AG18354<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;AG18354_PTR<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;non-Clint<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Laura&nbsp;Carrel&nbsp;(The&nbsp;Pennsylvania&nbsp;State&nbsp;University),&nbsp;originally&nbsp;acquired&nbsp;from&nbsp;Coriell<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mPanTro4<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;PTR_8720-2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Ptr&nbsp;8720-2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;8720<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;University&nbsp;of&nbsp;Texas,&nbsp;MD&nbsp;Anderson&nbsp;Cancer&nbsp;Center,&nbsp;Michael&nbsp;E.&nbsp;Keeling&nbsp;Center&nbsp;for&nbsp;Comparative&nbsp;Medicine&nbsp;and&nbsp;Research<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;mPanTro4.testis1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;testis<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;SAMN31975257<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mPanTro5<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMN29543730<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;C8861<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;C8861_PTR<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Yoav&nbsp;Gilad&nbsp;(The&nbsp;University&nbsp;of&nbsp;Chicago)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;genome_size:&nbsp;3613710000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;Fuelgen&nbsp;Densitometry/Flow&nbsp;Cytometry<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp,&nbsp;t2t&nbsp;]<br>
 mito1date: 2020-06-25
 mito1filesize: 4.9 KiB

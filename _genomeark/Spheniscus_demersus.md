@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 175.16 Gbp
 data_arima-1_bytes: 94.4 GiB
@@ -39,12 +39,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2025-03-10
-hpa1filesize: 344.4 MiB
-hpa1length: '1310334408'
+hpa1date: 2025-05-06
+hpa1filesize: 372.6 MiB
+hpa1length: '1307516078'
 hpa1n50ctg: 18147389
-hpa1n50scf: 87974542
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Spheniscus_demersus/bSphDem1/assembly_vgp_HiC_2.0/bSphDem1.HiC.hap1.20250310.fasta.gz
+hpa1n50scf: 88319617
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Spheniscus_demersus/bSphDem1/assembly_curated/bSphDem1.hap1.cur.20250506.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -62,18 +62,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 43.20 Mbp </td><td> 1 </td><td> 227.36 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 33.83 Mbp </td><td> 2 </td><td> 172.71 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 25.68 Mbp </td><td> 2 </td><td> 172.71 Mbp </td></tr><tr><td> 40 </td><td> 16 </td><td> 21.46 Mbp </td><td> 3 </td><td> 131.90 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 23 </td><td style="background-color:#88ff88;"> 18.15 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 87.97 Mbp </td></tr><tr><td> 60 </td><td> 31 </td><td> 15.35 Mbp </td><td> 6 </td><td> 80.99 Mbp </td></tr><tr><td> 70 </td><td> 41 </td><td> 11.22 Mbp </td><td> 8 </td><td> 74.14 Mbp </td></tr><tr><td> 80 </td><td> 56 </td><td> 6.87 Mbp </td><td> 13 </td><td> 22.91 Mbp </td></tr><tr><td> 90 </td><td> 88 </td><td> 2.38 Mbp </td><td> 21 </td><td> 8.89 Mbp </td></tr><tr><td> 100 </td><td> 1157 </td><td> 12.37 Kbp </td><td> 989 </td><td> 12.37 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 43.20 Mbp </td><td> 1 </td><td> 227.36 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 33.83 Mbp </td><td> 2 </td><td> 173.64 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 25.68 Mbp </td><td> 2 </td><td> 173.64 Mbp </td></tr><tr><td> 40 </td><td> 16 </td><td> 21.46 Mbp </td><td> 3 </td><td> 132.21 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 23 </td><td style="background-color:#88ff88;"> 18.15 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 88.32 Mbp </td></tr><tr><td> 60 </td><td> 31 </td><td> 15.35 Mbp </td><td> 6 </td><td> 80.99 Mbp </td></tr><tr><td> 70 </td><td> 41 </td><td> 11.22 Mbp </td><td> 8 </td><td> 73.98 Mbp </td></tr><tr><td> 80 </td><td> 55 </td><td> 7.02 Mbp </td><td> 13 </td><td> 22.91 Mbp </td></tr><tr><td> 90 </td><td> 86 </td><td> 2.52 Mbp </td><td> 21 </td><td> 9.16 Mbp </td></tr><tr><td> 100 </td><td> 1129 </td><td> 12.37 Kbp </td><td> 928 </td><td> 12.37 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1157 </th><th> 1.31 Gbp </th><th> 989 </th><th> 1.31 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 1129 </th><th> 1.31 Gbp </th><th> 928 </th><th> 1.31 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2025-03-10
-hpb1filesize: 342.0 MiB
-hpb1length: '1271544219'
+hpa1version: assembly_curated
+hpb1date: 2025-05-06
+hpb1filesize: 342.4 MiB
+hpb1length: '1272415234'
 hpb1n50ctg: 20620943
-hpb1n50scf: 87819170
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Spheniscus_demersus/bSphDem1/assembly_vgp_HiC_2.0/bSphDem1.HiC.hap2.20250310.fasta.gz
+hpb1n50scf: 88190805
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Spheniscus_demersus/bSphDem1/assembly_curated/bSphDem1.hap2.cur.20250506.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -91,14 +91,43 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 45.36 Mbp </td><td> 1 </td><td> 227.48 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 39.40 Mbp </td><td> 2 </td><td> 172.77 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 27.56 Mbp </td><td> 2 </td><td> 172.77 Mbp </td></tr><tr><td> 40 </td><td> 15 </td><td> 25.21 Mbp </td><td> 3 </td><td> 132.20 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 20.62 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 87.82 Mbp </td></tr><tr><td> 60 </td><td> 27 </td><td> 16.28 Mbp </td><td> 6 </td><td> 80.94 Mbp </td></tr><tr><td> 70 </td><td> 37 </td><td> 12.37 Mbp </td><td> 8 </td><td> 74.11 Mbp </td></tr><tr><td> 80 </td><td> 49 </td><td> 7.91 Mbp </td><td> 12 </td><td> 24.45 Mbp </td></tr><tr><td> 90 </td><td> 72 </td><td> 3.55 Mbp </td><td> 18 </td><td> 13.66 Mbp </td></tr><tr><td> 100 </td><td> 463 </td><td> 11.34 Kbp </td><td> 298 </td><td> 11.34 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 45.36 Mbp </td><td> 1 </td><td> 227.48 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 39.37 Mbp </td><td> 2 </td><td> 173.68 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 27.56 Mbp </td><td> 2 </td><td> 173.68 Mbp </td></tr><tr><td> 40 </td><td> 15 </td><td> 25.21 Mbp </td><td> 3 </td><td> 133.25 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 20.62 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 88.19 Mbp </td></tr><tr><td> 60 </td><td> 27 </td><td> 16.28 Mbp </td><td> 6 </td><td> 80.94 Mbp </td></tr><tr><td> 70 </td><td> 37 </td><td> 12.37 Mbp </td><td> 8 </td><td> 73.95 Mbp </td></tr><tr><td> 80 </td><td> 49 </td><td> 7.86 Mbp </td><td> 11 </td><td> 25.19 Mbp </td></tr><tr><td> 90 </td><td> 73 </td><td> 3.41 Mbp </td><td> 18 </td><td> 13.66 Mbp </td></tr><tr><td> 100 </td><td> 469 </td><td> 11.34 Kbp </td><td> 270 </td><td> 11.34 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 463 </th><th> 1.27 Gbp </th><th> 298 </th><th> 1.27 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 469 </th><th> 1.27 Gbp </th><th> 270 </th><th> 1.27 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1740674353
-last_updated: 1741739050
+last_updated: 1748613158
+mito1date: 2025-05-06
+mito1filesize: 5.4 KiB
+mito1length: '17380'
+mito1n50ctg: 17380
+mito1n50scf: 17380
+mito1seq: https://s3.amazonaws.com/genomeark/species/Spheniscus_demersus/bSphDem1/assembly_MT_rockefeller/bSphDem1.MT.20250506.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 17.38 Kbp </td><td> 1 </td><td> 17.38 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 17.38 Kbp </td><td> 1 </td><td> 17.38 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 17.38 Kbp </td><td> 1 </td><td> 17.38 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 17.38 Kbp </td><td> 1 </td><td> 17.38 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 17.38 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 17.38 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 17.38 Kbp </td><td> 1 </td><td> 17.38 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 17.38 Kbp </td><td> 1 </td><td> 17.38 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 17.38 Kbp </td><td> 1 </td><td> 17.38 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 17.38 Kbp </td><td> 1 </td><td> 17.38 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 17.38 Kbp </td><td> 1 </td><td> 17.38 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 17.38 Kbp </th><th> 1 </th><th> 17.38 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Spheniscus demersus
 name_: Spheniscus_demersus
 project: ~

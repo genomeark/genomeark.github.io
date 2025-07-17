@@ -1,15 +1,15 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
-data_arima-3_bases: 462.19 Gbp
-data_arima-3_bytes: 242.5 GiB
+data_arima-3_bases: 937.93 Gbp
+data_arima-3_bytes: 464.7 GiB
 data_arima-3_coverage: N/A
 data_arima-3_links: s3://genomeark/species/Squalus_suckleyi/sSquSuc3/genomic_data/arima/<br>
 data_arima-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Squalus_suckleyi/sSquSuc3/genomic_data/arima/
 data_arima-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Squalus_suckleyi/sSquSuc3/genomic_data/arima/
-data_arima-3_scale: 1.7753
-data_arima_bases: 462.19 Gbp
-data_arima_bytes: 242.5 GiB
+data_arima-3_scale: 1.8799
+data_arima_bases: 937.93 Gbp
+data_arima_bytes: 464.7 GiB
 data_arima_coverage: N/A
 data_pacbiohifi_bam-3_bases: 219.43 Gbp
 data_pacbiohifi_bam-3_bytes: 713.8 GiB
@@ -39,13 +39,13 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa5date: 2025-04-30
-hpa5filesize: 1.2 GiB
-hpa5length: '5298610218'
-hpa5n50ctg: 2459693
-hpa5n50scf: 141143133
-hpa5seq: https://s3.amazonaws.com/genomeark/species/Squalus_suckleyi/sSquSuc3/assembly_curated/sSquSuc5.hap1.cur.20250430.fasta.gz
-hpa5sizes: |
+hpa3date: 2025-05-06
+hpa3filesize: 1.2 GiB
+hpa3length: '5298610218'
+hpa3n50ctg: 2459693
+hpa3n50scf: 141143133
+hpa3seq: https://s3.amazonaws.com/genomeark/species/Squalus_suckleyi/sSquSuc3/assembly_curated/sSquSuc3.hap1.cur.20250506.fasta.gz
+hpa3sizes: |
   <table class="sequence-sizes-table">
   <thead>
   <tr>
@@ -62,19 +62,19 @@ hpa5sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 46 </td><td> 8.58 Mbp </td><td> 2 </td><td> 247.49 Mbp </td></tr><tr><td> 20 </td><td> 123 </td><td> 5.86 Mbp </td><td> 5 </td><td> 201.92 Mbp </td></tr><tr><td> 30 </td><td> 228 </td><td> 4.31 Mbp </td><td> 8 </td><td> 174.55 Mbp </td></tr><tr><td> 40 </td><td> 372 </td><td> 3.28 Mbp </td><td> 11 </td><td> 164.42 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 558 </td><td style="background-color:#88ff88;"> 2.46 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 141.14 Mbp </td></tr><tr><td> 60 </td><td> 815 </td><td> 1.74 Mbp </td><td> 19 </td><td> 92.13 Mbp </td></tr><tr><td> 70 </td><td> 1186 </td><td> 1.17 Mbp </td><td> 25 </td><td> 67.83 Mbp </td></tr><tr><td> 80 </td><td> 1760 </td><td> 0.71 Mbp </td><td> 64 </td><td> 4.99 Mbp </td></tr><tr><td> 90 </td><td> 2814 </td><td> 344.02 Kbp </td><td> 330 </td><td> 1.05 Mbp </td></tr><tr><td> 100 </td><td> 7476 </td><td> 387  bp </td><td> 3203 </td><td> 5.49 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 46 </td><td> 8.58 Mbp </td><td> 2 </td><td> 247.49 Mbp </td></tr><tr><td> 20 </td><td> 123 </td><td> 5.86 Mbp </td><td> 5 </td><td> 201.92 Mbp </td></tr><tr><td> 30 </td><td> 228 </td><td> 4.31 Mbp </td><td> 8 </td><td> 174.55 Mbp </td></tr><tr><td> 40 </td><td> 372 </td><td> 3.28 Mbp </td><td> 11 </td><td> 164.42 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 558 </td><td style="background-color:#88ff88;"> 2.46 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 141.14 Mbp </td></tr><tr><td> 60 </td><td> 815 </td><td> 1.74 Mbp </td><td> 19 </td><td> 92.13 Mbp </td></tr><tr><td> 70 </td><td> 1187 </td><td> 1.17 Mbp </td><td> 25 </td><td> 67.83 Mbp </td></tr><tr><td> 80 </td><td> 1761 </td><td> 0.71 Mbp </td><td> 64 </td><td> 4.99 Mbp </td></tr><tr><td> 90 </td><td> 2815 </td><td> 344.02 Kbp </td><td> 330 </td><td> 1.05 Mbp </td></tr><tr><td> 100 </td><td> 7478 </td><td> 1  bp </td><td> 3203 </td><td> 5.49 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 7476 </th><th> 5.30 Gbp </th><th> 3203 </th><th> 5.30 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 7478 </th><th> 5.30 Gbp </th><th> 3203 </th><th> 5.30 Gbp </th></tr>
   </tfoot>
   </table>
-hpa5version: assembly_curated
-hpb5date: 2025-04-30
-hpb5filesize: 1.1 GiB
-hpb5length: '4657981142'
-hpb5n50ctg: 2529731
-hpb5n50scf: 153064829
-hpb5seq: https://s3.amazonaws.com/genomeark/species/Squalus_suckleyi/sSquSuc3/assembly_curated/sSquSuc5.hap2.cur.20250430.fasta.gz
-hpb5sizes: |
+hpa3version: assembly_curated
+hpb3date: 2025-04-30
+hpb3filesize: 1.1 GiB
+hpb3length: '4657981142'
+hpb3n50ctg: 2529731
+hpb3n50scf: 153064829
+hpb3seq: https://s3.amazonaws.com/genomeark/species/Squalus_suckleyi/sSquSuc3/assembly_curated/sSquSuc3.hap2.cur.20250430.fasta.gz
+hpb3sizes: |
   <table class="sequence-sizes-table">
   <thead>
   <tr>
@@ -96,9 +96,9 @@ hpb5sizes: |
   <tr><th> 1.000x </th><th> 6006 </th><th> 4.66 Gbp </th><th> 1862 </th><th> 4.66 Gbp </th></tr>
   </tfoot>
   </table>
-hpb5version: assembly_curated
-last_raw_data: 1742314064
-last_updated: 1746107609
+hpb3version: assembly_curated
+last_raw_data: 1747248002
+last_updated: 1748378711
 name: Squalus suckleyi
 name_: Squalus_suckleyi
 project: ~

@@ -11,6 +11,16 @@ data_dovetail-1_scale: 1.6179
 data_dovetail_bases: 188.57 Gbp
 data_dovetail_bytes: 108.5 GiB
 data_dovetail_coverage: 76.82x
+data_pacbiohifi_bam-1_bases: 104.52 Gbp
+data_pacbiohifi_bam-1_bytes: 362.8 GiB
+data_pacbiohifi_bam-1_coverage: 42.58x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Lophostoma_evotis/mLopEvo1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lophostoma_evotis/mLopEvo1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lophostoma_evotis/mLopEvo1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2683
+data_pacbiohifi_bam_bases: 104.52 Gbp
+data_pacbiohifi_bam_bytes: 362.8 GiB
+data_pacbiohifi_bam_coverage: 42.58x
 data_pacbiohifi_fqgz-1_bases: 105.59 Gbp
 data_pacbiohifi_fqgz-1_bytes: 83.4 GiB
 data_pacbiohifi_fqgz-1_coverage: 43.01x
@@ -87,8 +97,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1698426542
-last_updated: 1743185644
+last_raw_data: 1750181054
+last_updated: 1750181054
 mds:
 - data: species:&nbsp;Lophostoma&nbsp;evotis&nbsp;<br>specimen:&nbsp;mLopEvo1&nbsp;<br>projects:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp&nbsp;<br>&nbsp;&nbsp;-&nbsp;bat1k&nbsp;<br>assembled_by_group:&nbsp;Rockefeller&nbsp;<br>data_location:&nbsp;S3&nbsp;<br>release_to:&nbsp;S3&nbsp;<br>primary:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/mLopEvo1.HiC.hap1.20231107.fasta.gz&nbsp;<br>haplotigs:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/mLopEvo1.HiC.hap2.20231107.fasta.gz&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mLopEvo1_hap1_s2.pretext&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mLopEvo1_hap2_s2.pretext&nbsp;<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/assembly_vgp_HiC_2.0/evaluation/merqury/mLopEvo1_png/&nbsp;<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/genomic_data/pacbio_hifi/&nbsp;<br>pacbio_read_type:&nbsp;hifi&nbsp;<br>hic_read_dir:&nbsp;s3://genomeark/species/Lophostoma_evotis/mLopEvo1/genomic_data/dovetail/&nbsp;<br>pipeline:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)&nbsp;<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)&nbsp;<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mLopEvo1.&nbsp;This&nbsp;hap1&nbsp;assembly&nbsp;and&nbsp;hap2&nbsp;assembly&nbsp;underwent&nbsp;separate&nbsp;HiC&nbsp;scaffolding&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;HiC&nbsp;reaction&nbsp;was&nbsp;using&nbsp;Dovetail&nbsp;OmniC.&nbsp;<br>
   ident: md6

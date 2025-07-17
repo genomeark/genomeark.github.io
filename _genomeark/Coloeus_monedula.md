@@ -18,9 +18,26 @@ data_pacbiohifi_bam-1_links: s3://genomeark/species/Coloeus_monedula/bColMon1/ge
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Coloeus_monedula/bColMon1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Coloeus_monedula/bColMon1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 3.1704
-data_pacbiohifi_bam_bases: 83.55 Gbp
-data_pacbiohifi_bam_bytes: 24.5 GiB
-data_pacbiohifi_bam_coverage: 68.34x
+data_pacbiohifi_bam-2_bases: 101.93 Gbp
+data_pacbiohifi_bam-2_bytes: 331.3 GiB
+data_pacbiohifi_bam-2_coverage: 83.38x
+data_pacbiohifi_bam-2_links: s3://genomeark/species/Coloeus_monedula/bColMon2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Coloeus_monedula/bColMon2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Coloeus_monedula/bColMon2/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-2_scale: 0.2865
+data_pacbiohifi_bam_bases: 185.48 Gbp
+data_pacbiohifi_bam_bytes: 355.9 GiB
+data_pacbiohifi_bam_coverage: 151.72x
+data_pacbiohifi_fqgz-2_bases: 99.25 Gbp
+data_pacbiohifi_fqgz-2_bytes: 46.4 GiB
+data_pacbiohifi_fqgz-2_coverage: 81.18x
+data_pacbiohifi_fqgz-2_links: s3://genomeark/species/Coloeus_monedula/bColMon2/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Coloeus_monedula/bColMon2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Coloeus_monedula/bColMon2/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-2_scale: 1.9927
+data_pacbiohifi_fqgz_bases: 99.25 Gbp
+data_pacbiohifi_fqgz_bytes: 46.4 GiB
+data_pacbiohifi_fqgz_coverage: 81.18x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -87,8 +104,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1721499893
-last_updated: 1740618206
+last_raw_data: 1750785238
+last_updated: 1750785238
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bColMon<br>&nbsp;&nbsp;name:&nbsp;Coloeus&nbsp;monedula<br>&nbsp;&nbsp;taxon_id:&nbsp;30423<br>&nbsp;&nbsp;common_name:&nbsp;<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Corvidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bColMon1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA115433023<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1222500000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-07-22
 mito1filesize: 5.3 KiB

@@ -80,16 +80,16 @@ data_pacbiohifi_clr-2_scale: 0.4969
 data_pacbiohifi_clr_bases: 3481.77 Gbp
 data_pacbiohifi_clr_bytes: 6.4 TiB
 data_pacbiohifi_clr_coverage: 972.70x
-data_pacbiohifi_fqgz-2_bases: 384.41 Gbp
-data_pacbiohifi_fqgz-2_bytes: 320.0 GiB
-data_pacbiohifi_fqgz-2_coverage: 107.39x
+data_pacbiohifi_fqgz-2_bases: 648.11 Gbp
+data_pacbiohifi_fqgz-2_bytes: 438.8 GiB
+data_pacbiohifi_fqgz-2_coverage: 181.06x
 data_pacbiohifi_fqgz-2_links: s3://genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-2_scale: 1.1187
-data_pacbiohifi_fqgz_bases: 384.41 Gbp
-data_pacbiohifi_fqgz_bytes: 320.0 GiB
-data_pacbiohifi_fqgz_coverage: 107.39x
+data_pacbiohifi_fqgz-2_scale: 1.3757
+data_pacbiohifi_fqgz_bases: 648.11 Gbp
+data_pacbiohifi_fqgz_bytes: 438.8 GiB
+data_pacbiohifi_fqgz_coverage: 181.06x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
   Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 data_use_source: from-default
@@ -186,8 +186,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_curated
-last_raw_data: 1698557990
-last_updated: 1711738894
+last_raw_data: 1747689917
+last_updated: 1747689917
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPonPyg<br>&nbsp;&nbsp;name:&nbsp;Pongo&nbsp;pygmaeus<br>&nbsp;&nbsp;common_name:&nbsp;Bornean&nbsp;orangutan<br>&nbsp;&nbsp;taxon_id:&nbsp;9600<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hominidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mPonPyg2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMN10521809<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;AG05252<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;AG05252_PPY<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Coriell<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mPonPyg3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pongo&nbsp;pygmaeus&nbsp;pygmaeus<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common_name:&nbsp;Northwest&nbsp;Bornean&nbsp;orangutan<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taxon_id:&nbsp;9602<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;PPY_3405<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Ppypy&nbsp;3405<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;3405<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Oliver&nbsp;Ryder&nbsp;(San&nbsp;Diego&nbsp;Zoo&nbsp;Wildlife&nbsp;Alliance)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;mPonPyg3.testis1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;testis<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;SAMN13178639<br>&nbsp;&nbsp;genome_size:&nbsp;3579480000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;Fuelgen&nbsp;Densitometry/Flow&nbsp;Cytometry<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>
 mito2date: 2023-11-22
 mito2filesize: 5.3 KiB

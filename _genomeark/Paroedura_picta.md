@@ -8,8 +8,15 @@ data_arima-1_links: s3://genomeark/species/Paroedura_picta/rParPic1/genomic_data
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Paroedura_picta/rParPic1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Paroedura_picta/rParPic1/genomic_data/arima/
 data_arima-1_scale: 1.7095
-data_arima_bases: 180.47 Gbp
-data_arima_bytes: 98.3 GiB
+data_arima-3_bases: 229.33 Gbp
+data_arima-3_bytes: 120.2 GiB
+data_arima-3_coverage: N/A
+data_arima-3_links: s3://genomeark/species/Paroedura_picta/rParPic3/genomic_data/arima/<br>
+data_arima-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Paroedura_picta/rParPic3/genomic_data/arima/
+data_arima-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Paroedura_picta/rParPic3/genomic_data/arima/
+data_arima-3_scale: 1.7763
+data_arima_bases: 409.79 Gbp
+data_arima_bytes: 218.6 GiB
 data_arima_coverage: N/A
 data_pacbiohifi_bam-3_bases: 148.18 Gbp
 data_pacbiohifi_bam-3_bytes: 488.5 GiB
@@ -39,8 +46,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1741622740
-last_updated: 1741622744
+last_raw_data: 1750783741
+last_updated: 1750783741
 name: Paroedura picta
 name_: Paroedura_picta
 project: ~

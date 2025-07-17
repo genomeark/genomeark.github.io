@@ -40,6 +40,13 @@ data_dovetail-1_scale: 1.8479
 data_dovetail_bases: 107.48 Gbp
 data_dovetail_bytes: 54.2 GiB
 data_dovetail_coverage: 29.74x
+data_illumina-1_bases: 158.70 Gbp
+data_illumina-1_bytes: 111.7 GiB
+data_illumina-1_coverage: 43.92x
+data_illumina-1_links: s3://genomeark/species/Pan_paniscus/mPanPan1/genomic_data/illumina/<br>
+data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/illumina/
+data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_paniscus/mPanPan1/genomic_data/illumina/
+data_illumina-1_scale: 1.3233
 data_illumina-2_bases: 237.05 Gbp
 data_illumina-2_bytes: 114.2 GiB
 data_illumina-2_coverage: 65.60x
@@ -54,9 +61,9 @@ data_illumina-3_links: s3://genomeark/species/Pan_paniscus/mPanPan3/genomic_data
 data_illumina-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_paniscus/mPanPan3/genomic_data/illumina/
 data_illumina-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_paniscus/mPanPan3/genomic_data/illumina/
 data_illumina-3_scale: 1.8781
-data_illumina_bases: 421.31 Gbp
-data_illumina_bytes: 205.6 GiB
-data_illumina_coverage: 116.59x
+data_illumina_bases: 580.01 Gbp
+data_illumina_bytes: 317.3 GiB
+data_illumina_coverage: 160.50x
 data_ont-1_bases: 1131.97 Gbp
 data_ont-1_bytes: 867.3 GiB
 data_ont-1_coverage: 313.24x
@@ -87,16 +94,16 @@ data_pacbiohifi_clr-1_scale: 0.5111
 data_pacbiohifi_clr_bases: 3894.81 Gbp
 data_pacbiohifi_clr_bytes: 6.9 TiB
 data_pacbiohifi_clr_coverage: 1077.79x
-data_pacbiohifi_fqgz-1_bases: 653.92 Gbp
-data_pacbiohifi_fqgz-1_bytes: 493.9 GiB
-data_pacbiohifi_fqgz-1_coverage: 180.95x
+data_pacbiohifi_fqgz-1_bases: 771.09 Gbp
+data_pacbiohifi_fqgz-1_bytes: 612.8 GiB
+data_pacbiohifi_fqgz-1_coverage: 213.38x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 1.2331
-data_pacbiohifi_fqgz_bases: 653.92 Gbp
-data_pacbiohifi_fqgz_bytes: 493.9 GiB
-data_pacbiohifi_fqgz_coverage: 180.95x
+data_pacbiohifi_fqgz-1_scale: 1.1719
+data_pacbiohifi_fqgz_bases: 771.09 Gbp
+data_pacbiohifi_fqgz_bytes: 612.8 GiB
+data_pacbiohifi_fqgz_coverage: 213.38x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
   Simplex</em> ::: <em style="color:forestgreen">Dovetail</em> ::: <em style="color:forestgreen">Illumina</em>'
 data_use_source: from-default
@@ -135,8 +142,8 @@ dip1version: assembly_curated
 genome_size: 3613710000
 genome_size_display: 3.61 Gbp
 genome_size_method: GoaT ancestral inferred
-last_raw_data: 1698452288
-last_updated: 1740152618
+last_raw_data: 1747687152
+last_updated: 1747687152
 mat1date: 2023-11-22
 mat1filesize: 886.4 MiB
 mat1length: '3210032406'

@@ -8,8 +8,15 @@ data_arima-1_links: s3://genomeark/species/Fejervarya_limnocharis/aFejLim1/genom
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Fejervarya_limnocharis/aFejLim1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Fejervarya_limnocharis/aFejLim1/genomic_data/arima/
 data_arima-1_scale: 1.7603
-data_arima_bases: 313.76 Gbp
-data_arima_bytes: 166.0 GiB
+data_arima-2_bases: 348.61 Gbp
+data_arima-2_bytes: 183.2 GiB
+data_arima-2_coverage: N/A
+data_arima-2_links: s3://genomeark/species/Fejervarya_limnocharis/aFejLim2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Fejervarya_limnocharis/aFejLim2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Fejervarya_limnocharis/aFejLim2/genomic_data/arima/
+data_arima-2_scale: 1.7722
+data_arima_bases: 662.36 Gbp
+data_arima_bytes: 349.2 GiB
 data_arima_coverage: N/A
 data_pacbiohifi_bam-2_bases: 233.35 Gbp
 data_pacbiohifi_bam-2_bytes: 757.2 GiB
@@ -39,8 +46,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1746124120
-last_updated: 1746128593
+last_raw_data: 1750780167
+last_updated: 1750780167
 name: Fejervarya limnocharis
 name_: Fejervarya_limnocharis
 project: ~

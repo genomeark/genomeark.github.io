@@ -8,15 +8,15 @@ data_arima-1_links: s3://genomeark/species/Patagioenas_fasciata/bPatFas1/genomic
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Patagioenas_fasciata/bPatFas1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Patagioenas_fasciata/bPatFas1/genomic_data/arima/
 data_arima-1_scale: 1.7694
-data_arima-27_bases: 43.27 Gbp
-data_arima-27_bytes: 22.9 GiB
+data_arima-27_bases: 437.29 Gbp
+data_arima-27_bytes: 229.9 GiB
 data_arima-27_coverage: N/A
 data_arima-27_links: s3://genomeark/species/Patagioenas_fasciata/bPatFas27/genomic_data/arima/<br>
 data_arima-27_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Patagioenas_fasciata/bPatFas27/genomic_data/arima/
 data_arima-27_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Patagioenas_fasciata/bPatFas27/genomic_data/arima/
-data_arima-27_scale: 1.7618
-data_arima_bases: 110.33 Gbp
-data_arima_bytes: 58.2 GiB
+data_arima-27_scale: 1.7711
+data_arima_bases: 504.36 Gbp
+data_arima_bytes: 265.2 GiB
 data_arima_coverage: N/A
 data_ont-1_bases: 152.69 Gbp
 data_ont-1_bytes: 139.9 GiB
@@ -35,8 +35,15 @@ data_pacbiohifi_bam-1_links: s3://genomeark/species/Patagioenas_fasciata/bPatFas
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Patagioenas_fasciata/bPatFas1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Patagioenas_fasciata/bPatFas1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 0.2642
-data_pacbiohifi_bam_bases: 246.54 Gbp
-data_pacbiohifi_bam_bytes: 869.1 GiB
+data_pacbiohifi_bam-27_bases: 123.35 Gbp
+data_pacbiohifi_bam-27_bytes: 397.7 GiB
+data_pacbiohifi_bam-27_coverage: N/A
+data_pacbiohifi_bam-27_links: s3://genomeark/species/Patagioenas_fasciata/bPatFas27/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-27_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Patagioenas_fasciata/bPatFas27/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-27_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Patagioenas_fasciata/bPatFas27/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-27_scale: 0.2889
+data_pacbiohifi_bam_bases: 369.89 Gbp
+data_pacbiohifi_bam_bytes: 1.2 TiB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_clr-1_bases: 1453.52 Gbp
 data_pacbiohifi_clr-1_bytes: 2.5 TiB
@@ -55,8 +62,15 @@ data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Patagioenas_fasciata/bPatFa
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Patagioenas_fasciata/bPatFas1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Patagioenas_fasciata/bPatFas1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 1.1243
-data_pacbiohifi_fqgz_bases: 79.48 Gbp
-data_pacbiohifi_fqgz_bytes: 65.8 GiB
+data_pacbiohifi_fqgz-27_bases: 118.82 Gbp
+data_pacbiohifi_fqgz-27_bytes: 52.6 GiB
+data_pacbiohifi_fqgz-27_coverage: N/A
+data_pacbiohifi_fqgz-27_links: s3://genomeark/species/Patagioenas_fasciata/bPatFas27/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-27_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Patagioenas_fasciata/bPatFas27/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-27_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Patagioenas_fasciata/bPatFas27/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-27_scale: 2.1021
+data_pacbiohifi_fqgz_bases: 198.30 Gbp
+data_pacbiohifi_fqgz_bytes: 118.5 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
   Simplex</em> ::: <em style="color:forestgreen">Arima</em>'
@@ -125,8 +139,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1745270533
-last_updated: 1745270533
+last_raw_data: 1749589413
+last_updated: 1749589413
 mito1date: 2024-12-03
 mito1filesize: 5.4 KiB
 mito1length: '17021'

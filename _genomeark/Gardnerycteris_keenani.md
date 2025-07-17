@@ -39,12 +39,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2141820000
 genome_size_display: 2.14 Gbp
 genome_size_method: GoaT
-hpa1date: 2025-04-18
-hpa1filesize: 634.4 MiB
-hpa1length: '2207250088'
+hpa1date: 2025-05-27
+hpa1filesize: 587.8 MiB
+hpa1length: '2206569125'
 hpa1n50ctg: 58795598
 hpa1n50scf: 171193413
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Gardnerycteris_keenani/mGarKee1/assembly_curated/mGarKee1.hap1.cur.20250418.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Gardnerycteris_keenani/mGarKee1/assembly_curated/mGarKee1.hap1.cur.20250527.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -64,7 +64,7 @@ hpa1sizes: |
   <tbody>
   <tr><td> 10 </td><td> 2 </td><td> 118.12 Mbp </td><td> 1 </td><td> 221.25 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 97.87 Mbp </td><td> 2 </td><td> 220.33 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 92.41 Mbp </td><td> 3 </td><td> 217.67 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 85.70 Mbp </td><td> 4 </td><td> 213.44 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 58.80 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 171.19 Mbp </td></tr><tr><td> 60 </td><td> 16 </td><td> 48.52 Mbp </td><td> 7 </td><td> 143.06 Mbp </td></tr><tr><td> 70 </td><td> 21 </td><td> 40.07 Mbp </td><td> 9 </td><td> 108.19 Mbp </td></tr><tr><td> 80 </td><td> 27 </td><td> 28.79 Mbp </td><td> 11 </td><td> 95.66 Mbp </td></tr><tr><td> 90 </td><td> 35 </td><td> 17.95 Mbp </td><td> 13 </td><td> 78.20 Mbp </td></tr><tr><td> 100 </td><td> 66 </td><td> 1.74 Mbp </td><td> 16 </td><td> 53.40 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.031x </th><th> 291 </th><th> 2.21 Gbp </th><th> 188 </th><th> 2.21 Gbp </th></tr>
+  <tr><th> 1.030x </th><th> 290 </th><th> 2.21 Gbp </th><th> 187 </th><th> 2.21 Gbp </th></tr>
   </tfoot>
   </table>
 hpa1version: assembly_curated
@@ -98,10 +98,10 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1702485194
-last_updated: 1745246470
+last_updated: 1748356575
 mds:
 - data: species:&nbsp;Gardnerycteris&nbsp;keenani&nbsp;<br>specimen:&nbsp;mGarKee1&nbsp;<br>projects:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp&nbsp;<br>&nbsp;&nbsp;-&nbsp;bat1k&nbsp;<br>assembled_by_group:&nbsp;Rockefeller&nbsp;<br>data_location:&nbsp;S3&nbsp;<br>release_to:&nbsp;S3&nbsp;<br>primary:&nbsp;s3://genomeark/species/Gardnerycteris_keenani/mGarKee1/assembly_vgp_HiC_2.0/mGarKee1.HiC.hap1.20231220.fasta.gz&nbsp;<br>haplotigs:&nbsp;s3://genomeark/species/Gardnerycteris_keenani/mGarKee1/assembly_vgp_HiC_2.0/mGarKee1.HiC.hap2.20231220.fasta.gz&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Gardnerycteris_keenani/mGarKee1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mGarKee1_hap1_s2.pretext&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Gardnerycteris_keenani/mGarKee1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mGarKee1_hap2_s2.pretext&nbsp;<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Gardnerycteris_keenani/mGarKee1/assembly_vgp_HiC_2.0/evaluation/merqury/mGarKee1_png/&nbsp;<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Gardnerycteris_keenani/mGarKee1/genomic_data/pacbio_hifi/&nbsp;<br>pacbio_read_type:&nbsp;hifi&nbsp;<br>hic_read_dir:&nbsp;s3://genomeark/species/Gardnerycteris_keenani/mGarKee1/genomic_data/arima/&nbsp;<br>pipeline:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)&nbsp;<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)&nbsp;<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mGarKee1.&nbsp;This&nbsp;hap1&nbsp;assembly&nbsp;and&nbsp;hap2&nbsp;assembly&nbsp;underwent&nbsp;separate&nbsp;HiC&nbsp;scaffolding&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;<br>
-  ident: md5
+  ident: md6
   title: assembly_vgp_HiC_2.0/mGarKee1.yml
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mGarKee<br>&nbsp;&nbsp;name:&nbsp;Gardnerycteris&nbsp;keenani<br>&nbsp;&nbsp;taxon_id:&nbsp;2358194<br>&nbsp;&nbsp;common_name:&nbsp;Keenan's&nbsp;hairy-nosed&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Phyllostomidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mGarKee1<br>&nbsp;&nbsp;genome_size:&nbsp;2141820000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 mito1date: 2023-12-10

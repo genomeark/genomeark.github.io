@@ -1,0 +1,1 @@
+../_genomeark/Tamias_striatus.md

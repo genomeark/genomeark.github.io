@@ -70,16 +70,16 @@ data_pacbiohifi_clr-1_scale: 0.5132
 data_pacbiohifi_clr_bases: 706.19 Gbp
 data_pacbiohifi_clr_bytes: 1.3 TiB
 data_pacbiohifi_clr_coverage: 784.66x
-data_pacbiohifi_fqgz-1_bases: 17.13 Gbp
-data_pacbiohifi_fqgz-1_bytes: 12.1 GiB
-data_pacbiohifi_fqgz-1_coverage: 19.03x
+data_pacbiohifi_fqgz-1_bases: 131.56 Gbp
+data_pacbiohifi_fqgz-1_bytes: 49.1 GiB
+data_pacbiohifi_fqgz-1_coverage: 146.18x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scomber_japonicus/fScoJap1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 1.3188
-data_pacbiohifi_fqgz_bases: 17.13 Gbp
-data_pacbiohifi_fqgz_bytes: 12.1 GiB
-data_pacbiohifi_fqgz_coverage: 19.03x
+data_pacbiohifi_fqgz-1_scale: 2.4955
+data_pacbiohifi_fqgz_bases: 131.56 Gbp
+data_pacbiohifi_fqgz_bytes: 49.1 GiB
+data_pacbiohifi_fqgz_coverage: 146.18x
 data_pacbiohifi_q2fqgz-1_bases: 27.22 Gbp
 data_pacbiohifi_q2fqgz-1_bytes: 18.2 GiB
 data_pacbiohifi_q2fqgz-1_coverage: 30.24x
@@ -101,8 +101,8 @@ genbank_pri: fScoJap1:GCA_027409825.1
 genome_size: 900000000
 genome_size_display: 0.90 Gbp
 genome_size_method: ''
-last_raw_data: 1673804297
-last_updated: 1673804297
+last_raw_data: 1750088611
+last_updated: 1750088611
 mds:
 - data: species:&nbsp;Scomber&nbsp;japonicus<br>specimen:&nbsp;fScoJap1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/fScoJap1.pri.asm.20211026.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/fScoJap1.alt.asm.20211026.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/evaluation/pretext/s2/fScoJap1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/evaluation/pretext/s2/fScoJap1_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Scomber_japonicus/fScoJap1/assembly_vgp_standard_2.0/evaluation/merqury/p/fScoJap1_images/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4-r343)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3)
   ident: md5

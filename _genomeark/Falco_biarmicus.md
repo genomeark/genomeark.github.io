@@ -30,16 +30,16 @@ alt1sizes: |
 alt1version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: lanner falcon
-data_arima-1_bases: 85.46 Gbp
-data_arima-1_bytes: 56.0 GiB
-data_arima-1_coverage: 61.04x
+data_arima-1_bases: 178.51 Gbp
+data_arima-1_bytes: 116.7 GiB
+data_arima-1_coverage: 127.50x
 data_arima-1_links: s3://genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Falco_biarmicus/bFalBia1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_biarmicus/bFalBia1/genomic_data/arima/
-data_arima-1_scale: 1.4211
-data_arima_bases: 85.46 Gbp
-data_arima_bytes: 56.0 GiB
-data_arima_coverage: 61.04x
+data_arima-1_scale: 1.4240
+data_arima_bases: 178.51 Gbp
+data_arima_bytes: 116.7 GiB
+data_arima_coverage: 127.50x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 2.3 GiB
 data_bionano-1_coverage: 704.32x
@@ -80,8 +80,8 @@ genbank_pri: bFalBia1:GCA_023638135.1
 genome_size: 1400000000
 genome_size_display: 1.40 Gbp
 genome_size_method: GoaT ancestral inferred
-last_raw_data: 1651596187
-last_updated: 1651597563
+last_raw_data: 1749483957
+last_updated: 1749483957
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bFalBia<br>&nbsp;&nbsp;name:&nbsp;Falco&nbsp;biarmicus<br>&nbsp;&nbsp;taxon_id:&nbsp;345155<br>&nbsp;&nbsp;common_name:&nbsp;lanner&nbsp;falcon<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFalBia1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Farooq&nbsp;Al-Ajli<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1400000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;ancestral&nbsp;inferred<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Falco biarmicus
 name_: Falco_biarmicus

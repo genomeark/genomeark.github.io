@@ -67,13 +67,13 @@ data_illumina-2_scale: 2.2742
 data_illumina_bases: 457.66 Gbp
 data_illumina_bytes: 221.5 GiB
 data_illumina_coverage: 138.86x
-data_ont-1_bases: 711.95 Gbp
-data_ont-1_bytes: 549.8 GiB
-data_ont-1_coverage: 216.01x
+data_ont-1_bases: 1144.01 Gbp
+data_ont-1_bytes: 846.4 GiB
+data_ont-1_coverage: 347.10x
 data_ont-1_links: s3://genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/ont/<br>
 data_ont-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/ont/
 data_ont-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Symphalangus_syndactylus/mSymSyn1/genomic_data/ont/
-data_ont-1_scale: 1.2059
+data_ont-1_scale: 1.2588
 data_ont-2_bases: 413.28 Gbp
 data_ont-2_bytes: 218.2 GiB
 data_ont-2_coverage: 125.39x
@@ -81,9 +81,9 @@ data_ont-2_links: s3://genomeark/species/Symphalangus_syndactylus/mSymSyn2/genom
 data_ont-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn2/genomic_data/ont/
 data_ont-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Symphalangus_syndactylus/mSymSyn2/genomic_data/ont/
 data_ont-2_scale: 1.7642
-data_ont_bases: 1125.23 Gbp
-data_ont_bytes: 768.0 GiB
-data_ont_coverage: 341.41x
+data_ont_bases: 1557.28 Gbp
+data_ont_bytes: 1.0 TiB
+data_ont_coverage: 472.50x
 data_pacbiohifi_bam-1_bases: 1050.25 Gbp
 data_pacbiohifi_bam-1_bytes: 1.1 TiB
 data_pacbiohifi_bam-1_coverage: 318.66x
@@ -111,13 +111,13 @@ data_pacbiohifi_clr-1_scale: 0.5131
 data_pacbiohifi_clr_bases: 4866.03 Gbp
 data_pacbiohifi_clr_bytes: 8.6 TiB
 data_pacbiohifi_clr_coverage: 1476.41x
-data_pacbiohifi_fqgz-1_bases: 527.24 Gbp
-data_pacbiohifi_fqgz-1_bytes: 384.5 GiB
-data_pacbiohifi_fqgz-1_coverage: 159.97x
+data_pacbiohifi_fqgz-1_bases: 773.42 Gbp
+data_pacbiohifi_fqgz-1_bytes: 525.6 GiB
+data_pacbiohifi_fqgz-1_coverage: 234.66x
 data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/
-data_pacbiohifi_fqgz-1_scale: 1.2770
+data_pacbiohifi_fqgz-1_scale: 1.3705
 data_pacbiohifi_fqgz-2_bases: 126.22 Gbp
 data_pacbiohifi_fqgz-2_bytes: 44.9 GiB
 data_pacbiohifi_fqgz-2_coverage: 38.30x
@@ -125,9 +125,9 @@ data_pacbiohifi_fqgz-2_links: s3://genomeark/species/Symphalangus_syndactylus/mS
 data_pacbiohifi_fqgz-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn2/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Symphalangus_syndactylus/mSymSyn2/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-2_scale: 2.6174
-data_pacbiohifi_fqgz_bases: 653.46 Gbp
-data_pacbiohifi_fqgz_bytes: 429.4 GiB
-data_pacbiohifi_fqgz_coverage: 198.27x
+data_pacbiohifi_fqgz_bases: 899.64 Gbp
+data_pacbiohifi_fqgz_bytes: 570.5 GiB
+data_pacbiohifi_fqgz_coverage: 272.96x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">ONT
   Simplex</em> ::: <em style="color:forestgreen">Arima</em> ::: <em style="color:forestgreen">Dovetail</em>
   ::: <em style="color:forestgreen">Illumina</em>'
@@ -283,8 +283,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
-last_raw_data: 1742922709
-last_updated: 1746130807
+last_raw_data: 1747840135
+last_updated: 1747840135
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mSymSyn<br>&nbsp;&nbsp;name:&nbsp;Symphalangus&nbsp;syndactylus<br>&nbsp;&nbsp;common_name:&nbsp;siamang&nbsp;gibbon<br>&nbsp;&nbsp;taxon_id:&nbsp;9590<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hylobatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mSymSyn1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Jambi<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMN30216103<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Jambi_SSY<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;MIG12-29960010<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone&nbsp;(Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mSymSyn2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Karenina<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone&nbsp;(Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;genome_size:&nbsp;3295860000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;Fuelgen&nbsp;Densitometry/Flow&nbsp;Cytometry<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>
 mito1date: 2023-11-22
 mito1filesize: 5.3 KiB
