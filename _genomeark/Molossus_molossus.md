@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Pallas's mastiff bat
 data_10x-1_bases: 106.64 Gbp
 data_10x-1_bytes: 55.2 GiB
@@ -52,16 +52,16 @@ genome_size: 2319008189
 genome_size_display: 2.32 Gbp
 genome_size_method: DAmar assembly
 last_raw_data: 1582495898
-last_updated: 1582495898
+last_updated: 1757495164
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMolMol<br>&nbsp;&nbsp;name:&nbsp;Molossus&nbsp;molossus<br>&nbsp;&nbsp;taxon_id:&nbsp;27622<br>&nbsp;&nbsp;common_name:&nbsp;Pallas's&nbsp;mastiff&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Molossidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMolMol1<br>&nbsp;&nbsp;genome_size:&nbsp;2319008189<br>&nbsp;&nbsp;genome_size_method:&nbsp;DAmar&nbsp;assembly&nbsp;<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Molossus molossus
 name_: Molossus_molossus
-pri1date: 2019-04-18
-pri1filesize: 722.5 MiB
-pri1length: '2319008189'
+pri1date: 2025-09-10
+pri1filesize: 667.6 MiB
+pri1length: '2315571181'
 pri1n50ctg: 21658165
-pri1n50scf: 110665204
-pri1seq: https://s3.amazonaws.com/genomeark/species/Molossus_molossus/mMolMol1/assembly_dresden_DAmar1.0/mMolMol1.pri.asm.20190418.fasta.gz
+pri1n50scf: 112819080
+pri1seq: https://s3.amazonaws.com/genomeark/species/Molossus_molossus/mMolMol1/assembly_curated/mMolMol1.pri.cur.20250910.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -79,12 +79,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 62.58 Mbp </td><td> 0 </td><td> 252.44 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 49.87 Mbp </td><td> 2 </td><td> 132.40 Mbp </td></tr><tr><td> 30 </td><td> 12 </td><td> 34.19 Mbp </td><td> 4 </td><td> 119.27 Mbp </td></tr><tr><td> 40 </td><td> 20 </td><td> 26.92 Mbp </td><td> 6 </td><td> 112.86 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 30 </td><td style="background-color:#88ff88;"> 21.66 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 110.67 Mbp </td></tr><tr><td> 60 </td><td> 41 </td><td> 18.67 Mbp </td><td> 10 </td><td> 107.80 Mbp </td></tr><tr><td> 70 </td><td> 58 </td><td> 10.97 Mbp </td><td> 12 </td><td> 95.14 Mbp </td></tr><tr><td> 80 </td><td> 87 </td><td> 5.75 Mbp </td><td> 15 </td><td> 72.82 Mbp </td></tr><tr><td> 90 </td><td> 147 </td><td> 2.55 Mbp </td><td> 18 </td><td> 55.97 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 59 </td><td> 28.36 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 62.58 Mbp </td><td> 1 </td><td> 255.47 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 49.87 Mbp </td><td> 3 </td><td> 132.19 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 34.19 Mbp </td><td> 5 </td><td> 119.27 Mbp </td></tr><tr><td> 40 </td><td> 21 </td><td> 26.92 Mbp </td><td> 7 </td><td> 113.54 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 31 </td><td style="background-color:#88ff88;"> 21.66 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 112.82 Mbp </td></tr><tr><td> 60 </td><td> 42 </td><td> 18.67 Mbp </td><td> 11 </td><td> 107.80 Mbp </td></tr><tr><td> 70 </td><td> 59 </td><td> 10.97 Mbp </td><td> 13 </td><td> 98.13 Mbp </td></tr><tr><td> 80 </td><td> 88 </td><td> 5.75 Mbp </td><td> 16 </td><td> 74.33 Mbp </td></tr><tr><td> 90 </td><td> 148 </td><td> 2.55 Mbp </td><td> 19 </td><td> 61.76 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.978x </th><th> 409 </th><th> 2.27 Gbp </th><th> 60 </th><th> 2.32 Gbp </th></tr>
+  <tr><th> 0.978x </th><th> 418 </th><th> 2.27 Gbp </th><th> 45 </th><th> 2.32 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_dresden_DAmar1.0
+pri1version: assembly_curated
 project:
 - vgp
 short_name: mMolMol

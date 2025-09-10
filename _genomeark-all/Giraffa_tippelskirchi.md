@@ -1,0 +1,1 @@
+../_genomeark/Giraffa_tippelskirchi.md
