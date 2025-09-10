@@ -1,0 +1,1 @@
+../_genomeark/Psaltriparus_minimus.md

@@ -8,9 +8,16 @@ data_arima-1_links: s3://genomeark/species/Coloeus_monedula/bColMon1/genomic_dat
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Coloeus_monedula/bColMon1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Coloeus_monedula/bColMon1/genomic_data/arima/
 data_arima-1_scale: 3.4812
-data_arima_bases: 126.66 Gbp
-data_arima_bytes: 33.9 GiB
-data_arima_coverage: 103.60x
+data_arima-2_bases: 34.27 Gbp
+data_arima-2_bytes: 18.6 GiB
+data_arima-2_coverage: 28.03x
+data_arima-2_links: s3://genomeark/species/Coloeus_monedula/bColMon2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Coloeus_monedula/bColMon2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Coloeus_monedula/bColMon2/genomic_data/arima/
+data_arima-2_scale: 1.7153
+data_arima_bases: 160.92 Gbp
+data_arima_bytes: 52.5 GiB
+data_arima_coverage: 131.64x
 data_pacbiohifi_bam-1_bases: 83.55 Gbp
 data_pacbiohifi_bam-1_bytes: 24.5 GiB
 data_pacbiohifi_bam-1_coverage: 68.34x
@@ -104,8 +111,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1750785238
-last_updated: 1750785238
+last_raw_data: 1756824914
+last_updated: 1756824914
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bColMon<br>&nbsp;&nbsp;name:&nbsp;Coloeus&nbsp;monedula<br>&nbsp;&nbsp;taxon_id:&nbsp;30423<br>&nbsp;&nbsp;common_name:&nbsp;<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Corvidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bColMon1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA115433023<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1222500000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-07-22
 mito1filesize: 5.3 KiB

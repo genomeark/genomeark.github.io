@@ -1,0 +1,1 @@
+../_genomeark/Aulostomus_maculatus.md

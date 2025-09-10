@@ -1,15 +1,15 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: ''
-data_arima-2_bases: 88.00 Gbp
-data_arima-2_bytes: 46.6 GiB
+data_arima-2_bases: 123.21 Gbp
+data_arima-2_bytes: 65.1 GiB
 data_arima-2_coverage: N/A
 data_arima-2_links: s3://genomeark/species/Blarina_brevicauda/mBlaBre2/genomic_data/arima/<br>
 data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Blarina_brevicauda/mBlaBre2/genomic_data/arima/
 data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Blarina_brevicauda/mBlaBre2/genomic_data/arima/
-data_arima-2_scale: 1.7593
-data_arima_bases: 88.00 Gbp
-data_arima_bytes: 46.6 GiB
+data_arima-2_scale: 1.7618
+data_arima_bases: 123.21 Gbp
+data_arima_bytes: 65.1 GiB
 data_arima_coverage: N/A
 data_pacbiohifi_bam-2_bases: 132.14 Gbp
 data_pacbiohifi_bam-2_bytes: 438.4 GiB
@@ -39,8 +39,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1751914703
-last_updated: 1751914703
+last_raw_data: 1752774518
+last_updated: 1752774518
 name: Blarina brevicauda
 name_: Blarina_brevicauda
 project: ~

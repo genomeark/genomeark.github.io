@@ -50,6 +50,26 @@ data_bionano-1_scale: 651.4809
 data_bionano_bases: N/A
 data_bionano_bytes: 789.2 MiB
 data_bionano_coverage: 130.16x
+data_pacbiohifi_bam-1_bases: 15.17 Gbp
+data_pacbiohifi_bam-1_bytes: 53.0 GiB
+data_pacbiohifi_bam-1_coverage: 3.66x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Hyla_sarda/aHylSar1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hyla_sarda/aHylSar1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hyla_sarda/aHylSar1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2663
+data_pacbiohifi_bam_bases: 15.17 Gbp
+data_pacbiohifi_bam_bytes: 53.0 GiB
+data_pacbiohifi_bam_coverage: 3.66x
+data_pacbiohifi_clr-1_bases: 482.45 Gbp
+data_pacbiohifi_clr-1_bytes: 1.1 TiB
+data_pacbiohifi_clr-1_coverage: 116.47x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Hyla_sarda/aHylSar1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hyla_sarda/aHylSar1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hyla_sarda/aHylSar1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.4044
+data_pacbiohifi_clr_bases: 482.45 Gbp
+data_pacbiohifi_clr_bytes: 1.1 TiB
+data_pacbiohifi_clr_coverage: 116.47x
 data_pacbiohifi_fqgz-1_bases: 128.55 Gbp
 data_pacbiohifi_fqgz-1_bytes: 89.3 GiB
 data_pacbiohifi_fqgz-1_coverage: 31.04x
@@ -127,8 +147,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
-last_raw_data: 1667395217
-last_updated: 1675746956
+last_raw_data: 1753134813
+last_updated: 1753134813
 mds:
 - data: species:&nbsp;Hyla&nbsp;sarda<br>specimen:&nbsp;aHylSar1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/aHylSar1.HiC.hap1.20220806.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/aHylSar1.HiC.hap2.20220806.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aHylSar1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aHylSar1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/assembly_vgp_HiC_2.0/evaluation/aHylSar1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/genomic_data/pacbio/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Hyla_sarda/aHylSar1/genomic_data/bionano/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;Hap1&nbsp;(&nbsp;aHylSar1.HiC.hap1.20220806.fasta.gz&nbsp;)&nbsp;looks&nbsp;more&nbsp;complete&nbsp;based&nbsp;on&nbsp;statistics,&nbsp;but&nbsp;I&nbsp;am&nbsp;including&nbsp;both&nbsp;haplotypes&nbsp;here&nbsp;as&nbsp;we&nbsp;are&nbsp;unsure&nbsp;about&nbsp;if&nbsp;we&nbsp;should&nbsp;curate&nbsp;hap2&nbsp;instead&nbsp;in&nbsp;order&nbsp;to&nbsp;address&nbsp;the&nbsp;misjoin&nbsp;in&nbsp;the&nbsp;largest&nbsp;scaffold&nbsp;(based&nbsp;on&nbsp;the&nbsp;pretext&nbsp;map).&nbsp;
   ident: md8

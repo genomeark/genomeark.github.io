@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1948856296
 genome_size_display: 1.95 Gbp
 genome_size_method: ''
-last_raw_data: 1741103291
-last_updated: 1743175190
+last_raw_data: 1756994638
+last_updated: 1756994638
 name: Pelomedusa somalica
 name_: Pelomedusa_somalica
 pri1date: 2021-12-07

@@ -8,15 +8,15 @@ data_arima-1_links: s3://genomeark/species/Patagioenas_fasciata/bPatFas1/genomic
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Patagioenas_fasciata/bPatFas1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Patagioenas_fasciata/bPatFas1/genomic_data/arima/
 data_arima-1_scale: 1.7694
-data_arima-27_bases: 437.29 Gbp
-data_arima-27_bytes: 229.9 GiB
+data_arima-27_bases: 478.37 Gbp
+data_arima-27_bytes: 247.9 GiB
 data_arima-27_coverage: N/A
 data_arima-27_links: s3://genomeark/species/Patagioenas_fasciata/bPatFas27/genomic_data/arima/<br>
 data_arima-27_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Patagioenas_fasciata/bPatFas27/genomic_data/arima/
 data_arima-27_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Patagioenas_fasciata/bPatFas27/genomic_data/arima/
-data_arima-27_scale: 1.7711
-data_arima_bases: 504.36 Gbp
-data_arima_bytes: 265.2 GiB
+data_arima-27_scale: 1.7969
+data_arima_bases: 545.44 Gbp
+data_arima_bytes: 283.2 GiB
 data_arima_coverage: N/A
 data_ont-1_bases: 152.69 Gbp
 data_ont-1_bytes: 139.9 GiB
@@ -139,8 +139,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1749589413
-last_updated: 1749589413
+last_raw_data: 1754937846
+last_updated: 1754937846
 mito1date: 2024-12-03
 mito1filesize: 5.4 KiB
 mito1length: '17021'

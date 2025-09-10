@@ -58,8 +58,66 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1432770000
 genome_size_display: 1.43 Gbp
 genome_size_method: GoaT
+hpa1date: 2025-08-05
+hpa1filesize: 373.2 MiB
+hpa1length: '1425674373'
+hpa1n50ctg: 3000140
+hpa1n50scf: 86173170
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Larus_fuscus/bLarFus1/assembly_curated/bLarFus1.hap1.cur.20250805.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 11 </td><td> 8.96 Mbp </td><td> 1 </td><td> 222.75 Mbp </td></tr><tr><td> 20 </td><td> 30 </td><td> 6.28 Mbp </td><td> 2 </td><td> 171.48 Mbp </td></tr><tr><td> 30 </td><td> 56 </td><td> 4.91 Mbp </td><td> 3 </td><td> 131.02 Mbp </td></tr><tr><td> 40 </td><td> 89 </td><td> 3.80 Mbp </td><td> 4 </td><td> 98.11 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 132 </td><td style="background-color:#88ff88;"> 3.00 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 86.17 Mbp </td></tr><tr><td> 60 </td><td> 187 </td><td> 2.21 Mbp </td><td> 7 </td><td> 73.26 Mbp </td></tr><tr><td> 70 </td><td> 262 </td><td> 1.58 Mbp </td><td> 10 </td><td> 50.92 Mbp </td></tr><tr><td> 80 </td><td> 390 </td><td> 0.74 Mbp </td><td> 16 </td><td> 15.13 Mbp </td></tr><tr><td> 90 </td><td> 756 </td><td> 234.00 Kbp </td><td> 159 </td><td> 291.02 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.995x </th><th> 2649 </th><th> 1.43 Gbp </th><th> 1974 </th><th> 1.43 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_curated
+hpb1date: 2025-08-05
+hpb1filesize: 361.3 MiB
+hpb1length: '1291628069'
+hpb1n50ctg: 2962458
+hpb1n50scf: 85522604
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Larus_fuscus/bLarFus1/assembly_curated/bLarFus1.hap2.cur.20250805.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 13 </td><td> 8.68 Mbp </td><td> 1 </td><td> 220.21 Mbp </td></tr><tr><td> 20 </td><td> 33 </td><td> 6.29 Mbp </td><td> 2 </td><td> 170.75 Mbp </td></tr><tr><td> 30 </td><td> 58 </td><td> 5.10 Mbp </td><td> 3 </td><td> 129.69 Mbp </td></tr><tr><td> 40 </td><td> 89 </td><td> 3.93 Mbp </td><td> 4 </td><td> 97.04 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 131 </td><td style="background-color:#88ff88;"> 2.96 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 85.52 Mbp </td></tr><tr><td> 60 </td><td> 185 </td><td> 2.28 Mbp </td><td> 7 </td><td> 73.09 Mbp </td></tr><tr><td> 70 </td><td> 260 </td><td> 1.56 Mbp </td><td> 10 </td><td> 50.63 Mbp </td></tr><tr><td> 80 </td><td> 387 </td><td> 0.74 Mbp </td><td> 16 </td><td> 14.63 Mbp </td></tr><tr><td> 90 </td><td> 1089 </td><td> 22.00 Kbp </td><td> 438 </td><td> 23.22 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.901x </th><th> 1259 </th><th> 1.29 Gbp </th><th> 613 </th><th> 1.29 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_curated
 last_raw_data: 1707381745
-last_updated: 1707381745
+last_updated: 1754352845
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bLarFus<br>&nbsp;&nbsp;name:&nbsp;Larus&nbsp;fuscus<br>&nbsp;&nbsp;taxon_id:&nbsp;8915<br>&nbsp;&nbsp;common_name:&nbsp;Lesser&nbsp;black-backed&nbsp;gull<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Laridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bLarFus1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112468039<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1432770000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-12-23
 mito1filesize: 5.4 KiB

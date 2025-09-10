@@ -52,23 +52,23 @@ data_ont-2_scale: 1.8616
 data_ont_bases: 926.71 Gbp
 data_ont_bytes: 620.5 GiB
 data_ont_coverage: 286.91x
-data_pacbiohifi_bam-1_bases: 482.34 Gbp
-data_pacbiohifi_bam-1_bytes: 1.6 TiB
-data_pacbiohifi_bam-1_coverage: 149.33x
+data_pacbiohifi_bam-1_bases: 635.29 Gbp
+data_pacbiohifi_bam-1_bytes: 2.2 TiB
+data_pacbiohifi_bam-1_coverage: 196.68x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Hoolock_leuconedys/mHooLeu1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoolock_leuconedys/mHooLeu1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoolock_leuconedys/mHooLeu1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2668
-data_pacbiohifi_bam-2_bases: 57.66 Gbp
-data_pacbiohifi_bam-2_bytes: 192.5 GiB
-data_pacbiohifi_bam-2_coverage: 17.85x
+data_pacbiohifi_bam-1_scale: 0.2652
+data_pacbiohifi_bam-2_bases: 102.60 Gbp
+data_pacbiohifi_bam-2_bytes: 334.8 GiB
+data_pacbiohifi_bam-2_coverage: 31.76x
 data_pacbiohifi_bam-2_links: s3://genomeark/species/Hoolock_leuconedys/mHooLeu2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hoolock_leuconedys/mHooLeu2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hoolock_leuconedys/mHooLeu2/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-2_scale: 0.2790
-data_pacbiohifi_bam_bases: 540.00 Gbp
-data_pacbiohifi_bam_bytes: 1.8 TiB
-data_pacbiohifi_bam_coverage: 167.18x
+data_pacbiohifi_bam-2_scale: 0.2854
+data_pacbiohifi_bam_bases: 737.89 Gbp
+data_pacbiohifi_bam_bytes: 2.5 TiB
+data_pacbiohifi_bam_coverage: 228.45x
 data_pacbiohifi_clr-1_bases: 4619.95 Gbp
 data_pacbiohifi_clr-1_bytes: 8.1 TiB
 data_pacbiohifi_clr-1_coverage: 1430.32x
@@ -221,8 +221,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
-last_raw_data: 1747840654
-last_updated: 1747840654
+last_raw_data: 1756932302
+last_updated: 1756932302
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mHooLeu<br>&nbsp;&nbsp;name:&nbsp;Hoolock&nbsp;leuconedys<br>&nbsp;&nbsp;common_name:&nbsp;eastern&nbsp;hoolock&nbsp;gibbon<br>&nbsp;&nbsp;taxon_id:&nbsp;593543<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hominidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mHooLeu1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Arthur<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMN33424221<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Arthur_HLE<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HLE304<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone&nbsp;(Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;mHooLeu1.LCL1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;lymphoblastoid&nbsp;cell&nbsp;line<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;null<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mHooLeu2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Betty<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Betty_HLE<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone&nbsp;(Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;mHooLeu2.LCL1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;lymphoblastoid&nbsp;cell&nbsp;line<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dev_stage:&nbsp;adult<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;SAMN12702557<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone&nbsp;(Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;The&nbsp;LCL&nbsp;cell&nbsp;line&nbsp;was&nbsp;generated&nbsp;by&nbsp;Lucia&nbsp;Carbone&nbsp;at&nbsp;OHSU.&nbsp;The&nbsp;blood&nbsp;for&nbsp;the&nbsp;generation&nbsp;of&nbsp;the&nbsp;cell&nbsp;line&nbsp;was&nbsp;provided&nbsp;by&nbsp;the&nbsp;Gibbon&nbsp;Conservation&nbsp;Center.<br>&nbsp;&nbsp;genome_size:&nbsp;3230000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;ancestral&nbsp;inferred<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;]<br>
 name: Hoolock leuconedys
 name_: Hoolock_leuconedys

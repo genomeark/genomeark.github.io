@@ -49,8 +49,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1745973757
-last_updated: 1745973757
+last_raw_data: 1756915599
+last_updated: 1756915599
 name: Coregonus huntsmani
 name_: Coregonus_huntsmani
 project: ~

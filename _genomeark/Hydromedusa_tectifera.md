@@ -1,16 +1,16 @@
 ---
 assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
-data_10x-1_bases: 162.79 Gbp
-data_10x-1_bytes: 76.3 GiB
-data_10x-1_coverage: 88.01x
+data_10x-1_bases: 153.82 Gbp
+data_10x-1_bytes: 99.0 GiB
+data_10x-1_coverage: 83.16x
 data_10x-1_links: s3://genomeark/species/Hydromedusa_tectifera/rHydTec1/genomic_data/10x/<br>
 data_10x-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hydromedusa_tectifera/rHydTec1/genomic_data/10x/
 data_10x-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hydromedusa_tectifera/rHydTec1/genomic_data/10x/
-data_10x-1_scale: 1.9865
-data_10x_bases: 162.79 Gbp
-data_10x_bytes: 76.3 GiB
-data_10x_coverage: 88.01x
+data_10x-1_scale: 1.4476
+data_10x_bases: 153.82 Gbp
+data_10x_bytes: 99.0 GiB
+data_10x_coverage: 83.16x
 data_arima-1_bases: 46.50 Gbp
 data_arima-1_bytes: 85.9 GiB
 data_arima-1_coverage: 25.14x
@@ -39,8 +39,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1849762662
 genome_size_display: 1.85 Gbp
 genome_size_method: ''
-last_raw_data: 1744922815
-last_updated: 1744922815
+last_raw_data: 1756992601
+last_updated: 1756992601
 name: Hydromedusa tectifera
 name_: Hydromedusa_tectifera
 pri1date: 2021-04-24

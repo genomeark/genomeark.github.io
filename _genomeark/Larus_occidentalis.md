@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Western Gull
 data_arima-1_bases: 84.53 Gbp
 data_arima-1_bytes: 23.7 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1432770000
 genome_size_display: 1.43 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-07-20
-hpa1filesize: 314.4 MiB
-hpa1length: '1420725958'
-hpa1n50ctg: 3779439
-hpa1n50scf: 84295946
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Larus_occidentalis/bLarOcc1/assembly_cambridge/bLarOcc1.hap1.asm.20240720.fasta.gz
+hpa1date: 2025-07-31
+hpa1filesize: 380.4 MiB
+hpa1length: '1443172719'
+hpa1n50ctg: 3787156
+hpa1n50scf: 85627649
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Larus_occidentalis/bLarOcc1/assembly_curated/bLarOcc1.hap1.cur.20250731.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 10 </td><td> 12.10 Mbp </td><td> 1 </td><td> 220.20 Mbp </td></tr><tr><td> 20 </td><td> 24 </td><td> 8.67 Mbp </td><td> 2 </td><td> 167.58 Mbp </td></tr><tr><td> 30 </td><td> 43 </td><td> 6.50 Mbp </td><td> 3 </td><td> 119.86 Mbp </td></tr><tr><td> 40 </td><td> 69 </td><td> 4.90 Mbp </td><td> 4 </td><td> 96.46 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 101 </td><td style="background-color:#88ff88;"> 3.78 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 84.30 Mbp </td></tr><tr><td> 60 </td><td> 143 </td><td> 3.09 Mbp </td><td> 8 </td><td> 58.51 Mbp </td></tr><tr><td> 70 </td><td> 196 </td><td> 2.37 Mbp </td><td> 10 </td><td> 49.88 Mbp </td></tr><tr><td> 80 </td><td> 268 </td><td> 1.62 Mbp </td><td> 16 </td><td> 15.69 Mbp </td></tr><tr><td> 90 </td><td> 382 </td><td> 0.88 Mbp </td><td> 58 </td><td> 1.41 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 10 </td><td> 12.10 Mbp </td><td> 1 </td><td> 221.87 Mbp </td></tr><tr><td> 20 </td><td> 24 </td><td> 8.67 Mbp </td><td> 2 </td><td> 171.42 Mbp </td></tr><tr><td> 30 </td><td> 43 </td><td> 6.50 Mbp </td><td> 3 </td><td> 128.25 Mbp </td></tr><tr><td> 40 </td><td> 68 </td><td> 5.00 Mbp </td><td> 4 </td><td> 98.36 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 101 </td><td style="background-color:#88ff88;"> 3.79 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 85.63 Mbp </td></tr><tr><td> 60 </td><td> 142 </td><td> 3.13 Mbp </td><td> 7 </td><td> 74.23 Mbp </td></tr><tr><td> 70 </td><td> 194 </td><td> 2.46 Mbp </td><td> 10 </td><td> 51.97 Mbp </td></tr><tr><td> 80 </td><td> 264 </td><td> 1.68 Mbp </td><td> 14 </td><td> 20.13 Mbp </td></tr><tr><td> 90 </td><td> 371 </td><td> 0.99 Mbp </td><td> 30 </td><td> 2.93 Mbp </td></tr><tr><td> 100 </td><td> 754 </td><td> 80.10 Kbp </td><td> 239 </td><td> 129.75 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.992x </th><th> 1009 </th><th> 1.42 Gbp </th><th> 562 </th><th> 1.42 Gbp </th></tr>
+  <tr><th> 1.007x </th><th> 1007 </th><th> 1.44 Gbp </th><th> 454 </th><th> 1.44 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-07-20
-hpb1filesize: 294.2 MiB
-hpb1length: '1260771644'
-hpb1n50ctg: 3406972
-hpb1n50scf: 72837073
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Larus_occidentalis/bLarOcc1/assembly_cambridge/bLarOcc1.hap2.asm.20240720.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2025-07-31
+hpb1filesize: 338.0 MiB
+hpb1length: '1232342620'
+hpb1n50ctg: 3291048
+hpb1n50scf: 73024473
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Larus_occidentalis/bLarOcc1/assembly_curated/bLarOcc1.hap2.cur.20250731.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 10 </td><td> 11.23 Mbp </td><td> 1 </td><td> 218.37 Mbp </td></tr><tr><td> 20 </td><td> 26 </td><td> 6.87 Mbp </td><td> 2 </td><td> 167.62 Mbp </td></tr><tr><td> 30 </td><td> 49 </td><td> 5.77 Mbp </td><td> 3 </td><td> 120.06 Mbp </td></tr><tr><td> 40 </td><td> 77 </td><td> 4.64 Mbp </td><td> 4 </td><td> 94.52 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 114 </td><td style="background-color:#88ff88;"> 3.41 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 72.84 Mbp </td></tr><tr><td> 60 </td><td> 163 </td><td> 2.54 Mbp </td><td> 8 </td><td> 57.12 Mbp </td></tr><tr><td> 70 </td><td> 230 </td><td> 1.78 Mbp </td><td> 13 </td><td> 17.68 Mbp </td></tr><tr><td> 80 </td><td> 339 </td><td> 0.94 Mbp </td><td> 34 </td><td> 2.37 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 10 </td><td> 11.23 Mbp </td><td> 1 </td><td> 221.26 Mbp </td></tr><tr><td> 20 </td><td> 26 </td><td> 6.87 Mbp </td><td> 2 </td><td> 172.19 Mbp </td></tr><tr><td> 30 </td><td> 49 </td><td> 5.73 Mbp </td><td> 3 </td><td> 129.31 Mbp </td></tr><tr><td> 40 </td><td> 78 </td><td> 4.42 Mbp </td><td> 4 </td><td> 97.58 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 116 </td><td style="background-color:#88ff88;"> 3.29 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 73.02 Mbp </td></tr><tr><td> 60 </td><td> 167 </td><td> 2.42 Mbp </td><td> 8 </td><td> 58.93 Mbp </td></tr><tr><td> 70 </td><td> 237 </td><td> 1.66 Mbp </td><td> 11 </td><td> 25.20 Mbp </td></tr><tr><td> 80 </td><td> 359 </td><td> 0.78 Mbp </td><td> 26 </td><td> 2.90 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.880x </th><th> 1059 </th><th> 1.26 Gbp </th><th> 638 </th><th> 1.26 Gbp </th></tr>
+  <tr><th> 0.860x </th><th> 868 </th><th> 1.23 Gbp </th><th> 386 </th><th> 1.23 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1719828425
-last_updated: 1721504733
+last_updated: 1753920986
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bLarOcc<br>&nbsp;&nbsp;name:&nbsp;Larus&nbsp;occidentalis<br>&nbsp;&nbsp;taxon_id:&nbsp;126713<br>&nbsp;&nbsp;common_name:&nbsp;Western&nbsp;Gull<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Charadriiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Laridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bLarOcc1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA115348658<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1432770000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-07-20
 mito1filesize: 5.3 KiB

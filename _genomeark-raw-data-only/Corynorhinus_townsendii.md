@@ -1,0 +1,1 @@
+../_genomeark/Corynorhinus_townsendii.md

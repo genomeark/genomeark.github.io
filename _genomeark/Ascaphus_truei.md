@@ -13,18 +13,18 @@ data_arima-4_scale: '1.9180'
 data_arima_bases: 345.81 Gbp
 data_arima_bytes: 167.9 GiB
 data_arima_coverage: 85.55x
-data_pacbiohifi_bam-1_bases: 100.40 Gbp
-data_pacbiohifi_bam-1_bytes: 342.9 GiB
-data_pacbiohifi_bam-1_coverage: 24.84x
+data_pacbiohifi_bam-1_bases: 283.32 Gbp
+data_pacbiohifi_bam-1_bytes: 397.2 GiB
+data_pacbiohifi_bam-1_coverage: 70.09x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Ascaphus_truei/aAscTru1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ascaphus_truei/aAscTru1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ascaphus_truei/aAscTru1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2727
+data_pacbiohifi_bam-1_scale: 0.6643
 data_pacbiohifi_bam-4_bases: '100399113752'
 data_pacbiohifi_bam-4_scale: '0.2727'
-data_pacbiohifi_bam_bases: 100.40 Gbp
-data_pacbiohifi_bam_bytes: 342.9 GiB
-data_pacbiohifi_bam_coverage: 24.84x
+data_pacbiohifi_bam_bases: 283.32 Gbp
+data_pacbiohifi_bam_bytes: 397.2 GiB
+data_pacbiohifi_bam_coverage: 70.09x
 data_pacbiohifi_clr-1_bases: 580.51 Gbp
 data_pacbiohifi_clr-1_bytes: 1.3 TiB
 data_pacbiohifi_clr-1_coverage: 143.62x
@@ -115,8 +115,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1723495874
-last_updated: 1723495874
+last_raw_data: 1752592742
+last_updated: 1752592742
 mds:
 - data: species:&nbsp;Ascaphus&nbsp;truei<br>specimen:&nbsp;aAscTru1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>haplotype_to_curate:&nbsp;hap1<br>hap1:&nbsp;s3://genomeark/species/Ascaphus_truei/aAscTru1/assembly_vgp_HiC_2.0/aAscTru1.HiC.hap1.20230829.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Ascaphus_truei/aAscTru1/assembly_vgp_HiC_2.0/aAscTru1.HiC.hap2.20230829.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Ascaphus_truei/aAscTru1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aAscTru1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Ascaphus_truei/aAscTru1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aAscTru1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Ascaphus_truei/aAscTru1/assembly_vgp_HiC_2.0/evaluation/merqury/aAscTru1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Ascaphus_truei/aAscTru1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Ascaphus_truei/aAscTru1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;aAscTru1&nbsp;(VGL-aAscTru4),&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;This&nbsp;sample&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;
   ident: md8

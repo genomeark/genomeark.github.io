@@ -55,13 +55,13 @@ data_ont-2_scale: 1.7483
 data_ont_bases: 853.06 Gbp
 data_ont_bytes: 462.7 GiB
 data_ont_coverage: 269.10x
-data_pacbiohifi_bam-1_bases: 37.00 Gbp
-data_pacbiohifi_bam-1_bytes: 132.1 GiB
-data_pacbiohifi_bam-1_coverage: 11.67x
+data_pacbiohifi_bam-1_bases: 101.74 Gbp
+data_pacbiohifi_bam-1_bytes: 341.6 GiB
+data_pacbiohifi_bam-1_coverage: 32.09x
 data_pacbiohifi_bam-1_links: s3://genomeark/species/Hylobates_pileatus/mHylPil1/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hylobates_pileatus/mHylPil1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hylobates_pileatus/mHylPil1/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-1_scale: 0.2609
+data_pacbiohifi_bam-1_scale: 0.2774
 data_pacbiohifi_bam-2_bases: 156.45 Gbp
 data_pacbiohifi_bam-2_bytes: 525.2 GiB
 data_pacbiohifi_bam-2_coverage: 49.35x
@@ -69,9 +69,9 @@ data_pacbiohifi_bam-2_links: s3://genomeark/species/Hylobates_pileatus/mHylPil2/
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hylobates_pileatus/mHylPil2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hylobates_pileatus/mHylPil2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_scale: 0.2774
-data_pacbiohifi_bam_bases: 193.44 Gbp
-data_pacbiohifi_bam_bytes: 657.3 GiB
-data_pacbiohifi_bam_coverage: 61.02x
+data_pacbiohifi_bam_bases: 258.18 Gbp
+data_pacbiohifi_bam_bytes: 866.8 GiB
+data_pacbiohifi_bam_coverage: 81.45x
 data_pacbiohifi_fqgz-1_bases: 37.11 Gbp
 data_pacbiohifi_fqgz-1_bytes: 31.1 GiB
 data_pacbiohifi_fqgz-1_coverage: 11.71x
@@ -215,8 +215,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
-last_raw_data: 1743109931
-last_updated: 1743806798
+last_raw_data: 1756929302
+last_updated: 1756929302
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mHylPil<br>&nbsp;&nbsp;name:&nbsp;Hylobates&nbsp;pileatus<br>&nbsp;&nbsp;taxon_id:&nbsp;9589<br>&nbsp;&nbsp;common_name:&nbsp;Pileated&nbsp;Gibbon<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hylobatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mHylPil1<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Domino<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HP120<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_location:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_type:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Domino&nbsp;is&nbsp;a&nbsp;male&nbsp;Pileated&nbsp;Gibbon&nbsp;and&nbsp;his&nbsp;genome&nbsp;is&nbsp;being<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sequenced&nbsp;as&nbsp;part&nbsp;of&nbsp;a&nbsp;T2T&nbsp;effort.<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_type:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;isolation_source:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;age:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;collection_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mHylPil2<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Iszie<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HP185<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_location:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_type:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iszie&nbsp;is&nbsp;a&nbsp;female&nbsp;Pileated&nbsp;Gibbon&nbsp;and&nbsp;her&nbsp;genome&nbsp;is&nbsp;being<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sequenced&nbsp;as&nbsp;part&nbsp;of&nbsp;a&nbsp;T2T&nbsp;effort.<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_type:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;isolation_source:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;age:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;collection_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>&nbsp;&nbsp;genome_size:&nbsp;3170000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;Genomes&nbsp;on&nbsp;a&nbsp;Tree&nbsp;(GoaT)&nbsp;estimate<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>
 name: Hylobates pileatus
 name_: Hylobates_pileatus

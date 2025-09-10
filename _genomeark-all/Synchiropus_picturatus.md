@@ -1,0 +1,1 @@
+../_genomeark/Synchiropus_picturatus.md

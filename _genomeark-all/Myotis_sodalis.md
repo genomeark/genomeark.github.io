@@ -1,0 +1,1 @@
+../_genomeark/Myotis_sodalis.md

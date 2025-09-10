@@ -1,0 +1,1 @@
+../_genomeark/Echinorhinus_cookei.md
