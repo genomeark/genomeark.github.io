@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Northern Shoveler
 data_arima-1_bases: 70.09 Gbp
 data_arima-1_bytes: 18.6 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1378980000
 genome_size_display: 1.38 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-07-20
-hpa1filesize: 291.2 MiB
-hpa1length: '1240749328'
+hpa1date: 2025-11-19
+hpa1filesize: 343.8 MiB
+hpa1length: '1236977220'
 hpa1n50ctg: 3245899
 hpa1n50scf: 64834719
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Spatula_clypeata/bSpaCly1/assembly_cambridge/bSpaCly1.hap1.asm.20240720.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Spatula_clypeata/bSpaCly1/assembly_curated/bSpaCly1.hap1.cur.20251119.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 13 </td><td> 8.26 Mbp </td><td> 1 </td><td> 206.96 Mbp </td></tr><tr><td> 20 </td><td> 31 </td><td> 6.97 Mbp </td><td> 2 </td><td> 158.23 Mbp </td></tr><tr><td> 30 </td><td> 53 </td><td> 5.45 Mbp </td><td> 3 </td><td> 119.29 Mbp </td></tr><tr><td> 40 </td><td> 83 </td><td> 4.09 Mbp </td><td> 4 </td><td> 85.52 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 121 </td><td style="background-color:#88ff88;"> 3.25 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 64.83 Mbp </td></tr><tr><td> 60 </td><td> 170 </td><td> 2.30 Mbp </td><td> 10 </td><td> 26.47 Mbp </td></tr><tr><td> 70 </td><td> 239 </td><td> 1.71 Mbp </td><td> 16 </td><td> 20.13 Mbp </td></tr><tr><td> 80 </td><td> 344 </td><td> 0.92 Mbp </td><td> 29 </td><td> 4.29 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 13 </td><td> 8.26 Mbp </td><td> 1 </td><td> 206.96 Mbp </td></tr><tr><td> 20 </td><td> 31 </td><td> 6.97 Mbp </td><td> 2 </td><td> 159.24 Mbp </td></tr><tr><td> 30 </td><td> 53 </td><td> 5.45 Mbp </td><td> 3 </td><td> 119.29 Mbp </td></tr><tr><td> 40 </td><td> 83 </td><td> 4.09 Mbp </td><td> 4 </td><td> 85.52 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 121 </td><td style="background-color:#88ff88;"> 3.25 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 64.83 Mbp </td></tr><tr><td> 60 </td><td> 170 </td><td> 2.30 Mbp </td><td> 10 </td><td> 26.82 Mbp </td></tr><tr><td> 70 </td><td> 239 </td><td> 1.71 Mbp </td><td> 16 </td><td> 17.91 Mbp </td></tr><tr><td> 80 </td><td> 346 </td><td> 0.89 Mbp </td><td> 29 </td><td> 5.32 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.900x </th><th> 1011 </th><th> 1.24 Gbp </th><th> 561 </th><th> 1.24 Gbp </th></tr>
+  <tr><th> 0.897x </th><th> 1007 </th><th> 1.24 Gbp </th><th> 538 </th><th> 1.24 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-07-20
-hpb1filesize: 286.7 MiB
-hpb1length: '1197170162'
+hpa1version: assembly_curated
+hpb1date: 2025-11-19
+hpb1filesize: 338.1 MiB
+hpb1length: '1200106829'
 hpb1n50ctg: 3320859
 hpb1n50scf: 64951266
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Spatula_clypeata/bSpaCly1/assembly_cambridge/bSpaCly1.hap2.asm.20240720.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Spatula_clypeata/bSpaCly1/assembly_curated/bSpaCly1.hap2.cur.20251119.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 13 </td><td> 8.53 Mbp </td><td> 1 </td><td> 206.56 Mbp </td></tr><tr><td> 20 </td><td> 30 </td><td> 7.14 Mbp </td><td> 2 </td><td> 158.67 Mbp </td></tr><tr><td> 30 </td><td> 52 </td><td> 5.49 Mbp </td><td> 3 </td><td> 118.93 Mbp </td></tr><tr><td> 40 </td><td> 83 </td><td> 4.10 Mbp </td><td> 4 </td><td> 84.02 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 120 </td><td style="background-color:#88ff88;"> 3.32 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 64.95 Mbp </td></tr><tr><td> 60 </td><td> 169 </td><td> 2.29 Mbp </td><td> 10 </td><td> 26.84 Mbp </td></tr><tr><td> 70 </td><td> 241 </td><td> 1.59 Mbp </td><td> 16 </td><td> 20.13 Mbp </td></tr><tr><td> 80 </td><td> 369 </td><td> 0.62 Mbp </td><td> 31 </td><td> 2.75 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 13 </td><td> 8.53 Mbp </td><td> 1 </td><td> 206.56 Mbp </td></tr><tr><td> 20 </td><td> 30 </td><td> 7.14 Mbp </td><td> 2 </td><td> 159.69 Mbp </td></tr><tr><td> 30 </td><td> 52 </td><td> 5.49 Mbp </td><td> 3 </td><td> 119.23 Mbp </td></tr><tr><td> 40 </td><td> 83 </td><td> 4.10 Mbp </td><td> 4 </td><td> 84.02 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 120 </td><td style="background-color:#88ff88;"> 3.32 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 64.95 Mbp </td></tr><tr><td> 60 </td><td> 169 </td><td> 2.28 Mbp </td><td> 10 </td><td> 27.24 Mbp </td></tr><tr><td> 70 </td><td> 241 </td><td> 1.60 Mbp </td><td> 16 </td><td> 18.18 Mbp </td></tr><tr><td> 80 </td><td> 367 </td><td> 0.65 Mbp </td><td> 31 </td><td> 3.17 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.868x </th><th> 1093 </th><th> 1.20 Gbp </th><th> 626 </th><th> 1.20 Gbp </th></tr>
+  <tr><th> 0.870x </th><th> 1067 </th><th> 1.20 Gbp </th><th> 585 </th><th> 1.20 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1721498834
-last_updated: 1721504765
+last_updated: 1763514498
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bSpaCly<br>&nbsp;&nbsp;name:&nbsp;Spatula&nbsp;clypeata<br>&nbsp;&nbsp;taxon_id:&nbsp;75838<br>&nbsp;&nbsp;common_name:&nbsp;Northern&nbsp;Shoveler<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bSpaCly1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA115433011<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1378980000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-07-20
 mito1filesize: 5.0 KiB

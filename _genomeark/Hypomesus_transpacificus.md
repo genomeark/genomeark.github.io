@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: delta smelt
 data_10x-1_bases: 130.86 Gbp
 data_10x-1_bytes: 62.9 GiB
@@ -71,14 +71,43 @@ genome_size: 724000000
 genome_size_display: 0.72 Gbp
 genome_size_method: GoAT
 last_raw_data: 1747243578
-last_updated: 1747243578
+last_updated: 1761227910
 mds:
 - data: species:&nbsp;Hypomesus&nbsp;transpacificus<br>specimen:&nbsp;fHypTra1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_standard_2.0/fHypTra1.standard.pri.20240515.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_standard_2.0/fHypTra1.standard.alt.20240515.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_standard_2.0/evaluation/pri/pretext/fHypTra1_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_standard_2.0/evaluation/merqury/fHypTra1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.6+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;fHypTra1.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2,&nbsp;and&nbsp;the&nbsp;library&nbsp;prep&nbsp;kit&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;HiFi&nbsp;k-mers&nbsp;were&nbsp;not&nbsp;informative&nbsp;for&nbsp;merqury,&nbsp;so&nbsp;illumina&nbsp;k-mers&nbsp;were&nbsp;used.&nbsp;
-  ident: md2
+  ident: md4
   title: assembly_vgp_standard_2.0/fHypTra1.yaml
 metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Hypomesus&nbsp;transpacificus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fHypTra1<br>&nbsp;&nbsp;short_name:&nbsp;fHypTra<br>&nbsp;&nbsp;taxon_id:&nbsp;137520<br>&nbsp;&nbsp;common_name:&nbsp;delta&nbsp;smelt<br>&nbsp;&nbsp;genome_size:&nbsp;724000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Osmeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Osmeridae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Hypomesus transpacificus
 name_: Hypomesus_transpacificus
+pri1date: 2025-10-17
+pri1filesize: 137.5 MiB
+pri1length: '513771086'
+pri1n50ctg: 191757
+pri1n50scf: 12899013
+pri1seq: https://s3.amazonaws.com/genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_curated/fHypTra1.pri.cur.20251017.fasta.gz
+pri1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 15 </td><td> 3.16 Mbp </td><td> 3 </td><td> 22.94 Mbp </td></tr><tr><td> 20 </td><td> 48 </td><td> 1.39 Mbp </td><td> 7 </td><td> 20.23 Mbp </td></tr><tr><td> 30 </td><td> 127 </td><td> 0.69 Mbp </td><td> 11 </td><td> 17.74 Mbp </td></tr><tr><td> 40 </td><td> 274 </td><td> 371.59 Kbp </td><td> 15 </td><td> 15.16 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 549 </td><td style="background-color:#ff8888;"> 191.76 Kbp </td><td> 20 </td><td style="background-color:#88ff88;"> 12.90 Mbp </td></tr><tr><td> 60 </td><td> 1102 </td><td> 91.36 Kbp </td><td> 27 </td><td> 8.32 Mbp </td></tr><tr><td> 70 </td><td> 2611 </td><td> 22.14 Kbp </td><td> 436 </td><td> 27.70 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.709x </th><th> 2972 </th><th> 0.51 Gbp </th><th> 805 </th><th> 0.51 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri1version: assembly_curated
 project:
 - vgp
 short_name: fHypTra

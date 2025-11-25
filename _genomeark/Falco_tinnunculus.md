@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: common kestrel
 data_arima-1_bases: 86.94 Gbp
 data_arima-1_bytes: 24.1 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1403430000
 genome_size_display: 1.40 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-04-14
-hpa1filesize: 385.8 MiB
-hpa1length: '1386022214'
-hpa1n50ctg: 4872701
-hpa1n50scf: 83089145
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Falco_tinnunculus/bFalTin1/assembly_cambridge/bFalTin1.hap1.asm.20240414.fasta.gz
+hpa1date: 2025-11-18
+hpa1filesize: 393.1 MiB
+hpa1length: '1417242954'
+hpa1n50ctg: 4893020
+hpa1n50scf: 91707238
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Falco_tinnunculus/bFalTin1/assembly_curated/bFalTin1.hap1.cur.20251118.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 8 </td><td> 13.89 Mbp </td><td> 2 </td><td> 123.13 Mbp </td></tr><tr><td> 20 </td><td> 21 </td><td> 9.62 Mbp </td><td> 3 </td><td> 121.73 Mbp </td></tr><tr><td> 30 </td><td> 37 </td><td> 7.77 Mbp </td><td> 4 </td><td> 113.75 Mbp </td></tr><tr><td> 40 </td><td> 57 </td><td> 6.23 Mbp </td><td> 5 </td><td> 92.89 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 82 </td><td style="background-color:#88ff88;"> 4.87 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 83.09 Mbp </td></tr><tr><td> 60 </td><td> 116 </td><td> 3.68 Mbp </td><td> 9 </td><td> 65.15 Mbp </td></tr><tr><td> 70 </td><td> 161 </td><td> 2.67 Mbp </td><td> 11 </td><td> 38.11 Mbp </td></tr><tr><td> 80 </td><td> 225 </td><td> 1.75 Mbp </td><td> 16 </td><td> 23.60 Mbp </td></tr><tr><td> 90 </td><td> 346 </td><td> 0.76 Mbp </td><td> 65 </td><td> 1.02 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 9 </td><td> 12.22 Mbp </td><td> 2 </td><td> 123.13 Mbp </td></tr><tr><td> 20 </td><td> 22 </td><td> 9.28 Mbp </td><td> 3 </td><td> 122.52 Mbp </td></tr><tr><td> 30 </td><td> 38 </td><td> 7.56 Mbp </td><td> 4 </td><td> 113.75 Mbp </td></tr><tr><td> 40 </td><td> 59 </td><td> 6.15 Mbp </td><td> 5 </td><td> 92.89 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 84 </td><td style="background-color:#88ff88;"> 4.89 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 91.71 Mbp </td></tr><tr><td> 60 </td><td> 117 </td><td> 3.77 Mbp </td><td> 9 </td><td> 65.67 Mbp </td></tr><tr><td> 70 </td><td> 161 </td><td> 2.76 Mbp </td><td> 11 </td><td> 54.06 Mbp </td></tr><tr><td> 80 </td><td> 223 </td><td> 1.82 Mbp </td><td> 14 </td><td> 34.05 Mbp </td></tr><tr><td> 90 </td><td> 331 </td><td> 0.88 Mbp </td><td> 27 </td><td> 2.36 Mbp </td></tr><tr><td> 100 </td><td> 725 </td><td> 97.00 Kbp </td><td> 282 </td><td> 130.88 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.988x </th><th> 960 </th><th> 1.39 Gbp </th><th> 601 </th><th> 1.39 Gbp </th></tr>
+  <tr><th> 1.010x </th><th> 1003 </th><th> 1.42 Gbp </th><th> 507 </th><th> 1.42 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-04-14
-hpb1filesize: 348.0 MiB
-hpb1length: '1234605519'
-hpb1n50ctg: 4347048
-hpb1n50scf: 73098354
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Falco_tinnunculus/bFalTin1/assembly_cambridge/bFalTin1.hap2.asm.20240414.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2025-11-18
+hpb1filesize: 340.1 MiB
+hpb1length: '1201163297'
+hpb1n50ctg: 4231359
+hpb1n50scf: 73183553
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Falco_tinnunculus/bFalTin1/assembly_curated/bFalTin1.hap2.cur.20251118.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 10 </td><td> 11.58 Mbp </td><td> 2 </td><td> 123.07 Mbp </td></tr><tr><td> 20 </td><td> 24 </td><td> 9.66 Mbp </td><td> 3 </td><td> 121.91 Mbp </td></tr><tr><td> 30 </td><td> 41 </td><td> 7.13 Mbp </td><td> 4 </td><td> 112.84 Mbp </td></tr><tr><td> 40 </td><td> 63 </td><td> 5.63 Mbp </td><td> 5 </td><td> 92.22 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 90 </td><td style="background-color:#88ff88;"> 4.35 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 73.10 Mbp </td></tr><tr><td> 60 </td><td> 127 </td><td> 3.16 Mbp </td><td> 9 </td><td> 56.34 Mbp </td></tr><tr><td> 70 </td><td> 180 </td><td> 2.10 Mbp </td><td> 13 </td><td> 30.93 Mbp </td></tr><tr><td> 80 </td><td> 281 </td><td> 0.84 Mbp </td><td> 28 </td><td> 2.69 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 10 </td><td> 12.10 Mbp </td><td> 2 </td><td> 123.07 Mbp </td></tr><tr><td> 20 </td><td> 23 </td><td> 9.62 Mbp </td><td> 3 </td><td> 122.46 Mbp </td></tr><tr><td> 30 </td><td> 40 </td><td> 7.10 Mbp </td><td> 4 </td><td> 112.84 Mbp </td></tr><tr><td> 40 </td><td> 62 </td><td> 5.75 Mbp </td><td> 5 </td><td> 93.17 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 91 </td><td style="background-color:#88ff88;"> 4.23 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 73.18 Mbp </td></tr><tr><td> 60 </td><td> 129 </td><td> 3.01 Mbp </td><td> 9 </td><td> 56.62 Mbp </td></tr><tr><td> 70 </td><td> 185 </td><td> 1.93 Mbp </td><td> 13 </td><td> 30.71 Mbp </td></tr><tr><td> 80 </td><td> 305 </td><td> 0.60 Mbp </td><td> 34 </td><td> 1.21 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.880x </th><th> 910 </th><th> 1.23 Gbp </th><th> 568 </th><th> 1.23 Gbp </th></tr>
+  <tr><th> 0.856x </th><th> 830 </th><th> 1.20 Gbp </th><th> 447 </th><th> 1.20 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1712935523
-last_updated: 1713192399
+last_updated: 1763478150
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bFalTin<br>&nbsp;&nbsp;name:&nbsp;Falco&nbsp;tinnunculus<br>&nbsp;&nbsp;taxon_id:&nbsp;100819<br>&nbsp;&nbsp;common_name:&nbsp;common&nbsp;kestrel<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Falconidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bFalTin1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114594452<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1403430000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-04-14
 mito1filesize: 5.4 KiB

@@ -1,0 +1,1 @@
+../_genomeark/Tamiasciurus_hudsonicus.md

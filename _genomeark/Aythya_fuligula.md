@@ -28,12 +28,12 @@ alt2sizes: |
   </tfoot>
   </table>
 alt2version: assembly_curated
-alt3date: 2024-05-10
-alt3filesize: 292.1 MiB
-alt3length: '1152390137'
-alt3n50ctg: '1787219'
-alt3n50scf: '1787219'
-alt3seq: https://s3.amazonaws.com/genomeark/species/Aythya_fuligula/bAytFul3/assembly_cambridge/bAytFul3.alt.asm.20240510.fasta.gz
+alt3date: 2025-11-18
+alt3filesize: 325.7 MiB
+alt3length: '1145776103'
+alt3n50ctg: '1677354'
+alt3n50scf: '63133507'
+alt3seq: https://s3.amazonaws.com/genomeark/species/Aythya_fuligula/bAytFul3/assembly_curated/bAytFul3.alt.cur.20251118.fasta.gz
 alt3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -51,12 +51,12 @@ alt3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 21 </td><td> 4.71 Mbp </td><td> 21 </td><td> 4.71 Mbp </td></tr><tr><td> 20 </td><td> 51 </td><td> 3.54 Mbp </td><td> 51 </td><td> 3.54 Mbp </td></tr><tr><td> 30 </td><td> 89 </td><td> 2.75 Mbp </td><td> 89 </td><td> 2.75 Mbp </td></tr><tr><td> 40 </td><td> 138 </td><td> 2.19 Mbp </td><td> 138 </td><td> 2.19 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 198 </td><td> 1.79 Mbp </td><td> 198 </td><td> 1.79 Mbp </td></tr><tr><td> 60 </td><td> 280 </td><td> 1.28 Mbp </td><td> 280 </td><td> 1.28 Mbp </td></tr><tr><td> 70 </td><td> 396 </td><td> 0.86 Mbp </td><td> 396 </td><td> 0.86 Mbp </td></tr><tr><td> 80 </td><td> 589 </td><td> 440.04 Kbp </td><td> 589 </td><td> 440.04 Kbp </td></tr><tr><td> 90 </td><td> 1137 </td><td> 100.31 Kbp </td><td> 1137 </td><td> 100.31 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 21 </td><td> 4.56 Mbp </td><td> 1 </td><td> 202.21 Mbp </td></tr><tr><td> 20 </td><td> 51 </td><td> 3.48 Mbp </td><td> 2 </td><td> 155.82 Mbp </td></tr><tr><td> 30 </td><td> 91 </td><td> 2.67 Mbp </td><td> 3 </td><td> 118.22 Mbp </td></tr><tr><td> 40 </td><td> 141 </td><td> 2.17 Mbp </td><td> 4 </td><td> 73.79 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 203 </td><td> 1.68 Mbp </td><td> 5 </td><td> 63.13 Mbp </td></tr><tr><td> 60 </td><td> 288 </td><td> 1.20 Mbp </td><td> 8 </td><td> 31.99 Mbp </td></tr><tr><td> 70 </td><td> 412 </td><td> 0.78 Mbp </td><td> 14 </td><td> 19.92 Mbp </td></tr><tr><td> 80 </td><td> 626 </td><td> 388.09 Kbp </td><td> 23 </td><td> 7.50 Mbp </td></tr><tr><td> 90 </td><td> 1341 </td><td> 70.00 Kbp </td><td> 287 </td><td> 92.69 Kbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.960x </th><th> 3492 </th><th> 1.15 Gbp </th><th> 3492 </th><th> 1.15 Gbp </th></tr>
+  <tr><th> 0.955x </th><th> 4102 </th><th> 1.15 Gbp </th><th> 2949 </th><th> 1.15 Gbp </th></tr>
   </tfoot>
   </table>
-alt3version: assembly_cambridge
+alt3version: assembly_curated
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: tufted duck
 data_10x-2_bases: 132.96 Gbp
@@ -128,7 +128,7 @@ genome_size: 1200000000
 genome_size_display: 1.20 Gbp
 genome_size_method: ''
 last_raw_data: 1711960512
-last_updated: 1715415337
+last_updated: 1763478067
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bAytFul<br>&nbsp;&nbsp;name:&nbsp;Aythya&nbsp;fuligula<br>&nbsp;&nbsp;taxon_id:&nbsp;219594<br>&nbsp;&nbsp;common_name:&nbsp;tufted&nbsp;duck<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anseriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Anatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAytFul2<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAytFul3<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113398827<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1200000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito3date: 2024-05-10
 mito3filesize: 5.3 KiB
@@ -191,12 +191,12 @@ pri2sizes: |
   </tfoot>
   </table>
 pri2version: assembly_curated
-pri3date: 2024-05-10
-pri3filesize: 335.8 MiB
-pri3length: '1172428999'
-pri3n50ctg: 3958466
-pri3n50scf: 75805769
-pri3seq: https://s3.amazonaws.com/genomeark/species/Aythya_fuligula/bAytFul3/assembly_cambridge/bAytFul3.pri.asm.20240510.fasta.gz
+pri3date: 2025-11-18
+pri3filesize: 336.7 MiB
+pri3length: '1175444484'
+pri3n50ctg: 3921302
+pri3n50scf: 76924276
+pri3seq: https://s3.amazonaws.com/genomeark/species/Aythya_fuligula/bAytFul3/assembly_curated/bAytFul3.pri.cur.20251118.fasta.gz
 pri3sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -214,12 +214,12 @@ pri3sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 12 </td><td> 8.83 Mbp </td><td> 1 </td><td> 207.31 Mbp </td></tr><tr><td> 20 </td><td> 27 </td><td> 6.95 Mbp </td><td> 2 </td><td> 159.66 Mbp </td></tr><tr><td> 30 </td><td> 46 </td><td> 5.93 Mbp </td><td> 2 </td><td> 159.66 Mbp </td></tr><tr><td> 40 </td><td> 68 </td><td> 4.79 Mbp </td><td> 3 </td><td> 119.97 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 95 </td><td style="background-color:#88ff88;"> 3.96 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 75.81 Mbp </td></tr><tr><td> 60 </td><td> 128 </td><td> 3.26 Mbp </td><td> 7 </td><td> 39.86 Mbp </td></tr><tr><td> 70 </td><td> 170 </td><td> 2.44 Mbp </td><td> 10 </td><td> 26.44 Mbp </td></tr><tr><td> 80 </td><td> 232 </td><td> 1.49 Mbp </td><td> 16 </td><td> 17.91 Mbp </td></tr><tr><td> 90 </td><td> 339 </td><td> 0.79 Mbp </td><td> 27 </td><td> 6.42 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 12 </td><td> 8.83 Mbp </td><td> 1 </td><td> 207.31 Mbp </td></tr><tr><td> 20 </td><td> 27 </td><td> 6.95 Mbp </td><td> 2 </td><td> 159.66 Mbp </td></tr><tr><td> 30 </td><td> 46 </td><td> 5.91 Mbp </td><td> 2 </td><td> 159.66 Mbp </td></tr><tr><td> 40 </td><td> 69 </td><td> 4.79 Mbp </td><td> 3 </td><td> 119.97 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 96 </td><td style="background-color:#88ff88;"> 3.92 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 76.92 Mbp </td></tr><tr><td> 60 </td><td> 129 </td><td> 3.25 Mbp </td><td> 7 </td><td> 39.86 Mbp </td></tr><tr><td> 70 </td><td> 171 </td><td> 2.44 Mbp </td><td> 10 </td><td> 26.77 Mbp </td></tr><tr><td> 80 </td><td> 233 </td><td> 1.49 Mbp </td><td> 15 </td><td> 20.12 Mbp </td></tr><tr><td> 90 </td><td> 340 </td><td> 0.79 Mbp </td><td> 24 </td><td> 7.64 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.977x </th><th> 1113 </th><th> 1.17 Gbp </th><th> 532 </th><th> 1.17 Gbp </th></tr>
+  <tr><th> 0.979x </th><th> 1034 </th><th> 1.18 Gbp </th><th> 392 </th><th> 1.18 Gbp </th></tr>
   </tfoot>
   </table>
-pri3version: assembly_cambridge
+pri3version: assembly_curated
 project:
 - vgp
 short_name: bAytFul

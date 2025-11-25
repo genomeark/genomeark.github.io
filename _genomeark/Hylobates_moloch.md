@@ -18,16 +18,16 @@ data_illumina-1_links: s3://genomeark/species/Hylobates_moloch/mHylMol1/genomic_
 data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hylobates_moloch/mHylMol1/genomic_data/illumina/
 data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hylobates_moloch/mHylMol1/genomic_data/illumina/
 data_illumina-1_scale: 1.6320
-data_illumina-2_bases: 122.45 Gbp
-data_illumina-2_bytes: 50.4 GiB
-data_illumina-2_coverage: 38.64x
+data_illumina-2_bases: 242.85 Gbp
+data_illumina-2_bytes: 109.7 GiB
+data_illumina-2_coverage: 76.64x
 data_illumina-2_links: s3://genomeark/species/Hylobates_moloch/mHylMol2/genomic_data/illumina/<br>
 data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hylobates_moloch/mHylMol2/genomic_data/illumina/
 data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hylobates_moloch/mHylMol2/genomic_data/illumina/
-data_illumina-2_scale: 2.2637
-data_illumina_bases: 263.20 Gbp
-data_illumina_bytes: 130.7 GiB
-data_illumina_coverage: 83.06x
+data_illumina-2_scale: 2.0623
+data_illumina_bases: 383.60 Gbp
+data_illumina_bytes: 190.0 GiB
+data_illumina_coverage: 121.06x
 data_ont-1_bases: 303.46 Gbp
 data_ont-1_bytes: 239.8 GiB
 data_ont-1_coverage: 95.77x
@@ -205,8 +205,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
-last_raw_data: 1742917273
-last_updated: 1743805759
+last_raw_data: 1758118665
+last_updated: 1758118665
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mHylMol<br>&nbsp;&nbsp;name:&nbsp;Hylobates&nbsp;moloch<br>&nbsp;&nbsp;taxon_id:&nbsp;81572<br>&nbsp;&nbsp;common_name:&nbsp;Silvery&nbsp;Gibbon<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hylobatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mHylMol1<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Lionel<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMN12851060<br>&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HMO894&nbsp;(ISIS#)<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_date:&nbsp;6&nbsp;November&nbsp;2001<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_location:&nbsp;Gibbon&nbsp;Conservation&nbsp;Center,&nbsp;Santa&nbsp;Clarita,&nbsp;California,&nbsp;USA<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_type:&nbsp;Captive&nbsp;born<br>&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;mHylMol2<br>&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lionel&nbsp;is&nbsp;a&nbsp;male&nbsp;silvery&nbsp;or&nbsp;Javan&nbsp;gibbon&nbsp;born&nbsp;in&nbsp;the&nbsp;Gibbon&nbsp;Conservation<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Center,&nbsp;and&nbsp;his&nbsp;genome&nbsp;is&nbsp;being&nbsp;sequenced&nbsp;as&nbsp;part&nbsp;of&nbsp;a&nbsp;T2T&nbsp;effort.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lionel's&nbsp;parents&nbsp;are&nbsp;Shelby&nbsp;(father)&nbsp;and&nbsp;Chloe&nbsp;(mother;&nbsp;mHylMol2;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ISIS#&nbsp;HMO803).<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;mHylMol1.lcl1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_type:&nbsp;cell&nbsp;culture<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;isolation_source:&nbsp;EBV-transformed&nbsp;lymphoblastoid&nbsp;cell&nbsp;line<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;age:&nbsp;7&nbsp;years<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;SAMN12851060<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;collection_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mHylMol2<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chloe<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HMO803&nbsp;(ISIS#)<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;910114&nbsp;(Winnipeg&nbsp;local&nbsp;ID)<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_date:&nbsp;24&nbsp;February&nbsp;1990<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_location:&nbsp;Assiniboine&nbsp;Park&nbsp;Zoo,&nbsp;Winnipeg,&nbsp;Manitoba,&nbsp;Canada<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_type:&nbsp;Captive&nbsp;born<br>&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chloe&nbsp;is&nbsp;a&nbsp;female&nbsp;silvery&nbsp;or&nbsp;Javan&nbsp;gibbon&nbsp;born&nbsp;in&nbsp;the&nbsp;Assiniboine&nbsp;Park<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zoo,&nbsp;and&nbsp;the&nbsp;genome&nbsp;of&nbsp;her&nbsp;male&nbsp;child&nbsp;(Lionel;&nbsp;mHylMol1;&nbsp;ISIS#&nbsp;HMO894)&nbsp;is<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;being&nbsp;sequenced&nbsp;as&nbsp;part&nbsp;of&nbsp;a&nbsp;T2T&nbsp;effort.&nbsp;Chloe's&nbsp;parents&nbsp;are&nbsp;Billy&nbsp;J<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(father)&nbsp;and&nbsp;Bobbie-Jean&nbsp;(mother).<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;samples:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;project:&nbsp;null<br>&nbsp;&nbsp;genome_size:&nbsp;3168720000<br>&nbsp;&nbsp;genome_size_method:&nbsp;Feulgen&nbsp;Densitometry&nbsp;(found&nbsp;via&nbsp;the&nbsp;Animal&nbsp;Genome&nbsp;Size&nbsp;Database&nbsp;and&nbsp;Genomes&nbsp;on&nbsp;a&nbsp;Tree&nbsp;(GoaT))<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>
 name: Hylobates moloch
 name_: Hylobates_moloch

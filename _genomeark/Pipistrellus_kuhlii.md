@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Kuhl's pipistrelle
 data_10x-1_bases: 95.71 Gbp
 data_10x-1_bytes: 59.3 GiB
@@ -52,7 +52,7 @@ genome_size: 1775719727
 genome_size_display: 1.78 Gbp
 genome_size_method: DAmar assembly
 last_raw_data: 1574852977
-last_updated: 1582303601
+last_updated: 1760022358
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPipKuh<br>&nbsp;&nbsp;name:&nbsp;Pipistrellus&nbsp;kuhlii<br>&nbsp;&nbsp;taxon_id:&nbsp;59472<br>&nbsp;&nbsp;common_name:&nbsp;Kuhl's&nbsp;pipistrelle<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPipKuh1<br>&nbsp;&nbsp;genome_size:&nbsp;1775719727<br>&nbsp;&nbsp;genome_size_method:&nbsp;DAmar&nbsp;assembly&nbsp;<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-12-04
 mito1filesize: 4.9 KiB
@@ -85,12 +85,12 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Pipistrellus kuhlii
 name_: Pipistrellus_kuhlii
-pri1date: 2019-04-24
-pri1filesize: 562.1 MiB
-pri1length: '1775719727'
+pri1date: 2025-09-10
+pri1filesize: 557.0 MiB
+pri1length: '1775701441'
 pri1n50ctg: 10239182
-pri1n50scf: 80237350
-pri1seq: https://s3.amazonaws.com/genomeark/species/Pipistrellus_kuhlii/mPipKuh1/assembly_dresden_DAmar1.0/mPipKuh1.pri.asm.20190424.fasta.gz
+pri1n50scf: 97264675
+pri1seq: https://s3.amazonaws.com/genomeark/species/Pipistrellus_kuhlii/mPipKuh1/assembly_curated/mPipKuh1.pri.cur.20250910.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -108,12 +108,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 4 </td><td> 34.46 Mbp </td><td> 0 </td><td> 197.21 Mbp </td></tr><tr><td> 20 </td><td> 9 </td><td> 28.49 Mbp </td><td> 1 </td><td> 189.23 Mbp </td></tr><tr><td> 30 </td><td> 18 </td><td> 18.93 Mbp </td><td> 2 </td><td> 187.11 Mbp </td></tr><tr><td> 40 </td><td> 28 </td><td> 14.71 Mbp </td><td> 4 </td><td> 83.51 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 43 </td><td style="background-color:#88ff88;"> 10.24 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 80.24 Mbp </td></tr><tr><td> 60 </td><td> 61 </td><td> 8.52 Mbp </td><td> 9 </td><td> 57.45 Mbp </td></tr><tr><td> 70 </td><td> 88 </td><td> 5.20 Mbp </td><td> 12 </td><td> 51.07 Mbp </td></tr><tr><td> 80 </td><td> 132 </td><td> 3.14 Mbp </td><td> 16 </td><td> 30.60 Mbp </td></tr><tr><td> 90 </td><td> 219 </td><td> 1.25 Mbp </td><td> 30 </td><td> 6.78 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 201 </td><td> 19.24 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 5 </td><td> 34.46 Mbp </td><td> 1 </td><td> 205.27 Mbp </td></tr><tr><td> 20 </td><td> 10 </td><td> 28.49 Mbp </td><td> 2 </td><td> 197.82 Mbp </td></tr><tr><td> 30 </td><td> 19 </td><td> 18.93 Mbp </td><td> 3 </td><td> 191.90 Mbp </td></tr><tr><td> 40 </td><td> 29 </td><td> 14.71 Mbp </td><td> 5 </td><td> 101.62 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 44 </td><td style="background-color:#88ff88;"> 10.24 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 97.26 Mbp </td></tr><tr><td> 60 </td><td> 62 </td><td> 8.52 Mbp </td><td> 8 </td><td> 85.22 Mbp </td></tr><tr><td> 70 </td><td> 89 </td><td> 5.20 Mbp </td><td> 11 </td><td> 72.04 Mbp </td></tr><tr><td> 80 </td><td> 133 </td><td> 3.14 Mbp </td><td> 13 </td><td> 59.95 Mbp </td></tr><tr><td> 90 </td><td> 220 </td><td> 1.25 Mbp </td><td> 17 </td><td> 47.40 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.993x </th><th> 596 </th><th> 1.76 Gbp </th><th> 202 </th><th> 1.78 Gbp </th></tr>
+  <tr><th> 0.993x </th><th> 603 </th><th> 1.76 Gbp </th><th> 81 </th><th> 1.78 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_dresden_DAmar1.0
+pri1version: assembly_curated
 project:
 - vgp
 short_name: mPipKuh

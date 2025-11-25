@@ -11,23 +11,23 @@ data_arima-2_scale: 1.8928
 data_arima_bases: 259.53 Gbp
 data_arima_bytes: 127.7 GiB
 data_arima_coverage: 80.35x
-data_illumina-1_bases: 67.15 Gbp
-data_illumina-1_bytes: 28.5 GiB
-data_illumina-1_coverage: 20.79x
+data_illumina-1_bases: 204.52 Gbp
+data_illumina-1_bytes: 94.5 GiB
+data_illumina-1_coverage: 63.32x
 data_illumina-1_links: s3://genomeark/species/Nomascus_leucogenys/mNomLeu1/genomic_data/illumina/<br>
 data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nomascus_leucogenys/mNomLeu1/genomic_data/illumina/
 data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nomascus_leucogenys/mNomLeu1/genomic_data/illumina/
-data_illumina-1_scale: 2.1956
-data_illumina-2_bases: 36.53 Gbp
-data_illumina-2_bytes: 14.9 GiB
-data_illumina-2_coverage: 11.31x
+data_illumina-1_scale: 2.0155
+data_illumina-2_bases: 167.53 Gbp
+data_illumina-2_bytes: 79.1 GiB
+data_illumina-2_coverage: 51.87x
 data_illumina-2_links: s3://genomeark/species/Nomascus_leucogenys/mNomLeu2/genomic_data/illumina/<br>
 data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Nomascus_leucogenys/mNomLeu2/genomic_data/illumina/
 data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nomascus_leucogenys/mNomLeu2/genomic_data/illumina/
-data_illumina-2_scale: 2.2797
-data_illumina_bases: 103.69 Gbp
-data_illumina_bytes: 43.4 GiB
-data_illumina_coverage: 32.10x
+data_illumina-2_scale: 1.9728
+data_illumina_bases: 372.05 Gbp
+data_illumina_bytes: 173.6 GiB
+data_illumina_coverage: 115.19x
 data_ont-1_bases: 253.72 Gbp
 data_ont-1_bytes: 197.0 GiB
 data_ont-1_coverage: 78.55x
@@ -204,8 +204,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
-last_raw_data: 1742921359
-last_updated: 1743806279
+last_raw_data: 1758118188
+last_updated: 1758118188
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mNomLeu<br>&nbsp;&nbsp;name:&nbsp;Nomascus&nbsp;leucogenys<br>&nbsp;&nbsp;taxon_id:&nbsp;61853<br>&nbsp;&nbsp;common_name:&nbsp;Northern&nbsp;White-Cheeked&nbsp;Gibbon<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Nomascus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mNomLeu1<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vok<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;NLL600&nbsp;(ISIS#)<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;830031&nbsp;(Melbourne&nbsp;local&nbsp;ID)<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_date:&nbsp;29&nbsp;April&nbsp;1983<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_location:&nbsp;Melbourne&nbsp;Zoo,&nbsp;Melbourne,&nbsp;Australia<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_type:&nbsp;Captive&nbsp;born<br>&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vok&nbsp;is&nbsp;a&nbsp;male&nbsp;Northern&nbsp;White-Cheeked&nbsp;Gibbon&nbsp;born&nbsp;in&nbsp;the&nbsp;Melbourne&nbsp;Zoo,&nbsp;and<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;his&nbsp;genome&nbsp;is&nbsp;being&nbsp;sequenced&nbsp;as&nbsp;part&nbsp;of&nbsp;a&nbsp;T2T&nbsp;effort.&nbsp;We&nbsp;do&nbsp;not&nbsp;have&nbsp;the<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;information&nbsp;on&nbsp;Vok's&nbsp;parents,&nbsp;but&nbsp;we&nbsp;do&nbsp;know&nbsp;that&nbsp;he&nbsp;is&nbsp;the&nbsp;Sire&nbsp;of&nbsp;St.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paddy&nbsp;(male;&nbsp;ISIS#&nbsp;NLL696)&nbsp;and&nbsp;Parker&nbsp;(female;&nbsp;ISIS#&nbsp;NLL699).<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;mNomLeu1.lcl1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_type:&nbsp;cell&nbsp;culture<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;isolation_source:&nbsp;EBV-transformed&nbsp;lymphoblastoid&nbsp;cell&nbsp;line<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;age:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;collection_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mNomLeu2<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Asia<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_location:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_type:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asia&nbsp;is&nbsp;a&nbsp;female&nbsp;Northern&nbsp;White-Cheeked&nbsp;Gibbon&nbsp;and&nbsp;her&nbsp;genome&nbsp;is&nbsp;being<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sequenced&nbsp;as&nbsp;part&nbsp;of&nbsp;a&nbsp;T2T&nbsp;effort.<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_type:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;isolation_source:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;age:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;collection_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>&nbsp;&nbsp;genome_size:&nbsp;3230000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;Genomes&nbsp;on&nbsp;a&nbsp;Tree&nbsp;(GoaT)&nbsp;estimate<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>
 name: Nomascus leucogenys
 name_: Nomascus_leucogenys

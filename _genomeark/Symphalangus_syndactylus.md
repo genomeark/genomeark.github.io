@@ -57,16 +57,16 @@ data_illumina-1_links: s3://genomeark/species/Symphalangus_syndactylus/mSymSyn1/
 data_illumina-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/illumina/
 data_illumina-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Symphalangus_syndactylus/mSymSyn1/genomic_data/illumina/
 data_illumina-1_scale: 1.9006
-data_illumina-2_bases: 34.18 Gbp
-data_illumina-2_bytes: 14.0 GiB
-data_illumina-2_coverage: 10.37x
+data_illumina-2_bases: 166.59 Gbp
+data_illumina-2_bytes: 77.1 GiB
+data_illumina-2_coverage: 50.55x
 data_illumina-2_links: s3://genomeark/species/Symphalangus_syndactylus/mSymSyn2/genomic_data/illumina/<br>
 data_illumina-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn2/genomic_data/illumina/
 data_illumina-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Symphalangus_syndactylus/mSymSyn2/genomic_data/illumina/
-data_illumina-2_scale: 2.2742
-data_illumina_bases: 457.66 Gbp
-data_illumina_bytes: 221.5 GiB
-data_illumina_coverage: 138.86x
+data_illumina-2_scale: 2.0119
+data_illumina_bases: 590.07 Gbp
+data_illumina_bytes: 284.6 GiB
+data_illumina_coverage: 179.03x
 data_ont-1_bases: 1144.01 Gbp
 data_ont-1_bytes: 846.4 GiB
 data_ont-1_coverage: 347.10x
@@ -283,8 +283,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
-last_raw_data: 1756930559
-last_updated: 1756930559
+last_raw_data: 1758115875
+last_updated: 1758115875
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mSymSyn<br>&nbsp;&nbsp;name:&nbsp;Symphalangus&nbsp;syndactylus<br>&nbsp;&nbsp;common_name:&nbsp;siamang&nbsp;gibbon<br>&nbsp;&nbsp;taxon_id:&nbsp;9590<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hylobatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mSymSyn1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Jambi<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMN30216103<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subspecies:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Jambi_SSY<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;MIG12-29960010<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone&nbsp;(Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mSymSyn2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Karenina<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone&nbsp;(Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;genome_size:&nbsp;3295860000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT&nbsp;Fuelgen&nbsp;Densitometry/Flow&nbsp;Cytometry<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>
 mito1date: 2023-11-22
 mito1filesize: 5.3 KiB

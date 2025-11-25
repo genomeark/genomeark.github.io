@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Not provided by NCBI taxonomy
 data_arima-1_bases: 86.63 Gbp
 data_arima-1_bytes: 25.4 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 860640000
 genome_size_display: 0.86 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-05-24
-hpa1filesize: 143.3 MiB
-hpa1length: '523629412'
-hpa1n50ctg: 60566
-hpa1n50scf: 345026
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Trisopterus_luscus/fTriLus1/assembly_cambridge/fTriLus1.hap1.asm.20240524.fasta.gz
+hpa1date: 2025-11-18
+hpa1filesize: 149.9 MiB
+hpa1length: '548567887'
+hpa1n50ctg: 76664
+hpa1n50scf: 11541734
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Trisopterus_luscus/fTriLus1/assembly_curated/fTriLus1.hap1.cur.20251118.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 73 </td><td> 0.74 Mbp </td><td> 5 </td><td> 19.31 Mbp </td></tr><tr><td> 20 </td><td> 235 </td><td> 403.86 Kbp </td><td> 9 </td><td> 18.30 Mbp </td></tr><tr><td> 30 </td><td> 517 </td><td> 232.55 Kbp </td><td> 14 </td><td> 16.05 Mbp </td></tr><tr><td> 40 </td><td> 1016 </td><td> 126.53 Kbp </td><td> 20 </td><td> 12.74 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 2019 </td><td style="background-color:#ff8888;"> 60.57 Kbp </td><td> 75 </td><td style="background-color:#ff8888;"> 345.03 Kbp </td></tr><tr><td> 60 </td><td> 4574 </td><td> 17.81 Kbp </td><td> 1599 </td><td> 18.20 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 67 </td><td> 0.80 Mbp </td><td> 4 </td><td> 20.88 Mbp </td></tr><tr><td> 20 </td><td> 212 </td><td> 448.65 Kbp </td><td> 9 </td><td> 18.69 Mbp </td></tr><tr><td> 30 </td><td> 458 </td><td> 274.05 Kbp </td><td> 13 </td><td> 18.09 Mbp </td></tr><tr><td> 40 </td><td> 873 </td><td> 157.58 Kbp </td><td> 18 </td><td> 16.22 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1664 </td><td style="background-color:#ff8888;"> 76.66 Kbp </td><td> 24 </td><td style="background-color:#88ff88;"> 11.54 Mbp </td></tr><tr><td> 60 </td><td> 3493 </td><td> 29.03 Kbp </td><td> 577 </td><td> 42.75 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.608x </th><th> 5206 </th><th> 0.52 Gbp </th><th> 2264 </th><th> 0.52 Gbp </th></tr>
+  <tr><th> 0.637x </th><th> 5198 </th><th> 0.55 Gbp </th><th> 2153 </th><th> 0.55 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-05-24
-hpb1filesize: 152.7 MiB
-hpb1length: '559845775'
-hpb1n50ctg: 95005
-hpb1n50scf: 1133155
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Trisopterus_luscus/fTriLus1/assembly_cambridge/fTriLus1.hap2.asm.20240524.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2025-11-18
+hpb1filesize: 144.7 MiB
+hpb1length: '529862677'
+hpb1n50ctg: 74478
+hpb1n50scf: 400000
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Trisopterus_luscus/fTriLus1/assembly_curated/fTriLus1.hap2.cur.20251118.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 65 </td><td> 0.88 Mbp </td><td> 4 </td><td> 20.86 Mbp </td></tr><tr><td> 20 </td><td> 203 </td><td> 484.75 Kbp </td><td> 9 </td><td> 18.88 Mbp </td></tr><tr><td> 30 </td><td> 429 </td><td> 303.28 Kbp </td><td> 13 </td><td> 18.57 Mbp </td></tr><tr><td> 40 </td><td> 802 </td><td> 180.15 Kbp </td><td> 19 </td><td> 15.37 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1455 </td><td style="background-color:#ff8888;"> 95.01 Kbp </td><td> 29 </td><td style="background-color:#ff8888;"> 1.13 Mbp </td></tr><tr><td> 60 </td><td> 2846 </td><td> 39.66 Kbp </td><td> 364 </td><td> 100.11 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 70 </td><td> 0.80 Mbp </td><td> 5 </td><td> 20.29 Mbp </td></tr><tr><td> 20 </td><td> 222 </td><td> 436.17 Kbp </td><td> 9 </td><td> 19.42 Mbp </td></tr><tr><td> 30 </td><td> 478 </td><td> 263.24 Kbp </td><td> 14 </td><td> 16.51 Mbp </td></tr><tr><td> 40 </td><td> 918 </td><td> 149.45 Kbp </td><td> 19 </td><td> 13.94 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1739 </td><td style="background-color:#ff8888;"> 74.48 Kbp </td><td> 67 </td><td style="background-color:#ff8888;"> 400.00 Kbp </td></tr><tr><td> 60 </td><td> 3712 </td><td> 24.61 Kbp </td><td> 892 </td><td> 31.96 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.650x </th><th> 4625 </th><th> 0.56 Gbp </th><th> 1717 </th><th> 0.56 Gbp </th></tr>
+  <tr><th> 0.615x </th><th> 4545 </th><th> 0.53 Gbp </th><th> 1704 </th><th> 0.53 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1711705911
-last_updated: 1716992539
+last_updated: 1763478086
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fTriLus<br>&nbsp;&nbsp;name:&nbsp;Trisopterus&nbsp;luscus<br>&nbsp;&nbsp;taxon_id:&nbsp;27722<br>&nbsp;&nbsp;common_name:&nbsp;Not&nbsp;provided&nbsp;by&nbsp;NCBI&nbsp;taxonomy<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gadiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Gadidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fTriLus1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114298638<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;860640000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-05-24
 mito1filesize: 5.4 KiB

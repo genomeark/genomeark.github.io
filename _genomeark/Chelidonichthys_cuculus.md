@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: red gurnard
 data_arima-1_bases: 361.95 Gbp
 data_arima-1_bytes: 108.4 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 836190000
 genome_size_display: 0.84 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-04-05
-hpa1filesize: 188.7 MiB
-hpa1length: '669766039'
-hpa1n50ctg: 1089000
-hpa1n50scf: 24182736
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Chelidonichthys_cuculus/fCheCuc1/assembly_cambridge/fCheCuc1.hap1.asm.20240405.fasta.gz
+hpa1date: 2025-11-18
+hpa1filesize: 187.6 MiB
+hpa1length: '666067437'
+hpa1n50ctg: 1069248
+hpa1n50scf: 26369992
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Chelidonichthys_cuculus/fCheCuc1/assembly_curated/fCheCuc1.hap1.cur.20251118.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 16 </td><td> 4.06 Mbp </td><td> 2 </td><td> 33.43 Mbp </td></tr><tr><td> 20 </td><td> 39 </td><td> 3.24 Mbp </td><td> 5 </td><td> 31.37 Mbp </td></tr><tr><td> 30 </td><td> 70 </td><td> 2.21 Mbp </td><td> 8 </td><td> 29.35 Mbp </td></tr><tr><td> 40 </td><td> 116 </td><td> 1.53 Mbp </td><td> 11 </td><td> 27.57 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 180 </td><td style="background-color:#88ff88;"> 1.09 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 24.18 Mbp </td></tr><tr><td> 60 </td><td> 274 </td><td> 0.71 Mbp </td><td> 17 </td><td> 22.99 Mbp </td></tr><tr><td> 70 </td><td> 427 </td><td> 412.21 Kbp </td><td> 21 </td><td> 19.71 Mbp </td></tr><tr><td> 80 </td><td> 1171 </td><td> 15.01 Kbp </td><td> 429 </td><td> 16.51 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 16 </td><td> 4.06 Mbp </td><td> 3 </td><td> 32.36 Mbp </td></tr><tr><td> 20 </td><td> 39 </td><td> 3.24 Mbp </td><td> 5 </td><td> 31.45 Mbp </td></tr><tr><td> 30 </td><td> 70 </td><td> 2.21 Mbp </td><td> 8 </td><td> 29.35 Mbp </td></tr><tr><td> 40 </td><td> 116 </td><td> 1.52 Mbp </td><td> 11 </td><td> 28.14 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 181 </td><td style="background-color:#88ff88;"> 1.07 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 26.37 Mbp </td></tr><tr><td> 60 </td><td> 276 </td><td> 0.70 Mbp </td><td> 18 </td><td> 23.24 Mbp </td></tr><tr><td> 70 </td><td> 432 </td><td> 399.67 Kbp </td><td> 21 </td><td> 21.43 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.801x </th><th> 1315 </th><th> 0.67 Gbp </th><th> 582 </th><th> 0.67 Gbp </th></tr>
+  <tr><th> 0.796x </th><th> 1310 </th><th> 0.67 Gbp </th><th> 557 </th><th> 0.67 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-04-05
-hpb1filesize: 183.5 MiB
-hpb1length: '648974687'
-hpb1n50ctg: 1073308
-hpb1n50scf: 25025452
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Chelidonichthys_cuculus/fCheCuc1/assembly_cambridge/fCheCuc1.hap2.asm.20240405.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2025-11-18
+hpb1filesize: 184.4 MiB
+hpb1length: '652160454'
+hpb1n50ctg: 1076853
+hpb1n50scf: 27391322
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Chelidonichthys_cuculus/fCheCuc1/assembly_curated/fCheCuc1.hap2.cur.20251118.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 17 </td><td> 3.96 Mbp </td><td> 3 </td><td> 31.54 Mbp </td></tr><tr><td> 20 </td><td> 43 </td><td> 2.72 Mbp </td><td> 6 </td><td> 29.16 Mbp </td></tr><tr><td> 30 </td><td> 78 </td><td> 2.06 Mbp </td><td> 9 </td><td> 28.65 Mbp </td></tr><tr><td> 40 </td><td> 125 </td><td> 1.51 Mbp </td><td> 12 </td><td> 27.50 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 190 </td><td style="background-color:#88ff88;"> 1.07 Mbp </td><td> 15 </td><td style="background-color:#88ff88;"> 25.03 Mbp </td></tr><tr><td> 60 </td><td> 292 </td><td> 0.65 Mbp </td><td> 18 </td><td> 23.33 Mbp </td></tr><tr><td> 70 </td><td> 464 </td><td> 346.43 Kbp </td><td> 22 </td><td> 19.34 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 17 </td><td> 3.96 Mbp </td><td> 3 </td><td> 32.36 Mbp </td></tr><tr><td> 20 </td><td> 43 </td><td> 2.72 Mbp </td><td> 6 </td><td> 30.35 Mbp </td></tr><tr><td> 30 </td><td> 78 </td><td> 2.06 Mbp </td><td> 8 </td><td> 29.19 Mbp </td></tr><tr><td> 40 </td><td> 125 </td><td> 1.52 Mbp </td><td> 11 </td><td> 28.47 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 189 </td><td style="background-color:#88ff88;"> 1.08 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 27.39 Mbp </td></tr><tr><td> 60 </td><td> 290 </td><td> 0.65 Mbp </td><td> 18 </td><td> 23.33 Mbp </td></tr><tr><td> 70 </td><td> 460 </td><td> 360.59 Kbp </td><td> 22 </td><td> 19.34 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.776x </th><th> 1147 </th><th> 0.65 Gbp </th><th> 413 </th><th> 0.65 Gbp </th></tr>
+  <tr><th> 0.780x </th><th> 1155 </th><th> 0.65 Gbp </th><th> 398 </th><th> 0.65 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1709676024
-last_updated: 1712399080
+last_updated: 1763478119
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fCheCuc<br>&nbsp;&nbsp;name:&nbsp;Chelidonichthys&nbsp;cuculus<br>&nbsp;&nbsp;taxon_id:&nbsp;426094<br>&nbsp;&nbsp;common_name:&nbsp;red&nbsp;gurnard<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scorpaeniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Triglidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCheCuc1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111562157<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;836190000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-04-05
 mito1filesize: 5.3 KiB

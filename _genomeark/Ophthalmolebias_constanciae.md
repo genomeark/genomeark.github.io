@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
 data_arima-1_bases: 87.34 Gbp
 data_arima-1_bytes: 47.5 GiB
@@ -39,8 +39,70 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
+hpa1date: 2025-10-03
+hpa1filesize: 433.7 MiB
+hpa1length: '1901446102'
+hpa1n50ctg: 6791204
+hpa1n50scf: 78079698
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Ophthalmolebias_constanciae/fOphCon1/assembly_vgp_HiC_2.0/fOphCon1.HiC.hap1.20251003.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 10 </td><td> 15.49 Mbp </td><td> 2 </td><td> 126.87 Mbp </td></tr><tr><td> 20 </td><td> 25 </td><td> 11.41 Mbp </td><td> 3 </td><td> 103.69 Mbp </td></tr><tr><td> 30 </td><td> 44 </td><td> 9.66 Mbp </td><td> 6 </td><td> 82.02 Mbp </td></tr><tr><td> 40 </td><td> 65 </td><td> 8.21 Mbp </td><td> 8 </td><td> 80.24 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 91 </td><td style="background-color:#88ff88;"> 6.79 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 78.08 Mbp </td></tr><tr><td> 60 </td><td> 122 </td><td> 5.48 Mbp </td><td> 13 </td><td> 75.24 Mbp </td></tr><tr><td> 70 </td><td> 163 </td><td> 3.98 Mbp </td><td> 15 </td><td> 73.12 Mbp </td></tr><tr><td> 80 </td><td> 223 </td><td> 2.69 Mbp </td><td> 18 </td><td> 61.98 Mbp </td></tr><tr><td> 90 </td><td> 313 </td><td> 1.58 Mbp </td><td> 21 </td><td> 56.93 Mbp </td></tr><tr><td> 100 </td><td> 1057 </td><td> 9.81 Kbp </td><td> 576 </td><td> 9.81 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1057 </th><th> 1.90 Gbp </th><th> 576 </th><th> 1.90 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2025-10-03
+hpb1filesize: 417.7 MiB
+hpb1length: '1793702253'
+hpb1n50ctg: 6374855
+hpb1n50scf: 79017917
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Ophthalmolebias_constanciae/fOphCon1/assembly_vgp_HiC_2.0/fOphCon1.HiC.hap2.20251003.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 10 </td><td> 15.29 Mbp </td><td> 2 </td><td> 118.53 Mbp </td></tr><tr><td> 20 </td><td> 24 </td><td> 11.35 Mbp </td><td> 3 </td><td> 107.45 Mbp </td></tr><tr><td> 30 </td><td> 42 </td><td> 9.60 Mbp </td><td> 5 </td><td> 98.70 Mbp </td></tr><tr><td> 40 </td><td> 62 </td><td> 8.21 Mbp </td><td> 7 </td><td> 85.04 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 87 </td><td style="background-color:#88ff88;"> 6.37 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 79.02 Mbp </td></tr><tr><td> 60 </td><td> 118 </td><td> 4.72 Mbp </td><td> 12 </td><td> 72.76 Mbp </td></tr><tr><td> 70 </td><td> 163 </td><td> 3.46 Mbp </td><td> 14 </td><td> 69.88 Mbp </td></tr><tr><td> 80 </td><td> 223 </td><td> 2.52 Mbp </td><td> 17 </td><td> 57.02 Mbp </td></tr><tr><td> 90 </td><td> 317 </td><td> 1.43 Mbp </td><td> 21 </td><td> 23.63 Mbp </td></tr><tr><td> 100 </td><td> 857 </td><td> 15.70 Kbp </td><td> 393 </td><td> 15.70 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 857 </th><th> 1.79 Gbp </th><th> 393 </th><th> 1.79 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1751915657
-last_updated: 1751915657
+last_updated: 1759762651
+mds:
+- data: species:&nbsp;Ophthalmolebias&nbsp;constanciae<br>specimem:&nbsp;fOphCon1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Ophthalmolebias_constanciae/fOphCon1/assembly_vgp_HiC_2.0/fOphCon1.HiC.hap1.20251003.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Ophthalmolebias_constanciae/fOphCon1/assembly_vgp_HiC_2.0/fOphCon1.HiC.hap2.20251003.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Ophthalmolebias_constanciae/fOphCon1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/s2/fOphCon1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Ophthalmolebias_constanciae/fOphCon1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/s2/fOphCon1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Ophthalmolebias_constanciae/fOphCon1/assembly_vgp_HiC_2.0/evaluation/merqury/fOphCon1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Ophthalmolebias_constanciae/fOphCon1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Ophthalmolebias_constanciae/fOphCon1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.25.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy2)<br>&nbsp;&nbsp;-&nbsp;VGP1&nbsp;genomic&nbsp;profiling&nbsp;workflow&nbsp;(v0.4)<br>&nbsp;&nbsp;-&nbsp;VGP4&nbsp;HiFi&nbsp;HiC&nbsp;assembly&nbsp;workflow&nbsp;(v0.3.12)<br>&nbsp;&nbsp;-&nbsp;VGP8&nbsp;HiC&nbsp;scaffolding&nbsp;workflow&nbsp;(v2.2)&nbsp;with&nbsp;mapq=10<br>&nbsp;&nbsp;-&nbsp;VGP9&nbsp;decontamination&nbsp;workflow&nbsp;unpublished&nbsp;using&nbsp;FCS&nbsp;(0.5.5+galaxy0)&nbsp;<br>&nbsp;&nbsp;-&nbsp;Pre-curation&nbsp;worklfow&nbsp;(v1.0beta6)&nbsp;with&nbsp;mapq=10<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fOphCon1&nbsp;resulting&nbsp;in&nbsp;two&nbsp;haplotype&nbsp;assemblies.&nbsp;HiC&nbsp;data&nbsp;were&nbsp;generated&nbsp;using&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit,&nbsp;and&nbsp;require&nbsp;trimming&nbsp;the&nbsp;first&nbsp;5&nbsp;bp&nbsp;off&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;of&nbsp;both&nbsp;read&nbsp;files.&nbsp;The&nbsp;restriction&nbsp;enzymes&nbsp;used&nbsp;were&nbsp;the&nbsp;Arima&nbsp;v2&nbsp;kit,&nbsp;so&nbsp;the&nbsp;cutting&nbsp;sites&nbsp;are&nbsp;GATC,&nbsp;GANTC,&nbsp;CTNAG,&nbsp;TTAA.&nbsp;A&nbsp;mitogenome&nbsp;could&nbsp;not&nbsp;be&nbsp;assembled,&nbsp;as&nbsp;no&nbsp;HiFi&nbsp;reads&nbsp;were&nbsp;mapped&nbsp;to&nbsp;the&nbsp;reference&nbsp;mitogenome.<br>
+  ident: md2
+  title: assembly_vgp_HiC_2.0/fOphCon1.yml
 name: Ophthalmolebias constanciae
 name_: Ophthalmolebias_constanciae
 project: ~

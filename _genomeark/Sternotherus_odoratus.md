@@ -72,12 +72,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1745475919
 genome_size_display: 1.75 Gbp
 genome_size_method: ''
-hpa2date: 2025-09-02
-hpa2filesize: 487.8 MiB
-hpa2length: '1810792597'
+hpa2date: 2025-10-17
+hpa2filesize: 526.8 MiB
+hpa2length: '1810867318'
 hpa2n50ctg: 14326373
-hpa2n50scf: 109051743
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Sternotherus_odoratus/rSteOdo2/assembly_vgp_HiC_2.0/rSteOdo2.HiC.hap1.20250902.fasta.gz
+hpa2n50scf: 108400060
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Sternotherus_odoratus/rSteOdo2/assembly_curated_v2/rSteOdo2.hap1.cur.20251017.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -95,18 +95,18 @@ hpa2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 6 </td><td> 27.75 Mbp </td><td> 1 </td><td> 306.15 Mbp </td></tr><tr><td> 20 </td><td> 13 </td><td> 22.32 Mbp </td><td> 2 </td><td> 226.98 Mbp </td></tr><tr><td> 30 </td><td> 21 </td><td> 20.63 Mbp </td><td> 3 </td><td> 171.26 Mbp </td></tr><tr><td> 40 </td><td> 30 </td><td> 18.16 Mbp </td><td> 4 </td><td> 115.02 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 42 </td><td style="background-color:#88ff88;"> 14.33 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 109.05 Mbp </td></tr><tr><td> 60 </td><td> 57 </td><td> 10.31 Mbp </td><td> 7 </td><td> 107.83 Mbp </td></tr><tr><td> 70 </td><td> 77 </td><td> 7.71 Mbp </td><td> 9 </td><td> 92.29 Mbp </td></tr><tr><td> 80 </td><td> 106 </td><td> 4.75 Mbp </td><td> 11 </td><td> 72.31 Mbp </td></tr><tr><td> 90 </td><td> 164 </td><td> 1.98 Mbp </td><td> 14 </td><td> 33.39 Mbp </td></tr><tr><td> 100 </td><td> 640 </td><td> 17.40 Kbp </td><td> 168 </td><td> 17.40 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 6 </td><td> 27.75 Mbp </td><td> 1 </td><td> 306.15 Mbp </td></tr><tr><td> 20 </td><td> 13 </td><td> 22.32 Mbp </td><td> 2 </td><td> 226.98 Mbp </td></tr><tr><td> 30 </td><td> 21 </td><td> 20.63 Mbp </td><td> 3 </td><td> 171.26 Mbp </td></tr><tr><td> 40 </td><td> 30 </td><td> 18.16 Mbp </td><td> 4 </td><td> 116.97 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 42 </td><td style="background-color:#88ff88;"> 14.33 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 108.40 Mbp </td></tr><tr><td> 60 </td><td> 57 </td><td> 10.31 Mbp </td><td> 7 </td><td> 107.83 Mbp </td></tr><tr><td> 70 </td><td> 77 </td><td> 7.71 Mbp </td><td> 9 </td><td> 86.17 Mbp </td></tr><tr><td> 80 </td><td> 106 </td><td> 4.75 Mbp </td><td> 11 </td><td> 63.83 Mbp </td></tr><tr><td> 90 </td><td> 164 </td><td> 1.98 Mbp </td><td> 17 </td><td> 20.38 Mbp </td></tr><tr><td> 100 </td><td> 643 </td><td> 14.14 Kbp </td><td> 157 </td><td> 17.40 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 640 </th><th> 1.81 Gbp </th><th> 168 </th><th> 1.81 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 643 </th><th> 1.81 Gbp </th><th> 157 </th><th> 1.81 Gbp </th></tr>
   </tfoot>
   </table>
-hpa2version: assembly_vgp_HiC_2.0
-hpb2date: 2025-09-02
-hpb2filesize: 488.8 MiB
-hpb2length: '1815997708'
+hpa2version: assembly_curated_v2
+hpb2date: 2025-10-17
+hpb2filesize: 488.7 MiB
+hpb2length: '1815366417'
 hpb2n50ctg: 11849702
-hpb2n50scf: 171030477
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Sternotherus_odoratus/rSteOdo2/assembly_vgp_HiC_2.0/rSteOdo2.HiC.hap2.20250902.fasta.gz
+hpb2n50scf: 108490648
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Sternotherus_odoratus/rSteOdo2/assembly_curated_v2/rSteOdo2.hap2.cur.20251017.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -124,17 +124,17 @@ hpb2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 5 </td><td> 32.49 Mbp </td><td> 1 </td><td> 308.72 Mbp </td></tr><tr><td> 20 </td><td> 12 </td><td> 23.04 Mbp </td><td> 2 </td><td> 226.90 Mbp </td></tr><tr><td> 30 </td><td> 21 </td><td> 19.33 Mbp </td><td> 3 </td><td> 212.95 Mbp </td></tr><tr><td> 40 </td><td> 32 </td><td> 15.21 Mbp </td><td> 3 </td><td> 212.95 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 45 </td><td style="background-color:#88ff88;"> 11.85 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 171.03 Mbp </td></tr><tr><td> 60 </td><td> 65 </td><td> 7.92 Mbp </td><td> 6 </td><td> 108.14 Mbp </td></tr><tr><td> 70 </td><td> 92 </td><td> 5.34 Mbp </td><td> 8 </td><td> 106.59 Mbp </td></tr><tr><td> 80 </td><td> 134 </td><td> 3.53 Mbp </td><td> 10 </td><td> 86.01 Mbp </td></tr><tr><td> 90 </td><td> 205 </td><td> 1.66 Mbp </td><td> 12 </td><td> 63.45 Mbp </td></tr><tr><td> 100 </td><td> 722 </td><td> 16.58 Kbp </td><td> 184 </td><td> 16.58 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 5 </td><td> 32.49 Mbp </td><td> 1 </td><td> 308.72 Mbp </td></tr><tr><td> 20 </td><td> 12 </td><td> 23.04 Mbp </td><td> 2 </td><td> 226.90 Mbp </td></tr><tr><td> 30 </td><td> 21 </td><td> 19.33 Mbp </td><td> 3 </td><td> 171.03 Mbp </td></tr><tr><td> 40 </td><td> 32 </td><td> 15.21 Mbp </td><td> 4 </td><td> 115.22 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 45 </td><td style="background-color:#88ff88;"> 11.85 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 108.49 Mbp </td></tr><tr><td> 60 </td><td> 65 </td><td> 7.92 Mbp </td><td> 7 </td><td> 107.62 Mbp </td></tr><tr><td> 70 </td><td> 92 </td><td> 5.34 Mbp </td><td> 9 </td><td> 86.01 Mbp </td></tr><tr><td> 80 </td><td> 134 </td><td> 3.53 Mbp </td><td> 11 </td><td> 63.82 Mbp </td></tr><tr><td> 90 </td><td> 205 </td><td> 1.66 Mbp </td><td> 17 </td><td> 19.81 Mbp </td></tr><tr><td> 100 </td><td> 734 </td><td> 3.33 Kbp </td><td> 179 </td><td> 16.58 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 722 </th><th> 1.82 Gbp </th><th> 184 </th><th> 1.82 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 734 </th><th> 1.82 Gbp </th><th> 179 </th><th> 1.82 Gbp </th></tr>
   </tfoot>
   </table>
-hpb2version: assembly_vgp_HiC_2.0
+hpb2version: assembly_curated_v2
 last_raw_data: 1755719683
-last_updated: 1756828487
+last_updated: 1762788917
 mds:
 - data: species:&nbsp;Sternotherus&nbsp;odoratus<br>specimem:&nbsp;rSteOdo2<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo2/assembly_vgp_HiC_2.0/rSteOdo2.HiC.hap1.20250902.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo2/assembly_vgp_HiC_2.0/rSteOdo2.HiC.hap2.20250902.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/s2/rSteOdo2_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/s2/rSteOdo2_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo2/assembly_vgp_HiC_2.0/evaluation/merqury/rSteOdo2_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo2/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.25.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy2)<br>&nbsp;&nbsp;-&nbsp;VGP1&nbsp;genomic&nbsp;profiling&nbsp;workflow&nbsp;(v0.2)<br>&nbsp;&nbsp;-&nbsp;VGP4&nbsp;HiFi&nbsp;HiC&nbsp;assembly&nbsp;workflow&nbsp;(v0.3.9)<br>&nbsp;&nbsp;-&nbsp;VGP8&nbsp;HiC&nbsp;scaffolding&nbsp;workflow&nbsp;(v2.0)<br>&nbsp;&nbsp;-&nbsp;VGP9&nbsp;decontamination&nbsp;workflow&nbsp;(v0.7)&nbsp;with&nbsp;database&nbsp;PlusPF&nbsp;2022<br>&nbsp;&nbsp;-&nbsp;Pre-curation&nbsp;worklfow&nbsp;(v1.0beta6)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rSteOdo2&nbsp;resulting&nbsp;in&nbsp;two&nbsp;haplotype&nbsp;assemblies.&nbsp;The&nbsp;PacBio&nbsp;bam&nbsp;files&nbsp;downloaded&nbsp;from&nbsp;NCBI&nbsp;contained&nbsp;CCS&nbsp;reads&nbsp;with&nbsp;QV&nbsp;<20.&nbsp;VGL&nbsp;refiltered&nbsp;the&nbsp;bam&nbsp;files&nbsp;using&nbsp;software&nbsp;extracthifi&nbsp;with&nbsp;default&nbsp;settings.&nbsp;HiC&nbsp;data&nbsp;were&nbsp;generated&nbsp;using&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit,&nbsp;and&nbsp;require&nbsp;trimming&nbsp;the&nbsp;first&nbsp;5&nbsp;bp&nbsp;off&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;of&nbsp;both&nbsp;read&nbsp;files.&nbsp;The&nbsp;restriction&nbsp;enzymes&nbsp;used&nbsp;were&nbsp;the&nbsp;Arima&nbsp;v2&nbsp;kit,&nbsp;so&nbsp;the&nbsp;cutting&nbsp;sites&nbsp;are&nbsp;GATC,&nbsp;GANTC,&nbsp;CTNAG,&nbsp;TTAA.<br>
-  ident: md7
+  ident: md9
   title: assembly_vgp_HiC_2.0/rSteOdo2.yml
 name: Sternotherus odoratus
 name_: Sternotherus_odoratus

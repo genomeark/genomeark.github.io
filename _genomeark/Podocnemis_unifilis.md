@@ -30,7 +30,7 @@ genome_size: 2435981808
 genome_size_display: 2.44 Gbp
 genome_size_method: ''
 last_raw_data: 1756940170
-last_updated: 1756940170
+last_updated: 1760550008
 name: Podocnemis unifilis
 name_: Podocnemis_unifilis
 pri1date: 2021-06-14

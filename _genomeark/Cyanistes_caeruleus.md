@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: blue tit
 data_arima-1_bases: 121.30 Gbp
 data_arima-1_bytes: 32.3 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1437660000
 genome_size_display: 1.44 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-07-22
-hpa1filesize: 336.4 MiB
-hpa1length: '1244690217'
-hpa1n50ctg: 3064199
-hpa1n50scf: 39507566
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Cyanistes_caeruleus/bCyaCae1/assembly_cambridge/bCyaCae1.hap1.asm.20240722.fasta.gz
+hpa1date: 2025-11-18
+hpa1filesize: 332.4 MiB
+hpa1length: '1220473014'
+hpa1n50ctg: 2881275
+hpa1n50scf: 41490462
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Cyanistes_caeruleus/bCyaCae1/assembly_curated/bCyaCae1.hap1.cur.20251118.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 15 </td><td> 7.94 Mbp </td><td> 1 </td><td> 153.05 Mbp </td></tr><tr><td> 20 </td><td> 36 </td><td> 6.14 Mbp </td><td> 3 </td><td> 114.30 Mbp </td></tr><tr><td> 30 </td><td> 62 </td><td> 4.96 Mbp </td><td> 4 </td><td> 80.20 Mbp </td></tr><tr><td> 40 </td><td> 95 </td><td> 3.91 Mbp </td><td> 6 </td><td> 74.86 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 137 </td><td style="background-color:#88ff88;"> 3.06 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 39.51 Mbp </td></tr><tr><td> 60 </td><td> 191 </td><td> 2.38 Mbp </td><td> 13 </td><td> 21.95 Mbp </td></tr><tr><td> 70 </td><td> 263 </td><td> 1.65 Mbp </td><td> 22 </td><td> 10.86 Mbp </td></tr><tr><td> 80 </td><td> 388 </td><td> 0.74 Mbp </td><td> 57 </td><td> 2.04 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 15 </td><td> 7.94 Mbp </td><td> 1 </td><td> 153.05 Mbp </td></tr><tr><td> 20 </td><td> 36 </td><td> 6.14 Mbp </td><td> 3 </td><td> 120.96 Mbp </td></tr><tr><td> 30 </td><td> 62 </td><td> 4.94 Mbp </td><td> 4 </td><td> 84.39 Mbp </td></tr><tr><td> 40 </td><td> 96 </td><td> 3.84 Mbp </td><td> 6 </td><td> 82.24 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 139 </td><td style="background-color:#88ff88;"> 2.88 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 41.49 Mbp </td></tr><tr><td> 60 </td><td> 195 </td><td> 2.25 Mbp </td><td> 12 </td><td> 23.71 Mbp </td></tr><tr><td> 70 </td><td> 270 </td><td> 1.57 Mbp </td><td> 19 </td><td> 14.58 Mbp </td></tr><tr><td> 80 </td><td> 413 </td><td> 0.58 Mbp </td><td> 48 </td><td> 2.00 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.866x </th><th> 1014 </th><th> 1.24 Gbp </th><th> 586 </th><th> 1.24 Gbp </th></tr>
+  <tr><th> 0.849x </th><th> 932 </th><th> 1.22 Gbp </th><th> 456 </th><th> 1.22 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-07-22
-hpb1filesize: 331.5 MiB
-hpb1length: '1223317900'
-hpb1n50ctg: 2814522
-hpb1n50scf: 40636647
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Cyanistes_caeruleus/bCyaCae1/assembly_cambridge/bCyaCae1.hap2.asm.20240722.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2025-11-18
+hpb1filesize: 332.0 MiB
+hpb1length: '1229107639'
+hpb1n50ctg: 2833022
+hpb1n50scf: 43079819
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Cyanistes_caeruleus/bCyaCae1/assembly_curated/bCyaCae1.hap2.cur.20251118.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 14 </td><td> 8.80 Mbp </td><td> 1 </td><td> 152.96 Mbp </td></tr><tr><td> 20 </td><td> 35 </td><td> 6.16 Mbp </td><td> 3 </td><td> 115.45 Mbp </td></tr><tr><td> 30 </td><td> 61 </td><td> 4.93 Mbp </td><td> 4 </td><td> 79.59 Mbp </td></tr><tr><td> 40 </td><td> 96 </td><td> 3.41 Mbp </td><td> 6 </td><td> 72.71 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 142 </td><td style="background-color:#88ff88;"> 2.81 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 40.64 Mbp </td></tr><tr><td> 60 </td><td> 200 </td><td> 2.11 Mbp </td><td> 13 </td><td> 21.70 Mbp </td></tr><tr><td> 70 </td><td> 281 </td><td> 1.44 Mbp </td><td> 22 </td><td> 10.54 Mbp </td></tr><tr><td> 80 </td><td> 437 </td><td> 0.55 Mbp </td><td> 66 </td><td> 1.16 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 14 </td><td> 8.80 Mbp </td><td> 1 </td><td> 152.96 Mbp </td></tr><tr><td> 20 </td><td> 35 </td><td> 6.11 Mbp </td><td> 3 </td><td> 121.60 Mbp </td></tr><tr><td> 30 </td><td> 61 </td><td> 4.93 Mbp </td><td> 4 </td><td> 84.46 Mbp </td></tr><tr><td> 40 </td><td> 96 </td><td> 3.41 Mbp </td><td> 6 </td><td> 81.61 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 142 </td><td style="background-color:#88ff88;"> 2.83 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 43.08 Mbp </td></tr><tr><td> 60 </td><td> 200 </td><td> 2.11 Mbp </td><td> 12 </td><td> 22.86 Mbp </td></tr><tr><td> 70 </td><td> 282 </td><td> 1.40 Mbp </td><td> 19 </td><td> 14.38 Mbp </td></tr><tr><td> 80 </td><td> 439 </td><td> 0.56 Mbp </td><td> 48 </td><td> 1.96 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.851x </th><th> 888 </th><th> 1.22 Gbp </th><th> 438 </th><th> 1.22 Gbp </th></tr>
+  <tr><th> 0.855x </th><th> 896 </th><th> 1.23 Gbp </th><th> 382 </th><th> 1.23 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1721499664
-last_updated: 1721946690
+last_updated: 1763478130
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bCyaCae<br>&nbsp;&nbsp;name:&nbsp;Cyanistes&nbsp;caeruleus<br>&nbsp;&nbsp;taxon_id:&nbsp;156563<br>&nbsp;&nbsp;common_name:&nbsp;blue&nbsp;tit<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Paridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bCyaCae1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA115433025<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1437660000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-07-22
 mito1filesize: 5.3 KiB

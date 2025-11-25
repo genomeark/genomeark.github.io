@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Egyptian fruit bat
 data_10x-1_bases: 112.49 Gbp
 data_10x-1_bytes: 56.1 GiB
@@ -52,16 +52,16 @@ genome_size: 2109999999
 genome_size_display: 2.11 Gbp
 genome_size_method: ''
 last_raw_data: 1582490290
-last_updated: 1582490290
+last_updated: 1761579419
 metadata: species:<br>&nbsp;&nbsp;common_name:&nbsp;Egyptian&nbsp;fruit&nbsp;bat<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Pteropodidae<br>&nbsp;&nbsp;genome_size:&nbsp;2109999999<br>&nbsp;&nbsp;genome_size_method:&nbsp;null<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mRouAeg1<br>&nbsp;&nbsp;name:&nbsp;Rousettus&nbsp;aegyptiacus<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;short_name:&nbsp;mRouAeg<br>&nbsp;&nbsp;taxon_id:&nbsp;9407<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Rousettus aegyptiacus
 name_: Rousettus_aegyptiacus
-pri1date: 2019-04-27
-pri1filesize: 598.8 MiB
-pri1length: '1893602072'
+pri1date: 2025-10-24
+pri1filesize: 559.5 MiB
+pri1length: '1893570301'
 pri1n50ctg: 18628968
-pri1n50scf: 112742020
-pri1seq: https://s3.amazonaws.com/genomeark/species/Rousettus_aegyptiacus/mRouAeg1/assembly_dresden_DAmar1.0/mRouAeg1.pri.asm.20190427.fasta.gz
+pri1n50scf: 112742120
+pri1seq: https://s3.amazonaws.com/genomeark/species/Rousettus_aegyptiacus/mRouAeg1/assembly_curated/mRouAeg1.pri.cur.20251024.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -79,12 +79,12 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 59.73 Mbp </td><td> 1 </td><td> 177.60 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 41.71 Mbp </td><td> 2 </td><td> 173.79 Mbp </td></tr><tr><td> 30 </td><td> 12 </td><td> 31.55 Mbp </td><td> 3 </td><td> 160.59 Mbp </td></tr><tr><td> 40 </td><td> 20 </td><td> 24.21 Mbp </td><td> 5 </td><td> 115.50 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 30 </td><td style="background-color:#88ff88;"> 18.63 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 112.74 Mbp </td></tr><tr><td> 60 </td><td> 43 </td><td> 13.65 Mbp </td><td> 8 </td><td> 106.50 Mbp </td></tr><tr><td> 70 </td><td> 63 </td><td> 8.03 Mbp </td><td> 11 </td><td> 94.23 Mbp </td></tr><tr><td> 80 </td><td> 100 </td><td> 4.03 Mbp </td><td> 13 </td><td> 61.85 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 59.73 Mbp </td><td> 2 </td><td> 177.60 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 41.71 Mbp </td><td> 3 </td><td> 174.12 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 31.55 Mbp </td><td> 4 </td><td> 162.41 Mbp </td></tr><tr><td> 40 </td><td> 21 </td><td> 24.21 Mbp </td><td> 6 </td><td> 115.50 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 31 </td><td style="background-color:#88ff88;"> 18.63 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 112.74 Mbp </td></tr><tr><td> 60 </td><td> 44 </td><td> 13.65 Mbp </td><td> 9 </td><td> 106.50 Mbp </td></tr><tr><td> 70 </td><td> 64 </td><td> 8.03 Mbp </td><td> 12 </td><td> 94.23 Mbp </td></tr><tr><td> 80 </td><td> 101 </td><td> 4.03 Mbp </td><td> 14 </td><td> 61.85 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.885x </th><th> 271 </th><th> 1.87 Gbp </th><th> 29 </th><th> 1.89 Gbp </th></tr>
+  <tr><th> 0.885x </th><th> 277 </th><th> 1.87 Gbp </th><th> 27 </th><th> 1.89 Gbp </th></tr>
   </tfoot>
   </table>
-pri1version: assembly_dresden_DAmar1.0
+pri1version: assembly_curated
 project:
 - vgp
 short_name: mRouAeg
