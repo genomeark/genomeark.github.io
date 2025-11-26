@@ -77,7 +77,7 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: fGouWil2:GCA_900650505.1
-genbank_pri: fGouWil2:GCA_900634775.2
+genbank_pri: fGouWil2:GCA_900634775.1 fGouWil2:GCA_900634775.2
 genome_size: 1182215999
 genome_size_display: 1.18 Gbp
 genome_size_method: ''

@@ -91,8 +91,8 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genbank_alt: bPasSan1:GCA_022578375.1
-genbank_pri: bPasSan1:GCA_022577445.1
+genbank_alt: bPasSan1:GCA_022578375.1 bPasSan2:GCA_031876245.1
+genbank_pri: bPasSan1:GCA_022577445.1 bPasSan2:GCA_031885435.1
 genome_size: 1178000000
 genome_size_display: 1.18 Gbp
 genome_size_method: GoAT

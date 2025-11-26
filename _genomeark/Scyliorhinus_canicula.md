@@ -77,7 +77,7 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: sScyCan1:GCA_902713625.2
-genbank_pri: sScyCan1:GCA_902713615.2
+genbank_pri: sScyCan1:GCA_902713615.1 sScyCan1:GCA_902713615.2
 genome_size: 4220389930
 genome_size_display: 4.22 Gbp
 genome_size_method: ''

@@ -55,6 +55,8 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
+genbank_alt: fSarPil1:GCA_963854175.1
+genbank_pri: fSarPil1:GCA_963854185.1
 genome_size: 997560000
 genome_size_display: 1.00 Gbp
 genome_size_method: GoaT

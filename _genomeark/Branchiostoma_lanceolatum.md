@@ -50,6 +50,8 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
+genbank_pri: klBraLanc2:GCA_964187965.1 klBraLanc2:GCA_964188055.1 klBraLanc5:GCA_035083965.1
+  klBraLanc5:GCA_035149815.1
 genome_size: 577020000
 genome_size_display: 0.58 Gbp
 genome_size_method: GoaT

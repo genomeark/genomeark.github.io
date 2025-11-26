@@ -86,8 +86,9 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genbank_alt: sCarCar2:GCA_017639455.1
-genbank_pri: sCarCar2:GCA_017639515.1
+genbank_alt: sCarCar2:GCA_017639455.1 sCarCar4:GCA_051200465.1
+genbank_pri: sCarCar2:GCA_017639515.1 sCarCar3:GCA_036900835.1 sCarCar3:GCA_036900845.1
+  sCarCar4:GCA_051200495.1
 genome_size: 4500000000
 genome_size_display: 4.50 Gbp
 genome_size_method: ''

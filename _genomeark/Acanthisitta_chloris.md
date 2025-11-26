@@ -82,7 +82,7 @@ genome_size: 1050000000
 genome_size_display: 1.05 Gbp
 genome_size_method: ''
 last_raw_data: 1568758968
-last_updated: 1622050157
+last_updated: 1764024249
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bAcaChl<br>&nbsp;&nbsp;name:&nbsp;Acanthisitta&nbsp;chloris<br>&nbsp;&nbsp;taxon_id:&nbsp;57068<br>&nbsp;&nbsp;common_name:&nbsp;rifleman<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Passeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Acanthisittidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAcaChl1<br>&nbsp;&nbsp;genome_size:&nbsp;1050000000<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-04
 mito1filesize: 5.2 KiB
@@ -115,13 +115,12 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Acanthisitta chloris
 name_: Acanthisitta_chloris
-pri1date: 2021-05-26
-pri1filesize: 311.4 MiB
+pri1date: 2025-11-24
+pri1filesize: 311.6 MiB
 pri1length: '1077368553'
 pri1n50ctg: 16730285
 pri1n50scf: 40827287
-pri1qual: 240.7 errors/Mb (QV=36.19)
-pri1seq: https://s3.amazonaws.com/genomeark/species/Acanthisitta_chloris/bAcaChl1/assembly_curated/bAcaChl1.pri.cur.20210526.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Acanthisitta_chloris/bAcaChl1/assembly_curated/bAcaChl1.pri.cur.20251124.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -139,7 +138,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 57.89 Mbp </td><td> 0 </td><td> 136.57 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 40.40 Mbp </td><td> 1 </td><td> 96.25 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 36.90 Mbp </td><td> 3 </td><td> 62.81 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 24.09 Mbp </td><td> 4 </td><td> 51.96 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 15 </td><td style="background-color:#88ff88;"> 16.73 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 40.83 Mbp </td></tr><tr><td> 60 </td><td> 22 </td><td> 13.37 Mbp </td><td> 9 </td><td> 34.43 Mbp </td></tr><tr><td> 70 </td><td> 31 </td><td> 9.52 Mbp </td><td> 13 </td><td> 24.09 Mbp </td></tr><tr><td> 80 </td><td> 44 </td><td> 5.94 Mbp </td><td> 18 </td><td> 20.30 Mbp </td></tr><tr><td> 90 </td><td> 68 </td><td> 2.84 Mbp </td><td> 24 </td><td> 15.24 Mbp </td></tr><tr><td> 100 </td><td> 141 </td><td> 469.88 Kbp </td><td> 35 </td><td> 5.17 Mbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 57.89 Mbp </td><td> 1 </td><td> 136.57 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 40.40 Mbp </td><td> 2 </td><td> 96.25 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 36.90 Mbp </td><td> 4 </td><td> 62.81 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 24.09 Mbp </td><td> 5 </td><td> 51.96 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 16 </td><td style="background-color:#88ff88;"> 16.73 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 40.83 Mbp </td></tr><tr><td> 60 </td><td> 23 </td><td> 13.37 Mbp </td><td> 10 </td><td> 34.43 Mbp </td></tr><tr><td> 70 </td><td> 32 </td><td> 9.52 Mbp </td><td> 14 </td><td> 24.09 Mbp </td></tr><tr><td> 80 </td><td> 45 </td><td> 5.94 Mbp </td><td> 19 </td><td> 20.30 Mbp </td></tr><tr><td> 90 </td><td> 69 </td><td> 2.84 Mbp </td><td> 25 </td><td> 15.24 Mbp </td></tr><tr><td> 100 </td><td> 142 </td><td> 469.88 Kbp </td><td> 36 </td><td> 5.17 Mbp </td></tr></tbody>
   <tfoot>
   <tr><th> 1.022x </th><th> 400 </th><th> 1.07 Gbp </th><th> 205 </th><th> 1.08 Gbp </th></tr>
   </tfoot>

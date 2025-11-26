@@ -28,6 +28,8 @@ data_use_text: |
   productive use of this data, please abide by the
   <a href="https://drive.google.com/uc?export=download&id=1bPL2xNxGCTz3HMfL2yt11E2fnYXPU-7s"><em>ERGA Pilot Project Official Guidelines</em></a>
   and contact <a href="https://www.erga-biodiversity.eu/join-contact">ERGA</a> with any questions.
+genbank_mat: aBomVar4:GCA_964205305.1
+genbank_pat: aBomVar4:GCA_964205295.1
 genome_size: 8958480000
 genome_size_display: 8.96 Gbp
 genome_size_method: GoaT

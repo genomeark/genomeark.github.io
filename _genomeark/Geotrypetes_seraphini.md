@@ -77,7 +77,7 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: aGeoSer1:GCA_902459495.1
-genbank_pri: aGeoSer1:GCA_902459505.2
+genbank_pri: aGeoSer1:GCA_902459505.1 aGeoSer1:GCA_902459505.2
 genome_size: 3779413726
 genome_size_display: 3.78 Gbp
 genome_size_method: ''
