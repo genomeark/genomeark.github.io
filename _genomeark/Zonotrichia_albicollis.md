@@ -18,8 +18,15 @@ data_pacbiohifi_bam-1_links: s3://genomeark/species/Zonotrichia_albicollis/bZonA
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Zonotrichia_albicollis/bZonAlb1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zonotrichia_albicollis/bZonAlb1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 0.2621
-data_pacbiohifi_bam_bases: 178.89 Gbp
-data_pacbiohifi_bam_bytes: 635.7 GiB
+data_pacbiohifi_bam-3_bases: 81.52 Gbp
+data_pacbiohifi_bam-3_bytes: 266.3 GiB
+data_pacbiohifi_bam-3_coverage: N/A
+data_pacbiohifi_bam-3_links: s3://genomeark/species/Zonotrichia_albicollis/bZonAlb3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Zonotrichia_albicollis/bZonAlb3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zonotrichia_albicollis/bZonAlb3/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-3_scale: 0.2851
+data_pacbiohifi_bam_bases: 260.41 Gbp
+data_pacbiohifi_bam_bytes: 0.9 TiB
 data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_clr-1_bases: 1185.51 Gbp
 data_pacbiohifi_clr-1_bytes: 2.0 TiB
@@ -38,8 +45,15 @@ data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Zonotrichia_albicollis/bZon
 data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Zonotrichia_albicollis/bZonAlb1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zonotrichia_albicollis/bZonAlb1/genomic_data/pacbio_hifi/
 data_pacbiohifi_fqgz-1_scale: 1.0897
-data_pacbiohifi_fqgz_bases: 58.39 Gbp
-data_pacbiohifi_fqgz_bytes: 49.9 GiB
+data_pacbiohifi_fqgz-3_bases: 79.97 Gbp
+data_pacbiohifi_fqgz-3_bytes: 39.0 GiB
+data_pacbiohifi_fqgz-3_coverage: N/A
+data_pacbiohifi_fqgz-3_links: s3://genomeark/species/Zonotrichia_albicollis/bZonAlb3/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Zonotrichia_albicollis/bZonAlb3/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zonotrichia_albicollis/bZonAlb3/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-3_scale: 1.9114
+data_pacbiohifi_fqgz_bases: 138.36 Gbp
+data_pacbiohifi_fqgz_bytes: 88.9 GiB
 data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
@@ -109,8 +123,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1738360246
-last_updated: 1738597928
+last_raw_data: 1765196206
+last_updated: 1765196206
 mds:
 - data: species:&nbsp;Zonotrichia&nbsp;albicollis<br>specimen:&nbsp;bZonAlb1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Zonotrichia_albicollis/bZonAlb1/assembly_vgp_HiC_2.0/bZonAlb1.HiC.hap1.20240531.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Zonotrichia_albicollis/bZonAlb1/assembly_vgp_HiC_2.0/bZonAlb1.HiC.hap2.20240531.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Zonotrichia_albicollis/bZonAlb1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bZonAlb1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Zonotrichia_albicollis/bZonAlb1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bZonAlb1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Zonotrichia_albicollis/bZonAlb1/assembly_vgp_HiC_2.0/evaluation/merqury/bZonAlb1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Zonotrichia_albicollis/bZonAlb1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Zonotrichia_albicollis/bZonAlb1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Zonotrichia_albicollis/bZonAlb1/assembly_MT_rockefeller/bZonAlb1.MT.20240531.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bZonAlb1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;assembly&nbsp;was&nbsp;performed&nbsp;on&nbsp;usegalaxy&nbsp;MAIN&nbsp;server&nbsp;(vgp.usegalaxy.org).<br>
   ident: md5

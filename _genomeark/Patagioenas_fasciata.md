@@ -141,7 +141,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1754937846
-last_updated: 1754937846
+last_updated: 1765172490
 mito1date: 2024-12-03
 mito1filesize: 5.4 KiB
 mito1length: '17021'

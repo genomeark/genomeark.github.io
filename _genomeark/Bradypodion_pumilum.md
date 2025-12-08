@@ -30,12 +30,12 @@ genbank_pri: rBraPum1:GCA_047715955.1 rBraPum1:GCA_047715975.1
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2024-09-26
+hpa1date: 2025-11-25
 hpa1filesize: 704.4 MiB
 hpa1length: '2467904324'
 hpa1n50ctg: 44366450
 hpa1n50scf: 387402510
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Bradypodion_pumilum/rBraPum1/assembly_curated/rBraPum1.hap1.cur.20240926.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Bradypodion_pumilum/rBraPum1/assembly_curated/rBraPum1.hap1.cur.20251125.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -59,12 +59,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2024-09-26
-hpb1filesize: 706.2 MiB
+hpb1date: 2025-11-25
+hpb1filesize: 647.9 MiB
 hpb1length: '2479053460'
 hpb1n50ctg: 53345644
 hpb1n50scf: 388707816
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Bradypodion_pumilum/rBraPum1/assembly_curated/rBraPum1.hap2.cur.20240926.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Bradypodion_pumilum/rBraPum1/assembly_curated/rBraPum1.hap2.cur.20251125.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -89,10 +89,10 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1740511325
-last_updated: 1740511325
+last_updated: 1764499467
 mds:
 - data: species:&nbsp;Bradypodion&nbsp;pumilum<br>specimen:&nbsp;rBraPum1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Bradypodion_pumilum/rBraPum1/assembly_vgp_HiC_2.0/rBraPum1.HiC.hap1.20240820.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Bradypodion_pumilum/rBraPum1/assembly_vgp_HiC_2.0/rBraPum1.HiC.hap2.20240820.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Bradypodion_pumilum/rBraPum1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rBraPum1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Bradypodion_pumilum/rBraPum1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rBraPum1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Bradypodion_pumilum/rBraPum1/assembly_vgp_HiC_2.0/evaluation/merqury/rBraPum1_png/<br>pacbio_read_type:&nbsp;hifi<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.9+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rBraPum1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;The&nbsp;HiC&nbsp;data&nbsp;was&nbsp;Dovetail&nbsp;OmniC.&nbsp;The&nbsp;original&nbsp;assembly&nbsp;for&nbsp;this&nbsp;individual&nbsp;is&nbsp;on&nbsp;NCBI&nbsp;as&nbsp;GCA_035047305.1&nbsp;and&nbsp;was&nbsp;assembled&nbsp;as&nbsp;a&nbsp;pseudohaplotype&nbsp;assembly&nbsp;generated&nbsp;by&nbsp;Dovetail.&nbsp;This&nbsp;20240820&nbsp;assembly&nbsp;on&nbsp;GenomeArk&nbsp;is&nbsp;a&nbsp;re-assembly,&nbsp;using&nbsp;hifiasm&nbsp;in&nbsp;Hi-C&nbsp;phsaing&nbsp;mode.&nbsp;The&nbsp;Hi-C&nbsp;data&nbsp;is&nbsp;available&nbsp;on&nbsp;NCBI&nbsp;as&nbsp;SRR24988076.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;these&nbsp;assemblies&nbsp;for&nbsp;dual&nbsp;curation&nbsp;as&nbsp;a&nbsp;Phase&nbsp;1&nbsp;genome.&nbsp;<br>
-  ident: md8
+  ident: md10
   title: assembly_vgp_HiC_2.0/rBraPum1.yml
 name: Bradypodion pumilum
 name_: Bradypodion_pumilum

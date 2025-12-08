@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 120.53 Gbp
 data_arima-1_bytes: 62.4 GiB
@@ -39,12 +39,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2024-03-28
-hpa1filesize: 259.4 MiB
-hpa1length: '948959649'
-hpa1n50ctg: 17207202
-hpa1n50scf: 107891791
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Spea_multiplicata/aSpeMul1/assembly_vgp_HiC_2.0/aSpeMul1.HiC.hap1.20240328.fasta.gz
+hpa1date: 2025-12-05
+hpa1filesize: 261.5 MiB
+hpa1length: '959398860'
+hpa1n50ctg: 14261649
+hpa1n50scf: 110727404
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Spea_multiplicata/aSpeMul1/assembly_curated/aSpeMul1.hap1.cur.20251205.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -62,18 +62,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 51.72 Mbp </td><td> 1 </td><td> 157.61 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 45.96 Mbp </td><td> 2 </td><td> 127.71 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 37.68 Mbp </td><td> 2 </td><td> 127.71 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 21.14 Mbp </td><td> 3 </td><td> 109.24 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 15 </td><td style="background-color:#88ff88;"> 17.21 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 107.89 Mbp </td></tr><tr><td> 60 </td><td> 22 </td><td> 11.42 Mbp </td><td> 5 </td><td> 99.64 Mbp </td></tr><tr><td> 70 </td><td> 32 </td><td> 6.94 Mbp </td><td> 6 </td><td> 83.22 Mbp </td></tr><tr><td> 80 </td><td> 53 </td><td> 3.05 Mbp </td><td> 8 </td><td> 44.86 Mbp </td></tr><tr><td> 90 </td><td> 108 </td><td> 1.05 Mbp </td><td> 10 </td><td> 38.61 Mbp </td></tr><tr><td> 100 </td><td> 759 </td><td> 11.43 Kbp </td><td> 586 </td><td> 11.43 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 48.24 Mbp </td><td> 1 </td><td> 163.67 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 43.80 Mbp </td><td> 2 </td><td> 127.86 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 24.60 Mbp </td><td> 2 </td><td> 127.86 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 19.22 Mbp </td><td> 3 </td><td> 112.21 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 17 </td><td style="background-color:#88ff88;"> 14.26 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 110.73 Mbp </td></tr><tr><td> 60 </td><td> 25 </td><td> 10.52 Mbp </td><td> 5 </td><td> 105.58 Mbp </td></tr><tr><td> 70 </td><td> 35 </td><td> 6.94 Mbp </td><td> 7 </td><td> 45.66 Mbp </td></tr><tr><td> 80 </td><td> 56 </td><td> 3.21 Mbp </td><td> 9 </td><td> 39.54 Mbp </td></tr><tr><td> 90 </td><td> 114 </td><td> 0.98 Mbp </td><td> 11 </td><td> 31.38 Mbp </td></tr><tr><td> 100 </td><td> 770 </td><td> 181  bp </td><td> 503 </td><td> 11.43 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 759 </th><th> 0.95 Gbp </th><th> 586 </th><th> 0.95 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 770 </th><th> 0.96 Gbp </th><th> 503 </th><th> 0.96 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2024-03-28
-hpb1filesize: 260.8 MiB
-hpb1length: '951420262'
-hpb1n50ctg: 12307020
-hpb1n50scf: 103610757
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Spea_multiplicata/aSpeMul1/assembly_vgp_HiC_2.0/aSpeMul1.HiC.hap2.20240328.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2025-12-05
+hpb1filesize: 234.6 MiB
+hpb1length: '940088435'
+hpb1n50ctg: 14856565
+hpb1n50scf: 107162795
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Spea_multiplicata/aSpeMul1/assembly_curated/aSpeMul1.hap2.cur.20251205.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -91,17 +91,17 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 50.32 Mbp </td><td> 1 </td><td> 159.13 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 43.22 Mbp </td><td> 2 </td><td> 127.22 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 29.99 Mbp </td><td> 2 </td><td> 127.22 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 22.47 Mbp </td><td> 3 </td><td> 109.03 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 17 </td><td style="background-color:#88ff88;"> 12.31 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 103.61 Mbp </td></tr><tr><td> 60 </td><td> 26 </td><td> 8.23 Mbp </td><td> 5 </td><td> 101.77 Mbp </td></tr><tr><td> 70 </td><td> 40 </td><td> 5.70 Mbp </td><td> 7 </td><td> 45.13 Mbp </td></tr><tr><td> 80 </td><td> 61 </td><td> 3.29 Mbp </td><td> 9 </td><td> 38.86 Mbp </td></tr><tr><td> 90 </td><td> 110 </td><td> 1.11 Mbp </td><td> 12 </td><td> 28.99 Mbp </td></tr><tr><td> 100 </td><td> 540 </td><td> 14.06 Kbp </td><td> 357 </td><td> 14.06 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 51.72 Mbp </td><td> 1 </td><td> 161.91 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 48.91 Mbp </td><td> 2 </td><td> 127.91 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 29.99 Mbp </td><td> 2 </td><td> 127.91 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 24.03 Mbp </td><td> 3 </td><td> 111.08 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 15 </td><td style="background-color:#88ff88;"> 14.86 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 107.16 Mbp </td></tr><tr><td> 60 </td><td> 23 </td><td> 8.49 Mbp </td><td> 5 </td><td> 102.92 Mbp </td></tr><tr><td> 70 </td><td> 36 </td><td> 5.73 Mbp </td><td> 7 </td><td> 45.22 Mbp </td></tr><tr><td> 80 </td><td> 58 </td><td> 3.21 Mbp </td><td> 9 </td><td> 38.42 Mbp </td></tr><tr><td> 90 </td><td> 106 </td><td> 1.17 Mbp </td><td> 11 </td><td> 33.15 Mbp </td></tr><tr><td> 100 </td><td> 556 </td><td> 713  bp </td><td> 292 </td><td> 14.38 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 540 </th><th> 0.95 Gbp </th><th> 357 </th><th> 0.95 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 556 </th><th> 0.94 Gbp </th><th> 292 </th><th> 0.94 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1710801501
-last_updated: 1723497557
+last_updated: 1764956396
 mds:
 - data: species:&nbsp;Spea&nbsp;multiplicata<br>specimen:&nbsp;aSpeMul1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Spea_multiplicata/aSpeMul1/assembly_vgp_HiC_2.0/aSpeMul1.HiC.hap1.20240328.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Spea_multiplicata/aSpeMul1/assembly_vgp_HiC_2.0/aSpeMul1.HiC.hap2.20240328.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Spea_multiplicata/aSpeMul1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/aSpeMul1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Spea_multiplicata/aSpeMul1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/aSpeMul1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Spea_multiplicata/aSpeMul1/assembly_vgp_HiC_2.0/evaluation/merqury/aSpeMul1_png/<br>mito:&nbsp;s3://genomeark/species/Spea_multiplicata/aSpeMul1/assembly_MT_rockefeller/aSpeMul1.MT.20240328.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Spea_multiplicata/aSpeMul1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Spea_multiplicata/aSpeMul1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;aSpeMul1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima,&nbsp;so&nbsp;the&nbsp;HiC&nbsp;reads&nbsp;require&nbsp;trimming&nbsp;5&nbsp;bp&nbsp;off&nbsp;the&nbsp;5'&nbsp;end.&nbsp;The&nbsp;assembly&nbsp;was&nbsp;performed&nbsp;on&nbsp;the&nbsp;Rockefeller&nbsp;University&nbsp;VGL&nbsp;instance.&nbsp;<br>
-  ident: md3
+  ident: md5
   title: assembly_vgp_HiC_2.0/aSpeMul1.yml
 mito1date: 2024-03-28
 mito1filesize: 5.4 KiB

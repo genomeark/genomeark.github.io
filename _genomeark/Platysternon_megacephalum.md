@@ -1,15 +1,15 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: ''
-data_arima-1_bases: 17.62 Gbp
-data_arima-1_bytes: 10.1 GiB
+data_arima-1_bases: 125.59 Gbp
+data_arima-1_bytes: 69.5 GiB
 data_arima-1_coverage: N/A
 data_arima-1_links: s3://genomeark/species/Platysternon_megacephalum/rPlaMeg1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Platysternon_megacephalum/rPlaMeg1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Platysternon_megacephalum/rPlaMeg1/genomic_data/arima/
-data_arima-1_scale: 1.6300
-data_arima_bases: 17.62 Gbp
-data_arima_bytes: 10.1 GiB
+data_arima-1_scale: 1.6821
+data_arima_bases: 125.59 Gbp
+data_arima_bytes: 69.5 GiB
 data_arima_coverage: N/A
 data_pacbiohifi_bam-1_bases: 166.51 Gbp
 data_pacbiohifi_bam-1_bytes: 547.0 GiB
@@ -39,8 +39,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1763414876
-last_updated: 1763414876
+last_raw_data: 1764498781
+last_updated: 1764498781
 name: Platysternon megacephalum
 name_: Platysternon_megacephalum
 project: ~
