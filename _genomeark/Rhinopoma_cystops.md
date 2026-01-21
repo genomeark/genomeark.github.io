@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 171.90 Gbp
 data_arima-1_bytes: 72.3 GiB
@@ -39,12 +39,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2023-12-04
-hpa1filesize: 803.4 MiB
-hpa1length: '3181992829'
-hpa1n50ctg: 31800350
-hpa1n50scf: 125814767
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_vgp_HiC_2.0/mRhiCys1.HiC.hap1.20231204.fasta.gz
+hpa1date: 2026-01-09
+hpa1filesize: 805.9 MiB
+hpa1length: '3200848786'
+hpa1n50ctg: 31224982
+hpa1n50scf: 160986869
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_curated/mRhiCys1.hap1.cur.20260109.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -62,18 +62,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 4 </td><td> 75.81 Mbp </td><td> 2 </td><td> 175.78 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 60.08 Mbp </td><td> 4 </td><td> 173.05 Mbp </td></tr><tr><td> 30 </td><td> 14 </td><td> 50.50 Mbp </td><td> 6 </td><td> 154.77 Mbp </td></tr><tr><td> 40 </td><td> 22 </td><td> 37.08 Mbp </td><td> 8 </td><td> 130.66 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 31 </td><td style="background-color:#88ff88;"> 31.80 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 125.81 Mbp </td></tr><tr><td> 60 </td><td> 42 </td><td> 26.65 Mbp </td><td> 13 </td><td> 113.78 Mbp </td></tr><tr><td> 70 </td><td> 55 </td><td> 17.99 Mbp </td><td> 16 </td><td> 86.40 Mbp </td></tr><tr><td> 80 </td><td> 80 </td><td> 9.39 Mbp </td><td> 21 </td><td> 46.40 Mbp </td></tr><tr><td> 90 </td><td> 137 </td><td> 3.64 Mbp </td><td> 59 </td><td> 3.98 Mbp </td></tr><tr><td> 100 </td><td> 640 </td><td> 14.34 Kbp </td><td> 552 </td><td> 14.34 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 75.36 Mbp </td><td> 2 </td><td> 235.79 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 60.08 Mbp </td><td> 3 </td><td> 196.30 Mbp </td></tr><tr><td> 30 </td><td> 14 </td><td> 50.50 Mbp </td><td> 5 </td><td> 181.89 Mbp </td></tr><tr><td> 40 </td><td> 22 </td><td> 36.90 Mbp </td><td> 7 </td><td> 171.84 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 32 </td><td style="background-color:#88ff88;"> 31.22 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 160.99 Mbp </td></tr><tr><td> 60 </td><td> 43 </td><td> 26.30 Mbp </td><td> 11 </td><td> 146.38 Mbp </td></tr><tr><td> 70 </td><td> 57 </td><td> 16.59 Mbp </td><td> 13 </td><td> 122.28 Mbp </td></tr><tr><td> 80 </td><td> 83 </td><td> 8.82 Mbp </td><td> 16 </td><td> 88.74 Mbp </td></tr><tr><td> 90 </td><td> 142 </td><td> 3.63 Mbp </td><td> 38 </td><td> 4.90 Mbp </td></tr><tr><td> 100 </td><td> 617 </td><td> 2.21 Kbp </td><td> 479 </td><td> 14.84 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 640 </th><th> 3.18 Gbp </th><th> 552 </th><th> 3.18 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 617 </th><th> 3.20 Gbp </th><th> 479 </th><th> 3.20 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2023-12-04
-hpb1filesize: 741.2 MiB
-hpb1length: '2872947513'
+hpa1version: assembly_curated
+hpb1date: 2026-01-09
+hpb1filesize: 660.1 MiB
+hpb1length: '2849602557'
 hpb1n50ctg: 32762973
-hpb1n50scf: 145436762
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_vgp_HiC_2.0/mRhiCys1.HiC.hap2.20231204.fasta.gz
+hpb1n50scf: 154095941
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_curated/mRhiCys1.hap2.cur.20260109.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -91,17 +91,17 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 3 </td><td> 95.23 Mbp </td><td> 2 </td><td> 233.91 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 70.62 Mbp </td><td> 3 </td><td> 180.11 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 59.46 Mbp </td><td> 5 </td><td> 174.25 Mbp </td></tr><tr><td> 40 </td><td> 17 </td><td> 43.62 Mbp </td><td> 6 </td><td> 170.56 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 25 </td><td style="background-color:#88ff88;"> 32.76 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 145.44 Mbp </td></tr><tr><td> 60 </td><td> 35 </td><td> 24.09 Mbp </td><td> 10 </td><td> 123.23 Mbp </td></tr><tr><td> 70 </td><td> 49 </td><td> 15.71 Mbp </td><td> 14 </td><td> 72.75 Mbp </td></tr><tr><td> 80 </td><td> 74 </td><td> 8.52 Mbp </td><td> 19 </td><td> 43.62 Mbp </td></tr><tr><td> 90 </td><td> 129 </td><td> 3.28 Mbp </td><td> 52 </td><td> 3.83 Mbp </td></tr><tr><td> 100 </td><td> 577 </td><td> 13.17 Kbp </td><td> 488 </td><td> 13.17 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 95.23 Mbp </td><td> 2 </td><td> 236.87 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 70.62 Mbp </td><td> 3 </td><td> 188.40 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 59.29 Mbp </td><td> 4 </td><td> 183.77 Mbp </td></tr><tr><td> 40 </td><td> 17 </td><td> 43.62 Mbp </td><td> 6 </td><td> 172.47 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 25 </td><td style="background-color:#88ff88;"> 32.76 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 154.10 Mbp </td></tr><tr><td> 60 </td><td> 34 </td><td> 26.72 Mbp </td><td> 10 </td><td> 130.98 Mbp </td></tr><tr><td> 70 </td><td> 48 </td><td> 16.09 Mbp </td><td> 12 </td><td> 114.48 Mbp </td></tr><tr><td> 80 </td><td> 72 </td><td> 8.93 Mbp </td><td> 15 </td><td> 85.99 Mbp </td></tr><tr><td> 90 </td><td> 126 </td><td> 3.33 Mbp </td><td> 25 </td><td> 5.23 Mbp </td></tr><tr><td> 100 </td><td> 565 </td><td> 13.17 Kbp </td><td> 424 </td><td> 13.17 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 577 </th><th> 2.87 Gbp </th><th> 488 </th><th> 2.87 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 565 </th><th> 2.85 Gbp </th><th> 424 </th><th> 2.85 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1700708401
-last_updated: 1723140775
+last_updated: 1767989953
 mds:
 - data: species:&nbsp;Rhinopoma&nbsp;cystops<br>specimen:&nbsp;mRhiCys1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>&nbsp;&nbsp;-&nbsp;bat1k<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_vgp_HiC_2.0/mRhiCys1.HiC.hap1.20231204.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_vgp_HiC_2.0/mRhiCys1.HiC.hap2.20231204.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mRhiCys1_hap1_s2.pretext<br>pretext:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mRhiCys1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_vgp_HiC_2.0/evaluation/merqury/mRhiCys1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Rhinopoma_cystops/mRhiCys1/assembly_MT_rockefeller/mRhiCys1.MT.20231204.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mRhiCys1.&nbsp;This&nbsp;hap1&nbsp;assembly&nbsp;and&nbsp;hap2&nbsp;assembly&nbsp;underwent&nbsp;separate&nbsp;HiC&nbsp;scaffolding&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;HiC&nbsp;reaction&nbsp;was&nbsp;using&nbsp;Arima&nbsp;kit&nbsp;v2.<br>
-  ident: md3
+  ident: md7
   title: assembly_vgp_HiC_2.0/mRhiCys1.yml
 mito1date: 2023-12-04
 mito1filesize: 5.3 KiB

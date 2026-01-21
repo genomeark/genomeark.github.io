@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:orangered">Draft</em>
 common_name: ''
 data_arima-1_bases: 179.48 Gbp
 data_arima-1_bytes: 95.6 GiB
@@ -39,8 +39,95 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
+hpa1date: 2025-12-11
+hpa1filesize: 273.6 MiB
+hpa1length: '1095911638'
+hpa1n50ctg: 9931178
+hpa1n50scf: 51727371
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Mimus_polyglottos/bMimPol1/assembly_vgp_HiC_2.0/bMimPol1.HiC.hap1.20251211.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 35.35 Mbp </td><td> 1 </td><td> 154.03 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 22.30 Mbp </td><td> 2 </td><td> 120.96 Mbp </td></tr><tr><td> 30 </td><td> 13 </td><td> 18.08 Mbp </td><td> 3 </td><td> 119.80 Mbp </td></tr><tr><td> 40 </td><td> 20 </td><td> 14.20 Mbp </td><td> 4 </td><td> 75.24 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 30 </td><td style="background-color:#88ff88;"> 9.93 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 51.73 Mbp </td></tr><tr><td> 60 </td><td> 42 </td><td> 7.14 Mbp </td><td> 8 </td><td> 36.71 Mbp </td></tr><tr><td> 70 </td><td> 61 </td><td> 4.59 Mbp </td><td> 12 </td><td> 25.64 Mbp </td></tr><tr><td> 80 </td><td> 91 </td><td> 2.80 Mbp </td><td> 17 </td><td> 17.75 Mbp </td></tr><tr><td> 90 </td><td> 153 </td><td> 1.17 Mbp </td><td> 24 </td><td> 11.39 Mbp </td></tr><tr><td> 100 </td><td> 617 </td><td> 30.63 Kbp </td><td> 280 </td><td> 30.63 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 617 </th><th> 1.10 Gbp </th><th> 280 </th><th> 1.10 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2025-12-11
+hpb1filesize: 300.5 MiB
+hpb1length: '1174763712'
+hpb1n50ctg: 9795851
+hpb1n50scf: 73716239
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Mimus_polyglottos/bMimPol1/assembly_vgp_HiC_2.0/bMimPol1.HiC.hap2.20251211.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 23.56 Mbp </td><td> 1 </td><td> 153.45 Mbp </td></tr><tr><td> 20 </td><td> 10 </td><td> 18.08 Mbp </td><td> 2 </td><td> 118.64 Mbp </td></tr><tr><td> 30 </td><td> 17 </td><td> 13.89 Mbp </td><td> 3 </td><td> 118.37 Mbp </td></tr><tr><td> 40 </td><td> 26 </td><td> 12.13 Mbp </td><td> 5 </td><td> 74.53 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 37 </td><td style="background-color:#88ff88;"> 9.80 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 73.72 Mbp </td></tr><tr><td> 60 </td><td> 51 </td><td> 7.65 Mbp </td><td> 8 </td><td> 51.60 Mbp </td></tr><tr><td> 70 </td><td> 68 </td><td> 5.96 Mbp </td><td> 11 </td><td> 31.25 Mbp </td></tr><tr><td> 80 </td><td> 93 </td><td> 3.37 Mbp </td><td> 17 </td><td> 18.51 Mbp </td></tr><tr><td> 90 </td><td> 149 </td><td> 1.31 Mbp </td><td> 24 </td><td> 11.86 Mbp </td></tr><tr><td> 100 </td><td> 607 </td><td> 20.97 Kbp </td><td> 223 </td><td> 20.97 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 607 </th><th> 1.17 Gbp </th><th> 223 </th><th> 1.17 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1762448167
-last_updated: 1762448167
+last_updated: 1765579509
+mito1date: 2025-12-10
+mito1filesize: 5.4 KiB
+mito1length: '16806'
+mito1n50ctg: 16806
+mito1n50scf: 16806
+mito1seq: https://s3.amazonaws.com/genomeark/species/Mimus_polyglottos/bMimPol1/assembly_MT_rockefeller/bMimPol1.MT.20251210.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.81 Kbp </td><td> 1 </td><td> 16.81 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.81 Kbp </td><td> 1 </td><td> 16.81 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.81 Kbp </td><td> 1 </td><td> 16.81 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.81 Kbp </td><td> 1 </td><td> 16.81 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.81 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.81 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.81 Kbp </td><td> 1 </td><td> 16.81 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.81 Kbp </td><td> 1 </td><td> 16.81 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.81 Kbp </td><td> 1 </td><td> 16.81 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.81 Kbp </td><td> 1 </td><td> 16.81 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.81 Kbp </td><td> 1 </td><td> 16.81 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.81 Kbp </th><th> 1 </th><th> 16.81 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Mimus polyglottos
 name_: Mimus_polyglottos
 project: ~

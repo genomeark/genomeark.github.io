@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Eurasian sparrowhawk
 data_arima-1_bases: 96.97 Gbp
 data_arima-1_bytes: 26.9 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 1095360000
 genome_size_display: 1.10 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-09-19
-hpa1filesize: 315.2 MiB
-hpa1length: '1383164929'
-hpa1n50ctg: 5085240
-hpa1n50scf: 44839602
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Accipiter_nisus/bAccNis1/assembly_cambridge/bAccNis1.hap1.asm.20240919.fasta.gz
+hpa1date: 2026-01-12
+hpa1filesize: 388.8 MiB
+hpa1length: '1439946477'
+hpa1n50ctg: 5139619
+hpa1n50scf: 47438927
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Accipiter_nisus/bAccNis1/assembly_curated/bAccNis1.hap1.cur.20260112.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 9 </td><td> 10.71 Mbp </td><td> 2 </td><td> 86.53 Mbp </td></tr><tr><td> 20 </td><td> 20 </td><td> 8.47 Mbp </td><td> 3 </td><td> 78.68 Mbp </td></tr><tr><td> 30 </td><td> 34 </td><td> 7.03 Mbp </td><td> 4 </td><td> 76.64 Mbp </td></tr><tr><td> 40 </td><td> 50 </td><td> 6.00 Mbp </td><td> 7 </td><td> 47.68 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 71 </td><td style="background-color:#88ff88;"> 5.09 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 44.84 Mbp </td></tr><tr><td> 60 </td><td> 94 </td><td> 4.33 Mbp </td><td> 11 </td><td> 44.14 Mbp </td></tr><tr><td> 70 </td><td> 123 </td><td> 3.43 Mbp </td><td> 14 </td><td> 39.45 Mbp </td></tr><tr><td> 80 </td><td> 159 </td><td> 2.81 Mbp </td><td> 17 </td><td> 36.00 Mbp </td></tr><tr><td> 90 </td><td> 204 </td><td> 2.15 Mbp </td><td> 20 </td><td> 32.46 Mbp </td></tr><tr><td> 100 </td><td> 264 </td><td> 1.54 Mbp </td><td> 24 </td><td> 22.86 Mbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 9 </td><td> 10.71 Mbp </td><td> 2 </td><td> 86.53 Mbp </td></tr><tr><td> 20 </td><td> 20 </td><td> 8.47 Mbp </td><td> 3 </td><td> 81.60 Mbp </td></tr><tr><td> 30 </td><td> 34 </td><td> 7.03 Mbp </td><td> 4 </td><td> 77.86 Mbp </td></tr><tr><td> 40 </td><td> 50 </td><td> 6.01 Mbp </td><td> 6 </td><td> 52.57 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 70 </td><td style="background-color:#88ff88;"> 5.14 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 47.44 Mbp </td></tr><tr><td> 60 </td><td> 94 </td><td> 4.33 Mbp </td><td> 11 </td><td> 44.53 Mbp </td></tr><tr><td> 70 </td><td> 122 </td><td> 3.49 Mbp </td><td> 13 </td><td> 44.06 Mbp </td></tr><tr><td> 80 </td><td> 157 </td><td> 2.86 Mbp </td><td> 16 </td><td> 38.81 Mbp </td></tr><tr><td> 90 </td><td> 200 </td><td> 2.31 Mbp </td><td> 19 </td><td> 33.72 Mbp </td></tr><tr><td> 100 </td><td> 254 </td><td> 1.74 Mbp </td><td> 22 </td><td> 32.02 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.263x </th><th> 1305 </th><th> 1.38 Gbp </th><th> 838 </th><th> 1.38 Gbp </th></tr>
+  <tr><th> 1.314x </th><th> 1314 </th><th> 1.44 Gbp </th><th> 764 </th><th> 1.44 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-09-19
-hpb1filesize: 302.2 MiB
-hpb1length: '1289625375'
-hpb1n50ctg: 4933000
-hpb1n50scf: 44399815
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Accipiter_nisus/bAccNis1/assembly_cambridge/bAccNis1.hap2.asm.20240919.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2026-01-12
+hpb1filesize: 342.8 MiB
+hpb1length: '1231573886'
+hpb1n50ctg: 4841759
+hpb1n50scf: 44586864
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Accipiter_nisus/bAccNis1/assembly_curated/bAccNis1.hap2.cur.20260112.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 9 </td><td> 10.23 Mbp </td><td> 2 </td><td> 78.12 Mbp </td></tr><tr><td> 20 </td><td> 21 </td><td> 8.11 Mbp </td><td> 3 </td><td> 74.16 Mbp </td></tr><tr><td> 30 </td><td> 35 </td><td> 6.86 Mbp </td><td> 5 </td><td> 49.96 Mbp </td></tr><tr><td> 40 </td><td> 53 </td><td> 5.79 Mbp </td><td> 8 </td><td> 44.82 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 73 </td><td style="background-color:#88ff88;"> 4.93 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 44.40 Mbp </td></tr><tr><td> 60 </td><td> 98 </td><td> 3.97 Mbp </td><td> 13 </td><td> 39.44 Mbp </td></tr><tr><td> 70 </td><td> 129 </td><td> 3.12 Mbp </td><td> 16 </td><td> 37.05 Mbp </td></tr><tr><td> 80 </td><td> 167 </td><td> 2.59 Mbp </td><td> 19 </td><td> 32.12 Mbp </td></tr><tr><td> 90 </td><td> 214 </td><td> 2.09 Mbp </td><td> 23 </td><td> 24.62 Mbp </td></tr><tr><td> 100 </td><td> 280 </td><td> 1.34 Mbp </td><td> 28 </td><td> 17.36 Mbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 9 </td><td> 10.23 Mbp </td><td> 2 </td><td> 80.79 Mbp </td></tr><tr><td> 20 </td><td> 21 </td><td> 8.11 Mbp </td><td> 3 </td><td> 78.12 Mbp </td></tr><tr><td> 30 </td><td> 35 </td><td> 6.86 Mbp </td><td> 5 </td><td> 50.56 Mbp </td></tr><tr><td> 40 </td><td> 53 </td><td> 5.79 Mbp </td><td> 7 </td><td> 46.85 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 73 </td><td style="background-color:#88ff88;"> 4.84 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 44.59 Mbp </td></tr><tr><td> 60 </td><td> 98 </td><td> 3.87 Mbp </td><td> 12 </td><td> 43.89 Mbp </td></tr><tr><td> 70 </td><td> 131 </td><td> 3.06 Mbp </td><td> 15 </td><td> 37.05 Mbp </td></tr><tr><td> 80 </td><td> 170 </td><td> 2.45 Mbp </td><td> 18 </td><td> 33.44 Mbp </td></tr><tr><td> 90 </td><td> 220 </td><td> 1.80 Mbp </td><td> 22 </td><td> 28.80 Mbp </td></tr><tr><td> 100 </td><td> 302 </td><td> 0.99 Mbp </td><td> 26 </td><td> 20.96 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.177x </th><th> 946 </th><th> 1.29 Gbp </th><th> 520 </th><th> 1.29 Gbp </th></tr>
+  <tr><th> 1.124x </th><th> 901 </th><th> 1.23 Gbp </th><th> 469 </th><th> 1.23 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1726495245
-last_updated: 1726774949
+last_updated: 1768179666
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;bAccNis<br>&nbsp;&nbsp;name:&nbsp;Accipiter&nbsp;nisus<br>&nbsp;&nbsp;taxon_id:&nbsp;211598<br>&nbsp;&nbsp;common_name:&nbsp;Eurasian&nbsp;sparrowhawk<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Accipitriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Accipitridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;bAccNis1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114594454<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;1095360000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-09-19
 mito1filesize: 5.2 KiB

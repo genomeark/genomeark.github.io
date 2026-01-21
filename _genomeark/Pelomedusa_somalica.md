@@ -21,6 +21,16 @@ data_arima-1_scale: 1.9341
 data_arima_bases: 265.57 Gbp
 data_arima_bytes: 127.9 GiB
 data_arima_coverage: 136.27x
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 814.9 MiB
+data_bionano-1_coverage: 238.20x
+data_bionano-1_links: s3://genomeark/species/Pelomedusa_somalica/rPelSom1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Pelomedusa_somalica/rPelSom1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pelomedusa_somalica/rPelSom1/genomic_data/bionano/
+data_bionano-1_scale: 543.2656
+data_bionano_bases: N/A
+data_bionano_bytes: 814.9 MiB
+data_bionano_coverage: 238.20x
 data_status: '<em style="color:forestgreen">10x</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -31,8 +41,8 @@ genbank_pri: rPelSom1:GCA_051311615.1
 genome_size: 1948856296
 genome_size_display: 1.95 Gbp
 genome_size_method: ''
-last_raw_data: 1756994638
-last_updated: 1760548863
+last_raw_data: 1765928900
+last_updated: 1765928900
 name: Pelomedusa somalica
 name_: Pelomedusa_somalica
 pri1date: 2021-12-07

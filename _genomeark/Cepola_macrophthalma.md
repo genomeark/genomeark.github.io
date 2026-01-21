@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: red bandfish
 data_arima-1_bases: 222.72 Gbp
 data_arima-1_bytes: 61.9 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 797070000
 genome_size_display: 0.80 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-04-05
-hpa1filesize: 133.9 MiB
-hpa1length: '584245876'
-hpa1n50ctg: 1096150
-hpa1n50scf: 18836549
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Cepola_macrophthalma/fCepMac1/assembly_cambridge/fCepMac1.hap1.asm.20240405.fasta.gz
+hpa1date: 2026-01-06
+hpa1filesize: 148.1 MiB
+hpa1length: '586180920'
+hpa1n50ctg: 1074000
+hpa1n50scf: 18251297
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Cepola_macrophthalma/fCepMac1/assembly_curated/fCepMac1.hap1.cur.20260106.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 10 </td><td> 6.29 Mbp </td><td> 2 </td><td> 41.01 Mbp </td></tr><tr><td> 20 </td><td> 25 </td><td> 4.52 Mbp </td><td> 5 </td><td> 24.59 Mbp </td></tr><tr><td> 30 </td><td> 46 </td><td> 3.08 Mbp </td><td> 9 </td><td> 22.86 Mbp </td></tr><tr><td> 40 </td><td> 79 </td><td> 1.94 Mbp </td><td> 13 </td><td> 19.87 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 133 </td><td style="background-color:#88ff88;"> 1.10 Mbp </td><td> 17 </td><td style="background-color:#88ff88;"> 18.84 Mbp </td></tr><tr><td> 60 </td><td> 237 </td><td> 484.65 Kbp </td><td> 22 </td><td> 12.53 Mbp </td></tr><tr><td> 70 </td><td> 570 </td><td> 104.70 Kbp </td><td> 145 </td><td> 174.04 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 10 </td><td> 5.25 Mbp </td><td> 4 </td><td> 24.58 Mbp </td></tr><tr><td> 20 </td><td> 27 </td><td> 4.10 Mbp </td><td> 7 </td><td> 23.71 Mbp </td></tr><tr><td> 30 </td><td> 50 </td><td> 2.89 Mbp </td><td> 10 </td><td> 21.48 Mbp </td></tr><tr><td> 40 </td><td> 86 </td><td> 1.77 Mbp </td><td> 14 </td><td> 20.10 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 144 </td><td style="background-color:#88ff88;"> 1.07 Mbp </td><td> 19 </td><td style="background-color:#88ff88;"> 18.25 Mbp </td></tr><tr><td> 60 </td><td> 251 </td><td> 493.00 Kbp </td><td> 23 </td><td> 14.39 Mbp </td></tr><tr><td> 70 </td><td> 567 </td><td> 119.55 Kbp </td><td> 125 </td><td> 202.00 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.733x </th><th> 1266 </th><th> 0.58 Gbp </th><th> 754 </th><th> 0.58 Gbp </th></tr>
+  <tr><th> 0.735x </th><th> 1271 </th><th> 0.59 Gbp </th><th> 738 </th><th> 0.59 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-04-05
-hpb1filesize: 133.5 MiB
-hpb1length: '579614422'
+hpa1version: assembly_curated
+hpb1date: 2026-01-06
+hpb1filesize: 146.2 MiB
+hpb1length: '575962900'
 hpb1n50ctg: 1043094
-hpb1n50scf: 18766129
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Cepola_macrophthalma/fCepMac1/assembly_cambridge/fCepMac1.hap2.asm.20240405.fasta.gz
+hpb1n50scf: 18090808
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Cepola_macrophthalma/fCepMac1/assembly_curated/fCepMac1.hap2.cur.20260106.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 13 </td><td> 5.23 Mbp </td><td> 2 </td><td> 42.55 Mbp </td></tr><tr><td> 20 </td><td> 31 </td><td> 3.82 Mbp </td><td> 5 </td><td> 24.94 Mbp </td></tr><tr><td> 30 </td><td> 55 </td><td> 2.70 Mbp </td><td> 9 </td><td> 23.11 Mbp </td></tr><tr><td> 40 </td><td> 93 </td><td> 1.65 Mbp </td><td> 13 </td><td> 20.19 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 152 </td><td style="background-color:#88ff88;"> 1.04 Mbp </td><td> 17 </td><td style="background-color:#88ff88;"> 18.77 Mbp </td></tr><tr><td> 60 </td><td> 261 </td><td> 0.51 Mbp </td><td> 22 </td><td> 12.13 Mbp </td></tr><tr><td> 70 </td><td> 575 </td><td> 114.00 Kbp </td><td> 138 </td><td> 204.00 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 12 </td><td> 5.35 Mbp </td><td> 4 </td><td> 24.08 Mbp </td></tr><tr><td> 20 </td><td> 29 </td><td> 4.19 Mbp </td><td> 7 </td><td> 23.39 Mbp </td></tr><tr><td> 30 </td><td> 51 </td><td> 2.80 Mbp </td><td> 11 </td><td> 20.65 Mbp </td></tr><tr><td> 40 </td><td> 86 </td><td> 1.76 Mbp </td><td> 15 </td><td> 19.85 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 143 </td><td style="background-color:#88ff88;"> 1.04 Mbp </td><td> 19 </td><td style="background-color:#88ff88;"> 18.09 Mbp </td></tr><tr><td> 60 </td><td> 253 </td><td> 477.07 Kbp </td><td> 24 </td><td> 11.77 Mbp </td></tr><tr><td> 70 </td><td> 601 </td><td> 95.80 Kbp </td><td> 151 </td><td> 181.59 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.727x </th><th> 1081 </th><th> 0.58 Gbp </th><th> 556 </th><th> 0.58 Gbp </th></tr>
+  <tr><th> 0.722x </th><th> 1076 </th><th> 0.58 Gbp </th><th> 544 </th><th> 0.58 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1709680104
-last_updated: 1712324276
+last_updated: 1767661273
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fCepMac<br>&nbsp;&nbsp;name:&nbsp;Cepola&nbsp;macrophthalma<br>&nbsp;&nbsp;taxon_id:&nbsp;334382<br>&nbsp;&nbsp;common_name:&nbsp;red&nbsp;bandfish<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perciformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cepolidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fCepMac1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA112788985<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;797070000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-04-05
 mito1filesize: 5.1 KiB

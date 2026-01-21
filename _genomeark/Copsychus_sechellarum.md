@@ -28,6 +28,26 @@ data_illumina-3_scale: 1.9916
 data_illumina_bases: 181.72 Gbp
 data_illumina_bytes: 84.5 GiB
 data_illumina_coverage: 144.10x
+data_pacbiohifi_bam-1_bases: 73.38 Gbp
+data_pacbiohifi_bam-1_bytes: 256.2 GiB
+data_pacbiohifi_bam-1_coverage: 58.19x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Copsychus_sechellarum/bCopSec1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Copsychus_sechellarum/bCopSec1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Copsychus_sechellarum/bCopSec1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2667
+data_pacbiohifi_bam_bases: 73.38 Gbp
+data_pacbiohifi_bam_bytes: 256.2 GiB
+data_pacbiohifi_bam_coverage: 58.19x
+data_pacbiohifi_clr-1_bases: 124.57 Gbp
+data_pacbiohifi_clr-1_bytes: 265.4 GiB
+data_pacbiohifi_clr-1_coverage: 98.79x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Copsychus_sechellarum/bCopSec1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Copsychus_sechellarum/bCopSec1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Copsychus_sechellarum/bCopSec1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.4371
+data_pacbiohifi_clr_bases: 124.57 Gbp
+data_pacbiohifi_clr_bytes: 265.4 GiB
+data_pacbiohifi_clr_coverage: 98.79x
 data_pacbiohifi_fqgz-1_bases: 49.71 Gbp
 data_pacbiohifi_fqgz-1_bytes: 37.5 GiB
 data_pacbiohifi_fqgz-1_coverage: 39.42x
@@ -105,8 +125,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1682102769
-last_updated: 1763742421
+last_raw_data: 1767710706
+last_updated: 1767710706
 mds:
 - data: species:&nbsp;Copsychus&nbsp;sechellarum<br>specimen:&nbsp;bCopSec1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Copsychus_sechellarum/bCopSec1/assembly_vgp_HiC_2.0/bCopSec1.HiC.hap1.20240904.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Copsychus_sechellarum/bCopSec1/assembly_vgp_HiC_2.0/bCopSec1.HiC.hap2.20240904.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Copsychus_sechellarum/bCopSec1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bCopSec1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Copsychus_sechellarum/bCopSec1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bCopSec1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Copsychus_sechellarum/bCopSec1/assembly_vgp_HiC_2.0/evaluation/merqury_s2_trioqc/bCopSec1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Copsychus_sechellarum/bCopSec1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Copsychus_sechellarum/bCopSec1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Copsychus_sechellarum/bCopSec1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.9+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy3)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bCopSec1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;the&nbsp;Swift-IDT&nbsp;kit.&nbsp;The&nbsp;assembly&nbsp;was&nbsp;performed&nbsp;on&nbsp;the&nbsp;VGL&nbsp;Galaxy&nbsp;instance.&nbsp;There&nbsp;is&nbsp;trio&nbsp;phasing&nbsp;data&nbsp;available&nbsp;for&nbsp;this&nbsp;individual&nbsp;(bCopSec2&nbsp;and&nbsp;bCopSec3),&nbsp;but&nbsp;the&nbsp;trio-phased&nbsp;assembly&nbsp;performed&nbsp;worse&nbsp;relative&nbsp;to&nbsp;the&nbsp;HiC-phased&nbsp;assembly.&nbsp;
   ident: md4

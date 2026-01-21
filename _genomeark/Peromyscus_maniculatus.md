@@ -1,10 +1,10 @@
 ---
-alt1date: 2025-10-06
-alt1filesize: 742.3 MiB
+alt1date: 2025-12-19
+alt1filesize: 742.2 MiB
 alt1length: '2648260266'
 alt1n50ctg: '12292617'
 alt1n50scf: '63956138'
-alt1seq: https://s3.amazonaws.com/genomeark/species/Peromyscus_maniculatus/mPerMan1/assembly_curated/mPerMan1.alt.20251006.fasta.gz
+alt1seq: https://s3.amazonaws.com/genomeark/species/Peromyscus_maniculatus/mPerMan1/assembly_curated/mPerMan1.alt.20251219.fasta.gz
 alt1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -147,10 +147,10 @@ hpb3sizes: |
   </table>
 hpb3version: assembly_vgp_HiC_2.0
 last_raw_data: 1755626773
-last_updated: 1760107874
+last_updated: 1766160904
 mds:
 - data: species:&nbsp;Peromyscus&nbsp;maniculatus<br>specimem:&nbsp;mPerMan3<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Peromyscus_maniculatus/mPerMan3/assembly_vgp_HiC_2.0/mPerMan3.HiC.hap1.20251010.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Peromyscus_maniculatus/mPerMan3/assembly_vgp_HiC_2.0/mPerMan3.HiC.hap2.20251010.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Peromyscus_maniculatus/mPerMan3/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/s2/mPerMan3_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Peromyscus_maniculatus/mPerMan3/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/s2/mPerMan3_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Peromyscus_maniculatus/mPerMan3/assembly_vgp_HiC_2.0/evaluation/merqury/mPerMan3_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Peromyscus_maniculatus/mPerMan3/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Peromyscus_maniculatus/mPerMan3/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.25.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy2)<br>&nbsp;&nbsp;-&nbsp;VGP0&nbsp;mitoHiFi&nbsp;workflow&nbsp;(v0.2.2)<br>&nbsp;&nbsp;-&nbsp;VGP1&nbsp;genomic&nbsp;profiling&nbsp;workflow&nbsp;(v0.4)<br>&nbsp;&nbsp;-&nbsp;VGP4&nbsp;HiFi&nbsp;HiC&nbsp;assembly&nbsp;workflow&nbsp;(v0.3.12)<br>&nbsp;&nbsp;-&nbsp;VGP8&nbsp;HiC&nbsp;scaffolding&nbsp;workflow&nbsp;(v2.2)&nbsp;with&nbsp;mapq=10<br>&nbsp;&nbsp;-&nbsp;VGP9&nbsp;decontamination&nbsp;workflow&nbsp;unpublished&nbsp;using&nbsp;FCS&nbsp;(0.5.5+galaxy0)&nbsp;<br>&nbsp;&nbsp;-&nbsp;Pre-curation&nbsp;worklfow&nbsp;(v1.0beta6)&nbsp;with&nbsp;mapq=10<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mPerMan3&nbsp;resulting&nbsp;in&nbsp;two&nbsp;haplotype&nbsp;assemblies.&nbsp;HiC&nbsp;data&nbsp;were&nbsp;generated&nbsp;using&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit,&nbsp;and&nbsp;require&nbsp;trimming&nbsp;the&nbsp;first&nbsp;5&nbsp;bp&nbsp;off&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;of&nbsp;both&nbsp;read&nbsp;files.&nbsp;The&nbsp;restriction&nbsp;enzymes&nbsp;used&nbsp;were&nbsp;the&nbsp;Arima&nbsp;v2&nbsp;kit,&nbsp;so&nbsp;the&nbsp;cutting&nbsp;sites&nbsp;are&nbsp;GATC,&nbsp;GANTC,&nbsp;CTNAG,&nbsp;TTAA.<br>
-  ident: md13
+  ident: md14
   title: assembly_vgp_HiC_2.0/mPerMan3.yml
 mito3date: 2025-10-10
 mito3filesize: 5.2 KiB

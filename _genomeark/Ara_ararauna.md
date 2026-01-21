@@ -21,6 +21,26 @@ data_bionano-1_scale: 539.3307
 data_bionano_bases: N/A
 data_bionano_bytes: 610.3 MiB
 data_bionano_coverage: 244.45x
+data_pacbiohifi_bam-1_bases: 19.84 Gbp
+data_pacbiohifi_bam-1_bytes: 67.6 GiB
+data_pacbiohifi_bam-1_coverage: 14.05x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Ara_ararauna/bAraAra1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ara_ararauna/bAraAra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ara_ararauna/bAraAra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2735
+data_pacbiohifi_bam_bases: 19.84 Gbp
+data_pacbiohifi_bam_bytes: 67.6 GiB
+data_pacbiohifi_bam_coverage: 14.05x
+data_pacbiohifi_clr-1_bases: 142.04 Gbp
+data_pacbiohifi_clr-1_bytes: 433.6 GiB
+data_pacbiohifi_clr-1_coverage: 100.59x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Ara_ararauna/bAraAra1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ara_ararauna/bAraAra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ara_ararauna/bAraAra1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.3051
+data_pacbiohifi_clr_bases: 142.04 Gbp
+data_pacbiohifi_clr_bytes: 433.6 GiB
+data_pacbiohifi_clr_coverage: 100.59x
 data_pacbiohifi_fqgz-1_bases: 54.99 Gbp
 data_pacbiohifi_fqgz-1_bytes: 41.2 GiB
 data_pacbiohifi_fqgz-1_coverage: 38.95x
@@ -98,8 +118,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1651611545
-last_updated: 1674673262
+last_raw_data: 1768236108
+last_updated: 1768236108
 mds:
 - data: species:&nbsp;Ara&nbsp;ararauna<br>specimen:&nbsp;bAraAra1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/bAraAra1.HiC.hap1.20220601.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/bAraAra1.HiC.hap2.20220601.fasta.gz<br>hap1_hic_bam:&nbsp;s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bAraAra1_hap1__s2.bam<br>hap2_hic_bam:&nbsp;s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bAraAra1_hap2__s2.bam<br>hap1_pretext:&nbsp;s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bAraAra1_hap1__s2_heatmap.pretext<br>hap2_pretext:&nbsp;s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bAraAra1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Ara_ararauna/bAraAra1/assembly_vgp_HiC_2.0/evaluation/merqury/bAraAra1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)<br><br>
   ident: md4

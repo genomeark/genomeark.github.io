@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Curaçao myotis
 data_arima-1_bases: 152.02 Gbp
 data_arima-1_bytes: 63.9 GiB
@@ -39,12 +39,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 2210280000
 genome_size_display: 2.21 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-02-23
-hpa1filesize: 619.2 MiB
-hpa1length: '2200477536'
-hpa1n50ctg: 51470620
-hpa1n50scf: 96705636
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_vgp_HiC_2.0/mMyoNes1.HiC.hap1.20240223.fasta.gz
+hpa1date: 2026-01-13
+hpa1filesize: 626.8 MiB
+hpa1length: '2236155545'
+hpa1n50ctg: 49124421
+hpa1n50scf: 105520506
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_curated/mMyoNes1.hap1.cur.20260113.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -62,18 +62,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 113.85 Mbp </td><td> 1 </td><td> 242.75 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 85.46 Mbp </td><td> 2 </td><td> 221.29 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 74.05 Mbp </td><td> 3 </td><td> 220.52 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 67.32 Mbp </td><td> 5 </td><td> 113.01 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 14 </td><td style="background-color:#88ff88;"> 51.47 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 96.71 Mbp </td></tr><tr><td> 60 </td><td> 19 </td><td> 46.59 Mbp </td><td> 10 </td><td> 85.85 Mbp </td></tr><tr><td> 70 </td><td> 24 </td><td> 36.74 Mbp </td><td> 12 </td><td> 75.15 Mbp </td></tr><tr><td> 80 </td><td> 32 </td><td> 18.32 Mbp </td><td> 16 </td><td> 59.94 Mbp </td></tr><tr><td> 90 </td><td> 58 </td><td> 5.14 Mbp </td><td> 20 </td><td> 48.32 Mbp </td></tr><tr><td> 100 </td><td> 359 </td><td> 15.72 Kbp </td><td> 238 </td><td> 15.72 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 113.85 Mbp </td><td> 1 </td><td> 242.75 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 96.13 Mbp </td><td> 2 </td><td> 221.29 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 74.05 Mbp </td><td> 3 </td><td> 220.52 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 62.40 Mbp </td><td> 5 </td><td> 118.04 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 14 </td><td style="background-color:#88ff88;"> 49.12 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 105.52 Mbp </td></tr><tr><td> 60 </td><td> 19 </td><td> 45.57 Mbp </td><td> 9 </td><td> 98.42 Mbp </td></tr><tr><td> 70 </td><td> 24 </td><td> 36.74 Mbp </td><td> 11 </td><td> 88.43 Mbp </td></tr><tr><td> 80 </td><td> 32 </td><td> 19.95 Mbp </td><td> 14 </td><td> 65.46 Mbp </td></tr><tr><td> 90 </td><td> 57 </td><td> 5.54 Mbp </td><td> 18 </td><td> 56.14 Mbp </td></tr><tr><td> 100 </td><td> 193 </td><td> 422.90 Kbp </td><td> 53 </td><td> 0.75 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 359 </th><th> 2.20 Gbp </th><th> 238 </th><th> 2.20 Gbp </th></tr>
+  <tr><th> 1.012x </th><th> 365 </th><th> 2.24 Gbp </th><th> 192 </th><th> 2.24 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2024-02-23
-hpb1filesize: 576.1 MiB
-hpb1length: '2047904271'
+hpa1version: assembly_curated
+hpb1date: 2026-01-13
+hpb1filesize: 521.8 MiB
+hpb1length: '2011510900'
 hpb1n50ctg: 48854715
-hpb1n50scf: 100362027
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_vgp_HiC_2.0/mMyoNes1.HiC.hap2.20240223.fasta.gz
+hpb1n50scf: 100294998
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_curated/mMyoNes1.hap2.cur.20260113.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -91,17 +91,17 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 100.41 Mbp </td><td> 1 </td><td> 238.58 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 83.56 Mbp </td><td> 2 </td><td> 217.76 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 70.82 Mbp </td><td> 3 </td><td> 215.04 Mbp </td></tr><tr><td> 40 </td><td> 10 </td><td> 59.21 Mbp </td><td> 5 </td><td> 111.22 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 14 </td><td style="background-color:#88ff88;"> 48.85 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 100.36 Mbp </td></tr><tr><td> 60 </td><td> 18 </td><td> 40.63 Mbp </td><td> 9 </td><td> 87.69 Mbp </td></tr><tr><td> 70 </td><td> 24 </td><td> 29.90 Mbp </td><td> 11 </td><td> 79.12 Mbp </td></tr><tr><td> 80 </td><td> 33 </td><td> 14.43 Mbp </td><td> 14 </td><td> 58.99 Mbp </td></tr><tr><td> 90 </td><td> 61 </td><td> 3.63 Mbp </td><td> 18 </td><td> 46.62 Mbp </td></tr><tr><td> 100 </td><td> 345 </td><td> 17.17 Kbp </td><td> 186 </td><td> 17.17 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 100.41 Mbp </td><td> 1 </td><td> 242.77 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 79.53 Mbp </td><td> 2 </td><td> 218.60 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 67.32 Mbp </td><td> 3 </td><td> 218.11 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 58.90 Mbp </td><td> 5 </td><td> 111.22 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 15 </td><td style="background-color:#88ff88;"> 48.85 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 100.29 Mbp </td></tr><tr><td> 60 </td><td> 21 </td><td> 34.65 Mbp </td><td> 10 </td><td> 85.85 Mbp </td></tr><tr><td> 70 </td><td> 29 </td><td> 20.72 Mbp </td><td> 13 </td><td> 65.04 Mbp </td></tr><tr><td> 80 </td><td> 49 </td><td> 6.16 Mbp </td><td> 16 </td><td> 57.48 Mbp </td></tr><tr><td> 90 </td><td> 179 </td><td> 390.19 Kbp </td><td> 41 </td><td> 0.81 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 345 </th><th> 2.05 Gbp </th><th> 186 </th><th> 2.05 Gbp </th></tr>
+  <tr><th> 0.910x </th><th> 324 </th><th> 2.01 Gbp </th><th> 150 </th><th> 2.01 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_vgp_HiC_2.0
+hpb1version: assembly_curated
 last_raw_data: 1708287605
-last_updated: 1723060577
+last_updated: 1768318460
 mds:
 - data: species:&nbsp;Myotis&nbsp;nesopolus&nbsp;<br>specimen:&nbsp;mMyoNes1&nbsp;<br>projects:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp&nbsp;<br>&nbsp;&nbsp;-&nbsp;bat1k&nbsp;<br>assembled_by_group:&nbsp;Rockefeller&nbsp;<br>data_location:&nbsp;S3&nbsp;<br>release_to:&nbsp;S3&nbsp;<br>primary:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_vgp_HiC_2.0/mMyoNes1.HiC.hap1.2024223.fasta.gz&nbsp;<br>haplotigs:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_vgp_HiC_2.0/mMyoNes1.HiC.hap2.20240223.fasta.gz&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/mMyoNes1_hap1_s2.pretext&nbsp;<br>pretext:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/mMyoNes1_hap2_s2.pretext&nbsp;<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_vgp_HiC_2.0/evaluation/merqury/mMyoNes1_png/&nbsp;<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/genomic_data/pacbio_hifi/&nbsp;<br>pacbio_read_type:&nbsp;hifi&nbsp;<br>hic_read_dir:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/genomic_data/arima/&nbsp;<br>mito:&nbsp;s3://genomeark/species/Myotis_nesopolus/mMyoNes1/assembly_MT_rockefeller/mMyoNes1.MT.2024223.fasta.gz&nbsp;<br>pipeline:&nbsp;&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)&nbsp;<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)&nbsp;<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mMyoNes1.&nbsp;This&nbsp;hap1&nbsp;assembly&nbsp;and&nbsp;hap2&nbsp;assembly&nbsp;underwent&nbsp;separate&nbsp;HiC&nbsp;scaffolding&nbsp;with&nbsp;YaHS.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;HiC&nbsp;reaction&nbsp;was&nbsp;using&nbsp;Arima.&nbsp;<br>
-  ident: md3
+  ident: md5
   title: assembly_vgp_HiC_2.0/mMyoNes1.yml
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoNes<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;nesopolus<br>&nbsp;&nbsp;taxon_id:&nbsp;1163727<br>&nbsp;&nbsp;common_name:&nbsp;Curaçao&nbsp;myotis<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoNes1<br>&nbsp;&nbsp;genome_size:&nbsp;2210280000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]<br>
 mito1date: 2024-02-23

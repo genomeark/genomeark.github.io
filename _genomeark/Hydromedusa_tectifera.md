@@ -21,6 +21,16 @@ data_arima-1_scale: 0.5043
 data_arima_bases: 46.50 Gbp
 data_arima_bytes: 85.9 GiB
 data_arima_coverage: 25.14x
+data_bionano-1_bases: N/A
+data_bionano-1_bytes: 1.0 GiB
+data_bionano-1_coverage: 389.44x
+data_bionano-1_links: s3://genomeark/species/Hydromedusa_tectifera/rHydTec1/genomic_data/bionano/<br>
+data_bionano-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Hydromedusa_tectifera/rHydTec1/genomic_data/bionano/
+data_bionano-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hydromedusa_tectifera/rHydTec1/genomic_data/bionano/
+data_bionano-1_scale: 671.1993
+data_bionano_bases: N/A
+data_bionano_bytes: 1.0 GiB
+data_bionano_coverage: 389.44x
 data_pacbio-1_bases: 172.70 Gbp
 data_pacbio-1_bytes: 307.4 GiB
 data_pacbio-1_coverage: 93.36x
@@ -54,8 +64,8 @@ genbank_pri: rHydTec1:GCA_049999965.1
 genome_size: 1849762662
 genome_size_display: 1.85 Gbp
 genome_size_method: ''
-last_raw_data: 1760539801
-last_updated: 1760539801
+last_raw_data: 1765929129
+last_updated: 1765929129
 name: Hydromedusa tectifera
 name_: Hydromedusa_tectifera
 pri1date: 2021-04-24
