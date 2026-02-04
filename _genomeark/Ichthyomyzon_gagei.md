@@ -60,12 +60,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2025-12-19
-hpa1filesize: 281.0 MiB
-hpa1length: '1283301023'
-hpa1n50ctg: 4964195
-hpa1n50scf: 13822450
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Ichthyomyzon_gagei/kcIchGage1/somatic/assembly_vgp_HiC_2.0/kcIchGage1.HiC.hap1.20251219.fasta.gz
+hpa1date: 2026-01-30
+hpa1filesize: 266.5 MiB
+hpa1length: '1180606587'
+hpa1n50ctg: 4703091
+hpa1n50scf: 14116348
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Ichthyomyzon_gagei/kcIchGage1/gametic/assembly_vgp_HiC_2.0/kcIchGage1.HiC.hap1.20260130.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -83,18 +83,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 8 </td><td> 14.73 Mbp </td><td> 5 </td><td> 20.66 Mbp </td></tr><tr><td> 20 </td><td> 18 </td><td> 11.94 Mbp </td><td> 12 </td><td> 17.82 Mbp </td></tr><tr><td> 30 </td><td> 30 </td><td> 9.66 Mbp </td><td> 20 </td><td> 15.60 Mbp </td></tr><tr><td> 40 </td><td> 45 </td><td> 7.35 Mbp </td><td> 28 </td><td> 14.34 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 67 </td><td style="background-color:#88ff88;"> 4.96 Mbp </td><td> 37 </td><td style="background-color:#88ff88;"> 13.82 Mbp </td></tr><tr><td> 60 </td><td> 104 </td><td> 2.80 Mbp </td><td> 47 </td><td> 11.79 Mbp </td></tr><tr><td> 70 </td><td> 174 </td><td> 1.22 Mbp </td><td> 59 </td><td> 9.54 Mbp </td></tr><tr><td> 80 </td><td> 321 </td><td> 0.61 Mbp </td><td> 76 </td><td> 5.01 Mbp </td></tr><tr><td> 90 </td><td> 665 </td><td> 247.76 Kbp </td><td> 225 </td><td> 386.99 Kbp </td></tr><tr><td> 100 </td><td> 2000 </td><td> 5.09 Kbp </td><td> 1298 </td><td> 5.09 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 7 </td><td> 15.01 Mbp </td><td> 3 </td><td> 34.00 Mbp </td></tr><tr><td> 20 </td><td> 16 </td><td> 12.76 Mbp </td><td> 8 </td><td> 18.10 Mbp </td></tr><tr><td> 30 </td><td> 28 </td><td> 9.01 Mbp </td><td> 15 </td><td> 16.72 Mbp </td></tr><tr><td> 40 </td><td> 42 </td><td> 6.95 Mbp </td><td> 22 </td><td> 15.06 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 63 </td><td style="background-color:#88ff88;"> 4.70 Mbp </td><td> 31 </td><td style="background-color:#88ff88;"> 14.12 Mbp </td></tr><tr><td> 60 </td><td> 96 </td><td> 2.74 Mbp </td><td> 39 </td><td> 13.25 Mbp </td></tr><tr><td> 70 </td><td> 152 </td><td> 1.56 Mbp </td><td> 49 </td><td> 11.54 Mbp </td></tr><tr><td> 80 </td><td> 266 </td><td> 0.70 Mbp </td><td> 60 </td><td> 8.98 Mbp </td></tr><tr><td> 90 </td><td> 547 </td><td> 258.62 Kbp </td><td> 96 </td><td> 0.79 Mbp </td></tr><tr><td> 100 </td><td> 1715 </td><td> 5.07 Kbp </td><td> 972 </td><td> 5.07 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 2000 </th><th> 1.28 Gbp </th><th> 1298 </th><th> 1.28 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 1715 </th><th> 1.18 Gbp </th><th> 972 </th><th> 1.18 Gbp </th></tr>
   </tfoot>
   </table>
 hpa1version: assembly_vgp_HiC_2.0
-hpb1date: 2025-12-19
-hpb1filesize: 268.2 MiB
-hpb1length: '1178355132'
-hpb1n50ctg: 5408547
-hpb1n50scf: 13919950
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Ichthyomyzon_gagei/kcIchGage1/somatic/assembly_vgp_HiC_2.0/kcIchGage1.HiC.hap2.20251219.fasta.gz
+hpb1date: 2026-01-30
+hpb1filesize: 284.8 MiB
+hpb1length: '1314220578'
+hpb1n50ctg: 5199436
+hpb1n50scf: 14008439
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Ichthyomyzon_gagei/kcIchGage1/gametic/assembly_vgp_HiC_2.0/kcIchGage1.HiC.hap2.20260130.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -112,24 +112,27 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 8 </td><td> 14.50 Mbp </td><td> 4 </td><td> 26.93 Mbp </td></tr><tr><td> 20 </td><td> 17 </td><td> 11.91 Mbp </td><td> 10 </td><td> 17.91 Mbp </td></tr><tr><td> 30 </td><td> 28 </td><td> 9.23 Mbp </td><td> 17 </td><td> 16.03 Mbp </td></tr><tr><td> 40 </td><td> 42 </td><td> 7.14 Mbp </td><td> 25 </td><td> 15.00 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 61 </td><td style="background-color:#88ff88;"> 5.41 Mbp </td><td> 33 </td><td style="background-color:#88ff88;"> 13.92 Mbp </td></tr><tr><td> 60 </td><td> 88 </td><td> 3.37 Mbp </td><td> 42 </td><td> 13.17 Mbp </td></tr><tr><td> 70 </td><td> 131 </td><td> 2.15 Mbp </td><td> 51 </td><td> 11.44 Mbp </td></tr><tr><td> 80 </td><td> 221 </td><td> 0.90 Mbp </td><td> 63 </td><td> 9.06 Mbp </td></tr><tr><td> 90 </td><td> 443 </td><td> 315.34 Kbp </td><td> 90 </td><td> 1.01 Mbp </td></tr><tr><td> 100 </td><td> 1473 </td><td> 8.59 Kbp </td><td> 857 </td><td> 8.59 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 8 </td><td> 14.82 Mbp </td><td> 4 </td><td> 28.07 Mbp </td></tr><tr><td> 20 </td><td> 17 </td><td> 12.22 Mbp </td><td> 10 </td><td> 18.09 Mbp </td></tr><tr><td> 30 </td><td> 29 </td><td> 9.66 Mbp </td><td> 17 </td><td> 16.21 Mbp </td></tr><tr><td> 40 </td><td> 45 </td><td> 7.30 Mbp </td><td> 26 </td><td> 14.74 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 65 </td><td style="background-color:#88ff88;"> 5.20 Mbp </td><td> 35 </td><td style="background-color:#88ff88;"> 14.01 Mbp </td></tr><tr><td> 60 </td><td> 102 </td><td> 2.56 Mbp </td><td> 45 </td><td> 11.95 Mbp </td></tr><tr><td> 70 </td><td> 175 </td><td> 1.27 Mbp </td><td> 57 </td><td> 9.99 Mbp </td></tr><tr><td> 80 </td><td> 326 </td><td> 0.59 Mbp </td><td> 72 </td><td> 6.67 Mbp </td></tr><tr><td> 90 </td><td> 693 </td><td> 229.60 Kbp </td><td> 161 </td><td> 455.62 Kbp </td></tr><tr><td> 100 </td><td> 2004 </td><td> 8.04 Kbp </td><td> 1086 </td><td> 8.04 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1473 </th><th> 1.18 Gbp </th><th> 857 </th><th> 1.18 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 2004 </th><th> 1.31 Gbp </th><th> 1086 </th><th> 1.31 Gbp </th></tr>
   </tfoot>
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1767639077
-last_updated: 1767639077
+last_updated: 1769891340
 mds:
+- data: species:&nbsp;Ichthyomyzon&nbsp;gagei<br>specimem:&nbsp;kcIchGage1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Ichthyomyzon_gagei/kcIchGage1/gametic/assembly_vgp_HiC_2.0/kcIchGage1.HiC.hap1.20260130.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Ichthyomyzon_gagei/kcIchGage1/gametic/assembly_vgp_HiC_2.0/kcIchGage1.HiC.hap2.20260130.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Ichthyomyzon_gagei/kcIchGage1/gametic/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/s2/kcIchGage1_hap1_s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Ichthyomyzon_gagei/kcIchGage1/gametic/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/s2/kcIchGage1_hap2_s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Ichthyomyzon_gagei/kcIchGage1/gametic/assembly_vgp_HiC_2.0/evaluation/merqury/kcIchGage1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Ichthyomyzon_gagei/kcIchGage1/gametic/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Ichthyomyzon_gagei/kcIchGage1/gametic/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.25.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy3)<br>&nbsp;&nbsp;-&nbsp;VGP0&nbsp;mitoHiFi&nbsp;workflow&nbsp;(v0.2.2)<br>&nbsp;&nbsp;-&nbsp;VGP1&nbsp;genomic&nbsp;profiling&nbsp;workflow&nbsp;(v0.6)<br>&nbsp;&nbsp;-&nbsp;VGP4&nbsp;HiFi&nbsp;HiC&nbsp;assembly&nbsp;workflow&nbsp;(v0.5)<br>&nbsp;&nbsp;-&nbsp;VGP8&nbsp;HiC&nbsp;scaffolding&nbsp;workflow&nbsp;(v3.3)&nbsp;with&nbsp;mapq=10<br>&nbsp;&nbsp;-&nbsp;VGP9&nbsp;decontamination&nbsp;workflow&nbsp;(v1.2)&nbsp;<br>&nbsp;&nbsp;-&nbsp;Pre-curation&nbsp;worklfow&nbsp;(v1.0beta6)&nbsp;with&nbsp;mapq=10<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;kcIchGage1&nbsp;resulting&nbsp;in&nbsp;two&nbsp;haplotype&nbsp;assemblies.&nbsp;HiC&nbsp;data&nbsp;were&nbsp;generated&nbsp;using&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit,&nbsp;and&nbsp;require&nbsp;trimming&nbsp;the&nbsp;first&nbsp;5&nbsp;bp&nbsp;off&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;of&nbsp;both&nbsp;read&nbsp;files.&nbsp;The&nbsp;restriction&nbsp;enzymes&nbsp;used&nbsp;were&nbsp;the&nbsp;Arima&nbsp;v2&nbsp;kit,&nbsp;so&nbsp;the&nbsp;cutting&nbsp;sites&nbsp;are&nbsp;GATC,&nbsp;GANTC,&nbsp;CTNAG,&nbsp;TTAA.&nbsp;The&nbsp;mitoHiFi&nbsp;assembly&nbsp;is&nbsp;about&nbsp;three&nbsp;times&nbsp;the&nbsp;expected&nbsp;length&nbsp;and&nbsp;contains&nbsp;81&nbsp;annotated&nbsp;genes.&nbsp;Self-alignment&nbsp;of&nbsp;the&nbsp;mito-assembly&nbsp;in&nbsp;NCBI&nbsp;suggests&nbsp;that&nbsp;about&nbsp;three&nbsp;mitogenomes&nbsp;were&nbsp;assembled&nbsp;into&nbsp;a&nbsp;single&nbsp;contig.&nbsp;Therefore,&nbsp;the&nbsp;assembly&nbsp;was&nbsp;trimmed&nbsp;to&nbsp;retain&nbsp;only&nbsp;the&nbsp;2nd&nbsp;part&nbsp;and&nbsp;re-annotated&nbsp;using&nbsp;MITOS2&nbsp;on&nbsp;galaxy.<br>
+  ident: md3
+  title: gametic/assembly_vgp_HiC_2.0/kcIchGage1.yml
 - data: species:&nbsp;Ichthyomyzon&nbsp;gagei<br>specimem:&nbsp;kcIchGage1&nbsp;(somatic)<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Ichthyomyzon_gagei/kcIchGage1/somatic/assembly_vgp_HiC_2.0/kcIchGage1.HiC.hap1.20251219.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Ichthyomyzon_gagei/kcIchGage1/somatic/assembly_vgp_HiC_2.0/kcIchGage1.HiC.hap2.20251219.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Ichthyomyzon_gagei/kcIchGage1/somatic/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/s2/kcIchGage1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Ichthyomyzon_gagei/kcIchGage1/somatic/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/s2/kcIchGage1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Ichthyomyzon_gagei/kcIchGage1/somatic/assembly_vgp_HiC_2.0/evaluation/merqury/kcIchGage1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Ichthyomyzon_gagei/kcIchGage1/somatic/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Ichthyomyzon_gagei/kcIchGage1/somatic/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.25.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy3)<br>&nbsp;&nbsp;-&nbsp;VGP0&nbsp;mitoHiFi&nbsp;workflow&nbsp;(v0.2.2)<br>&nbsp;&nbsp;-&nbsp;VGP1&nbsp;genomic&nbsp;profiling&nbsp;workflow&nbsp;(v0.6)<br>&nbsp;&nbsp;-&nbsp;VGP4&nbsp;HiFi&nbsp;HiC&nbsp;assembly&nbsp;workflow&nbsp;(v0.5)<br>&nbsp;&nbsp;-&nbsp;VGP8&nbsp;HiC&nbsp;scaffolding&nbsp;workflow&nbsp;(v3.3)&nbsp;with&nbsp;mapq=10<br>&nbsp;&nbsp;-&nbsp;VGP9&nbsp;decontamination&nbsp;workflow&nbsp;(v1.2)&nbsp;<br>&nbsp;&nbsp;-&nbsp;Pre-curation&nbsp;worklfow&nbsp;(v1.0beta6)&nbsp;with&nbsp;mapq=10<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;kcIchGage1&nbsp;(somatic)&nbsp;resulting&nbsp;in&nbsp;two&nbsp;haplotype&nbsp;assemblies.&nbsp;HiC&nbsp;data&nbsp;were&nbsp;generated&nbsp;using&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit,&nbsp;and&nbsp;require&nbsp;trimming&nbsp;the&nbsp;first&nbsp;5&nbsp;bp&nbsp;off&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;of&nbsp;both&nbsp;read&nbsp;files.&nbsp;The&nbsp;restriction&nbsp;enzymes&nbsp;used&nbsp;were&nbsp;the&nbsp;Arima&nbsp;v2&nbsp;kit,&nbsp;so&nbsp;the&nbsp;cutting&nbsp;sites&nbsp;are&nbsp;GATC,&nbsp;GANTC,&nbsp;CTNAG,&nbsp;TTAA.<br><br>
-  ident: md14
+  ident: md18
   title: somatic/assembly_vgp_HiC_2.0/kcIchGage1.yml
-mito1date: 2025-12-19
-mito1filesize: 5.1 KiB
-mito1length: '16365'
-mito1n50ctg: 16365
-mito1n50scf: 16365
-mito1seq: https://s3.amazonaws.com/genomeark/species/Ichthyomyzon_gagei/kcIchGage1/somatic/assembly_MT_rockefeller/kcIchGage1.MT.20251219.fasta.gz
+mito1date: 2026-01-31
+mito1filesize: 5.2 KiB
+mito1length: '16477'
+mito1n50ctg: 16477
+mito1n50scf: 16477
+mito1seq: https://s3.amazonaws.com/genomeark/species/Ichthyomyzon_gagei/kcIchGage1/gametic/assembly_MT_rockefeller/kcIchGage1.MT.20260131.fasta.gz
 mito1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -147,9 +150,9 @@ mito1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 16.37 Kbp </td><td> 1 </td><td> 16.37 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.37 Kbp </td><td> 1 </td><td> 16.37 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.37 Kbp </td><td> 1 </td><td> 16.37 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.37 Kbp </td><td> 1 </td><td> 16.37 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.37 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.37 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.37 Kbp </td><td> 1 </td><td> 16.37 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.37 Kbp </td><td> 1 </td><td> 16.37 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.37 Kbp </td><td> 1 </td><td> 16.37 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.37 Kbp </td><td> 1 </td><td> 16.37 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.37 Kbp </td><td> 1 </td><td> 16.37 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.48 Kbp </td><td> 1 </td><td> 16.48 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.48 Kbp </td><td> 1 </td><td> 16.48 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.48 Kbp </td><td> 1 </td><td> 16.48 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.48 Kbp </td><td> 1 </td><td> 16.48 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.48 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.48 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.48 Kbp </td><td> 1 </td><td> 16.48 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.48 Kbp </td><td> 1 </td><td> 16.48 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.48 Kbp </td><td> 1 </td><td> 16.48 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.48 Kbp </td><td> 1 </td><td> 16.48 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.48 Kbp </td><td> 1 </td><td> 16.48 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1 </th><th> 16.37 Kbp </th><th> 1 </th><th> 16.37 Kbp </th></tr>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.48 Kbp </th><th> 1 </th><th> 16.48 Kbp </th></tr>
   </tfoot>
   </table>
 mito1version: assembly_MT_rockefeller

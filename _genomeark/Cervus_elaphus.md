@@ -71,8 +71,66 @@ genbank_pri: mCerEla1:GCA_910594005.1
 genome_size: 2886619877
 genome_size_display: 2.89 Gbp
 genome_size_method: ''
+hpa1date: 2026-01-27
+hpa1filesize: 824.8 MiB
+hpa1length: '3312794691'
+hpa1n50ctg: 48621000
+hpa1n50scf: 83153426
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Cervus_elaphus/mCerEla1/assembly_curated/mCerEla1.hap1.cur.20260127.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 4 </td><td> 88.05 Mbp </td><td> 3 </td><td> 120.20 Mbp </td></tr><tr><td> 20 </td><td> 8 </td><td> 76.89 Mbp </td><td> 6 </td><td> 109.69 Mbp </td></tr><tr><td> 30 </td><td> 12 </td><td> 70.67 Mbp </td><td> 9 </td><td> 102.35 Mbp </td></tr><tr><td> 40 </td><td> 18 </td><td> 57.15 Mbp </td><td> 12 </td><td> 95.58 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 24 </td><td style="background-color:#88ff88;"> 48.62 Mbp </td><td> 16 </td><td style="background-color:#88ff88;"> 83.15 Mbp </td></tr><tr><td> 60 </td><td> 31 </td><td> 40.74 Mbp </td><td> 20 </td><td> 73.84 Mbp </td></tr><tr><td> 70 </td><td> 41 </td><td> 24.35 Mbp </td><td> 25 </td><td> 67.30 Mbp </td></tr><tr><td> 80 </td><td> 64 </td><td> 9.51 Mbp </td><td> 30 </td><td> 55.73 Mbp </td></tr><tr><td> 90 </td><td> 142 </td><td> 2.26 Mbp </td><td> 57 </td><td> 3.11 Mbp </td></tr><tr><td> 100 </td><td> 1075 </td><td> 3.00 Kbp </td><td> 965 </td><td> 3.00 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1075 </th><th> 3.31 Gbp </th><th> 965 </th><th> 3.31 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_curated
+hpb1date: 2026-01-27
+hpb1filesize: 795.3 MiB
+hpb1length: '3036074114'
+hpb1n50ctg: 54015000
+hpb1n50scf: 78722695
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Cervus_elaphus/mCerEla1/assembly_curated/mCerEla1.hap2.cur.20260127.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 91.73 Mbp </td><td> 3 </td><td> 128.81 Mbp </td></tr><tr><td> 20 </td><td> 7 </td><td> 78.72 Mbp </td><td> 5 </td><td> 113.37 Mbp </td></tr><tr><td> 30 </td><td> 11 </td><td> 72.09 Mbp </td><td> 8 </td><td> 103.46 Mbp </td></tr><tr><td> 40 </td><td> 16 </td><td> 61.75 Mbp </td><td> 11 </td><td> 93.27 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 21 </td><td style="background-color:#88ff88;"> 54.02 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 78.72 Mbp </td></tr><tr><td> 60 </td><td> 27 </td><td> 48.41 Mbp </td><td> 18 </td><td> 71.74 Mbp </td></tr><tr><td> 70 </td><td> 34 </td><td> 35.13 Mbp </td><td> 23 </td><td> 70.07 Mbp </td></tr><tr><td> 80 </td><td> 46 </td><td> 15.00 Mbp </td><td> 27 </td><td> 61.29 Mbp </td></tr><tr><td> 90 </td><td> 82 </td><td> 5.23 Mbp </td><td> 33 </td><td> 50.12 Mbp </td></tr><tr><td> 100 </td><td> 602 </td><td> 1.00 Kbp </td><td> 500 </td><td> 1.00 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 602 </th><th> 3.04 Gbp </th><th> 500 </th><th> 3.04 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_curated
 last_raw_data: 1651593289
-last_updated: 1651593289
+last_updated: 1769475770
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mCerEla<br>&nbsp;&nbsp;name:&nbsp;Cervus&nbsp;elaphus<br>&nbsp;&nbsp;taxon_id:&nbsp;9860<br>&nbsp;&nbsp;common_name:&nbsp;red&nbsp;deer<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Artiodactyla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cervidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mCerEla1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7523520<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Cervus elaphus
 name_: Cervus_elaphus

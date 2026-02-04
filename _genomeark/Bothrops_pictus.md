@@ -98,7 +98,40 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1761919023
-last_updated: 1765378872
+last_updated: 1769727977
+mds:
+- data: species:&nbsp;Bothrops&nbsp;pictus<br>specimem:&nbsp;rBotPic1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Bothrops_pictus/rBotPic1/assembly_vgp_HiC_2.0/rBotPic1.HiC.hap1.20251210.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Bothrops_pictus/rBotPic1/assembly_vgp_HiC_2.0/rBotPic1.HiC.hap2.20251210.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Bothrops_pictus/rBotPic1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/s2/rBotPic1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Bothrops_pictus/rBotPic1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/s2/rBotPic1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Bothrops_pictus/rBotPic1/assembly_vgp_HiC_2.0/evaluation/merqury/rBotPic1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Bothrops_pictus/rBotPic1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Bothrops_pictus/rBotPic1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.25.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy3)<br>&nbsp;&nbsp;-&nbsp;VGP0&nbsp;mitoHiFi&nbsp;workflow&nbsp;(v0.2.2)<br>&nbsp;&nbsp;-&nbsp;VGP1&nbsp;genomic&nbsp;profiling&nbsp;workflow&nbsp;(v0.6)<br>&nbsp;&nbsp;-&nbsp;VGP4&nbsp;HiFi&nbsp;HiC&nbsp;assembly&nbsp;workflow&nbsp;(v0.4)<br>&nbsp;&nbsp;-&nbsp;VGP8&nbsp;HiC&nbsp;scaffolding&nbsp;workflow&nbsp;(v3.2)&nbsp;with&nbsp;mapq=10<br>&nbsp;&nbsp;-&nbsp;VGP9&nbsp;decontamination&nbsp;workflow&nbsp;(v1.2)&nbsp;<br>&nbsp;&nbsp;-&nbsp;Pre-curation&nbsp;worklfow&nbsp;(v1.0beta6)&nbsp;with&nbsp;mapq=10<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rBotPic1&nbsp;resulting&nbsp;in&nbsp;two&nbsp;haplotype&nbsp;assemblies.&nbsp;HiC&nbsp;data&nbsp;were&nbsp;generated&nbsp;using&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit,&nbsp;and&nbsp;require&nbsp;trimming&nbsp;the&nbsp;first&nbsp;5&nbsp;bp&nbsp;off&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;of&nbsp;both&nbsp;read&nbsp;files.&nbsp;The&nbsp;restriction&nbsp;enzymes&nbsp;used&nbsp;were&nbsp;the&nbsp;Arima&nbsp;v2&nbsp;kit,&nbsp;so&nbsp;the&nbsp;cutting&nbsp;sites&nbsp;are&nbsp;GATC,&nbsp;GANTC,&nbsp;CTNAG,&nbsp;TTAA.&nbsp;The&nbsp;Merqury&nbsp;plots&nbsp;show&nbsp;some&nbsp;haplotigs&nbsp;in&nbsp;hap1&nbsp;and&nbsp;missing&nbsp;k-mers&nbsp;in&nbsp;hap2&nbsp;in&nbsp;the&nbsp;heterozygote&nbsp;peak.&nbsp;Running&nbsp;VGP6&nbsp;purge-dups&nbsp;workflow&nbsp;(v0.10.4)&nbsp;did&nbsp;not&nbsp;appear&nbsp;to&nbsp;remove&nbsp;haplotigs.&nbsp;Hence,&nbsp;I&nbsp;output&nbsp;the&nbsp;original&nbsp;assemblies&nbsp;without&nbsp;purging.&nbsp;For&nbsp;mitogenome&nbsp;assembly,&nbsp;the&nbsp;first&nbsp;mitoHiFi&nbsp;attempt&nbsp;using&nbsp;all&nbsp;HiFi&nbsp;reads&nbsp;resulted&nbsp;in&nbsp;a&nbsp;~40kbp&nbsp;mitogenome,&nbsp;which&nbsp;contained&nbsp;some&nbsp;NUMT&nbsp;sequences.&nbsp;To&nbsp;filter&nbsp;out&nbsp;NUMT&nbsp;reads,&nbsp;I&nbsp;mapped&nbsp;HiFi&nbsp;reads&nbsp;onto&nbsp;NC_039649.1&nbsp;and&nbsp;remove&nbsp;reads&nbsp;with&nbsp;>400bp&nbsp;soft-clipping.&nbsp;The&nbsp;mitoHiFi&nbsp;annotated&nbsp;33&nbsp;genes,&nbsp;while&nbsp;MITOS2&nbsp;annotated&nbsp;36&nbsp;genes&nbsp;(missing&nbsp;nad4l).&nbsp;The&nbsp;NCBI&nbsp;blast&nbsp;showed&nbsp;the&nbsp;mitogenome&nbsp;belongs&nbsp;to&nbsp;the&nbsp;same&nbsp;genus&nbsp;Bothrops.&nbsp;<br>
+  ident: md4
+  title: assembly_vgp_HiC_2.0/rBotPic1.yml
+mito1date: 2026-01-29
+mito1filesize: 5.5 KiB
+mito1length: '17348'
+mito1n50ctg: 17348
+mito1n50scf: 17348
+mito1seq: https://s3.amazonaws.com/genomeark/species/Bothrops_pictus/rBotPic1/assembly_MT_rockefeller/rBotPic1.MT.20260129.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 17.35 Kbp </td><td> 1 </td><td> 17.35 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 17.35 Kbp </td><td> 1 </td><td> 17.35 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 17.35 Kbp </td><td> 1 </td><td> 17.35 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 17.35 Kbp </td><td> 1 </td><td> 17.35 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 17.35 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 17.35 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 17.35 Kbp </td><td> 1 </td><td> 17.35 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 17.35 Kbp </td><td> 1 </td><td> 17.35 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 17.35 Kbp </td><td> 1 </td><td> 17.35 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 17.35 Kbp </td><td> 1 </td><td> 17.35 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 17.35 Kbp </td><td> 1 </td><td> 17.35 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 17.35 Kbp </th><th> 1 </th><th> 17.35 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Bothrops pictus
 name_: Bothrops_pictus
 project: ~

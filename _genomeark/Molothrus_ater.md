@@ -39,12 +39,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa1date: 2026-01-20
-hpa1filesize: 360.6 MiB
-hpa1length: '1332307675'
+hpa1date: 2026-01-26
+hpa1filesize: 324.4 MiB
+hpa1length: '1332276225'
 hpa1n50ctg: 18290873
 hpa1n50scf: 63046713
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Molothrus_ater/bMolAte1/assembly_curated/bMolAte1.hap1.cur.20260120.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Molothrus_ater/bMolAte1/assembly_curated/bMolAte1.hap1.cur.20260126.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -62,9 +62,9 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 58.23 Mbp </td><td> 1 </td><td> 154.14 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 40.99 Mbp </td><td> 2 </td><td> 119.03 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 31.03 Mbp </td><td> 4 </td><td> 87.06 Mbp </td></tr><tr><td> 40 </td><td> 13 </td><td> 23.96 Mbp </td><td> 5 </td><td> 85.78 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 18.29 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 63.05 Mbp </td></tr><tr><td> 60 </td><td> 29 </td><td> 11.30 Mbp </td><td> 10 </td><td> 36.00 Mbp </td></tr><tr><td> 70 </td><td> 46 </td><td> 6.15 Mbp </td><td> 15 </td><td> 20.82 Mbp </td></tr><tr><td> 80 </td><td> 82 </td><td> 2.66 Mbp </td><td> 23 </td><td> 11.77 Mbp </td></tr><tr><td> 90 </td><td> 197 </td><td> 463.21 Kbp </td><td> 61 </td><td> 1.19 Mbp </td></tr><tr><td> 100 </td><td> 2578 </td><td> 4.49 Kbp </td><td> 2251 </td><td> 4.49 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 58.23 Mbp </td><td> 1 </td><td> 154.14 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 40.99 Mbp </td><td> 2 </td><td> 119.03 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 31.03 Mbp </td><td> 4 </td><td> 87.06 Mbp </td></tr><tr><td> 40 </td><td> 13 </td><td> 23.96 Mbp </td><td> 5 </td><td> 85.78 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 20 </td><td style="background-color:#88ff88;"> 18.29 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 63.05 Mbp </td></tr><tr><td> 60 </td><td> 29 </td><td> 11.30 Mbp </td><td> 10 </td><td> 36.00 Mbp </td></tr><tr><td> 70 </td><td> 46 </td><td> 6.15 Mbp </td><td> 15 </td><td> 20.82 Mbp </td></tr><tr><td> 80 </td><td> 82 </td><td> 2.66 Mbp </td><td> 23 </td><td> 11.77 Mbp </td></tr><tr><td> 90 </td><td> 197 </td><td> 463.21 Kbp </td><td> 61 </td><td> 1.19 Mbp </td></tr><tr><td> 100 </td><td> 2577 </td><td> 4.49 Kbp </td><td> 2250 </td><td> 4.49 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 2578 </th><th> 1.33 Gbp </th><th> 2251 </th><th> 1.33 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 2577 </th><th> 1.33 Gbp </th><th> 2250 </th><th> 1.33 Gbp </th></tr>
   </tfoot>
   </table>
 hpa1version: assembly_curated
@@ -98,7 +98,36 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1692995195
-last_updated: 1768926416
+last_updated: 1769464831
+mito1date: 2026-01-26
+mito1filesize: 5.4 KiB
+mito1length: '16765'
+mito1n50ctg: 16765
+mito1n50scf: 16765
+mito1seq: https://s3.amazonaws.com/genomeark/species/Molothrus_ater/bMolAte1/assembly_MT_rockefeller/bMotAte1.MT.20260126.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.77 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.77 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.77 Kbp </td><td> 1 </td><td> 16.77 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.77 Kbp </th><th> 1 </th><th> 16.77 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Molothrus ater
 name_: Molothrus_ater
 project: ~

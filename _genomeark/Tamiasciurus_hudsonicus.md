@@ -1,6 +1,13 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: ''
+data_arima-2_bases: 400.62 Gbp
+data_arima-2_bytes: 214.8 GiB
+data_arima-2_coverage: N/A
+data_arima-2_links: s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/genomic_data/arima/<br>
+data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/genomic_data/arima/
+data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tamiasciurus_hudsonicus/mTamHud2/genomic_data/arima/
+data_arima-2_scale: 1.7370
 data_arima-3_bases: 228.46 Gbp
 data_arima-3_bytes: 127.0 GiB
 data_arima-3_coverage: N/A
@@ -8,8 +15,8 @@ data_arima-3_links: s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud3/geno
 data_arima-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tamiasciurus_hudsonicus/mTamHud3/genomic_data/arima/
 data_arima-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tamiasciurus_hudsonicus/mTamHud3/genomic_data/arima/
 data_arima-3_scale: 1.6751
-data_arima_bases: 228.46 Gbp
-data_arima_bytes: 127.0 GiB
+data_arima_bases: 629.07 Gbp
+data_arima_bytes: 341.8 GiB
 data_arima_coverage: N/A
 data_pacbiohifi_bam-2_bases: 248.98 Gbp
 data_pacbiohifi_bam-2_bytes: 816.2 GiB
@@ -53,8 +60,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1763648104
-last_updated: 1763648104
+last_raw_data: 1769180411
+last_updated: 1769180411
 name: Tamiasciurus hudsonicus
 name_: Tamiasciurus_hudsonicus
 project: ~

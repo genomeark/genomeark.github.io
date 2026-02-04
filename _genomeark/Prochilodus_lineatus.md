@@ -1,15 +1,15 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
-data_arima-1_bases: 362.32 Gbp
-data_arima-1_bytes: 194.3 GiB
+data_arima-1_bases: 736.00 Gbp
+data_arima-1_bytes: 372.7 GiB
 data_arima-1_coverage: N/A
 data_arima-1_links: s3://genomeark/species/Prochilodus_lineatus/fProLin1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Prochilodus_lineatus/fProLin1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Prochilodus_lineatus/fProLin1/genomic_data/arima/
-data_arima-1_scale: 1.7364
-data_arima_bases: 362.32 Gbp
-data_arima_bytes: 194.3 GiB
+data_arima-1_scale: 1.8393
+data_arima_bases: 736.00 Gbp
+data_arima_bytes: 372.7 GiB
 data_arima_coverage: N/A
 data_pacbiohifi_bam-1_bases: 66.79 Gbp
 data_pacbiohifi_bam-1_bytes: 263.8 GiB
@@ -97,8 +97,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1713288391
-last_updated: 1768591334
+last_raw_data: 1770135223
+last_updated: 1770135223
 mds:
 - data: species:&nbsp;Prochilodus&nbsp;lineatus<br>specimen:&nbsp;fProLin1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Prochilodus_lineatus/fProLin1/assembly_vgp_HiC_2.0/fProLin1.HiC.hap1.20240713.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Prochilodus_lineatus/fProLin1/assembly_vgp_HiC_2.0/fProLin1.HiC.hap2.20240713.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Prochilodus_lineatus/fProLin1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fProLin1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Prochilodus_lineatus/fProLin1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fProLin1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Prochilodus_lineatus/fProLin1/assembly_vgp_HiC_2.0/evaluation/merqury/hap1_purged/fProLin1_png/<br>mito:&nbsp;s3://genomeark/species/Prochilodus_lineatus/fProLin1/assembly_MT_rockefeller/fProLin1.MT.20240715.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Prochilodus_lineatus/fProLin1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Prochilodus_lineatus/fProLin1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fProLin1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Arima,&nbsp;so&nbsp;the&nbsp;HiC&nbsp;reads&nbsp;require&nbsp;trimming&nbsp;5&nbsp;bp&nbsp;off&nbsp;the&nbsp;5'&nbsp;end.&nbsp;The&nbsp;assembly&nbsp;was&nbsp;performed&nbsp;on&nbsp;the&nbsp;Rockefeller&nbsp;University&nbsp;VGL&nbsp;instance.&nbsp;The&nbsp;merqury&nbsp;plots&nbsp;for&nbsp;the&nbsp;contigs&nbsp;indicate&nbsp;potential&nbsp;duplicates&nbsp;in&nbsp;both&nbsp;haplotypes,&nbsp;but&nbsp;I&nbsp;was&nbsp;unable&nbsp;to&nbsp;remove&nbsp;this&nbsp;signal&nbsp;with&nbsp;purge_dups&nbsp;even&nbsp;with&nbsp;custom&nbsp;cutoffs.&nbsp;<br>
   ident: md5
