@@ -19,12 +19,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 3217620000
 genome_size_display: 3.22 Gbp
 genome_size_method: GoaT
-hpa2date: 2025-12-31
+hpa2date: 2026-05-01
 hpa2filesize: 751.6 MiB
 hpa2length: '2787094575'
 hpa2n50ctg: 36078000
 hpa2n50scf: 117282134
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Physeter_catodon/mPhyCat2/assembly_curated/mPhyCat2.hap1.cur.20251231.fasta.gz
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Physeter_catodon/mPhyCat2/assembly_curated/mPhyCat2.hap1.cur.20260501.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -48,12 +48,12 @@ hpa2sizes: |
   </tfoot>
   </table>
 hpa2version: assembly_curated
-hpb2date: 2025-12-31
+hpb2date: 2026-05-01
 hpb2filesize: 696.2 MiB
 hpb2length: '2543023597'
 hpb2n50ctg: 33343000
 hpb2n50scf: 111756096
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Physeter_catodon/mPhyCat2/assembly_curated/mPhyCat2.hap2.cur.20251231.fasta.gz
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Physeter_catodon/mPhyCat2/assembly_curated/mPhyCat2.hap2.cur.20260501.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -78,7 +78,7 @@ hpb2sizes: |
   </table>
 hpb2version: assembly_curated
 last_raw_data: 1715354455
-last_updated: 1767142888
+last_updated: 1777593703
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mPhyCat<br>&nbsp;&nbsp;name:&nbsp;Physeter&nbsp;catodon<br>&nbsp;&nbsp;taxon_id:&nbsp;9755<br>&nbsp;&nbsp;common_name:&nbsp;sperm&nbsp;whale<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Artiodactyla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Physeteridae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mPhyCat1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114493129<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;3217620000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Physeter catodon
 name_: Physeter_catodon

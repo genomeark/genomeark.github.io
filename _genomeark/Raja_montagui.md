@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: spotted ray
 data_arima-1_bases: 305.39 Gbp
 data_arima-1_bytes: 87.3 GiB
@@ -29,12 +29,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 3374100000
 genome_size_display: 3.37 Gbp
 genome_size_method: GoaT
-hpa1date: 2024-07-08
-hpa1filesize: 800.1 MiB
-hpa1length: '2796173113'
-hpa1n50ctg: 879841
-hpa1n50scf: 46727311
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Raja_montagui/sRajMon1/assembly_cambridge/sRajMon1.hap1.asm.20240708.fasta.gz
+hpa1date: 2026-02-14
+hpa1filesize: 791.2 MiB
+hpa1length: '2761524045'
+hpa1n50ctg: 870791
+hpa1n50scf: 47491761
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Raja_montagui/sRajMon1/assembly_curated/sRajMon1.hap1.cur.20260214.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -52,18 +52,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 67 </td><td> 3.80 Mbp </td><td> 3 </td><td> 126.74 Mbp </td></tr><tr><td> 20 </td><td> 176 </td><td> 2.60 Mbp </td><td> 5 </td><td> 114.92 Mbp </td></tr><tr><td> 30 </td><td> 334 </td><td> 1.81 Mbp </td><td> 9 </td><td> 78.09 Mbp </td></tr><tr><td> 40 </td><td> 556 </td><td> 1.27 Mbp </td><td> 14 </td><td> 63.14 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 875 </td><td style="background-color:#ff8888;"> 0.88 Mbp </td><td> 20 </td><td style="background-color:#88ff88;"> 46.73 Mbp </td></tr><tr><td> 60 </td><td> 1351 </td><td> 0.57 Mbp </td><td> 29 </td><td> 33.04 Mbp </td></tr><tr><td> 70 </td><td> 2196 </td><td> 276.52 Kbp </td><td> 66 </td><td> 1.61 Mbp </td></tr><tr><td> 80 </td><td> 4639 </td><td> 65.15 Kbp </td><td> 1897 </td><td> 65.55 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 71 </td><td> 3.74 Mbp </td><td> 3 </td><td> 133.58 Mbp </td></tr><tr><td> 20 </td><td> 182 </td><td> 2.58 Mbp </td><td> 5 </td><td> 117.15 Mbp </td></tr><tr><td> 30 </td><td> 342 </td><td> 1.75 Mbp </td><td> 9 </td><td> 81.56 Mbp </td></tr><tr><td> 40 </td><td> 569 </td><td> 1.25 Mbp </td><td> 13 </td><td> 67.39 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 894 </td><td style="background-color:#ff8888;"> 0.87 Mbp </td><td> 19 </td><td style="background-color:#88ff88;"> 47.49 Mbp </td></tr><tr><td> 60 </td><td> 1381 </td><td> 0.55 Mbp </td><td> 27 </td><td> 39.62 Mbp </td></tr><tr><td> 70 </td><td> 2268 </td><td> 258.00 Kbp </td><td> 38 </td><td> 19.89 Mbp </td></tr><tr><td> 80 </td><td> 5133 </td><td> 48.98 Kbp </td><td> 2091 </td><td> 49.35 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.829x </th><th> 7703 </th><th> 2.80 Gbp </th><th> 4970 </th><th> 2.80 Gbp </th></tr>
+  <tr><th> 0.818x </th><th> 7572 </th><th> 2.76 Gbp </th><th> 4542 </th><th> 2.76 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_cambridge
-hpb1date: 2024-07-08
-hpb1filesize: 786.1 MiB
-hpb1length: '2739164489'
-hpb1n50ctg: 874254
-hpb1n50scf: 45683847
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Raja_montagui/sRajMon1/assembly_cambridge/sRajMon1.hap2.asm.20240708.fasta.gz
+hpa1version: assembly_curated
+hpb1date: 2026-02-14
+hpb1filesize: 793.6 MiB
+hpb1length: '2769174886'
+hpb1n50ctg: 884455
+hpb1n50scf: 46656912
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Raja_montagui/sRajMon1/assembly_curated/sRajMon1.hap2.cur.20260214.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -81,14 +81,14 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 74 </td><td> 3.54 Mbp </td><td> 3 </td><td> 127.34 Mbp </td></tr><tr><td> 20 </td><td> 190 </td><td> 2.40 Mbp </td><td> 5 </td><td> 113.15 Mbp </td></tr><tr><td> 30 </td><td> 357 </td><td> 1.73 Mbp </td><td> 9 </td><td> 77.52 Mbp </td></tr><tr><td> 40 </td><td> 590 </td><td> 1.23 Mbp </td><td> 14 </td><td> 62.30 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 916 </td><td style="background-color:#ff8888;"> 0.87 Mbp </td><td> 21 </td><td style="background-color:#88ff88;"> 45.68 Mbp </td></tr><tr><td> 60 </td><td> 1407 </td><td> 0.54 Mbp </td><td> 29 </td><td> 32.75 Mbp </td></tr><tr><td> 70 </td><td> 2272 </td><td> 268.13 Kbp </td><td> 77 </td><td> 1.09 Mbp </td></tr><tr><td> 80 </td><td> 5139 </td><td> 44.21 Kbp </td><td> 2376 </td><td> 44.46 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 70 </td><td> 3.63 Mbp </td><td> 3 </td><td> 133.74 Mbp </td></tr><tr><td> 20 </td><td> 184 </td><td> 2.45 Mbp </td><td> 5 </td><td> 113.15 Mbp </td></tr><tr><td> 30 </td><td> 349 </td><td> 1.75 Mbp </td><td> 9 </td><td> 80.38 Mbp </td></tr><tr><td> 40 </td><td> 577 </td><td> 1.26 Mbp </td><td> 14 </td><td> 66.26 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 898 </td><td style="background-color:#ff8888;"> 0.88 Mbp </td><td> 20 </td><td style="background-color:#88ff88;"> 46.66 Mbp </td></tr><tr><td> 60 </td><td> 1381 </td><td> 0.56 Mbp </td><td> 28 </td><td> 36.84 Mbp </td></tr><tr><td> 70 </td><td> 2209 </td><td> 285.16 Kbp </td><td> 42 </td><td> 14.35 Mbp </td></tr><tr><td> 80 </td><td> 4629 </td><td> 61.68 Kbp </td><td> 1747 </td><td> 61.88 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.812x </th><th> 6734 </th><th> 2.74 Gbp </th><th> 3983 </th><th> 2.74 Gbp </th></tr>
+  <tr><th> 0.821x </th><th> 6791 </th><th> 2.77 Gbp </th><th> 3918 </th><th> 2.77 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_cambridge
+hpb1version: assembly_curated
 last_raw_data: 1720351758
-last_updated: 1720599529
+last_updated: 1771030883
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;sRajMon<br>&nbsp;&nbsp;name:&nbsp;Raja&nbsp;montagui<br>&nbsp;&nbsp;taxon_id:&nbsp;27588<br>&nbsp;&nbsp;common_name:&nbsp;spotted&nbsp;ray<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rajiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rajidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sRajMon1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114298640<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;3374100000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-07-08
 mito1filesize: 5.4 KiB

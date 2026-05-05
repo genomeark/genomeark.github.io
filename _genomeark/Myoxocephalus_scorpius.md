@@ -11,6 +11,26 @@ data_arima-1_scale: 1.7313
 data_arima_bases: 160.18 Gbp
 data_arima_bytes: 86.2 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 132.79 Gbp
+data_pacbiohifi_bam-1_bytes: 471.1 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myoxocephalus_scorpius/fMyoSco1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myoxocephalus_scorpius/fMyoSco1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2625
+data_pacbiohifi_bam_bases: 132.79 Gbp
+data_pacbiohifi_bam_bytes: 471.1 GiB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_clr-1_bases: 1110.69 Gbp
+data_pacbiohifi_clr-1_bytes: 1.9 TiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Myoxocephalus_scorpius/fMyoSco1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myoxocephalus_scorpius/fMyoSco1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5330
+data_pacbiohifi_clr_bases: 1110.69 Gbp
+data_pacbiohifi_clr_bytes: 1.9 TiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 43.68 Gbp
 data_pacbiohifi_fqgz-1_bytes: 34.7 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -88,8 +108,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1688055757
-last_updated: 1764648298
+last_raw_data: 1770253526
+last_updated: 1770253526
 mds:
 - data: species:&nbsp;Myoxocephalus&nbsp;scorpius<br>specimen:&nbsp;fMyoSco1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_vgp_HiC_2.0/fMyoSco1.HiC.hap1.20230718.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_vgp_HiC_2.0/fMyoSco1.HiC.hap2.20230718.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/fMyoSco1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/fMyoSco1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_vgp_HiC_2.0/evaluation/merqury/fMyoSco1_png/<br>mito:&nbsp;s3://genomeark/species/Myoxocephalus_scorpius/fMyoSco1/assembly_MT_rockefeller/fMyoSco1.MT.20230718.fasta.gz<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.3+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(2.2)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fMyoSco1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;HiC&nbsp;reads&nbsp;needed&nbsp;to&nbsp;have&nbsp;5&nbsp;bp&nbsp;trimmed&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;due&nbsp;to&nbsp;adapter&nbsp;left&nbsp;over&nbsp;from&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit.&nbsp;The&nbsp;initial&nbsp;contig&nbsp;assemblies&nbsp;went&nbsp;through&nbsp;purging&nbsp;before&nbsp;scaffolding.&nbsp;
   ident: md7

@@ -21,6 +21,26 @@ data_bionano-1_scale: 569.1899
 data_bionano_bases: N/A
 data_bionano_bytes: 3.6 GiB
 data_bionano_coverage: 833.79x
+data_pacbiohifi_bam-1_bases: 73.20 Gbp
+data_pacbiohifi_bam-1_bytes: 253.4 GiB
+data_pacbiohifi_bam-1_coverage: 27.42x
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Malaclemys_terrapin/rMalTer1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Malaclemys_terrapin/rMalTer1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Malaclemys_terrapin/rMalTer1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2690
+data_pacbiohifi_bam_bases: 73.20 Gbp
+data_pacbiohifi_bam_bytes: 253.4 GiB
+data_pacbiohifi_bam_coverage: 27.42x
+data_pacbiohifi_clr-1_bases: 300.97 Gbp
+data_pacbiohifi_clr-1_bytes: 704.1 GiB
+data_pacbiohifi_clr-1_coverage: 112.72x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Malaclemys_terrapin/rMalTer1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Malaclemys_terrapin/rMalTer1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Malaclemys_terrapin/rMalTer1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.3981
+data_pacbiohifi_clr_bases: 300.97 Gbp
+data_pacbiohifi_clr_bytes: 704.1 GiB
+data_pacbiohifi_clr_coverage: 112.72x
 data_pacbiohifi_fqgz-1_bases: 80.79 Gbp
 data_pacbiohifi_fqgz-1_bytes: 63.0 GiB
 data_pacbiohifi_fqgz-1_coverage: 30.26x
@@ -100,8 +120,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1651607585
-last_updated: 1657297450
+last_raw_data: 1777390275
+last_updated: 1777390275
 mds:
 - data: species:&nbsp;Malaclemys&nbsp;terrapin<br>specimen:&nbsp;rMalTer1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>hap1:&nbsp;s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/rMalTer1.HiC.hap1.20220601.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/rMalTer1.HiC.hap2.20220601.fasta.gz<br>hap1_hic_bam:&nbsp;s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rMalTer1_hap1__s2.bam<br>hap2_hic_bam:&nbsp;s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rMalTer1_hap2__s2.bam<br>hap1_pretext:&nbsp;s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rMalTer1_hap1__s2_heatmap.pretext<br>hap2_pretext:&nbsp;s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rMalTer1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Malaclemys_terrapin/rMalTer1/assembly_vgp_HiC_2.0/evaluation/merqury/rMalTer1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)<br><br>
   ident: md4

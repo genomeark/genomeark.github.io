@@ -113,7 +113,11 @@ hpb2sizes: |
   </table>
 hpb2version: assembly_vgp_HiC_2.0
 last_raw_data: 1737561258
-last_updated: 1737561258
+last_updated: 1771959239
+mds:
+- data: species:<br>&nbsp;&nbsp;short_name:&nbsp;rCarCar<br>&nbsp;&nbsp;name:&nbsp;Caretta&nbsp;caretta<br>&nbsp;&nbsp;common_name:&nbsp;Loggerhead&nbsp;turtle<br>&nbsp;&nbsp;taxon_id:&nbsp;8467<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Testudines<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cheloniidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;rCarCar2<br>&nbsp;&nbsp;genome_size:&nbsp;2581920000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
+  ident: md2
+  title: assembly_vgp_HiC_2.0/rCarCar2.yaml
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;rCarCar<br>&nbsp;&nbsp;name:&nbsp;Caretta&nbsp;caretta<br>&nbsp;&nbsp;common_name:&nbsp;Loggerhead&nbsp;turtle<br>&nbsp;&nbsp;taxon_id:&nbsp;8467<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Testudines<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cheloniidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;rCarCar2<br>&nbsp;&nbsp;genome_size:&nbsp;2581920000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Caretta caretta
 name_: Caretta_caretta

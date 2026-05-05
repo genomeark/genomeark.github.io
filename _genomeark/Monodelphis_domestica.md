@@ -91,10 +91,10 @@ genome_size: 4592000000
 genome_size_display: 4.59 Gbp
 genome_size_method: GoAT
 last_raw_data: 1651622311
-last_updated: 1672769874
+last_updated: 1770667307
 mds:
 - data: species:&nbsp;Monodelphis_domestica<br>specimen:&nbsp;mMonDom1<br>projects:<br>-vgp<br>primary:<br>s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/https://genomeark.s3.amazonaws.com/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/mMonDom1.pri.asm.20220212.fasta.gz<br>haplotigs:<br>s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/mMonDom1.alt.asm.20211231.fasta.gz<br>hic_bam:<br>s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMonDom1_s2.bam<br>pretext:<br>s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/evaluation/pretext/s2/mMonDom1_heatmap.pretext<br>kmer_spectra_img:<br>s3://genomeark/species/Monodelphis_domestica/mMonDom1/assembly_vgp_standard_2.0/evaluation/merqury/p/mMonDom1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(3.6.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy0)<br>
-  ident: md6
+  ident: md7
   title: assembly_vgp_standard_2.0/mMonDom1.yaml
 metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Monodelphis&nbsp;domestica<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMonDom1<br>&nbsp;&nbsp;short_name:&nbsp;mMonDom<br>&nbsp;&nbsp;taxon_id:&nbsp;13616<br>&nbsp;&nbsp;common_name:&nbsp;gray&nbsp;short-tailed&nbsp;opossum<br>&nbsp;&nbsp;genome_size:&nbsp;4592000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Didelphimorphia<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Didelphidae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2022-06-17
@@ -128,13 +128,12 @@ mito1sizes: |
 mito1version: assembly_MT_rockefeller
 name: Monodelphis domestica
 name_: Monodelphis_domestica
-pri1date: 2023-01-03
-pri1filesize: 1.0 GiB
+pri1date: 2026-02-05
+pri1filesize: 0.9 GiB
 pri1length: '3586166573'
 pri1n50ctg: 2416543
 pri1n50scf: 454668073
-pri1qual: 1.0 errors/Mb (QV=59.85)
-pri1seq: https://s3.amazonaws.com/genomeark/species/Monodelphis_domestica/mMonDom1/assembly_curated/mMonDom1.pri.cur.20230103.fasta.gz
+pri1seq: https://s3.amazonaws.com/genomeark/species/Monodelphis_domestica/mMonDom1/assembly_curated/mMonDom1.pri.cur.20260205.fasta.gz
 pri1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -152,7 +151,7 @@ pri1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 30 </td><td> 11.39 Mbp </td><td> 0 </td><td> 0.76 Gbp </td></tr><tr><td> 20 </td><td> 82 </td><td> 7.21 Mbp </td><td> 1 </td><td> 0.54 Gbp </td></tr><tr><td> 30 </td><td> 155 </td><td> 5.37 Mbp </td><td> 2 </td><td> 0.54 Gbp </td></tr><tr><td> 40 </td><td> 258 </td><td> 3.72 Mbp </td><td> 2 </td><td> 0.54 Gbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 413 </td><td style="background-color:#88ff88;"> 2.42 Mbp </td><td> 3 </td><td style="background-color:#88ff88;"> 454.67 Mbp </td></tr><tr><td> 60 </td><td> 658 </td><td> 1.47 Mbp </td><td> 5 </td><td> 311.08 Mbp </td></tr><tr><td> 70 </td><td> 1105 </td><td> 0.68 Mbp </td><td> 6 </td><td> 293.77 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 31 </td><td> 11.39 Mbp </td><td> 1 </td><td> 0.76 Gbp </td></tr><tr><td> 20 </td><td> 83 </td><td> 7.21 Mbp </td><td> 2 </td><td> 0.54 Gbp </td></tr><tr><td> 30 </td><td> 156 </td><td> 5.37 Mbp </td><td> 3 </td><td> 0.54 Gbp </td></tr><tr><td> 40 </td><td> 259 </td><td> 3.72 Mbp </td><td> 3 </td><td> 0.54 Gbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 414 </td><td style="background-color:#88ff88;"> 2.42 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 454.67 Mbp </td></tr><tr><td> 60 </td><td> 659 </td><td> 1.47 Mbp </td><td> 6 </td><td> 311.08 Mbp </td></tr><tr><td> 70 </td><td> 1106 </td><td> 0.68 Mbp </td><td> 7 </td><td> 293.77 Mbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
   <tr><th> 0.774x </th><th> 2268 </th><th> 3.55 Gbp </th><th> 13 </th><th> 3.59 Gbp </th></tr>
   </tfoot>

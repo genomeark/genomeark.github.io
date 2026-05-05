@@ -1,0 +1,1 @@
+../_genomeark/Mops_condylurus.md

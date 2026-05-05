@@ -28,7 +28,7 @@ alt1sizes: |
   </tfoot>
   </table>
 alt1version: assembly_cambridge
-assembly_status: <em style="color:orangered">Draft</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: small-eyed ray
 data_arima-1_bases: 387.88 Gbp
 data_arima-1_bytes: 118.3 GiB
@@ -58,8 +58,66 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 3423000000
 genome_size_display: 3.42 Gbp
 genome_size_method: GoaT
+hpa1date: 2026-03-14
+hpa1filesize: 825.9 MiB
+hpa1length: '2992192526'
+hpa1n50ctg: 1086804
+hpa1n50scf: 89924979
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Raja_microocellata/sRajMic1/assembly_curated/sRajMic1.hap1.cur.20260314.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 63 </td><td> 4.17 Mbp </td><td> 2 </td><td> 175.87 Mbp </td></tr><tr><td> 20 </td><td> 162 </td><td> 2.96 Mbp </td><td> 5 </td><td> 128.14 Mbp </td></tr><tr><td> 30 </td><td> 299 </td><td> 2.16 Mbp </td><td> 7 </td><td> 122.46 Mbp </td></tr><tr><td> 40 </td><td> 487 </td><td> 1.56 Mbp </td><td> 10 </td><td> 114.70 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 754 </td><td style="background-color:#88ff88;"> 1.09 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 89.92 Mbp </td></tr><tr><td> 60 </td><td> 1135 </td><td> 0.73 Mbp </td><td> 20 </td><td> 40.15 Mbp </td></tr><tr><td> 70 </td><td> 1760 </td><td> 408.29 Kbp </td><td> 32 </td><td> 17.85 Mbp </td></tr><tr><td> 80 </td><td> 3047 </td><td> 168.97 Kbp </td><td> 497 </td><td> 243.00 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.874x </th><th> 6914 </th><th> 2.99 Gbp </th><th> 4225 </th><th> 2.99 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_curated
+hpb1date: 2026-03-14
+hpb1filesize: 807.9 MiB
+hpb1length: '2928506381'
+hpb1n50ctg: 1067358
+hpb1n50scf: 89602388
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Raja_microocellata/sRajMic1/assembly_curated/sRajMic1.hap2.cur.20260314.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 68 </td><td> 3.87 Mbp </td><td> 2 </td><td> 178.40 Mbp </td></tr><tr><td> 20 </td><td> 173 </td><td> 2.83 Mbp </td><td> 5 </td><td> 128.58 Mbp </td></tr><tr><td> 30 </td><td> 315 </td><td> 2.07 Mbp </td><td> 7 </td><td> 121.75 Mbp </td></tr><tr><td> 40 </td><td> 511 </td><td> 1.48 Mbp </td><td> 10 </td><td> 113.25 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 787 </td><td style="background-color:#88ff88;"> 1.07 Mbp </td><td> 14 </td><td style="background-color:#88ff88;"> 89.60 Mbp </td></tr><tr><td> 60 </td><td> 1177 </td><td> 0.72 Mbp </td><td> 20 </td><td> 41.06 Mbp </td></tr><tr><td> 70 </td><td> 1794 </td><td> 429.08 Kbp </td><td> 31 </td><td> 18.33 Mbp </td></tr><tr><td> 80 </td><td> 3037 </td><td> 170.45 Kbp </td><td> 499 </td><td> 260.00 Kbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.855x </th><th> 5516 </th><th> 2.93 Gbp </th><th> 2828 </th><th> 2.93 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_curated
 last_raw_data: 1705164307
-last_updated: 1705338144
+last_updated: 1773450082
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;sRajMic<br>&nbsp;&nbsp;name:&nbsp;Raja&nbsp;microocellata<br>&nbsp;&nbsp;taxon_id:&nbsp;223863<br>&nbsp;&nbsp;common_name:&nbsp;small-eyed&nbsp;ray<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rajiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Rajidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;sRajMic1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110450104<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;3423000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-01-15
 mito1filesize: 5.4 KiB

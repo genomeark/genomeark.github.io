@@ -98,7 +98,36 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1769531745
-last_updated: 1769546089
+last_updated: 1777476141
+mito1date: 2024-01-15
+mito1filesize: 5.3 KiB
+mito1length: '16667'
+mito1n50ctg: 16667
+mito1n50scf: 16667
+mito1seq: https://s3.amazonaws.com/genomeark/species/Miniopterus_natalensis/mMinNat1/assembly_MT_rockefeller/mMinNat1.MT.20240115.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 16.67 Kbp </td><td> 1 </td><td> 16.67 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 16.67 Kbp </td><td> 1 </td><td> 16.67 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 16.67 Kbp </td><td> 1 </td><td> 16.67 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 16.67 Kbp </td><td> 1 </td><td> 16.67 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 16.67 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 16.67 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 16.67 Kbp </td><td> 1 </td><td> 16.67 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 16.67 Kbp </td><td> 1 </td><td> 16.67 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 16.67 Kbp </td><td> 1 </td><td> 16.67 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 16.67 Kbp </td><td> 1 </td><td> 16.67 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 16.67 Kbp </td><td> 1 </td><td> 16.67 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 16.67 Kbp </th><th> 1 </th><th> 16.67 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Miniopterus natalensis
 name_: Miniopterus_natalensis
 project: ~

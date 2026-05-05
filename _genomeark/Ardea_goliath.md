@@ -1,15 +1,15 @@
 ---
 assembly_status: <em style="color:maroon">No assembly</em>
 common_name: ''
-data_dovetail-1_bases: 35.10 Gbp
-data_dovetail-1_bytes: 29.5 GiB
+data_dovetail-1_bases: 59.25 Gbp
+data_dovetail-1_bytes: 48.2 GiB
 data_dovetail-1_coverage: N/A
 data_dovetail-1_links: s3://genomeark/species/Ardea_goliath/bArdGol1/genomic_data/dovetail/<br>
 data_dovetail-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Ardea_goliath/bArdGol1/genomic_data/dovetail/
 data_dovetail-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ardea_goliath/bArdGol1/genomic_data/dovetail/
-data_dovetail-1_scale: 1.1098
-data_dovetail_bases: 35.10 Gbp
-data_dovetail_bytes: 29.5 GiB
+data_dovetail-1_scale: 1.1456
+data_dovetail_bases: 59.25 Gbp
+data_dovetail_bytes: 48.2 GiB
 data_dovetail_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 39.22 Gbp
 data_pacbiohifi_fqgz-1_bytes: 23.3 GiB
@@ -29,8 +29,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-last_raw_data: 1755789196
-last_updated: 1755789196
+last_raw_data: 1775585542
+last_updated: 1775585542
 name: Ardea goliath
 name_: Ardea_goliath
 project: ~

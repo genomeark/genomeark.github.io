@@ -11,6 +11,26 @@ data_arima-1_scale: 1.7784
 data_arima_bases: 62.17 Gbp
 data_arima_bytes: 32.6 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 105.58 Gbp
+data_pacbiohifi_bam-1_bytes: 363.2 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Scaphiopus_couchii/aScaCou1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scaphiopus_couchii/aScaCou1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scaphiopus_couchii/aScaCou1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2707
+data_pacbiohifi_bam_bases: 105.58 Gbp
+data_pacbiohifi_bam_bytes: 363.2 GiB
+data_pacbiohifi_bam_coverage: N/A
+data_pacbiohifi_clr-1_bases: 794.56 Gbp
+data_pacbiohifi_clr-1_bytes: 1.4 TiB
+data_pacbiohifi_clr-1_coverage: N/A
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Scaphiopus_couchii/aScaCou1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Scaphiopus_couchii/aScaCou1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scaphiopus_couchii/aScaCou1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5345
+data_pacbiohifi_clr_bases: 794.56 Gbp
+data_pacbiohifi_clr_bytes: 1.4 TiB
+data_pacbiohifi_clr_coverage: N/A
 data_pacbiohifi_fqgz-1_bases: 35.27 Gbp
 data_pacbiohifi_fqgz-1_bytes: 26.1 GiB
 data_pacbiohifi_fqgz-1_coverage: N/A
@@ -87,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1694454671
-last_updated: 1763395280
+last_raw_data: 1770255270
+last_updated: 1770255270
 mds:
 - data: species:&nbsp;Scaphiopus&nbsp;couchii<br>specimen:&nbsp;aScaCou1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Scaphiopus_couchii/aScaCou1/assembly_vgp_trio_2.0/aScaCou1.HiC.hap1.20240813.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Scaphiopus_couchii/aScaCou1/assembly_vgp_trio_2.0/aScaCou1.HiC.hap2.20240813.fasta.gz<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Scaphiopus_couchii/aScaCou1/assembly_vgp_trio_2.0/evaluation/merqury/aScaCou1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Scaphiopus_couchii/aScaCou1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Scaphiopus_couchii/aScaCou1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.9+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7.0+galaxy3)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;HiC-phased&nbsp;assembly&nbsp;of&nbsp;aScaCou1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;phased&nbsp;haplotypes.&nbsp;The&nbsp;assemblies&nbsp;underwent&nbsp;Bionano&nbsp;&&nbsp;HiC&nbsp;(Arima)&nbsp;scaffolding.&nbsp;The&nbsp;HiC&nbsp;library&nbsp;prep&nbsp;kit&nbsp;was&nbsp;Arima,&nbsp;so&nbsp;5bp&nbsp;need&nbsp;to&nbsp;be&nbsp;trimmed&nbsp;before&nbsp;use.
   ident: md5

@@ -49,6 +49,13 @@ data_illumina:mEquAca1_scale: 2.1571
 data_illumina_bases: 543.29 Gbp
 data_illumina_bytes: 243.5 GiB
 data_illumina_coverage: 174.69x
+data_ont-5_bases: 353.32 Gbp
+data_ont-5_bytes: 244.9 GiB
+data_ont-5_coverage: 113.61x
+data_ont-5_links: s3://genomeark/species/Equus_caballus/mEquCab5/genomic_data/ont/<br>
+data_ont-5_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Equus_caballus/mEquCab5/genomic_data/ont/
+data_ont-5_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Equus_caballus/mEquCab5/genomic_data/ont/
+data_ont-5_scale: 1.3437
 data_ont:mEquAca1_bases: 215.93 Gbp
 data_ont:mEquAca1_bytes: 173.9 GiB
 data_ont:mEquAca1_coverage: 69.43x
@@ -56,9 +63,9 @@ data_ont:mEquAca1_links: s3://genomeark/species/Equus_caballus/mEquAca1/genomic_
 data_ont:mEquAca1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Equus_caballus/mEquAca1/genomic_data/ont/
 data_ont:mEquAca1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Equus_caballus/mEquAca1/genomic_data/ont/
 data_ont:mEquAca1_scale: 1.1562
-data_ont_bases: 215.93 Gbp
-data_ont_bytes: 173.9 GiB
-data_ont_coverage: 69.43x
+data_ont_bases: 569.24 Gbp
+data_ont_bytes: 418.8 GiB
+data_ont_coverage: 183.04x
 data_pacbiohifi_bam-1_bases: 310.47 Gbp
 data_pacbiohifi_bam-1_bytes: 1.0 TiB
 data_pacbiohifi_bam-1_coverage: 99.83x
@@ -189,8 +196,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1718388479
-last_updated: 1718388479
+last_raw_data: 1777582366
+last_updated: 1777582366
 metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Equus&nbsp;caballus<br>&nbsp;&nbsp;short_name:&nbsp;mEquCab<br>&nbsp;&nbsp;common_name:&nbsp;horse<br>&nbsp;&nbsp;taxon_id:&nbsp;9796<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Perissodactyla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Equidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mEquCab1<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;null<br>&nbsp;&nbsp;-&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mEquCab2<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;null<br>&nbsp;&nbsp;-&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mEquCab3<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;null<br>&nbsp;&nbsp;-&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mEquCab4<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;strain:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;3958<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;individual&nbsp;is&nbsp;the&nbsp;dam&nbsp;for&nbsp;a&nbsp;mule&nbsp;trio&nbsp;(mEquAca1).<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The&nbsp;sire&nbsp;for&nbsp;the&nbsp;trio&nbsp;is&nbsp;mEquAsi1.<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Ted&nbsp;Kalbfleisch&nbsp;(University&nbsp;of&nbsp;Kentucky)<br>&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;genome_size:&nbsp;3110000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;]<br>
 mito1date: 2023-02-10
 mito1filesize: 5.3 KiB

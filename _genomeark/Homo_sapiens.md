@@ -99,18 +99,18 @@ data_illumina-2_scale: 1.8935
 data_illumina_bases: 440.03 Gbp
 data_illumina_bytes: 216.3 GiB
 data_illumina_coverage: 137.51x
-data_ont:H9_T2T_bases: 380.41 Gbp
-data_ont:H9_T2T_bytes: 349.2 GiB
-data_ont:H9_T2T_coverage: 118.88x
+data_ont:H9_T2T_bases: 731.91 Gbp
+data_ont:H9_T2T_bytes: 717.4 GiB
+data_ont:H9_T2T_coverage: 228.72x
 data_ont:H9_T2T_links: s3://genomeark/species/Homo_sapiens/H9_T2T/genomic_data/ont/<br>
 data_ont:H9_T2T_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Homo_sapiens/H9_T2T/genomic_data/ont/
 data_ont:H9_T2T_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/H9_T2T/genomic_data/ont/
-data_ont:H9_T2T_scale: 1.0146
+data_ont:H9_T2T_scale: 0.9501
 data_ont:H9_bases: '380407402703'
 data_ont:H9_scale: '1.0146'
-data_ont_bases: 380.41 Gbp
-data_ont_bytes: 349.2 GiB
-data_ont_coverage: 118.88x
+data_ont_bases: 731.91 Gbp
+data_ont_bytes: 717.4 GiB
+data_ont_coverage: 228.72x
 data_pacbio-3_bases: 234.68 Gbp
 data_pacbio-3_bytes: 402.6 GiB
 data_pacbio-3_coverage: 73.34x
@@ -185,8 +185,8 @@ genbank_pat: mHomSap3:GCA_016700455.2
 genome_size: 3200000000
 genome_size_display: 3.20 Gbp
 genome_size_method: ''
-last_raw_data: 1770061802
-last_updated: 1770062581
+last_raw_data: 1772726531
+last_updated: 1772726531
 mat3date: 2020-07-16
 mat3filesize: 826.5 MiB
 mat3length: '2902197670'

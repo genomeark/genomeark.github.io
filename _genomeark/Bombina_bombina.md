@@ -40,16 +40,16 @@ data_10x-1_scale: 2.0056
 data_10x_bases: 703.90 Gbp
 data_10x_bytes: 326.9 GiB
 data_10x_coverage: 70.25x
-data_arima-1_bases: 1466.58 Gbp
-data_arima-1_bytes: 684.5 GiB
-data_arima-1_coverage: 146.37x
+data_arima-1_bases: 3061.94 Gbp
+data_arima-1_bytes: 1.3 TiB
+data_arima-1_coverage: 305.59x
 data_arima-1_links: s3://genomeark/species/Bombina_bombina/aBomBom1/genomic_data/arima/<br>
 data_arima-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Bombina_bombina/aBomBom1/genomic_data/arima/
 data_arima-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bombina_bombina/aBomBom1/genomic_data/arima/
-data_arima-1_scale: 1.9954
-data_arima_bases: 1466.58 Gbp
-data_arima_bytes: 684.5 GiB
-data_arima_coverage: 146.37x
+data_arima-1_scale: 2.1740
+data_arima_bases: 3061.94 Gbp
+data_arima_bytes: 1.3 TiB
+data_arima_coverage: 305.59x
 data_bionano-1_bases: N/A
 data_bionano-1_bytes: 8.7 GiB
 data_bionano-1_coverage: 364.07x
@@ -91,8 +91,8 @@ genbank_pri: aBomBom1:GCA_027579735.1
 genome_size: 10019663791
 genome_size_display: 10.02 Gbp
 genome_size_method: ''
-last_raw_data: 1687903561
-last_updated: 1687903561
+last_raw_data: 1773176798
+last_updated: 1773176798
 mds:
 - data: species:&nbsp;Bombina&nbsp;bombina<br>specimen:&nbsp;aBomBom1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Bombina_bombina/aBomBom1/assembly_vgp_standard_1.6/aBomBom1.pri.20210531.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Bombina_bombina/aBomBom1/assembly_vgp_standard_1.6/aBomBom1.alt.20210531.fasta.gz<br>pacbio_read_dir:&nbsp;s3://genomearkspecies/Bombina_bombina/aBomBom1/genomic_data/pacbio/<br>pacbio_read_type:&nbsp;clr<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;Falcon-kit&nbsp;(1.8.1)<br>&nbsp;&nbsp;-&nbsp;falcon_unzip&nbsp;(1.3.7)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.3)<br>&nbsp;&nbsp;-&nbsp;scaff10x&nbsp;(4.2a)<br>&nbsp;&nbsp;-&nbsp;bionano_solve&nbsp;(Solve3.6.1_11162020)<br>&nbsp;&nbsp;-&nbsp;salsa2&nbsp;&nbsp;(2.2)<br>&nbsp;&nbsp;-&nbsp;longranger&nbsp;(2.2.2)<br>&nbsp;&nbsp;-&nbsp;gcpp&nbsp;(2.0.2)<br>&nbsp;&nbsp;-&nbsp;freebayes&nbsp;(1.3.2)<br>assembled_by_group:&nbsp;Dresden<br>
   ident: md0
