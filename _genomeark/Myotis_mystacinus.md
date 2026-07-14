@@ -30,12 +30,12 @@ genbank_pri: mMyoMys1:GCA_964094495.3 mMyoMys1:GCA_964195625.1
 genome_size: 1887540000
 genome_size_display: 1.89 Gbp
 genome_size_method: GoaT
-hpa1date: 2025-11-18
+hpa1date: 2026-07-09
 hpa1filesize: 597.3 MiB
 hpa1length: '2081632400'
 hpa1n50ctg: 30336352
 hpa1n50scf: 109563380
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Myotis_mystacinus/mMyoMys1/assembly_curated/mMyoMys1.hap1.cur.20251118.fasta.gz
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Myotis_mystacinus/mMyoMys1/assembly_curated/mMyoMys1.hap1.cur.20260709.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -59,12 +59,12 @@ hpa1sizes: |
   </tfoot>
   </table>
 hpa1version: assembly_curated
-hpb1date: 2025-11-18
+hpb1date: 2026-07-09
 hpb1filesize: 555.9 MiB
 hpb1length: '1930008738'
 hpb1n50ctg: 33034112
 hpb1n50scf: 100640981
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Myotis_mystacinus/mMyoMys1/assembly_curated/mMyoMys1.hap2.cur.20251118.fasta.gz
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Myotis_mystacinus/mMyoMys1/assembly_curated/mMyoMys1.hap2.cur.20260709.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -89,7 +89,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1709675982
-last_updated: 1763478173
+last_updated: 1783555339
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoMys<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;mystacinus<br>&nbsp;&nbsp;taxon_id:&nbsp;109479<br>&nbsp;&nbsp;common_name:&nbsp;whiskered&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMyoMys1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA114250307<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;1887540000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;bat1k,&nbsp;vgp&nbsp;]<br>
 mito1date: 2024-03-08
 mito1filesize: 5.0 KiB

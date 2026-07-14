@@ -30,12 +30,12 @@ genbank_pri: fScaEry2:GCA_964197995.1 fScaEry2:GCA_964198005.1
 genome_size: 1168710000
 genome_size_display: 1.17 Gbp
 genome_size_method: GoaT
-hpa2date: 2024-07-06
+hpa2date: 2026-06-23
 hpa2filesize: 334.7 MiB
-hpa2length: '1229666150'
+hpa2length: '1229592076'
 hpa2n50ctg: 2491750
 hpa2n50scf: 44954600
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Scardinius_erythrophthalmus/fScaEry2/assembly_curated/fScaEry2.hap1.cur.20240706.fasta.gz
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Scardinius_erythrophthalmus/fScaEry2/assembly_curated/fScaEry2.hap1.cur.20260623.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -55,16 +55,16 @@ hpa2sizes: |
   <tbody>
   <tr><td> 10 </td><td> 16 </td><td> 6.01 Mbp </td><td> 2 </td><td> 71.61 Mbp </td></tr><tr><td> 20 </td><td> 39 </td><td> 4.51 Mbp </td><td> 4 </td><td> 58.97 Mbp </td></tr><tr><td> 30 </td><td> 68 </td><td> 3.72 Mbp </td><td> 6 </td><td> 50.77 Mbp </td></tr><tr><td> 40 </td><td> 102 </td><td> 3.09 Mbp </td><td> 8 </td><td> 49.90 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 144 </td><td style="background-color:#88ff88;"> 2.49 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 44.95 Mbp </td></tr><tr><td> 60 </td><td> 197 </td><td> 2.01 Mbp </td><td> 13 </td><td> 43.15 Mbp </td></tr><tr><td> 70 </td><td> 262 </td><td> 1.61 Mbp </td><td> 16 </td><td> 41.93 Mbp </td></tr><tr><td> 80 </td><td> 347 </td><td> 1.15 Mbp </td><td> 19 </td><td> 40.31 Mbp </td></tr><tr><td> 90 </td><td> 477 </td><td> 0.72 Mbp </td><td> 22 </td><td> 34.75 Mbp </td></tr><tr><td> 100 </td><td> 730 </td><td> 256.00 Kbp </td><td> 26 </td><td> 1.48 Mbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.052x </th><th> 1591 </th><th> 1.23 Gbp </th><th> 755 </th><th> 1.23 Gbp </th></tr>
+  <tr><th> 1.052x </th><th> 1589 </th><th> 1.23 Gbp </th><th> 753 </th><th> 1.23 Gbp </th></tr>
   </tfoot>
   </table>
 hpa2version: assembly_curated
-hpb2date: 2024-07-06
+hpb2date: 2026-06-23
 hpb2filesize: 325.8 MiB
 hpb2length: '1189974144'
 hpb2n50ctg: 2203175
 hpb2n50scf: 44611761
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Scardinius_erythrophthalmus/fScaEry2/assembly_curated/fScaEry2.hap2.cur.20240706.fasta.gz
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Scardinius_erythrophthalmus/fScaEry2/assembly_curated/fScaEry2.hap2.cur.20260623.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -89,7 +89,7 @@ hpb2sizes: |
   </table>
 hpb2version: assembly_curated
 last_raw_data: 1714138315
-last_updated: 1737551914
+last_updated: 1782172917
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fScaEry<br>&nbsp;&nbsp;name:&nbsp;Scardinius&nbsp;erythrophthalmus<br>&nbsp;&nbsp;taxon_id:&nbsp;58319<br>&nbsp;&nbsp;common_name:&nbsp;rudd<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cypriniformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cyprinidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fScaEry2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA11296541<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;genome_size:&nbsp;1168710000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2024-05-01
 mito2filesize: 5.3 KiB

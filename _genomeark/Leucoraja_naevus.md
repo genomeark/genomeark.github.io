@@ -6,7 +6,7 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genbank_pri: sLeuNae2:GCA_965643135.1
+genbank_pri: sLeuNae1:GCA_982340875.1 sLeuNae1:GCA_982340895.1 sLeuNae2:GCA_965643135.1
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''

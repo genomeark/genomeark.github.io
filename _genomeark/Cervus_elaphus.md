@@ -66,8 +66,7 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genbank_alt: mCerEla1:GCA_910593805.1
-genbank_pri: mCerEla1:GCA_910594005.1
+genbank_pri: mCerEla1:GCA_910593805.2 mCerEla1:GCA_910594005.1 mCerEla1:GCA_910594005.2
 genome_size: 2886619877
 genome_size_display: 2.89 Gbp
 genome_size_method: ''

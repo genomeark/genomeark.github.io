@@ -1,13 +1,13 @@
 ---
 assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
-data_arima-2_bases: 400.62 Gbp
-data_arima-2_bytes: 214.8 GiB
+data_arima-2_bases: 828.04 Gbp
+data_arima-2_bytes: 413.3 GiB
 data_arima-2_coverage: N/A
 data_arima-2_links: s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/genomic_data/arima/<br>
 data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/genomic_data/arima/
 data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tamiasciurus_hudsonicus/mTamHud2/genomic_data/arima/
-data_arima-2_scale: 1.7370
+data_arima-2_scale: 1.8657
 data_arima-3_bases: 228.46 Gbp
 data_arima-3_bytes: 127.0 GiB
 data_arima-3_coverage: N/A
@@ -15,8 +15,8 @@ data_arima-3_links: s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud3/geno
 data_arima-3_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Tamiasciurus_hudsonicus/mTamHud3/genomic_data/arima/
 data_arima-3_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tamiasciurus_hudsonicus/mTamHud3/genomic_data/arima/
 data_arima-3_scale: 1.6751
-data_arima_bases: 629.07 Gbp
-data_arima_bytes: 341.8 GiB
+data_arima_bases: 1056.50 Gbp
+data_arima_bytes: 540.4 GiB
 data_arima_coverage: N/A
 data_pacbiohifi_bam-2_bases: 248.98 Gbp
 data_pacbiohifi_bam-2_bytes: 816.2 GiB
@@ -60,12 +60,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa2date: 2026-04-21
+hpa2date: 2026-05-04
 hpa2filesize: 1.5 GiB
 hpa2length: '5322006258'
 hpa2n50ctg: 50216281
 hpa2n50scf: 196065842
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/assembly_curated/mTamHud2.hap1.cur.20260421.fasta.gz
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/assembly_curated/mTamHud2.hap1.cur.20260504.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -118,12 +118,12 @@ hpa3sizes: |
   </tfoot>
   </table>
 hpa3version: assembly_curated
-hpb2date: 2026-04-21
+hpb2date: 2026-05-04
 hpb2filesize: 1.2 GiB
 hpb2length: '4803757860'
 hpb2n50ctg: 55546227
 hpb2n50scf: 201013407
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/assembly_curated/mTamHud2.hap2.cur.20260421.fasta.gz
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/assembly_curated/mTamHud2.hap2.cur.20260504.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -176,14 +176,14 @@ hpb3sizes: |
   </tfoot>
   </table>
 hpb3version: assembly_curated
-last_raw_data: 1769180411
-last_updated: 1777385854
+last_raw_data: 1779111461
+last_updated: 1779111461
 mds:
 - data: species:&nbsp;Tamiasciurus&nbsp;hudsonicus<br>specimem:&nbsp;mTamHud2<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/assembly_vgp_HiC_2.0/mTamHud2.HiC.hap1.20260323.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/assembly_vgp_HiC_2.0/mTamHud2.HiC.hap2.20260323.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/s2/mTamHud2_hap1_s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/s2/mTamHud2_hap2_s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/assembly_vgp_HiC_2.0/evaluation/merqury/mTamHud2_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud2/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.25.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy3)<br>&nbsp;&nbsp;-&nbsp;VGP0&nbsp;mitoHiFi&nbsp;workflow&nbsp;(v0.2.2)<br>&nbsp;&nbsp;-&nbsp;VGP1&nbsp;genomic&nbsp;profiling&nbsp;workflow&nbsp;(v0.6)<br>&nbsp;&nbsp;-&nbsp;VGP4&nbsp;HiFi&nbsp;HiC&nbsp;assembly&nbsp;workflow&nbsp;(v0.5)<br>&nbsp;&nbsp;-&nbsp;VGP8&nbsp;HiC&nbsp;scaffolding&nbsp;workflow&nbsp;(v3.4)&nbsp;with&nbsp;mapq=10.&nbsp;Note&nbsp;that&nbsp;the&nbsp;HiC&nbsp;duplicates&nbsp;were&nbsp;not&nbsp;removed&nbsp;because&nbsp;samtools&nbsp;markdup&nbsp;tool&nbsp;did&nbsp;not&nbsp;have&nbsp;the&nbsp;flag&nbsp;-r&nbsp;(even&nbsp;if&nbsp;the&nbsp;workflow&nbsp;says&nbsp;it’s&nbsp;removed).&nbsp;<br>&nbsp;&nbsp;-&nbsp;VGP9&nbsp;decontamination&nbsp;workflow&nbsp;(v1.3)&nbsp;<br>&nbsp;&nbsp;-&nbsp;Pre-curation&nbsp;worklfow&nbsp;(v2.2)&nbsp;with&nbsp;mapq=10,&nbsp;keep&nbsp;HiC&nbsp;duplicates&nbsp;and&nbsp;generate&nbsp;high-resolution&nbsp;map<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mTamHud2&nbsp;resulting&nbsp;in&nbsp;two&nbsp;haplotype&nbsp;assemblies.&nbsp;HiC&nbsp;data&nbsp;were&nbsp;generated&nbsp;using&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit,&nbsp;and&nbsp;require&nbsp;trimming&nbsp;the&nbsp;first&nbsp;5&nbsp;bp&nbsp;off&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;of&nbsp;both&nbsp;read&nbsp;files.&nbsp;The&nbsp;restriction&nbsp;enzymes&nbsp;used&nbsp;were&nbsp;the&nbsp;Arima&nbsp;v2&nbsp;kit,&nbsp;so&nbsp;the&nbsp;cutting&nbsp;sites&nbsp;are&nbsp;GATC,&nbsp;GANTC,&nbsp;CTNAG,&nbsp;TTAA.<br>
   ident: md6
   title: assembly_vgp_HiC_2.0/mTamHud2.yml
 - data: species:&nbsp;Tamiasciurus&nbsp;hudsonicus<br>specimem:&nbsp;mTamHud3<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud3/assembly_vgp_HiC_2.0/mTamHud3.HiC.hap1.20260325.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud3/assembly_vgp_HiC_2.0/mTamHud3.HiC.hap2.20260325.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud3/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/s2/mTamHud3_hap1_s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud3/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/s2/mTamHud3_hap2_s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud3/assembly_vgp_HiC_2.0/evaluation/merqury/mTamHud3_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud3/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Tamiasciurus_hudsonicus/mTamHud3/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.25.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy3)<br>&nbsp;&nbsp;-&nbsp;VGP0&nbsp;mitoHiFi&nbsp;workflow&nbsp;(v0.2.2)<br>&nbsp;&nbsp;-&nbsp;VGP1&nbsp;genomic&nbsp;profiling&nbsp;workflow&nbsp;(v0.6)<br>&nbsp;&nbsp;-&nbsp;VGP4&nbsp;HiFi&nbsp;HiC&nbsp;assembly&nbsp;workflow&nbsp;(v0.4)<br>&nbsp;&nbsp;-&nbsp;VGP8&nbsp;HiC&nbsp;scaffolding&nbsp;workflow&nbsp;(v3.4)&nbsp;with&nbsp;mapq=10.&nbsp;Note&nbsp;that&nbsp;the&nbsp;HiC&nbsp;duplicates&nbsp;were&nbsp;not&nbsp;removed&nbsp;because&nbsp;samtools&nbsp;markdup&nbsp;tool&nbsp;did&nbsp;not&nbsp;have&nbsp;the&nbsp;flag&nbsp;-r&nbsp;(even&nbsp;if&nbsp;the&nbsp;workflow&nbsp;says&nbsp;it’s&nbsp;removed).&nbsp;<br>&nbsp;&nbsp;-&nbsp;VGP9&nbsp;decontamination&nbsp;workflow&nbsp;(v1.3)&nbsp;<br>&nbsp;&nbsp;-&nbsp;Pre-curation&nbsp;worklfow&nbsp;(v2.2)&nbsp;with&nbsp;mapq=10,&nbsp;keep&nbsp;HiC&nbsp;duplicates&nbsp;and&nbsp;generate&nbsp;high-resolution&nbsp;map<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;mTamHud3&nbsp;resulting&nbsp;in&nbsp;two&nbsp;haplotype&nbsp;assemblies.&nbsp;HiC&nbsp;data&nbsp;were&nbsp;generated&nbsp;using&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit,&nbsp;and&nbsp;require&nbsp;trimming&nbsp;the&nbsp;first&nbsp;5&nbsp;bp&nbsp;off&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;of&nbsp;both&nbsp;read&nbsp;files.&nbsp;The&nbsp;restriction&nbsp;enzymes&nbsp;used&nbsp;were&nbsp;the&nbsp;Arima&nbsp;v2&nbsp;kit,&nbsp;so&nbsp;the&nbsp;cutting&nbsp;sites&nbsp;are&nbsp;GATC,&nbsp;GANTC,&nbsp;CTNAG,&nbsp;TTAA.<br>
-  ident: md21
+  ident: md25
   title: assembly_vgp_HiC_2.0/mTamHud3.yml
 mito2date: 2026-03-23
 mito2filesize: 5.3 KiB

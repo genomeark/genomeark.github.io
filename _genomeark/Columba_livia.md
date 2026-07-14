@@ -89,8 +89,66 @@ genbank_mat: bColLiv1:GCA_036010775.2
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
+hpa6date: 2025-10-31
+hpa6filesize: 317.4 MiB
+hpa6length: '1266566361'
+hpa6n50ctg: 20983659
+hpa6n50scf: 79387282
+hpa6seq: https://s3.amazonaws.com/genomeark/species/Columba_livia/bColLiv6/assembly_curated/bColLiv6.hap1.cur.20251031.fasta.gz
+hpa6sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 43.43 Mbp </td><td> 1 </td><td> 214.40 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 40.14 Mbp </td><td> 2 </td><td> 163.30 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 34.30 Mbp </td><td> 3 </td><td> 121.95 Mbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 29.47 Mbp </td><td> 4 </td><td> 85.43 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 19 </td><td style="background-color:#88ff88;"> 20.98 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 79.39 Mbp </td></tr><tr><td> 60 </td><td> 26 </td><td> 18.40 Mbp </td><td> 7 </td><td> 47.27 Mbp </td></tr><tr><td> 70 </td><td> 34 </td><td> 11.62 Mbp </td><td> 10 </td><td> 34.47 Mbp </td></tr><tr><td> 80 </td><td> 49 </td><td> 6.34 Mbp </td><td> 15 </td><td> 22.35 Mbp </td></tr><tr><td> 90 </td><td> 82 </td><td> 2.26 Mbp </td><td> 24 </td><td> 8.26 Mbp </td></tr><tr><td> 100 </td><td> 639 </td><td> 8.38 Kbp </td><td> 476 </td><td> 8.38 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 639 </th><th> 1.27 Gbp </th><th> 476 </th><th> 1.27 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa6version: assembly_curated
+hpb6date: 2025-10-31
+hpb6filesize: 307.0 MiB
+hpb6length: '1337296273'
+hpb6n50ctg: 21543947
+hpb6n50scf: 47130965
+hpb6seq: https://s3.amazonaws.com/genomeark/species/Columba_livia/bColLiv6/assembly_curated/bColLiv6.hap2.cur.20251031.fasta.gz
+hpb6sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 77.80 Mbp </td><td> 1 </td><td> 214.39 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 47.13 Mbp </td><td> 2 </td><td> 163.64 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 38.86 Mbp </td><td> 3 </td><td> 122.49 Mbp </td></tr><tr><td> 40 </td><td> 11 </td><td> 31.36 Mbp </td><td> 4 </td><td> 79.34 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 17 </td><td style="background-color:#88ff88;"> 21.54 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 47.13 Mbp </td></tr><tr><td> 60 </td><td> 23 </td><td> 17.49 Mbp </td><td> 9 </td><td> 35.34 Mbp </td></tr><tr><td> 70 </td><td> 34 </td><td> 10.24 Mbp </td><td> 14 </td><td> 19.97 Mbp </td></tr><tr><td> 80 </td><td> 59 </td><td> 1.75 Mbp </td><td> 28 </td><td> 3.98 Mbp </td></tr><tr><td> 90 </td><td> 276 </td><td> 300.15 Kbp </td><td> 209 </td><td> 332.64 Kbp </td></tr><tr><td> 100 </td><td> 1642 </td><td> 8.08 Kbp </td><td> 1495 </td><td> 8.08 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1642 </th><th> 1.34 Gbp </th><th> 1495 </th><th> 1.34 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb6version: assembly_curated
 last_raw_data: 1753116541
-last_updated: 1753116541
+last_updated: 1782929798
 mat1date: 2024-02-06
 mat1filesize: 290.9 MiB
 mat1length: '1181506259'
@@ -185,6 +243,35 @@ mito1sizes: |
   </tfoot>
   </table>
 mito1version: assembly_MT_rockefeller
+mito6date: 2026-10-31
+mito6filesize: 5.5 KiB
+mito6length: '17336'
+mito6n50ctg: 17336
+mito6n50scf: 17336
+mito6seq: https://s3.amazonaws.com/genomeark/species/Columba_livia/bColLiv6/assembly_MT_rockefeller/bColLiv6.MT.20261031.fasta.gz
+mito6sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 17.34 Kbp </td><td> 1 </td><td> 17.34 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 17.34 Kbp </td><td> 1 </td><td> 17.34 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 17.34 Kbp </td><td> 1 </td><td> 17.34 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 17.34 Kbp </td><td> 1 </td><td> 17.34 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 17.34 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 17.34 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 17.34 Kbp </td><td> 1 </td><td> 17.34 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 17.34 Kbp </td><td> 1 </td><td> 17.34 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 17.34 Kbp </td><td> 1 </td><td> 17.34 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 17.34 Kbp </td><td> 1 </td><td> 17.34 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 17.34 Kbp </td><td> 1 </td><td> 17.34 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 17.34 Kbp </th><th> 1 </th><th> 17.34 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito6version: assembly_MT_rockefeller
 name: Columba livia
 name_: Columba_livia
 project: ~

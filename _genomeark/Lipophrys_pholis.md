@@ -1,10 +1,10 @@
 ---
-alt2date: 2023-08-22
+alt2date: 2026-06-26
 alt2filesize: 209.8 MiB
 alt2length: '738669690'
 alt2n50ctg: '453920'
 alt2n50scf: '454010'
-alt2seq: https://s3.amazonaws.com/genomeark/species/Lipophrys_pholis/fLipPho2/assembly_curated/fLipPho2.alt.cur.20230822.fasta.gz
+alt2seq: https://s3.amazonaws.com/genomeark/species/Lipophrys_pholis/fLipPho2/assembly_curated/fLipPho2.alt.cur.20260626.fasta.gz
 alt2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -32,34 +32,34 @@ assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: shanny
 data_10x-2_bases: 68.48 Gbp
 data_10x-2_bytes: 38.9 GiB
-data_10x-2_coverage: 89.14x
+data_10x-2_coverage: 90.73x
 data_10x-2_links: s3://genomeark/species/Lipophrys_pholis/fLipPho2/genomic_data/10x/<br>
 data_10x-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lipophrys_pholis/fLipPho2/genomic_data/10x/
 data_10x-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lipophrys_pholis/fLipPho2/genomic_data/10x/
 data_10x-2_scale: 1.6403
 data_10x_bases: 68.48 Gbp
 data_10x_bytes: 38.9 GiB
-data_10x_coverage: 89.14x
+data_10x_coverage: 90.73x
 data_arima-2_bases: 129.28 Gbp
 data_arima-2_bytes: 77.0 GiB
-data_arima-2_coverage: 168.28x
+data_arima-2_coverage: 171.28x
 data_arima-2_links: s3://genomeark/species/Lipophrys_pholis/fLipPho2/genomic_data/arima/<br>
 data_arima-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lipophrys_pholis/fLipPho2/genomic_data/arima/
 data_arima-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lipophrys_pholis/fLipPho2/genomic_data/arima/
 data_arima-2_scale: 1.5645
 data_arima_bases: 129.28 Gbp
 data_arima_bytes: 77.0 GiB
-data_arima_coverage: 168.28x
+data_arima_coverage: 171.28x
 data_pacbiohifi_bam-2_bases: 30.17 Gbp
 data_pacbiohifi_bam-2_bytes: 20.2 GiB
-data_pacbiohifi_bam-2_coverage: 39.27x
+data_pacbiohifi_bam-2_coverage: 39.98x
 data_pacbiohifi_bam-2_links: s3://genomeark/species/Lipophrys_pholis/fLipPho2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Lipophrys_pholis/fLipPho2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lipophrys_pholis/fLipPho2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_scale: 1.3886
 data_pacbiohifi_bam_bases: 30.17 Gbp
 data_pacbiohifi_bam_bytes: 20.2 GiB
-data_pacbiohifi_bam_coverage: 39.27x
+data_pacbiohifi_bam_coverage: 39.98x
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">10x</em>
   ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
@@ -68,11 +68,11 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: fLipPho2:GCA_963383635.1
 genbank_pri: fLipPho2:GCA_963383615.1
-genome_size: 768243328
-genome_size_display: 0.77 Gbp
+genome_size: 754776895
+genome_size_display: 0.75 Gbp
 genome_size_method: ''
 last_raw_data: 1691521867
-last_updated: 1737550568
+last_updated: 1782432092
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fLipPho<br>&nbsp;&nbsp;name:&nbsp;Lipophrys&nbsp;pholis<br>&nbsp;&nbsp;taxon_id:&nbsp;56720<br>&nbsp;&nbsp;common_name:&nbsp;shanny<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Blenniiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Blenniidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fLipPho2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA7522844<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito2date: 2023-08-04
 mito2filesize: 5.4 KiB
@@ -105,12 +105,12 @@ mito2sizes: |
 mito2version: assembly_MT_cambridge
 name: Lipophrys pholis
 name_: Lipophrys_pholis
-pri2date: 2023-08-22
-pri2filesize: 217.0 MiB
-pri2length: '768243328'
-pri2n50ctg: 3299550
+pri2date: 2026-06-26
+pri2filesize: 213.2 MiB
+pri2length: '754776895'
+pri2n50ctg: 3355236
 pri2n50scf: 31905247
-pri2seq: https://s3.amazonaws.com/genomeark/species/Lipophrys_pholis/fLipPho2/assembly_curated/fLipPho2.pri.cur.20230822.fasta.gz
+pri2seq: https://s3.amazonaws.com/genomeark/species/Lipophrys_pholis/fLipPho2/assembly_curated/fLipPho2.pri.cur.20260626.fasta.gz
 pri2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -128,9 +128,9 @@ pri2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 7 </td><td> 8.13 Mbp </td><td> 2 </td><td> 40.26 Mbp </td></tr><tr><td> 20 </td><td> 17 </td><td> 6.36 Mbp </td><td> 4 </td><td> 35.92 Mbp </td></tr><tr><td> 30 </td><td> 31 </td><td> 5.17 Mbp </td><td> 6 </td><td> 34.65 Mbp </td></tr><tr><td> 40 </td><td> 47 </td><td> 4.26 Mbp </td><td> 9 </td><td> 32.54 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 68 </td><td style="background-color:#88ff88;"> 3.30 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 31.91 Mbp </td></tr><tr><td> 60 </td><td> 94 </td><td> 2.65 Mbp </td><td> 13 </td><td> 29.81 Mbp </td></tr><tr><td> 70 </td><td> 130 </td><td> 1.79 Mbp </td><td> 16 </td><td> 29.03 Mbp </td></tr><tr><td> 80 </td><td> 188 </td><td> 1.03 Mbp </td><td> 19 </td><td> 26.54 Mbp </td></tr><tr><td> 90 </td><td> 320 </td><td> 346.51 Kbp </td><td> 22 </td><td> 21.38 Mbp </td></tr><tr><td> 100 </td><td> 1445 </td><td> 1.00 Kbp </td><td> 847 </td><td> 1.00 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 7 </td><td> 8.13 Mbp </td><td> 2 </td><td> 40.26 Mbp </td></tr><tr><td> 20 </td><td> 17 </td><td> 6.36 Mbp </td><td> 4 </td><td> 35.92 Mbp </td></tr><tr><td> 30 </td><td> 30 </td><td> 5.24 Mbp </td><td> 6 </td><td> 34.65 Mbp </td></tr><tr><td> 40 </td><td> 46 </td><td> 4.28 Mbp </td><td> 8 </td><td> 33.48 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 66 </td><td style="background-color:#88ff88;"> 3.36 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 31.91 Mbp </td></tr><tr><td> 60 </td><td> 91 </td><td> 2.70 Mbp </td><td> 13 </td><td> 29.81 Mbp </td></tr><tr><td> 70 </td><td> 125 </td><td> 1.84 Mbp </td><td> 16 </td><td> 29.03 Mbp </td></tr><tr><td> 80 </td><td> 178 </td><td> 1.13 Mbp </td><td> 18 </td><td> 27.00 Mbp </td></tr><tr><td> 90 </td><td> 288 </td><td> 419.54 Kbp </td><td> 21 </td><td> 25.21 Mbp </td></tr><tr><td> 100 </td><td> 1144 </td><td> 1.00 Kbp </td><td> 546 </td><td> 1.00 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1445 </th><th> 0.77 Gbp </th><th> 847 </th><th> 0.77 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 1144 </th><th> 0.75 Gbp </th><th> 546 </th><th> 0.75 Gbp </th></tr>
   </tfoot>
   </table>
 pri2version: assembly_curated

@@ -80,11 +80,72 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 724000000
 genome_size_display: 0.72 Gbp
 genome_size_method: GoAT
+hpa1date: 2026-05-18
+hpa1filesize: 130.0 MiB
+hpa1length: '566104210'
+hpa1n50ctg: 183853
+hpa1n50scf: 4008636
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_HiC_2.0/fHypTra1.HiC.hap1.20260518.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 25 </td><td> 1.98 Mbp </td><td> 4 </td><td> 16.01 Mbp </td></tr><tr><td> 20 </td><td> 76 </td><td> 1.03 Mbp </td><td> 8 </td><td> 14.58 Mbp </td></tr><tr><td> 30 </td><td> 176 </td><td> 0.55 Mbp </td><td> 14 </td><td> 12.00 Mbp </td></tr><tr><td> 40 </td><td> 347 </td><td> 332.28 Kbp </td><td> 21 </td><td> 7.35 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 645 </td><td style="background-color:#ff8888;"> 183.85 Kbp </td><td> 34 </td><td style="background-color:#ff8888;"> 4.01 Mbp </td></tr><tr><td> 60 </td><td> 1168 </td><td> 104.49 Kbp </td><td> 61 </td><td> 1.70 Mbp </td></tr><tr><td> 70 </td><td> 2175 </td><td> 48.93 Kbp </td><td> 275 </td><td> 121.25 Kbp </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.781x </th><th> 4202 </th><th> 0.57 Gbp </th><th> 1883 </th><th> 0.57 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_vgp_HiC_2.0
+hpb1date: 2026-05-18
+hpb1filesize: 116.8 MiB
+hpb1length: '485309989'
+hpb1n50ctg: 120802
+hpb1n50scf: 1670030
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_HiC_2.0/fHypTra1.HiC.hap2.20260518.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 25 </td><td> 2.02 Mbp </td><td> 5 </td><td> 14.44 Mbp </td></tr><tr><td> 20 </td><td> 87 </td><td> 0.80 Mbp </td><td> 11 </td><td> 11.64 Mbp </td></tr><tr><td> 30 </td><td> 215 </td><td> 414.15 Kbp </td><td> 18 </td><td> 9.59 Mbp </td></tr><tr><td> 40 </td><td> 456 </td><td> 227.63 Kbp </td><td> 28 </td><td> 6.36 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 902 </td><td style="background-color:#ff8888;"> 120.80 Kbp </td><td> 48 </td><td style="background-color:#ff8888;"> 1.67 Mbp </td></tr><tr><td> 60 </td><td> 1799 </td><td> 54.04 Kbp </td><td> 201 </td><td> 163.15 Kbp </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.670x </th><th> 3386 </th><th> 484.90 Mbp </th><th> 1324 </th><th> 485.31 Mbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_vgp_HiC_2.0
 last_raw_data: 1775501064
-last_updated: 1775501064
+last_updated: 1779133267
 mds:
-- data: species:&nbsp;Hypomesus&nbsp;transpacificus<br>specimen:&nbsp;fHypTra1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_standard_2.0/fHypTra1.standard.pri.20240515.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_standard_2.0/fHypTra1.standard.alt.20240515.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_standard_2.0/evaluation/pri/pretext/fHypTra1_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_standard_2.0/evaluation/merqury/fHypTra1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.6+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;fHypTra1.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2,&nbsp;and&nbsp;the&nbsp;library&nbsp;prep&nbsp;kit&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;HiFi&nbsp;k-mers&nbsp;were&nbsp;not&nbsp;informative&nbsp;for&nbsp;merqury,&nbsp;so&nbsp;illumina&nbsp;k-mers&nbsp;were&nbsp;used.&nbsp;
+- data: species:&nbsp;Hypomesus&nbsp;transpacificus<br>specimen:&nbsp;fHypTra1<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_HiC_2.0/fHypTra1.HiC.hap1.20260518.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_HiC_2.0/fHypTra1.HiC.hap2.20260518.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/s2/fHypTra1_hap1_s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/s2/fHypTra1_hap2_s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_HiC_2.0/evaluation/merqury/fHypTra1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.25.0+galaxy3)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy3)<br>&nbsp;&nbsp;-&nbsp;VGP1&nbsp;genomic&nbsp;profiling&nbsp;workflow&nbsp;(v20260331)<br>&nbsp;&nbsp;-&nbsp;VGP4&nbsp;HiFi&nbsp;HiC&nbsp;assembly&nbsp;workflow&nbsp;(v0.6)<br>&nbsp;&nbsp;-&nbsp;VGP8&nbsp;HiC&nbsp;scaffolding&nbsp;workflow&nbsp;(v3.5)&nbsp;with&nbsp;mapq=10<br>&nbsp;&nbsp;-&nbsp;VGP9&nbsp;decontamination&nbsp;workflow&nbsp;(v1.3)<br>&nbsp;&nbsp;-&nbsp;VGP6&nbsp;purge-dup&nbsp;(v20260512)<br>&nbsp;&nbsp;-&nbsp;Pre-curation&nbsp;workflow&nbsp;(v2.4)&nbsp;with&nbsp;mapq=10,&nbsp;keep&nbsp;HiC&nbsp;duplicates&nbsp;and&nbsp;generate&nbsp;default&nbsp;resolution&nbsp;map<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;fHypTra1&nbsp;resulting&nbsp;in&nbsp;two&nbsp;haplotype&nbsp;assemblies.&nbsp;HiC&nbsp;data&nbsp;were&nbsp;generated&nbsp;using&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit,&nbsp;and&nbsp;require&nbsp;trimming&nbsp;the&nbsp;first&nbsp;5&nbsp;bp&nbsp;off&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;of&nbsp;both&nbsp;read&nbsp;files.&nbsp;The&nbsp;restriction&nbsp;enzymes&nbsp;used&nbsp;were&nbsp;the&nbsp;Arima&nbsp;v2&nbsp;kit,&nbsp;so&nbsp;the&nbsp;cutting&nbsp;sites&nbsp;are&nbsp;GATC,&nbsp;GANTC,&nbsp;CTNAG,&nbsp;TTAA.<br>
   ident: md4
+  title: assembly_vgp_HiC_2.0/fHypTra1.yml
+- data: species:&nbsp;Hypomesus&nbsp;transpacificus<br>specimen:&nbsp;fHypTra1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_standard_2.0/fHypTra1.standard.pri.20240515.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_standard_2.0/fHypTra1.standard.alt.20240515.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_standard_2.0/evaluation/pri/pretext/fHypTra1_pri__s2.heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/assembly_vgp_standard_2.0/evaluation/merqury/fHypTra1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Hypomesus_transpacificus/fHypTra1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.18.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.6+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;primary/alternate&nbsp;assembly&nbsp;of&nbsp;fHypTra1.&nbsp;This&nbsp;individual&nbsp;did&nbsp;not&nbsp;have&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2,&nbsp;and&nbsp;the&nbsp;library&nbsp;prep&nbsp;kit&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;HiFi&nbsp;k-mers&nbsp;were&nbsp;not&nbsp;informative&nbsp;for&nbsp;merqury,&nbsp;so&nbsp;illumina&nbsp;k-mers&nbsp;were&nbsp;used.&nbsp;
+  ident: md7
   title: assembly_vgp_standard_2.0/fHypTra1.yaml
 metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Hypomesus&nbsp;transpacificus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fHypTra1<br>&nbsp;&nbsp;short_name:&nbsp;fHypTra<br>&nbsp;&nbsp;taxon_id:&nbsp;137520<br>&nbsp;&nbsp;common_name:&nbsp;delta&nbsp;smelt<br>&nbsp;&nbsp;genome_size:&nbsp;724000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoAT<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Osmeriformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Osmeridae<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 name: Hypomesus transpacificus

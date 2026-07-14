@@ -99,8 +99,37 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1712258478
-last_updated: 1770735516
+last_updated: 1779980474
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMyoDau<br>&nbsp;&nbsp;name:&nbsp;Myotis&nbsp;pilosatibialis<br>&nbsp;&nbsp;taxon_id:&nbsp;2940081<br>&nbsp;&nbsp;common_name:&nbsp;hairy-legged&nbsp;myotis<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vespertilionidae<br>&nbsp;&nbsp;genome_size:&nbsp;2210280000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]
+mito1date: 2026-05-28
+mito1filesize: 5.4 KiB
+mito1length: '17212'
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Myotis_pilosatibialis/mMyoPil1/assembly_MT_rockefeller/mMyoPil1.MT.20260528.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 17.21 Kbp </th><th> 1 </th><th> 17.21 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Myotis pilosatibialis
 name_: Myotis_pilosatibialis
 project:

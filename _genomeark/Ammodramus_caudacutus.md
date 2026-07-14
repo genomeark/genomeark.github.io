@@ -90,8 +90,8 @@ genbank_pri: bAmmCau1:GCA_027887145.1
 genome_size: 1306000000
 genome_size_display: 1.31 Gbp
 genome_size_method: GoAT
-last_raw_data: 1651595293
-last_updated: 1651595293
+last_raw_data: 1778187716
+last_updated: 1778187716
 mds:
 - data: species:&nbsp;Ammodramus&nbsp;caudacutus<br>specimen:&nbsp;bAmmCau1<br>projects:<br>&nbsp;-&nbsp;vgp<br>primary:&nbsp;s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/bAmmCau1.pri.asm.20220223.fasta.gz<br>haplotigs:&nbsp;s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/bAmmCau1.alt.asm.20220223.fasta.gz<br>hic_bam:&nbsp;s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bAmmCau1_s2.bam<br>pretext:&nbsp;s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/evaluation/pretext/s2/bAmmCau1_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Ammodramus_caudacutus/bAmmCau1/assembly_vgp_standard_2.0/evaluation/merqury/p/bAmmCau1_png/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.15.4+galaxy0)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.5+galaxy3)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.6.1+galaxy2)<br>&nbsp;&nbsp;-&nbsp;salsa&nbsp;(2.3+galaxy2)
   ident: md4

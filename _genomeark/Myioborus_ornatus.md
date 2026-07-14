@@ -57,12 +57,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
-hpa2date: 2026-04-22
+hpa2date: 2026-05-14
 hpa2filesize: 354.7 MiB
-hpa2length: '1313713139'
+hpa2length: '1313472022'
 hpa2n50ctg: 32393182
 hpa2n50scf: 73508879
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Myioborus_ornatus/bMyiOra2/assembly_curated/bMyiOra2.hap1.cur.20260422.fasta.gz
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Myioborus_ornatus/bMyiOra2/assembly_curated/bMyiOra2.hap1.cur.20260514.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -80,18 +80,18 @@ hpa2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 108.82 Mbp </td><td> 1 </td><td> 158.92 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 85.85 Mbp </td><td> 2 </td><td> 130.61 Mbp </td></tr><tr><td> 30 </td><td> 4 </td><td> 78.30 Mbp </td><td> 3 </td><td> 120.65 Mbp </td></tr><tr><td> 40 </td><td> 6 </td><td> 72.53 Mbp </td><td> 5 </td><td> 80.84 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 32.39 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 73.51 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 28.18 Mbp </td><td> 9 </td><td> 43.26 Mbp </td></tr><tr><td> 70 </td><td> 19 </td><td> 22.92 Mbp </td><td> 13 </td><td> 27.13 Mbp </td></tr><tr><td> 80 </td><td> 26 </td><td> 13.70 Mbp </td><td> 18 </td><td> 19.86 Mbp </td></tr><tr><td> 90 </td><td> 39 </td><td> 7.34 Mbp </td><td> 26 </td><td> 11.86 Mbp </td></tr><tr><td> 100 </td><td> 207 </td><td> 13.47 Kbp </td><td> 96 </td><td> 13.47 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 108.82 Mbp </td><td> 1 </td><td> 158.92 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 85.85 Mbp </td><td> 2 </td><td> 130.61 Mbp </td></tr><tr><td> 30 </td><td> 4 </td><td> 78.30 Mbp </td><td> 3 </td><td> 120.65 Mbp </td></tr><tr><td> 40 </td><td> 6 </td><td> 72.53 Mbp </td><td> 5 </td><td> 80.84 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 32.39 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 73.51 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 28.18 Mbp </td><td> 9 </td><td> 43.26 Mbp </td></tr><tr><td> 70 </td><td> 19 </td><td> 22.92 Mbp </td><td> 13 </td><td> 27.13 Mbp </td></tr><tr><td> 80 </td><td> 26 </td><td> 13.70 Mbp </td><td> 18 </td><td> 19.86 Mbp </td></tr><tr><td> 90 </td><td> 39 </td><td> 7.34 Mbp </td><td> 26 </td><td> 11.86 Mbp </td></tr><tr><td> 100 </td><td> 206 </td><td> 13.47 Kbp </td><td> 92 </td><td> 13.47 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 207 </th><th> 1.31 Gbp </th><th> 96 </th><th> 1.31 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 206 </th><th> 1.31 Gbp </th><th> 92 </th><th> 1.31 Gbp </th></tr>
   </tfoot>
   </table>
 hpa2version: assembly_curated
-hpb2date: 2026-04-22
+hpb2date: 2026-05-14
 hpb2filesize: 290.0 MiB
-hpb2length: '1194463398'
+hpb2length: '1194705315'
 hpb2n50ctg: 39834624
 hpb2n50scf: 74872145
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Myioborus_ornatus/bMyiOra2/assembly_curated/bMyiOra2.hap2.cur.20260422.fasta.gz
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Myioborus_ornatus/bMyiOra2/assembly_curated/bMyiOra2.hap2.cur.20260514.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -109,14 +109,14 @@ hpb2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 1 </td><td> 127.56 Mbp </td><td> 1 </td><td> 158.87 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 77.40 Mbp </td><td> 2 </td><td> 128.21 Mbp </td></tr><tr><td> 30 </td><td> 4 </td><td> 66.55 Mbp </td><td> 3 </td><td> 117.98 Mbp </td></tr><tr><td> 40 </td><td> 6 </td><td> 59.61 Mbp </td><td> 4 </td><td> 79.53 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 39.83 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 74.87 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 28.19 Mbp </td><td> 8 </td><td> 39.83 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 22.52 Mbp </td><td> 12 </td><td> 27.33 Mbp </td></tr><tr><td> 80 </td><td> 25 </td><td> 12.91 Mbp </td><td> 17 </td><td> 18.38 Mbp </td></tr><tr><td> 90 </td><td> 39 </td><td> 5.22 Mbp </td><td> 25 </td><td> 11.10 Mbp </td></tr><tr><td> 100 </td><td> 178 </td><td> 23.23 Kbp </td><td> 75 </td><td> 24.63 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 127.56 Mbp </td><td> 1 </td><td> 158.87 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 77.40 Mbp </td><td> 2 </td><td> 128.21 Mbp </td></tr><tr><td> 30 </td><td> 4 </td><td> 66.55 Mbp </td><td> 3 </td><td> 117.98 Mbp </td></tr><tr><td> 40 </td><td> 6 </td><td> 59.61 Mbp </td><td> 4 </td><td> 79.53 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 39.83 Mbp </td><td> 6 </td><td style="background-color:#88ff88;"> 74.87 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 28.19 Mbp </td><td> 8 </td><td> 39.83 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 22.52 Mbp </td><td> 12 </td><td> 27.33 Mbp </td></tr><tr><td> 80 </td><td> 25 </td><td> 12.91 Mbp </td><td> 17 </td><td> 18.38 Mbp </td></tr><tr><td> 90 </td><td> 39 </td><td> 5.22 Mbp </td><td> 25 </td><td> 11.10 Mbp </td></tr><tr><td> 100 </td><td> 179 </td><td> 23.23 Kbp </td><td> 71 </td><td> 24.63 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 178 </th><th> 1.19 Gbp </th><th> 75 </th><th> 1.19 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 179 </th><th> 1.19 Gbp </th><th> 71 </th><th> 1.19 Gbp </th></tr>
   </tfoot>
   </table>
 hpb2version: assembly_curated
 last_raw_data: 1750782505
-last_updated: 1777059896
+last_updated: 1778771232
 mds:
 - data: species:&nbsp;Myioborus&nbsp;ornatus<br>specimem:&nbsp;bMyiOra2<br>projects:<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Myioborus_ornatus/bMyiOra2/assembly_vgp_HiC_2.0/bMyiOra2.HiC.hap1.20250710.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Myioborus_ornatus/bMyiOra2/assembly_vgp_HiC_2.0/bMyiOra2.HiC.hap2.20250710.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Myioborus_ornatus/bMyiOra2/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/s2/bMyiOra2_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Myioborus_ornatus/bMyiOra2/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/s2/bMyiOra2_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Myioborus_ornatus/bMyiOra2/assembly_vgp_HiC_2.0/evaluation/merqury/bMyiOra2_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Myioborus_ornatus/bMyiOra2/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Myioborus_ornatus/bMyiOra2/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.25.0+galaxy0)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy2)<br>&nbsp;&nbsp;-&nbsp;VGP0&nbsp;mitoHiFi&nbsp;workflow&nbsp;(v0.2.1)<br>&nbsp;&nbsp;-&nbsp;VGP1&nbsp;genomic&nbsp;profiling&nbsp;workflow&nbsp;(v0.3)<br>&nbsp;&nbsp;-&nbsp;VGP4&nbsp;HiFi&nbsp;HiC&nbsp;assembly&nbsp;workflow&nbsp;(v0.3.8)<br>&nbsp;&nbsp;-&nbsp;VGP8&nbsp;HiC&nbsp;scaffolding&nbsp;workflow&nbsp;(v2.0)<br>&nbsp;&nbsp;-&nbsp;VGP9&nbsp;decontamination&nbsp;workflow&nbsp;(v0.7)&nbsp;with&nbsp;database&nbsp;PlusPF&nbsp;2022<br>&nbsp;&nbsp;-&nbsp;Pre-curation&nbsp;worklfow&nbsp;(v1.0beta6)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bMyiOra2&nbsp;resulting&nbsp;in&nbsp;two&nbsp;haplotype&nbsp;assemblies.&nbsp;HiC&nbsp;data&nbsp;were&nbsp;generated&nbsp;using&nbsp;the&nbsp;Arima&nbsp;library&nbsp;prep&nbsp;kit,&nbsp;and&nbsp;require&nbsp;trimming&nbsp;the&nbsp;first&nbsp;5&nbsp;bp&nbsp;off&nbsp;from&nbsp;the&nbsp;5'&nbsp;end&nbsp;of&nbsp;both&nbsp;read&nbsp;files.&nbsp;The&nbsp;restriction&nbsp;enzymes&nbsp;used&nbsp;were&nbsp;the&nbsp;Arima&nbsp;v2&nbsp;kit,&nbsp;so&nbsp;the&nbsp;cutting&nbsp;sites&nbsp;are&nbsp;GATC,&nbsp;GANTC,&nbsp;CTNAG,&nbsp;TTAA.<br>
   ident: md12

@@ -1,5 +1,63 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+alt1date: 2026-05-01
+alt1filesize: 801.3 MiB
+alt1length: '2837423153'
+alt1n50ctg: '113490601'
+alt1n50scf: '115006632'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Nomascus_leucogenys/mNomLeu1/assembly_curated/mNomLeu1.alt.cur.20260501.fasta.gz
+alt1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 173.89 Mbp </td><td> 2 </td><td> 173.89 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 157.12 Mbp </td><td> 4 </td><td> 166.16 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 132.23 Mbp </td><td> 6 </td><td> 133.36 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 120.17 Mbp </td><td> 8 </td><td> 125.53 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td> 113.49 Mbp </td><td> 11 </td><td> 115.01 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 111.88 Mbp </td><td> 14 </td><td> 112.25 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 96.10 Mbp </td><td> 17 </td><td> 104.35 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 87.76 Mbp </td><td> 20 </td><td> 89.08 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.878x </th><th> 40 </th><th> 2.84 Gbp </th><th> 37 </th><th> 2.84 Gbp </th></tr>
+  </tfoot>
+  </table>
+alt1version: assembly_curated
+alt2date: 2026-05-01
+alt2filesize: 760.6 MiB
+alt2length: '2938996852'
+alt2n50ctg: '114172133'
+alt2n50scf: '114172133'
+alt2seq: https://s3.amazonaws.com/genomeark/species/Nomascus_leucogenys/mNomLeu2/assembly_curated/mNomLeu2.alt.cur.20260501.fasta.gz
+alt2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 167.34 Mbp </td><td> 2 </td><td> 167.34 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 156.53 Mbp </td><td> 4 </td><td> 156.53 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 129.47 Mbp </td><td> 7 </td><td> 129.47 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 123.32 Mbp </td><td> 9 </td><td> 123.32 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td> 114.17 Mbp </td><td> 12 </td><td> 114.17 Mbp </td></tr><tr><td> 60 </td><td> 15 </td><td> 110.17 Mbp </td><td> 15 </td><td> 110.98 Mbp </td></tr><tr><td> 70 </td><td> 18 </td><td> 102.94 Mbp </td><td> 18 </td><td> 105.14 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 90.12 Mbp </td><td> 21 </td><td> 94.57 Mbp </td></tr><tr><td> 90 </td><td> 30 </td><td> 2.59 Mbp </td><td> 26 </td><td> 37.43 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.909x </th><th> 203 </th><th> 2.94 Gbp </th><th> 182 </th><th> 2.94 Gbp </th></tr>
+  </tfoot>
+  </table>
+alt2version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Northern White-Cheeked Gibbon
 data_arima-2_bases: 259.53 Gbp
 data_arima-2_bytes: 127.7 GiB
@@ -88,12 +146,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 3230000000
 genome_size_display: 3.23 Gbp
 genome_size_method: Genomes on a Tree (GoaT) estimate
-hpa1date: 2025-04-04
-hpa1filesize: 668.5 MiB
-hpa1length: '2856314802'
-hpa1n50ctg: 112724163
-hpa1n50scf: 115005715
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Nomascus_leucogenys/mNomLeu1/assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1/mNomLeu1.HiC.hap1.20250404.fasta.gz
+hpa1date: 2026-05-01
+hpa1filesize: 805.6 MiB
+hpa1length: '2852667111'
+hpa1n50ctg: 112253340
+hpa1n50scf: 113330666
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Nomascus_leucogenys/mNomLeu1/assembly_curated/mNomLeu1.hap1.cur.20260501.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -111,18 +169,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 169.26 Mbp </td><td> 2 </td><td> 169.26 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 162.17 Mbp </td><td> 4 </td><td> 162.17 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 123.66 Mbp </td><td> 7 </td><td> 132.01 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 118.55 Mbp </td><td> 9 </td><td> 122.62 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 112.72 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 115.01 Mbp </td></tr><tr><td> 60 </td><td> 15 </td><td> 102.45 Mbp </td><td> 15 </td><td> 111.88 Mbp </td></tr><tr><td> 70 </td><td> 19 </td><td> 88.70 Mbp </td><td> 18 </td><td> 102.45 Mbp </td></tr><tr><td> 80 </td><td> 23 </td><td> 53.54 Mbp </td><td> 21 </td><td> 88.70 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 166.16 Mbp </td><td> 2 </td><td> 169.31 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 157.12 Mbp </td><td> 4 </td><td> 162.24 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 125.53 Mbp </td><td> 7 </td><td> 127.84 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 121.00 Mbp </td><td> 9 </td><td> 124.66 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 112.25 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 113.33 Mbp </td></tr><tr><td> 60 </td><td> 15 </td><td> 106.48 Mbp </td><td> 15 </td><td> 111.88 Mbp </td></tr><tr><td> 70 </td><td> 18 </td><td> 94.82 Mbp </td><td> 18 </td><td> 102.45 Mbp </td></tr><tr><td> 80 </td><td> 22 </td><td> 87.76 Mbp </td><td> 21 </td><td> 89.53 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.884x </th><th> 46 </th><th> 2.86 Gbp </th><th> 41 </th><th> 2.86 Gbp </th></tr>
+  <tr><th> 0.883x </th><th> 40 </th><th> 2.85 Gbp </th><th> 37 </th><th> 2.85 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
-hpa2date: 2025-04-04
-hpa2filesize: 703.2 MiB
-hpa2length: '2993835979'
-hpa2n50ctg: 123967518
-hpa2n50scf: 123967518
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Nomascus_leucogenys/mNomLeu2/assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1/mNomLeu2.HiC.hap1.20250404.fasta.gz
+hpa1version: assembly_curated
+hpa2date: 2026-05-01
+hpa2filesize: 845.3 MiB
+hpa2length: '2988755637'
+hpa2n50ctg: 116744834
+hpa2n50scf: 116744834
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Nomascus_leucogenys/mNomLeu2/assembly_curated/mNomLeu2.hap1.cur.20260501.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -140,18 +198,18 @@ hpa2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 167.29 Mbp </td><td> 2 </td><td> 167.29 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 160.55 Mbp </td><td> 4 </td><td> 160.55 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 154.43 Mbp </td><td> 6 </td><td> 154.43 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 124.42 Mbp </td><td> 9 </td><td> 124.42 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 123.97 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 123.97 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 114.16 Mbp </td><td> 14 </td><td> 114.16 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 105.13 Mbp </td><td> 17 </td><td> 107.87 Mbp </td></tr><tr><td> 80 </td><td> 20 </td><td> 99.90 Mbp </td><td> 20 </td><td> 99.90 Mbp </td></tr><tr><td> 90 </td><td> 25 </td><td> 40.43 Mbp </td><td> 24 </td><td> 42.12 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 167.84 Mbp </td><td> 2 </td><td> 167.84 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 160.44 Mbp </td><td> 4 </td><td> 160.44 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 154.40 Mbp </td><td> 6 </td><td> 154.40 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 124.43 Mbp </td><td> 9 </td><td> 124.43 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 116.74 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 116.74 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 112.96 Mbp </td><td> 14 </td><td> 112.96 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 110.17 Mbp </td><td> 17 </td><td> 110.17 Mbp </td></tr><tr><td> 80 </td><td> 20 </td><td> 97.34 Mbp </td><td> 20 </td><td> 97.34 Mbp </td></tr><tr><td> 90 </td><td> 25 </td><td> 40.30 Mbp </td><td> 25 </td><td> 40.30 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.927x </th><th> 48 </th><th> 2.99 Gbp </th><th> 45 </th><th> 2.99 Gbp </th></tr>
+  <tr><th> 0.925x </th><th> 97 </th><th> 2.99 Gbp </th><th> 96 </th><th> 2.99 Gbp </th></tr>
   </tfoot>
   </table>
-hpa2version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
-hpb1date: 2025-04-04
-hpb1filesize: 704.8 MiB
-hpb1length: '2993700951'
-hpb1n50ctg: 113483313
-hpb1n50scf: 113483313
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Nomascus_leucogenys/mNomLeu1/assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1/mNomLeu1.HiC.hap2.20250404.fasta.gz
+hpa2version: assembly_curated
+hpb1date: 2026-05-01
+hpb1filesize: 844.3 MiB
+hpb1length: '2984367851'
+hpb1n50ctg: 120166082
+hpb1n50scf: 120166082
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Nomascus_leucogenys/mNomLeu1/assembly_curated/mNomLeu1.hap2.cur.20260501.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -169,18 +227,18 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 169.20 Mbp </td><td> 2 </td><td> 169.20 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 159.98 Mbp </td><td> 4 </td><td> 159.98 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 148.96 Mbp </td><td> 6 </td><td> 148.96 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 127.01 Mbp </td><td> 9 </td><td> 127.01 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 113.48 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 113.48 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 112.25 Mbp </td><td> 14 </td><td> 112.25 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 106.48 Mbp </td><td> 17 </td><td> 106.48 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 89.53 Mbp </td><td> 21 </td><td> 96.10 Mbp </td></tr><tr><td> 90 </td><td> 26 </td><td> 40.38 Mbp </td><td> 25 </td><td> 40.38 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 173.89 Mbp </td><td> 2 </td><td> 173.89 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 163.67 Mbp </td><td> 4 </td><td> 163.67 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 148.99 Mbp </td><td> 6 </td><td> 148.99 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 127.17 Mbp </td><td> 8 </td><td> 127.17 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 120.17 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 120.17 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 115.01 Mbp </td><td> 13 </td><td> 115.01 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 110.36 Mbp </td><td> 16 </td><td> 110.36 Mbp </td></tr><tr><td> 80 </td><td> 19 </td><td> 101.15 Mbp </td><td> 19 </td><td> 101.15 Mbp </td></tr><tr><td> 90 </td><td> 24 </td><td> 40.38 Mbp </td><td> 24 </td><td> 40.96 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.927x </th><th> 129 </th><th> 2.99 Gbp </th><th> 125 </th><th> 2.99 Gbp </th></tr>
+  <tr><th> 0.924x </th><th> 34 </th><th> 2.98 Gbp </th><th> 32 </th><th> 2.98 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
-hpb2date: 2025-04-04
-hpb2filesize: 662.2 MiB
-hpb2length: '2825117092'
-hpb2n50ctg: 112582190
-hpb2n50scf: 112641656
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Nomascus_leucogenys/mNomLeu2/assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1/mNomLeu2.HiC.hap2.20250404.fasta.gz
+hpb1version: assembly_curated
+hpb2date: 2026-05-01
+hpb2filesize: 831.5 MiB
+hpb2length: '2950077652'
+hpb2n50ctg: 114392663
+hpb2n50scf: 114392663
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Nomascus_leucogenys/mNomLeu2/assembly_curated/mNomLeu2.hap2.cur.20260501.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -198,17 +256,133 @@ hpb2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 167.84 Mbp </td><td> 2 </td><td> 167.84 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 156.53 Mbp </td><td> 4 </td><td> 156.53 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 127.44 Mbp </td><td> 7 </td><td> 127.44 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 123.31 Mbp </td><td> 9 </td><td> 123.31 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 112.58 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 112.64 Mbp </td></tr><tr><td> 60 </td><td> 15 </td><td> 106.11 Mbp </td><td> 15 </td><td> 110.14 Mbp </td></tr><tr><td> 70 </td><td> 18 </td><td> 97.35 Mbp </td><td> 18 </td><td> 102.57 Mbp </td></tr><tr><td> 80 </td><td> 22 </td><td> 59.70 Mbp </td><td> 21 </td><td> 90.08 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 167.34 Mbp </td><td> 2 </td><td> 167.34 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 160.56 Mbp </td><td> 4 </td><td> 160.56 Mbp </td></tr><tr><td> 30 </td><td> 7 </td><td> 130.29 Mbp </td><td> 7 </td><td> 130.29 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 123.32 Mbp </td><td> 9 </td><td> 123.32 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 114.39 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 114.39 Mbp </td></tr><tr><td> 60 </td><td> 15 </td><td> 108.49 Mbp </td><td> 15 </td><td> 110.98 Mbp </td></tr><tr><td> 70 </td><td> 18 </td><td> 103.96 Mbp </td><td> 18 </td><td> 106.11 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 90.12 Mbp </td><td> 21 </td><td> 94.57 Mbp </td></tr><tr><td> 90 </td><td> 26 </td><td> 39.10 Mbp </td><td> 26 </td><td> 40.47 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 0.875x </th><th> 50 </th><th> 2.83 Gbp </th><th> 47 </th><th> 2.83 Gbp </th></tr>
+  <tr><th> 0.913x </th><th> 141 </th><th> 2.95 Gbp </th><th> 119 </th><th> 2.95 Gbp </th></tr>
   </tfoot>
   </table>
-hpb2version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
+hpb2version: assembly_curated
 last_raw_data: 1758118188
-last_updated: 1758118188
+last_updated: 1782214849
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mNomLeu<br>&nbsp;&nbsp;name:&nbsp;Nomascus&nbsp;leucogenys<br>&nbsp;&nbsp;taxon_id:&nbsp;61853<br>&nbsp;&nbsp;common_name:&nbsp;Northern&nbsp;White-Cheeked&nbsp;Gibbon<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Nomascus<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mNomLeu1<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Vok<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;NLL600&nbsp;(ISIS#)<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;830031&nbsp;(Melbourne&nbsp;local&nbsp;ID)<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_date:&nbsp;29&nbsp;April&nbsp;1983<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_location:&nbsp;Melbourne&nbsp;Zoo,&nbsp;Melbourne,&nbsp;Australia<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_type:&nbsp;Captive&nbsp;born<br>&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vok&nbsp;is&nbsp;a&nbsp;male&nbsp;Northern&nbsp;White-Cheeked&nbsp;Gibbon&nbsp;born&nbsp;in&nbsp;the&nbsp;Melbourne&nbsp;Zoo,&nbsp;and<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;his&nbsp;genome&nbsp;is&nbsp;being&nbsp;sequenced&nbsp;as&nbsp;part&nbsp;of&nbsp;a&nbsp;T2T&nbsp;effort.&nbsp;We&nbsp;do&nbsp;not&nbsp;have&nbsp;the<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;information&nbsp;on&nbsp;Vok's&nbsp;parents,&nbsp;but&nbsp;we&nbsp;do&nbsp;know&nbsp;that&nbsp;he&nbsp;is&nbsp;the&nbsp;Sire&nbsp;of&nbsp;St.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paddy&nbsp;(male;&nbsp;ISIS#&nbsp;NLL696)&nbsp;and&nbsp;Parker&nbsp;(female;&nbsp;ISIS#&nbsp;NLL699).<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;mNomLeu1.lcl1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_type:&nbsp;cell&nbsp;culture<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;isolation_source:&nbsp;EBV-transformed&nbsp;lymphoblastoid&nbsp;cell&nbsp;line<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;age:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;collection_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mNomLeu2<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Asia<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_location:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_type:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asia&nbsp;is&nbsp;a&nbsp;female&nbsp;Northern&nbsp;White-Cheeked&nbsp;Gibbon&nbsp;and&nbsp;her&nbsp;genome&nbsp;is&nbsp;being<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sequenced&nbsp;as&nbsp;part&nbsp;of&nbsp;a&nbsp;T2T&nbsp;effort.<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_type:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;isolation_source:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;age:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;collection_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>&nbsp;&nbsp;genome_size:&nbsp;3230000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;Genomes&nbsp;on&nbsp;a&nbsp;Tree&nbsp;(GoaT)&nbsp;estimate<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>
+mito1date: 2026-05-01
+mito1filesize: 5.2 KiB
+mito1length: '16490'
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Nomascus_leucogenys/mNomLeu1/assembly_curated/mNomLeu1.MT.cur.20260501.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.49 Kbp </th><th> 1 </th><th> 16.49 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_curated
+mito2date: 2026-05-01
+mito2filesize: 5.3 KiB
+mito2length: '16478'
+mito2n50ctg: 0
+mito2n50scf: 0
+mito2seq: https://s3.amazonaws.com/genomeark/species/Nomascus_leucogenys/mNomLeu2/assembly_curated/mNomLeu2.MT.cur.20260501.fasta.gz
+mito2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.48 Kbp </th><th> 1 </th><th> 16.48 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito2version: assembly_curated
 name: Nomascus leucogenys
 name_: Nomascus_leucogenys
+pri1date: 2026-05-01
+pri1filesize: 848.6 MiB
+pri1length: '2999291573'
+pri1n50ctg: 118603081
+pri1n50scf: 118603081
+pri1seq: https://s3.amazonaws.com/genomeark/species/Nomascus_leucogenys/mNomLeu1/assembly_curated/mNomLeu1.pri.20260501.fasta.gz
+pri1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 169.26 Mbp </td><td> 2 </td><td> 169.26 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 162.24 Mbp </td><td> 4 </td><td> 162.24 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 148.99 Mbp </td><td> 6 </td><td> 148.99 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 127.01 Mbp </td><td> 9 </td><td> 127.01 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 12 </td><td style="background-color:#88ff88;"> 118.60 Mbp </td><td> 12 </td><td style="background-color:#88ff88;"> 118.60 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 112.70 Mbp </td><td> 14 </td><td> 112.70 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 106.48 Mbp </td><td> 17 </td><td> 106.48 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 93.16 Mbp </td><td> 21 </td><td> 93.16 Mbp </td></tr><tr><td> 90 </td><td> 25 </td><td> 39.94 Mbp </td><td> 25 </td><td> 40.41 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.929x </th><th> 31 </th><th> 3.00 Gbp </th><th> 29 </th><th> 3.00 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri1version: assembly_curated
+pri2date: 2026-05-01
+pri2filesize: 775.5 MiB
+pri2length: '2998675302'
+pri2n50ctg: 123974727
+pri2n50scf: 123974727
+pri2seq: https://s3.amazonaws.com/genomeark/species/Nomascus_leucogenys/mNomLeu2/assembly_curated/mNomLeu2.pri.20260501.fasta.gz
+pri2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 167.84 Mbp </td><td> 2 </td><td> 167.84 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 162.72 Mbp </td><td> 4 </td><td> 162.72 Mbp </td></tr><tr><td> 30 </td><td> 6 </td><td> 154.40 Mbp </td><td> 6 </td><td> 154.40 Mbp </td></tr><tr><td> 40 </td><td> 9 </td><td> 124.97 Mbp </td><td> 9 </td><td> 124.97 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 11 </td><td style="background-color:#88ff88;"> 123.97 Mbp </td><td> 11 </td><td style="background-color:#88ff88;"> 123.97 Mbp </td></tr><tr><td> 60 </td><td> 14 </td><td> 112.96 Mbp </td><td> 14 </td><td> 112.96 Mbp </td></tr><tr><td> 70 </td><td> 17 </td><td> 107.87 Mbp </td><td> 17 </td><td> 107.87 Mbp </td></tr><tr><td> 80 </td><td> 20 </td><td> 97.34 Mbp </td><td> 20 </td><td> 97.34 Mbp </td></tr><tr><td> 90 </td><td> 24 </td><td> 41.85 Mbp </td><td> 24 </td><td> 41.85 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.928x </th><th> 31 </th><th> 3.00 Gbp </th><th> 29 </th><th> 3.00 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri2version: assembly_curated
 project:
 - t2t
 short_name: mNomLeu

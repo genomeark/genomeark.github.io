@@ -40,12 +40,41 @@ genome_size: 2591700000
 genome_size_display: 2.59 Gbp
 genome_size_method: GoaT
 last_raw_data: 1741214450
-last_updated: 1773949943
+last_updated: 1779980474
 mds:
 - data: species:&nbsp;Pteronotus&nbsp;mesoamericanus<br>specimen:&nbsp;mPteMes1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>&nbsp;&nbsp;-&nbsp;bat1k<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>primary:&nbsp;s3://genomeark/species/Pteronotus_mesoamericanus/mPteMes1/assembly_vgp_HiC_2.0/mPteMes1.HiC.pri.20260227.fasta.gz<br>pretext:&nbsp;s3://genomeark/species/Pteronotus_mesoamericanus/mPteMes1/assembly_vgp_HiC_2.0/evaluation/pri/pretext/s2/mPteMes1_pri__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Pteronotus_mesoamericanus/mPteMes1/assembly_vgp_HiC_2.0/evaluation/merqury/p/mPteMes1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Pteronotus_mesoamericanus/mPteMes1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Pteronotus_mesoamericanus/mPteMes1/genomic_data/arima/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>&nbsp;&nbsp;-&nbsp;purge_dups&nbsp;(1.2.6+galaxy0)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm&nbsp;assembly&nbsp;of&nbsp;mPteMes1.&nbsp;Only&nbsp;the&nbsp;primary&nbsp;haplotype&nbsp;was&nbsp;assembled&nbsp;due&nbsp;to&nbsp;a&nbsp;sparse&nbsp;Hi-C&nbsp;map.
-  ident: md3
+  ident: md5
   title: assembly_vgp_HiC_2.0/mPteMes1.yml
 metadata: species:<br>&nbsp;&nbsp;name:&nbsp;Pteronotus&nbsp;mesoamericanus<br>&nbsp;&nbsp;short_name:&nbsp;mPteMes<br>&nbsp;&nbsp;taxon_id:&nbsp;1884717<br>&nbsp;&nbsp;common_name:&nbsp;Mesoamerican&nbsp;mustached&nbsp;bat<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Chiroptera<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Mormoopidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-&nbsp;''<br>&nbsp;&nbsp;genome_size:&nbsp;2591700000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;,&nbsp;bat1k&nbsp;]
+mito1date: 2026-05-28
+mito1filesize: 5.3 KiB
+mito1length: '16754'
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Pteronotus_mesoamericanus/mPteMes1/assembly_MT_rockefeller/mPteMes1.MT.20260528.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.75 Kbp </th><th> 1 </th><th> 16.75 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Pteronotus mesoamericanus
 name_: Pteronotus_mesoamericanus
 pri1date: 2026-03-17

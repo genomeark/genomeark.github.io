@@ -1,10 +1,10 @@
 ---
-alt8date: 2023-08-16
+alt8date: 2026-06-23
 alt8filesize: 225.1 MiB
 alt8length: '809816570'
 alt8n50ctg: '331067'
 alt8n50scf: '331067'
-alt8seq: https://s3.amazonaws.com/genomeark/species/Zeus_faber/fZeuFab8/assembly_curated/fZeuFab8.alt.cur.20230816.fasta.gz
+alt8seq: https://s3.amazonaws.com/genomeark/species/Zeus_faber/fZeuFab8/assembly_curated/fZeuFab8.alt.cur.20260623.fasta.gz
 alt8sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -82,7 +82,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 last_raw_data: 1687784994
-last_updated: 1692198070
+last_updated: 1782172894
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;fZeuFab<br>&nbsp;&nbsp;name:&nbsp;Zeus&nbsp;faber<br>&nbsp;&nbsp;taxon_id:&nbsp;64108<br>&nbsp;&nbsp;common_name:&nbsp;John&nbsp;Dory<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Zeiformes<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Zeidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fZeuFab1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA104384836<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;fZeuFab8<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA111562156<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:<br>&nbsp;&nbsp;genome_size_method:<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2019-10-03
 mito1filesize: 5.1 KiB
@@ -144,12 +144,12 @@ mito8sizes: |
 mito8version: assembly_MT_cambridge
 name: Zeus faber
 name_: Zeus_faber
-pri8date: 2023-08-16
-pri8filesize: 223.2 MiB
-pri8length: '804731948'
+pri8date: 2026-06-23
+pri8filesize: 223.1 MiB
+pri8length: '804326546'
 pri8n50ctg: 1449431
 pri8n50scf: 34476449
-pri8seq: https://s3.amazonaws.com/genomeark/species/Zeus_faber/fZeuFab8/assembly_curated/fZeuFab8.pri.cur.20230816.fasta.gz
+pri8seq: https://s3.amazonaws.com/genomeark/species/Zeus_faber/fZeuFab8/assembly_curated/fZeuFab8.pri.cur.20260623.fasta.gz
 pri8sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -167,9 +167,9 @@ pri8sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 19 </td><td> 3.57 Mbp </td><td> 2 </td><td> 52.95 Mbp </td></tr><tr><td> 20 </td><td> 46 </td><td> 2.63 Mbp </td><td> 4 </td><td> 38.03 Mbp </td></tr><tr><td> 30 </td><td> 80 </td><td> 2.20 Mbp </td><td> 6 </td><td> 36.47 Mbp </td></tr><tr><td> 40 </td><td> 120 </td><td> 1.77 Mbp </td><td> 8 </td><td> 35.01 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 171 </td><td style="background-color:#88ff88;"> 1.45 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 34.48 Mbp </td></tr><tr><td> 60 </td><td> 232 </td><td> 1.19 Mbp </td><td> 13 </td><td> 32.89 Mbp </td></tr><tr><td> 70 </td><td> 308 </td><td> 0.95 Mbp </td><td> 15 </td><td> 32.12 Mbp </td></tr><tr><td> 80 </td><td> 409 </td><td> 0.65 Mbp </td><td> 18 </td><td> 31.31 Mbp </td></tr><tr><td> 90 </td><td> 560 </td><td> 409.28 Kbp </td><td> 20 </td><td> 28.87 Mbp </td></tr><tr><td> 100 </td><td> 1078 </td><td> 1.00 Kbp </td><td> 191 </td><td> 1.00 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 19 </td><td> 3.57 Mbp </td><td> 2 </td><td> 52.95 Mbp </td></tr><tr><td> 20 </td><td> 46 </td><td> 2.63 Mbp </td><td> 4 </td><td> 38.03 Mbp </td></tr><tr><td> 30 </td><td> 80 </td><td> 2.20 Mbp </td><td> 6 </td><td> 36.47 Mbp </td></tr><tr><td> 40 </td><td> 120 </td><td> 1.77 Mbp </td><td> 8 </td><td> 35.01 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 171 </td><td style="background-color:#88ff88;"> 1.45 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 34.48 Mbp </td></tr><tr><td> 60 </td><td> 232 </td><td> 1.19 Mbp </td><td> 13 </td><td> 32.89 Mbp </td></tr><tr><td> 70 </td><td> 308 </td><td> 0.95 Mbp </td><td> 15 </td><td> 32.12 Mbp </td></tr><tr><td> 80 </td><td> 409 </td><td> 0.65 Mbp </td><td> 18 </td><td> 31.31 Mbp </td></tr><tr><td> 90 </td><td> 559 </td><td> 412.55 Kbp </td><td> 20 </td><td> 28.87 Mbp </td></tr><tr><td> 100 </td><td> 1066 </td><td> 1.00 Kbp </td><td> 179 </td><td> 1.00 Kbp </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 1078 </th><th> 0.80 Gbp </th><th> 191 </th><th> 0.80 Gbp </th></tr>
+  <tr><th> 1.000x </th><th> 1066 </th><th> 0.80 Gbp </th><th> 179 </th><th> 0.80 Gbp </th></tr>
   </tfoot>
   </table>
 pri8version: assembly_curated

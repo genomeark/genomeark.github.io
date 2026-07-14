@@ -11,6 +11,16 @@ data_arima-1_scale: 1.8177
 data_arima_bases: 70.67 Gbp
 data_arima_bytes: 36.2 GiB
 data_arima_coverage: N/A
+data_pacbiohifi_bam-1_bases: 155.65 Gbp
+data_pacbiohifi_bam-1_bytes: 539.1 GiB
+data_pacbiohifi_bam-1_coverage: N/A
+data_pacbiohifi_bam-1_links: s3://genomeark/species/Spinus_tristis/bSpiTri1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Spinus_tristis/bSpiTri1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spinus_tristis/bSpiTri1/genomic_data/pacbio_hifi/
+data_pacbiohifi_bam-1_scale: 0.2689
+data_pacbiohifi_bam_bases: 155.65 Gbp
+data_pacbiohifi_bam_bytes: 539.1 GiB
+data_pacbiohifi_bam_coverage: N/A
 data_pacbiohifi_clr-1_bases: 1216.67 Gbp
 data_pacbiohifi_clr-1_bytes: 2.1 TiB
 data_pacbiohifi_clr-1_coverage: N/A
@@ -97,8 +107,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1711464713
-last_updated: 1772135485
+last_raw_data: 1778079579
+last_updated: 1778079579
 mds:
 - data: species:&nbsp;Spinus&nbsp;tristis<br>specimen:&nbsp;bSpiTri1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Spinus_tristis/bSpiTri1/assembly_vgp_HiC_2.0/bSpiTri1.HiC.hap1.20240426.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Spinus_tristis/bSpiTri1/assembly_vgp_HiC_2.0/bSpiTri1.HiC.hap2.20240426.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Spinus_tristis/bSpiTri1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bSpiTri1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Spinus_tristis/bSpiTri1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bSpiTri1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Spinus_tristis/bSpiTri1/assembly_vgp_HiC_2.0/evaluation/merqury/bSpiTri1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Spinus_tristis/bSpiTri1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Spinus_tristis/bSpiTri1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Spinus_tristis/bSpiTri1/genomic_data/arima/<br>mito:&nbsp;s3://genomeark/species/Spinus_tristis/bSpiTri1/assembly_MT_rockefeller/bSpiTri1.MT.20240426.fasta.gz<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy1)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bSpiTri1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT.&nbsp;The&nbsp;assembly&nbsp;was&nbsp;performed&nbsp;on&nbsp;usegalaxy&nbsp;MAIN&nbsp;server&nbsp;(vgp.usegalaxy.org).<br>
   ident: md8

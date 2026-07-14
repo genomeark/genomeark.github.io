@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 124.41 Gbp
 data_arima-1_bytes: 60.1 GiB
@@ -39,8 +39,95 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
+hpa1date: 2025-10-31
+hpa1filesize: 326.4 MiB
+hpa1length: '1279218069'
+hpa1n50ctg: 25061543
+hpa1n50scf: 83337149
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Patagioenas_speciosa/bPatSpe1/assembly_curated/bPatSpe1.hap1.cur.20251031.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 59.90 Mbp </td><td> 1 </td><td> 219.75 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 40.13 Mbp </td><td> 2 </td><td> 167.75 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 32.13 Mbp </td><td> 2 </td><td> 167.75 Mbp </td></tr><tr><td> 40 </td><td> 13 </td><td> 28.62 Mbp </td><td> 4 </td><td> 84.85 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 17 </td><td style="background-color:#88ff88;"> 25.06 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 83.34 Mbp </td></tr><tr><td> 60 </td><td> 23 </td><td> 20.78 Mbp </td><td> 7 </td><td> 71.94 Mbp </td></tr><tr><td> 70 </td><td> 30 </td><td> 16.64 Mbp </td><td> 9 </td><td> 32.75 Mbp </td></tr><tr><td> 80 </td><td> 39 </td><td> 11.29 Mbp </td><td> 13 </td><td> 24.60 Mbp </td></tr><tr><td> 90 </td><td> 57 </td><td> 3.99 Mbp </td><td> 21 </td><td> 8.91 Mbp </td></tr><tr><td> 100 </td><td> 351 </td><td> 10.24 Kbp </td><td> 208 </td><td> 10.24 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 351 </th><th> 1.28 Gbp </th><th> 208 </th><th> 1.28 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_curated
+hpb1date: 2025-10-31
+hpb1filesize: 292.2 MiB
+hpb1length: '1145453191'
+hpb1n50ctg: 19835941
+hpb1n50scf: 83092276
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Patagioenas_speciosa/bPatSpe1/assembly_curated/bPatSpe1.hap2.cur.20251031.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 54.79 Mbp </td><td> 1 </td><td> 218.86 Mbp </td></tr><tr><td> 20 </td><td> 5 </td><td> 37.68 Mbp </td><td> 2 </td><td> 167.98 Mbp </td></tr><tr><td> 30 </td><td> 8 </td><td> 31.11 Mbp </td><td> 2 </td><td> 167.98 Mbp </td></tr><tr><td> 40 </td><td> 12 </td><td> 28.94 Mbp </td><td> 3 </td><td> 123.71 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 17 </td><td style="background-color:#88ff88;"> 19.84 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 83.09 Mbp </td></tr><tr><td> 60 </td><td> 23 </td><td> 15.82 Mbp </td><td> 6 </td><td> 72.10 Mbp </td></tr><tr><td> 70 </td><td> 31 </td><td> 12.33 Mbp </td><td> 7 </td><td> 60.09 Mbp </td></tr><tr><td> 80 </td><td> 42 </td><td> 9.05 Mbp </td><td> 12 </td><td> 22.27 Mbp </td></tr><tr><td> 90 </td><td> 61 </td><td> 4.18 Mbp </td><td> 19 </td><td> 8.31 Mbp </td></tr><tr><td> 100 </td><td> 281 </td><td> 13.90 Kbp </td><td> 160 </td><td> 13.90 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 281 </th><th> 1.15 Gbp </th><th> 160 </th><th> 1.15 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_curated
 last_raw_data: 1715267192
-last_updated: 1715267192
+last_updated: 1782841714
+mito1date: 2025-10-31
+mito1filesize: 5.4 KiB
+mito1length: '17030'
+mito1n50ctg: 17030
+mito1n50scf: 17030
+mito1seq: https://s3.amazonaws.com/genomeark/species/Patagioenas_speciosa/bPatSpe1/assembly_MT_rockefeller/bPatSpe1.MT.20251031.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 17.03 Kbp </td><td> 1 </td><td> 17.03 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 17.03 Kbp </td><td> 1 </td><td> 17.03 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 17.03 Kbp </td><td> 1 </td><td> 17.03 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 17.03 Kbp </td><td> 1 </td><td> 17.03 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 17.03 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 17.03 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 17.03 Kbp </td><td> 1 </td><td> 17.03 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 17.03 Kbp </td><td> 1 </td><td> 17.03 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 17.03 Kbp </td><td> 1 </td><td> 17.03 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 17.03 Kbp </td><td> 1 </td><td> 17.03 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 17.03 Kbp </td><td> 1 </td><td> 17.03 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 17.03 Kbp </th><th> 1 </th><th> 17.03 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Patagioenas speciosa
 name_: Patagioenas_speciosa
 project: ~

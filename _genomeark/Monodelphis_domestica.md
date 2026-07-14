@@ -86,7 +86,7 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: mMonDom1:GCA_027917375.1
-genbank_pri: mMonDom1:GCA_027887165.1
+genbank_pri: mMonDom1:GCA_027887165.1 mMonDom1:GCA_027887165.2
 genome_size: 4592000000
 genome_size_display: 4.59 Gbp
 genome_size_method: GoAT

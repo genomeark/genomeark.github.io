@@ -27,16 +27,16 @@ data_pacbiohifi_bam-1_links: s3://genomeark/species/Alligator_mississippiensis/r
 data_pacbiohifi_bam-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Alligator_mississippiensis/rAllMis1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alligator_mississippiensis/rAllMis1/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-1_scale: 0.2631
-data_pacbiohifi_bam-2_bases: 96.81 Gbp
-data_pacbiohifi_bam-2_bytes: 339.1 GiB
-data_pacbiohifi_bam-2_coverage: 38.45x
+data_pacbiohifi_bam-2_bases: 112.24 Gbp
+data_pacbiohifi_bam-2_bytes: 393.0 GiB
+data_pacbiohifi_bam-2_coverage: 44.57x
 data_pacbiohifi_bam-2_links: s3://genomeark/species/Alligator_mississippiensis/rAllMis2/genomic_data/pacbio_hifi/<br>
 data_pacbiohifi_bam-2_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Alligator_mississippiensis/rAllMis2/genomic_data/pacbio_hifi/
 data_pacbiohifi_bam-2_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alligator_mississippiensis/rAllMis2/genomic_data/pacbio_hifi/
-data_pacbiohifi_bam-2_scale: 0.2659
-data_pacbiohifi_bam_bases: 371.15 Gbp
+data_pacbiohifi_bam-2_scale: 0.2660
+data_pacbiohifi_bam_bases: 386.57 Gbp
 data_pacbiohifi_bam_bytes: 1.3 TiB
-data_pacbiohifi_bam_coverage: 147.40x
+data_pacbiohifi_bam_coverage: 153.52x
 data_pacbiohifi_clr-1_bases: 1808.02 Gbp
 data_pacbiohifi_clr-1_bytes: 3.1 TiB
 data_pacbiohifi_clr-1_coverage: 718.04x
@@ -196,8 +196,8 @@ hpb2sizes: |
   </tfoot>
   </table>
 hpb2version: assembly_curated
-last_raw_data: 1717632228
-last_updated: 1772476099
+last_raw_data: 1778081548
+last_updated: 1778081548
 mds:
 - data: species:&nbsp;Sternotherus&nbsp;odoratus<br>specimen:&nbsp;rSteOdo1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>haplotype_to_curate:&nbsp;hap2<br>hap1:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/rSteOdo1.HiC.hap1.20230208.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/rSteOdo1.HiC.hap2.20230208.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/rSteOdo1_hap1__s2_heatmap.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/rSteOdo1_hap2__s2_heatmap.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/assembly_vgp_HiC_2.0/evaluation/merqury/rSteOdo1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/genomic_data/bionano/<br>hic_read_dir:&nbsp;s3://genomeark/species/Sternotherus_odoratus/rSteOdo1/genomic_data/arima/<br>pipeline:<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.16.1+galaxy4)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy0)<br>assembled_by_group:&nbsp;Rockefeller<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;rSteOdo1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;individual&nbsp;had&nbsp;bionano&nbsp;data.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;yahs.&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;was&nbsp;Arima&nbsp;kit&nbsp;2.&nbsp;The&nbsp;kmer&nbsp;spectra&nbsp;indicates&nbsp;a&nbsp;homogametic&nbsp;specimen.&nbsp;We&nbsp;are&nbsp;submitting&nbsp;haplotype&nbsp;2&nbsp;for&nbsp;curation.&nbsp;MitoHiFi&nbsp;was&nbsp;run&nbsp;on&nbsp;the&nbsp;raw&nbsp;reads,&nbsp;but&nbsp;a&nbsp;full&nbsp;mitogenome&nbsp;could&nbsp;not&nbsp;be&nbsp;recovered.&nbsp;
   ident: md5

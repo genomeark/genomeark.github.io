@@ -21,6 +21,16 @@ data_pacbiohifi_bam-1_scale: 0.2687
 data_pacbiohifi_bam_bases: 150.83 Gbp
 data_pacbiohifi_bam_bytes: 522.8 GiB
 data_pacbiohifi_bam_coverage: 117.75x
+data_pacbiohifi_clr-1_bases: 992.52 Gbp
+data_pacbiohifi_clr-1_bytes: 1.7 TiB
+data_pacbiohifi_clr-1_coverage: 774.80x
+data_pacbiohifi_clr-1_links: s3://genomeark/species/Sturnus_vulgaris/bStuVul1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_clr-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Sturnus_vulgaris/bStuVul1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sturnus_vulgaris/bStuVul1/genomic_data/pacbio_hifi/
+data_pacbiohifi_clr-1_scale: 0.5275
+data_pacbiohifi_clr_bases: 992.52 Gbp
+data_pacbiohifi_clr_bytes: 1.7 TiB
+data_pacbiohifi_clr_coverage: 774.80x
 data_pacbiohifi_fqgz-1_bases: 49.38 Gbp
 data_pacbiohifi_fqgz-1_bytes: 37.5 GiB
 data_pacbiohifi_fqgz-1_coverage: 38.55x
@@ -98,8 +108,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1755028322
-last_updated: 1755028322
+last_raw_data: 1783448991
+last_updated: 1783448991
 mds:
 - data: species:&nbsp;Sturnus&nbsp;vulgaris<br>specimen:&nbsp;bStuVul1<br>projects:&nbsp;<br>&nbsp;&nbsp;-&nbsp;vgp<br>assembled_by_group:&nbsp;Rockefeller<br>data_location:&nbsp;S3<br>release_to:&nbsp;S3<br>combine_for_curation:&nbsp;true<br>hap1:&nbsp;s3://genomeark/species/Sturnus_vulgaris/bStuVul1/assembly_vgp_HiC_2.0/bStuVul1.HiC.hap1.20240422.fasta.gz<br>hap2:&nbsp;s3://genomeark/species/Sturnus_vulgaris/bStuVul1/assembly_vgp_HiC_2.0/bStuVul1.HiC.hap2.20240422.fasta.gz<br>pretext_hap1:&nbsp;s3://genomeark/species/Sturnus_vulgaris/bStuVul1/assembly_vgp_HiC_2.0/evaluation/hap1/pretext/bStuVul1_hap1_s2.pretext<br>pretext_hap2:&nbsp;s3://genomeark/species/Sturnus_vulgaris/bStuVul1/assembly_vgp_HiC_2.0/evaluation/hap2/pretext/bStuVul1_hap2_s2.pretext<br>kmer_spectra_img:&nbsp;s3://genomeark/species/Sturnus_vulgaris/bStuVul1/assembly_vgp_HiC_2.0/evaluation/merqury/bStuVul1_png/<br>pacbio_read_dir:&nbsp;s3://genomeark/species/Sturnus_vulgaris/bStuVul1/genomic_data/pacbio_hifi/<br>pacbio_read_type:&nbsp;hifi<br>hic_read_dir:&nbsp;s3://genomeark/species/Sturnus_vulgaris/bStuVul1/genomic_data/arima/<br>bionano_cmap_dir:&nbsp;s3://genomeark/species/Sturnus_vulgaris/bStuVul1/genomic_data/bionano/<br>pipeline:&nbsp;<br>&nbsp;&nbsp;-&nbsp;hifiasm&nbsp;(0.19.8+galaxy0)<br>&nbsp;&nbsp;-&nbsp;solve&nbsp;(3.7)<br>&nbsp;&nbsp;-&nbsp;yahs&nbsp;(1.2a.2+galaxy1)<br>notes:&nbsp;This&nbsp;was&nbsp;a&nbsp;Hifiasm-HiC&nbsp;assembly&nbsp;of&nbsp;bStuVul1,&nbsp;resulting&nbsp;in&nbsp;two&nbsp;complete&nbsp;haplotypes.&nbsp;This&nbsp;sample&nbsp;did&nbsp;have&nbsp;Bionano.&nbsp;HiC&nbsp;scaffolding&nbsp;was&nbsp;performed&nbsp;with&nbsp;YaHS.&nbsp;&nbsp;The&nbsp;HiC&nbsp;prep&nbsp;kit&nbsp;used&nbsp;was&nbsp;Swift-IDT&nbsp;library&nbsp;prep.&nbsp;
   ident: md6

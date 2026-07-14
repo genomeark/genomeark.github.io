@@ -264,8 +264,8 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genbank_alt: bTaeGut1:GCA_003957525.2 bTaeGut2:GCA_009859025.1
 genbank_mat: bTaeGut2:GCA_008822115.3 bTaeGut7:GCA_048771995.1
 genbank_pat: bTaeGut2:GCA_008822125.1 bTaeGut7:GCA_048772025.1
-genbank_pri: bTaeGut1:GCA_003957565.4 bTaeGut2:GCA_009859065.2 bTaeGut2:GCA_051427915.1
-  bTaeGut2:GCA_051428105.1
+genbank_pri: bTaeGut10:GCA_055505145.1 bTaeGut1:GCA_003957565.4 bTaeGut2:GCA_009859065.2
+  bTaeGut2:GCA_051427915.1 bTaeGut2:GCA_051428105.1
 genome_size: 1035611271
 genome_size_display: 1.04 Gbp
 genome_size_method: ''

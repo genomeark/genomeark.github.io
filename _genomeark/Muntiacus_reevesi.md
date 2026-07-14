@@ -55,13 +55,13 @@ data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
-genbank_alt: mMunRee1:GCA_963930665.1
-genbank_pri: mMunRee1:GCA_963930625.1
+genbank_alt: mMunRee1:GCA_963930665.2
+genbank_pri: mMunRee1:GCA_963930625.1 mMunRee1:GCA_963930625.2
 genome_size: 2924220000
 genome_size_display: 2.92 Gbp
 genome_size_method: GoaT
 last_raw_data: 1702666833
-last_updated: 1768439172
+last_updated: 1783355768
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mMunRee<br>&nbsp;&nbsp;name:&nbsp;Muntiacus&nbsp;reevesi<br>&nbsp;&nbsp;taxon_id:&nbsp;9886<br>&nbsp;&nbsp;common_name:&nbsp;Reeves'&nbsp;muntjac<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Artiodactyla<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Cervidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMunRee1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110690972<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;mMunRee2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA110690973<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;genome_size:&nbsp;2924220000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;vgp&nbsp;]<br>
 mito1date: 2023-12-19
 mito1filesize: 5.2 KiB
@@ -123,6 +123,35 @@ pri1sizes: |
   </tfoot>
   </table>
 pri1version: assembly_curated
+pri3date: 2026-07-06
+pri3filesize: 829.4 MiB
+pri3length: '2900647661'
+pri3n50ctg: 130459778
+pri3n50scf: 130459778
+pri3seq: https://s3.amazonaws.com/genomeark/species/Muntiacus_reevesi/mMunRee3/assembly_curated/mMunRee3.pri.cur.20260706.fasta.gz
+pri3sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 287.23 Mbp </td><td> 2 </td><td> 287.23 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 272.55 Mbp </td><td> 3 </td><td> 272.55 Mbp </td></tr><tr><td> 30 </td><td> 4 </td><td> 188.44 Mbp </td><td> 4 </td><td> 188.44 Mbp </td></tr><tr><td> 40 </td><td> 5 </td><td> 169.88 Mbp </td><td> 5 </td><td> 169.88 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 7 </td><td style="background-color:#88ff88;"> 130.46 Mbp </td><td> 7 </td><td style="background-color:#88ff88;"> 130.46 Mbp </td></tr><tr><td> 60 </td><td> 10 </td><td> 108.53 Mbp </td><td> 10 </td><td> 108.53 Mbp </td></tr><tr><td> 70 </td><td> 13 </td><td> 94.72 Mbp </td><td> 13 </td><td> 94.72 Mbp </td></tr><tr><td> 80 </td><td> 16 </td><td> 79.80 Mbp </td><td> 16 </td><td> 79.80 Mbp </td></tr><tr><td> 90 </td><td> 20 </td><td> 72.14 Mbp </td><td> 20 </td><td> 72.14 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.992x </th><th> 25 </th><th> 2.90 Gbp </th><th> 25 </th><th> 2.90 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri3version: assembly_curated
 project:
 - vgp
 short_name: mMunRee

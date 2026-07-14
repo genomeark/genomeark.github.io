@@ -1,0 +1,1 @@
+../_genomeark/Cynoscion_nebulosus.md

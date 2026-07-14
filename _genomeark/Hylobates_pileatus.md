@@ -1,5 +1,63 @@
 ---
-assembly_status: <em style="color:orangered">Draft</em>
+alt1date: 2026-04-30
+alt1filesize: 724.9 MiB
+alt1length: '2697023518'
+alt1n50ctg: '117304773'
+alt1n50scf: '123527212'
+alt1seq: https://s3.amazonaws.com/genomeark/species/Hylobates_pileatus/mHylPil1/assembly_curated/mHylPil1.alt.cur.20260430.fasta.gz
+alt1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 191.29 Mbp </td><td> 2 </td><td> 191.29 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 181.46 Mbp </td><td> 4 </td><td> 181.46 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 163.57 Mbp </td><td> 5 </td><td> 163.57 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 128.47 Mbp </td><td> 7 </td><td> 143.03 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td> 117.30 Mbp </td><td> 10 </td><td> 123.53 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 109.53 Mbp </td><td> 13 </td><td> 112.09 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 91.73 Mbp </td><td> 15 </td><td> 109.53 Mbp </td></tr><tr><td> 80 </td><td> 21 </td><td> 53.92 Mbp </td><td> 19 </td><td> 83.47 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.851x </th><th> 31 </th><th> 2.70 Gbp </th><th> 26 </th><th> 2.70 Gbp </th></tr>
+  </tfoot>
+  </table>
+alt1version: assembly_curated
+alt2date: 2026-04-30
+alt2filesize: 763.9 MiB
+alt2length: '2841786227'
+alt2n50ctg: '128730821'
+alt2n50scf: '128730821'
+alt2seq: https://s3.amazonaws.com/genomeark/species/Hylobates_pileatus/mHylPil2/assembly_curated/mHylPil2.alt.cur.20260430.fasta.gz
+alt2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 191.33 Mbp </td><td> 2 </td><td> 191.33 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 180.38 Mbp </td><td> 4 </td><td> 180.38 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 162.91 Mbp </td><td> 5 </td><td> 162.91 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 144.71 Mbp </td><td> 7 </td><td> 144.71 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td> 128.73 Mbp </td><td> 10 </td><td> 128.73 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 118.41 Mbp </td><td> 12 </td><td> 118.41 Mbp </td></tr><tr><td> 70 </td><td> 15 </td><td> 110.80 Mbp </td><td> 15 </td><td> 111.69 Mbp </td></tr><tr><td> 80 </td><td> 19 </td><td> 60.61 Mbp </td><td> 18 </td><td> 91.16 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.896x </th><th> 36 </th><th> 2.84 Gbp </th><th> 33 </th><th> 2.84 Gbp </th></tr>
+  </tfoot>
+  </table>
+alt2version: assembly_curated
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: Pileated Gibbon
 data_arima-2_bases: 317.89 Gbp
 data_arima-2_bytes: 153.2 GiB
@@ -99,12 +157,12 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 3170000000
 genome_size_display: 3.17 Gbp
 genome_size_method: Genomes on a Tree (GoaT) estimate
-hpa1date: 2025-04-04
-hpa1filesize: 659.1 MiB
-hpa1length: '2708428703'
-hpa1n50ctg: 118242298
-hpa1n50scf: 131570539
-hpa1seq: https://s3.amazonaws.com/genomeark/species/Hylobates_pileatus/mHylPil1/assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1/mHylPil1.HiC.hap1.20250404.fasta.gz
+hpa1date: 2026-04-30
+hpa1filesize: 788.5 MiB
+hpa1length: '2712809924'
+hpa1n50ctg: 118246796
+hpa1n50scf: 127384446
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Hylobates_pileatus/mHylPil1/assembly_curated/mHylPil1.hap1.cur.20260430.fasta.gz
 hpa1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -122,18 +180,18 @@ hpa1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 191.67 Mbp </td><td> 2 </td><td> 191.67 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 185.25 Mbp </td><td> 3 </td><td> 185.25 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 163.57 Mbp </td><td> 5 </td><td> 163.57 Mbp </td></tr><tr><td> 40 </td><td> 6 </td><td> 160.78 Mbp </td><td> 6 </td><td> 160.78 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 8 </td><td style="background-color:#88ff88;"> 118.24 Mbp </td><td> 8 </td><td style="background-color:#88ff88;"> 131.57 Mbp </td></tr><tr><td> 60 </td><td> 11 </td><td> 111.43 Mbp </td><td> 10 </td><td> 118.24 Mbp </td></tr><tr><td> 70 </td><td> 13 </td><td> 91.74 Mbp </td><td> 13 </td><td> 111.43 Mbp </td></tr><tr><td> 80 </td><td> 17 </td><td> 66.52 Mbp </td><td> 15 </td><td> 94.88 Mbp </td></tr><tr><td> 90 </td><td> 21 </td><td> 53.03 Mbp </td><td> 18 </td><td> 85.98 Mbp </td></tr><tr><td> 100 </td><td> 44 </td><td> 229.64 Kbp </td><td> 34 </td><td> 229.64 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 191.29 Mbp </td><td> 2 </td><td> 191.29 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 180.50 Mbp </td><td> 4 </td><td> 180.50 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 163.56 Mbp </td><td> 5 </td><td> 163.56 Mbp </td></tr><tr><td> 40 </td><td> 8 </td><td> 128.60 Mbp </td><td> 7 </td><td> 143.03 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 118.25 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 127.38 Mbp </td></tr><tr><td> 60 </td><td> 13 </td><td> 111.43 Mbp </td><td> 13 </td><td> 112.66 Mbp </td></tr><tr><td> 70 </td><td> 16 </td><td> 93.72 Mbp </td><td> 15 </td><td> 109.53 Mbp </td></tr><tr><td> 80 </td><td> 20 </td><td> 59.55 Mbp </td><td> 19 </td><td> 83.47 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 44 </th><th> 2.71 Gbp </th><th> 34 </th><th> 2.71 Gbp </th></tr>
+  <tr><th> 0.856x </th><th> 29 </th><th> 2.71 Gbp </th><th> 25 </th><th> 2.71 Gbp </th></tr>
   </tfoot>
   </table>
-hpa1version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
-hpa2date: 2025-04-04
-hpa2filesize: 692.0 MiB
-hpa2length: '2839005682'
-hpa2n50ctg: 131360893
-hpa2n50scf: 131360893
-hpa2seq: https://s3.amazonaws.com/genomeark/species/Hylobates_pileatus/mHylPil2/assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1/mHylPil2.HiC.hap1.20250404.fasta.gz
+hpa1version: assembly_curated
+hpa2date: 2026-04-30
+hpa2filesize: 826.7 MiB
+hpa2length: '2843398571'
+hpa2n50ctg: 128730821
+hpa2n50scf: 128730821
+hpa2seq: https://s3.amazonaws.com/genomeark/species/Hylobates_pileatus/mHylPil2/assembly_curated/mHylPil2.hap1.cur.20260430.fasta.gz
 hpa2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -151,18 +209,18 @@ hpa2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 185.16 Mbp </td><td> 2 </td><td> 191.32 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 163.58 Mbp </td><td> 3 </td><td> 185.16 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 160.45 Mbp </td><td> 5 </td><td> 163.58 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 144.17 Mbp </td><td> 7 </td><td> 144.17 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 131.36 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 131.36 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 118.41 Mbp </td><td> 11 </td><td> 125.36 Mbp </td></tr><tr><td> 70 </td><td> 14 </td><td> 112.57 Mbp </td><td> 13 </td><td> 115.54 Mbp </td></tr><tr><td> 80 </td><td> 17 </td><td> 93.37 Mbp </td><td> 16 </td><td> 110.80 Mbp </td></tr><tr><td> 90 </td><td> 20 </td><td> 60.68 Mbp </td><td> 19 </td><td> 88.50 Mbp </td></tr><tr><td> 100 </td><td> 27 </td><td> 318.45 Kbp </td><td> 22 </td><td> 59.49 Mbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 191.71 Mbp </td><td> 2 </td><td> 191.71 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 180.52 Mbp </td><td> 4 </td><td> 180.52 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 162.91 Mbp </td><td> 5 </td><td> 162.91 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 144.71 Mbp </td><td> 7 </td><td> 144.71 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 128.73 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 128.73 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 118.41 Mbp </td><td> 12 </td><td> 118.41 Mbp </td></tr><tr><td> 70 </td><td> 15 </td><td> 109.57 Mbp </td><td> 15 </td><td> 111.69 Mbp </td></tr><tr><td> 80 </td><td> 19 </td><td> 60.68 Mbp </td><td> 18 </td><td> 91.48 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 27 </th><th> 2.84 Gbp </th><th> 22 </th><th> 2.84 Gbp </th></tr>
+  <tr><th> 0.897x </th><th> 35 </th><th> 2.84 Gbp </th><th> 32 </th><th> 2.84 Gbp </th></tr>
   </tfoot>
   </table>
-hpa2version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
-hpb1date: 2025-04-04
-hpb1filesize: 694.1 MiB
-hpb1length: '2847638874'
-hpb1n50ctg: 114176156
-hpb1n50scf: 131496738
-hpb1seq: https://s3.amazonaws.com/genomeark/species/Hylobates_pileatus/mHylPil1/assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1/mHylPil1.HiC.hap2.20250404.fasta.gz
+hpa2version: assembly_curated
+hpb1date: 2026-04-30
+hpb1filesize: 827.3 MiB
+hpb1length: '2844071862'
+hpb1n50ctg: 128473192
+hpb1n50scf: 128473192
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Hylobates_pileatus/mHylPil1/assembly_curated/mHylPil1.hap2.cur.20260430.fasta.gz
 hpb1sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -180,18 +238,18 @@ hpb1sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 191.28 Mbp </td><td> 2 </td><td> 191.28 Mbp </td></tr><tr><td> 20 </td><td> 3 </td><td> 184.92 Mbp </td><td> 3 </td><td> 184.92 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 163.55 Mbp </td><td> 5 </td><td> 163.55 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 144.70 Mbp </td><td> 7 </td><td> 152.20 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 114.18 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 131.50 Mbp </td></tr><tr><td> 60 </td><td> 11 </td><td> 109.52 Mbp </td><td> 11 </td><td> 122.82 Mbp </td></tr><tr><td> 70 </td><td> 14 </td><td> 91.16 Mbp </td><td> 13 </td><td> 114.18 Mbp </td></tr><tr><td> 80 </td><td> 18 </td><td> 75.71 Mbp </td><td> 16 </td><td> 109.52 Mbp </td></tr><tr><td> 90 </td><td> 23 </td><td> 52.93 Mbp </td><td> 19 </td><td> 83.44 Mbp </td></tr><tr><td> 100 </td><td> 32 </td><td> 234.03 Kbp </td><td> 23 </td><td> 38.21 Mbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 191.68 Mbp </td><td> 2 </td><td> 191.68 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 181.46 Mbp </td><td> 4 </td><td> 181.46 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 163.57 Mbp </td><td> 5 </td><td> 163.57 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 144.71 Mbp </td><td> 7 </td><td> 144.71 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 128.47 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 128.47 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 117.30 Mbp </td><td> 12 </td><td> 117.30 Mbp </td></tr><tr><td> 70 </td><td> 15 </td><td> 109.92 Mbp </td><td> 15 </td><td> 111.79 Mbp </td></tr><tr><td> 80 </td><td> 19 </td><td> 60.10 Mbp </td><td> 18 </td><td> 91.16 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 32 </th><th> 2.85 Gbp </th><th> 23 </th><th> 2.85 Gbp </th></tr>
+  <tr><th> 0.897x </th><th> 32 </th><th> 2.84 Gbp </th><th> 29 </th><th> 2.84 Gbp </th></tr>
   </tfoot>
   </table>
-hpb1version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
-hpb2date: 2025-04-04
-hpb2filesize: 692.7 MiB
-hpb2length: '2841893260'
-hpb2n50ctg: 131438842
-hpb2n50scf: 131438842
-hpb2seq: https://s3.amazonaws.com/genomeark/species/Hylobates_pileatus/mHylPil2/assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1/mHylPil2.HiC.hap2.20250404.fasta.gz
+hpb1version: assembly_curated
+hpb2date: 2026-04-30
+hpb2filesize: 826.2 MiB
+hpb2length: '2838394485'
+hpb2n50ctg: 128495777
+hpb2n50scf: 128495777
+hpb2seq: https://s3.amazonaws.com/genomeark/species/Hylobates_pileatus/mHylPil2/assembly_curated/mHylPil2.hap2.cur.20260430.fasta.gz
 hpb2sizes: |
   <table class="sequence-sizes-table">
   <thead>
@@ -209,17 +267,133 @@ hpb2sizes: |
   </tr>
   </thead>
   <tbody>
-  <tr><td> 10 </td><td> 2 </td><td> 185.32 Mbp </td><td> 2 </td><td> 191.70 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 162.90 Mbp </td><td> 3 </td><td> 185.32 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 160.79 Mbp </td><td> 5 </td><td> 162.90 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 144.71 Mbp </td><td> 7 </td><td> 144.71 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 9 </td><td style="background-color:#88ff88;"> 131.44 Mbp </td><td> 9 </td><td style="background-color:#88ff88;"> 131.44 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 118.19 Mbp </td><td> 11 </td><td> 123.82 Mbp </td></tr><tr><td> 70 </td><td> 14 </td><td> 112.10 Mbp </td><td> 13 </td><td> 114.17 Mbp </td></tr><tr><td> 80 </td><td> 17 </td><td> 95.69 Mbp </td><td> 16 </td><td> 109.57 Mbp </td></tr><tr><td> 90 </td><td> 20 </td><td> 83.33 Mbp </td><td> 19 </td><td> 89.05 Mbp </td></tr><tr><td> 100 </td><td> 25 </td><td> 130.95 Kbp </td><td> 23 </td><td> 130.95 Kbp </td></tr></tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 191.33 Mbp </td><td> 2 </td><td> 191.33 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 180.38 Mbp </td><td> 4 </td><td> 180.38 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 163.59 Mbp </td><td> 5 </td><td> 163.59 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 144.17 Mbp </td><td> 7 </td><td> 144.17 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 128.50 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 128.50 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 118.19 Mbp </td><td> 12 </td><td> 118.19 Mbp </td></tr><tr><td> 70 </td><td> 15 </td><td> 110.80 Mbp </td><td> 15 </td><td> 112.11 Mbp </td></tr><tr><td> 80 </td><td> 19 </td><td> 60.61 Mbp </td><td> 18 </td><td> 91.16 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
   <tfoot>
-  <tr><th> 1.000x </th><th> 25 </th><th> 2.84 Gbp </th><th> 23 </th><th> 2.84 Gbp </th></tr>
+  <tr><th> 0.895x </th><th> 31 </th><th> 2.84 Gbp </th><th> 28 </th><th> 2.84 Gbp </th></tr>
   </tfoot>
   </table>
-hpb2version: assembly_verkko_HIFIASM-corrected-ONT_ONT_Hi-C_v2.2.1
+hpb2version: assembly_curated
 last_raw_data: 1758119082
-last_updated: 1758119082
+last_updated: 1782308927
 metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;mHylPil<br>&nbsp;&nbsp;name:&nbsp;Hylobates&nbsp;pileatus<br>&nbsp;&nbsp;taxon_id:&nbsp;9589<br>&nbsp;&nbsp;common_name:&nbsp;Pileated&nbsp;Gibbon<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primates<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Hylobatidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mHylPil1<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Domino<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HP120<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;male<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_location:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_type:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Domino&nbsp;is&nbsp;a&nbsp;male&nbsp;Pileated&nbsp;Gibbon&nbsp;and&nbsp;his&nbsp;genome&nbsp;is&nbsp;being<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sequenced&nbsp;as&nbsp;part&nbsp;of&nbsp;a&nbsp;T2T&nbsp;effort.<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_type:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;isolation_source:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;age:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;collection_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;short_name:&nbsp;mHylPil2<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Iszie<br>&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;alt_ids:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;HP185<br>&nbsp;&nbsp;&nbsp;&nbsp;sex:&nbsp;female<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_location:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;birth_type:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;mother:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;father:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;description:&nbsp;><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iszie&nbsp;is&nbsp;a&nbsp;female&nbsp;Pileated&nbsp;Gibbon&nbsp;and&nbsp;her&nbsp;genome&nbsp;is&nbsp;being<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sequenced&nbsp;as&nbsp;part&nbsp;of&nbsp;a&nbsp;T2T&nbsp;effort.<br>&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;samples:<br>&nbsp;&nbsp;&nbsp;&nbsp;-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_type:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tissue:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;isolation_source:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;age:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sample_biosample_id:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;collection_date:&nbsp;null<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provider:&nbsp;Lucia&nbsp;Carbone,&nbsp;Oregon&nbsp;Health&nbsp;&&nbsp;Science&nbsp;University<br>&nbsp;&nbsp;&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>&nbsp;&nbsp;genome_size:&nbsp;3170000000<br>&nbsp;&nbsp;genome_size_method:&nbsp;Genomes&nbsp;on&nbsp;a&nbsp;Tree&nbsp;(GoaT)&nbsp;estimate<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;t2t&nbsp;]<br>
+mito1date: 2026-04-30
+mito1filesize: 5.3 KiB
+mito1length: '16501'
+mito1n50ctg: 0
+mito1n50scf: 0
+mito1seq: https://s3.amazonaws.com/genomeark/species/Hylobates_pileatus/mHylPil1/assembly_curated/mHylPil1.MT.cur.20260430.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.50 Kbp </th><th> 1 </th><th> 16.50 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_curated
+mito2date: 2026-04-30
+mito2filesize: 5.2 KiB
+mito2length: '16506'
+mito2n50ctg: 0
+mito2n50scf: 0
+mito2seq: https://s3.amazonaws.com/genomeark/species/Hylobates_pileatus/mHylPil2/assembly_curated/mHylPil2.MT.cur.20260430.fasta.gz
+mito2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 20 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 30 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 40 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 0 </td><td style="background-color:#ff8888;">  </td><td> 0 </td><td style="background-color:#ff8888;">  </td></tr><tr><td> 60 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 70 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 80 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.000x </th><th> 1 </th><th> 16.51 Kbp </th><th> 1 </th><th> 16.51 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito2version: assembly_curated
 name: Hylobates pileatus
 name_: Hylobates_pileatus
+pri1date: 2026-04-30
+pri1filesize: 768.7 MiB
+pri1length: '2859534531'
+pri1n50ctg: 128600076
+pri1n50scf: 128600076
+pri1seq: https://s3.amazonaws.com/genomeark/species/Hylobates_pileatus/mHylPil1/assembly_curated/mHylPil1.pri.20260430.fasta.gz
+pri1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 191.68 Mbp </td><td> 2 </td><td> 191.68 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 180.50 Mbp </td><td> 4 </td><td> 180.50 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 163.56 Mbp </td><td> 5 </td><td> 163.56 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 144.71 Mbp </td><td> 7 </td><td> 144.71 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 128.60 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 128.60 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 118.25 Mbp </td><td> 12 </td><td> 118.25 Mbp </td></tr><tr><td> 70 </td><td> 15 </td><td> 111.43 Mbp </td><td> 15 </td><td> 111.43 Mbp </td></tr><tr><td> 80 </td><td> 18 </td><td> 91.16 Mbp </td><td> 18 </td><td> 91.16 Mbp </td></tr><tr><td> 90 </td><td> 24 </td><td> 10.84 Mbp </td><td> 23 </td><td> 10.84 Mbp </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.902x </th><th> 27 </th><th> 2.86 Gbp </th><th> 25 </th><th> 2.86 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri1version: assembly_curated
+pri2date: 2026-04-30
+pri2filesize: 764.4 MiB
+pri2length: '2839683217'
+pri2n50ctg: 128495777
+pri2n50scf: 128495777
+pri2seq: https://s3.amazonaws.com/genomeark/species/Hylobates_pileatus/mHylPil2/assembly_curated/mHylPil2.pri.20260430.fasta.gz
+pri2sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 2 </td><td> 191.71 Mbp </td><td> 2 </td><td> 191.71 Mbp </td></tr><tr><td> 20 </td><td> 4 </td><td> 180.52 Mbp </td><td> 4 </td><td> 180.52 Mbp </td></tr><tr><td> 30 </td><td> 5 </td><td> 163.59 Mbp </td><td> 5 </td><td> 163.59 Mbp </td></tr><tr><td> 40 </td><td> 7 </td><td> 144.17 Mbp </td><td> 7 </td><td> 144.17 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 10 </td><td style="background-color:#88ff88;"> 128.50 Mbp </td><td> 10 </td><td style="background-color:#88ff88;"> 128.50 Mbp </td></tr><tr><td> 60 </td><td> 12 </td><td> 118.19 Mbp </td><td> 12 </td><td> 118.19 Mbp </td></tr><tr><td> 70 </td><td> 15 </td><td> 109.57 Mbp </td><td> 15 </td><td> 112.11 Mbp </td></tr><tr><td> 80 </td><td> 19 </td><td> 60.68 Mbp </td><td> 18 </td><td> 91.48 Mbp </td></tr><tr><td> 90 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr><tr><td> 100 </td><td> 0 </td><td>  </td><td> 0 </td><td>  </td></tr></tbody>
+  <tfoot>
+  <tr><th> 0.896x </th><th> 27 </th><th> 2.84 Gbp </th><th> 24 </th><th> 2.84 Gbp </th></tr>
+  </tfoot>
+  </table>
+pri2version: assembly_curated
 project:
 - t2t
 short_name: mHylPil

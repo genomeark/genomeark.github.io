@@ -1,5 +1,5 @@
 ---
-assembly_status: <em style="color:maroon">No assembly</em>
+assembly_status: <em style="color:forestgreen">Curated</em>
 common_name: ''
 data_arima-1_bases: 133.46 Gbp
 data_arima-1_bytes: 63.4 GiB
@@ -39,8 +39,95 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
 genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
+hpa1date: 2025-10-31
+hpa1filesize: 323.1 MiB
+hpa1length: '1250691242'
+hpa1n50ctg: 21056306
+hpa1n50scf: 78834105
+hpa1seq: https://s3.amazonaws.com/genomeark/species/Zenaida_meloda/bZenMel1/assembly_curated/bZenMel1.hap1.cur.20251031.fasta.gz
+hpa1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 43.86 Mbp </td><td> 1 </td><td> 214.60 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 36.93 Mbp </td><td> 2 </td><td> 162.87 Mbp </td></tr><tr><td> 30 </td><td> 9 </td><td> 34.15 Mbp </td><td> 2 </td><td> 162.87 Mbp </td></tr><tr><td> 40 </td><td> 13 </td><td> 26.22 Mbp </td><td> 4 </td><td> 82.26 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 19 </td><td style="background-color:#88ff88;"> 21.06 Mbp </td><td> 5 </td><td style="background-color:#88ff88;"> 78.83 Mbp </td></tr><tr><td> 60 </td><td> 25 </td><td> 14.45 Mbp </td><td> 7 </td><td> 44.69 Mbp </td></tr><tr><td> 70 </td><td> 35 </td><td> 11.64 Mbp </td><td> 10 </td><td> 34.77 Mbp </td></tr><tr><td> 80 </td><td> 51 </td><td> 6.96 Mbp </td><td> 14 </td><td> 26.22 Mbp </td></tr><tr><td> 90 </td><td> 75 </td><td> 3.13 Mbp </td><td> 21 </td><td> 12.55 Mbp </td></tr><tr><td> 100 </td><td> 676 </td><td> 5.28 Kbp </td><td> 526 </td><td> 5.28 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 676 </th><th> 1.25 Gbp </th><th> 526 </th><th> 1.25 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpa1version: assembly_curated
+hpb1date: 2025-10-31
+hpb1filesize: 294.7 MiB
+hpb1length: '1138102905'
+hpb1n50ctg: 20799550
+hpb1n50scf: 78836507
+hpb1seq: https://s3.amazonaws.com/genomeark/species/Zenaida_meloda/bZenMel1/assembly_curated/bZenMel1.hap2.cur.20251031.fasta.gz
+hpb1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 3 </td><td> 42.05 Mbp </td><td> 1 </td><td> 213.34 Mbp </td></tr><tr><td> 20 </td><td> 6 </td><td> 34.84 Mbp </td><td> 2 </td><td> 163.61 Mbp </td></tr><tr><td> 30 </td><td> 10 </td><td> 27.04 Mbp </td><td> 2 </td><td> 163.61 Mbp </td></tr><tr><td> 40 </td><td> 14 </td><td> 23.16 Mbp </td><td> 3 </td><td> 121.54 Mbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 19 </td><td style="background-color:#88ff88;"> 20.80 Mbp </td><td> 4 </td><td style="background-color:#88ff88;"> 78.84 Mbp </td></tr><tr><td> 60 </td><td> 25 </td><td> 17.16 Mbp </td><td> 6 </td><td> 45.98 Mbp </td></tr><tr><td> 70 </td><td> 33 </td><td> 13.70 Mbp </td><td> 10 </td><td> 26.95 Mbp </td></tr><tr><td> 80 </td><td> 44 </td><td> 7.27 Mbp </td><td> 14 </td><td> 21.57 Mbp </td></tr><tr><td> 90 </td><td> 68 </td><td> 2.72 Mbp </td><td> 22 </td><td> 7.27 Mbp </td></tr><tr><td> 100 </td><td> 707 </td><td> 7.60 Kbp </td><td> 590 </td><td> 7.60 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 707 </th><th> 1.14 Gbp </th><th> 590 </th><th> 1.14 Gbp </th></tr>
+  </tfoot>
+  </table>
+hpb1version: assembly_curated
 last_raw_data: 1715285687
-last_updated: 1715285687
+last_updated: 1782929681
+mito1date: 2026-10-31
+mito1filesize: 5.5 KiB
+mito1length: '18012'
+mito1n50ctg: 18012
+mito1n50scf: 18012
+mito1seq: https://s3.amazonaws.com/genomeark/species/Zenaida_meloda/bZenMel1/assembly_MT_rockefeller/bZenMel1.MT.20261031.fasta.gz
+mito1sizes: |
+  <table class="sequence-sizes-table">
+  <thead>
+  <tr>
+  <th></th>
+  <th colspan=2 align=center>Contigs</th>
+  <th colspan=2 align=center>Scaffolds</th>
+  </tr>
+  <tr>
+  <th>NG</th>
+  <th>LG</th>
+  <th>Len</th>
+  <th>LG</th>
+  <th>Len</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr><td> 10 </td><td> 1 </td><td> 18.01 Kbp </td><td> 1 </td><td> 18.01 Kbp </td></tr><tr><td> 20 </td><td> 1 </td><td> 18.01 Kbp </td><td> 1 </td><td> 18.01 Kbp </td></tr><tr><td> 30 </td><td> 1 </td><td> 18.01 Kbp </td><td> 1 </td><td> 18.01 Kbp </td></tr><tr><td> 40 </td><td> 1 </td><td> 18.01 Kbp </td><td> 1 </td><td> 18.01 Kbp </td></tr><tr style="background-color:#cccccc;"><td> 50 </td><td> 1 </td><td style="background-color:#ff8888;"> 18.01 Kbp </td><td> 1 </td><td style="background-color:#ff8888;"> 18.01 Kbp </td></tr><tr><td> 60 </td><td> 1 </td><td> 18.01 Kbp </td><td> 1 </td><td> 18.01 Kbp </td></tr><tr><td> 70 </td><td> 1 </td><td> 18.01 Kbp </td><td> 1 </td><td> 18.01 Kbp </td></tr><tr><td> 80 </td><td> 1 </td><td> 18.01 Kbp </td><td> 1 </td><td> 18.01 Kbp </td></tr><tr><td> 90 </td><td> 1 </td><td> 18.01 Kbp </td><td> 1 </td><td> 18.01 Kbp </td></tr><tr><td> 100 </td><td> 1 </td><td> 18.01 Kbp </td><td> 1 </td><td> 18.01 Kbp </td></tr></tbody>
+  <tfoot>
+  <tr><th> 1.000x </th><th> 1 </th><th> 18.01 Kbp </th><th> 1 </th><th> 18.01 Kbp </th></tr>
+  </tfoot>
+  </table>
+mito1version: assembly_MT_rockefeller
 name: Zenaida meloda
 name_: Zenaida_meloda
 project: ~

@@ -88,7 +88,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1771599019
-last_updated: 1775750064
+last_updated: 1777924465
 name: Pseudacris triseriata
 name_: Pseudacris_triseriata
 project: ~

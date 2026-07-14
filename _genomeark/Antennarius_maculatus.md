@@ -77,7 +77,7 @@ data_use_text: Samples and data come from a variety of sources. To support fair 
   productive use of this data, please abide by the <a href="https://genome10k.soe.ucsc.edu/data-use-policies/">Data
   Use Policy</a> and contact Erich D. Jarvis, ejarvis@rockefeller.edu, with any questions.
 genbank_alt: fAntMac1:GCA_013347815.1
-genbank_pri: fAntMac1:GCA_013358685.1
+genbank_pri: fAntMac1:GCA_013358685.2
 genome_size: 604861782
 genome_size_display: 0.60 Gbp
 genome_size_method: meryl
