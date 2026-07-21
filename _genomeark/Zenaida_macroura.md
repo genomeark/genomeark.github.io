@@ -40,7 +40,7 @@ genome_size: 0
 genome_size_display: ''
 genome_size_method: ''
 hpa1date: 2025-10-31
-hpa1filesize: 310.4 MiB
+hpa1filesize: 342.7 MiB
 hpa1length: '1206396401'
 hpa1n50ctg: 23131870
 hpa1n50scf: 78981422
@@ -98,7 +98,7 @@ hpb1sizes: |
   </table>
 hpb1version: assembly_curated
 last_raw_data: 1715278179
-last_updated: 1782929769
+last_updated: 1784557501
 mito1date: 2026-10-31
 mito1filesize: 4.5 KiB
 mito1length: '16790'

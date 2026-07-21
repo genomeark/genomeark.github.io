@@ -21,8 +21,16 @@ data_pacbiohifi_bam-1_scale: 0.2669
 data_pacbiohifi_bam_bases: 102.85 Gbp
 data_pacbiohifi_bam_bytes: 358.9 GiB
 data_pacbiohifi_bam_coverage: N/A
-data_pacbiohifi_fqgz-1_bases: '101529864640'
-data_pacbiohifi_fqgz-1_scale: '1.1376'
+data_pacbiohifi_fqgz-1_bases: 101.53 Gbp
+data_pacbiohifi_fqgz-1_bytes: 83.1 GiB
+data_pacbiohifi_fqgz-1_coverage: N/A
+data_pacbiohifi_fqgz-1_links: s3://genomeark/species/Eumops_nanus/mEumNan1/genomic_data/pacbio_hifi/<br>
+data_pacbiohifi_fqgz-1_s3gui: https://42basepairs.com/browse/s3/genomeark/species/Eumops_nanus/mEumNan1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_s3url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Eumops_nanus/mEumNan1/genomic_data/pacbio_hifi/
+data_pacbiohifi_fqgz-1_scale: 1.1376
+data_pacbiohifi_fqgz_bases: 101.53 Gbp
+data_pacbiohifi_fqgz_bytes: 83.1 GiB
+data_pacbiohifi_fqgz_coverage: N/A
 data_status: '<em style="color:forestgreen">PacBio HiFi</em> ::: <em style="color:forestgreen">Arima</em>'
 data_use_source: from-default
 data_use_text: Samples and data come from a variety of sources. To support fair and
@@ -89,8 +97,8 @@ hpb1sizes: |
   </tfoot>
   </table>
 hpb1version: assembly_curated
-last_raw_data: 1782419983
-last_updated: 1782419983
+last_raw_data: 1784047892
+last_updated: 1784047892
 mito1date: 2025-08-19
 mito1filesize: 5.3 KiB
 mito1length: '17067'
